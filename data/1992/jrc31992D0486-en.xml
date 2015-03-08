@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31992D0486-en" n="31992D0486" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992D0486 English</title>
+        <title>92/486/EEC: Commission Decision of 25 September 1992 establishing the form of cooperation between the Animo host centre and Member States</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0486:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0486:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992D0486-en." lang="en">
+    <body>
+      <head n="1">92/486/EEC: Commission Decision of 25 September 1992 establishing the form of cooperation between the Animo host centre and Member States</head>
+      <p n="2">COMMISSION DECISION of 25 September 1992 establishing the form of cooperation between the Animo host centre and Member States (92/486/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning the veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Directive 92/60/EEC (2), and in particular Article 20 (3) thereof,</p>
+      <p n="6">Whereas on 19 July 1991 the Commission adopted Decision 91/398/EEC on a computerized network linking veterinary authorities (Animo) (3) and on 2 July 1992 Decision 92/373/EEC designating the host centre Animo (4);</p>
+      <p n="7">Whereas, the ensure the functioning of the computerized network Animo, provision should be made for harmonization of the form of cooperation between the Animo host centre and Member States;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Each Member State shall, in accordance with its national rules, designate an authority to be responsible for coordination between the authorities within each Member State.</p>
+      <p n="12">The coordination authority shall negotiate a contract with Eurokom for the use of the common host centre. The contract shall be signed in accordance with national rules.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The competent authorities of the Member States shall ensure that the contracts referred to in Article 1:</p>
+      <p n="15">- are valid until 1 July 1995,</p>
+      <p n="16">- include an annual review clause,</p>
+      <p n="17">- include a termination clause, subject to six months' notice,</p>
+      <p n="18">- include an undertaking by Eurokom to put into operation all the technical requirements laid down in the Annex to Commisison Decision 91/638/EEC (5), based on the technical approach proposed by Eurokom in their offer. Possible related work by Eurokom, including for each Member State work related to implementation of the system in each Member State and work on project management, shall be the subject of separate undertakings,</p>
+      <p n="19">- take account of the following financial aspects:</p>
+      <p n="20">(a) ECU 300 per year per local unit as listed in Commission Decision 92/175/EEC (6);</p>
+      <p n="21">(b) communication costs, differentiated according to the presence or absence of a national host centre and representing the best price obtained by Eurokom from the provider of communications.</p>
+      <p n="22">Article 3</p>
+      <p n="23">Member States shall undertake to invoke the termination clause referred to in the third indent of Article 2 only to be set in accordance with the procedure of Article 20 (3) of Directive 90/425/EEC.</p>
+      <p n="24">Article 4</p>
+      <p n="25">The total annual charge resulting from the cost of participating in the network, referred to in point (a) of the fifth indent of Article 2, which shall not exceed the amound provided for in the first year, and its division between Member States, shall be reexamined before 1 July 1993. However, the maximum price for each Member State for each of years two and three of the contract shall not deviate upwards by more than 10 % of the price for the first year.</p>
+      <p n="26">Article 5</p>
+      <p n="27">Should it be ascertained during the implementation of the system that a situation arises, in particular concerning the financial provisions, which is inconsistent with the objectives of this Decision, the Commission shall take the necessary measures in accordance with the procedure of Article 42 of Council Decision 90/424/EEC (7).</p>
+      <p n="28">Article 6</p>
+      <p n="29">This Decision is addressed to the Member States. Done at Brussels, 25 September 1992. For the Commission</p>
+      <p n="30">Ray MAC SHARRY</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ No L 224, 18. 8. 1990, p. 29. (2) OJ No L 268, 14. 9. 1992, p. 75. (3) OJ No L 221, 9. 8. 1991, p. 30. (4) OJ No L 195, 14. 7. 1992, p. 31. (5) OJ No L 343, 13. 12. 1991, p. 48. (6) OJ No L 80, 25. 3. 1992, p. 1. (7) OJ No L 224, 18. 8. 1990, p. 19.</p>
+    </body>
+  </text>
+</TEI.2>

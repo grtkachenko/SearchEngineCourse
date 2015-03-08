@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31995D0215-en" n="31995D0215" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0215 English</title>
+        <title>95/215/EC: Council Decision of 29 May 1995 concerning the conclusion of an Agreement in the form of exchange of letters between the European Community and the United States of America on government procurement</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0215:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0215:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">1796</classCode>
+        <classCode scheme="eurovoc">1798</classCode>
+        <classCode scheme="eurovoc">1810</classCode>
+        <classCode scheme="eurovoc">2218</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0215-en." lang="en">
+    <body>
+      <head n="1">95/215/EC: Council Decision of 29 May 1995 concerning the conclusion of an Agreement in the form of exchange of letters between the European Community and the United States of America on government procurement</head>
+      <p n="2">COUNCIL DECISION of 29 May 1995 concerning the conclusion of an Agreement in the form of exchange of letters between the European Community and the United States of America on government procurement (95/215/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular the last sentence of Article 57 (2) and Articles 66, 100 a, 113 in conjunction with the first sentence of Article 228 (2) and Article 228 (3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the assent of the European Parliament (2),</p>
+      <p n="7">Whereas, for the Community, the powers to conclude international agreements are not merely attributed explicitly by the Treaty but may also result from other provisions of the Treaty and from acts taken pursuant to those provisions by Community institutions;</p>
+      <p n="8">Whereas, when Community rules were adopted in order to attain the goals of the Treaty, Member States may not, outside the framework of the common institutions, make commitments which might affect those rules or alter the scope thereof;</p>
+      <p n="9">Whereas part of the commitments in the Agreement negotiated by the European Community with the United States on government procurement fall within the exclusive jurisdiction of the Community under Article 113 of the Treaty;</p>
+      <p n="10">Whereas, moreover, some of the other commitments affect Community rules adopted on the basis of Articles 57 (2), 66 and 100 a of the Treaty;</p>
+      <p n="11">Whereas, finally, Article 37 of Directive 93/38/EEC (3) expressly confers upon the Community institutions powers to conduct negotiations with third countries concerning the legal arrangements applicable to government contracts awarded by entities in Member States in the electricity and port sectors inter alia;</p>
+      <p n="12">Whereas the Agreement negotiated by the European Community with the United States on government procurement should be concluded,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Agreement in the form of an exchange of letters between the European Community and the United States of America on government procurement is hereby approved on behalf of the European Community.</p>
+      <p n="16">The text of the Agreement is attached to this Decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is hereby authorized to designate the person empowered to sign the Agreement in order to bind the European Community.</p>
+      <p n="19">Done at Brussels, 29 May 1995.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">H. de CHARETTE</p>
+      <p n="23">(1) OJ No C 291, 19. 10. 1994, p. 4.</p>
+      <p n="24">(2) Assent given on 19 May 1995 (not yet published in the Official Journal).</p>
+      <p n="25">(3) Council Directive 93/38/EEC of 14 June 1993 coordinating the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (OJ No L 199, 9. 8. 1993, p. 84).</p>
+    </body>
+  </text>
+</TEI.2>

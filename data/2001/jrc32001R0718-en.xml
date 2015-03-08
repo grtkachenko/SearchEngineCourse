@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32001R0718-en" n="32001R0718" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R0718 English</title>
+        <title>Commission Regulation (EC) No 718/2001 of 10 April 2001 adapting Council Regulation (EC) No 2200/96 as regards the Combined Nomenclature codes for areca (or betel) and cola nuts</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0718:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0718:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1116</classCode>
+        <classCode scheme="eurovoc">5751</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R0718-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 718/2001 of 10 April 2001 adapting Council Regulation (EC) No 2200/96 as regards the Combined Nomenclature codes for areca (or betel) and cola nuts</head>
+      <p n="2">Commission Regulation (EC) No 718/2001</p>
+      <p n="3">of 10 April 2001</p>
+      <p n="4">adapting Council Regulation (EC) No 2200/96 as regards the Combined Nomenclature codes for areca (or betel) and cola nuts</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 234/79 of 5 February 1979 on the procedure for adjusting the Common Customs Tariff nomenclature used for agricultural products(1), as last amended by Regulation (EC) No 3290/94(2), and in particular Article 2(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2388/2000 of 13 October 2000 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff(3) amends the Combined Nomenclature, in particular as regards areca (or betel) and cola nuts.</p>
+      <p n="10">(2) The table in Article 1(2) of Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(4), as last amended by Regulation (EC) No 2826/2000(5), should therefore be adapted.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">In the table in Article 1(2) of Regulation (EC) No 2200/96, "&gt;TABLE&gt;"</p>
+      <p n="15">is replaced by: "&gt;TABLE&gt;".</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 10 April 2001.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 34, 9.2.1979, p. 2.</p>
+      <p n="24">(2) OJ L 349, 31.12.1994, p. 105.</p>
+      <p n="25">(3) OJ L 264, 18.10.2000, p. 1.</p>
+      <p n="26">(4) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="27">(5) OJ L 328, 23.12.2000, p. 2.</p>
+    </body>
+  </text>
+</TEI.2>

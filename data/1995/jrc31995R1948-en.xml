@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31995R1948-en" n="31995R1948" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1948 English</title>
+        <title>Commission Regulation (EC) No 1948/95 of 7 August 1995 laying down specific measures for the application of Regulation (EC) No 974/95 in the olive oil sector</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1948:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1948:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1136</classCode>
+        <classCode scheme="eurovoc">1264</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">20</classCode>
+        <classCode scheme="eurovoc">2324</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1948-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1948/95 of 7 August 1995 laying down specific measures for the application of Regulation (EC) No 974/95 in the olive oil sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1948/95 of 7 August 1995 laying down specific measures for the application of Regulation (EC) No 974/95 in the olive oil sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 3290/94 of 22 December 1994 on the adjustments and transitional arrangements required in the agriculture sector in order to implement the agreements concluded during the Uruguay Round of multilateral trade negotiations (1), and in particular Article 3 (1) thereof,</p>
+      <p n="6">Having regard to Council Regulation No 136/66/EEC of 22 September of 1966 on the establishment of a common organization of the market in oils and fats (2), as last amended by the Act of Accession of Austria, Finland and Sweden, and by Regulation (EC) No 3290/94,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 1650/86 of 26 May 1986 on the refunds and levies applicable to exports of olive oil (3),</p>
+      <p n="8">Whereas Commission Regulation (EC) No 974/95 of 28 April 1995 on certain transitional measures required to implement the Uruguay Round Agreement (4) lays down rules to ensure the harmonious transition between the system existing before the date of entry into force of the abovementioned agreement and the system existing from that date, in particular with regard to the issuing of export licences for quantities corresponding to those normally disposed of during the period concerned;</p>
+      <p n="9">Whereas, in order to ensure compliance with those rules on quantities in the olive oil sector the issuing of transitional export licences should be limited to the quantities allocated under the standing invitation to tender opened by Commission Regulation (EC) No 2517/94 (5);</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Oils and Fats,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">In the olive oil sector, the licences referred to in Article 1 (1) of Regulation (EC) No 974/95 (hereinafter referred to as 'transitional licences`) shall only be issued for the quantities of products allocated under the standing invitation to tender opened by Regulation (EC) No 2517/94.</p>
+      <p n="14">Article 2</p>
+      <p n="15">1. Interested parties shall submit tenders from 1 September 1995, indicating therein whether they relate to an application for a transitional certificate.</p>
+      <p n="16">2. The communication of tenders referred to in Article 5 (5) of Regulation (EC) No 2517/94 shall indicate separately those which relate to applications for transitional licences.</p>
+      <p n="17">Article 3</p>
+      <p n="18">Where an award to a particular tenderer whose tenders relating to applications for transitional licences are for amounts equal to or less than the maximum export refund amount fixed in accordance with Article 6 (1) of Regulation (EC) No 2517/94 would result in the quantity limit referred to in Article 1 (1) of Regulation (EC) No 974/95 being exceeded, a maximum quantity shall be fixed for those tenders in accordance with Article 6 (2) of Regulation (EC) No 2517/94 and the contract shall be awarded in accordance with Article 7 of that Regulation.</p>
+      <p n="19">Article 4</p>
+      <p n="20">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">It shall apply from 1 September 1995.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 7 August 1995.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Martin BANGEMANN</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ No L 349, 31. 12. 1994, p. 105.</p>
+      <p n="28">(2) OJ No 172, 30. 9. 1966, p. 3026/66.</p>
+      <p n="29">(3) OJ No L 145, 30. 5. 1986, p. 8.</p>
+      <p n="30">(4) OJ No L 97, 29. 4. 1995, p. 66.</p>
+      <p n="31">(5) OJ No L 268, 19. 10. 1994, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

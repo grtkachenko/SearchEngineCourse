@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31998D0552-en" n="31998D0552" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0552 English</title>
+        <title>98/552/EC: Council Decision of 24 September 1998 on the implementation by the Commission of activities relating to the Community market access strategy</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0552:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0552:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2449</classCode>
+        <classCode scheme="eurovoc">5050</classCode>
+        <classCode scheme="eurovoc">5413</classCode>
+        <classCode scheme="eurovoc">6050</classCode>
+        <classCode scheme="eurovoc">635</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0552-en." lang="en">
+    <body>
+      <head n="1">98/552/EC: Council Decision of 24 September 1998 on the implementation by the Commission of activities relating to the Community market access strategy</head>
+      <p n="2">COUNCIL DECISION of 24 September 1998 on the implementation by the Commission of activities relating to the Community market access strategy (98/552/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Whereas the common commercial policy would be incomplete were it not accompanied at Community level by specific activities designed to remove trade barriers;</p>
+      <p n="7">Whereas, therefore, the new world-wide commercial opportunities for Community industry should be supported by a market access policy of the Community to remove trade barriers;</p>
+      <p n="8">Whereas such a policy needs to be backed up by specific activities to identify, and find ways to eliminate, trade barriers;</p>
+      <p n="9">Whereas to this end it is necessary to adopt rules laying down the basic objectives to be achieved by the Commission as well as the means to achieve these goals,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Article 1</p>
+      <p n="12">1. In carrying out the Community's market access strategy, the Commission shall undertake the following activities:</p>
+      <p n="13">- identification and analysis of market access barriers in third countries,</p>
+      <p n="14">- establishment and development of databases as well as coordination and dissemination of information concerning trade barriers and international or national trade regulations,</p>
+      <p n="15">- studies concerning, in particular, implementation by third countries of their obligations under international trade agreements, or in connection with the preparation of negotiations,</p>
+      <p n="16">- organisation for businesses of seminars and other similar forums, production and distribution of studies, information packs, publications, leaflets concerning any legal or economic aspect relating to the removal of trade barriers.</p>
+      <p n="17">2. In implementing the activities referred to in paragraph 1, the Commission shall ensure the consistency of the specific activities developed thereunder with the various aspects of other Community policies.</p>
+      <p n="18">Article 2</p>
+      <p n="19">In order to enable it to carry out the activities mentioned in this Decision, the Commission shall dispose of the necessary financial resources. For that reason, the Commission shall include in the normal budgetary procedures annual proposals for its financial requirements for the activities specified in Article 1.</p>
+      <p n="20">Article 3</p>
+      <p n="21">In carrying out the activities referred to in Article 1, the Commission shall be assisted by an advisory committee composed of the representatives of the Member States and chaired by the representative of the Commission.</p>
+      <p n="22">The Representative of the Commission shall submit to the committee a draft of the measures to be taken. The committee shall deliver its opinion on the draft within a time limit which the chairman may lay down according to the urgency of the matter, if necessary by a taking a vote.</p>
+      <p n="23">The opinion shall be recorded in the minutes; in addition, each Member State shall have the right to ask to have its position recorded in the minutes.</p>
+      <p n="24">The Commission shall take the utmost account of the opinion delivered by the committee. It shall inform the committee of the manner in which its opinion has been taken into account.</p>
+      <p n="25">Done at Brussels, 24 September 1998.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">N. MICHALEK</p>
+      <p n="29">(1) OJ C 316, 25. 10. 1996, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32003R0411-en" n="32003R0411" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0411 English</title>
+        <title>Commission Regulation (EC) No 411/2003 of 5 March 2003 amending Regulation (EC) No 805/1999 laying down certain measures for implementing Council Regulation (EC) No 718/1999 on a Community-fleet capacity policy to promote inland waterway transport</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0411:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0411:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1036</classCode>
+        <classCode scheme="eurovoc">2040</classCode>
+        <classCode scheme="eurovoc">3160</classCode>
+        <classCode scheme="eurovoc">4509</classCode>
+        <classCode scheme="eurovoc">4515</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0411-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 411/2003 of 5 March 2003 amending Regulation (EC) No 805/1999 laying down certain measures for implementing Council Regulation (EC) No 718/1999 on a Community-fleet capacity policy to promote inland waterway transport</head>
+      <p n="2">Commission Regulation (EC) No 411/2003</p>
+      <p n="3">of 5 March 2003</p>
+      <p n="4">amending Regulation (EC) No 805/1999 laying down certain measures for implementing Council Regulation (EC) No 718/1999 on a Community-fleet capacity policy to promote inland waterway transport</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 718/1999 of 29 March 1999(1) on a Community-fleet policy to promote inland waterway transport, and in particular Article 7 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Commission sets, pursuant to Regulation (EC) No 718/1999 and after consulting the Member States and the organisations which represent inland waterway transport at Community level, the ratios of the "old-for-new" rule for dry cargo vessels, tanker vessels and pusher craft.</p>
+      <p n="10">(2) Commission Regulation (EC) No 805/1999 of 16 April 1999(2) laying down certain measures for implementing Council Regulation (EC) No 718/1999 set the ratios for the "old-for-new" rule to apply from 29 April 1999.</p>
+      <p n="11">(3) These ratios have to be reduced constantly in order to bring them, as quickly as possible and in regular stages, to zero no later than 29 April 2003 pursuant to Article 4(2) of Regulation (EC) No 718/1999.</p>
+      <p n="12">(4) The "old-for-new" ratios were reduced in 2000, 2001 and 2002 by Commission Regulation (EC) No 1532/2000(3), Commission Regulation (EC) No 997/2001(4) and Commission Regulation (EC) No 336/2002(5).</p>
+      <p n="13">(5) The ratios of the "old-for-new" rule must now be set at zero for dry cargo vessels, tanker vessels and pusher craft, with effect from 29 April 2003, in accordance with the second sentence of Article 4(2) of Regulation (EC) No 718/1999.</p>
+      <p n="14">(6) It is therefore necessary to amend Regulation (EC) No 805/1999 accordingly.</p>
+      <p n="15">(7) The measures provided for in this Regulation have been the subject of consultation within the Group of Experts on Community Fleets Capacity and Promotion Policy set up by Article 6 of Regulation (EC) No 805/1999,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Regulation (EC) No 805/1999 is hereby amended as follows:</p>
+      <p n="19">1. in Article 4(1), the ratio "0,30:1" is replaced by "0:1";</p>
+      <p n="20">2. in Article 4(2), the ratio "0,45:1" is replaced by "0:1";</p>
+      <p n="21">3. in Article 4(3), the ratio "0,125:1" is replaced by "0:1".</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on 29 April 2003.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 5 March 2003.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Loyola De Palacio</p>
+      <p n="28">Vice-President</p>
+      <p n="29">(1) OJ L 90, 2.4.1999, p. 1.</p>
+      <p n="30">(2) OJ L 102, 17.4.1999, p. 64.</p>
+      <p n="31">(3) OJ L 175, 14.7.2000, p. 74.</p>
+      <p n="32">(4) OJ L 142, 29.5.2001, p. 18.</p>
+      <p n="33">(5) OJ L 53, 23.2.2002, p. 11.</p>
+    </body>
+  </text>
+</TEI.2>

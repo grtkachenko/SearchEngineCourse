@@ -1,0 +1,57 @@
+<TEI.2 id="jrc32003D0898-en" n="32003D0898" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0898 English</title>
+        <title>2003/898/EC: Commission Decision of 1 July 2003 concerning the conclusion of an agreement amending the Agreement between the European Community and Australia on trade in wine</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0898:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0898:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4160</classCode>
+        <classCode scheme="eurovoc">4713</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0898-en." lang="en">
+    <body>
+      <head n="1">2003/898/EC: Commission Decision of 1 July 2003 concerning the conclusion of an agreement amending the Agreement between the European Community and Australia on trade in wine</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 1 July 2003</p>
+      <p n="4">concerning the conclusion of an agreement amending the Agreement between the European Community and Australia on trade in wine</p>
+      <p n="5">(2003/898/EC)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Decision 94/184/EC of 24 January 1994 concerning the conclusion of the Agreement between the European Community and Australia on trade in wine(1), and in particular Article 3 thereof,</p>
+      <p n="9">Having regard to the Agreement between the European Community and Australia on trade in wine signed in Brussels and Canberra respectively on 26 and 31 January 1994(2), as last amended by the Agreement of 6 August 2002(3), and in particular Article 17(2) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Commission has negotiated, on behalf of the Community, an amendment to the above Agreement aimed at extending until 30 June 2004 the provisional authorisation granted in respect of Australian wines treated with cation exchange resins.</p>
+      <p n="12">(2) The Management Committee for Wine has not delivered an opinion within the time limit set by its Chairman,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Sole Article</p>
+      <p n="15">The Agreement amending the Agreement between the European Community and Australia on trade in wine is hereby approved on behalf of the Community.</p>
+      <p n="16">The text of the Agreement is attached to this Decision.</p>
+      <p n="17">Done at Brussels, 1 July 2003.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz Fischler</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 86, 31.3.1994, p. 1.</p>
+      <p n="22">(2) OJ L 86, 31.3.1994, p. 3.</p>
+      <p n="23">(3) OJ L 213, 9.8.2002, p. 43.</p>
+    </body>
+  </text>
+</TEI.2>

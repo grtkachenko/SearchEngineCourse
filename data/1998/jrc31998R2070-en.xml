@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31998R2070-en" n="31998R2070" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2070 English</title>
+        <title>Council Regulation (EC) No 2070/98 of 28 September 1998 amending Regulation (EC) No 1221/97 laying down general rules for the application of measures to improve the production and marketing of honey</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2070:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2070:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">1465</classCode>
+        <classCode scheme="eurovoc">1907</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">6025</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2070-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2070/98 of 28 September 1998 amending Regulation (EC) No 1221/97 laying down general rules for the application of measures to improve the production and marketing of honey</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2070/98 of 28 September 1998 amending Regulation (EC) No 1221/97 laying down general rules for the application of measures to improve the production and marketing of honey</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas Regulation (EC) No 1221/97 (4) establishes the time limit in which expenditure on the measures taken under the annual national programme must be made;</p>
+      <p n="9">Whereas, in order to avoid reducing the duration of the national programmes in the first year, the time limit for making such expenditure under those first programmes should be postponed,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">In Article 3 of Regulation (EC) No 1221/97, the third subparagraph shall be replaced by the following:</p>
+      <p n="13">'Expenditure by the Member States for the measures taken under the annual national programmes referred to in Article 1 must be made by 15 October each year. However, for the first year, that date shall be postponed to 31 January 1999.`</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 28 September 1998.</p>
+      <p n="18">For the Council</p>
+      <p n="19">The President</p>
+      <p n="20">W. MOLTERER</p>
+      <p n="21">(1) OJ C 222, 16. 7. 1998, p. 15.</p>
+      <p n="22">(2) Opinion delivered on 16 September 1998 (not yet published in the Official Journal).</p>
+      <p n="23">(3) Opinion delivered on 9 September 1998 (not yet published in the Official Journal).</p>
+      <p n="24">(4) OJ L 173, 1. 7. 1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

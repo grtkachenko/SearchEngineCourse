@@ -1,0 +1,53 @@
+<TEI.2 id="jrc31997D0559-en" n="31997D0559" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0559 English</title>
+        <title>97/559/EC: Commission Decision of 24 July 1997 amending Decision 92/167/EEC setting up a Committee of Experts on the Transit of Electricity between Grids</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0559:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0559:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3614</classCode>
+        <classCode scheme="eurovoc">4507</classCode>
+        <classCode scheme="eurovoc">6049</classCode>
+        <classCode scheme="eurovoc">747</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0559-en." lang="en">
+    <body>
+      <head n="1">97/559/EC: Commission Decision of 24 July 1997 amending Decision 92/167/EEC setting up a Committee of Experts on the Transit of Electricity between Grids</head>
+      <p n="2">COMMISSION DECISION of 24 July 1997 amending Decision 92/167/EEC setting up a Committee of Experts on the Transit of Electricity between Grids (97/559/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Whereas for reasons of continuity of the work of the Committee of Experts on the Transit of Electricity between Grids set up by Commission Decision 92/167/EEC (1), as amended by the Act of Accession of Austria, Finland and Sweden, it is necessary that the term of office of the members be renewable;</p>
+      <p n="6">Whereas, for reasons of legal certainty, it is also appropriate to delete certain provisions which have become obsolete;</p>
+      <p n="7">Whereas Decision 92/167/EEC should be amended accordingly,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Sole Article</p>
+      <p n="10">Article 6 of Decision 92/167/EEC is amended as follows:</p>
+      <p n="11">(a) paragraph 2 is replaced by the following:</p>
+      <p n="12">'2. Their term of office shall be renewable once.`;</p>
+      <p n="13">(b) paragraph 3 is deleted.</p>
+      <p n="14">Done at Brussels, 24 July 1997.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Christos PAPOUTSIS</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ No L 74, 20. 3. 1992, p. 43.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32002R1164-en" n="32002R1164" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1164 English</title>
+        <title>Commission Regulation (EC) No 1164/2002 of 28 June 2002 amending Regulation (EC) No 1646/2001 as regards the setting of the amount of the adjustment aid and additional basic aid for the sugar refining industry for the 2002/2003 to 2005/2006 marketing years</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1164:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1164:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2887</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">4314</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1164-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1164/2002 of 28 June 2002 amending Regulation (EC) No 1646/2001 as regards the setting of the amount of the adjustment aid and additional basic aid for the sugar refining industry for the 2002/2003 to 2005/2006 marketing years</head>
+      <p n="2">Commission Regulation (EC) No 1164/2002</p>
+      <p n="3">of 28 June 2002</p>
+      <p n="4">amending Regulation (EC) No 1646/2001 as regards the setting of the amount of the adjustment aid and additional basic aid for the sugar refining industry for the 2002/2003 to 2005/2006 marketing years</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1260/2001 of 19 June 2001 on the common organisation of the markets in the sugar sector(1), as amended by Commission Regulation (EC) No 680/2002(2), and in particular Article 38(6) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 38(1) and (3) of Regulation (EC) No 1260/2001 provides that during the 2001/2002 to 2005/2006 marketing years adjustment aid is to be granted as an intervention measure to the Community's preferential raw cane sugar refining industry, together with an additional basic aid for raw cane sugar produced in the French overseas departments.</p>
+      <p n="10">(2) Article 38(4) lays down that the adjustment aid and additional aid may be adjusted to take account of economic trends in the sugar sector, particularly the margins for manufacturing white beet sugar and refining raw cane sugar. For the 2000/2001 and previous marketing years, the adjustment aid and additional aid were determined, inter alia, on the basis of the applicable storage levy. For the 2001/2002 marketing year, the compensation system for storage costs was abolished and the aid in question set on the assumption that the balance between the manufacturing margin and the refining margin has not been affected by the abolition of the aforementioned system and pending a study of economic developments in the two sectors to establish in particular whether the way in which the two margins have developed warrants continuation of the adjustment aid and additional aid.</p>
+      <p n="11">(3) The analyses carried out lead to the conclusion that the aid to the refining industry should continue to maintain balance with the manufacture of white beet sugar in the period for which prices in the sugar sector are set, i.e. for the 2002/2003 to 2005/2006 marketing years. The level of the aid set for the 2001/2002 marketing year is commensurate with developments in the situation in particular after the abolition of the compensation system for storage costs.</p>
+      <p n="12">(4) The Management Committee for Sugar has not delivered an opinion within the time limit set by its chairman,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Article 3 of Regulation (EC) No 1646/2001 is replaced by the following: "Article 3</p>
+      <p n="16">1. The adjustment aid and the additional basic aid referred to respectively in Article 38(1) and (3) of Regulation (EC) No 1260/2001 are fixed, as a result of the adjustment referred to in Article 38(4), to EUR 2,92 per 100 kg of sugar, expressed as white sugar, for the 2002/2003 to 2005/2006 marketing years.</p>
+      <p n="17">2. That amount may be adjusted in accordance with Article 38(4) of Regulation (EC) No 1260/2001 where the economic conditions, in particular the interest rate, prevailing prior to the beginning of one of the marketing years in question are significantly different from those existing when the amount was fixed for the first time."</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="20">It shall apply from 1 July 2002.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 28 June 2002.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz Fischler</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 178, 30.6.2001, p. 1.</p>
+      <p n="27">(2) OJ L 104, 20.4.2002, p. 26.</p>
+    </body>
+  </text>
+</TEI.2>

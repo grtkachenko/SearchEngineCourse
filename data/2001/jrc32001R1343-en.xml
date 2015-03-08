@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32001R1343-en" n="32001R1343" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1343 English</title>
+        <title>Commission Regulation (EC) No 1343/2001 of 3 July 2001 amending Regulation (EC) No 449/2001 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the aid scheme for products processed from fruit and vegetables</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1343:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1343:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1117</classCode>
+        <classCode scheme="eurovoc">1118</classCode>
+        <classCode scheme="eurovoc">1605</classCode>
+        <classCode scheme="eurovoc">1684</classCode>
+        <classCode scheme="eurovoc">2639</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1343-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1343/2001 of 3 July 2001 amending Regulation (EC) No 449/2001 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the aid scheme for products processed from fruit and vegetables</head>
+      <p n="2">Commission Regulation (EC) No 1343/2001</p>
+      <p n="3">of 3 July 2001</p>
+      <p n="4">amending Regulation (EC) No 449/2001 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the aid scheme for products processed from fruit and vegetables</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2201/96 of 28 October 1996 on the common organisation of the markets in processed fruit and vegetable products(1), as last amended by Regulation (EC) No 2699/2000(2), and in particular Article 6(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 3(4)(e) of Commission Regulation (EC) No 449/2001(3) provides that the terms governing the payment of the raw material by the processor to the producer organisation are to be laid down in the contracts and stipulates in particular that the payment deadline cannot exceed 60 days from the date of delivery of each consignment.</p>
+      <p n="10">(2) In order to make provision for the requisite flexibility and to make the scheme easier to administer, that deadline should be extended to the end of the second month following the month of delivery. This provision should be available only for contracts concluded after the entry into force of this Regulation.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Processed Fruit and Vegetables,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Article 3(4)(e) is hereby replaced by the following: "(e) the price to be paid for the raw materials, which may vary by variety and/or quality and/or delivery period.</p>
+      <p n="15">In the case of tomatoes, peaches and pears, the contract shall also indicate the delivery stage at which that price applies and the payment terms. Any payment deadline may not exceed two months from the end of the month of delivery of each consignment."</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 3 July 2001.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 297, 21.11.1996, p. 29.</p>
+      <p n="24">(2) OJ L 311, 12.12.2000, p. 9.</p>
+      <p n="25">(3) OJ L 64, 6.3.2001, p. 16.</p>
+    </body>
+  </text>
+</TEI.2>

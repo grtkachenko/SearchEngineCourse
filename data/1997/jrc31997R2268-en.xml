@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31997R2268-en" n="31997R2268" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R2268 English</title>
+        <title>Commission Regulation (EC) No 2268/97 of 14 November 1997 adjusting the maximum annual fishing effort for certain fisheries</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2268:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2268:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1159</classCode>
+        <classCode scheme="eurovoc">2286</classCode>
+        <classCode scheme="eurovoc">2879</classCode>
+        <classCode scheme="eurovoc">4790</classCode>
+        <classCode scheme="eurovoc">5228</classCode>
+        <classCode scheme="eurovoc">5254</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R2268-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2268/97 of 14 November 1997 adjusting the maximum annual fishing effort for certain fisheries</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2268/97 of 14 November 1997 adjusting the maximum annual fishing effort for certain fisheries</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2027/95 of 15 June 1995 establishing a system for the management of fishing effort relating to certain Community fishing areas and resources (1), and in particular the second indent of Article 4 thereof,</p>
+      <p n="6">Whereas the second indent of Article 4 of Regulation (EC) No 2027/95 provides that the Commission, at the request of a Member State, shall take appropriate measures so that the Member State in question can fish its quotas in accordance with the third subparagraph of Article 6 (2) of Council Regulation (EC) No 685/95 of 27 March 1995 on the management of fishing effort relating to certain Community fishing areas and resources (2);</p>
+      <p n="7">Whereas the Netherlands has asked the Commission to adjust the maximum annual fishing effort granted to its vessels in respect of certain quotas which are allocated to it pursuant to Council Regulation (EC) No 390/97 of 20 December 1996 fixing, for certain fish stocks and groups of fish stocks, the total allowable catches for 1997 and certain conditions under which they may be fished (3), as last amended by Regulation (EC) No 1974/97 (4);</p>
+      <p n="8">Whereas this Regulation shall immediately enter into force in order to allow the Netherlands to fish its quota;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The maximum annual fishing effort for the Kingdom of the Netherlands in respect of demersal species using towed gear, as referred to in Annex I to Regulation (EC) No 2027/95, is amended as laid down in the Annex hereto.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 14 November 1997.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Emma BONINO</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 199, 24. 8. 1995, p. 1.</p>
+      <p n="21">(2) OJ L 71, 31. 3. 1995, p. 5.</p>
+      <p n="22">(3) OJ L 66, 6. 3. 1997, p. 1.</p>
+      <p n="23">(4) OJ L 278, 11. 10. 1997, p. 1.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

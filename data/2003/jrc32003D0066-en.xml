@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32003D0066-en" n="32003D0066" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0066 English</title>
+        <title>2003/66/EC: Commission Decision of 28 January 2003 extending the period referred to in Article 21(3) of Council Directive 2002/56/EC on the marketing of seed potatoes authorising Member States to extend the period of validity of decisions concerning equivalence of seed potatoes from third countries (Text with EEA relevance) (notified under document number C(2003) 351)</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0066:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0066:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">2409</classCode>
+        <classCode scheme="eurovoc">2548</classCode>
+        <classCode scheme="eurovoc">87</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0066-en." lang="en">
+    <body>
+      <head n="1">2003/66/EC: Commission Decision of 28 January 2003 extending the period referred to in Article 21(3) of Council Directive 2002/56/EC on the marketing of seed potatoes authorising Member States to extend the period of validity of decisions concerning equivalence of seed potatoes from third countries (Text with EEA relevance) (notified under document number C(2003) 351)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 28 January 2003</p>
+      <p n="4">extending the period referred to in Article 21(3) of Council Directive 2002/56/EC on the marketing of seed potatoes authorising Member States to extend the period of validity of decisions concerning equivalence of seed potatoes from third countries</p>
+      <p n="5">(notified under document number C(2003) 351)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/66/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 2002/56/EC of 13 June 2002 on the marketing of seed potatoes(1), and in particular the second subparagraph of Article 21(3) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Directive 2002/56/EC provides that, with effect from certain dates, Member States may no longer determine for themselves the equivalence of seed potatoes harvested in third countries with seed potatoes harvested within the Community and complying with that Directive.</p>
+      <p n="13">(2) However, as work to establish a Community equivalence for seed potatoes from all the third countries concerned had not been completed, Directive 2002/56/EC permitted Member States to extend until 31 March 2002 the validity of equivalence decisions which they had already taken for seed potatoes from certain third countries not covered by a Community equivalence.</p>
+      <p n="14">(3) In the absence of Community rules on the equivalence of seed potatoes harvested in third countries with seed potatoes harvested within the Community, the authorisation granted to Member States by Directive 2002/56/EC to extend the period of validity of equivalence decisions should be extended.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">In the first subparagraph of Article 21(3) of Directive 2002/56/EC, "31 March 2002" is replaced by "31 March 2005".</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 28 January 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">David Byrne</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 193, 20.7.2002, p. 60.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31997R0060-en" n="31997R0060" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R0060 English</title>
+        <title>Commission Regulation (EC) No 60/97 of 16 January 1997 amending Regulation (EEC) No 1859/82 concerning the selection of returning holdings for the purpose of determining incomes of agricultural holdings</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0060:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0060:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1019</classCode>
+        <classCode scheme="eurovoc">1519</classCode>
+        <classCode scheme="eurovoc">3083</classCode>
+        <classCode scheme="eurovoc">3424</classCode>
+        <classCode scheme="eurovoc">3682</classCode>
+        <classCode scheme="eurovoc">937</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R0060-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 60/97 of 16 January 1997 amending Regulation (EEC) No 1859/82 concerning the selection of returning holdings for the purpose of determining incomes of agricultural holdings</head>
+      <p n="2">COMMISSION REGULATION (EC) No 60/97 of 16 January 1997 amending Regulation (EEC) No 1859/82 concerning the selection of returning holdings for the purpose of determining incomes of agricultural holdings</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation No 79/65/EEC of 15 June 1965 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Economic Community (1), as last amended by Regulation (EC) No 2801/95 (2), and in particular Articles 4 (4) and 6 (2) thereof,</p>
+      <p n="6">Whereas Article 3 of Commission Regulation (EEC) No 1859/82 (3), as last amended by Regulation (EC) No 1381/96 (4), fixes the number of returning holdings to be selected in each division for each accounting year; whereas, in order to cover the field of survey better as regards agricultural holdings in Italy and Finland, the number of returning holdings to be selected in each division in the abovementioned Member States should be fixed for the 1997 and subsequent accounting years; whereas Annex I to Regulation (EEC) No 1859/82 should therefore be amended;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Community Committee on the Farm Accountancy Data Network,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The tables relating to Italy and Finland in Annex I to Regulation (EEC) No 1859/82 are hereby replaced by those in the Annex hereto.</p>
+      <p n="11">Article 2</p>
+      <p n="12">The Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">It shall apply from the 1997 accounting year.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 16 January 1997.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No 109, 23. 6. 1965, p. 1859/65.</p>
+      <p n="20">(2) OJ No L 291, 6. 12. 1995, p. 3.</p>
+      <p n="21">(3) OJ No L 205, 13. 7. 1982, p. 5.</p>
+      <p n="22">(4) OJ No L 179, 18. 7. 1996, p. 6.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">NUMBER OF RETURNING HOLDINGS BY DIVISION</p>
+      <p n="25">&gt;TABLE&gt;</p>
+      <p n="26">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32002D0262-en" n="32002D0262" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0262 English</title>
+        <title>2002/262/EC,ECSC,Euratom: Decision of the European Parliament of 14 March 2002 amending Decision 94/262/ECSC, EC, Euratom on the regulations and general conditions governing the performance of the Ombudsman's duties</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0262:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0262:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">171</classCode>
+        <classCode scheme="eurovoc">2140</classCode>
+        <classCode scheme="eurovoc">2166</classCode>
+        <classCode scheme="eurovoc">414</classCode>
+        <classCode scheme="eurovoc">4271</classCode>
+        <classCode scheme="eurovoc">4274</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0262-en." lang="en">
+    <body>
+      <head n="1">2002/262/EC,ECSC,Euratom: Decision of the European Parliament of 14 March 2002 amending Decision 94/262/ECSC, EC, Euratom on the regulations and general conditions governing the performance of the Ombudsman's duties</head>
+      <p n="2">Decision of the European Parliament</p>
+      <p n="3">of 14 March 2002</p>
+      <p n="4">amending Decision 94/262/ECSC, EC, Euratom on the regulations and general conditions governing the performance of the Ombudsman's duties</p>
+      <p n="5">(2002/262/EC, ECSC, Euratom)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community and in particular Article 195(2) thereof,</p>
+      <p n="8">Having regard to the Treaty establishing the European Coal and Steel Community and in particular Article 20 D(4) thereof,</p>
+      <p n="9">Having regard to the Treaty establishing the European Atomic Energy Community and in particular Article 107 D(4) thereof,</p>
+      <p n="10">Having regard to the European Parliament resolution of 17 November 2000 on the modification of the European Parliament's decision of 9 March 1994 on the regulations and general conditions governing the performance of the Ombudsman's duties(1),</p>
+      <p n="11">Having regard to the opinion of the Commission,</p>
+      <p n="12">With the approval of the Council,</p>
+      <p n="13">Whereas:</p>
+      <p n="14">(1) Pursuant to Article 22, paragraph 5, of the Financial Regulation of 21 December 1977 applicable to the general budget of the European Communities(2), the Ombudsman is treated as an institution for the purposes of that Regulation.</p>
+      <p n="15">(2) Council Regulation (EC, ECSC, Euratom) No 2673/1999 amending the Financial Regulation created a specific section for the Ombudsman in the general budget of the European Union and amended the provisions of the Financial Regulation relative thereto accordingly.</p>
+      <p n="16">(3) It is therefore necessary to amend European Parliament Decision 94/262/ECSC, EC, Euratom of 9 March 1994 on the regulations and general conditions governing the performance of the Ombudsman's duties(3) since it provides for the budget of the Ombudsman to be placed in an annex to Section I (Parliament) of the general budget of the European Communities.</p>
+      <p n="17">(4) Articles 12 and 16 of that decision must therefore be deleted.</p>
+      <p n="18">HEREBY DECIDES:</p>
+      <p n="19">Article 1</p>
+      <p n="20">Articles 12 and 16 of decision 94/262/ECSC, EC, Euratom shall be deleted.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This decision shall take effect on the date of its publication.</p>
+      <p n="25">It shall be applicable with effect from 1 January 2000.</p>
+      <p n="26">Done at Strasbourg, 14 March 2002.</p>
+      <p n="27">For the European Parliament</p>
+      <p n="28">The President</p>
+      <p n="29">P. Cox</p>
+      <p n="30">(1) OJ C 223, 8.8.2001, p. 366.</p>
+      <p n="31">(2) OJ L 356, 31.12.1977, p. 1. Regulation amended by Regulation (EC, ECSC, Euratom) No 2673/1999 (OJ L 326, 18.2.1999, p. 1).</p>
+      <p n="32">(3) OJ L 113, 4.5.1994, p. 15.</p>
+    </body>
+  </text>
+</TEI.2>

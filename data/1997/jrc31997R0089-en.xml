@@ -1,0 +1,74 @@
+<TEI.2 id="jrc31997R0089-en" n="31997R0089" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R0089 English</title>
+        <title>Commission Regulation (EC) No 89/97 of 20 January 1997 amending Regulation (EEC) No 2454/93 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0089:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0089:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1120</classCode>
+        <classCode scheme="eurovoc">1637</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">3178</classCode>
+        <classCode scheme="eurovoc">4079</classCode>
+        <classCode scheme="eurovoc">6023</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R0089-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 89/97 of 20 January 1997 amending Regulation (EEC) No 2454/93 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code</head>
+      <p n="2">COMMISSION REGULATION (EC) No 89/97 of 20 January 1997 amending Regulation (EEC) No 2454/93 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (1), as last amended by Regulation (EC) No 82/97 (2), and in particular Article 249 thereof,</p>
+      <p n="6">Whereas the verification of the net mass indicated in declarations of entry for free circulation of bananas poses problems of methodology and of uniform application; whereas it is therefore appropriate to specify the methods for determining and checking the net mass of bananas;</p>
+      <p n="7">Whereas the measures provided for by this Regulation are in accordance with the opinion of the Customs Code Committee,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Commission Regulation (EEC) No 2454/93 (3) is amended as follows:</p>
+      <p n="11">1. The following article is inserted:</p>
+      <p n="12">'Article 290a</p>
+      <p n="13">Examination of bananas falling within CN code 0803 00 19 for the purposes of checking the net mass on importation shall involve a minimum of 10 % of declarations per year and per customs office.</p>
+      <p n="14">Examination of bananas shall be carried out at the time of release for free circulation, in accordance with the rules laid down in Annex 38b.`</p>
+      <p n="15">2. The following Annex 38b is inserted:</p>
+      <p n="16">'Annex 38b</p>
+      <p n="17">1. For the purposes of the application of Article 290a, the customs authorities of the customs office at which the declaration for free circulation of fresh bananas is lodged shall determine the net mass, based on a sample of units of packaging for each type of packaging and for each place of origin.</p>
+      <p n="18">2. The units of packaging weighed should constitute a representative sample of the declaration. It shall involve at least the quantities indicated below:</p>
+      <p n="19">&gt;TABLE&gt;</p>
+      <p n="20">Where a whole cargo load is covered by a single declaration, the customs office may, unless fraud is suspected, base the calculation of the net mass on a minimum sample of 15 units of packaging (of the same type of packaging and from the same place of origin).</p>
+      <p n="21">The net mass shall be determined as follows:</p>
+      <p n="22">- opening at least one unit of packaging, then calculating the mass of the packaging,</p>
+      <p n="23">- the mass of the packaging shall be accepted for all packaging of the same type and shall be deducted from the mass of all the units of packaging weighed,</p>
+      <p n="24">- the average mass per unit of packaging of bananas thus established, based on the mass of the sample checked, shall be accepted as the basis for determining the net mass of the bananas covered by the declaration.`</p>
+      <p n="25">Article 2</p>
+      <p n="26">Before 1 January 1998, the Commission shall re-examine the examination rate established in Article 1.</p>
+      <p n="27">Article 3</p>
+      <p n="28">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="29">It shall apply from 1 February 1997.</p>
+      <p n="30">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="31">Done at Brussels, 20 January 1997.</p>
+      <p n="32">For the Commission</p>
+      <p n="33">Mario MONTI</p>
+      <p n="34">Member of the Commission</p>
+      <p n="35">(1) OJ No L 302, 19. 10. 1992, p. 1.</p>
+      <p n="36">(2) See page 1 of this Official Journal.</p>
+      <p n="37">(3) OJ No L 253, 11. 10. 1993, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,71 @@
+<TEI.2 id="jrc21999D0513_02-en" n="21999D0513(02)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 21999D0513(02) English</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21999D0513(02):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21999D0513(02):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1634</classCode>
+        <classCode scheme="eurovoc">1921</classCode>
+        <classCode scheme="eurovoc">3359</classCode>
+        <classCode scheme="eurovoc">4028</classCode>
+        <classCode scheme="eurovoc">4048</classCode>
+        <classCode scheme="eurovoc">5618</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc21999D0513_02-en." lang="en">
+    <body>
+      <p n="2">DECISION OF THE EEA JOINT COMMITTEE</p>
+      <p n="3">No 66/98</p>
+      <p n="4">of 4 July 1998</p>
+      <p n="5">amending Annex VI (Social security) to the EEA Agreement</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as adjusted by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas Annex VI to the Agreement was amended by Decision of the EEA Joint Committee No 24/98 of 27 March 1998(1);</p>
+      <p n="9">Whereas Council Regulation (EC) No 118/97 of 2 December 1996 amending and updating Regulation (EEC) No 1408/71 on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community and Regulation (EEC) No 574/72 laying down the procedure for implementing Regulation (EEC) No 1408/71(2) is to be incorporated into the Agreement;</p>
+      <p n="10">Whereas several adaptations to Council Regulation (EEC) No 1408/71 and to Council Regulation (EEC) No 574/72 are to be updated,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Point 1 (Council Regulation (EEC) No 1408/71) of Annex VI to the Agreement shall be amended as follows:</p>
+      <p n="14">1. All the indents before the adaptations including the words "as updated by:" and "and subsequently amended by:" shall be replaced by following: "as amended and updated by:</p>
+      <p n="15">- 397 R 0118: Council Regulation (EC) No 118/97 of 2 December 1996 (OJ L 28, 30.1.1997, p. 1)."</p>
+      <p n="16">2. The texts of adaptations (c) and (g) shall be deleted.</p>
+      <p n="17">3. In adaptation (m), heading "Q. LIECHTENSTEIN", letter (a) shall be deleted and letters (b), (c), (d) and (e) shall become letters (a), (b), (c) and (d) respectively.</p>
+      <p n="18">4. In adaptation (n), heading "116. ICELAND - AUSTRIA", the words "No convention." shall be replaced by "None."</p>
+      <p n="19">5. In adaptation (o), heading "116. ICELAND - AUSTRIA", the words "No convention." shall be replaced by "Article 4 of the Convention on social security of 18 November 1993."</p>
+      <p n="20">Article 2</p>
+      <p n="21">Point 2 (Council Regulation (EEC) No 574/72) of Annex VI to the Agreement shall be amended as follows:</p>
+      <p n="22">1. All the indents before the adaptations including the words "as updated by:" and "and subsequently amended by:" shall be replaced by the following: "as updated by:</p>
+      <p n="23">- 397 R 0118: Council Regulation (EC) No 118/97 of 2 December 1996 (OJ L 28, 30.1.1997, p. 1)."</p>
+      <p n="24">2. In adaptation (g), heading "149. NORWAY - AUSTRIA", the word "None." shall be replaced by "Arrangement of 17 December 1996 concerning reimbursement of the costs of benefits in the field of social security."</p>
+      <p n="25">Article 3</p>
+      <p n="26">The texts of Council Regulation (EC) No 118/97 in the Icelandic and Norwegian languages, which are annexed to the respective language versions of this Decision, are authentic.</p>
+      <p n="27">Article 4</p>
+      <p n="28">This Decision shall enter into force on 5 July 1998, provided that all the notifications under Article 103(1) of the Agreement have been made to the EEA Joint Committee.</p>
+      <p n="29">Article 5</p>
+      <p n="30">This Decision shall be published in the EEA section of, and in the EEA supplement to the Official Journal of the European Communities.</p>
+      <p n="31">Done at Brussels, 4 July 1998.</p>
+      <p n="32">For the EEA Joint Committee</p>
+      <p n="33">The President</p>
+      <p n="34">F. BARBASO</p>
+      <p n="35">(1) OJ L 310, 19.11.1998, p. 4.</p>
+      <p n="36">(2) OJ L 28, 30.1.1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

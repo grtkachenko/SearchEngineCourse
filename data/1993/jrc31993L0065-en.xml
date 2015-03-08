@@ -1,0 +1,193 @@
+<TEI.2 id="jrc31993L0065-en" n="31993L0065" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993L0065 English</title>
+        <title>Council Directive 93/65/EEC of 19 July 1993 on the definition and use of compatible technical specifications for the procurement of air-traffic- management equipment and systems</title>
+      </titleStmt>
+      <extent>166 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993L0065:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993L0065:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993L0065-en." lang="en">
+    <body>
+      <head n="1">Council Directive 93/65/EEC of 19 July 1993 on the definition and use of compatible technical specifications for the procurement of air-traffic- management equipment and systems</head>
+      <p n="2">COUNCIL DIRECTIVE 93/65/EEC of 19 July 1993 on the definition and use of compatible technical specifications for the procurement of air-traffic-management equipment and systems</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 84 (2) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas air transport in Europe is at present under considerable strain owing to air traffic congestion;</p>
+      <p n="9">Whereas, so far, management systems have been developed and brought on stream in accordance with International Civil Aviation Organization (ICAO) provisions, which allow national or local interpretation;</p>
+      <p n="10">Whereas defining and introducing Community standards is an effective approach to the management of general air traffic since the present situation, based on national or local systems, has resulted in the technical and operational incompatibilities which now hinder the transfer of controlled flights between traffic-control bodies in different Member States;</p>
+      <p n="11">Whereas the important work undertaken by the European Civil Aviation Conference (ECAC) and Eurocontrol in the field of air-traffic management and the relevant conclusions adopted by ECAC Ministers in April 1990 and March 1992 should be borne in mind;</p>
+      <p n="12">Whereas functional integration should be effected to remedy traffic congestion and improve the flow of traffic in the short term;</p>
+      <p n="13">Whereas the process of harmonization and integration would be facilitated if all Member States acceded to the International Convention relating to Cooperation for the Safety of Air Navigation;</p>
+      <p n="14">Whereas, following resolution 89/C 189/02 (4), the process of all Member States' accession as Contracting Parties to the International Convention relating to Cooperation for the Safety of Air Navigation would be facilitated if those Member States which are already Contracting Parties to that Convention would strive within Eurocontrol to adopt, where appropriate, measures aimed at facilitating such accession;</p>
+      <p n="15">Whereas the technical specifications adopted by Eurocontrol comply with ICAO recommended standards and practices;</p>
+      <p n="16">Whereas the Commission, assisted by a committee of representatives of the Member States, should be authorized, in accordance with the procedure laid down in Council Decision 87/373/EEC of 13 July 1987 laying down the procedures for the exercise of implementing powers conferred on the Commission (5), to make certain Eurocontrol standards mandatory at Community level;</p>
+      <p n="17">Whereas European standardization is a key factor in establishing a consistent level of safety in air-traffic management; whereas Eurocontrol and the European standardization bodies should cooperate with each other;</p>
+      <p n="18">Whereas it should be specified that in accordance with Council Directive 83/189/EEC of 28 March 1983 laying down a procedure for the provision of information in the field of technical standards and regulations (6) the Commission may, after consulting Eurocontrol, give European standardization bodies mandates to draw up European standards to provide support for air-traffic-management systems;</p>
+      <p n="19">Whereas in any case any item of equipment legally marketed in one Member State must be able to move freely within the territories of the other Member States;</p>
+      <p n="20">Whereas the International Convention relating to Cooperation for the Safety of Air Navigation designates Eurocontrol as the appropriate instrument to take the necessary measures to solve the present problems in Europe;</p>
+      <p n="21">Whereas safety is a key factor in air transport in the Community; whereas this Directive should take account of the existence of the Convention on International Civil Aviation, signed in Chicago on 7 December 1944, which provides for the implementation of whatever measures are required to ensure the safe and orderly development of international civil aviation;</p>
+      <p n="22">Whereas Council Directives 77/62/EEC of 21 December 1976 coordinating procedures for the award of public supply contracts (7) and 90/531/EEC of 17 September 1990 on the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (8) apply to the air-traffic-management sector and the awarding entities must be specified;</p>
+      <p n="23">Whereas in certain Member States the procurement of air-navigation equipment is not covered by the aforementioned Directives; whereas however, the Eurocontrol standards incorporated in the Community legal system must be complied with in all Member States,</p>
+      <p n="24">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="25">Article 1</p>
+      <p n="26">This Directive shall apply to the definition and use of compatible technical specifications for the procurement of air-traffic-management equipment and systems, in particular:</p>
+      <p n="27">- communications systems,</p>
+      <p n="28">- surveillance systems,</p>
+      <p n="29">- systems providing automated assistance to air-traffic control, and</p>
+      <p n="30">- navigation systems.</p>
+      <p n="31">Article 2</p>
+      <p n="32">For the purposes of this Directive:</p>
+      <p n="33">(a) technical specification shall mean the technical requirements included, in particular, in the tender documents defining the characteristics of a piece of work, a material, a product or a supply, and making it possible to describe a piece of work, a material, a product or a supply objectively in a manner such that it fulfils the use for which it is intended by the contracting entity. Such technical prescriptions may include quality, performance, safety and dimensions, as well as requirements applicable to the material, product or supply as regards quality assurance, terminology, symbols, testing and test methods, packaging, marking and labelling;</p>
+      <p n="34">(b) standard shall mean a technical specification approved by a recognized standardization body for repeated or continuous application, compliance with which is not in principle compulsory;</p>
+      <p n="35">(c) Eurocontrol standard shall mean the mandatory elements of Eurocontrol specifications for physical characteristics, configuration, material, performance, personnel or procedure, the uniform application of which is recognized as essential for the implementation of an integrated air trafic services (ATS) system (the mandatory elements shall form part of a Eurocontrol standard document).</p>
+      <p n="36">Article 3</p>
+      <p n="37">1. The Commission shall, in accordance with the procedure laid down in Article 6, identify and adopt the Eurocontrol standards and subsequent Eurocontrol amendments to those Eurocontrol standards, in particular those relating to the areas listed in Annex I, that shall be made mandatory under Community law. The Commission shall publish the references of all technical specifications thus made mandatory in the Official Journal of the European Communities.</p>
+      <p n="38">2. The ensure that Annex I, which lists Eurocontrol standards to be produced, is as complete as possible, the Commission, following the procedure laid down in Article 6 and in consultation with Eurocontrol, may, where approrpiate, amend Annex I in accordance with amendments made by Eurocontrol,</p>
+      <p n="39">3. The Italian Republic and the Kingdom of Spain may postpone the application of this Article for one year. If at the end of that period those Member States cannot apply the Eurocontrol standards the Council shall, in accordance with the Treaty, decide on the appropriate action to be taken.</p>
+      <p n="40">Article 4</p>
+      <p n="41">In order to complement, where necessary, the process of implementing Eurocontrol standards the Commission may give standardization mandates to European standardization bodies in accordance with Directive 83/189/EEC and in consultation with Eurocontrol.</p>
+      <p n="42">Article 5</p>
+      <p n="43">1. Without prejudice to Directives 77/62/EEC and 90/531/EEC the Member States shall take whatever steps are necessary to ensure that in the general documents or specifications relating to each contract the awarding civil entities defined in Annex II refer to the specifications adopted in accordance with this Directive when purchasing air-navigation equipment.</p>
+      <p n="44">2. To ensure that Annex II is as complete as possible, the Member States shall notify the Commission of any changes made to their lists. The Commission shall amend Annex II in accordance with the procedure laid down in Article 6.</p>
+      <p n="45">Article 6</p>
+      <p n="46">1. The Commission shall be assisted by a committee consisting of representatives of the Member States and chaired by a representative of the Commission.</p>
+      <p n="47">2. The Commission representative shall submit to the committee a draft of the measures to be taken. The committee shall deliver its opinion on the draft within a time limit which the chairman may lay down according to the urgency of the matter. The opinion shall be delivered by the majority laid down in Article 148 (2) of the Treaty in the case of decisions which the Council is required to adopt on a proposal from the Commission. The votes of the Member States' representatives within the committee shall be weighted in the manner laid down in that Article. The chairman shall not vote.</p>
+      <p n="48">3. The Commission shall adopt the measures envisaged if they are in accordance with the committee's opinion.</p>
+      <p n="49">4. If the measures envisaged are not in accordance with the committee's opinion or if the committee delivers no opinion the Commission shall without delay submit to the Council a proposal concerning the measures to be taken. The Council shall act by a qualified majority.</p>
+      <p n="50">5. If the Council does not act within three months of the referral to it the Commission shall adopt the proposed measures unless the Council has decided against those measures by a simple majority.</p>
+      <p n="51">Article 7</p>
+      <p n="52">In exercising its powers the Commission shall regularly consult the relevant European representatives of air-navigation bodies, of air-space users and of professional bodies. It shall inform the committee provided for in Article 6 of the outcome of those consultations.</p>
+      <p n="53">Article 8</p>
+      <p n="54">1. The Commission shall regularly submit reports to the European Parliament and to the Council on the operation of the arrangements provided for in this Directive, accompanied if necessary by proposals for the implementation of Articles 3 and 4.</p>
+      <p n="55">2. Each year the Member States shall notify the Commission of any measures they have introduced to achieve the objectives set in this Directive.</p>
+      <p n="56">Article 9</p>
+      <p n="57">1. The Member States shall bring into force the provisions necessary for them to comply with this Directive within one year of its adoption. They shall forthwith inform the Commission thereof.</p>
+      <p n="58">When then Member States adopt those provisions they shall include references to this Directive or shall accompany them with such references on their official publication. The Member States shall lay down the manner in which such references shall be made.</p>
+      <p n="59">2. The Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field governed by this Directive. The Commission shall inform the other Member States thereof.</p>
+      <p n="60">Article 10</p>
+      <p n="61">This Directive is addressed to the Member States.</p>
+      <p n="62">Done at Brussels, 19 July 1993.</p>
+      <p n="63">For the Council</p>
+      <p n="64">The President</p>
+      <p n="65">W. CLAES</p>
+      <p n="66">(1) OJ No C 244, 23. 9. 1992, p. 16.</p>
+      <p n="67">(2) Opinion delivered on 25 June 1993 (not yet published in the Official Journal).</p>
+      <p n="68">(3) OJ No C 19, 25. 1. 1993, p. 39.</p>
+      <p n="69">(4) OJ No C 189, 26. 7. 1989, p. 3.</p>
+      <p n="70">(5) OJ No C 197, 18. 7. 1987, p. 33.</p>
+      <p n="71">(6) OJ No L 109, 26. 4. 1983, p. 8. Directive as last amended by Commission Decision 92/400/EEC (OJ No L 221, 6. 8. 1992, p. 55).</p>
+      <p n="72">(7) OJ No L 13, 15. 1. 1977, p. 1. Directive as last amended by Directive 92/50/EEC (OJ No L 209, 24. 7. 1992, p. 1).</p>
+      <p n="73">(8) OJ No L 297, 29. 10. 1990, p. 1.</p>
+      <p n="74">ANNEX I</p>
+      <p n="75">EUROCONTROL STANDARDS REFERRED TO IN ARTICLE 3 INDICATIVE LIST Communications systems</p>
+      <p n="76">Flight-plan-related-data exchange (message format) (1)()</p>
+      <p n="77">Radar-data exchange (Asterix message format) (**)</p>
+      <p n="78">Telephone systems for ATS (**)</p>
+      <p n="79">On-line data interchange (OLDI) (2)()</p>
+      <p n="80">Automated SSR-code-assignment systems (**)</p>
+      <p n="81">Navigation systems</p>
+      <p n="82">RNAV (**)</p>
+      <p n="83">Radar separation (3)()</p>
+      <p n="84">Short-term-conflict alert (STCA) (***)</p>
+      <p n="85">Surveillance systems</p>
+      <p n="86">Surveillance specifications (**)</p>
+      <p n="87">Shared use of radar facilities (***)</p>
+      <p n="88">(1)() Existing.</p>
+      <p n="89">(2)() Drafted.</p>
+      <p n="90">(3)() Drafting not started.</p>
+      <p n="91">ANNEX II</p>
+      <p n="92">AWARDING ENTITIES RESPONSIBLE FOR THE PURCHASING OF AIR-NAVIGATION EQUIPMENT Eurocontrol</p>
+      <p n="93">rue de la Loi, 72</p>
+      <p n="94">B-1040 Bruxelles</p>
+      <p n="95">Belgium</p>
+      <p n="96">Régie des Voies Aériennes</p>
+      <p n="97">CCN - Rue du Progrès 80</p>
+      <p n="98">B-1210 Bruxelles</p>
+      <p n="99">Denmark</p>
+      <p n="100">Statens Luftfartsvaesen</p>
+      <p n="101">(Civil Aviation Administration)</p>
+      <p n="102">Postbox 744</p>
+      <p n="103">DK-Copenhagen SV</p>
+      <p n="104">Germany</p>
+      <p n="105">DFS Deutsche Flugsicherung GMBH</p>
+      <p n="106">Kaiserleistr. 29-35</p>
+      <p n="107">D-6050 Offenbach am Main</p>
+      <p n="108">Greece</p>
+      <p n="109">Ministry of Transport and Communications</p>
+      <p n="110">Civil Aviation Department</p>
+      <p n="111">Financial Administration and Procurement Directorate</p>
+      <p n="112">Purchasing Section</p>
+      <p n="113">Postal address</p>
+      <p n="114">Vasileos Georgiou 1</p>
+      <p n="115">PO Box 73751</p>
+      <p n="116">16.604-Elliniko</p>
+      <p n="117">GR-Athens</p>
+      <p n="118">Telephone (0030-1-) 89 47 71 21</p>
+      <p n="119">Spain</p>
+      <p n="120">AENA (Aeropuertos Españoles y Navegación Aérea)</p>
+      <p n="121">Calle Santa Engracia, 120</p>
+      <p n="122">E-Madrid</p>
+      <p n="123">France</p>
+      <p n="124">Le Directeur général de l'aviation civile</p>
+      <p n="125">93 boulevard du Montparnasse</p>
+      <p n="126">F-75270 Paris Cedex 06</p>
+      <p n="127">who delegates in particular to:</p>
+      <p n="128">- Monsieur le chef du service technique de la navigation aérienne</p>
+      <p n="129">246 rue Lecourbe</p>
+      <p n="130">F-75732 Paris Cedex 15</p>
+      <p n="131">- Monsieur le directeur général des aéroports de Paris</p>
+      <p n="132">291 boulevard Raspail</p>
+      <p n="133">F-75675 Paris Cedex 14</p>
+      <p n="134">Ireland</p>
+      <p n="135">The Department of Tourism, Transport and Communications</p>
+      <p n="136">Air Navigation Services Office</p>
+      <p n="137">Corporate Services Division</p>
+      <p n="138">Scotch House</p>
+      <p n="139">Hawkins Street</p>
+      <p n="140">IRL-Dublin 2</p>
+      <p n="141">Italy</p>
+      <p n="142">AAAVTAG</p>
+      <p n="143">Azienda Autonoma Assistenza al Volo per il Traffico Aereo Generale</p>
+      <p n="144">Via Salaria, 715</p>
+      <p n="145">I-00138 Roma</p>
+      <p n="146">Luxembourg</p>
+      <p n="147">Ministère des Transports</p>
+      <p n="148">Direction de l'Aviation civile</p>
+      <p n="149">L-2938 Luxembourg</p>
+      <p n="150">The Netherlands</p>
+      <p n="151">Luchtverkeersbeveiliging</p>
+      <p n="152">Postbus 7601</p>
+      <p n="153">NL-1118 ZJ Luchthaven Schiphol</p>
+      <p n="154">Portugal</p>
+      <p n="155">Empresa Pública de Aeroportos e Navegaçao Aérea (ANAep)</p>
+      <p n="156">Avenida Sidónio Pais, no 8-5o</p>
+      <p n="157">P-1000 Lisboa</p>
+      <p n="158">Acquisitions for small airports and aerodromes may be made by local authorities or by regional governments.</p>
+      <p n="159">United Kingdom</p>
+      <p n="160">Civil Aviation Authority</p>
+      <p n="161">CAA House</p>
+      <p n="162">45-59 Kingsway</p>
+      <p n="163">UK-London WC2B 6TE</p>
+      <p n="164">Highlands &amp; Islands Airports Ltd (HIAL)</p>
+      <p n="165">Inverness Airport</p>
+      <p n="166">UK-Inverness</p>
+    </body>
+  </text>
+</TEI.2>

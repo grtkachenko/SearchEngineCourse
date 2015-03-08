@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31998R2491-en" n="31998R2491" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2491 English</title>
+        <title>Commission Regulation (EC) No 2491/98 of 18 November 1998 amending Council Regulation (EC) No 3448/93 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2491:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2491:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">4380</classCode>
+        <classCode scheme="eurovoc">5751</classCode>
+        <classCode scheme="eurovoc">614</classCode>
+        <classCode scheme="eurovoc">666</classCode>
+        <classCode scheme="eurovoc">946</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2491-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2491/98 of 18 November 1998 amending Council Regulation (EC) No 3448/93 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2491/98 of 18 November 1998 amending Council Regulation (EC) No 3448/93 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 3448/93 of 6 December 1993 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products (1), as amended by Regulation (EC) No 1097/98 (2), and in particular Article 12(3) thereof,</p>
+      <p n="6">Whereas, since this Regulation was adopted, the Community's Tariff and Statistical Nomenclature (Combined Nomenclature) had been amended; whereas the Annexes to the Regulation should therefore be updated,</p>
+      <p n="7">HAS ADOPTED THIS REGULATION:</p>
+      <p n="8">Article 1</p>
+      <p n="9">Annex B to Regulation (EC) No 3448/93 is hereby replaced by the Annex to this Regulation.</p>
+      <p n="10">Article 2</p>
+      <p n="11">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="12">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="13">Done at Brussels, 18 November 1998.</p>
+      <p n="14">For the Commission</p>
+      <p n="15">Martin BANGEMANN</p>
+      <p n="16">Member of the Commission</p>
+      <p n="17">(1) OJ L 318, 20. 12. 1993, p. 18.</p>
+      <p n="18">(2) OJ L 157, 30. 5. 1998, p. 1.</p>
+      <p n="19">ANNEX</p>
+      <p n="20">'ANNEX B</p>
+      <p n="21">&gt;TABLE&gt;</p>
+      <p n="22">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

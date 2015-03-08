@@ -1,0 +1,40 @@
+<TEI.2 id="jrc41979D0008-en" n="41979D0008" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41979D0008 English</title>
+        <title>79/8/EEC: Decision of the representatives of the Governments of the Member States of the European Economic Community, meeting within the Council, of 18 December 1978 on the abolition of certain postal charges for customs presentation</title>
+      </titleStmt>
+      <extent>13 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41979D0008:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41979D0008:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc41979D0008-en." lang="en">
+    <body>
+      <head n="1">79/8/EEC: Decision of the representatives of the Governments of the Member States of the European Economic Community, meeting within the Council, of 18 December 1978 on the abolition of certain postal charges for customs presentation</head>
+      <p n="2">DECISION OF THE REPRESENTATIVES OF THE GOVERNMENTS OF THE MEMBER STATES OF THE EUROPEAN ECONOMIC COMMUNITY, MEETING WITHIN THE COUNCIL, of 18 December 1978 on the abolition of certain postal charges for customs presentation (79/8/EEC)</p>
+      <p n="3">THE REPRESENTATIVES OF THE GOVERNMENTS OF THE MEMBER STATES OF THE EUROPEAN ECONOMIC COMMUNITY, MEETING WITHIN THE COUNCIL,</p>
+      <p n="4">Whereas the Commission has submitted proposals and the European Parliament and the Economic and Social Committee have delivered opinions on this matter;</p>
+      <p n="5">Whereas progress should be made towards the actual free movement of goods and to making European citizens benefit directly therefrom,</p>
+      <p n="6">HAVE DECIDED AS FOLLOWS:</p>
+      <p n="7">Article 1</p>
+      <p n="8">Charges will no longer be levied for the presentation to customs of consignments of goods from a Member State and which benefit on importation from exemption from turnover taxes and excise duties.</p>
+      <p n="9">Article 2</p>
+      <p n="10">The Member States shall take the necessary measures for the implementation of this Decision as soon as possible but not later than 1 July 1979.</p>
+      <p n="11">Done at Brussels, 18 December 1978.</p>
+      <p n="12">The President</p>
+      <p n="13">H.-D. GENSCHER</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,59 @@
+<TEI.2 id="jrc21999D0513_04-en" n="21999D0513(04)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 21999D0513(04) English</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21999D0513(04):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21999D0513(04):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1634</classCode>
+        <classCode scheme="eurovoc">1921</classCode>
+        <classCode scheme="eurovoc">3359</classCode>
+        <classCode scheme="eurovoc">4028</classCode>
+        <classCode scheme="eurovoc">4048</classCode>
+        <classCode scheme="eurovoc">5618</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc21999D0513_04-en." lang="en">
+    <body>
+      <p n="2">DECISION OF THE EEA JOINT COMMITTEE</p>
+      <p n="3">No 68/98</p>
+      <p n="4">of 4 July 1998</p>
+      <p n="5">amending Annex VI (Social security) to the EEA Agreement</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as adjusted by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas Annex VI to the Agreement was amended by Decision of the EEA Joint Committee No 24/98 of 27 March 1998(1);</p>
+      <p n="9">Whereas Decision No 165 of 30 June 1997 on the forms necessary for the application of Council Regulations (EEC) No 1408/71 and (EEC) No 574/72 (E 128 and E 128B)(2), adopted by the Administrative Commission of the European Communities on Social Security for Migrant Workers, is to be incorporated into the Agreement,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The following point shall be inserted after point 3.48 (Decision No 164) in Annex VI to the Agreement: "3.49 397 D 0823: Decision No 165 of 30 June 1997 on the forms necessary for the application of Council Regulations (EEC) No 1408/71 and (EEC) No 574/72 (E 128 and E 128B) (OJ L 341, 12.12.1997, p. 61)."</p>
+      <p n="13">Article 2</p>
+      <p n="14">The texts of Decision No 165 in the Icelandic and Norwegian languages, which are annexed to the respective language versions of this Decision, are authentic.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Decision shall enter into force on 5 July 1998, provided that all the notifications under Article 103(1) of the Agreement have been made to the EEA Joint Committee.</p>
+      <p n="17">Article 4</p>
+      <p n="18">This Decision shall be published in the EEA section of, and in the EEA supplement to, the Official Journal of the European Communities.</p>
+      <p n="19">Done at Brussels, 4 July 1998.</p>
+      <p n="20">For the EEA Joint Committee</p>
+      <p n="21">The President</p>
+      <p n="22">F. BARBASO</p>
+      <p n="23">(1) OJ L 310, 19.11.1998, p. 4.</p>
+      <p n="24">(2) OJ L 341, 12.12.1997, p. 61.</p>
+    </body>
+  </text>
+</TEI.2>

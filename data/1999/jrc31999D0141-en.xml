@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31999D0141-en" n="31999D0141" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0141 English</title>
+        <title>1999/141/EC: Commission Decision of 10 February 1999 amending the Decision on the Liaison Group on the Elderly (notified under document number C(1999) 211)</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0141:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0141:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2333</classCode>
+        <classCode scheme="eurovoc">3324</classCode>
+        <classCode scheme="eurovoc">3346</classCode>
+        <classCode scheme="eurovoc">3751</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0141-en." lang="en">
+    <body>
+      <head n="1">1999/141/EC: Commission Decision of 10 February 1999 amending the Decision on the Liaison Group on the Elderly (notified under document number C(1999) 211)</head>
+      <p n="2">COMMISSION DECISION of 10 February 1999 amending the Decision on the Liaison Group on the Elderly (notified under document number C(1999) 211) (1999/141/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Whereas, in the light of developments at Community level, it is necessary to adjust the membership of the Group set up by Commission Decision 91/544/EEC (1), as amended by Decision 93/417/EEC (2); whereas at the same time, in the interests of administrative efficiency, the terms of office of the Chairman and of the Members of the Group should be reduced,</p>
+      <p n="6">HAS DECIDED AS FOLLOWS:</p>
+      <p n="7">Sole Article</p>
+      <p n="8">Decision 91/544/EEC is amended as follows:</p>
+      <p n="9">1. in Article 3(2), '25 members` is replaced by '24 members`;</p>
+      <p n="10">2. Article 4(3) is amended as follows:</p>
+      <p n="11">(a) in each case, 'five seats` is replaced by 'four seats`;</p>
+      <p n="12">(b) the following indent is added:</p>
+      <p n="13">'- ESCU-European Senior Citizens Union: four seats`;</p>
+      <p n="14">3. in Article 5(1), '18 months` is replaced by '12 months`;</p>
+      <p n="15">4. in Article 7(1), '18 months` is replaced by '12 months`;</p>
+      <p n="16">5. in the Annex, the following indent is added:</p>
+      <p n="17">'- ESCU-European Senior Citizens Union`.</p>
+      <p n="18">Done at Brussels, 10 February 1999.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Pádraig FLYNN</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 296, 26. 10. 1991, p. 42.</p>
+      <p n="23">(2) OJ L 187, 29. 7. 1993, p. 60.</p>
+    </body>
+  </text>
+</TEI.2>

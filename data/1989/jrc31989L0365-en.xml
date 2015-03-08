@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31989L0365-en" n="31989L0365" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989L0365 English</title>
+        <title>Council Directive 89/365/EEC of 30 May 1989 amending Directive 79/117/EEC prohibiting the placing on the market and use of plant protection products containing certain active substances</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0365:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0365:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989L0365-en." lang="en">
+    <body>
+      <head n="1">Council Directive 89/365/EEC of 30 May 1989 amending Directive 79/117/EEC prohibiting the placing on the market and use of plant protection products containing certain active substances</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL DIRECTIVE</p>
+      <p n="4">of 30 May 1989</p>
+      <p n="5">amending Directive 79/117/EEC prohibiting the placing on the market and use of plant protection products containing certain active substances</p>
+      <p n="6">(89/365/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Directive 79/117/EEC of 21 December 1978 prohibiting the placing on the market and use of plant protection products containing certain active substances (1), as last amended by Directive 87/477/EEC (2), and in particular Article 6 (3) thereof,</p>
+      <p n="10">Having regard to the proposal from the Commission,</p>
+      <p n="11">Whereas Directive 79/117/EEC provided for the contents of its Annex to be regularly amended to take account of the development of scientific and technical knowledge;</p>
+      <p n="12">Whereas, by Directive 86/355/EEC (3), amending the Annex to Directive 79/117/EEC, the marketing and use of ethylene oxide as a plant protection product was prohibited, subject to certain temporary national exceptions for certain minor commodities, where special need exists, until other methods of treatment become available;</p>
+      <p n="13">Whereas these exceptions will expire on 31 December 1989;</p>
+      <p n="14">Whereas the Commission has reviewed the situation concerning possible satisfactory alternative methods of treatment to replace ethylene oxide; whereas it appears from this review that, at present, there is no such alternative method of treatment generally available in respect of two of these exceptions;</p>
+      <p n="15">Whereas, accordingly, it seems necessary to postpone the expiry date of these two exceptions,</p>
+      <p n="16">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The Annex to Directive 79/117/EEC is hereby amended as follows:</p>
+      <p n="19">In entry C 'Ethylene oxide', in the right-hand column, the final sentence is replaced by the following:</p>
+      <p n="20">'Derogations (a), (d), and (e) shall expire on 31 December 1989 at the latest and derogations (b) and (c) on 31 December 1990 at the latest.'</p>
+      <p n="21">Article 2</p>
+      <p n="22">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 31 December 1989. They shall forthwith inform the Commission thereof.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Directive is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 30 May 1989.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">C. ROMERO HERRERA</p>
+      <p n="29">(1) OJ No L 33, 8. 2. 1979, p. 36.</p>
+      <p n="30">(2) OJ No L 273, 26. 9. 1987, p. 40.</p>
+      <p n="31">(3) OJ No L 212, 2. 8. 1986, p. 33.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32001R0962-en" n="32001R0962" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R0962 English</title>
+        <title>Commission Regulation (EC) No 962/2001 of 17 May 2001 amending Regulation (EC) No 2879/2000 laying down detailed rules for applying Council Regulation (EC) No 2702/1999 on measures to provide information on, and to promote, agricultural products in third countries</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0962:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0962:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">2803</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R0962-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 962/2001 of 17 May 2001 amending Regulation (EC) No 2879/2000 laying down detailed rules for applying Council Regulation (EC) No 2702/1999 on measures to provide information on, and to promote, agricultural products in third countries</head>
+      <p n="2">Commission Regulation (EC) No 962/2001</p>
+      <p n="3">of 17 May 2001</p>
+      <p n="4">amending Regulation (EC) No 2879/2000 laying down detailed rules for applying Council Regulation (EC) No 2702/1999 on measures to provide information on, and to promote, agricultural products in third countries</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2702/1999 of 14 December 1999 on measures to provide information on, and to promote, agricultural products in third countries(1), and in particular Article 11 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2879/2000(2) lays down the detailed rules for applying the above Regulation.</p>
+      <p n="10">(2) Article 9 of Regulation (EC) No 2879/2000 specifies the deadlines for Member States to send the Commission the list of programmes and implementing bodies they have selected. In the first instance the deadline is set as 15 May 2001.</p>
+      <p n="11">(3) Because of difficulties in implementing the new arrangements certain Member States have asked for more time in this first year.</p>
+      <p n="12">(4) In order to facilitate the start of the arrangements the deadline for submitting programmes to the Commission should be extended to 15 June 2001.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion expressed at the joint meeting of management committees on the promotion of agricultural products,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Sole Article</p>
+      <p n="16">In Article 9(1) of Regulation (EC) No 2879/2000, the first sentence is replaced by the following: "No later than 30 April each year and in the first instance 15 June 2001, the Member States shall send the Commission the list of programmes and implementing bodies they have selected and a copy of each programme."</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 17 May 2001.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 327, 21.12.1999, p. 7.</p>
+      <p n="23">(2) OJ L 333, 29.12.2000, p. 63.</p>
+    </body>
+  </text>
+</TEI.2>

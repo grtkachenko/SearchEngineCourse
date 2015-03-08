@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31997D0825-en" n="31997D0825" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0825 English</title>
+        <title>97/825/EC: Council Decision of 24 November 1997 concerning the conclusion of the Convention on cooperation for the protection and sustainable use of the river Danube</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0825:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0825:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">216</classCode>
+        <classCode scheme="eurovoc">260</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">4628</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0825-en." lang="en">
+    <body>
+      <head n="1">97/825/EC: Council Decision of 24 November 1997 concerning the conclusion of the Convention on cooperation for the protection and sustainable use of the river Danube</head>
+      <p n="2">COUNCIL DECISION of 24 November 1997 concerning the conclusion of the Convention on cooperation for the protection and sustainable use of the river Danube (97/825/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 130s (1) in conjunction with Article 228 (2), first sentence, and (3), first paragraph thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas the Commission participated, on behalf of the Community, in the negotiations within an ad hoc working party to prepare a Convention on cooperation for the protection and sustainable use of the river Danube;</p>
+      <p n="9">Whereas this Convention was signed on behalf of the Community in Sofia (Bulgaria) on 29 June 1994;</p>
+      <p n="10">Whereas this Convention sets out to establish a framework for bilateral or multilateral cooperation to protect the marine environment, to prevent and control pollution in the river Danube and to ensure sustainable use of the water resources of countries through which the river Danube flows;</p>
+      <p n="11">Whereas the Community has adopted measures in the field covered by the Convention; whereas it is for the Community to make an international commitment in this area;</p>
+      <p n="12">Whereas, in accordance with Article 130r, Community policy on the environment helps to pursue the objectives of preservation, protection and improvement of the quality of the environment, protection of human health, prudent and rational utilization of natural resources, with a view to sustainable development, and promotion at international level of measures to deal with regional or worldwide environmental problems;</p>
+      <p n="13">Whereas the Community's environmental policy as a whole aims at a high level of protection; whereas it is based on the principles of precautionary and preventive action, on the principle of rectifying, as a priority at source, environmental damage and on the polluter should pay principle;</p>
+      <p n="14">Whereas as part of their respective competences the Community and the Member States cooperate with the respective third countries and international organizations;</p>
+      <p n="15">Whereas the conclusion of the Convention by the Community will help to achieve the objectives set out in Article 130r of the Treaty, and whereas it should be approved,</p>
+      <p n="16">HAS DECIDED AS FOLLOWS:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The Convention on cooperation for the protection and sustainable use of the river Danube is hereby approved on behalf of the Community.</p>
+      <p n="19">The text of the Convention is attached to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The President of the Council is hereby authorized to designate the person or persons empowered to deposit the instrument of approval with the Romanian Government, in accordance with Article 26 of the Convention.</p>
+      <p n="22">Done at Brussels, 24 November 1997.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">E. HENNICOT-SCHOEPGES</p>
+      <p n="26">(1) OJ C 288, 1. 10. 1996, p. 19.</p>
+      <p n="27">(2) Opinion delivered on 25 October 1996 (OJ C 347, 18. 11. 1996).</p>
+      <p n="28">(3) OJ C 66, 3. 3. 1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

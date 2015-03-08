@@ -1,0 +1,69 @@
+<TEI.2 id="jrc31997R2199-en" n="31997R2199" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R2199 English</title>
+        <title>Council Regulation (EC) No 2199/97 of 30 October 1997 amending Regulation (EC) No 2201/96 on the common organization of the markets in processed fruit and vegetable products</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2199:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2199:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1605</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2730</classCode>
+        <classCode scheme="eurovoc">2731</classCode>
+        <classCode scheme="eurovoc">3633</classCode>
+        <classCode scheme="eurovoc">4498</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R2199-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2199/97 of 30 October 1997 amending Regulation (EC) No 2201/96 on the common organization of the markets in processed fruit and vegetable products</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2199/97 of 30 October 1997 amending Regulation (EC) No 2201/96 on the common organization of the markets in processed fruit and vegetable products</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas Annex III to Regulation (EC) No 2201/96 (4) allocates fresh tomatoes by Member State and product group for the 1997/98 and 1998/99 marketing years; whereas, in the case of France, to adjust its quota of tinned whole peeled tomatoes and its quota of other products to the needs of its processing industry, the quota for tinned whole peeled tomatoes should be reduced by 15 000 tonnes and the quota for other products should be increased by the same amount; whereas the total quantities for these two product groups as set out in Article 6 (2) of the Regulation should also be adjusted as a result,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EC) No 2201/96 is hereby amended as follows:</p>
+      <p n="12">1. The second and third indents of the second subparagraph of Article 6 (2) shall be replaced by:</p>
+      <p n="13">'- tinned whole peeled tomatoes:</p>
+      <p n="14">1 321 119 tonnes</p>
+      <p n="15">- other products:</p>
+      <p n="16">929 890 tonnes.`</p>
+      <p n="17">2. Annex III shall be replaced by the following:</p>
+      <p n="18">'ANNEX III</p>
+      <p n="19">Allocation of fresh tomatoes by Member State and by product group for the 1997/1998 and 1998/1999 marketing years</p>
+      <p n="20">&gt;TABLE&gt;</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="23">It shall apply from 15 June 1997.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Luxembourg, 30 October 1997.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">F. BODEN</p>
+      <p n="29">(1) OJ C 266, 3. 9. 1997, p. 17.</p>
+      <p n="30">(2) Opinion delivered on 22 October 1997 (not yet published in the Official Journal).</p>
+      <p n="31">(3) Opinion delivered on 29 October 1997 (not yet published in the Official Journal).</p>
+      <p n="32">(4) OJ L 297, 21. 11. 1996, p. 29.</p>
+    </body>
+  </text>
+</TEI.2>

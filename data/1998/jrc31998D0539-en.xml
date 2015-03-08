@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31998D0539-en" n="31998D0539" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0539 English</title>
+        <title>98/539/EC, ECSC, Euratom: Commission Decision of 7 September 1998 updating the amounts specified in the Regulation laying down detailed rules for the implementation of the Financial Regulation (notified under document number C(1998) 2581)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0539:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0539:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1348</classCode>
+        <classCode scheme="eurovoc">174</classCode>
+        <classCode scheme="eurovoc">189</classCode>
+        <classCode scheme="eurovoc">3119</classCode>
+        <classCode scheme="eurovoc">5158</classCode>
+        <classCode scheme="eurovoc">763</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0539-en." lang="en">
+    <body>
+      <head n="1">98/539/EC, ECSC, Euratom: Commission Decision of 7 September 1998 updating the amounts specified in the Regulation laying down detailed rules for the implementation of the Financial Regulation (notified under document number C(1998) 2581)</head>
+      <p n="2">COMMISSION DECISION of 7 September 1998 updating the amounts specified in the Regulation laying down detailed rules for the implementation of the Financial Regulation (notified under document number C(1998) 2581) (98/539/EC, ECSC, Euratom)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the Treaty establishing the European Coal and Steel Community,</p>
+      <p n="6">Having regard to the Treaty establishing the European Atomic Energy Community,</p>
+      <p n="7">Having regard to Commission Regulation (Euratom, ECSC, EC) No 3418/93 of 9 December 1993 laying down detailed rules for the implementation of certain provisions of the Financial Regulation of 21 December 1977 (1), amended by Decision 97/594/EC, ECSC, Euratom (2), and in particular Article 145 thereof,</p>
+      <p n="8">Whereas the European consumer price index (ECPI) was 98,6 in December 1995 and 100,7 in December 1996;</p>
+      <p n="9">Whereas Article 1 of Decision 97/594/ECSC, EC, Euratom should be corrected to show that the ECU 98 700 threshold above which the powers of the ACPC (JRC) take effect for equipment and supply contracts not of a scientific or technical nature (Article 110, second indent point (b) of Regulation (Euratom, ECSC, EC) No 3418/93) also applies to scientific and technical equipment and to R&amp; TD works contracts (Article 110, first indent),</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The fixed amounts specified in the Regulation laying down detailed rules for the implementation of certain provisions of the Financial Regulation are updated as follows with effect from 1 January 1998:</p>
+      <p n="13">&gt;TABLE&gt;</p>
+      <p n="14">Article 2</p>
+      <p n="15">In Article 1 of Decision 97/594/EC, ECSC, Euratom the reference to 'Article 110, second indent point (b)` is amended to read 'Article 110, first indent and second indent point (b)`.</p>
+      <p n="16">Article 3</p>
+      <p n="17">This Decision shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">The Commission's Accounting Officer shall communicate this Decision to the other Community institutions and bodies.</p>
+      <p n="19">Done at Brussels, 7 September 1998.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Erkki LIIKANEN</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 315, 16. 12. 1993. In accordance with Article 149, Regulation (Euratom, ECSC, EC) No 3418/93 entered into force on 1 January 1994.</p>
+      <p n="24">(2) OJ L 239, 30. 8. 1997, p. 54.</p>
+    </body>
+  </text>
+</TEI.2>

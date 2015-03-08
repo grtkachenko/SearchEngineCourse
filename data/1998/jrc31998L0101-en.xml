@@ -1,0 +1,76 @@
+<TEI.2 id="jrc31998L0101-en" n="31998L0101" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998L0101 English</title>
+        <title>Commission Directive 98/101/EC of 22 December 1998 adapting to technical progress Council Directive 91/157/EEC on batteries and accumulators containing certain dangerous substances (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0101:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0101:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1158</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">3864</classCode>
+        <classCode scheme="eurovoc">5383</classCode>
+        <classCode scheme="eurovoc">707</classCode>
+        <classCode scheme="eurovoc">718</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998L0101-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 98/101/EC of 22 December 1998 adapting to technical progress Council Directive 91/157/EEC on batteries and accumulators containing certain dangerous substances (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 98/101/EC of 22 December 1998 adapting to technical progress Council Directive 91/157/EEC on batteries and accumulators containing certain dangerous substances (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 91/157/EEC of 18 March 1991 on batteries and accumulators containing certain dangerous substances (1), and in particular Article 10 thereof,</p>
+      <p n="6">Whereas within the framework of the Act of Accession of Austria, Finland and Sweden, in particular in Articles 69 and 112, it is foreseen that during a period of four years from the date of accession the provisions concerning the mercury containing batteries referred to in Article 3 of Directive 91/157/EEC should be reviewed in accordance with EC procedures;</p>
+      <p n="7">Whereas, in order to achieve a high level of environmental protection, the marketing of certain batteries should be prohibited, in view of the amount of mercury they contain; whereas that prohibition, in order to achieve its full effect for the environment, must cover appliances into which such batteries and accumulators are incorporated; whereas such prohibition may have a positive impact in facilitating the recovery of batteries;</p>
+      <p n="8">Whereas the technical development of alternative heavy-metal-free batteries should be taken into account;</p>
+      <p n="9">Whereas Directive 91/157/EEC should be adapted accordingly;</p>
+      <p n="10">Whereas the measures provided for in this Directive are in accordance with the opinion expressed by the Committee established pursuant to Article 18 of Council Directive 75/442/EEC of 15 July 1975 on waste (2), as last amended by Commission Decision 96/350/EC (3),</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Directive 91/157/EEC is amended as follows:</p>
+      <p n="14">1. Article 3(1) is replaced by the following:</p>
+      <p n="15">'1. Member States shall prohibit, as from 1 January 2000 at the latest, the marketing of batteries and accumulators, containing more than 0,0005 % of mercury by weight, including in those cases where these batteries and accumulators are incorporated into appliances. Button cells and batteries composed of button cells with a mercury content of no more than 2 % by weight shall be exempted from this prohibition.`;</p>
+      <p n="16">2. Annex I is replaced by the text in the Annex to this Directive.</p>
+      <p n="17">Article 2</p>
+      <p n="18">Member States shall adopt and publish, before 1 January 2000, the provisions necessary to comply with this Directive. They shall forthwith inform the Commission thereof.</p>
+      <p n="19">When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">Article 4</p>
+      <p n="23">This Directive is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 22 December 1998.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Ritt BJERREGAARD</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 78, 26. 3. 1991, p. 38.</p>
+      <p n="29">(2) OJ L 194, 25. 7. 1975, p. 47.</p>
+      <p n="30">(3) OJ L 135, 6. 6. 1996, p. 32.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">'ANNEX I</p>
+      <p n="33">The following batteries and accumulators are covered by this Directive:</p>
+      <p n="34">1. Batteries and accumulators put on the market as from 1 January 1999 containing more than 0,0005 % of mercury by weight.</p>
+      <p n="35">2. Batteries and accumulators put on the market as from 18 September 1992 and containing:</p>
+      <p n="36">- more than 25 mg of mercury per cell, except alkaline manganese batteries,</p>
+      <p n="37">- more than 0,025 % of cadmium by weight,</p>
+      <p n="38">- more than 0,4 % of lead by weight.</p>
+      <p n="39">3. Alkaline manganese batteries containing more than 0,025 % of mercury by weight placed on the market as from 18 September 1992.`</p>
+    </body>
+  </text>
+</TEI.2>

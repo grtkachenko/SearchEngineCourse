@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32004D0485-en" n="32004D0485" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0485 English</title>
+        <title>2004/485/EC: Council Decision of 26 April 2004 amending Decision 2003/231/EC concerning the accession of the European Community to the Protocol of Amendment to the International Convention on the simplification and harmonisation of customs procedures (Kyoto Convention)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0485:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0485:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1232</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">3181</classCode>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0485-en." lang="en">
+    <body>
+      <head n="1">2004/485/EC: Council Decision of 26 April 2004 amending Decision 2003/231/EC concerning the accession of the European Community to the Protocol of Amendment to the International Convention on the simplification and harmonisation of customs procedures (Kyoto Convention)</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 26 April 2004</p>
+      <p n="4">amending Decision 2003/231/EC concerning the accession of the European Community to the Protocol of Amendment to the International Convention on the simplification and harmonisation of customs procedures (Kyoto Convention)</p>
+      <p n="5">(2004/485/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 in conjunction with Article 300(2), first subparagraph, first sentence thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Decision 2003/231/EC(1) authorises the Community's accession to the Protocol of Amendment to the Kyoto Convention, with the exception of Appendix III and provides that the deposit of the Community's instrument of accession must take place at the same time as the deposit of instruments of accession by the Member States.</p>
+      <p n="11">(2) There is a possibility that some Member States may not have completed their national ratification procedures by 30 April 2004.</p>
+      <p n="12">(3) Some of the States which will be joining the European Union on 1 May 2004 in accordance with the 2003 Accession Treaty, have already deposited with the Secretary-General of the Customs Cooperation Council their instruments of accession to the Protocol of Amendment to the Kyoto Convention, including Appendices I and II.</p>
+      <p n="13">(4) It is necessary to avoid a legal situation in which some Member States are members of an international convention to which the Community has not yet acceded, although the majority of the Convention's provisions fall within the exclusive competence of the Community.</p>
+      <p n="14">(5) Decision 2003/231/EC should therefore be amended accordingly,</p>
+      <p n="15">HAS DECIDED AS FOLLOWS:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The second sentence of Article 3(1) of Decision 2003/231/EC shall be replaced by the following:"Such deposit shall take place on 30 April 2004, at the same time as the deposit of instruments of accession by the Member States that have completed their national accession procedures at that date."</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Decision shall be published in the Official Journal of the European Union</p>
+      <p n="20">Done at Luxembourg, 26 April 2004.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">J. Walsh</p>
+      <p n="24">(1) OJ L 86, 3.4.2003, p. 21.</p>
+    </body>
+  </text>
+</TEI.2>

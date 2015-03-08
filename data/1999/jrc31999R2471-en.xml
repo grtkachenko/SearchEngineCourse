@@ -1,0 +1,71 @@
+<TEI.2 id="jrc31999R2471-en" n="31999R2471" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2471 English</title>
+        <title>Commission Regulation (EC) No 2471/1999 of 23 November 1999 amending Council Regulation (EC) No 669/97 opening and providing for the administration of Community tariff quotas for certain fish and fishery products originating in the Faroe Islands</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2471:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2471:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1294</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2387</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">4350</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2471-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2471/1999 of 23 November 1999 amending Council Regulation (EC) No 669/97 opening and providing for the administration of Community tariff quotas for certain fish and fishery products originating in the Faroe Islands</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2471/1999</p>
+      <p n="3">of 23 November 1999</p>
+      <p n="4">amending Council Regulation (EC) No 669/97 opening and providing for the administration of Community tariff quotas for certain fish and fishery products originating in the Faroe Islands</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 669/97 of 14 April 1997 opening and providing for the administration of Community tariff quotas and ceilings, establishing Community surveillance for certain fish and fishery products originating in the Faroe Islands, defining detailed provisions for amending and adapting these measures and repealing Regulation (EC) No 1983/95(1), as amended by Commission Regulation (EC) No 1034/98(2), and in particular Articles 5 and 6 thereof,</p>
+      <p n="8">(1) Whereas Decision No 1/99 of the EC/Denmark-Faroe Islands Joint Committee(3) replaced Protocol 1 of the Agreement concerning the tariff treatment and arrangements applicable to certain fish and fishery products released for free circulation in the Community or imported into the Faroes;</p>
+      <p n="9">(2) Whereas the new Protocol 1 abolished the clause on reference prices, Community tariff ceilings, and the statistical surveillance currently applied to certain fish and fishery products exempt from customs duties; whereas, therefore, Regulation (EC) No 669/97 should be amended to delete the Articles which introduced these measures, along with Annexes II and III thereto;</p>
+      <p n="10">(3) Whereas the duty-free tariff quota for salmon (09.0673) has been replaced by unlimited duty-free imports; whereas most-favoured-nation (MFN) status has been restored for certain products which currently enjoy relief from duty under tariff quotas, notably prepared and preserved herring and mackerel (09.0677), hake fillets (09.0683), crab (09.0685) and mussels (09.0687); whereas tariff quotas remain for four other products; whereas Annex I to Regulation (EC) No 669/97 should be amended to take account of these changes;</p>
+      <p n="11">(4) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Regulation (EC) No 669/97 is amended as follows:</p>
+      <p n="15">1. In the title, the words "and ceilings" and the words "and establishing Community surveillance" are deleted.</p>
+      <p n="16">2. In Article 1 "Annex I" is replaced by "the Annex".</p>
+      <p n="17">3. Articles 4 and 7 are deleted.</p>
+      <p n="18">4. Annex I is replaced by the Annex to this Regulation.</p>
+      <p n="19">5. The quantities imported since 1 January 1999 under tariff quotas with order numbers 09.0671, 09.0675, 09.0679 and 09.0681 applicable by virtue of Regulation (EC) No 669/97 shall count towards the relevant tariff quotas listed in the Annex to this Regulation.</p>
+      <p n="20">6. Annexes II and III are deleted.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="23">It shall apply with effect from 1 August 1999.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 23 November 1999.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Frederik BOLKESTEIN</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 101, 18.4.1997, p. 1.</p>
+      <p n="30">(2) OJ L 148, 19.5.1998, p. 6.</p>
+      <p n="31">(3) OJ L 178, 14.7.1999, p. 58.</p>
+      <p n="32">ANNEX</p>
+      <p n="33">FISHERY PRODUCTS SUBJECT TO TARIFF QUOTAS</p>
+      <p n="34">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

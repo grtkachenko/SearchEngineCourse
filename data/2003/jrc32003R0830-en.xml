@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32003R0830-en" n="32003R0830" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0830 English</title>
+        <title>Commission Regulation (EC) No 830/2003 of 14 May 2003 amending Regulation (EC) No 2659/94 on detailed rules for the granting of private storage aid for Grana padano, Parmigiano-Reggiano and Provolone cheeses</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0830:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0830:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1104</classCode>
+        <classCode scheme="eurovoc">2624</classCode>
+        <classCode scheme="eurovoc">4288</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0830-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 830/2003 of 14 May 2003 amending Regulation (EC) No 2659/94 on detailed rules for the granting of private storage aid for Grana padano, Parmigiano-Reggiano and Provolone cheeses</head>
+      <p n="2">Commission Regulation (EC) No 830/2003</p>
+      <p n="3">of 14 May 2003</p>
+      <p n="4">amending Regulation (EC) No 2659/94 on detailed rules for the granting of private storage aid for Grana padano, Parmigiano-Reggiano and Provolone cheeses</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), as last amended by Commission Regulation (EC) No 509/2002(2), and in particular Article 10 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 6(1) of Commission Regulation (EC) No 2659/94(3), as last amended by Regulation (EC) No 779/2002(4), lays down the amounts of private storage aid for Grana padano, Parmigiano-Reggiano and Provolone cheeses. Those amounts should be amended to take account of the development in storage costs and of market price forecasts.</p>
+      <p n="10">(2) The Management Committee for Milk and Milk Products has not delivered an opinion within the time limit set by its chairman,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">In Article 6 of Regulation (EC) No 2659/94, paragraph 1 is replaced by the following:</p>
+      <p n="14">"1. The amount of private storage aid for cheese shall be as follows:</p>
+      <p n="15">(a) EUR 20 per tonne for the fixed costs;</p>
+      <p n="16">(b) EUR 0,25 per tonne per day of storage under contract for the warehousing costs;</p>
+      <p n="17">(c) an amount for the financial costs, in euros per tonne per day of storage under contract, as follows:</p>
+      <p n="18">- 0,40 for Grana padano</p>
+      <p n="19">- 0,58 for Parmigiano-Reggiano</p>
+      <p n="20">- 0,32 for Provolone."</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 14 May 2003.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 160, 26.6.1999, p. 48.</p>
+      <p n="29">(2) OJ L 79, 22.3.2002, p. 15.</p>
+      <p n="30">(3) OJ L 284, 1.11.1994, p. 26.</p>
+      <p n="31">(4) OJ L 123, 9.5.2002, p. 31.</p>
+    </body>
+  </text>
+</TEI.2>

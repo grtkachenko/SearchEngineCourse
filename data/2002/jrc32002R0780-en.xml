@@ -1,0 +1,74 @@
+<TEI.2 id="jrc32002R0780-en" n="32002R0780" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0780 English</title>
+        <title>Commission Regulation (EC) No 780/2002 of 8 May 2002 amending Regulation (EC) No 3063/93 laying down detailed rules for the application of Council Regulation (EEC) No 2019/93 with regard to the aid scheme for the production of honey of specific quality</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0780:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0780:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">1907</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">4171</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0780-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 780/2002 of 8 May 2002 amending Regulation (EC) No 3063/93 laying down detailed rules for the application of Council Regulation (EEC) No 2019/93 with regard to the aid scheme for the production of honey of specific quality</head>
+      <p n="2">Commission Regulation (EC) No 780/2002</p>
+      <p n="3">of 8 May 2002</p>
+      <p n="4">amending Regulation (EC) No 3063/93 laying down detailed rules for the application of Council Regulation (EEC) No 2019/93 with regard to the aid scheme for the production of honey of specific quality</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2019/93 of 19 July 1993 introducing specific measures for the smaller Aegean islands concerning certain agricultural products(1), as last amended by Regulation (EC) No 442/2002(2), and in particular Article 12(3) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Regulation (EEC) No 2019/93 introduces a scheme for the smaller Aegean islands of aid for hives for the production of honey of specific quality. Article 12 of that Regulation, as amended by Regulation (EC) No 442/2002, now refers to "associations of beekeepers", so the terminology used in Commission Regulation (EC) No 3063/93(3) should be amended.</p>
+      <p n="10">(2) To bring Regulation (EC) No 3063/93 up to date, the derogations for 1993 relating to the dates for aid applications and payment and for notification to the Commission of information on aid paid out, and to the percentage of aid applications checked on the spot should be deleted. The reference to the agricultural conversion rate should also be deleted.</p>
+      <p n="11">(3) Regulation (EC) No 3063/93 should be amended accordingly.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EC) No 3063/93 is amended as follows:</p>
+      <p n="16">1. Article 1 is replaced by the following: "Article 1</p>
+      <p n="17">Aid for the production of quality honey specific to the smaller Aegean islands containing a large proportion of thyme honey shall be granted to associations of beekeepers recognised by the competent authorities who undertake annual programmes of initiatives to improve the conditions under which quality honey is marketed and promoted."</p>
+      <p n="18">2. In Article 2(2), the first sentence is replaced by the following: "The programmes shall be submitted by the associations of beekeepers to the Greek authority for approval."</p>
+      <p n="19">3. Article 3 is amended as follows:</p>
+      <p n="20">(a) the second subparagraph of paragraph 1 is deleted;</p>
+      <p n="21">(b) the first indent of paragraph 2 is replaced by the following: "- the name and address of the association of beekeepers, or the name, forename and address of the beekeeper,".</p>
+      <p n="22">4. In Article 4, the second paragraph is deleted.</p>
+      <p n="23">5. Article 5 is amended as follows:</p>
+      <p n="24">(a) in the first paragraph, the first and second indents are replaced by the following: "- the number of associations of beekeepers and the number of individual beekeepers who have submitted an aid application,</p>
+      <p n="25">- the number of hives in respect of which aid has been applied for by associations of beekeepers and individual beekeepers respectively, and granted,";</p>
+      <p n="26">(b) the second paragraph is deleted.</p>
+      <p n="27">6. In the first subparagraph of Article 6(2), the second sentence is deleted.</p>
+      <p n="28">7. Article 8 is deleted.</p>
+      <p n="29">Article 2</p>
+      <p n="30">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="31">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="32">Done at Brussels, 8 May 2002.</p>
+      <p n="33">For the Commission</p>
+      <p n="34">Franz Fischler</p>
+      <p n="35">Member of the Commission</p>
+      <p n="36">(1) OJ L 184, 27.7.1993, p. 1.</p>
+      <p n="37">(2) OJ L 68, 12.3.2002, p. 4.</p>
+      <p n="38">(3) OJ L 274, 6.11.1993, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>

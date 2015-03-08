@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R0763-en" n="32003R0763" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0763 English</title>
+        <title>Commission Regulation (EC) No 763/2003 of 30 April 2003 amending Regulation (EC) No 2768/98 on the aid scheme for the private storage of olive oil</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0763:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0763:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1264</classCode>
+        <classCode scheme="eurovoc">164</classCode>
+        <classCode scheme="eurovoc">20</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">4288</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0763-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 763/2003 of 30 April 2003 amending Regulation (EC) No 2768/98 on the aid scheme for the private storage of olive oil</head>
+      <p n="2">Commission Regulation (EC) No 763/2003</p>
+      <p n="3">of 30 April 2003</p>
+      <p n="4">amending Regulation (EC) No 2768/98 on the aid scheme for the private storage of olive oil</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Regulation No 136/66/EEC of the Council of 22 September 1966 on the establishment of a common organisation of the market in oils and fats(1), as last amended by Regulation (EC) No 1513/2001(2), and in particular the third subparagraph of Article 12a thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 5 of Council Regulation (EC) No 1638/98 of 20 July 1998 amending Regulation No 136/66/EEC on the establishment of a common organisation of the market in oils and fats, as amended by Regulation (EC) No 1513/2001(3), provided, as a result of the latter Regulation, for the repeal of Article 12a of Regulation No 136/66/EEC with effect from 1 November 2004 instead of 1 November 2001, allowing the period of validity of certain market measures, including a private storage aid scheme, to be extended in this way. The said Article 12a provides that in the event of serious disturbance of the market in certain regions of the Community an aid scheme for the private storage of olive oil may be implemented.</p>
+      <p n="10">(2) In order to enable contracts for the private storage of virgin olive oil in bulk to continue to be carried until 31 October 2004, Article 1(2) of Commission Regulation (EC) No 2768/98(4), as amended by Regulation (EC) No 1081/01(5), should be amended accordingly. For reasons of legal certainty, provision should be made for this Regulation to apply from 1 November 2001.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Oils and Fats,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">In Article 1(2) of Regulation (EC) No 2768/98, the date "31 October 2001" is replaced by "31 October 2004".</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="17">It shall apply from 1 November 2001.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 30 April 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ 172, 30.9.1966, p. 3025/66.</p>
+      <p n="24">(2) OJ L 201, 26.7.2001, p. 4.</p>
+      <p n="25">(3) OJ L 210, 28.7.1998, p. 32.</p>
+      <p n="26">(4) OJ L 346, 21.12.1998, p. 14.</p>
+      <p n="27">(5) OJ L 149, 2.6.2001, p. 17.</p>
+    </body>
+  </text>
+</TEI.2>

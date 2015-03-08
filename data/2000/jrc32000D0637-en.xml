@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32000D0637-en" n="32000D0637" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0637 English</title>
+        <title>2000/637/EC: Commission Decision of 22 September 2000 on the application of Article 3(3)(e) of Directive 1999/5/EC to radio equipment covered by the regional arrangement concerning the radiotelephone service on inland waterways (notified under document number C(2000) 2718) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0637:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0637:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2040</classCode>
+        <classCode scheme="eurovoc">30</classCode>
+        <classCode scheme="eurovoc">3648</classCode>
+        <classCode scheme="eurovoc">3860</classCode>
+        <classCode scheme="eurovoc">3875</classCode>
+        <classCode scheme="eurovoc">5235</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0637-en." lang="en">
+    <body>
+      <head n="1">2000/637/EC: Commission Decision of 22 September 2000 on the application of Article 3(3)(e) of Directive 1999/5/EC to radio equipment covered by the regional arrangement concerning the radiotelephone service on inland waterways (notified under document number C(2000) 2718) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 22 September 2000</p>
+      <p n="4">on the application of Article 3(3)(e) of Directive 1999/5/EC to radio equipment covered by the regional arrangement concerning the radiotelephone service on inland waterways</p>
+      <p n="5">(notified under document number C(2000) 2718)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/637/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Directive 1999/5/EC of the European Parliament and of the Council of 9 March 1999 on radio equipment and telecommunications terminal equipment and the mutual recognition of their conformity(1), and in particular Article 3(3)(e), thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) A number of Member States intend to implement common safety principles and rules for people and goods on inland waterways.</p>
+      <p n="13">(2) The harmonisation of radiotelephone services shall contribute to a safer navigation on inland waterways, particularly in case of bad weather conditions.</p>
+      <p n="14">(3) Having participated in a regional conference in Basle held in accordance with Article S6 of the ITU Radio Regulations a number of Member States in which inland navigation takes place intend to approve and implement an arrangement concerning the radiotelephone service on inland waterways (hereafter referred to as the "arrangement").</p>
+      <p n="15">(4) Only equipment intended for installation on inland navigation vessels, in Member States where the arrangement is to be implemented, and operating in the frequency ranges laid down by the arrangement is covered.</p>
+      <p n="16">(5) All equipment operating in these frequency ranges should comply with the objectives of this arrangement and implement the automatic transmitter identification system (ATIS) as defined in Annex B of ETS 600698 and shall not be able to be operated above a defined maximum transmission power on the service categories "ship-to-ship", "ship-to-port-authorities" and "onboard-communication".</p>
+      <p n="17">(6) The measures set out in this Decision are in accordance with the opinion of the Telecommunications Conformity Assessment and Market Surveillance Committee,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">This Decision applies to radio equipment to be used on waterways covered by the arrangement concerning the radiotelephone service on inland waterways concluded in Basle on 6 April 2000 in Member States where the arrangement is to be implemented.</p>
+      <p n="21">Article 2</p>
+      <p n="22">1. Radio equipment operating in the frequency bands, laid down by the arrangement concerning the radiotelephone service on inland waterways shall implement the automatic transmitter identification system (ATIS).</p>
+      <p n="23">2. Radio communication equipment on the service categories "ship-to-ship", "ship-to-port-authorities" and "onboard-communication", laid down by the arrangement concerning the radiotelephone service on inland waterways shall not be able to transmit at transmitter powers higher than 1 watt.</p>
+      <p n="24">Article 3</p>
+      <p n="25">The requirements of Article 2 of this Decision shall apply from the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="26">Article 4</p>
+      <p n="27">This Decision is addressed to the Member States.</p>
+      <p n="28">Done at Brussels, 22 September 2000.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">Erkki Liikanen</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ L 91, 7.4.1999, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

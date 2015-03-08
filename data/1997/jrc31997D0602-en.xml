@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31997D0602-en" n="31997D0602" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0602 English</title>
+        <title>97/602/EC: Council Decision of 22 July 1997 concerning the list referred to in the second subparagraph of Article 3 (1) of Regulation (EEC) No 3254/91 and in Article 1 (1) (a) of Commission Regulation (EC) No 35/97</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0602:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0602:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2826</classCode>
+        <classCode scheme="eurovoc">3128</classCode>
+        <classCode scheme="eurovoc">3887</classCode>
+        <classCode scheme="eurovoc">865</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0602-en." lang="en">
+    <body>
+      <head n="1">97/602/EC: Council Decision of 22 July 1997 concerning the list referred to in the second subparagraph of Article 3 (1) of Regulation (EEC) No 3254/91 and in Article 1 (1) (a) of Commission Regulation (EC) No 35/97</head>
+      <p n="2">COUNCIL DECISION of 22 July 1997 concerning the list referred to in the second subparagraph of Article 3 (1) of Regulation (EEC) No 3254/91 and in Article 1 (1) (a) of Commission Regulation (EC) No 35/97 (97/602/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to Council Regulation (EEC) No 3254/91 of 4 November 1991 prohibiting the use of leghold traps in the Community and the introduction into the Community of pelts and manufactured goods of certain wild animal species originating in countries which catch them by means of leghold traps or trapping methods which do not meet international humane trapping standards (1), and in particular the second subparagraph of Article 3 (1) thereof,</p>
+      <p n="7">Whereas Commission Regulation (EC) No 35/97 of 10 January 1997 laying down provisions on the certification of pelts and goods covered by Council Regulation (EEC) No 3254/91 (2), and in particular Article 1 (1) (a) thereof, is applicable only with respect to the importation of pelts of animals not born and bred in captivity from countries appearing on the list in the Annex to this Decision;</p>
+      <p n="8">Whereas the said list has been established on the basis of information requested by the Commission from countries within the known distribution area of the species referred to in Annex I to Regulation (EEC) No 3254/91;</p>
+      <p n="9">Whereas an International Agreement on Humane Trapping Standards has been sent to the Council for approval; whereas it is appropriate to refrain from acts which would defeat the object and the purpose of the Agreement; whereas the list includes therefore the countries which have initialled the Agreement;</p>
+      <p n="10">Whereas, inter alia, pending accession to the International Agreement on Humane Trapping Standards by additional third countries or any other situation covered by Article 3 (1) of Regulation (EEC) No 3254/91, this Decision can be only of a transitional nature; whereas the aforementioned list should be amended immediately according to the new situations, in order not to hinder the trade in furs and fur-related products;</p>
+      <p n="11">Whereas the Committee referred to in Article 5 of Regulation (EEC) No 3254/91 and consulted by written procedure on 20 December 1996 has not delivered a favourable opinion on the draft Commission decision identifying the list of authorized countries,</p>
+      <p n="12">HAS ADOPTED THIS DECISION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The list of countries which meet at least one of the conditions set out in the first subparagraph of Article 3 (1) of Regulation (EEC) No 3254/91 and referred to in Article 1 (1) (a) of Commission Regulation (EC) No 35/97 is contained in the Annex to this Decision, together with the species concerned.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Decision shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Decision is addressed to the Member States.</p>
+      <p n="19">Done at Brussels, 22 July 1997.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">J. POOS</p>
+      <p n="23">(1) OJ L 308, 9. 11. 1991, p. 1.</p>
+      <p n="24">(2) OJ L 8, 11. 1. 1997, p. 2.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">List of countries/species referred to in Article 1</p>
+      <p n="27">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31996R2067-en" n="31996R2067" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2067 English</title>
+        <title>Commission Regulation (EC) No 2067/96 of 29 October 1996 amending Regulation (EC) No 1000/96 as regards certain marketing standards for poultrymeat</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2067:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2067:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2067-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2067/96 of 29 October 1996 amending Regulation (EC) No 1000/96 as regards certain marketing standards for poultrymeat</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2067/96 of 29 October 1996 amending Regulation (EC) No 1000/96 as regards certain marketing standards for poultrymeat</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1906/90 of 26 June 1990 on certain marketing standards for poultry (1), as last amended by Regulation (EC) No 3204/93 (2), and in particular Article 9 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 1538/91 of 5 June 1991, introducing detailed rules for implementing Council Regulation (EEC) No 1906/90 on certain marketing standards for poultry (3), as last amended by Regulation (EC) No 1000/96 (4) as regards the definition of capon and the relevant production criteria; whereas it is necessary to provide for a transitional period for the application of the new definition in order to take account of the interests of certain producers during the end-of-year marketing period;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Article 2 of Regulation (EC) No 1000/96 is hereby replaced by the following:</p>
+      <p n="11">'Article 2</p>
+      <p n="12">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="13">It shall apply from 1 March 1997.`</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 29 October 1996.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 173, 6. 7. 1990, p. 1.</p>
+      <p n="22">(2) OJ No L 289, 24. 11. 1993, p. 3.</p>
+      <p n="23">(3) OJ No L 143, 7. 6. 1991, p. 11.</p>
+      <p n="24">(4) OJ No L 134, 5. 6. 1996, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

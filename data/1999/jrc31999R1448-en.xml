@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31999R1448-en" n="31999R1448" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1448 English</title>
+        <title>Council Regulation (EC) No 1448/1999 of 24 June 1999 introducing transitional measures for the management of certain Mediterranean fisheries and amending Regulation (EC) No 1626/94</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1448:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1448:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1159</classCode>
+        <classCode scheme="eurovoc">1879</classCode>
+        <classCode scheme="eurovoc">2324</classCode>
+        <classCode scheme="eurovoc">5228</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1448-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1448/1999 of 24 June 1999 introducing transitional measures for the management of certain Mediterranean fisheries and amending Regulation (EC) No 1626/94</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1448/1999</p>
+      <p n="3">of 24 June 1999</p>
+      <p n="4">introducing transitional measures for the management of certain Mediterranean fisheries and amending Regulation (EC) No 1626/94</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1626/94 of 27 June 1994 laying down certain technical measures for the conservation of fishery resources in the Mediterranean(1), and in particular Article 3(1) and Article 6(1) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">(1) Whereas Article 3(1) and Article 6(1) of Regulation (EC) No 1626/94 set out certain technical conservation measures which were subject to derogating conditions until 31 December 1998;</p>
+      <p n="10">(2) Whereas the abovementioned Articles provide that the Council can modify the date of expiration of the derogations, on a proposal by the Commission, in the light of scientific data proving that their use does not have a negative impact on the resources;</p>
+      <p n="11">(3) Whereas, according to submissions by certain Member States, termination of the derogation period is causing disturbance to the fishing activities of numerous Mediterranean fishermen whose living depends to a great extent on the possibility of undertaking fisheries under the derogating conditions;</p>
+      <p n="12">(4) Whereas preliminary scientific data presented by the said Member States suggest that continuation of the derogation will have a low effect on resources; whereas it is however desirable to have available the most updated and complete information, analysed by the Scientific, Technical and Economic Committee for Fisheries, before a definitive decision is taken;</p>
+      <p n="13">(5) Whereas it is therefore appropriate to allow temporarily a continuation of these fishing activities until the Council is in a position to adopt a definitive solution to the problem, founded on a solid scientific basis;</p>
+      <p n="14">(6) Whereas, in order to set such a solid scientific basis, detailed information should be gathered on the likely impact on the resources of the fishing activities concerned,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Regulation (EC) No 1626/94 is hereby amended as follows:</p>
+      <p n="18">1. in Article 3(1), the date of 31 December 1998 shall be replaced by 31 May 2000;</p>
+      <p n="19">2. in Article 6(1), the date of 31 December 1998 shall be replaced by 31 May 2000.</p>
+      <p n="20">Article 2</p>
+      <p n="21">1. Member States shall produce and make available to the Commission, before 1 February 2000, all possible scientific information on the impact on the resources subject to the fisheries carried out under the conditions set out in Article 3(1) and Article 6(1) of Regulation (EC) No 1626/94. This information should include fleet characteristics, technical details of the gear used and population dynamics of the biota likely to be affected by the fisheries.</p>
+      <p n="22">2. On the basis of all relevant scientific information, the Commission shall present to the Council, before 16 April 2000, a proposal establishing whether the fisheries referred to in paragraph 1 may be continued and the technical conditions that should govern them. The Council, acting by qualified majority, shall decide on this proposal by 31 May 2000 at the latest.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="25">It shall apply with effect from 1 January 1999.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Luxembourg, 24 June 1999.</p>
+      <p n="28">For the Council</p>
+      <p n="29">The President</p>
+      <p n="30">J. TRITTIN</p>
+      <p n="31">(1) OJ L 171, 6.7.1994, p. 1. Regulation as amended by Regulation (EC) No 782/98 (OJ L 113, 15.4.1998, p. 6).</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31997D0157-en" n="31997D0157" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0157 English</title>
+        <title>97/157/EC, Euratom: Commission Decision of 12 February 1997 defining the treatment of the income of undertakings for collective investment (UCIs) for the purpose of the implementation of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0157:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0157:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">202</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">2769</classCode>
+        <classCode scheme="eurovoc">3560</classCode>
+        <classCode scheme="eurovoc">4195</classCode>
+        <classCode scheme="eurovoc">4369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0157-en." lang="en">
+    <body>
+      <head n="1">97/157/EC, Euratom: Commission Decision of 12 February 1997 defining the treatment of the income of undertakings for collective investment (UCIs) for the purpose of the implementation of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 12 February 1997 defining the treatment of the income of undertakings for collective investment (UCIs) for the purpose of the implementation of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices (Text with EEA relevance) (97/157/EC, Euratom)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the Treaty establishing the European Atomic Energy Community,</p>
+      <p n="6">Having regard to Council Directive 89/130/EEC, Euratom of 13 February 1989 on the harmonization of the compilation of gross national product at market prices (1),</p>
+      <p n="7">Whereas for the purpose of the definition of gross national product at market prices (GNPmp) pursuant to Article 1 of Directive 89/130/EEC, Euratom, which, in virtue of Article 8 (1) of Council Regulation (EC) No 2223/96 of 25 June 1996 on the European system of national and regional accounts in the Community (2), is applicable while Decision 94/728/EC, Euratom (3) remains in force, it is necessary to clarify the treatment of the income of undertakings for collective investment (UCIs) according to the European system of integrated economic accounts (ESA) in force;</p>
+      <p n="8">Whereas the ESA second edition does not contain explicit provisions for the recording of the income of UCIs, in particular their undistributed income;</p>
+      <p n="9">Whereas it is therefore necessary to interpret the rules of the ESA second edition, according to these underlying principles, in order to indicate a method of recording this income;</p>
+      <p n="10">Whereas the measures provided for in this Decision are in accordance with the opinion of the Committee established by Article 6 of Directive 89/130/EEC, Euratom,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">For the purpose of the implementation of Directive 89/130/EEC, Euratom, the UCIs' income consists of the interest received on the deposits and other investments acquired on the one hand, and of the dividends earned on the shares held by the UCIs, on the other. These interest and dividends may be paid out to investors, or added to the capital.</p>
+      <p n="14">When distributed, this income is recorded in the Distribution of income account of the shareholders, within property and entrepreneurial income (Code R40 of the ESA, currently in force).</p>
+      <p n="15">When this income is not distributed, it must be treated as an income paid out by the UCI to its shareholders, which the latter reinvest immediately in the UCI. This means that this income must be recorded within property and entrepreneurial income like in the case of distributed income. Moreover, the same amount will be classified as part of shares, in the Financial account of the shareholders.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision is addressed to the Member States.</p>
+      <p n="18">Done at Brussels, 12 February 1997.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Yves-Thibault DE SILGUY</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ No L 49, 21. 2. 1989, p. 26.</p>
+      <p n="23">(2) OJ No L 310, 30. 11. 1996, p. 1.</p>
+      <p n="24">(3) OJ No L 293, 12. 11. 1994, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

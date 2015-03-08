@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31998D0021-en" n="31998D0021" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0021 English</title>
+        <title>98/21/EC: Council Decision of 19 December 1997 amending Decision 83/653/EEC on the allocation of the possibilities for catching herring in the North Sea as from 1 January 1984</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0021:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0021:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1159</classCode>
+        <classCode scheme="eurovoc">1877</classCode>
+        <classCode scheme="eurovoc">4057</classCode>
+        <classCode scheme="eurovoc">4320</classCode>
+        <classCode scheme="eurovoc">5254</classCode>
+        <classCode scheme="eurovoc">5256</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0021-en." lang="en">
+    <body>
+      <head n="1">98/21/EC: Council Decision of 19 December 1997 amending Decision 83/653/EEC on the allocation of the possibilities for catching herring in the North Sea as from 1 January 1984</head>
+      <p n="2">COUNCIL DECISION of 19 December 1997 amending Decision 83/653/EEC on the allocation of the possibilities for catching herring in the North Sea as from 1 January 1984 (98/21/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 3760/92 of 20 December 1992 establishing a Community system for fisheries and aquaculture (1), and in particular Article 8(4)(ii) thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas Decision 83/653/EEC (2) sets out the method for the allocation of the possibilities for catching herring in the North Sea with a reference to the share of the TAC (Total Allowable Catch) available to the Community as constituted before the accession of Austria, Sweden and Finland;</p>
+      <p n="8">Whereas the 1994 Act of Accession defines the share of North Sea herring allocated to Sweden as a percentage of the share of the TAC for this stock available to the enlarged Community;</p>
+      <p n="9">Whereas it is appropriate to amend Decision 83/653/EEC in order to refer specifically to the enlarged Community and to include Sweden in the allocation,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Annex to Decision No 83/653/EEC shall be replaced by the Annex to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 19 December 1997.</p>
+      <p n="16">For the Council</p>
+      <p n="17">The President</p>
+      <p n="18">F. BODEN</p>
+      <p n="19">(1) OJ L 389, 31.12.1992, p. 1. Regulation as amended by the 1994 Act of Accession.</p>
+      <p n="20">(2) OJ L 371, 31. 12. 1983, p. 39.</p>
+      <p n="21">ANNEX</p>
+      <p n="22">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

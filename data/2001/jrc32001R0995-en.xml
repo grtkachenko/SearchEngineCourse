@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32001R0995-en" n="32001R0995" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R0995 English</title>
+        <title>Commission Regulation (EC) No 995/2001 of 22 May 2001 implementing Regulation (EC) No 2516/2000 of the European Parliament and of the Council modifying the common principles of the European system of national and regional accounts in the Community (ESA 95) as concerns taxes and social contributions</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0995:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0995:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1310</classCode>
+        <classCode scheme="eurovoc">250</classCode>
+        <classCode scheme="eurovoc">3514</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R0995-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 995/2001 of 22 May 2001 implementing Regulation (EC) No 2516/2000 of the European Parliament and of the Council modifying the common principles of the European system of national and regional accounts in the Community (ESA 95) as concerns taxes and social contributions</head>
+      <p n="2">Commission Regulation (EC) No 995/2001</p>
+      <p n="3">of 22 May 2001</p>
+      <p n="4">implementing Regulation (EC) No 2516/2000 of the European Parliament and of the Council modifying the common principles of the European system of national and regional accounts in the Community (ESA 95) as concerns taxes and social contributions</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to the Council Regulation (EC) No 2223/96 of 25 June 1996 on the European system of national and regional accounts in the Community (ESA 95)(1), as last amended by Regulation (EC) No 2516/2000 of the European Parliament and of the Council(2), and in particular Articles 2(2) and 3(2) thereof,</p>
+      <p n="8">Having regard to Regulation (EC) No 2516/2000 modifying the common principles of the ESA 95 as concerns taxes and social contributions, and in particular Article 5 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Regulation (EC) No 2223/96 on the ESA 95 contains the reference framework of common standards, definitions, classifications and accounting rules for drawing up the accounts of the Member States for the statistical requirements of the Community, in order to obtain comparable results between Member States.</p>
+      <p n="11">(2) Regulation (EC) No 2516/2000 ensures comparability and transparency among the Member States in the recording of taxes and social contributions in ESA 95 for the excessive deficit procedure. Net lending/net borrowing of general government shall not include amounts of taxes and social contributions unlikely to be collected.</p>
+      <p n="12">(3) For the application of Regulation (EC) No 2516/2000 and within six months of its adoption, the Commission shall introduce in the text of Annex A to Regulation (EC) No 2223/96 the changes needed.</p>
+      <p n="13">(4) Articles 2(2) and 3(2) of Regulation (EC) No 2223/96 lay down the conditions under which the Commission may adopt amendments to the ESA 95, in particular the changes needed in Annex B to the abovementioned Regulation.</p>
+      <p n="14">(5) The Committee on Monetary, Financial and Balance of Payments Statistics (CMFB), set up by Council Decision 91/115/EEC(3), amended by Decision 96/174/EC(4), has been consulted.</p>
+      <p n="15">(6) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee (SPC), set up by Council Decision 89/382/EEC, Euratom(5),</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Annexes A and B to Regulation (EC) No 2223/96 shall be amended in accordance with the Annex to this Regulation.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall not apply during the transitional period that may be granted to Member States in accordance with Article 7(2) of Regulation (EC) No 2516/2000.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 22 May 2001.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Pedro Solbes Mira</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 310, 30.11.1996, p. 1.</p>
+      <p n="28">(2) OJ L 290, 17.11.2000, p. 1.</p>
+      <p n="29">(3) OJ L 59, 6.3.1991, p. 19.</p>
+      <p n="30">(4) OJ L 51, 1.3.1996, p. 48.</p>
+      <p n="31">(5) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="32">ANNEX</p>
+      <p n="33">AMENDMENTS TO ANNEX A TO REGULATION (EC) No 2223/96</p>
+      <p n="34">&gt;TABLE&gt;</p>
+      <p n="35">AMENDMENTS TO ANNEX B TO REGULATION (EC) No 2223/96</p>
+      <p n="36">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

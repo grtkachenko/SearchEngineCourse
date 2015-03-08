@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32003R2173-en" n="32003R2173" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2173 English</title>
+        <title>Commission Regulation (EC) No 2173/2003 of 12 December 2003 amending Regulation (EC) No 1799/2001 laying down the marketing standard for citrus fruit</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2173:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2173:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">693</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2173-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2173/2003 of 12 December 2003 amending Regulation (EC) No 1799/2001 laying down the marketing standard for citrus fruit</head>
+      <p n="2">Commission Regulation (EC) No 2173/2003</p>
+      <p n="3">of 12 December 2003</p>
+      <p n="4">amending Regulation (EC) No 1799/2001 laying down the marketing standard for citrus fruit</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), and in particular Article 2(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 1799/2001(2), lays down, among others, provisions concerning maturity of oranges.</p>
+      <p n="10">(2) The Working Party on Standardisation of Perishable Produce and Quality Development of the United Nations Economic Commission for Europe (UN/ECE) decided to recommend, within UN/ECE standard FFV-14 concerning marketing and commercial quality control of citrus fruit, new provisions concerning maturity of oranges for fruit showing more than one fifth of the total surface of green colour and that are produced in climatic areas such that fruit can be mature even when still of green colour.</p>
+      <p n="11">(3) UN/ECE standard FFV-14 does not include any provision with regard to degreening procedures authorised by Member States, procedures that are covered by the provisions of Council Directive 91/414/EEC of 15 July 1991 concerning the placing of plant-protection products on the market(3). In addition, no rule for uniformity in size is laid down for mandarins of a size over size 1. It is therefore necessary to amend the table laying down the maximum difference in diameter between the largest and the smallest fruit in the package.</p>
+      <p n="12">(4) Regulation (EC) No 1799/2001 shall be amended accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Annex to Regulation (EC) No 1799/2001 is amended according to the Annex to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 12 December 2003.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 297, 21.11.1996, p. 1; Regulation as last amended by Commission Regulation (EC) No 47/2003 (OJ L 7, 11.1.2003, p. 64).</p>
+      <p n="25">(2) OJ L 244, 14.9.2001, p. 12; Regulation as last amended by Regulation (EC) No 46/2003 (OJ L 7, 11.1.2003, p. 61).</p>
+      <p n="26">(3) OJ L 230, 19.8.1991, p. 1; Directive as last amended by Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1).</p>
+      <p n="27">ANNEX</p>
+      <p n="28">The Annex to Regulation (EC) No 1799/2001 is amended as follows:</p>
+      <p n="29">1. Title 1 (Provisions concerning quality) is amended as follows:</p>
+      <p n="30">(a) in item A (Minimum requirements), the fourth subparagraph is replaced by the following text:</p>
+      <p n="31">"Citrus fruit meeting the ripeness requirements of this Annex may be 'degreened'. This treatment is permitted only if the other natural organoleptic characteristics are not modified.";</p>
+      <p n="32">(b) in item B (Maturity requirements), item (iii) (Oranges) is replaced by the following text:</p>
+      <p n="33">"(iii) Oranges</p>
+      <p n="34">Colouring must be typical of the variety. Fruits with light green colour are allowed, provided it does not exceed one fifth of the total surface of the fruit. Fruits must show the following minimum juice content:</p>
+      <p n="35">&gt;TABLE&gt;</p>
+      <p n="36">However, oranges produced in areas with high air temperatures and high relative humidity conditions during the developing period can be of a green colour exceeding one fifth of the total surface area, provided they satisfy the following minimum juice content:</p>
+      <p n="37">&gt;TABLE&gt;"</p>
+      <p n="38">2. in title III (Provisions concerning sizing), item C (Uniformity), item (i), the lines of the table concerning mandarins are replaced by the following lines:</p>
+      <p n="39">"&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

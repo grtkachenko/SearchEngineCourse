@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31981R3423-en" n="31981R3423" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31981R3423 English</title>
+        <title>Commission Regulation (EEC) No 3423/81 of 30 November 1981 on communication by the Member States of data concerning exports of cereal and rice products as food aid</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981R3423:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981R3423:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31981R3423-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 3423/81 of 30 November 1981 on communication by the Member States of data concerning exports of cereal and rice products as food aid</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 3423/81</p>
+      <p n="4">of 30 November 1981</p>
+      <p n="5">on communication by the Member States of data concerning exports of cereal and rice products as food aid</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN</p>
+      <p n="7">COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Regulation (EEC) No 2727/75 of 29 October 1975, on the common organization of the market in cereals (1), as last amended by Regulation (EEC) No 1949/81 (2), and in particular Article 24 thereof,</p>
+      <p n="10">Having regard to Council Regulation (EEC) No 1418/76 of 21 June 1976 on the common organization of the market in rice (3), as last amended by the Act of Accession of Greece, and in particular Article 26 thereof,</p>
+      <p n="11">Whereas the implementation of undertakings made by the Community under the Food Aid Convention is to be carried out in close liaison with management of the common organization of the markets in cereals and in rice in respect of both Community and national food-aid operations;</p>
+      <p n="12">Whereas it is necessary, within the context of the said Convention, for the Commission to have at its disposal certain data concerning the implementation of Community and national food-aid operations.</p>
+      <p n="13">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">1. Member States shall communicate to the Commission for each calendar month, not later than four weeks after the end of the month in question, the data listed in the Annex concerning exports of cereal and rice products effected by way of food aid, both national and Community, under the Food Aid Convention.</p>
+      <p n="17">2. In respect of operations carried out during the period 1 August 1981 up to the date of entry into force of this Regulation, the Member States shall communicate the data referred to in paragraph 1 to the Commission not later than 31 December 1981.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 30 November 1981.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Poul DALSAGER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ No L 281, 1. 11. 1975, p. 1.</p>
+      <p n="26">(2) OJ No L 198, 20. 7. 1981, p. 2.</p>
+      <p n="27">(3) OJ No L 166, 25. 6. 1976, p. 1.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">Food aid - Quantities delivered during the month of: ..........</p>
+      <p n="30">1.2.3.4 // // // // // Beneficiary and final destination of goods // Quantity (1) // Product // Regulation No (2) // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //</p>
+      <p n="31">(1) In product value.</p>
+      <p n="32">(2) For Community aid.</p>
+    </body>
+  </text>
+</TEI.2>

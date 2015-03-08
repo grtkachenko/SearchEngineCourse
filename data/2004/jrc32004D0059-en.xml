@@ -1,0 +1,57 @@
+<TEI.2 id="jrc32004D0059-en" n="32004D0059" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0059 English</title>
+        <title>2004/59/EC: Commission Decision of 23 December 2003 on the continuation in the year 2004 of Community comparative trials and tests on propagating material of ornamental plants of Chamaecyparis, Ligustrum vulgare and Euphorbia fulgens under Council Directive 98/56/EC started in 2002</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0059:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0059:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1260</classCode>
+        <classCode scheme="eurovoc">191</classCode>
+        <classCode scheme="eurovoc">3409</classCode>
+        <classCode scheme="eurovoc">4081</classCode>
+        <classCode scheme="eurovoc">867</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0059-en." lang="en">
+    <body>
+      <head n="1">2004/59/EC: Commission Decision of 23 December 2003 on the continuation in the year 2004 of Community comparative trials and tests on propagating material of ornamental plants of Chamaecyparis, Ligustrum vulgare and Euphorbia fulgens under Council Directive 98/56/EC started in 2002</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 23 December 2003</p>
+      <p n="4">on the continuation in the year 2004 of Community comparative trials and tests on propagating material of ornamental plants of Chamaecyparis, Ligustrum vulgare and Euphorbia fulgens under Council Directive 98/56/EC started in 2002</p>
+      <p n="5">(2004/59/EC)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 98/56/EC of 20 July 1998 on the marketing of propagating material of ornamental plants(1),</p>
+      <p n="9">Having regard to Commission Decision 2001/898/EC of 12 December 2001 setting out the arrangements for Community comparative trials and tests on propagating material of ornamental plants under Council directive 98/56/EC(2), and in particular Article 2 thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Decision 2001/898/EC sets out the arrangements for the comparative trials and tests to becarried out under Directive 98/56/EC as regards ornamental plants of Chamaecyparis, Ligustrum vulgare and Euphorbia fulgens from 2002 to 2004.</p>
+      <p n="12">(2) Tests and trials carried out in 2002 and 2003 should be continued in 2004,</p>
+      <p n="13">HAS ADOPTED THIS DECISION:</p>
+      <p n="14">Sole Article</p>
+      <p n="15">Community comparative trials and tests which began in 2002 on propagating material of ornamental plants of Chamaecyparis, Ligustrum vulgare and Euphorbia fulgens shall be continued in 2004 in accordance with Decision 2001/898/EC.</p>
+      <p n="16">Done at Brussels, 23 December 2003.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">David Byrne</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 226, 13.8.1998, p. 16. Directive as last amended by Directive 2003/61/EC (OJ L 165, 3.7.2003, p. 23).</p>
+      <p n="21">(2) OJ L 331, 15.12.2001, p. 101.</p>
+    </body>
+  </text>
+</TEI.2>

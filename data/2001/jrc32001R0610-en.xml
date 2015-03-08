@@ -1,0 +1,74 @@
+<TEI.2 id="jrc32001R0610-en" n="32001R0610" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R0610 English</title>
+        <title>Commission Regulation (EC) No 610/2001 of 29 March 2001 amending Regulation (EC) No 708/98 on the taking over of paddy rice by the intervention agencies and fixing the corrective amounts and the price increases and reductions to be applied</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0610:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0610:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">181</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3170</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+        <classCode scheme="eurovoc">5025</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R0610-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 610/2001 of 29 March 2001 amending Regulation (EC) No 708/98 on the taking over of paddy rice by the intervention agencies and fixing the corrective amounts and the price increases and reductions to be applied</head>
+      <p n="2">Commission Regulation (EC) No 610/2001</p>
+      <p n="3">of 29 March 2001</p>
+      <p n="4">amending Regulation (EC) No 708/98 on the taking over of paddy rice by the intervention agencies and fixing the corrective amounts and the price increases and reductions to be applied</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 3072/95 of 22 December 1995 on the common organisation of the market in rice(1), as last amended by Regulation (EC) No 1667/2000(2), and in particular Article 8(b) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The conditions for the taking over of paddy rice by the intervention agencies are laid down in Commission Regulation (EC) No 708/98(3), as amended by Regulation (EC) No 691/1999(4). Article 2 of that Regulation lays down the conditions under which rice may be accepted for intervention and Article 3 lays down the criteria for applying price increases and reductions, in particular as regards the yield after processing.</p>
+      <p n="10">(2) Experience in recent marketing years has shown that yields after processing of rice offered for intervention are generally above the basic yields listed in Part B of Annex II to Regulation (EC) No 708/98.</p>
+      <p n="11">(3) In order to strengthen the role of intervention as a safety net and to encourage the production of high-quality rice, the intervention criteria should be tightened up.</p>
+      <p n="12">(4) Adjustment of the yields after processing listed in Part B of Annex II to Regulation (EC) No 708/98, together with a reduction in the current price increases and a reduction in the tolerances for divergence from the basic yield, would appear to be the most effective ways of promoting the production of high-quality rice and, at the same time, ensuring the high quality of rice stored by the intervention agencies.</p>
+      <p n="13">(5) The Management Committee for Cereals has not delivered an opinion within the time limit set by its Chairman,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EC) No 708/98 is hereby amended as follows:</p>
+      <p n="17">1. The second indent of Article 2(2) is replaced by:</p>
+      <p n="18">"- the yield after processing is not less than 7 points below the basic yields listed in Part B of Annex II,".</p>
+      <p n="19">2. Annex II is replaced by the Annex hereto.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">It shall apply from 1 April 2001.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 29 March 2001.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 329, 30.12.1995, p. 18.</p>
+      <p n="29">(2) OJ L 193, 29.7.2000, p. 3.</p>
+      <p n="30">(3) OJ L 98, 31.3.1998, p. 21.</p>
+      <p n="31">(4) OJ L 87, 31.3.1999, p. 8.</p>
+      <p n="32">ANNEX</p>
+      <p n="33">"ANNEX II</p>
+      <p n="34">A. Price increases and reduction related to yield after processing</p>
+      <p n="35">&gt;TABLE&gt;</p>
+      <p n="36">&gt;TABLE&gt;</p>
+      <p n="37">B. Basic yield after processing</p>
+      <p n="38">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

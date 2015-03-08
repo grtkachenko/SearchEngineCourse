@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32003D0861-en" n="32003D0861" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0861 English</title>
+        <title>2003/861/EC: Council Decision of 8 December 2003 concerning analysis and cooperation with regard to counterfeit euro coins</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0861:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0861:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1092</classCode>
+        <classCode scheme="eurovoc">206</classCode>
+        <classCode scheme="eurovoc">5648</classCode>
+        <classCode scheme="eurovoc">574</classCode>
+        <classCode scheme="eurovoc">5769</classCode>
+        <classCode scheme="eurovoc">6151</classCode>
+        <classCode scheme="eurovoc">665</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0861-en." lang="en">
+    <body>
+      <head n="1">2003/861/EC: Council Decision of 8 December 2003 concerning analysis and cooperation with regard to counterfeit euro coins</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 8 December 2003</p>
+      <p n="4">concerning analysis and cooperation with regard to counterfeit euro coins</p>
+      <p n="5">(2003/861/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular the third sentence of Article 123(4) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Having regard to the opinion of the European Central Bank(1),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Council Regulation (EC) No 1338/2001 of 28 June 2001 laying down measures necessary for the protection of the euro against counterfeiting(2), and in particular Article 5 thereof, provides for the analysis and classification of counterfeit euro coins by the Coin National Analysis Centre (CNAC) in each of the Member States and by the European Technical and Scientific Centre (ETSC). The Commission has provided, since the year 2000, the framework for coordination of the relevant actions of those technical authorities.</p>
+      <p n="12">(2) Since October 2001, the ETSC has been carrying out its tasks on a temporary basis at the French Mint with administrative support and management provided by the Commission, in line with an Exchange of Letters between the President of the Council and the French Minister for Finance of 28 February and 9 June 2000.</p>
+      <p n="13">(3) In order to ensure the continuity and independence of the protection of euro coins against counterfeiting, the Commission should be given responsibility for performing the activities of the ETSC and for ensuring the coordination of the competent technical authorities in their actions in this field,</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Commission shall establish the European Technical and Scientific Centre and ensure its functioning and the coordination of the activities of the competent technical authorities to protect euro coins against counterfeiting.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Decision is addressed to the Member States which have adopted the euro as their single currency.</p>
+      <p n="19">Done at Brussels, 8 December 2003.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">F. Frattini</p>
+      <p n="23">(1) OJ C 202, 27.8.2003, p. 31.</p>
+      <p n="24">(2) OJ L 181, 4.7.2001, p. 6.</p>
+    </body>
+  </text>
+</TEI.2>

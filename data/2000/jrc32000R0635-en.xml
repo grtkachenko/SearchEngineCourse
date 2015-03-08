@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32000R0635-en" n="32000R0635" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R0635 English</title>
+        <title>Commission Regulation (EC) No 635/2000 of 24 March 2000 amending Regulation (EC) No 2571/97 on the sale of butter at reduced prices and the granting of aid for cream, butter and concentrated butter for use in the manufacture of pastry products, ice cream and other foodstuffs</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0635:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0635:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2749</classCode>
+        <classCode scheme="eurovoc">301</classCode>
+        <classCode scheme="eurovoc">4236</classCode>
+        <classCode scheme="eurovoc">4498</classCode>
+        <classCode scheme="eurovoc">4667</classCode>
+        <classCode scheme="eurovoc">4860</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R0635-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 635/2000 of 24 March 2000 amending Regulation (EC) No 2571/97 on the sale of butter at reduced prices and the granting of aid for cream, butter and concentrated butter for use in the manufacture of pastry products, ice cream and other foodstuffs</head>
+      <p n="2">Commission Regulation (EC) No 635/2000</p>
+      <p n="3">of 24 March 2000</p>
+      <p n="4">amending Regulation (EC) No 2571/97 on the sale of butter at reduced prices and the granting of aid for cream, butter and concentrated butter for use in the manufacture of pastry products, ice cream and other foodstuffs</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), and in particular Articles 10 and 15 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 3(a) of Commission Regulation (EC) No 2571/97(2), as last amended by Regulation (EC) No 494/1999(3), provides for the possibility of using the tracers referred to in Annex II to the Regulation in the products in question to permit checks on the final use to which they are put. In view of the fact that certain tracers have not been used under these arrangements for quite some time and that Annex II to the Regulation provides for alternative tracers, the tracers concerned should be deleted, thus permitting simplification of checks. Furthermore, the tracers in question are undergoing evaluation in the light of new scientific knowledge.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Point V of Annex II to Regulation (EC) No 2571/97 is deleted.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 24 March 2000.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz Fischler</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 160, 26.6.1999, p. 48.</p>
+      <p n="22">(2) OJ L 350, 20.12.1997, p. 3.</p>
+      <p n="23">(3) OJ L 59, 6.3.1999, p. 17.</p>
+    </body>
+  </text>
+</TEI.2>

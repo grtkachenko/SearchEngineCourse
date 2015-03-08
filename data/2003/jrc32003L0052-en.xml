@@ -1,0 +1,75 @@
+<TEI.2 id="jrc32003L0052-en" n="32003L0052" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003L0052 English</title>
+        <title>Directive 2003/52/EC of the European Parliament and of the Council of 18 June 2003 amending Directive 95/2/EC as regards the conditions of use for a food additive E 425 konjac (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003L0052:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003L0052:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1284</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003L0052-en." lang="en">
+    <body>
+      <head n="1">Directive 2003/52/EC of the European Parliament and of the Council of 18 June 2003 amending Directive 95/2/EC as regards the conditions of use for a food additive E 425 konjac (Text with EEA relevance)</head>
+      <p n="2">Directive 2003/52/EC of the European Parliament and of the Council</p>
+      <p n="3">of 18 June 2003</p>
+      <p n="4">amending Directive 95/2/EC as regards the conditions of use for a food additive E 425 konjac</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Economic and Social Committee(2),</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Directive 95/2/EC of the European Parliament and of the Council of 20 February 1995 on food additives other than colours and sweeteners(4) authorises the use of the food additive E 425 konjac in foodstuffs under certain conditions.</p>
+      <p n="13">(2) The Commission has taken measures to suspend temporarily the placing on the market of jelly mini-cups containing E 425 konjac because they have been found to be dangerous as they have caused the death of several children and elderly persons in third countries through choking.</p>
+      <p n="14">(3) Some manufacturers of jelly mini-cups recognise the risk to human health by affixing a warning on the food package, highlighting the risk for children and the elderly.</p>
+      <p n="15">(4) On the basis of the information provided by the Member States which adopted measures at national level, it can be concluded that jelly mini-cups containing E 425 konjac constitute a life-threatening risk. In addition to their shape and size, the chemical and physical properties of konjac are the cause for jelly mini-cups to constitute a serious risk to human health.</p>
+      <p n="16">(5) In the present case, warning through labelling is not sufficient to protect human health, especially with regard to children.</p>
+      <p n="17">(6) It is necessary to modify the conditions of use for E 425 konjac as regards its use in jelly confectionery, including jelly-mini cups.</p>
+      <p n="18">(7) Directive 95/2/EC should therefore be amended accordingly,</p>
+      <p n="19">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="20">Article 1</p>
+      <p n="21">In Annex IV to Directive 95/2/EC in the row for E 425: Konjac: (i) Konjac gum (ii) Konjac glucomannane the text "Foodstuffs in general (except those referred to in Article 2(3))" shall be replaced by the text "Foodstuffs in general (except those referred to in Article 2(3) and jelly confectionery including jelly-mini-cups)".</p>
+      <p n="22">Article 2</p>
+      <p n="23">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 17 January 2004. They shall forthwith inform the Commission thereof.</p>
+      <p n="24">When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.</p>
+      <p n="25">Article 3</p>
+      <p n="26">This Directive shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="27">Article 4</p>
+      <p n="28">This Directive is addressed to the Member States.</p>
+      <p n="29">Done at Luxembourg, 18 June 2003.</p>
+      <p n="30">For the European Parliament</p>
+      <p n="31">The President</p>
+      <p n="32">P. Cox</p>
+      <p n="33">For the Council</p>
+      <p n="34">The President</p>
+      <p n="35">G. Drys</p>
+      <p n="36">(1) OJ C 331 E, 31.12.2002, p. 124.</p>
+      <p n="37">(2) OJ C 85, 8.4.2003, p. 39.</p>
+      <p n="38">(3) Opinion of the European Parliament of 11 February 2003 (not yet published in the Official Journal), and Council Decision of 19 May 2003.</p>
+      <p n="39">(4) OJ L 61, 18.3.1995, p. 1. Directive as last amended by Directive 2001/5/EC (OJ L 55, 24.2.2001, p. 59).</p>
+    </body>
+  </text>
+</TEI.2>

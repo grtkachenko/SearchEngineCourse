@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31999R0999-en" n="31999R0999" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0999 English</title>
+        <title>Commission Regulation (EC) No 999/1999 of 11 May 1999 amending Regulation (EC) No 293/98 as regards the operative event applicable to the transport costs for fruit and vegetables distributed free of charge following their withdrawal from the market</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0999:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0999:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1119</classCode>
+        <classCode scheme="eurovoc">1608</classCode>
+        <classCode scheme="eurovoc">3101</classCode>
+        <classCode scheme="eurovoc">3618</classCode>
+        <classCode scheme="eurovoc">4122</classCode>
+        <classCode scheme="eurovoc">4395</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0999-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 999/1999 of 11 May 1999 amending Regulation (EC) No 293/98 as regards the operative event applicable to the transport costs for fruit and vegetables distributed free of charge following their withdrawal from the market</head>
+      <p n="2">COMMISSION REGULATION (EC) No 999/1999</p>
+      <p n="3">of 11 May 1999</p>
+      <p n="4">amending Regulation (EC) No 293/98 as regards the operative event applicable to the transport costs for fruit and vegetables distributed free of charge following their withdrawal from the market</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2799/98 of 15 December 1998 establishing agrimonetary arrangements for the euro(1), and in particular Article 3(2) thereof,</p>
+      <p n="8">(1) Whereas Commission Regulation (EC) No 293/98(2), as last amended by Regulation (EC) No 519/1999(3), fixes the operative events applicable in the fruit and vegetables sector and in the products processed from fruit and vegetables sector;</p>
+      <p n="9">(2) Whereas Article 15 of and Annex V to Commission Regulation (EC) No 659/97 of 16 April 1997 laying down detailed rules for the application of Council Regulation (EC) No 2200/96 as regards intervention arrangements in the fruit and vegetables sector(4), as last amended by Regulation (EC) No 729/1999(5), fixes aid for the cost of transporting products distributed free of charge following their withdrawal from the market; whereas experience shows that this transport is most often carried out in the relevant Member States which have not adopted the euro by the producer organisations that withdrew the products in question; whereas the transport and associated withdrawals are most often simultaneous or occur at most within the space of a few days of each other; whereas, therefore, with a view to administrative simplification, a single exchange rate should be applied for these two operations pursuant to Article 3(2) of Regulation (EC) No 2799/98 and by way of derogation from Article 4(2) of Commission Regulation (EC) No 2808/98 of 22 December 1998 laying down detailed rules for the application of the agrimonetary system for the euro in agriculture(6);</p>
+      <p n="10">(3) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Article 3(2) of Regulation (EC) No 293/98 is replaced by the following: "2. The conversion rate applicable to the flat-rate amounts referred to in Article 15(1) of Regulation (EC) No 659/97 and fixed in point 1 of Annex V to that Regulation shall be the agricultural conversion rate as determined in accordance with paragraph 1 of this Article."</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on 1 June 1999.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 11 May 1999.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 349, 24.12.1998, p. 1.</p>
+      <p n="22">(2) OJ L 30, 4.2.1998, p. 16.</p>
+      <p n="23">(3) OJ L 61, 10.3.1999, p. 27.</p>
+      <p n="24">(4) OJ L 100, 17.4.1997, p. 22.</p>
+      <p n="25">(5) OJ L 93, 8.4.1999, p. 11.</p>
+      <p n="26">(6) OJ L 349, 24.12.1998, p. 36.</p>
+    </body>
+  </text>
+</TEI.2>

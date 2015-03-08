@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32003R2197-en" n="32003R2197" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2197 English</title>
+        <title>Commission Regulation (EC) No 2197/2003 of 16 December 2003 apportioning, for the 2003/04 marketing year, 5000 tonnes of short flax fibre and hemp fibre as national guaranteed quantities between Denmark, Greece, Ireland, Italy and Luxembourg</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2197:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2197:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">1667</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+        <classCode scheme="eurovoc">5384</classCode>
+        <classCode scheme="eurovoc">990</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2197-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2197/2003 of 16 December 2003 apportioning, for the 2003/04 marketing year, 5000 tonnes of short flax fibre and hemp fibre as national guaranteed quantities between Denmark, Greece, Ireland, Italy and Luxembourg</head>
+      <p n="2">Commission Regulation (EC) No 2197/2003</p>
+      <p n="3">of 16 December 2003</p>
+      <p n="4">apportioning, for the 2003/04 marketing year, 5000 tonnes of short flax fibre and hemp fibre as national guaranteed quantities between Denmark, Greece, Ireland, Italy and Luxembourg</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1673/2000 of 27 July 2000 on the common organisation of the markets in flax and hemp grown for fibre(1), and in particular Article 9 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 8(1) of Commission Regulation (EC) No 245/2001(2), which laid down detailed rules for the application of Regulation (EC) No 1673/2000, stipulates that the apportioning of 5000 tonnes of short flax fibre and hemp fibre as national guaranteed quantities, as provided for in Article 3(2)(b) of Regulation (EC) No 1673/2000, must be effected before 16 November of the marketing year in progress.</p>
+      <p n="10">(2) To that end, Denmark and Italy have sent the Commission information relating to areas covered by sale/purchase contracts, processing commitments and processing contracts, and estimated flax and hemp straw and fibre yields.</p>
+      <p n="11">(3) Conversely, no flax or hemp fibre will be produced for the 2003/04 marketing year in Greece, Ireland or Luxembourg.</p>
+      <p n="12">(4) On the basis of estimates of production resulting from the information provided, total production in the five Member States concerned will not reach the overall quantity of 5000 tonnes allocated to them, and the national guaranteed quantities as set out below should be set.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Natural Fibres,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">For the 2003/04 marketing year, the apportionment in national guaranteed quantities provided for in Article 3(2)(b) of Regulation (EC) No 1673/2000 shall be as follows:</p>
+      <p n="17">- Denmark: 7 tonnes,</p>
+      <p n="18">- Greece: 0 tonnes,</p>
+      <p n="19">- Ireland: 0 tonnes,</p>
+      <p n="20">- Italy: 399 tonnes,</p>
+      <p n="21">- Luxembourg: 0 tonnes.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="24">It shall apply from 16 November 2003.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 16 December 2003.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Franz Fischler</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 193, 29.7.2000, p. 16. Regulation as last amended by Regulation (EC) No 1782/2003 (OJ L 270, 21.10.2003, p. 1).</p>
+      <p n="31">(2) OJ L 35, 6.2.2001, p. 18. Regulation as last amended by Regulation (EC) No 1401/2003 (OJ L 199, 7.8.2003, p. 3).</p>
+    </body>
+  </text>
+</TEI.2>

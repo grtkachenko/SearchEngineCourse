@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32001D0743-en" n="32001D0743" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0743 English</title>
+        <title>2001/743/EC: Commission Decision of 19 October 2001 amending Decision 95/340/EC drawing up a provisional list of third countries from which Member States authorise imports of milk and milk-based products (Text with EEA relevance) (notified under document number C(2001) 3125)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0743:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0743:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0743-en." lang="en">
+    <body>
+      <head n="1">2001/743/EC: Commission Decision of 19 October 2001 amending Decision 95/340/EC drawing up a provisional list of third countries from which Member States authorise imports of milk and milk-based products (Text with EEA relevance) (notified under document number C(2001) 3125)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 19 October 2001</p>
+      <p n="4">amending Decision 95/340/EC drawing up a provisional list of third countries from which Member States authorise imports of milk and milk-based products</p>
+      <p n="5">(notified under document number C(2001) 3125)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/743/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 92/46/EEC of 16 June 1992 laying down the health rules for the production and placing on the market of raw milk, heat treated milk and milk-based products(1), as last amended by the Treaty of Accession for Austria, Finland and Sweden(2), and in particular Article 23(2) and (3) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 95/340/EC(3), as last amended by Decision 96/584/EC(4), establishes a provisional list of third countries from which Member States authorise imports milk and milk-based products.</p>
+      <p n="13">(2) Following the outbreaks of foot-and-mouth disease in Uruguay it is necessary, in order to ensure the continued protection of the animal health situation in the Community, to formally suspend the authorisation for imports from Uruguay, of raw milk and milk products, and milk and milk products which have undergone a single pasteurisation.</p>
+      <p n="14">(3) Following the outbreaks of foot-and-mouth disease in Argentina it is also necessary to formally suspend the authorisation for imports from the previously approved southern part of the country, of milk and milk products which have undergone a single pasteurisation.</p>
+      <p n="15">(4) The competent authorities of Mauritania have requested authorisation for certain milk and milk products to be imported into the Community and, following a Community mission, it appears that the animal health situation is such that Mauritania could be listed for certain treated milk and milk products, bearing in mind that a residue plan has to be agreed, and approval of establishments has to be carried out, before imports may take place.</p>
+      <p n="16">(5) It is opportune to clarify the headings of the columns in the Annex.</p>
+      <p n="17">(6) It is necessary to amend Decision 95/340/EC accordingly.</p>
+      <p n="18">(7) This Decision will be reviewed in the light of the animal disease situation in the countries concerned.</p>
+      <p n="19">(8) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="20">HAS ADOPTED THIS DECISION:</p>
+      <p n="21">Article 1</p>
+      <p n="22">The Annex to Decision 95/340/EC is replaced by the Annex to the present Decision.</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 19 October 2001.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">David Byrne</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 268, 14.9.1992, p. 1.</p>
+      <p n="30">(2) OJ L 368, 31.12.1994, p. 33.</p>
+      <p n="31">(3) OJ L 200, 24.8.1995, p. 38.</p>
+      <p n="32">(4) OJ L 255, 9.10.1996, p. 20.</p>
+      <p n="33">ANNEX</p>
+      <p n="34">"ANNEX</p>
+      <p n="35">List of third countries approved in principle and importation shall fulfil the relevant animal and public health requirements</p>
+      <p n="36">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

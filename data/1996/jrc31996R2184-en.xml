@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31996R2184-en" n="31996R2184" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2184 English</title>
+        <title>Council Regulation (EC) No 2184/96 of 28 October 1996 concerning imports into the Community of rice originating in and coming from Egypt</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2184:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2184:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">2957</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+        <classCode scheme="eurovoc">4078</classCode>
+        <classCode scheme="eurovoc">690</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2184-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2184/96 of 28 October 1996 concerning imports into the Community of rice originating in and coming from Egypt</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2184/96 of 28 October 1996 concerning imports into the Community of rice originating in and coming from Egypt</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas the Community and the Arab Republic of Egypt have agreed, in an Agreement in the form of an Exchange of Letters, that the customs duties to be applied to imports of rice (CN Code 1006) originating in and coming from Egypt are to be those calculated in accordance with Article 12 of Council Regulation (EEC) No 1418/76 of 21 June 1976 on the common organization of the market in rice (1), reduced by an amount equal to 25 % of the value of those duties, and that the reduction accorded should no longer be subject to the collection by Egypt of an export levy on the product;</p>
+      <p n="7">Whereas Council Regulation (EEC) No 1250/77 of 17 May 1977 concerning imports of rice from the Arab Republic of Egypt (2) should be repealed accordingly,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The customs duties on imports into the Community of rice (CN Code 1006) originating in and coming from Egypt shall be those calculated in accordance with Article 12 of Regulation (EEC) No 1418/76 reduced by an amount equal to 25 % of the value of those duties, within the limits of an annual volume of 32 000 tonnes.</p>
+      <p n="11">Article 2</p>
+      <p n="12">The arrangements for the implementation of this Regulation, including any surveillance measures, shall be adopted in accordance with the procedure laid down in Article 27 of Regulation (EEC) No 1418/76.</p>
+      <p n="13">Article 3</p>
+      <p n="14">Regulation (EEC) No 1250/77 is hereby repealed.</p>
+      <p n="15">Article 4</p>
+      <p n="16">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply from 1 May 1996.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Luxembourg, 28 October 1996.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">D. SPRING</p>
+      <p n="23">(1) OJ No L 166, 25. 6. 1976, p. 1. Regulation as last amended by Regulation (EC) No 3072/95 (OJ No L 329, 30. 12. 1995, p. 18).</p>
+      <p n="24">(2) OJ No L 146, 14. 6. 1977, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

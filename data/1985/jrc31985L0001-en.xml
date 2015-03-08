@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31985L0001-en" n="31985L0001" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31985L0001 English</title>
+        <title>Council Directive 85/1/EEC of 18 December 1984 amending Directive 80/181/EEC on the approximation of the laws of the Member States relating to units of measurement</title>
+      </titleStmt>
+      <extent>43 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985L0001:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985L0001:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31985L0001-en." lang="en">
+    <body>
+      <head n="1">Council Directive 85/1/EEC of 18 December 1984 amending Directive 80/181/EEC on the approximation of the laws of the Member States relating to units of measurement</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL DIRECTIVE</p>
+      <p n="4">of 18 December 1984</p>
+      <p n="5">amending Directive 80/181/EEC on the approximation of the laws of the Member States relating to units of measurement</p>
+      <p n="6">(85/1/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,</p>
+      <p n="9">Having regard to the proposal from the Commission (1),</p>
+      <p n="10">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="11">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="12">Whereas at international level the definition of the SI unit of measurement of length has been amended by the 17th General Conference on Weights and Measures (CGPM); whereas this new definition shall be used at Community level;</p>
+      <p n="13">Whereas in a recommendation of 22 May 1981 the World Health Organization requested that the millimetre of mercury be retained in addition to the kilopascal as a unit for the measurement of the pressure of blood and other body fluids; whereas it is advisable for the Community to adopt this solution;</p>
+      <p n="14">Whereas the barn is the unit universally used to measure the effective cross-sectional area on the occasion of nuclear reactions; whereas experience has shown that this specific unit could not easily be replaced by an SI unit; whereas it is therefore necessary to authorize its use in the nuclear field;</p>
+      <p n="15">Whereas therefore Directive 80/181/EEC (4) should be amended accordingly,</p>
+      <p n="16">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The Annex to Directive 80/181/EEC is hereby amended as follows:</p>
+      <p n="19">1. in point 1.1 of Chapter I the definition of the unit of length is replaced by the following:</p>
+      <p n="20">'Unit of length</p>
+      <p n="21">A metre is the length of the path travelled in a vacuum by light during 1/299 792 458 seconds.</p>
+      <p n="22">(Seventeenth CGPM (1983), Resolution 1).';</p>
+      <p n="23">2. in section 4 of Chapter I:</p>
+      <p n="24">(a) the following is added to the table</p>
+      <p n="25">1.2,4 // // // 'Quantity // Unit // // 1.2.3.4 // // Name // Symbol // Value // // // // // Blood pressure and pressure of other body fluids // Millimetre of mercury // mm Hg(*) // 1 mm Hg = 133,322 Pa // Effective cross-sectional area // Barn // b // 1 b = 10 -28 m2' // // // //</p>
+      <p n="26">(b) the note is hereby replaced by the following:</p>
+      <p n="27">'The prefixes and their symbols listed in 1.3 may be used in conjunction with the above units and symbols, with the exception of the millimetre of mercury and its symbol. The multiple of 102a is, however, called a "hectare".'</p>
+      <p n="28">3. in Chapter II:</p>
+      <p n="29">(a) the unit of measurement for blood pressure in the table is deleted;</p>
+      <p n="30">(b) the note is replaced by the following:</p>
+      <p n="31">'The prefixes and their symbols listed in 1.3 of Chapter I may be used in conjunction with the above units and symbols, with the exception of the symbol "g".'</p>
+      <p n="32">Article 2</p>
+      <p n="33">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive on 1 July 1985. They shall forthwith inform the Commission thereof.</p>
+      <p n="34">Article 3</p>
+      <p n="35">This Directive is addressed to the Member States.</p>
+      <p n="36">Done at Brussels, 18 December 1984.</p>
+      <p n="37">For the Council</p>
+      <p n="38">The President</p>
+      <p n="39">J. BRUTON</p>
+      <p n="40">(1) OJ No C 155, 14. 6. 1983, p. 10.</p>
+      <p n="41">(2) OJ No C 242, 12. 9. 1983, p. 101.</p>
+      <p n="42">(3) OJ No C 341, 19. 12. 1983, p. 1.</p>
+      <p n="43">(4) OJ No L 39, 15. 2. 1980, p. 40.</p>
+    </body>
+  </text>
+</TEI.2>

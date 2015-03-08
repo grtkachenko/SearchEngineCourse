@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32000R2796-en" n="32000R2796" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2796 English</title>
+        <title>Commission Regulation (EC) No 2796/2000 of 20 December 2000 amending Annex II to Council Regulation (EEC) No 2081/92 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2796:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2796:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1031</classCode>
+        <classCode scheme="eurovoc">1260</classCode>
+        <classCode scheme="eurovoc">1686</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">3173</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2796-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2796/2000 of 20 December 2000 amending Annex II to Council Regulation (EEC) No 2081/92 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs</head>
+      <p n="2">Commission Regulation (EC) No 2796/2000</p>
+      <p n="3">of 20 December 2000</p>
+      <p n="4">amending Annex II to Council Regulation (EEC) No 2081/92 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2081/92 of 14 July 1992 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs(1), as amended by Commission Regulation (EC) No 1509/2000(2), and in particular the third subparagraph of Article 1(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In order to meet the expectations of certain agricultural producers, for whom ornamental plants and flowers are one of the main sources of income, such products should be included in Annex II to Regulation (EEC) No 2081/92. Since they are agricultural products it is possible that such producers may lodge applications for their registration under Regulation (EEC) No 2081/92 given the link that they may have with certain geographical regions.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Regulatory Committee on Geographical Indications and Designations of Origin,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">In Annex II to Regulation (EEC) No 2081/92, the following product is added:</p>
+      <p n="14">"- Ornamental plants and flowers."</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 20 December 2000.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 208, 24.7.1992, p. 1.</p>
+      <p n="23">(2) OJ L 174, 13.7.2000, p. 7.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,274 @@
+<TEI.2 id="jrc31998R1172-en" n="31998R1172" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1172 English</title>
+        <title>Council Regulation (EC) No 1172/98 of 25 May 1998 on statistical returns in respect of the carriage of goods by road</title>
+      </titleStmt>
+      <extent>237 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1172:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1172:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2198</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4521</classCode>
+        <classCode scheme="eurovoc">4533</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1172-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1172/98 of 25 May 1998 on statistical returns in respect of the carriage of goods by road</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1172/98 of 25 May 1998 on statistical returns in respect of the carriage of goods by road</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 213 thereof,</p>
+      <p n="5">Having regard to the draft Regulation submitted by the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">(1) Whereas, in order to carry out the tasks entrusted to it in the context of the common transport policy, the Commission must have at its disposal comparable, reliable, synchronised, regular and comprehensive statistical data on the scale and development of the carriage of goods by road by means of vehicles registered in the Community, and on the degree of utilisation of vehicles carrying out this transport;</p>
+      <p n="9">(2) Whereas Council Directive 78/546/EEC of 12 June 1978 on statistical returns in respect of carriage of goods by road, as part of regional statistics (4) makes no provision for returns on types of transport which were not authorised at the time when this Directive was adopted; whereas the returns for which provision is made supply different information for national and international transport and whereas it provides no information on the degree of utilisation of vehicles carrying out this transport;</p>
+      <p n="10">(3) Whereas it is necessary to compile comprehensive regional statistics with regard to both the carriage of goods and vehicle journeys;</p>
+      <p n="11">(4) Whereas it is therefore appropriate to amend the system laid down by Directive 78/546/EEC in order to ensure the description of the regional origin and destination of intra-Community transport on the same bases as national transport, and to provide a link between the carriage of goods and vehicle journeys by measuring the degree of utilisation of vehicles carrying out this transport;</p>
+      <p n="12">(5) Whereas, in accordance with the principle of subsidiarity, the creation of common statistical standards allowing the production of harmonised information can be tackled efficiently only at Community level, while data will be collected in each Member State under the authority of the bodies and institutions in charge of compiling official statistics;</p>
+      <p n="13">(6) Whereas Council Regulation (EC) No 322/97 of 17 February 1997 on Community statistics (5) provides a reference framework for the provisions laid down by this Regulation, in particular those concerning access to the sources of administrative data, the cost-effectiveness of available resources and statistical confidentiality;</p>
+      <p n="14">(7) Whereas communication of individual data, once rendered anonymous, is necessary in order to estimate the overall accuracy of the results;</p>
+      <p n="15">(8) Whereas it is important to ensure that statistical information is adequately disseminated;</p>
+      <p n="16">(9) Whereas, during the start-up period, the Community will need to provide the Member States with a financial contribution for the execution of the necessary work;</p>
+      <p n="17">(10) Whereas it is appropriate to provide for a simplified procedure for implementing this Regulation and adapting it to economic and technical progress;</p>
+      <p n="18">(11) Whereas the Statistical Programme Committee established by Decision 89/382/EEC, Euratom (6) has been consulted in accordance with Article 3 thereof; whereas it has stated that it is in favour of this Regulation,</p>
+      <p n="19">HAS ADOPTED THIS REGULATION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Subject and scope</p>
+      <p n="22">1. Each Member State shall compile Community statistics on the carriage of goods by road by means of goods road transport vehicles which are registered in that Member State, and on the journeys made by such vehicles.</p>
+      <p n="23">2. This Regulation shall not apply to the carriage of goods by road by means of:</p>
+      <p n="24">(a) goods road transport vehicles whose authorised weight or dimensions exceed the limits normally permitted in the Member States concerned;</p>
+      <p n="25">(b) agricultural vehicles, military vehicles and vehicles belonging to central or local public administrations, with the exception of goods road transport vehicles belonging to public undertakings, and in particular railway undertakings.</p>
+      <p n="26">Each Member State may exclude from the scope of this Regulation goods road transport vehicles whose load capacity or maximum permissible laden weight is lower than a certain limit. This limit may not exceed a load capacity of 3,5 tonnes or maximum permissible weight of 6 tonnes in the case of single motor vehicles.</p>
+      <p n="27">Article 2</p>
+      <p n="28">Definitions</p>
+      <p n="29">For the purposes of this Regulation the following definitions shall apply:</p>
+      <p n="30">- 'carriage of goods by road`: all transport of goods by means of a goods road transport vehicle,</p>
+      <p n="31">- 'road transport vehicle`: a road vehicle fitted with an engine whence it derives its sole means of propulsion, which is normally used for carrying persons or goods by road, or for drawing, on the road, vehicles used for the carriage of persons or goods,</p>
+      <p n="32">- 'road vehicle for the transport of goods`: a road vehicle designed exclusively or primarily to carry goods (lorry, trailer, semi-trailer),</p>
+      <p n="33">- 'goods road transport vehicle`: any single road transport vehicle (lorry), or combination of road vehicles, namely road train (lorry with trailer) or articulated vehicle (road tractor with semi-trailer), designed to carry goods,</p>
+      <p n="34">- 'lorry`: a rigid road vehicle designed exclusively or primarily to carry goods,</p>
+      <p n="35">- 'road tractor`: a road transport vehicle designed exclusively or primarily to haul other road vehicles which are not power-driven (mainly semi-trailers),</p>
+      <p n="36">- 'trailer`: a road vehicle for transporting goods designed to be hauled by a road transport vehicle,</p>
+      <p n="37">- 'semi-trailer`: a road vehicle for transporting goods with no front axle so designed that part of the vehicle and a substantial part of its loaded weight rest on the road tractor,</p>
+      <p n="38">- 'articulated vehicle`: a road tractor coupled to a semi-trailer,</p>
+      <p n="39">- 'road train`: a goods road transport vehicle coupled to a trailer.</p>
+      <p n="40">This category also includes an articulated vehicle with a further trailer attached,</p>
+      <p n="41">- 'registered`: the state of having been entered in a register of road transport vehicles, kept by an official body in a Member State, whether or not the registration is accompanied by the issue of a registration plate.</p>
+      <p n="42">In the case of carriage by means of a combination of road transport vehicles, namely road train (lorry with trailer) or articulated vehicle (road tractor with semi-trailer), in which the goods road vehicle (lorry or road tractor) and the trailer or semi-trailer are registered in different countries, the complete vehicle shall be deemed to be registered in the country where the goods road vehicle is registered,</p>
+      <p n="43">- 'load capacity`: maximum weight of goods declared permissible by the competent authority of the country of registration of the vehicle.</p>
+      <p n="44">When the goods road transport vehicle is a train made up of a lorry with trailer, the load capacity of the train is the sum of the load capacities of the lorry and the trailer,</p>
+      <p n="45">- 'maximum permissible weight`: total weight of the vehicle (or vehicle combination) when stationary and ready for the road and of the weight of the load declared permissible by the competent authority of the country of registration of the vehicle,</p>
+      <p n="46">- 'Eurostat`: the Commission department responsible for carrying out the tasks incumbent on that institution in the field of production of Community statistics.</p>
+      <p n="47">Article 3</p>
+      <p n="48">Data collection</p>
+      <p n="49">1. Member States shall compile statistical data relating to the following areas:</p>
+      <p n="50">(a) vehicle-related data;</p>
+      <p n="51">(b) journey-related data;</p>
+      <p n="52">(c) goods-related data.</p>
+      <p n="53">2. The statistical variables in each area, their definition and the levels within the classification used for their breakdown are provided for in the Annexes.</p>
+      <p n="54">3. When determining the method to be used for compiling statistical data, Member States shall refrain from carrying out any formalities at frontiers between Member States.</p>
+      <p n="55">4. The data collection characteristics and the contents of the Annexes shall be adopted in accordance with the procedure laid down in Article 10.</p>
+      <p n="56">Article 4</p>
+      <p n="57">Precision of results</p>
+      <p n="58">Methods for the collection and processing of data shall be developed to ensure that the statistical results transmitted by the Member States meet minimum standards of precision, taking account of the structural characteristics of road transport in the Member States. These standards shall be laid down in accordance with the procedure specified in Article 10.</p>
+      <p n="59">Article 5</p>
+      <p n="60">Transmission of results to Eurostat</p>
+      <p n="61">1. Member States shall transmit to Eurostat every quarter duly verified individual data corresponding to the variables referred to in Article 3 and listed in Annex A, without indicating the name, address or registration number.</p>
+      <p n="62">Such transmission shall, where appropriate, include data relating to previous quarters for which the data transmitted were provisional.</p>
+      <p n="63">2. The arrangements for transmitting the data referred to in paragraph 1, including, if any, the statistical tables based on those data, shall be laid down in accordance with the procedure specified in Article 10.</p>
+      <p n="64">3. The transmission shall take place within five months of the end of each quarterly period of observation.</p>
+      <p n="65">The first transmission shall cover the first quarter of 1999.</p>
+      <p n="66">4. During a transitional period from 1 January 1999 until a date laid down in accordance with paragraph 5, a Member State may use simplified coding for the variables listed in Annex A, part A2, sections 3, 4, 8 and 9, and in part A3, sections 5 and 6.</p>
+      <p n="67">Such simplified coding shall consist of:</p>
+      <p n="68">- for national transport: coding in accordance with Annex G,</p>
+      <p n="69">- for international transport: a code for each country.</p>
+      <p n="70">5. The date of expiry of the transitional period provided for in paragraph 4 shall be fixed, in accordance with the procedure laid down in Article 10, as soon as the technical conditions exist to enable an effective system of regional coding to be used for both national and international transport in accordance with Annex G, sections 1 and 2.</p>
+      <p n="71">Article 6</p>
+      <p n="72">Dissemination of results</p>
+      <p n="73">The provisions on the dissemination of the statistical results in respect of the carriage of goods by road, including the structure and content of the results to be disseminated, shall be laid down in accordance with the procedure specified in Article 10.</p>
+      <p n="74">Article 7</p>
+      <p n="75">Reports</p>
+      <p n="76">1. Member States shall forward to Eurostat, on or before the date on which the first quarterly information is forwarded, a report on the methods used in compiling data.</p>
+      <p n="77">Member States shall also forward to Eurostat details of any substantial changes in the methods used to collect the data.</p>
+      <p n="78">2. Member States shall provide Eurostat with information each year on sample sizes, non-response rates and, in the form of standard error or confidence intervals, the reliability of the main results.</p>
+      <p n="79">3. After data have been collected over three years, the Commission shall send a report to the European Parliament and to the Council on experience acquired in the work carried out pursuant to this Regulation.</p>
+      <p n="80">Article 8</p>
+      <p n="81">Financial contribution</p>
+      <p n="82">1. During the first three years of implementation of the statistical returns provided for by this Regulation, the Member States shall receive a contribution in the form of financial assistance from the Community towards the expenditure incurred in carrying out the work involved.</p>
+      <p n="83">2. The amount of the appropriations allocated to this measure each year shall be fixed as part of the annual budgetary procedure.</p>
+      <p n="84">3. The budgetary authority shall determine the appropriations available for each year.</p>
+      <p n="85">4. In the report provided for in Article 7(3), the Commission shall enumerate the use of Community funds allocated to this measure.</p>
+      <p n="86">On the basis of the report provided for in Article 7(3), the Commission shall assess whether other financial contributions are necessary for an additional period of three years.</p>
+      <p n="87">Article 9</p>
+      <p n="88">Implementing procedures</p>
+      <p n="89">The procedures for implementing this Regulation, including measures for its adaptation to economic and technical progress shall be laid down, insofar as this does not involve a disproportionate increase in cost for the Member States and/or the burden on the respondents, in accordance with the procedure specified in Article 10. Such procedures shall concern in particular:</p>
+      <p n="90">- adaptation of the data collection characteristics and of the contents of the Annexes,</p>
+      <p n="91">- precision requirements,</p>
+      <p n="92">- the arrangements for transmitting the data to Eurostat, including, if any, the statistical tables based on those data,</p>
+      <p n="93">- dissemination of the results,</p>
+      <p n="94">- setting of the expiry date of the transitional period provided for in Article 5(5) for transmission of the variables listed in Article 5(4).</p>
+      <p n="95">Article 10</p>
+      <p n="96">Procedure</p>
+      <p n="97">The Commission shall be assisted by the Statistical Programme Committee, hereinafter referred to as the 'Committee`.</p>
+      <p n="98">The Commission representative shall submit to the Committee a draft of the measures to be taken. The Committee shall deliver its opinion on the draft within a time limit which the Chairman may lay down according to the urgency of the matter in question. The opinion shall be delivered by the majority laid down in Article 148(2) of the Treaty in the case of decisions which the Council is called upon to adopt on a proposal from the Commission. The votes of the representatives of the Member States within the Committee shall be weighted in the manner set out in that Article. The Chairman shall not vote.</p>
+      <p n="99">The Commission shall adopt measures which shall apply immediately. However, if these measures are not in accordance with the opinion of the Committee, they shall be forthwith communicated by the Commission to the Council. In that case:</p>
+      <p n="100">- the Commission shall defer application of the measures upon which it has decided for a period of three months from the date of communication,</p>
+      <p n="101">- the Council, acting by a qualified majority, may take a different decision within the time limit referred to in the first indent.</p>
+      <p n="102">Article 11</p>
+      <p n="103">Directive 78/546/EEC</p>
+      <p n="104">1. Member States shall provide results for the years 1997 and 1998 in accordance with Directive 78/546/EEC.</p>
+      <p n="105">2. Directive 78/546/EEC is hereby repealed with effect from 1 January 1999.</p>
+      <p n="106">Article 12</p>
+      <p n="107">Entry into force</p>
+      <p n="108">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="109">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="110">Done at Brussels, 25 May 1998.</p>
+      <p n="111">For the Council</p>
+      <p n="112">The President</p>
+      <p n="113">J. CUNNINGHAM</p>
+      <p n="114">(1) OJ C 341, 11. 11. 1997, p. 9.</p>
+      <p n="115">(2) OJ C 104, 6. 4. 1998.</p>
+      <p n="116">(3) OJ C 95, 30. 3. 1998, p. 33.</p>
+      <p n="117">(4) OJ L 168, 26. 6. 1978, p. 29. Directive as last amended by the 1994 Act of Accession.</p>
+      <p n="118">(5) OJ L 52, 22. 2. 1997, p. 1.</p>
+      <p n="119">(6) OJ L 181, 28. 6. 1989, p. 47.</p>
+      <p n="120">ANNEXES</p>
+      <p n="121">Annex A</p>
+      <p n="122">LIST OF VARIABLES</p>
+      <p n="123">Annex B</p>
+      <p n="124">CLASSIFICATION OF AXLE CONFIGURATIONS</p>
+      <p n="125">Annex C</p>
+      <p n="126">CLASSIFICATION OF TYPES OF JOURNEY</p>
+      <p n="127">Annex D</p>
+      <p n="128">CLASSIFICATION OF GOODS</p>
+      <p n="129">Annex E</p>
+      <p n="130">CLASSIFICATION OF CATEGORIES OF DANGEROUS GOODS</p>
+      <p n="131">Annex F</p>
+      <p n="132">CLASSIFICATION OF CARGO TYPES</p>
+      <p n="133">Annex G</p>
+      <p n="134">CODING OF PLACES OF LOADING AND UNLOADING</p>
+      <p n="135">ANNEX A</p>
+      <p n="136">LIST OF VARIABLES</p>
+      <p n="137">The information to be provided for each vehicle breaks down into:</p>
+      <p n="138">A1. vehicle-related data;</p>
+      <p n="139">A2. journey-related data;</p>
+      <p n="140">A3. goods-related data (in the basic transport operation).</p>
+      <p n="141">A1 VEHICLE-RELATED VARIABLES</p>
+      <p n="142">Pursuant to the definition given in Article 2 of the Regulation, a goods road transport vehicle shall be any single road transport vehicle (lorry) or combination of road vehicles, namely road train (lorry with trailer) or articulated vehicle (road tractor with semi-trailer) designed to carry goods.</p>
+      <p n="143">The vehicle-related data to be provided are the following:</p>
+      <p n="144">1.possibility of using vehicles for combined transport (optional);</p>
+      <p n="145">2.axle configuration according to Annex B (optional);</p>
+      <p n="146">3.age of the road transport vehicle (lorry or road tractor) in years (from its first registration);</p>
+      <p n="147">4. maximum permissible weight, in 100 kg;</p>
+      <p n="148">5.load capacity, in 100 kg;</p>
+      <p n="149">6.vehicle operator's NACE Rev. 1 category of activity (four-figure level) (optional) (1);</p>
+      <p n="150">7. type of transport (hire or reward/own account);</p>
+      <p n="151">8.type of kilometres covered during the survey period;</p>
+      <p n="152">8.1.loaded;</p>
+      <p n="153">8.2. empty (including road tractor journeys without semi-trailer) (optional);</p>
+      <p n="154">9. vehicle weighting, to be used to obtain full results from individual data if the data are collected on the basis of random sampling.</p>
+      <p n="155">Successive configurations</p>
+      <p n="156">When the road transport vehicle chosen for the survey is a lorry used alone, i.e. without trailer, throughout the survey period, it constitutes in itself the road vehicle for transporting goods.</p>
+      <p n="157">However, when the road transport vehicle chosen for the survey is a road tractor - in which case it will have a semi-trailer coupled - or when it is a lorry to which a trailer is coupled, the data required under the Regulation concern the road vehicle for the transport of goods taken as a whole. In this case, there may be a change of configuration during the survey period (with a lorry acquiring a trailer or changing trailer during the period, or a road tractor changing its semi-trailer). In such a case, these successive configurations must be recorded, and the data on the vehicle must be supplied for each journey. However, if it is not possible to record these successive configurations, it is agreed that, for the vehicle-related variables, those corresponding to the configuration at the beginning of the first laden journey made during the survey period or to the configuration used most during that period will be recorded.</p>
+      <p n="158">Change in type of transport</p>
+      <p n="159">In the same way, depending on the journey, the transport may be effected on own account of for hire or reward, and the type of transport must be recorded for each journey. However, if it is not possible to record these changes, it is agreed that the 'type of transport` recorded will be that corresponding to the main mode of utilisation.</p>
+      <p n="160">A2 JOURNEY-RELATED VARIABLES</p>
+      <p n="161">During the survey period, the goods road transport vehicle makes journeys, either unloaded (there are no goods or empty packaging in the lorry, the trailer or the semi-trailer, which are therefore 'completely empty`) or loaded (there are either goods or empty packaging in the lorry, the trailer or the semi-trailer, empty packaging being a particular type of goods). The loaded distance of the goods road transport vehicle is the distance between the first place of loading and the last place of unloading (where the goods road transport vehicle is completely emptied). A laden journey can therefore cover several basic transport operations.</p>
+      <p n="162">The data to be provided for each journey are as follows:</p>
+      <p n="163">1. type of journey in accordance with the nomenclature in Annex C;</p>
+      <p n="164">2. weight of goods carried during the journey or during each stage of the journey, gross weight in 100 kg;</p>
+      <p n="165">3. place of loading (of the goods road transport vehicle, for a laden journey);</p>
+      <p n="166">- definition: the place of loading is the first place in which goods are loaded on the goods road transport vehicle, which was previously completely empty (or where the road tractor is coupled up to a laden semi-trailer). For an unladen journey, it is the place of unloading of the preceding laden journey (notion of 'place where unladen journey begins`),</p>
+      <p n="167">- coding: the place of loading is coded in accordance with the provisions of Annex G;</p>
+      <p n="168">4. place of unloading (of the goods road transport vehicle, for a laden journey);</p>
+      <p n="169">- definition: the place of unloading is the last place in which goods are unloaded from the goods road transport vehicle, which is subsequently completely empty (or where the road tractor is uncoupled from a semi-trailer). For an unladen journey, it is the place of loading of the subsequent laden journey (notion of 'place where unladen journey ends`),</p>
+      <p n="170">- coding: the place of unloading is coded in accordance with the provisions of Annex G;</p>
+      <p n="171">5. distance travelled: actual distance excluding the distance covered by the goods road transport vehicle while being transported by another means of transport;</p>
+      <p n="172">6. tonnes/kilometre effected during the journey;</p>
+      <p n="173">7. countries crossed in transit (not more than five), coded according to the Geonomenclature (2);</p>
+      <p n="174">8. place of loading, if any, of the road transport vehicle on another means of transport in accordance with the provisions of Annex G (optional);</p>
+      <p n="175">9. place of unloading, if any, of the road transport vehicle from another means of transport in accordance with the provisions of Annex G (optional);</p>
+      <p n="176">10. situation 'fully loaded` (procedure 2) or 'not fully loaded` (procedure 1) of the goods road transport vehicle during the journey in question, in terms of maximum volume of space used during the journey (procedure 0 = by convention for unladen journeys) (optional).</p>
+      <p n="177">A3 GOODS-RELATED VARIABLES (in the basic transport operation)</p>
+      <p n="178">During a laden journey, several basic transport operations can be carried out, a basic transport operation being defined as the transport of one type of goods (defined by reference to a particular nomenclature level) between its place of loading and its place of unloading.</p>
+      <p n="179">The data to be provided relating to a basic transport operation during a laden journey are as follows:</p>
+      <p n="180">1. type of goods, according to the groups referring to an appropriate classification (see Annex D);</p>
+      <p n="181">2. weight of goods: gross weight in 100 kg;</p>
+      <p n="182">3. if need be, the classification of the goods as dangerous according to the main categories of Directive 94/55/EC (3) given in Annex E;</p>
+      <p n="183">4. type of freight as given in Annex F (optional);</p>
+      <p n="184">5. place of loading of the goods, coded in accordance with the provisions of Annex G;</p>
+      <p n="185">6. place of unloading of the goods, coded in accordance with the provisions of Annex G;</p>
+      <p n="186">7. distance travelled, actual distance excluding the distance covered with the goods road transport vehicle while being transported by another means of transport.</p>
+      <p n="187">TRANSPORT OPERATIONS CARRIED OUT DURING A 'COLLECTION OR DISTRIBUTION ROUND` TYPE OF JOURNEY (journey-type 3)</p>
+      <p n="188">For this type of journey, with several loading and/or unloading points, it is practically impossible to ask the transport operators to describe the basic transport operations.</p>
+      <p n="189">For these journeys, when identified as such, a single, notional, basic transport operation is generally generated on the basis of the information on the journey.</p>
+      <p n="190">Each Member State will inform the Commission of its definition of this type of journey and explain the simplifying assumptions it is obliged to apply when collecting data on the corresponding transport operations.</p>
+      <p n="191">Methodological appendix</p>
+      <p n="192">Laden journeys and basic transport operations</p>
+      <p n="193">Depending on the Member State concerned, information on transport is collected on the basis of:</p>
+      <p n="194">- either a description of each basic goods transport operation (with additional details on unladen journeys),</p>
+      <p n="195">- or a description of the journeys made by the vehicle in carrying out these basic goods transport operations.</p>
+      <p n="196">In the great majority of cases, when a laden journey is made this represents one basic transport operations only with:</p>
+      <p n="197">- a single type of goods loaded (by reference to the classification of goods in use, in this case the 24 groups derived from the NST classification) (4),</p>
+      <p n="198">- a single point of loading for the goods,</p>
+      <p n="199">- a single point of unloading for the goods.</p>
+      <p n="200">In this case the two methods used are completely equivalent, and the information collected by either method describes both:</p>
+      <p n="201">- the transportation of the goods (all the basic goods transport operations),</p>
+      <p n="202">- the journeys made by the vehicles carrying out these operations, with details of vehicle capacities and utilisation of these capacities (laden journey with utilisation coefficient; unladen journey).</p>
+      <p n="203">Under this Regulation, the transportation of goods and the journeys made by the vehicles must both be described, but it is undesirable to impose on the transport operators an excessive increase in the burden of statistics by asking them to describe in detail the transportation of goods and the vehicle journeys.</p>
+      <p n="204">Accordingly, the NSOs in the Member States, when coding the questionnaires, must reconstitute the data which are not explicitly required from the transport operators from the data which they collect on the basis of either the 'basic transport operation`, or the 'vehicle journey`.</p>
+      <p n="205">The problem will arise when several basic transport operations are carried out in the course of one laden journey, which may be because:</p>
+      <p n="206">- there are several points of loading and/or unloading of the goods (but limited in number, otherwise these would be pick-up or distribution rounds, which require special treatment).</p>
+      <p n="207">In this case these various loading and/or unloading points are recorded, in order to calculate directly the tonnes/kilometre effected during the journey, and the statistical office can reconstitute the basic transport operations,</p>
+      <p n="208">- and/or the fact that there are several different types of goods transported during the laden journey, a fact which in general is not recorded in the statistics, since only the type of goods (single or main) is requested.</p>
+      <p n="209">In this case the loss of information is accepted and Member States carrying out this type of simplification will make explicit mention of it to the Commission.</p>
+      <p n="210">(1) Statistical classification of economic activities in the European Communities.</p>
+      <p n="211">(2) Nomenclature of countries for the Community's external trade statistics.</p>
+      <p n="212">(3) Council Directive 94/55/EC of 21 November 1994 on the approximation of the laws of the Member States with regard to the transport of dangerous goods by road (OJ L 319, 12. 12. 1994, p. 7). Directive as amended by Commission Directive 96/86/EC (OJ L 335, 24. 12. 1996, p. 43). For the latest amendments to the Annexes, see OJ L 251, 15. 9. 1997, p. 1.</p>
+      <p n="213">(4) NST: Uniform nomenclature of goods for transport statistics.</p>
+      <p n="214">ANNEX B</p>
+      <p n="215">CLASSIFICATION OF AXLE CONFIGURATIONS</p>
+      <p n="216">Where a combination of vehicles is used, the axle configuration counts the total number of axles, i. e. the axles of the lorry or the road tractor, plus those of the trailer or semi-trailer.</p>
+      <p n="217">The axle categories considered are as follows:</p>
+      <p n="218">&gt;TABLE&gt;</p>
+      <p n="219">ANNEX C</p>
+      <p n="220">CLASSIFICATION OF TYPES OF JOURNEY</p>
+      <p n="221">1. Laden journey involving one single basic transport operation.</p>
+      <p n="222">2. Laden journey involving several transport operations, but not considered as a collection or distribution round.</p>
+      <p n="223">3. Laden journey of the collection or distribution round type.</p>
+      <p n="224">4. Unladen journeys.</p>
+      <p n="225">ANNEX D</p>
+      <p n="226">CLASSIFICATION OF GOODS</p>
+      <p n="227">The classification of goods shall be according to the NST until such time as its substitution is laid down by the Commission, in consultation with the Member States.</p>
+      <p n="228">&gt;TABLE&gt;</p>
+      <p n="229">ANNEX E</p>
+      <p n="230">&gt;TABLE&gt;</p>
+      <p n="231">ANNEX F</p>
+      <p n="232">&gt;TABLE&gt;</p>
+      <p n="233">ANNEX G</p>
+      <p n="234">CODING OF PLACES OF LOADING AND UNLOADING</p>
+      <p n="235">1. Level 3 of the Nomenclature of Territorial Units for Statistics (NUTS), for the Member States of the European Community.</p>
+      <p n="236">2. Lists of administrative regions supplied by the third country concerned, for States which are not members of the European Community but which are contracting parties to the Agreement on the European Economic Area (EEA), namely Iceland, Liechtenstein and Norway.</p>
+      <p n="237">3. Nomenclature of countries used for the Community's external trade statistics, for other third countries.</p>
+    </body>
+  </text>
+</TEI.2>

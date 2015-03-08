@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31998R0938-en" n="31998R0938" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0938 English</title>
+        <title>Commission Regulation (EC) No 938/98 of 4 May 1998 amending Regulation (EC) No 2931/95 amending Regulation (EEC) No 804/68 and other regulations as a result of the amendment of the Combined Nomenclature for certain milk products</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0938:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0938:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1250</classCode>
+        <classCode scheme="eurovoc">2741</classCode>
+        <classCode scheme="eurovoc">4454</classCode>
+        <classCode scheme="eurovoc">5088</classCode>
+        <classCode scheme="eurovoc">5751</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0938-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 938/98 of 4 May 1998 amending Regulation (EC) No 2931/95 amending Regulation (EEC) No 804/68 and other regulations as a result of the amendment of the Combined Nomenclature for certain milk products</head>
+      <p n="2">COMMISSION REGULATION (EC) No 938/98 of 4 May 1998 amending Regulation (EC) No 2931/95 amending Regulation (EEC) No 804/68 and other regulations as a result of the amendment of the Combined Nomenclature for certain milk products</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 234/79 of 5 February 1979 on the procedure for adjusting the Common Customs Tariff nomenclature used for agricultural products (1), as amended by Regulation (EEC) No 3209/89 (2), and in particular Article 2(1) thereof,</p>
+      <p n="6">Having regard to Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organisation of the market in milk and milk products (3), as last amended by Regulation (EC) No 1587/96 (4), and in particular Articles 13(3) and 17(14) thereof,</p>
+      <p n="7">Whereas Commission Regulation (EC) No 2448/95 of 10 October 1995 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (5) amends the codes of certain milk products from 1 January 1996;</p>
+      <p n="8">Whereas Commission Regulation (EC) No 2931/95 (6), as amended by Regulation (EC) No 1812/97 (7), amends the regulations regarding milk and milk products affected by the amendment of the CN code subheadings, including Regulation (EEC) No 804/68;</p>
+      <p n="9">Whereas Article 17(1) of Regulation (EEC) No 804/68, read in conjunction with the Annex thereto before its amendment by Regulation (EC) No 2931/95, as interpreted by the Court of Justice of the European Communities in Case C-334/95, authorises the grant of export refunds on milk products contained both in preparations with a basis of coffee and in preparations with a basis of extracts, essences and concentrates of coffee; whereas this interpretation of the Court was not taken into account when the Annex to Regulation (EEC) No 804/68 was amended by Regulation (EC) No 2931/95; whereas, in order to bring Regulation (EC) No 2931/95 into line with this interpretation, the relevant code and the code for preparations with a basis of extracts, essences of tea or maté, for which the same approach should have been followed, should be entered in the Annex to Regulation (EEC) No 804/68; whereas, in order to avoid any break in the application of the Court's interpretation, the amendments should apply from 1 January 1996;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The seventh indent of Article 1(4) of Regulation (EC) No 2931/95 is hereby replaced by the following:</p>
+      <p n="14">'- the information relating to CN codes ex 2101 10 and 2101 20 is replaced by the following:</p>
+      <p n="15">&gt;TABLE&gt;</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">It shall apply with effect from 1 January 1996.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 4 May 1998.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 34, 9. 2. 1979, p. 2.</p>
+      <p n="25">(2) OJ L 312, 27. 10. 1989, p. 5.</p>
+      <p n="26">(3) OJ L 148, 28. 6. 1968, p. 13.</p>
+      <p n="27">(4) OJ L 206, 16. 8. 1996, p. 21.</p>
+      <p n="28">(5) OJ L 259, 30. 10. 1995, p. 1.</p>
+      <p n="29">(6) OJ L 307, 20. 12. 1995, p. 10.</p>
+      <p n="30">(7) OJ L 257, 20. 9. 1997, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>

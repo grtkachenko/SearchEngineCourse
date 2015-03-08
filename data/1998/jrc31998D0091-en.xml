@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31998D0091-en" n="31998D0091" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0091 English</title>
+        <title>98/91/EC: Commission Decision of 9 January 1998 amending Decision 80/804/EEC concerning animal health conditions and veterinary certification for the importation of fresh meat from Canada (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0091:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0091:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">4689</classCode>
+        <classCode scheme="eurovoc">5100</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0091-en." lang="en">
+    <body>
+      <head n="1">98/91/EC: Commission Decision of 9 January 1998 amending Decision 80/804/EEC concerning animal health conditions and veterinary certification for the importation of fresh meat from Canada (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 9 January 1998 amending Decision 80/804/EEC concerning animal health conditions and veterinary certification for the importation of fresh meat from Canada (Text with EEA relevance) (98/91/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 72/462/EEC of 12 December 1972 on health and veterinary inspection problems on importation of bovine animals and swine and fresh meat from third countries (1), as last amended by Directive 96/91/EC (2), and in particular Article 14(1) thereof,</p>
+      <p n="6">Whereas Commission Decision 80/804/EEC (3), as last amended by Decision 96/727/EC (4), lays down the animal health conditions and veterinary certification for the importation of fresh meat from Canada;</p>
+      <p n="7">Whereas it is possible, without the risk of spread of disease, to accept fresh meat of domestic animals of the porcine, ovine and caprine species where such animals have originated in Canada or the United States of America and have spent part of the residency period in either country;</p>
+      <p n="8">Whereas both Canada and the United States have given undertakings to the Commission and the Member States, within 24 hours at the latest, of the confirmation of the occurrence of serious epizootic disease;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Annex to Decision 80/804/EEC is hereby replaced by the Annex to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision shall apply from the 15th day after notification to the Member States.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Decision is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 9 January 1998.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 302, 31. 12. 1972, p. 28.</p>
+      <p n="22">(2) OJ L 13, 16. 1. 1997, p. 26.</p>
+      <p n="23">(3) OJ L 236, 9. 9. 1980, p. 25.</p>
+      <p n="24">(4) OJ L 329, 19. 12. 1996, p. 51.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">&gt;START OF GRAPHIC&gt;</p>
+      <p n="27">.ANIMAL HEALTH CERTIFICATE</p>
+      <p n="28">&gt;END OF GRAPHIC&gt;</p>
+    </body>
+  </text>
+</TEI.2>

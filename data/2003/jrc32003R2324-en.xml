@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R2324-en" n="32003R2324" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2324 English</title>
+        <title>Council Regulation (EC) No 2324/2003 of 17 December 2003 amending Regulation (EC) No 1037/2001 authorising the offer and delivery for direct human consumption of certain imported wines which may have undergone oenological processes not provided for in Regulation (EC) No 1493/1999</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2324:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2324:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3196</classCode>
+        <classCode scheme="eurovoc">4713</classCode>
+        <classCode scheme="eurovoc">4726</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2324-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2324/2003 of 17 December 2003 amending Regulation (EC) No 1037/2001 authorising the offer and delivery for direct human consumption of certain imported wines which may have undergone oenological processes not provided for in Regulation (EC) No 1493/1999</head>
+      <p n="2">Council Regulation (EC) No 2324/2003</p>
+      <p n="3">of 17 December 2003</p>
+      <p n="4">amending Regulation (EC) No 1037/2001 authorising the offer and delivery for direct human consumption of certain imported wines which may have undergone oenological processes not provided for in Regulation (EC) No 1493/1999</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), and in particular Article 45(2) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) By derogation from Article 45(1) of Regulation (EC) No 1493/1999, Regulation (EC) No 1037/2001(2) authorises the import into the Community of American wines which have undergone certain oenological processes not provided for in the Community rules. That authorisation expires on 31 December 2003 in respect of the oenological processes referred to in paragraph 1(b) of the Annex to Regulation (EC) No 1037/2001.</p>
+      <p n="11">(2) Since the ongoing bilateral negotiations with the United States of America will not reach a conclusion before the end of the year, in order to avoid any trade disruptions, provision should be made to continue to authorise the American oenological processes referred to in paragraph 1(b) of the Annex to Regulation (EC) No 1037/2001 until the entry into force of the agreement resulting from those negotiations, but until 31 December 2005 at the latest.</p>
+      <p n="12">(3) Regulation (EC) No 1037/2001 should be amended accordingly,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">In the second subparagraph of Article 1(1) of Regulation (EC) No 1037/2001, the date "31 December 2003" shall be replaced by "31 December 2005".</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 17 December 2003.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">G. Alemanno</p>
+      <p n="23">(1) OJ L 179, 14.7.1999, p. 1. Regulation as last amended by Commission Regulation (EC) No 1795/2003 (OJ L 262, 14.10.2003, p. 13).</p>
+      <p n="24">(2) OJ L 145, 31.5.2001, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

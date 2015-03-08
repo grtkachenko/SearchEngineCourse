@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31998R2767-en" n="31998R2767" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2767 English</title>
+        <title>Commission Regulation (EC) No 2767/98 of 21 December 1998 amending Regulation (EC) No 2300/97 on detailed rules to implement Council Regulation (EC) No 1221/97 laying down general rules for the application of measures to improve the production and the marketing of honey</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2767:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2767:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">1465</classCode>
+        <classCode scheme="eurovoc">1907</classCode>
+        <classCode scheme="eurovoc">2115</classCode>
+        <classCode scheme="eurovoc">6025</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2767-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2767/98 of 21 December 1998 amending Regulation (EC) No 2300/97 on detailed rules to implement Council Regulation (EC) No 1221/97 laying down general rules for the application of measures to improve the production and the marketing of honey</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2767/98 of 21 December 1998 amending Regulation (EC) No 2300/97 on detailed rules to implement Council Regulation (EC) No 1221/97 laying down general rules for the application of measures to improve the production and the marketing of honey</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 1221/97 of 25 June 1997 laying down general rules for the application of measures to improve the production and marketing of honey (1), as amended by Regulation (EC) No 2070/98 (2), and in particular Article 5 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 2300/97 (3), as last amended by Regulation (EC) No 2633/98 (4), lays down provisions for the implementation of measures to improve the production and the marketing of honey;</p>
+      <p n="7">Whereas, in order to allow a certain flexibility in the implementation of the programme, the financial limits notified for each measure may vary by certain percentage without, however, exceeding the overall ceiling for the annual programme; whereas, if use is made of the flexibility allowed in implementation of the programme, the Community financial contribution must not exceed the limit of 50 % of the expenditure actually borne by the Member State concerned;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The following Article 4a is inserted in Regulation (EC) No 2300/97:</p>
+      <p n="12">'Article 4a</p>
+      <p n="13">The financial limits for each measure may be increased or reduced by a maximum of 10 % provided that the overall ceiling for the annual programme is not exceeded and the Community contribution to financing of the programme referred to in Article 3 does not exceed 50 % of the expenditure borne by the Member State concerned.`</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 21 December 1998.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 173, 1. 7. 1997, p. 1.</p>
+      <p n="22">(2) OJ L 265, 30. 9. 1998, p. 1.</p>
+      <p n="23">(3) OJ L 319, 21. 11. 1997, p. 4.</p>
+      <p n="24">(4) OJ L 333, 9. 12. 1998, p. 23.</p>
+    </body>
+  </text>
+</TEI.2>

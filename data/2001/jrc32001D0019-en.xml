@@ -1,0 +1,74 @@
+<TEI.2 id="jrc32001D0019-en" n="32001D0019" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0019 English</title>
+        <title>2001/19/EC: Commission Decision of 20 December 2000 on the procedure for attesting the conformity of construction products pursuant to Article 20(2) of Council Directive 89/106/EEC as regards expansion joints for road bridges (Text with EEA relevance) (notified under document number C(2000) 3694)</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0019:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0019:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1562</classCode>
+        <classCode scheme="eurovoc">180</classCode>
+        <classCode scheme="eurovoc">1826</classCode>
+        <classCode scheme="eurovoc">2206</classCode>
+        <classCode scheme="eurovoc">4036</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0019-en." lang="en">
+    <body>
+      <head n="1">2001/19/EC: Commission Decision of 20 December 2000 on the procedure for attesting the conformity of construction products pursuant to Article 20(2) of Council Directive 89/106/EEC as regards expansion joints for road bridges (Text with EEA relevance) (notified under document number C(2000) 3694)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 20 December 2000</p>
+      <p n="4">on the procedure for attesting the conformity of construction products pursuant to Article 20(2) of Council Directive 89/106/EEC as regards expansion joints for road bridges</p>
+      <p n="5">(notified under document number C(2000) 3694)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/19/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 89/106/EEC of 21 December 1988 on the approximation of laws, regulations and administrative provisions of the Member States relating to construction products(1), as amended by Directive 93/68/EEC(2), and in particular Article 13(4) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The Commission is required to select, as between the two procedures under Article 13(3) of Directive 89/106/EEC for attesting the conformity of a product, the least onerous possible procedure consistent with safety. This means that it is necessary to decide whether, for a given product or family of products, the existence of a factory production control system under the responsibility of the manufacturer is a necessary and sufficient condition for an attestation of conformity, or whether, for reasons related to compliance with the criteria mentioned in Article 13(4), the intervention of an approved certification body is required.</p>
+      <p n="13">(2) Article 13(4) requires that the procedure thus determined should be indicated in the mandates and in the technical specifications. It is therefore desirable to identify the products or family of products referred to in the technical specifications.</p>
+      <p n="14">(3) The two procedures provided for in Article 13(3) are described in detail in Annex III to Directive 89/106/EEC. It is necessary therefore to specify clearly the methods by which the two procedures should be implemented, by the reference to Annex III, for each product or family of products, since Annex III gives preference to certain systems.</p>
+      <p n="15">(4) The procedure referred to in Article 13(3)(a) corresponds to the systems set out in the first possibility, without continuous surveillance, and the second and third possibilities of Annex III(2)(ii). The procedure referred to in III (2)(i) Article 13(3)(a)(b) corresponds to the systems set out in Annex III(2)(i), and in the first possibility, with continuous surveillance, of Annex III(2)(ii).</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Construction,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The products and families of products set out in Annex I shall have their conformity attested by a procedure whereby, in addition to a factory production control system operated by the manufacturer, an approved certification body is involved in assessment and surveillance of the production control or of the product itself.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The procedure for attesting conformity as set out in Annex II shall be indicated in mandates for guidelines for European technical approvals.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 20 December 2000.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Erkki Liikanen</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 40, 11.2.1989, p. 12.</p>
+      <p n="29">(2) OJ L 220, 30.8.1993, p. 1.</p>
+      <p n="30">ANNEX I</p>
+      <p n="31">Expansion joints for road bridges</p>
+      <p n="32">For uses in road bridges to ensure the continuity of the running surface, the continuity of the traffic bearing capacity and to accommodate the movement of the bridges.</p>
+      <p n="33">ANNEX II</p>
+      <p n="34">Product family: expansion joints for road bridges</p>
+      <p n="35">Systems of attestation of conformity</p>
+      <p n="36">For the product(s) and intended use(s) listed below, EOTA is requested to specify the following system(s) of attestation of conformity in the relevant guideline for European technical approvals:</p>
+      <p n="37">&gt;TABLE&gt;</p>
+      <p n="38">The specification for the system should be such that it can be implemented even where performance does not need to be determined for a certain characteristic, because at least one Member state has no legal requirement at all for such characteristic (see Article 2(1) of Directive 89/106/EEC and, where applicable, paragraph 1.2.3 of the interpretative documents). In those cases the verification of such a characteristic must not be imposed on the manufacturer if he does not wish to declare the performance of the product in that respect.</p>
+    </body>
+  </text>
+</TEI.2>

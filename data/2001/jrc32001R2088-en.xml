@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32001R2088-en" n="32001R2088" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R2088 English</title>
+        <title>Commission Regulation (EC) No 2088/2001 of 25 October 2001 amending Regulation (EC) No 2342/1999 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 on the common organisation of the market in beef and veal as regards premium schemes</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2088:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2088:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2194</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R2088-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2088/2001 of 25 October 2001 amending Regulation (EC) No 2342/1999 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 on the common organisation of the market in beef and veal as regards premium schemes</head>
+      <p n="2">Commission Regulation (EC) No 2088/2001</p>
+      <p n="3">of 25 October 2001</p>
+      <p n="4">amending Regulation (EC) No 2342/1999 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 on the common organisation of the market in beef and veal as regards premium schemes</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1254/1999 of 17 May 1999 on the common organisation of the market in beef and veal(1), as last amended by Regulation (EC) No 1512/2001(2), and in particular Article 4(8), Article 6(7), Article 10(3), Article 11(5) and Article 20 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Calculation of the minimum and maximum number of heifers expressed as a percentage as laid down respectively in the first, second and third subparagraphs of Article 6(2) and in the fourth subparagraph of Article 10(1) of Regulation (EC) No 1254/1999 may produce a result which is not a whole number. Provision should therefore be made for rounding-off so that a whole number of animals is obtained.</p>
+      <p n="10">(2) Article 41 of Commission Regulation (EC) No 2342/1999 of 28 October 1999 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 on the common organisation of the market in beef and veal as regards premium schemes(3), as last amended by Regulation (EC) No 1458/2001(4), lays down certain rules on the payment of advances. Continuing low demand resulting from consumers' concerns about the consequences of the diseases which have come to light over the past few months has produced a difficult situation on the beef and veal market, so to enable producers to continue to meet their financial commitments an increase in the amount of the advances for the special premium, suckler-cow premium, slaughter premium and additional payments should be authorised.</p>
+      <p n="11">(3) In view of the way in which events are developing this Regulation should enter into force immediately.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EC) No 2342/1999 is amended as follows:</p>
+      <p n="16">1. The following Article 29a is inserted: "Article 29a</p>
+      <p n="17">Rounding-off of animal numbers</p>
+      <p n="18">If the calculation of the minimum and maximum number of heifers expressed as a percentage as laid down respectively in the first, second and third subparagraphs of Article 6(2) and in the fourth subparagraph of Article 10(1) of Regulation (EC) No 1254/1999 produces a result which is not a whole number, that number shall be rounded down to the nearest whole number if it is less than 0,5 and up to the nearest whole number if it is 0,5 or more."</p>
+      <p n="19">2. In Article 41(1), the final subparagraph is replaced by the following: "However, as regards the 2000 and 2001 calendar years, an advance equal to 80 % of the special premium, the suckler cow premium, the slaughter premium and the additional payments may be paid."</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">However, Article 1(1) shall apply from 1 January 2002.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 25 October 2001.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 160, 26.6.1999, p. 21.</p>
+      <p n="29">(2) OJ L 201, 26.7.2001, p. 1.</p>
+      <p n="30">(3) OJ L 281, 4.11.1999, p. 30.</p>
+      <p n="31">(4) OJ L 194, 18.7.2001, p. 4.</p>
+    </body>
+  </text>
+</TEI.2>

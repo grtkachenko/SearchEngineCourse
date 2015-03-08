@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32002R1107-en" n="32002R1107" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1107 English</title>
+        <title>Council Regulation (EC) No 1107/2002 of 25 June 2002 amending Regulation (EC) No 92/2002 imposing a definitive anti-dumping duty and collecting definitively the provisional anti-dumping duty imposed on imports of urea originating in Belarus, Bulgaria, Croatia, Estonia, Libya, Lithuania, Romania and the Ukraine</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1107:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1107:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">519</classCode>
+        <classCode scheme="eurovoc">765</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1107-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1107/2002 of 25 June 2002 amending Regulation (EC) No 92/2002 imposing a definitive anti-dumping duty and collecting definitively the provisional anti-dumping duty imposed on imports of urea originating in Belarus, Bulgaria, Croatia, Estonia, Libya, Lithuania, Romania and the Ukraine</head>
+      <p n="2">Council Regulation (EC) No 1107/2002</p>
+      <p n="3">of 25 June 2002</p>
+      <p n="4">amending Regulation (EC) No 92/2002 imposing a definitive anti-dumping duty and collecting definitively the provisional anti-dumping duty imposed on imports of urea originating in Belarus, Bulgaria, Croatia, Estonia, Libya, Lithuania, Romania and the Ukraine</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 384/1996 of 22 December 1995 on protection against dumped imports from countries not members of the European Community(1), and in particular Articles 8 and 9 thereof,</p>
+      <p n="8">Having regard to the proposal submitted by the Commission after consulting the Advisory Committee,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">A. PROCEDURE</p>
+      <p n="11">(1) The Council, by Regulation (EC) No 92/2002(2), imposed definitive anti-dumping duties on imports of urea originating in Belarus, Bulgaria, Croatia, Estonia, Libya, Lithuania, Romania and the Ukraine, and exempted a Bulgarian exporting producer from the said duties as an undertaking had been accepted by the Commission from the company concerned.</p>
+      <p n="12">(2) Joint Stock Company Achema, in connection with the anti-dumping proceeding concerning imports of urea originating, inter alia, in Lithuania offered an acceptable undertaking prior to the publication of the definitive findings but at a stage when it was administratively impossible to include its acceptance in the definitive Regulation.</p>
+      <p n="13">(3) The Commission, by Decision No 2002/498/EC(3), accepted the undertaking offer by Joint Stock Company Achema. The reasons for accepting this undertaking are set out in this Decision. The Council recognises that the revisions introduced to the undertaking offer eliminate the injurious effect of dumping and seriously limit any risk of circumvention in the form of cross-compensation with other products.</p>
+      <p n="14">(4) In view of the acceptance of the undertaking offer it is necessary to amend Regulation (EC) No 92/2002 accordingly,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Regulation (EC) No 92/2002 is hereby amended as follows:</p>
+      <p n="18">1. In Article 1(2), the row concerning Lithuania shall be replaced by the following: "&gt;TABLE&gt;"</p>
+      <p n="19">2. In Article 2(1), the table shall be replaced by the following: "&gt;TABLE&gt;"</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Luxembourg, 25 June 2002.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">J. Matas I Palou</p>
+      <p n="27">(1) OJ L 56, 6.3.1996, p. 1. Regulation as last amended by Regulation (EC) No 2238/2000 (OJ L 257, 11.10.2000, p. 2).</p>
+      <p n="28">(2) OJ L 17, 19.1.2002, p. 1.</p>
+      <p n="29">(3) See page 51 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

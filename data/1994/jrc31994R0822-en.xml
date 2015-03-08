@@ -1,0 +1,51 @@
+<TEI.2 id="jrc31994R0822-en" n="31994R0822" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994R0822 English</title>
+        <title>Commission Regulation (EC) No 822/94 of 13 April 1994 adjusting the CN codes for apples listed in the Annex to Council Regulation (EEC) No 2019/93 introducing specific measures for the smaller Aegean Islands concerning certain agricultural products</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R0822:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R0822:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994R0822-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 822/94 of 13 April 1994 adjusting the CN codes for apples listed in the Annex to Council Regulation (EEC) No 2019/93 introducing specific measures for the smaller Aegean Islands concerning certain agricultural products</head>
+      <p n="2">COMMISSION REGULATION (EC) No 822/94 of 13 April 1994 adjusting the CN codes for apples listed in the Annex to Council Regulation (EEC) No 2019/93 introducing specific measures for the smaller Aegean Islands concerning certain agricultural products</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 234/79 of 5 February 1979 on the procedure for adjusting the Common Customs Tariff nomenclature used for agricultural products (1), as amended by Regulation (EEC) No 3209/89 (2), and in particular Article 2 (1) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 2505/92 of 14 July 1992 amending Annexes I and II to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (3) contains the combined nomenclature in force at the time of the entry into force of Council Regulation (EEC) No 2019/93 of 19 July 1993 introducing specific measures for the smaller Aegean islands concerning certain agricultural products (4);</p>
+      <p n="7">Whereas the combined nomenclature code used to designate apples in the Annex to Regulation (EEC) No 2019/93 is the code which was in force in 1992 and whereas that code does not correspond to the code in force since 1993; whereas the code in question should consequently be adjusted;</p>
+      <p n="8">Whereas such adjustment must take effect on the date of entry into force of the Regulation (EEC) No 2019/93;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">In the Annex to Regulation (EEC) No 2019/93, CN codes '0808 10 91 to 0808 10 99` designating apples are hereby replaced by CN codes '0808 10 31 to 0808 10 89`.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">It shall apply from 30 July 1993.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 13 April 1994.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">René STEICHEN</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 34, 9. 2. 1979, p. 2.</p>
+      <p n="22">(2) OJ No L 312, 27. 10. 1989, p. 5.</p>
+      <p n="23">(3) OJ No L 267, 14. 9. 1992, p. 1.</p>
+      <p n="24">(4) OJ No L 184, 27. 7. 1993, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,34 @@
+<TEI.2 id="jrc31993D0591-en" n="31993D0591" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993D0591 English</title>
+        <title>93/591/EC: Council Decision of 8 November 1993 concerning the name to be given to the Council following the entry into force of the Treaty on European Union</title>
+      </titleStmt>
+      <extent>7 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0591:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0591:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993D0591-en." lang="en">
+    <body>
+      <head n="1">93/591/EC: Council Decision of 8 November 1993 concerning the name to be given to the Council following the entry into force of the Treaty on European Union</head>
+      <p n="2">COUNCIL DECISION of 8 November 1993 concerning the name to be given to the Council following the entry into force of the Treaty on European Union (93/591)</p>
+      <p n="3">The Council shall henceforth be called the 'Council of the European Union` and shall be so designated, in particular in all the acts which it adopts, including those adopted under Titles V and VI of the Treaty on European Union; political declarations which the Council adopts under the common foreign and security policy will thus be made in the name of 'the European Union`.</p>
+      <p n="4">Done at Brussels, 8 November 1993.</p>
+      <p n="5">For the Council</p>
+      <p n="6">The President</p>
+      <p n="7">W. CLAES</p>
+    </body>
+  </text>
+</TEI.2>

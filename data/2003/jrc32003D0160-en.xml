@@ -1,0 +1,80 @@
+<TEI.2 id="jrc32003D0160-en" n="32003D0160" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0160 English</title>
+        <title>2003/160/EC: Commission Decision of 7 March 2003 amending Regulation (EC) No 2037/2000 of the European Parliament and of the Council with regard to the use of halon 1301 and halon 1211 (notified under document number C(2003) 691)</title>
+      </titleStmt>
+      <extent>43 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0160:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0160:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2215</classCode>
+        <classCode scheme="eurovoc">2739</classCode>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">3579</classCode>
+        <classCode scheme="eurovoc">3633</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0160-en." lang="en">
+    <body>
+      <head n="1">2003/160/EC: Commission Decision of 7 March 2003 amending Regulation (EC) No 2037/2000 of the European Parliament and of the Council with regard to the use of halon 1301 and halon 1211 (notified under document number C(2003) 691)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 7 March 2003</p>
+      <p n="4">amending Regulation (EC) No 2037/2000 of the European Parliament and of the Council with regard to the use of halon 1301 and halon 1211</p>
+      <p n="5">(notified under document number C(2003) 691)</p>
+      <p n="6">(2003/160/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Regulation (EC) No 2037/2000 of the European Parliament and of the Council of 29 June 2000, on substances that deplete the ozone layer(1), as last amended by Regulation (EC) No 2039/2000(2), and in particular Article 4(4)(iv) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Commission has come, during the course of the review provided for in Article 4(4)(iv) of Regulation (EC) No 2037/2000, and after consultation with the military and other stakeholders, to the following findings with regard to the use of halon 1301 and halon 1211.</p>
+      <p n="12">(2) Halon 1301 is currently used for fuel tank inerting in F-16 fighter aircraft. At present there are no alternatives available that have the ability to extinguish a fire and suppress an explosion in a volume-to-weight ratio acceptable for fuel tank inerting in a fighter aircraft. An alternative installed and operational on F-16 fighter aircraft is unlikely to be available in the foreseeable future and certainly not before 31 December 2003, when all non-exempted uses must be decommissioned pursuant to Article 4(4)(v) of Regulation (EC) No 2037/2000. This use of halon 1301 should therefore be added to the list of exempted halon uses in Annex VII in Regulation (EC) No 2037/2000.</p>
+      <p n="13">(3) Both halon 1301 and halon 1211 are currently used in military land vehicles and naval vessels for the protection of spaces occupied by personnel and engine compartments. However, only the use of halon 1301 is covered by the exemption provided for in Regulation (EC) No 2037/2000. The conversion of that military equipment from the use of halon 1211 to the use of halon 1301 would be costly and counterproductive with regard to the protection of the ozone layer, since halon 1301 has an ozone-depleting potential more than three-times higher than halon 1211. Moreover, diversion of financial resources to convert equipment to the use of halon 1301 would most likely delay the development of alternatives with no ozone-depleting potential. The use of halon 1211 for the protection of spaces occupied by personnel and engine compartments in military land vehicles and naval vessels should therefore be added to the list of exempted halon uses in Annex VII in Regulation (EC) No 2037/2000.</p>
+      <p n="14">(4) Regulation (EC) No 2037/2000 should therefore be amended accordingly.</p>
+      <p n="15">(5) The measures provided for in this Decision are in accordance with the opinion of the Committee established by Article 18(1) of Regulation (EC) No 2037/2000,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Annex VII to Regulation (EC) No 2037/2000 is replaced by the text in the Annex to this Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 7 March 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Margot Wallström</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 244, 29.9.2000, p. 1.</p>
+      <p n="26">(2) OJ L 244, 29.9.2000, p. 26.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">Annex VII to Regulation (EC) No 2037/2000 is replaced by the following:</p>
+      <p n="29">"ANNEX VII</p>
+      <p n="30">Critical uses of halon</p>
+      <p n="31">Use of halon 1301:</p>
+      <p n="32">- in aircraft for the protection of crew compartments, engine nacelles, cargo bays and dry bays, and fuel tank inerting,</p>
+      <p n="33">- in military land vehicles and naval vessels for the protection of spaces occupied by personnel and engine compartments,</p>
+      <p n="34">- for the making inert of occupied spaces where flammable liquid and/or gas release could occur in the military and oil, gas and petrochemical sector, and in existing cargo ships,</p>
+      <p n="35">- for the making inert of existing manned communication and command centres of the armed forces or others, essential for national security,</p>
+      <p n="36">- for the making inert of spaces where there may be a risk of dispersion of radioactive matter,</p>
+      <p n="37">- in the Channel Tunnel and associated installations and rolling stock.</p>
+      <p n="38">Use of halon 1211:</p>
+      <p n="39">- in military land vehicles and naval vessels for the protection of spaces occupied by personnel and engine compartments,</p>
+      <p n="40">- in hand-held fire extinguishers and fixed extinguisher equipment for engines for use on board aircraft,</p>
+      <p n="41">- in aircraft for the protection of crew compartments, engine nacelles, cargo bays and dry bays,</p>
+      <p n="42">- in fire extinguishers essential to personal safety used for initial extinguishing by fire brigades,</p>
+      <p n="43">- in military and police fire extinguishers for use on persons."</p>
+    </body>
+  </text>
+</TEI.2>

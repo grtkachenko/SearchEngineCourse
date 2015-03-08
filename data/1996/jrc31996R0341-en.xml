@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31996R0341-en" n="31996R0341" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0341 English</title>
+        <title>Commission Regulation (EC) No 341/96 of 26 February 1996 amending Regulation (EC) No 1429/95 with regard to the detailed rules for licence applications</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0341:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0341:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2730</classCode>
+        <classCode scheme="eurovoc">2731</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0341-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 341/96 of 26 February 1996 amending Regulation (EC) No 1429/95 with regard to the detailed rules for licence applications</head>
+      <p n="2">COMMISSION REGULATION (EC) No 341/96 of 26 February 1996 amending Regulation (EC) No 1429/95 with regard to the detailed rules for licence applications</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 426/86 of 24 February 1986 on the common organization of the market in products processed from fruit and vegetables (1), as last amended by Commission Regulation (EC) No 2314/95 (2), and in particular Article 13 (8) thereof,</p>
+      <p n="6">Whereas, in order to prevent the submission of exaggerated applications for licences as referred to in Article 3 of Commission Regulation (EC) No 1429/95 of 23 June 1995 on implementing rules for export refunds on products processed from fruit and vegetables other than those granted for added sugars (3), a limit should be placed on the total quantity of each product for which applications can be accepted from an operator;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Products Processed from Fruit and Vegetables,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Regulation (EC) No 1429/95 is amended as follows:</p>
+      <p n="11">1. The following paragraph 4 is added to the end of Article 3:</p>
+      <p n="12">'4. For each day on which applications are submitted, on operator may not submit licence applications in respect of a product for a quantity exceeding that laid down for that product during the allocation period concerned.</p>
+      <p n="13">Where the quantity laid down is increased during the allocation period, subsequent applications may not be in respect of a quantity exceeding the difference between the quantity laid down before the increase and the quantity laid down after the increase.</p>
+      <p n="14">Member States shall reject all applications not complying with the above provisions on the day of their submission.`</p>
+      <p n="15">2. The first indent in Article 6 is replaced by the following:</p>
+      <p n="16">'- the quantities for which licences have been applied for, with or without advance fixing of the refund, excluding those covered by applications rejected pursuant to Article 3 (4) or, where applicable, the absence of applications,`.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 26 February 1996.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ No L 49, 27. 2. 1986, p. 1.</p>
+      <p n="25">(2) OJ No L 233, 30. 9. 1995, p. 69.</p>
+      <p n="26">(3) OJ No L 141, 24. 6. 1995, p. 28.</p>
+    </body>
+  </text>
+</TEI.2>

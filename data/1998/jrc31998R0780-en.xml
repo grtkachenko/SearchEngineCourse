@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31998R0780-en" n="31998R0780" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0780 English</title>
+        <title>Council Regulation (EC) No 780/98 of 7 April 1998 amending Regulation (EC) No 1488/96 as regards the procedure for adopting the appropriate measures where an essential element for the continuation of support measures for a Mediterranean Partner is lacking</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0780:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0780:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1008</classCode>
+        <classCode scheme="eurovoc">211</classCode>
+        <classCode scheme="eurovoc">225</classCode>
+        <classCode scheme="eurovoc">5382</classCode>
+        <classCode scheme="eurovoc">5780</classCode>
+        <classCode scheme="eurovoc">5840</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0780-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 780/98 of 7 April 1998 amending Regulation (EC) No 1488/96 as regards the procedure for adopting the appropriate measures where an essential element for the continuation of support measures for a Mediterranean Partner is lacking</head>
+      <p n="2">COUNCIL REGULATION (EC) No 780/98 of 7 April 1998 amending Regulation (EC) No 1488/96 as regards the procedure for adopting the appropriate measures where an essential element for the continuation of support measures for a Mediterranean Partner is lacking</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 235 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas Article 3 of Council Regulation (EC) No 1488/96 of 23 July 1996 on financial and technical measures to accompany (MEDA) the reform of economic and social structures in the framework of the Euro-Mediterranean partnership (3) provides that the said Regulation is based on the respect for democratic principles and the rule of law and also for human rights and fundamental freedoms, which constitute an essential element thereof, the violation of which element will justify the adoption of appropriate measures;</p>
+      <p n="8">Whereas Article 16 of Regulation (EC) No 1488/96 provides that the definitive procedure for adopting the appropriate measures where an essential element for the continuation of support measures to a Mediterranean partner is lacking is to be determined by 30 June 1997;</p>
+      <p n="9">Whereas it is therefore necessary to amend Regulation (EC) No 1488/96 to determine such a procedure;</p>
+      <p n="10">Whereas the Treaty has not provided, for the adoption of this Regulation, powers other than those of Article 235,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Article 16 of Regulation (EC) No 1488/96 shall be replaced by the following:</p>
+      <p n="14">'Article 16</p>
+      <p n="15">When an essential element for the continuation of support measures to a Mediterranean partner is missing, the Council may, acting by a qualified majority on a proposal from the Commission, decide upon appropriate measures.`</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Luxembourg, 7 April 1998.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">D. BLUNKETT</p>
+      <p n="23">(1) OJ C 386, 20. 12. 1997, p. 9.</p>
+      <p n="24">(2) OJ C 104, 6. 4. 1998.</p>
+      <p n="25">(3) OJ L 189, 30. 7. 1996, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

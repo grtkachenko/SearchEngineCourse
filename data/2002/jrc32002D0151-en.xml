@@ -1,0 +1,75 @@
+<TEI.2 id="jrc32002D0151-en" n="32002D0151" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0151 English</title>
+        <title>2002/151/EC: Commission Decision of 19 February 2002 on minimum requirements for the certificate of destruction issued in accordance with Article 5(3) of Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles (Text with EEA relevance) (notified under document number C(2002) 518)</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0151:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0151:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1158</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">2947</classCode>
+        <classCode scheme="eurovoc">3646</classCode>
+        <classCode scheme="eurovoc">4651</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0151-en." lang="en">
+    <body>
+      <head n="1">2002/151/EC: Commission Decision of 19 February 2002 on minimum requirements for the certificate of destruction issued in accordance with Article 5(3) of Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles (Text with EEA relevance) (notified under document number C(2002) 518)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 19 February 2002</p>
+      <p n="4">on minimum requirements for the certificate of destruction issued in accordance with Article 5(3) of Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles</p>
+      <p n="5">(notified under document number C(2002) 518)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/151/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end of life vehicles(1), and in particular Articles 5(5) and 11(4) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Directive 2000/53/EC establishes that deregistration of vehicles will only be possible upon the presentation of a certificate of destruction.</p>
+      <p n="13">(2) With a view to enabling competent authorities to mutually recognise and accept the certificates of destruction issued in other Member States, Directive 2000/53/EC requires the Commission to establish minimum requirements for the certificate of destruction.</p>
+      <p n="14">(3) The minimum requirements aim at providing certainty about the identity and details of the treatment facility, competent authority and vehicle holder, as well as a number of items of information relating to the vehicle.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Committee established by Article 18 of Council Directive 75/442/EEC(2),</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The certificate of destruction issued in accordance with Article 5(3) of Directive 2000/53/EC shall contain at least the information listed in the Annex to this Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 19 February 2002.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Margot Wallström</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 269, 21.10.2000, p. 34.</p>
+      <p n="26">(2) OJ L 78, 18.3.1991, p. 32.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">Minimum requirements for the certificate of destruction issued in accordance with Article 5(3) of Directive 2000/53/EC</p>
+      <p n="29">1. Name, address, signature and registration or identification number(1) of the establishment or undertaking issuing the certificate.</p>
+      <p n="30">2. Name and address of competent authority responsible for the permit (in accordance with Article 6(2) of Directive 2000/53/EC) for the establishment or undertaking issuing the certificate of destruction.</p>
+      <p n="31">3. Where the certificate is issued by a producer, dealer or collector on behalf of an authorised treatment facility, the name and address and registration or identification number(2) of the establishment or undertaking issuing the certificate.</p>
+      <p n="32">4. Date of issue of the certificate of destruction.</p>
+      <p n="33">5. Vehicle nationality mark and registration number (attach the registration document or a statement by the establishment or undertaking issuing the certificate that the registration document has been destroyed(3)).</p>
+      <p n="34">6. Class of vehicle, brand and model.</p>
+      <p n="35">7. Vehicle identification number (chassis).</p>
+      <p n="36">8. Name, address, nationality and signature of the holder or owner of the vehicle delivered.</p>
+      <p n="37">(1) This requirement may be waived in the case where the national registration or identification system does not provide for such number.</p>
+      <p n="38">(2) This requirement may be waived in the case where the national registration or identification system does not provide for such number.</p>
+      <p n="39">(3) In the case where no registration document exists on paper due to the use of an electronic registration system, this requirement may be waived.</p>
+    </body>
+  </text>
+</TEI.2>

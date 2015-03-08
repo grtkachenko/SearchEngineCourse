@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32003R1776-en" n="32003R1776" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1776 English</title>
+        <title>Council Regulation (EC) No 1776/2003 of 29 September 2003 amending Regulation (EC) No 527/2003 authorising the offer and delivery for direct human consumption of certain wines imported from Argentina which may have undergone oenological processes not provided for in Regulation (EC) No 1493/1999</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1776:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1776:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2525</classCode>
+        <classCode scheme="eurovoc">4713</classCode>
+        <classCode scheme="eurovoc">4726</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1776-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1776/2003 of 29 September 2003 amending Regulation (EC) No 527/2003 authorising the offer and delivery for direct human consumption of certain wines imported from Argentina which may have undergone oenological processes not provided for in Regulation (EC) No 1493/1999</head>
+      <p n="2">Council Regulation (EC) No 1776/2003</p>
+      <p n="3">of 29 September 2003</p>
+      <p n="4">amending Regulation (EC) No 527/2003 authorising the offer and delivery for direct human consumption of certain wines imported from Argentina which may have undergone oenological processes not provided for in Regulation (EC) No 1493/1999</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), and in particular Article 45(2) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Negotiations are currently underway between the Community, represented by the Commission, and Argentina on an agreement on trade in wine. These involve in particular the respective oenological processes of the two parties and the protection of geographical indications.</p>
+      <p n="11">(2) With a view to ensuring the continued smooth progress of these negotiations, the derogation allowing the addition of malic acid to wines produced on the territory of Argentina and imported into the Community should be extended until the entry into force of the Agreement resulting from the above negotiations, but not later than 30 September 2004,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The second subparagraph of Article 1(1) of Council Regulation (EC) No 527/2003(2) shall be replaced by the following:"However, this authorisation shall only be valid until the entry into force of the Agreement resulting from the negotiations with Argentina on an agreement on trade in wine involving in particular oenological practices and the protection of geographical indications, and not later than 30 September 2004."</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 29 September 2003.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">G. Alemanno</p>
+      <p n="22">(1) OJ L 179, 14.7.1999, p. 1. Regulation as last amended by Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1).</p>
+      <p n="23">(2) OJ L 78, 25.3.2003, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

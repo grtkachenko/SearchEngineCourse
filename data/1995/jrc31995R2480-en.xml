@@ -1,0 +1,53 @@
+<TEI.2 id="jrc31995R2480-en" n="31995R2480" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R2480 English</title>
+        <title>Commission Regulation (EC) No 2480/95 of 25 October 1995 amending Regulation (EC) No 1501/95 laying down certain detailed rules for the application of Council Regulation (EEC) No 1766/92 on the granting of export refunds on cereals and the measures to be taken in the event of disturbance on the market for cereals</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2480:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2480:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2729</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R2480-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2480/95 of 25 October 1995 amending Regulation (EC) No 1501/95 laying down certain detailed rules for the application of Council Regulation (EEC) No 1766/92 on the granting of export refunds on cereals and the measures to be taken in the event of disturbance on the market for cereals</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2480/95 of 25 October 1995 amending Regulation (EC) No 1501/95 laying down certain detailed rules for the application of Council Regulation (EEC) No 1766/92 on the granting of export refunds on cereals and the measures to be taken in the event of disturbance on the market for cereals</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the market in cereals (1), as last amended by Regulation (EC) No 1863/95 (2), and in particular Articles 13 (11) and 16 (2) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 1501/95 lays down certain detailed rules for the application of Council Regulation (EEC) No 1766/92 on the granting of export refunds on cereals and the measures to be taken in the event of disturbance on the market for cereals (3); whereas, in order to calculate the export refund on processed products, it is necessary to know the processing coefficients to be applied; whereas those coefficients are in fact the figures set out in Annex I to the said Regulation; whereas that fact should therefore be made clear,</p>
+      <p n="7">HAS ADOPTED THIS REGULATION:</p>
+      <p n="8">Article 1</p>
+      <p n="9">Regulation (EC) No 1501/95 is hereby amended as follows:</p>
+      <p n="10">1. the final sentence of Article 11 (1) is replaced by the following:</p>
+      <p n="11">'The processing coefficients expressing the relationship between the quantity of the basic product and the quantity of that product contained in the processed product shall be as set out in Annex I.`;</p>
+      <p n="12">2. in Annex I, the heading of the final column is replaced by the following:</p>
+      <p n="13">'Processing coefficients indicating the number of kg of cereals per 1 000 kg of products in question.`</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 25 October 1995.</p>
+      <p n="18">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

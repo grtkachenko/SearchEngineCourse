@@ -1,0 +1,71 @@
+<TEI.2 id="jrc31990D0638-en" n="31990D0638" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31990D0638 English</title>
+        <title>90/638/EEC: Council Decision of 27 November 1990 laying down Community criteria for the eradication and monitoring of certain animal diseases</title>
+      </titleStmt>
+      <extent>44 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990D0638:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990D0638:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31990D0638-en." lang="en">
+    <body>
+      <head n="1">90/638/EEC: Council Decision of 27 November 1990 laying down Community criteria for the eradication and monitoring of certain animal diseases</head>
+      <p n="2">COUNCIL DECISION of 27 November 1990 laying down Community criteria for the eradication and monitoring of certain animal diseases (90/638/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Decision 90/424/EEC of 26 June 1990 on expenditure in the veterinary field (1), and in particular Article 24 (2) thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas Article 24 (2) of Decision 90/424/EEC states that Community criteria for a Community financial measure for the eradication and monitoring of certain animal diseases must be laid down;</p>
+      <p n="8">Whereas the said criteria must ensure that the measure is effective and enable the Member States to submit to the Commission programmes to secure the rapid eradication of appropriate monitoring of the diseases in question.</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">In order to be approved under the measure provided for in Article 24 (1) of Decision 90/424/EEC, programmes submitted by the Member States to the Commission must meet the following criteria:</p>
+      <p n="12">- for eradication programmes: the criteria set out in Annex I,</p>
+      <p n="13">- for monitoring programmes: the criteria set out in Annex II.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Decision is addressed to the Member States.</p>
+      <p n="16">Done at Brussels, 27 November 1990. For the Council The President V. SACCOMANDI</p>
+      <p n="17">ANNEX I</p>
+      <p n="18">Criteria for eradication programmes Eradication programmes shall contain at least:</p>
+      <p n="19">1. a description of the epidemiological situation of the disease;</p>
+      <p n="20">2. an analysis of the estimated costs and an estimate of the anticipated benefits of the programme;</p>
+      <p n="21">3. the likely duration of the programme and the objective to be attained by the completion date;</p>
+      <p n="22">4. designation of the central authority charged with supervising and coordinating the departments responsible for implementing the programme;</p>
+      <p n="23">5. description and delimitation of the geographical and administrative area in which the programme is to be applied;</p>
+      <p n="24">6. a system ensuring the notification of all suspected or confirmed outbreaks of the disease in the area concerned;</p>
+      <p n="25">7. the control procedures and in particular rules on the movement of animals liable to be affected or contaminated by a given disease and the regular inspection of the holdings or areas concerned;</p>
+      <p n="26">8. a system for registration of holdings involved in the programme;</p>
+      <p n="27">9. measures to identify the origin of the animals;</p>
+      <p n="28">10. the different statuses applicable to holdings or areas, the objectives to be attained in the case of each status, the conditions applicable to movements of animals between holdings or areas of different status and the consequences of loss of status;</p>
+      <p n="29">11. if necessary, a description of the analysis, test and sampling methods used for each disease;</p>
+      <p n="30">12. the measures to be taken where positive results are found during checks carried out under the programme. Such measures must include all the necessary precautions to secure rapid eradication of the disease, in the light of the epidemiological data and preventive methods specific to it, for example:</p>
+      <p n="31">(a) the slaughter of animals which are affected or contaminated, or suspected of being affected or contaminated, with:</p>
+      <p n="32">- either the destruction of the carcases or their subsequent use after treatment for purposes other than for human consumption, provided that the treatments employed afford adequate guarantees with regard to public and/or animal health or - subsequent use of the meat, provided this does not represent any danger to human health;</p>
+      <p n="33">(b) the destruction of all products which could transmit the disease or the treatment of such products to avoid any possible contamination;</p>
+      <p n="34">(c) a procedure for the disinfection of infected holdings;</p>
+      <p n="35">(d) the therapeutic or preventive treatment chosen;</p>
+      <p n="36">(e) a procedure for the restocking with healthy animals of holdings which have been depopulated by slaughter;</p>
+      <p n="37">(f) the creation of a surveillance zone around the infected holding;</p>
+      <p n="38">13. where necessary, rules for adequate compensation to farmers for slaughtered animals as soon as possible;</p>
+      <p n="39">14. an undertaking by the authority referred to in point 4 to inform the Commission's departments regularly and fully.</p>
+      <p n="40">ANNEX II</p>
+      <p n="41">Criteria for control programmes Monitoring programmes must contain at least the following:</p>
+      <p n="42">1. the criteria referred to in points 1 to 9, 12, 13 and 14 of Annex I;</p>
+      <p n="43">2. a system of monitoring based on serological, microbiological, pathological or epidemiological analyses, or any other method appropriate to the disease;</p>
+      <p n="44">3. a system for ascertaining the absence of the disease in the light of its epidemiological characteristics.</p>
+    </body>
+  </text>
+</TEI.2>

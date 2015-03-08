@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31996R1481-en" n="31996R1481" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R1481 English</title>
+        <title>Commission Regulation (EC) No 1481/96 of 26 July 1996 amending Regulation (EC) No 2921/95 laying down detailed rules for compensation for reductions in certain agricultural conversion rates</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1481:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1481:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2511</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">3682</classCode>
+        <classCode scheme="eurovoc">4395</classCode>
+        <classCode scheme="eurovoc">80</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R1481-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1481/96 of 26 July 1996 amending Regulation (EC) No 2921/95 laying down detailed rules for compensation for reductions in certain agricultural conversion rates</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1481/96 of 26 July 1996 amending Regulation (EC) No 2921/95 laying down detailed rules for compensation for reductions in certain agricultural conversion rates</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2990/95 of 18 December 1995 regulating compensation for appreciable reductions in the agricultural conversion rates before 1 July 1996 (1), as last amended by Regulation (EC) No 1451/96 (2), and in particular Article 2 (4) thereof,</p>
+      <p n="6">Whereas the time limits laid down by Commission Regulation (EC) No 2921/95 (3), as amended by Regulation (EC) No 459/96 (4), must take account of the extension of the validity of Regulation (EC) No 2990/95 beyond 30 June 1996; whereas the operative event for the conversion rate applicable to the amount of aid, referred to in Article 2 (2) of Regulation (EC) No 2921/95 and established on the basis of the economic objective of the operation concerned, must consequently be adjusted to take account of cases of several appreciable reductions in the agricultural conversion rates of a currency;</p>
+      <p n="7">Whereas the measures provided for in Regulation are in accordance with the opinion of the management committees concerned,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Regulation (EC) No 2921/95 is hereby amended as follows:</p>
+      <p n="11">1. Article 2 (2) is replaced by the following:</p>
+      <p n="12">'2. The amounts in ecus set out in Article 2 (2) of Regulation (EC) No 1527/95 and Regulation (EC) No 2990/95 shall be converted into national currency using the agricultural conversion rate valid immediately preceding the appreciable reduction responsible for the fixing of the amount in question.`</p>
+      <p n="13">2. The second indent of Article 3 (1) is replaced by the following:</p>
+      <p n="14">'- 1 January 1996 in the case of aid granted under Regulation (EC) No 2990/95 for appreciable reductions in the agricultural conversion rate before 30 June 1996,</p>
+      <p n="15">- 1 July 1996 for other aid granted under Regulation (EC) No 2990/95.`</p>
+      <p n="16">3. The following subparagraph is added to Article 5 (1):</p>
+      <p n="17">'For appreciable reductions in the agricultural conversion rate after 30 June 1996, request for authorization to grant aid must be made by 30 June 1997.`</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 26 July 1996.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz FISCHLER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ No L 312, 23. 12. 1995, p. 7.</p>
+      <p n="26">(2) OJ No L 187, 26. 7. 1996, p. 1.</p>
+      <p n="27">(3) OJ No L 305, 19. 12. 1995, p. 60.</p>
+      <p n="28">(4) OJ No L 64, 14. 3. 1996, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,75 @@
+<TEI.2 id="jrc32000E0401-en" n="32000E0401" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000E0401 English</title>
+        <title>2000/0401/CFSP: Council Joint Action of 22 June 2000 concerning the control of technical assistance related to certain military end-uses</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000E0401:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000E0401:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">225</classCode>
+        <classCode scheme="eurovoc">2647</classCode>
+        <classCode scheme="eurovoc">3483</classCode>
+        <classCode scheme="eurovoc">4496</classCode>
+        <classCode scheme="eurovoc">5461</classCode>
+        <classCode scheme="eurovoc">5542</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000E0401-en." lang="en">
+    <body>
+      <head n="1">2000/0401/CFSP: Council Joint Action of 22 June 2000 concerning the control of technical assistance related to certain military end-uses</head>
+      <p n="2">Council Joint Action</p>
+      <p n="3">of 22 June 2000</p>
+      <p n="4">concerning the control of technical assistance related to certain military end-uses</p>
+      <p n="5">(2000/401/CFSP)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty on European Union, and in particular Article 14 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) On 22 June 2000 the Council adopted Regulation (EC) No 1334/2000(1) setting up a Community regime for the control of exports of dual-use items and technology, which provides an effective system of export controls of dual-use items, including software and technology. That Regulation, in Article 4, contains inter alia provisions concerning items not listed in Annex I which are or may be intended for use in connection with weapons of mass destruction or missiles for delivery of such weapons, or in connection with military goods for countries subject to EU, OSCE or UN arms embargoes.</p>
+      <p n="10">(2) The commitments of the Member States of the European Union regarding the non-proliferation of weapons of mass destruction and the export of conventional military goods to countries subject to arms embargoes require an effective export control system which should also cover, on the basis of common standards, technical assistance, including oral transfers of technology required to be controlled by the international export control regimes, bodies and treaties for weapons of mass destruction and missiles and for conventional military goods exported to countries subject to arms embargoes of the above types. It is appropriate to define such common standards in a joint action,</p>
+      <p n="11">HAS ADOPTED THIS JOINT ACTION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">For the purpose of this Joint Action:</p>
+      <p n="14">(a) "technical assistance" means any technical support related to repairs, development, manufacture, assembly, testing, maintenance, or any other technical service, and may take forms such as instruction, training, transmission of working knowledge or skills or consulting services;</p>
+      <p n="15">(b) "technical assistance" includes oral forms of assistance;</p>
+      <p n="16">(c) "international export control regimes, bodies and treaties" means the Australia Group, Missile Technology Control Regime, Nuclear Suppliers Group, Wassenaar Arrangement, Zangger Committee and the Chemical Weapons Convention.</p>
+      <p n="17">Article 2</p>
+      <p n="18">Technical assistance shall be subject to controls (prohibition or an authorisation requirement) adopted pursuant to Article 5 where it is provided outside the European Community by a natural or legal person established in the European Community and is intended, or the provider is aware that it is intended, for use in connection with the development, production, handling, operation, maintenance, storage, detection, identification or dissemination of chemical, biological or nuclear weapons or other nuclear explosive devices or the development, production, maintenance or storage of missiles capable of delivering such weapons.</p>
+      <p n="19">Article 3</p>
+      <p n="20">Member States shall consider the application of such controls also in cases where the technical assistance relates to military end-uses other than those referred to in Article 2 and is provided in countries of destination subject to an arms embargo decided by a common position or joint action adopted by the Council or a decision of the OSCE or an arms embargo imposed by a binding resolution of the Security Council of the United Nations.</p>
+      <p n="21">Article 4</p>
+      <p n="22">Article 2 does not apply to "technical assistance":</p>
+      <p n="23">(a) where it is provided in a country listed in Part 3 of Annex II to Regulation (EC) No 1334/2000;</p>
+      <p n="24">(b) where it takes the form of transferring information that is "in the public domain" or "basic scientific research" as these terms are respectively defined in the international export control regimes, bodies and treaties; or</p>
+      <p n="25">(c) where it is in oral form and not related to items required to be controlled by one or more of the international export control regimes, bodies and treaties.</p>
+      <p n="26">Article 5</p>
+      <p n="27">Each Member State which has not yet included in its national legislation or practices control provisions which implement this Joint Action or determined the sanctions to be taken shall bring forward appropriate proposals to:</p>
+      <p n="28">(a) implement this Joint Action through laying down control provisions;</p>
+      <p n="29">(b) determine the sanctions to be taken at national level.</p>
+      <p n="30">Article 6</p>
+      <p n="31">This Joint Action shall enter into force on the day of its adoption.</p>
+      <p n="32">Article 7</p>
+      <p n="33">This Joint Action shall be published in the Official Journal.</p>
+      <p n="34">Done at Luxembourg, 22 June 2000.</p>
+      <p n="35">For the Council</p>
+      <p n="36">The President</p>
+      <p n="37">J. Sócrates</p>
+      <p n="38">(1) See page 1 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

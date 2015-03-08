@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31995D0453-en" n="31995D0453" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0453 English</title>
+        <title>95/453/EC: Commission Decision of 23 October 1995 laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating in the Republic of Korea</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0453:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0453:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">1961</classCode>
+        <classCode scheme="eurovoc">2320</classCode>
+        <classCode scheme="eurovoc">235</classCode>
+        <classCode scheme="eurovoc">3544</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0453-en." lang="en">
+    <body>
+      <head n="1">95/453/EC: Commission Decision of 23 October 1995 laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating in the Republic of Korea</head>
+      <p n="2">COMMISSION DECISION of 23 October 1995 laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating in the Republic of Korea (Text with EEA relevance) (95/453/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 91/492/EEC of 15 July 1991 laying down the health conditions for the production and placing on the market of live bivalve molluscs (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 9 (3) (b) thereof,</p>
+      <p n="6">Whereas legislation of the Republic of Korea makes the 'Ministry of Agriculture, Forestry and Fisheries - National Fisheries Administration - National Fishery Products Inspection Station (NFPIS)` responsible for inspecting the health of live bivalve molluscs, echinoderms, tunicates and marine gastropods and for monitoring the hygiene and sanitary conditions of production; whereas the same legislation empowers NFPIS to authorize or prohibit the harvesting of bivalve molluscs, echinoderms, tunicates and marine gastropods from certain zones;</p>
+      <p n="7">Whereas the NFPIS and its laboratories are capable of effectively verifying the application of the laws in force in the Republic of Korea;</p>
+      <p n="8">Whereas the competent authorities of the Republic of Korea have undertaken to communicate regularly and quickly to the Commission data on the presence of plankton containing toxins in the harvest zones;</p>
+      <p n="9">Whereas the competent authorities of the Republic of Korea have provided official assurances regarding compliance with the requirements specified in Chapter V of the Annex to Directive 91/492/EEC and with requirements equivalent to those prescribed in that Directive for the classification of production and relaying zones, approval of dispatch and purification centres and public health control and production monitoring; whereas in particular any possible change in harvesting zones is to be communicated to the Community;</p>
+      <p n="10">Whereas the Republic of Korea is eligible for inclusion in the list of third countries fulfilling the conditions of equivalence referred to in Article 9 (3) (a) of Directive 91/492/EEC;</p>
+      <p n="11">Whereas the Republic of Korea wishes to export to the Community frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods;</p>
+      <p n="12">Whereas, for this purpose, in accordance with Article 9 (3) (b) (ii) of Directive 91/492/EEC, the production areas from which bivalve molluscs, echinoderms, tunicates and marine gastropods may be harvested and exported to the Community must be designated;</p>
+      <p n="13">Whereas the special import conditions apply without prejudice to decisions taken pursuant to Council Directive 91/67/EEC of 28 January 1991 concerning the animal health conditions governing the placing on the market of aquaculture animals and products (2), as last amended by the Act of Accession of Austria, Finland and Sweden;</p>
+      <p n="14">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The 'Ministry of Agriculture, Forestry and Fisheries - National Fisheries Administration - National Fishery Products Inspection Station (NFPIS)` shall be the competent authority in the Republic of Korea for verifying and certifying that live bivalve molluscs, echinoderms, tunicates and marine gastropods fulfil the requirements of Directive 91/492/EEC.</p>
+      <p n="18">Article 2</p>
+      <p n="19">Live bivalve molluscs, echinoderms, tunicates and marine gastropods originating in the Republic of Korea and intended for human consumption must originate in the authorized production areas listed in the Annex hereto.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 23 October 1995.</p>
+      <p n="23">For the Commission Franz FISCHLER Member of the Commission</p>
+      <p n="24">ANNEX</p>
+      <p n="25">PRODUCTION ZONES IN COMPLIANCE WITH THE PROVISIONS LAID DOWN IN ANNEX I, 1 (a) TO DIRECTIVE 91/492/EEC</p>
+      <p n="26">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

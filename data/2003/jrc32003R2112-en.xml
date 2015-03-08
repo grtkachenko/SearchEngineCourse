@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R2112-en" n="32003R2112" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2112 English</title>
+        <title>Commission Regulation (EC) No 2112/2003 of 1 December 2003 correcting Regulation (EC) No 1334/2003 amending the conditions for authorisation of a number of additives in feedingstuffs belonging to the group trace elements (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2112:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2112:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">2133</classCode>
+        <classCode scheme="eurovoc">5451</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2112-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2112/2003 of 1 December 2003 correcting Regulation (EC) No 1334/2003 amending the conditions for authorisation of a number of additives in feedingstuffs belonging to the group trace elements (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 2112/2003</p>
+      <p n="3">of 1 December 2003</p>
+      <p n="4">correcting Regulation (EC) No 1334/2003 amending the conditions for authorisation of a number of additives in feedingstuffs belonging to the group trace elements</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs(1), as last amended by Council Regulation (EC) No 1756/2002(2) and in particular Articles 3, 9d and 9e thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The Annex to Commission Regulation (EC) No 1334/2003(3) contains one clerical error which needs to be corrected.</p>
+      <p n="11">(2) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Annex to Regulation (EC) No 1334/2003 is amended as provided for in the Annex to this Regulation.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 1 December 2003.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">David Byrne</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 270, 14.12.1970, p. 1.</p>
+      <p n="23">(2) OJ L 265, 3.10.2002, p. 1.</p>
+      <p n="24">(3) OJ L 187, 26.7.2003, p. 11.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">The list of additives under the heading "E1 Iron-Fe" is replaced by the following:</p>
+      <p n="27">"&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

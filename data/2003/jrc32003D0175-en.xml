@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32003D0175-en" n="32003D0175" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0175 English</title>
+        <title>2003/175/EC: Council Decision of 7 March 2003 on the use of interest from the European Development Fund to finance the cost of implementing the internal system of management for individual consultants working in the ACP States and the Overseas Countries and Territories</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0175:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0175:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1000</classCode>
+        <classCode scheme="eurovoc">1163</classCode>
+        <classCode scheme="eurovoc">2296</classCode>
+        <classCode scheme="eurovoc">4055</classCode>
+        <classCode scheme="eurovoc">5083</classCode>
+        <classCode scheme="eurovoc">5744</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0175-en." lang="en">
+    <body>
+      <head n="1">2003/175/EC: Council Decision of 7 March 2003 on the use of interest from the European Development Fund to finance the cost of implementing the internal system of management for individual consultants working in the ACP States and the Overseas Countries and Territories</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 7 March 2003</p>
+      <p n="4">on the use of interest from the European Development Fund to finance the cost of implementing the internal system of management for individual consultants working in the ACP States and the Overseas Countries and Territories</p>
+      <p n="5">(2003/175/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to the Third ACP-EEC Convention signed at Lomé on 8 December 1984,</p>
+      <p n="9">Having regard to the Fourth ACP Convention(1) signed at Lomé on 15 December 1989, as amended by the Agreement signed in Mauritius on 4 November 1995(2),</p>
+      <p n="10">Having regard to the Internal Agreement of 19 February 1985 on the financing and administration of Community aid(3), hereinafter referred to as the "Internal Agreement for the 6th EDF", and in particular Article 9(2) thereof,</p>
+      <p n="11">Having regard to the Internal Agreement of 16 July 1990 on the financing and administration of Community aid under the Fourth ACP-EC Convention(4), hereinafter referred to as the "Internal Agreement on the 7th EDF", and in particular Article 9(2) thereof,</p>
+      <p n="12">Having regard to the Internal Agreement of 20 December 1995 between the Representatives of the Governments of the Member States, meeting within the Council, on the financing and administration of Community aid under the Second Financial Protocol to the fourth ACP-EC Convention(5), hereinafter referred to as the "Internal Agreement for the 8th EDF", and in particular Article 9(2) thereof,</p>
+      <p n="13">Having regard to the proposal from the Commission,</p>
+      <p n="14">Whereas:</p>
+      <p n="15">(1) Since 1 January 2003, the Commission no longer entrusts the management of individual consultants working in the ACP States and the Overseas Countries and Territories to external private-law bodies.</p>
+      <p n="16">(2) The financial resources required should be drawn from the interest generated on funds deposited under the different European Development Funds (EDFs) and which are in the EDF's cash accounts, in accordance with the Internal Agreements applicable to the 6th, 7th and 8th EDFs,</p>
+      <p n="17">HAS DECIDED AS FOLLOWS:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The sum of EUR 2700000 shall be deducted from the interest on the funds deposited under the various Funds in the cash accounts of the European Development Fund to finance the costs of internalising the management system for individual consultants working in the ACP States and Overseas Countries and Territories for a period of four years following the date of the adoption of this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision shall enter into force on the day of its adoption.</p>
+      <p n="22">Done at Brussels, 7 March 2003.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">N. Christodoulakis</p>
+      <p n="26">(1) OJ L 229, 17.8.1991, p. 3.</p>
+      <p n="27">(2) OJ L 156, 29.5.1998, p. 3.</p>
+      <p n="28">(3) OJ L 86, 31.3.1986, p. 210.</p>
+      <p n="29">(4) OJ L 229, 17.8.1991, p. 288.</p>
+      <p n="30">(5) OJ L 156, 29.5.1998, p. 108.</p>
+    </body>
+  </text>
+</TEI.2>

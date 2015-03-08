@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31990L0612-en" n="31990L0612" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31990L0612 English</title>
+        <title>Commission Directive 90/612/EEC of 26 October 1990 amending Council Directive 78/663/EEC laying down specific purity criteria for emulsifiers, stabilizers, thickeners and gelling agents for use in foodstuffs</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990L0612:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990L0612:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31990L0612-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 90/612/EEC of 26 October 1990 amending Council Directive 78/663/EEC laying down specific purity criteria for emulsifiers, stabilizers, thickeners and gelling agents for use in foodstuffs</head>
+      <p n="2">COMMISSION DIRECTIVE of 26 October 1990 amending Council Directive 78/663/EEC laying down specific purity criteria for emulsifiers, stabilizers, thickeners and gelling agents for use in foodstuffs (90/612/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 89/107/EEC of 21 December 1988 on the approximation of the laws of the Member States concerning food additives authorized for use in foodstuffs intended for human consumption (1), and in particular Article 3 (3) thereof,</p>
+      <p n="6">Whereas it is necessary to take into consideration the revised Codex Alimentarius specifications for substances E407 and E466, authorize new techniques for the production of E473 and draw a distinction between substance E407 as described in the Annex to Council Directive 78/663/EEC (2), as amended by Directive 82/504/EEC (3), and similar products not covered by that Annex;</p>
+      <p n="7">Whereas the Scientific Committee for Food has been consulted, in accordance with Article 6 of Directive 89/107/EEC, on those provisions likely to affect public health;</p>
+      <p n="8">Whereas the measures laid down by this Directive comply with the opinion of the Standing Committee on Foodstuffs,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Annex to Directive 78/663/EEC is hereby amended as set out in the Annex to this Directive.</p>
+      <p n="12">Article 2</p>
+      <p n="13">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 12 months after notification of the present Directive. They shall forthwith inform the Commission thereof.</p>
+      <p n="14">When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Directive is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 26 October 1990.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Martin BANGEMANN</p>
+      <p n="20">Vice-President</p>
+      <p n="21">(1) OJ No L 40, 11. 2. 1989, p. 27.</p>
+      <p n="22">(2) OJ No L 223, 14. 8. 1978, p. 7.</p>
+      <p n="23">(3) OJ No L 230, 5. 8. 1982, p. 35.</p>
+      <p n="24">ANNEX 1. Under E 407 - Carrageenan, the point concerning ash insoluble in 1 % v/v sulphuric acid shall be replaced by the following:</p>
+      <p n="25">'acid-insoluble ash (insoluble in 10 % w/v hydrochloric acid) not more than 1 % dry matter acid-insoluble matter (insoluble in 1 % v/v sulphuric acid) not more than 2 % dry matter.'</p>
+      <p n="26">2. Under E 466 - Carboxymethylcellulose, the point concerning molecular weight shall be replaced by the following:</p>
+      <p n="27">'higher than approximately 17 000 (degree of polymerization approximately 100)'.</p>
+      <p n="28">3. Under E 473 - Sucrose esters:</p>
+      <p n="29">(a) the last sentence of the point concerning the chemical description shall be replaced by the following sentence:</p>
+      <p n="30">'No organic solvent other than dimethylsulphoxide, dimethylformamide, ethyl acetate, isopropanol and isobutanol may be used for their preparation';</p>
+      <p n="31">(b) below the point concerning sulphated ash, the following point shall be added:</p>
+      <p n="32">'dimethylsulphoxide content not more than 2 mg/kg';</p>
+      <p n="33">(c) below the point concerning the methanol content, the following point shall be added:</p>
+      <p n="34">'isobutanol content not more than 10 mg/kg'.</p>
+    </body>
+  </text>
+</TEI.2>

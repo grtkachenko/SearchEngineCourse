@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31995R0306-en" n="31995R0306" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R0306 English</title>
+        <title>Commission Regulation (EC) No 306/95 of 15 February 1995 amending Regulation (EEC) No 3515/92 laying down common detailed rules for the application of Council Regulation (EEC) No 1055/77 on the storage and movement of products bought in by an intervention agency</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0306:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0306:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3115</classCode>
+        <classCode scheme="eurovoc">3170</classCode>
+        <classCode scheme="eurovoc">4057</classCode>
+        <classCode scheme="eurovoc">4291</classCode>
+        <classCode scheme="eurovoc">946</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R0306-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 306/95 of 15 February 1995 amending Regulation (EEC) No 3515/92 laying down common detailed rules for the application of Council Regulation (EEC) No 1055/77 on the storage and movement of products bought in by an intervention agency</head>
+      <p n="2">COMMISSION REGULATION (EC) No 306/95 of 15 February 1995 amending Regulation (EEC) No 3515/92 laying down common detailed rules for the application of Council Regulation (EEC) No 1055/77 on the storage and movement of products bought in by an intervention agency</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1055/77 of 17 May 1977 on the storage and movement of products bought in by an intervention agency (1), and in particular Article 4 thereof,</p>
+      <p n="6">Whereas due to the accession of Austria, Finland and Sweden to the European Union, it is necessary to introduce linguistic adjustments in Commission Regulation (EEC) No 3515/92 (2);</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of all Management Committees concerned,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Regulation (EEC) No 3515/92 is hereby amended as follows:</p>
+      <p n="11">1. the following entries are added to Article 2, second subparagraph:</p>
+      <p n="12">'- Interventionsprodukter som innehas av . . . . . . (interventionsorganets namn och adress) foer lagring i . . . . . . (beroert land och adress till det tilltaenkta lagringsstaellet). Tillaempning av artikel 2 foersta strecksatsen i foerordning (EEG) nr 1055/77</p>
+      <p n="13">- Interventiotuotteita, jotka ovat . . . . . . (interventioelimen nimi ja osoite) hallussa ja jotka on tarkoitus varastoida . . . . . . (kyseessae olevan maan ja ehdotetun varastointipaikan osoite). Asetuksen (ETY) N :o 1055/77 2 artiklan ensimmaeisen luetelmakohdan mukainen soveltaminen.';</p>
+      <p n="14">2. the following entries are added in Article 5, first subparagraph:</p>
+      <p n="15">'- Interventionsprodukter - oeverfoeringsfoerfarande,</p>
+      <p n="16">- Interventiotuotteita - siirtotoimi'.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">It shall apply with effect from 1 January 1995.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 15 February 1995.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz FISCHLER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ No L 128, 24. 5. 1977, p. 1.</p>
+      <p n="26">(2) OJ No L 355, 5. 12. 1992, p. 15.</p>
+    </body>
+  </text>
+</TEI.2>

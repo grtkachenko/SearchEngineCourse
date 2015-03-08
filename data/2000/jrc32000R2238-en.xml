@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32000R2238-en" n="32000R2238" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2238 English</title>
+        <title>Council Regulation (EC) No 2238/2000 of 9 October 2000 amending Regulation (EC) No 384/96 on protection against dumped imports from countries not members of the European Community</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2238:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2238:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1591</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2450</classCode>
+        <classCode scheme="eurovoc">519</classCode>
+        <classCode scheme="eurovoc">588</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2238-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2238/2000 of 9 October 2000 amending Regulation (EC) No 384/96 on protection against dumped imports from countries not members of the European Community</head>
+      <p n="2">Council Regulation (EC) No 2238/2000</p>
+      <p n="3">of 9 October 2000</p>
+      <p n="4">amending Regulation (EC) No 384/96 on protection against dumped imports from countries not members of the European Community</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) By Regulation (EC) No 384/96(1) the Council adopted common rules for protection against dumped imports from countries which are not members of the European Community.</p>
+      <p n="10">(2) Article 2(7) of Regulation (EC) No 384/96 lays down that, in the case of imports from non-market-economy countries and, in particular, those listed in a footnote to that provision, normal value shall, inter alia, be determined on the basis of the price or constructed value in an analogous market-economy third country.</p>
+      <p n="11">(3) Article 2(7) of Regulation (EC) No 384/96 further lays down that, in the case of imports from the Russian Federation and the People's Republic of China, normal value may be determined in accordance with the rules applicable to market-economy countries in cases where it can be shown that market conditions prevail for one or more producers subject to investigation in relation to the manufacture and sale of the product concerned.</p>
+      <p n="12">(4) The process of reform in the Ukraine, Vietnam and Kazakhstan has fundamentally altered the economies of those countries and has led to the emergence of firms for which market-economy conditions prevail. These three countries have as a result moved away from the economic circumstances which inspired the use of the analogue-country method.</p>
+      <p n="13">(5) It is appropriate to revise the Community's anti-dumping practice in order to be able to take account of the changed economic conditions in the Ukraine, Vietnam and Kazakhstan.</p>
+      <p n="14">(6) It is also appropriate to grant similar treatment to imports from such countries which are members of the World Trade Organisation (WTO) at the date of the initiation of the relevant anti-dumping investigation,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Article 2(7) of Regulation (EC) No 384/96 is amended as follows:</p>
+      <p n="18">- paragraph (b) is replaced by:</p>
+      <p n="19">"(b) In anti-dumping investigations concerning imports from the Russian Federation, the People's Republic of China, the Ukraine, Vietnam and Kazakhstan and any non-market-economy country which is a member of the WTO at the date of the initiation of the investigation, normal value will be determined in accordance with paragraphs 1 to 6, if it is shown, on the basis of properly substantiated claims by one or more producers subject to the investigation and in accordance with the criteria and procedures set out in subparagraph (c) that market economy conditions prevail for this producer or producers in respect of the manufacture and sale of the like product concerned. When this is not the case, the rules set out under subparagraph (a) shall apply.",</p>
+      <p n="20">- the footnote is replaced by:</p>
+      <p n="21">"(*) Including Albania, Armenia, Azerbaijan, Belarus, Georgia, North Korea, Kyrgyzstan, Moldova, Mongolia, Tajikistan, Turkmenistan, Uzbekistan."</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation applies to all anti-dumping investigations initiated after the date of its entry into force. In the case of imports from non-market-economy countries which become members of the WTO after the entry into force of this Regulation, it applies to all anti-dumping investigations concerning products originating in those countries which are initiated after the date of their accession to the WTO.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Regulation enters into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Luxembourg, 9 October 2000.</p>
+      <p n="28">For the Council</p>
+      <p n="29">The President</p>
+      <p n="30">H. Védrine</p>
+      <p n="31">(1) OJ L 56, 6.3.1996, p. 1. Regulation as last amended by Regulation (EC) No 905/98 (OJ L 128, 30.4.1998, p. 18).</p>
+    </body>
+  </text>
+</TEI.2>

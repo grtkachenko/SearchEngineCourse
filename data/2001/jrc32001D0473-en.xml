@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32001D0473-en" n="32001D0473" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0473 English</title>
+        <title>2001/473/EC: Council Decision of 4 April 2001 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Chile adding a Protocol on mutual administrative assistance in customs matters to the Framework Cooperation Agreement between the European Community and its Member States, of the one part, and the Republic of Chile, of the other part</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0473:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0473:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">206</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">5545</classCode>
+        <classCode scheme="eurovoc">5965</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0473-en." lang="en">
+    <body>
+      <head n="1">2001/473/EC: Council Decision of 4 April 2001 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Chile adding a Protocol on mutual administrative assistance in customs matters to the Framework Cooperation Agreement between the European Community and its Member States, of the one part, and the Republic of Chile, of the other part</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 4 April 2001</p>
+      <p n="4">concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Republic of Chile adding a Protocol on mutual administrative assistance in customs matters to the Framework Cooperation Agreement between the European Community and its Member States, of the one part, and the Republic of Chile, of the other part</p>
+      <p n="5">(2001/473/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 in conjunction with the first sentence of Article 300(2) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) To allow mutual administrative assistance in customs matters between the two parties, as provided for in Article 7(3) of the Framework Cooperation Agreement leading ultimately to the establishment of a political and economic association between the European Community and its Member States, of the one part, and the Republic of Chile, of the other part(1), a Protocol should be added to that Agreement.</p>
+      <p n="11">(2) Negotiations to that effect have taken place with Chile and have led to an Agreement in the form of an Exchange of Letters which is in the Community's interest to approve,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Agreement in the form of an Exchange of Letters between the European Community and the Republic of Chile adding a Protocol on mutual administrative assistance in customs matters to the Framework Cooperation Agreement is hereby approved on behalf of the Community.</p>
+      <p n="15">The text of the Agreement in the form of an Exchange of Letters is attached to this Decision.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The President of the Council is hereby authorised to designate the persons enpowered to sign the Agreement in order to bind the Community(2).</p>
+      <p n="18">Article 3</p>
+      <p n="19">The President of the Council shall, on behalf of the Community, give the notification provided for by the Agreement in the form of an Exchange of Letters.</p>
+      <p n="20">Done at Luxembourg, 4 April 2001.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">B. Rosengren</p>
+      <p n="24">(1) OJ L 42, 16.2.1999, p. 46.</p>
+      <p n="25">(2) The date of entry into force of the Protocol will be published in the Official Journal of the European Communities by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

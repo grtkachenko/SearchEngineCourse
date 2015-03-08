@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32003R0668-en" n="32003R0668" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0668 English</title>
+        <title>Commission Regulation (EC) No 668/2003 of 11 April 2003 concerning the permanent authorisation of an additive in feedingstuffs (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0668:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0668:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+        <classCode scheme="eurovoc">6111</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0668-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 668/2003 of 11 April 2003 concerning the permanent authorisation of an additive in feedingstuffs (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 668/2003</p>
+      <p n="3">of 11 April 2003</p>
+      <p n="4">concerning the permanent authorisation of an additive in feedingstuffs</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs(1), as last amended by Regulation (EC) No 1756/2002(2), and in particular Articles 3 and 9d thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Directive 70/524/EEC requires that no additive may be put into circulation unless a Community authorisation has been granted.</p>
+      <p n="11">(2) Permanent authorisation of an already authorised additive for use in feedingstuffs may be given if the conditions laid down in Article 3a of the Directive are satisfied.</p>
+      <p n="12">(3) The enzyme preparation set out in this Regulation was provisionally authorised for the first time by Commission Regulation (EC) No 1436/98(3) in accordance with Council Directive 93/113/EC(4), further to a favourable opinion of the Scientific Committee for Animal Nutrition (SCAN), in particular with regard to the safety of the product. The provisional authorisation of this additive was extended until 30 June 2004(5) in accordance with Directive 70/524/EEC.</p>
+      <p n="13">(4) New data were submitted by the producing company in support of an application for authorisation without a time limit of the enzyme preparation set out in this Regulation.</p>
+      <p n="14">(5) On 4 December 2002, the SCAN delivered a favourable opinion on the efficacy of the enzyme preparation under the conditions laid down in the Annex.</p>
+      <p n="15">(6) Taking into account the opinion of the SCAN, the assessment of the application for authorisation submitted in respect of the enzyme preparation, shows that the conditions provided for in Article 3a of Directive 70/524/EEC are satisfied. That preparation should therefore be authorised for an unlimited period of time.</p>
+      <p n="16">(7) The assessment of the application shows that certain procedures should be required to protect workers from exposure to the additive set out in the Annex. However, such protection should be assured by the application of Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work(6).</p>
+      <p n="17">(8) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="18">HAS ADOPTED THIS REGULATION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">The preparation belonging to the group "Enzymes" as set out in the Annex is authorised for use as an additive in feedingstuffs under the conditions laid down in the Annex.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 11 April 2003.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">David Byrne</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 270, 14.12.1970, p. 1.</p>
+      <p n="29">(2) OJ L 265, 3.10.2002, p. 1.</p>
+      <p n="30">(3) OJ L 191, 7.7.1998, p. 15.</p>
+      <p n="31">(4) OJ L 334, 31.12.1993, p. 17.</p>
+      <p n="32">(5) Last extension in Commission Regulation (EC) No 2200/2001 (OJ L 299, 15.11.2001, p. 1).</p>
+      <p n="33">(6) OJ L 183, 29.6.1989, p. 1.</p>
+      <p n="34">ANNEX</p>
+      <p n="35">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

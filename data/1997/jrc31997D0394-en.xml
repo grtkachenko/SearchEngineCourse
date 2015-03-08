@@ -1,0 +1,76 @@
+<TEI.2 id="jrc31997D0394-en" n="31997D0394" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0394 English</title>
+        <title>97/394/EC: Commission Decision of 6 June 1997 establishing the minimum data required for the databases on animals and animal products brought into the Community (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0394:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0394:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">2711</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">4821</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0394-en." lang="en">
+    <body>
+      <head n="1">97/394/EC: Commission Decision of 6 June 1997 establishing the minimum data required for the databases on animals and animal products brought into the Community (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 6 June 1997 establishing the minimum data required for the databases on animals and animal products brought into the Community (Text with EEA relevance) (97/394/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Decision 92/438/EEC of 13 July 1992 on computerization of veterinary import procedures (Shift project) amending Directives 90/675/EEC, 91/496/EEC, 91/628/EEC and Decision 90/424/EEC and repealing Decision 88/192/EEC (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 12 thereof,</p>
+      <p n="6">Whereas, for the purposes of Annex III (1) to Decision 92/438/EEC, the minimum standard data required for the databases introduced by the Member States on the animals and products brought into their territory must first be established;</p>
+      <p n="7">Whereas each Member State may record any additional data on the animals and products brought into its territory which it considers appropriate;</p>
+      <p n="8">Whereas the other technical requirements will be laid down at a later date in the light of the current studies on the Shift project;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The minimum data to be entered by the Member States in the databases on the animals and products brought into their territory shall be those set out in the Annex to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 6 June 1997.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 243, 25. 8. 1992, p. 27.</p>
+      <p n="20">ANNEX</p>
+      <p n="21">MINIMUM DATA ON ANIMALS AND PRODUCTS</p>
+      <p n="22">1. Identification of the border inspection post</p>
+      <p n="23">Name and Animo code number of the inspection post</p>
+      <p n="24">2. Identification of the consignment</p>
+      <p n="25">(a) Nature of the goods and Animo code</p>
+      <p n="26">(b) Number/quantity/units</p>
+      <p n="27">(c) Annex B number</p>
+      <p n="28">(d) Third country of origin (ISO code)</p>
+      <p n="29">(e) Name and approval number of the establishment of origin</p>
+      <p n="30">(f) Member State of destination/country of destination (ISO code)</p>
+      <p n="31">3. Checks carried out</p>
+      <p n="32">(a) Documentary check (yes/no/non-compliant)</p>
+      <p n="33">(b) Identity check (yes/no/non-compliant)</p>
+      <p n="34">(c) Physical check (yes/no/non-compliant)</p>
+      <p n="35">(d) Laboratory examination (yes/no/non-compliant)</p>
+      <p n="36">4. Outcome</p>
+      <p n="37">(a) Accepted (date)</p>
+      <p n="38">(b) Returned (date)</p>
+      <p n="39">(c) Destroyed (date)</p>
+      <p n="40">(d) Processed (date)</p>
+    </body>
+  </text>
+</TEI.2>

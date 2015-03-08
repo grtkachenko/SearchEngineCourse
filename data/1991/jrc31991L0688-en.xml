@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31991L0688-en" n="31991L0688" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31991L0688 English</title>
+        <title>Council Directive 91/688/EEC of 11 December 1991 amending Directive 72/462/EEC on health and veterinary inspection problems upon importation of bovine, ovine and caprine animals and swine, fresh meat or meat products from third countries</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991L0688:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991L0688:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31991L0688-en." lang="en">
+    <body>
+      <head n="1">Council Directive 91/688/EEC of 11 December 1991 amending Directive 72/462/EEC on health and veterinary inspection problems upon importation of bovine, ovine and caprine animals and swine, fresh meat or meat products from third countries</head>
+      <p n="2">COUNCIL DIRECTIVE of 11 December 1991 amending Directive 72/462/EEC on health and veterinary inspection problems upon importation of bovine, ovine and caprine animals and swine, fresh meat or meat products from third countries (91/688/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas Directive 72/462/EEC (4), as last amended by Directive 91/266/EEC (5), defines in particular the conditions which must be satisfied as regards classical swine-fever upon importation of live pigs, fresh pig meat and meat products from third countries;</p>
+      <p n="9">Whereas, given that the health situation within the Community in respect of classical swine-fever has improved and systematic vaccination against the disease has been discontinued, it is appropriate to amend the conditions laid down for importation of live pigs, fresh pig meat and meat products,</p>
+      <p n="10">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Directive 72/462/EEC is hereby amended as follows:</p>
+      <p n="13">1. the following paragraphs shall be added to Article 6:</p>
+      <p n="14">'4. In respect of classical swine-fever, pigs must come from the territory of a third country which:</p>
+      <p n="15">- has been free from classical swine-fever for at least 12 months,</p>
+      <p n="16">- has not permitted vaccination for the preceding 12 months,</p>
+      <p n="17">- does not allow on its territory pigs which have been vaccinated less than 12 months previously.</p>
+      <p n="18">5. By way of derogation from paragraph 4, it may be decided, in accordance with the procedure laid down in Article 29, to authorize the importation of pigs coming from a part of the territory of a third country provided that vaccination against classical swine-fever is prohibited throughout the entire territory of that country and that the part of the territory of the third country concerned fulfils the conditions laid down in paragraph 4.</p>
+      <p n="19">6. By way of derogation from paragraph 4, in the event of classical swine-fever occurring in a third country which fulfils the conditions of paragraph 4, it may be decided, in accordance with the procedure laid down in Article 29, that the period of 12 months referred to in the first indent of paragraph 4 may be reduced to six months if:</p>
+      <p n="20">(a) an outbreak or a number of epizootiologically interrelated outbreaks occur within a geographical limited area; and (b) the outbreak or outbreaks have been stamped out, within a period of three months and without recourse to vaccination.`;</p>
+      <p n="21">2. the following subparagraph shall be added to Article 14 (2):</p>
+      <p n="22">'(c) in which no classical swine-fever has been detected for at least the preceding 12 months, vaccination against classical swine-fever has not been authorized for at least the preceding 12 months and no pigs have been vaccinated against classical swine-fever in the preceding 12 months.`;</p>
+      <p n="23">3. the following sentence shall be added to Article 15:</p>
+      <p n="24">'In accordance with the procedure laid down in Article 29, it may be decided to derogate from Article 14 (2) (c).`</p>
+      <p n="25">Article 2</p>
+      <p n="26">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 1 July 1992. They shall forthwith inform the Commission thereof.</p>
+      <p n="27">When these measures are adopted by the Member States, they shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="28">Article 3</p>
+      <p n="29">This Directive is addressed to the Member States.</p>
+      <p n="30">Done at Brussels, 11 December 1991.</p>
+      <p n="31">For the CouncilThe PresidentP. BUKMAN</p>
+      <p n="32">(1)OJ N° C 226, 31. 8. 1991, p. 21.</p>
+      <p n="33">(2)OJ N° C 326, 16. 12. 1991.</p>
+      <p n="34">(3)Opinion delivered on 28 November 1991 (not yet published in the Official Journal).</p>
+      <p n="35">(4)OJ N° L 302, 31. 12. 1972, p. 28.</p>
+      <p n="36">(5)OJ N° L 134, 29. 5. 1991, p. 45.</p>
+    </body>
+  </text>
+</TEI.2>

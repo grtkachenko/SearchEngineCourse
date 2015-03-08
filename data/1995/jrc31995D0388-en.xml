@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31995D0388-en" n="31995D0388" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0388 English</title>
+        <title>95/388/EC: Commission Decision of 19 September 1995 determining the specimen certificate for intra-Community trade in semen, ova and embryos of the ovine and caprine species</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0388:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0388:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2211</classCode>
+        <classCode scheme="eurovoc">3408</classCode>
+        <classCode scheme="eurovoc">5252</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0388-en." lang="en">
+    <body>
+      <head n="1">95/388/EC: Commission Decision of 19 September 1995 determining the specimen certificate for intra-Community trade in semen, ova and embryos of the ovine and caprine species</head>
+      <p n="2">COMMISSION DECISION of 19 September 1995 determining the specimen certificate for intra-Community trade in semen, ova and embryos of the ovine and caprine species (Text with EEA relevance) (95/388/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 92/65/EEC of 13 July 1992 laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A (I) to Directive 90/425/EEC (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular the fourth indent of Article 11 (2) and the third indent of Article 11 (3) thereof,</p>
+      <p n="6">Whereas Directive 92/65/EEC lays down the animal health requirements governing trade in semen, ova and embryos of the ovine and caprine species;</p>
+      <p n="7">Whereas the specimen certificate applicable to such trade should be determined;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">1. A health certificate corresponding to the specimen shown in Annex I shall accompany semen of the ovine and caprine species during transport to another Member State.</p>
+      <p n="12">2. A health certificate corresponding to the specimen shown in Annex II shall accompany ova and embryos of the ovine and caprine species during transport to another Member State.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision shall apply from 1 January 1996.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Decision is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 19 September 1995.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 268, 14. 9. 1992, p. 54.</p>
+      <p n="22">ANNEX I</p>
+      <p n="23">&gt;REFERENCE TO A FILM&gt;</p>
+      <p n="24">ANNEX II</p>
+      <p n="25">&gt;REFERENCE TO A FILM&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32000R1377-en" n="32000R1377" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1377 English</title>
+        <title>Commission Regulation (EC) No 1377/2000 of 28 June 2000 amending Regulation (EC) No 1432/94 laying down detailed rules for the application in the pigmeat sector of the import arrangements provided for in Council Regulation (EC) No 774/94 opening and providing for the administration of certain Community tariff quotas for pigmeat and certain other agricultural products</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1377:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1377:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">4692</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1377-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1377/2000 of 28 June 2000 amending Regulation (EC) No 1432/94 laying down detailed rules for the application in the pigmeat sector of the import arrangements provided for in Council Regulation (EC) No 774/94 opening and providing for the administration of certain Community tariff quotas for pigmeat and certain other agricultural products</head>
+      <p n="2">Commission Regulation (EC) No 1377/2000</p>
+      <p n="3">of 28 June 2000</p>
+      <p n="4">amending Regulation (EC) No 1432/94 laying down detailed rules for the application in the pigmeat sector of the import arrangements provided for in Council Regulation (EC) No 774/94 opening and providing for the administration of certain Community tariff quotas for pigmeat and certain other agricultural products</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 774/94 of 29 March 1994 opening and providing for the administration of certain Community tariff quotas for high-quality beef, and for pigmeat, poultrymeat, wheat and meslin, and brans, sharps and other residues(1), as amended by Commission Regulation (EC) No 2198/95(2), and in particular Article 7 thereof,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 2759/75 of 29 October 1975 on the common organisation of the market in pigmeat(3), as last amended by the Act of Accession of Austria, Finland and Sweden and by Regulation (EC) No 3290/94(4), and in particular Article 22 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Commission Regulation (EC) No 1432/94(5), as last amended by Regulation (EC) No 2068/96(6), lays down detailed rules for the application in the pigmeat sector of the import arrangements provided for in Regulation (EC) No 774/94.</p>
+      <p n="11">(2) The utilisation of import quotas for pigmeat has been generally low in recent years and the relatively high security for import licences may be one discouraging factor in trade. In order to facilitate trade of pigmeat and to harmonise the levels of securities for import licences within the meat sectors it is necessary to review the level of security set in Regulation (EC) No 1432/94.</p>
+      <p n="12">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Pigmeat,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Article 6 of Regulation (EC) No 1432/94 is replaced by the following:</p>
+      <p n="16">"Article 6</p>
+      <p n="17">A security of EUR 20 per 100 kilograms shall be lodged for import licence applications for all products referred to in Article 1."</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="20">It shall apply with effect from 1 July 2000.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 28 June 2000.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz Fischler</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 91, 8.4.1994, p. 1.</p>
+      <p n="27">(2) OJ L 221, 19.9.1995, p. 3.</p>
+      <p n="28">(3) OJ L 282, 1.11.1975, p. 1.</p>
+      <p n="29">(4) OJ L 349, 31.12.1994, p. 105.</p>
+      <p n="30">(5) OJ L 156, 23.6.1994, p. 14.</p>
+      <p n="31">(6) OJ L 277, 30.10.1996, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

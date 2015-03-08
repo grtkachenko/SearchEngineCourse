@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31995R1644-en" n="31995R1644" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1644 English</title>
+        <title>Council Regulation (EC) No 1644/95 of 29 June 1995 laying down the autonomous rates of duty to be applied to newsprint, in rolls or sheets falling within CN codes 4801 00 10 and 4801 00 90 following the accession of Austria, Finland and Sweden</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1644:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1644:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2228</classCode>
+        <classCode scheme="eurovoc">4057</classCode>
+        <classCode scheme="eurovoc">4078</classCode>
+        <classCode scheme="eurovoc">4144</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1644-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1644/95 of 29 June 1995 laying down the autonomous rates of duty to be applied to newsprint, in rolls or sheets falling within CN codes 4801 00 10 and 4801 00 90 following the accession of Austria, Finland and Sweden</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1644/95 of 29 June 1995 laying down the autonomous rates of duty to be applied to newsprint, in rolls or sheets falling within CN codes 4801 00 10 and 4801 00 90 following the accession of Austria, Finland and Sweden</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas, pursuant to Article 2 of the 1994 Act of Accession, Austria, Finland and Sweden have applied the Common Customs Tariff as of 1 January 1995;</p>
+      <p n="7">Whereas following the authorization by the Council at its meeting on 8 February 1995 to open negotiations under Article XXIV, paragraph 6, of the General Agreement on Tariffs and Trade 1994 (GATT 1994), in order to resolve instances where applications of the Common Customs Tariff by the new Member States leads to modification or withdrawal of tariff concessions previously granted by them;</p>
+      <p n="8">Whereas the application of the Common Customs Tariff by the new Member States has led to a reduction of some import duties and increase of some other duties;</p>
+      <p n="9">Whereas, pending the conclusion of a global agreement from negotiations between the Community and third countries, it is appropriate to apply autonomous measures designed to alleviate the adverse impact on certain exports by third countries following enlargement;</p>
+      <p n="10">Whereas the measures to be applied are without prejudice to the results of the ongoing negotiations under Article XXIV, paragraph 6 of GATT 1994 and do not prejudge the intention of the Community to conclude an agreement which takes into account the global impact of enlargement on trade with third countries;</p>
+      <p n="11">Whereas in this context it is appropriate to accelerate on an autonomous basis the reduction in duty to 0 % already foreseen on newsprint, in rolls or sheets falling within CN codes 4801 00 10 and 4801 00 90,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The autonomous rates of duty on newsprint, in rolls or sheets falling within CN codes 4801 00 10 and 4801 00 90 shall be as set out in the Annex.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">Article 3</p>
+      <p n="18">The autonomous rates of duty established by this Regulation shall be applied until the Council decides by a qualified majority that the negotiations carried out under Article XXIV, paragraph 6 of GATT 1994 with Canada have ended.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Luxembourg, 29 June 1995.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">J. BARROT</p>
+      <p n="24">ANNEX</p>
+      <p n="25">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,85 @@
+<TEI.2 id="jrc32003R1709-en" n="32003R1709" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1709 English</title>
+        <title>Commission Regulation (EC) No 1709/2003 of 26 September 2003 on crop and stock declarations for rice</title>
+      </titleStmt>
+      <extent>50 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1709:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1709:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2925</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+        <classCode scheme="eurovoc">4280</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1709-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1709/2003 of 26 September 2003 on crop and stock declarations for rice</head>
+      <p n="2">Commission Regulation (EC) No 1709/2003</p>
+      <p n="3">of 26 September 2003</p>
+      <p n="4">on crop and stock declarations for rice</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 3072/95 of 22 December 1995 on the common organisation of the market in rice(1), as last amended by Commission Regulation (EC) No 411/2002(2), and in particular Article 8(d) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EEC) No 2124/83(3) on crop and stock declarations for rice is no longer adapted to the classification of types of rice currently in force. In the interests of clarity that Regulation should be repealed and replaced by this Regulation.</p>
+      <p n="10">(2) Under the third subparagraph of Article 6(5) of Regulation (EC) No 3072/95 crop and stock declarations are to be made by producers and stock declarations are also to be made by rice mills. Member States are to provide detailed data to the Commission on the basis of these declarations.</p>
+      <p n="11">(3) The Commission should be able to use the information provided in these declarations to draw up a picture of available rice stocks at the beginning of each marketing year that will enable it to manage the market more efficiently. The content of these declarations should therefore be made more precise, time limits for notification should be laid down and the forms in which notification is made to the Commission should be specified.</p>
+      <p n="12">(4) With a view to modernising management, the information required by the Commission should be sent by electronic mail.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Each year producers or producer groups shall transmit to the intervention agency of the Member State in which their holding is located or any other body designated by that Member State:</p>
+      <p n="17">(a) before 15 October, a declaration of stocks held on 31 August, distinguishing between the types of rice defined in paragraph 2 of Annex A to Regulation (EC) No 3072/95 and specifying for each type the quantity held and the whole-grain yield;</p>
+      <p n="18">(b) before 15 November, a crop declaration distinguishing between the types of rice defined in paragraph 2 of Annex A to Regulation (EC) No 3072/95 and specifying for each type the surface area used and the quantity of rice obtained.</p>
+      <p n="19">Article 2</p>
+      <p n="20">As regards their processing and import activities, rice mills shall, before 15 October each year, transmit to the intervention agency of the Member State in which they are located or any other body designated by that Member State a declaration of rice stocks held on 31 August, distinguishing between the types of rice defined in paragraph 2 of Annex A to Regulation (EC) No 3072/95, divided into rice produced in the Community and that imported from third countries. The quantities held shall be broken down by stage of milling. For each quantity of rice in husk (paddy rice) or husked rice, the whole-grain yield shall also be indicated.</p>
+      <p n="21">Article 3</p>
+      <p n="22">1. Member States shall forward to the Commission:</p>
+      <p n="23">(a) before 15 November, the information shown in Annexes I and II resulting from a summary of the data provided in the declarations referred to in Articles 1(a) and 2;</p>
+      <p n="24">(b) before 15 December, the information shown in Annex III, resulting from a summary of the data provided in the crop declarations referred to in Article 1(b) and the estimated whole-grain yield forecast for the harvest.</p>
+      <p n="25">The transmitted data may be amended up to 15 January at the latest.</p>
+      <p n="26">2. The declarations referred to in paragraph 1 shall be transmitted by electronic mail to the address given in Annexes I, II and III.</p>
+      <p n="27">Article 4</p>
+      <p n="28">The Member States shall adopt the provisions required to allow declarations to be lodged and centralised at national level.</p>
+      <p n="29">They shall take the control measures required to ensure that declarations correspond to reality.</p>
+      <p n="30">They shall inform the Commission of such provisions and measures.</p>
+      <p n="31">Article 5</p>
+      <p n="32">Regulation (EEC) No 2124/83 is hereby repealed.</p>
+      <p n="33">Article 6</p>
+      <p n="34">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="35">It shall apply from 1 September 2003.</p>
+      <p n="36">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="37">Done at Brussels, 26 September 2003.</p>
+      <p n="38">For the Commission</p>
+      <p n="39">Franz Fischler</p>
+      <p n="40">Member of the Commission</p>
+      <p n="41">(1) OJ L 329, 30.12.1995, p. 18.</p>
+      <p n="42">(2) OJ L 62, 5.3.2002, p. 27.</p>
+      <p n="43">(3) OJ L 205, 29.7.1983, p. 16.</p>
+      <p n="44">ANNEX I</p>
+      <p n="45">&gt;PIC FILE= "L_2003243EN.009402.TIF"&gt;</p>
+      <p n="46">ANNEX II</p>
+      <p n="47">&gt;PIC FILE= "L_2003243EN.009502.TIF"&gt;</p>
+      <p n="48">&gt;PIC FILE= "L_2003243EN.009601.TIF"&gt;</p>
+      <p n="49">ANNEX III</p>
+      <p n="50">&gt;PIC FILE= "L_2003243EN.009702.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

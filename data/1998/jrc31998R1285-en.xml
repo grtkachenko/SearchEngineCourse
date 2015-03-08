@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31998R1285-en" n="31998R1285" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1285 English</title>
+        <title>Commission Regulation (EC) No 1285/98 of 22 June 1998 amending Regulation (EEC) No 2123/89 establishing the list of representative markets for pigmeat in the Community</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1285:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1285:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1504</classCode>
+        <classCode scheme="eurovoc">1712</classCode>
+        <classCode scheme="eurovoc">1795</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4692</classCode>
+        <classCode scheme="eurovoc">863</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1285-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1285/98 of 22 June 1998 amending Regulation (EEC) No 2123/89 establishing the list of representative markets for pigmeat in the Community</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1285/98 of 22 June 1998 amending Regulation (EEC) No 2123/89 establishing the list of representative markets for pigmeat in the Community</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2759/75 of 29 October 1975 on the common organisation of the market in pigmeat (1), as last amended by Commission Regulation (EC) No 3290/94 (2), and in particular Article 4(6) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 2123/89 (3), as last amended by Regulation (EC) No 532/96 (4), established the list of representative markets for pigmeat in the Community;</p>
+      <p n="7">Whereas in Ireland, in Luxembourg and in Spain a change to the representative markets has taken place; whereas the list of representative markets for pigmeat in the Community listed in the Annex to Regulation (EEC) No 2123/89 should consequently be amended;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Pigmeat,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Annex to Regulation (EEC) No 2123/89 is amended as follows:</p>
+      <p n="12">1. point 4 is replaced by the following:</p>
+      <p n="13">'4. The following group of quotation centres: Ebro (Zaragoza), Mercolleida (Lleida), Campillos (Málaga), Segovia, Segura (Murcia), Silleda (Pontevedra)</p>
+      <p n="14">and the following group of markets: Alhama (Murcia), Barcelona, Binefar (Huesca), Burgos, Calamocha (Teruel), Mollerussa (Lleida), Pamplona, Porriño (Pontevedra), Segovia, Sierra de Yeguas (Málaga), Valdepeñas (Ciudad Real).`;</p>
+      <p n="15">2. point 7 is replaced by the following:</p>
+      <p n="16">'7. The following group of markets: Rooskey, Waterford, Tralee and Mitchelstown.`;</p>
+      <p n="17">3. point 9 is replaced by the following:</p>
+      <p n="18">'9. The following market: Esch.`</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on 1 July 1998.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 22 June 1998.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 282, 1. 11. 1975, p. 1.</p>
+      <p n="27">(2) OJ L 349, 31. 12. 1994, p. 105.</p>
+      <p n="28">(3) OJ L 203, 15. 7. 1989, p. 23.</p>
+      <p n="29">(4) OJ L 78, 28. 3. 1996, p. 14.</p>
+    </body>
+  </text>
+</TEI.2>

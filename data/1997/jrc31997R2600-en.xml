@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31997R2600-en" n="31997R2600" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R2600 English</title>
+        <title>Council Regulation (EC) No 2600/97 of 19 December 1997 amending Regulation (EC) No 3094/95 on aid to shipbuilding</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2600:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2600:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">155</classCode>
+        <classCode scheme="eurovoc">2105</classCode>
+        <classCode scheme="eurovoc">2474</classCode>
+        <classCode scheme="eurovoc">5541</classCode>
+        <classCode scheme="eurovoc">889</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R2600-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2600/97 of 19 December 1997 amending Regulation (EC) No 3094/95 on aid to shipbuilding</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2600/97 of 19 December 1997 amending Regulation (EC) No 3094/95 on aid to shipbuilding</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Articles 92 (3) (c), 94 and 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Whereas an agreement respecting normal competitive conditions in the commercial shipbuilding and repair industry, concluded between the European Community and certain third countries within the framework of the Organization for Economic Cooperation and Development (OECD) (2), has still not yet entered into force;</p>
+      <p n="8">Whereas therefore Council Regulation (EC) No 3094/95 of 22 December 1995 on aid to shipbuilding (3) has not yet entered into force;</p>
+      <p n="9">Whereas, in accordance with Article 10 of Regulation (EC) No 3094/95, the relevant rules of Council Directive 90/684/EEC of 21 December 1990 on aid to shipbuilding (4) continue to apply ad interim, pending the entry into force of the OECD agreement and until 31 December 1997 at the latest;</p>
+      <p n="10">Whereas, given the continuing uncertainties over entry into force of the OECD agreement, which may be further delayed beyond 31 December 1997, the Council needs to take appropriate steps pending decisions on possible new arrangements on aid to shipbuilding;</p>
+      <p n="11">Whereas Regulation (EC) No 3094/95 should therefore be amended,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The third subparagraph of Article 10 of Regulation (EC) No 3094/95 shall be replaced by the following:</p>
+      <p n="15">'Pending the entry into force of the said Agreement, the relevant provisions of Directive 90/684/EEC shall apply until the Agreement enters into force and until 31 December 1998 at the latest.`</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 19 December 1997.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">F. BODEN</p>
+      <p n="23">(1) Opinion delivered on 17 December 1997 (not yet published in the Official Journal).</p>
+      <p n="24">(2) OJ C 375, 30. 12. 1994, p. 3.</p>
+      <p n="25">(3) OJ L 332, 31. 12. 1995, p. 1. Regulation as amended by Regulation (EC) No 1904/96 (OJ L 251, 3. 10. 1996, p. 5).</p>
+      <p n="26">(4) OJ L 380, 31. 12. 1990, p. 27.</p>
+    </body>
+  </text>
+</TEI.2>

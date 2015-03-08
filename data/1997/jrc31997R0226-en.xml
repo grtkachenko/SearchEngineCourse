@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31997R0226-en" n="31997R0226" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R0226 English</title>
+        <title>Commission Regulation (EC) No 226/97 of 6 February 1997 laying down detailed rules for the application of Council Regulation (EC) No 2443/96 providing for additional measures for direct support of producers' incomes or for the beef and veal sector</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0226:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0226:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R0226-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 226/97 of 6 February 1997 laying down detailed rules for the application of Council Regulation (EC) No 2443/96 providing for additional measures for direct support of producers' incomes or for the beef and veal sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 226/97 of 6 February 1997 laying down detailed rules for the application of Council Regulation (EC) No 2443/96 providing for additional measures for direct support of producers' incomes or for the beef and veal sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2443/96 of 17 December 1996 providing for additional measures for direct support of producers' incomes or for the beef and veal sector (1), and in particular Article 4 thereof,</p>
+      <p n="6">Whereas for the sake of transparency between Member States, and the monitoring and proper administration of the additional payments provided for in Regulation (EC) No 2443/96 the Member States should inform the Commission of the grant model used and the national detailed rules of application for implementing the measures provided for in that Regulation and of the final balance;</p>
+      <p n="7">Whereas, in order to enable the Member States to implement Regulation (EC) No 2443/96 as quickly as possible, it is necessary for this Regulation to enter into force without delay;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">As regards the additional aid provided for in Article 1 of Regulation (EC) No 2443/96, the Member States shall communicate to the Commission:</p>
+      <p n="12">a) without delay, a description of the objective criteria, and of the provisions taken to avoid distortion of the market, used to determine the methods for granting aid:</p>
+      <p n="13">- for the direct support of producers' incomes, and in particular the amounts provided for, the basis for their calculation and the foreseen dates for payment,</p>
+      <p n="14">- for the direct support of the beef and veal sector and in particular the type of measure taken, the basis for calculation of the aid and the foreseen dates for payment.</p>
+      <p n="15">b) no later than 15 November 1997, the total amounts of aid paid and the number and type of beneficiaries and measures concerned.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 6 February 1997.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz FISCHLER</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ No L 333, 21. 12. 1996, p. 2.</p>
+    </body>
+  </text>
+</TEI.2>

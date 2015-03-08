@@ -1,0 +1,48 @@
+<TEI.2 id="jrc31978L1016-en" n="31978L1016" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31978L1016 English</title>
+        <title>Council Directive 78/1016/EEC of 23 November 1978 amending Directive 76/135/EEC on reciprocal recognition of navigability licences for inland waterway vessels</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31978L1016:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31978L1016:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31978L1016-en." lang="en">
+    <body>
+      <head n="1">Council Directive 78/1016/EEC of 23 November 1978 amending Directive 76/135/EEC on reciprocal recognition of navigability licences for inland waterway vessels</head>
+      <p n="2">COUNCIL DIRECTIVE of 23 November 1978 amending Directive 76/135/EEC on reciprocal recognition of navigability licences for inland waterway vessels (78/1016/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 75 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas Article 5 of Council Directive 76/135/EEC of 20 January 1976 on reciprocal recognition of navigability licences for inland waterway vessels (4) provides that as soon as possible, and not later than 1 January 1978, the Council shall, on a proposal from the Commission, adopt common provisions establishing technical requirements for inland waterway vessels ; whereas, owing to the complexity of the matter, it has not been possible to observe this time limit ; whereas it is therefore appropriate to provide for these common provisions to be adopted by 1 January 1980;</p>
+      <p n="9">Whereas Article 7 of the aforesaid Directive lays down that it shall be valid until 31 December 1978 and that, if need be, its validity may be extended until the provisions referred to in Article 5 enter into force ; whereas, in the light of the above, such extension should be implemented,</p>
+      <p n="10">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Directive 76/135/EEC is hereby amended as follows: 1. In Article 5, the date "1 January 1978" shall be replaced by "1 January 1980".</p>
+      <p n="13">2. Article 7 shall be replaced by the following:</p>
+      <p n="14">"Article 7</p>
+      <p n="15">This Directive shall be valid until the effective entry into force of the provisions referred to in Article 5."</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Directive is addressed to the Member States.</p>
+      <p n="18">Done at Brussels, 23 November 1978.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">K. GSCHEIDLE (1)OJ No C 13, 17.1.1978, p. 4. (2)OJ No C 108, 8.5.1978, p. 67. (3)OJ No C 181, 31.7.1978, p. 29. (4)OJ No L 21, 29.1.1976, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

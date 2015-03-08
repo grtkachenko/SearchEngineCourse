@@ -1,0 +1,77 @@
+<TEI.2 id="jrc31999L0066-en" n="31999L0066" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999L0066 English</title>
+        <title>Commission Directive 1999/66/EC of 28 June 1999 setting out requirements as to the label or other document made out by the supplier pursuant to Council Directive 98/56/EC</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0066:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0066:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1078</classCode>
+        <classCode scheme="eurovoc">1260</classCode>
+        <classCode scheme="eurovoc">1448</classCode>
+        <classCode scheme="eurovoc">191</classCode>
+        <classCode scheme="eurovoc">3115</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999L0066-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 1999/66/EC of 28 June 1999 setting out requirements as to the label or other document made out by the supplier pursuant to Council Directive 98/56/EC</head>
+      <p n="2">COMMISSION DIRECTIVE 1999/66/EC</p>
+      <p n="3">of 28 June 1999</p>
+      <p n="4">setting out requirements as to the label or other document made out by the supplier pursuant to Council Directive 98/56/EC</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Directive 98/56/EC of 20 July 1998 on the marketing of propagating material of ornamental plants(1), and in particular Article 8(3) thereof,</p>
+      <p n="8">(1) Whereas the label or other documents should give the particulars needed both for official control and for the information of the grower;</p>
+      <p n="9">(2) Whereas in the case where the propagating material is accompagnied by a plant passport under the Community Plant Health System the plant passport may constitute on certain conditions the label or other document made up by the supplier;</p>
+      <p n="10">(3) Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Propagating Material for Ornamental Plants,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">This Directive establishes the requirements as to the labels or other document made up by the supplier of propagating material of ornamental plants referred to in Article 8 of Directive 98/56/EC.</p>
+      <p n="14">Article 2</p>
+      <p n="15">1. The suppliers' label or document referred to in Article 1 shall be of suitable material which has not previously been used and shall be printed in at least one of the official languages of the Community. It shall contain the following information headings:</p>
+      <p n="16">(i) indication "EC quality";</p>
+      <p n="17">(ii) indication of EC Member State code;</p>
+      <p n="18">(iii) indication of responsible official body or its distinguishing code;</p>
+      <p n="19">(iv) registration number;</p>
+      <p n="20">(v) individual serial, week or batch number;</p>
+      <p n="21">(vi) botanical name;</p>
+      <p n="22">(vii) denomination of the variety, where appropriate. In the case of rootstock: denomination of the variety or its designation;</p>
+      <p n="23">(viii) denomination of the group of plants, where appropriate;</p>
+      <p n="24">(ix) quantity;</p>
+      <p n="25">(x) in the case of imports from third countries pursuant to Article 11(2) of Directive 98/56/EC, the name of the country of production.</p>
+      <p n="26">2. In the case where the propagating material is accompanied by a plant passport in accordance with Commission Directive 92/105/EEC(2) the plant passport may constitute the suppliers' label or document referred to in paragraph 1. Nonetheless, the indication "EC quality" and an indication as to the responsible official body under Directive 98/56/EC must be given and, where appropriate, a reference to the denomination of the variety, rootstock or group of plants. In the case of imports from third countries pursuant to Article 11(2) of Directive 98/56/EC, the name of the country of production must also be given. This information may be on the same document as the plant passport but clearly separated.</p>
+      <p n="27">Article 3</p>
+      <p n="28">Member States shall bring into force the laws, regulations or administrative provisions necessary to comply with this Directive on 31 December 1999. They shall forthwith inform the Commission thereof.</p>
+      <p n="29">When Member States adopt these measures, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. Member States shall determine how such a reference is to be made.</p>
+      <p n="30">Member States shall communicate to the Commission the text of the main provisions of domestic law they adopt in the field covered by this Directive.</p>
+      <p n="31">Article 4</p>
+      <p n="32">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="33">Article 5</p>
+      <p n="34">This Directive is addressed to the Member States.</p>
+      <p n="35">Done at Brussels, 28 June 1999.</p>
+      <p n="36">For the Commission</p>
+      <p n="37">Franz FISCHLER</p>
+      <p n="38">Member of the Commission</p>
+      <p n="39">(1) OJ L 226, 13.8.1998, p. 16.</p>
+      <p n="40">(2) OJ L 4, 8.1.1993, p. 22.</p>
+    </body>
+  </text>
+</TEI.2>

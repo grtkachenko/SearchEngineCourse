@@ -1,0 +1,96 @@
+<TEI.2 id="jrc32002R2174-en" n="32002R2174" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2174 English</title>
+        <title>Regulation (EC) No 2174/2002 of the European Central Bank of 21 November 2002 amending Regulation ECB/2001/13 concerning the consolidated balance sheet of the monetary financial institutions sector (ECB/2002/8)</title>
+      </titleStmt>
+      <extent>59 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2174:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2174:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1452</classCode>
+        <classCode scheme="eurovoc">4263</classCode>
+        <classCode scheme="eurovoc">4884</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+        <classCode scheme="eurovoc">5883</classCode>
+        <classCode scheme="eurovoc">6030</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2174-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 2174/2002 of the European Central Bank of 21 November 2002 amending Regulation ECB/2001/13 concerning the consolidated balance sheet of the monetary financial institutions sector (ECB/2002/8)</head>
+      <p n="2">Regulation (EC) No 2174/2002 of the European Central Bank</p>
+      <p n="3">of 21 November 2002</p>
+      <p n="4">amending Regulation ECB/2001/13 concerning the consolidated balance sheet of the monetary financial institutions sector</p>
+      <p n="5">(ECB/2002/8)</p>
+      <p n="6">THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2533/98 of 23 November 1998 concerning the collection of statistical information by the European Central Bank(1), and in particular to Article 5(1) and Article 6(4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Regulation (EC) No 2423/2001 (ECB/2001/13) of 22 November 2001 concerning the consolidated balance sheet of the monetary financial institutions sector(2), as corrected by Regulation (EC) No 993/2002 (ECB/2002/4)(3), requires statistical data on the monetary financial institutions' (MFIs') balance sheets to be reported according to the residency of the counterparty, to allow the compilation of monetary aggregates and other measures of liquidity and credit that may exclude assets and liabilities of MFIs held by non-residents of the participating Member States.</p>
+      <p n="10">(2) Regulation (EC) No 2423/2001 (ECB/2001/13) requires data in respect of the liability item "money market fund shares/units" (MMF shares/units) to be reported only as a total amount instead of according to the residency of the counterparty.</p>
+      <p n="11">(3) However, to compile monetary aggregates, the European Central Bank needs data on the residency breakdown of holders of MMF shares/units. It is therefore necessary to establish a procedure according to which the reporting agents provide the national central banks with the relevant statistical information. It is not necessary to collect data on price revaluations of MMF shares/units because, for money and banking statistical purposes, changes in the value of these instruments are considered as interest reinvested in the same instrument.</p>
+      <p n="12">(4) For the purpose of obtaining complete information on the MFIs' balance sheets, it is necessary to impose certain reporting requirements on other financial intermediaries except insurance corporations and pension funds (hereinafter referred to as "OFIs") (S. 123), when acting in the context of financial activities involving MMF shares/units. In order to establish statistical reporting requirements in respect of these entities for the purposes of this Regulation a list of reporting OFIs may need to be drawn up,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EC) No 2423/2001 (ECB/2001/13) is amended as follows:</p>
+      <p n="16">1. Article 2 is amended as follows:</p>
+      <p n="17">The following paragraph 3 is added:</p>
+      <p n="18">"3. For the purposes of Annex I(1)(III)(vi), the actual reporting population shall also consist of other financial intermediaries except insurance corporations and pension funds (hereinafter referred to as 'OFIs'), as set out in Article 2(2)(a) of Regulation (EC) No 2533/98. NCBs may grant derogations to those entities provided that the required statistical information is collected from other available sources in accordance with Annex I(1)(III)(vi). NCBs shall check the fulfilment of this condition in good time in order to grant or withdraw, if necessary, any derogation with effect from the start of each year in agreement with the ECB. For the purposes of this Regulation, NCBs may establish and maintain a list of reporting OFIs in accordance with the principles set out in Annex I(1)(III)(vi)."</p>
+      <p n="19">2. Annex I(1), Introduction is amended as follows:</p>
+      <p n="20">(a) The following paragraph is inserted before the final paragraph:"For the purpose of obtaining complete information on the MFIs' balance sheets, it is necessary to impose certain reporting requirements on other financial intermediaries except insurance corporations and pension funds (hereinafter referred to as 'OFIs'), when acting in the context of financial activities involving MMF shares/units."</p>
+      <p n="21">(b) The final paragraph is replaced by the following:"This statistical information is collected by the national central banks (NCBs) from the MFIs and from OFIs, within the limits set out in Section I(6), according to national arrangements relying on the harmonised definitions and classifications set out in this Annex."</p>
+      <p n="22">3. Annex I(1)(I) is amended as follows:</p>
+      <p n="23">(a) The following sentence is added at the end of paragraph 6:"The MMF itself or the persons legally representing it ensures the provision of any information required to meet the statistical reporting requirements of MMFs. Where necessary for practical reasons, the data may be effectively submitted by any of the entities that act in the context of financial activities involving MMF shares/units, such as depositories."</p>
+      <p n="24">(b) The following paragraph 9 is added:</p>
+      <p n="25">"9. For the purposes of this Regulation:</p>
+      <p n="26">- 'MMF registered shares/units' shall mean MMF shares/units in respect of which, in accordance with national legislation, a record is kept identifying the holders of its shares/units, including information on the residency of the holder,</p>
+      <p n="27">- 'MMF bearer shares/units' shall mean MMF shares/units in respect of which, in accordance with national legislation, a record is not kept identifying the holders of its shares/units, or in respect of which a record is kept which does not contain information on the residency of the holder."</p>
+      <p n="28">4. Annex I(1)(III) is amended as follows:</p>
+      <p n="29">The following subsection (vi) is inserted:</p>
+      <p n="30">"(vi) Residency of the holders of MMF shares/units</p>
+      <p n="31">13a. Reporting agents report, on a monthly basis, as a minimum data on the residency of the holders of MMF shares/units issued by MFIs of the participating Member States according to a domestic/other participating Member States/rest of the world breakdown. This will enable NCBs to provide the ECB with data on the residency of the holders of this instrument and allow the exclusion of holdings of non-residents of the participating Member States for the purposes of the compilation of monetary aggregates.</p>
+      <p n="32">13b. In accordance with Article 4(4), NCBs may require data on additional breakdowns not covered in the requirements of this Regulation, including breakdowns by counterparty sector, currency or maturity.</p>
+      <p n="33">13c. As regards registered shares/units, issuing MMFs or the persons legally representing them or the entities referred to in Annex I(1)(I)(6) report data on the residency breakdown of the holders of their shares/units issued in the monthly balance sheet.</p>
+      <p n="34">13d. As regards bearer shares/units, reporting agents report data on the residency breakdown of the holders of MMF shares/units according to the approach decided by the relevant NCB in agreement with the ECB. This requirement is limited to one or a combination of the following options, to be adopted having regard to the organisation of the relevant markets and the national legal arrangements in the Member State(s) in question. This will be periodically monitored by the NCB and the ECB.</p>
+      <p n="35">(a) Issuing MMFs</p>
+      <p n="36">Issuing MMFs or the persons legally representing them or the entities referred to in Annex I(1)(I)(6) report data on the residency breakdown of the holders of their shares/units issued. If an issuing MMF is not in a position to identify directly the residency of the holder, it reports the relevant data on the basis of available information. Such information may come from the agent distributing the shares/units or from any other entity involved in the issuance, buy-back or transfer of the shares/units.</p>
+      <p n="37">(b) MFIs and OFIs as custodians of MMF shares/units</p>
+      <p n="38">As reporting agents, MFIs and OFIs acting as custodians of MMF shares/units report data on the residency breakdown of the holders of shares/units issued by resident MMFs and held in custody on behalf of the holder or of another intermediary also acting as a custodian. This option is applicable if the following conditions are met. First, the custodian distinguishes MMF shares/units kept in custody on behalf of holders from those that are kept on behalf of other custodians. Second, most of the MMF shares/units are in the custody of domestic resident institutions that are classified as financial intermediaries (MFIs or OFIs).</p>
+      <p n="39">(c) MFIs and OFIs as reporters of transactions of residents with non-residents involving shares/units of a resident MMF</p>
+      <p n="40">As reporting agents, MFIs and OFIs acting as reporters of transactions of residents with non-residents involving shares/units of a resident MMF report data on the residency breakdown of the holders of shares/units issued by resident MMFs, which they trade on behalf of the holder or another intermediary also involved in the transaction. This option is applicable if the following conditions are met. First, the reporting coverage is comprehensive, i.e. it covers substantially all of the transactions carried out by the reporting agents. Second, accurate data on purchases and sales with non-residents of the participating Member States are provided. Third, differences between issuing value and redemption value, excluding fees, of the same shares/units are minimal. Fourth, the amount of shares/units held by non-residents of the participating Member States issued by resident MMFs is low. If the reporting agent is not in a position to identify directly the residency of the holder, it reports the relevant data on the basis of available information.</p>
+      <p n="41">13e. If registered shares/units or bearer shares/units are issued for the first time or if market developments require a change of option or combination of options, NCBs may grant derogations for one year in respect of the requirements set out in paragraphs 13c and d."</p>
+      <p n="42">5. Annex I(2), Table 1 (Stocks) is amended as follows:</p>
+      <p n="43">(a) row 10 (MMFs shares/units) is replaced by the row set out in the Annex to this Regulation;</p>
+      <p n="44">(b) a footnote 6, related to row 10 (MMFs shares/units), is added:</p>
+      <p n="45">"Data under this item may be subject to different statistical collection procedures, as decided by an NCB in accordance with the rules contained in Part 1(III)."</p>
+      <p n="46">6. Annex V is amended as follows:</p>
+      <p n="47">The following paragraph 7 is added:</p>
+      <p n="48">"7. From 1 May 2003 until 31 December 2003, monthly data on the residency of the holders of MMF shares/units issued by MFIs of the participating Member States according to a domestic/other participating Member States/rest of the world breakdown may be reported to the ECB with a delay of a further one month from the close of business on the 15th working day following the end of the month to which the data relate. NCBs decide when they need to receive data from reporting agents in order to meet this deadline."</p>
+      <p n="49">Article 2</p>
+      <p n="50">This Regulation shall enter into force on 1 May 2003.</p>
+      <p n="51">Done at Frankfurt am Main, 21 November 2002.</p>
+      <p n="52">On behalf of the Governing Council of the ECB</p>
+      <p n="53">The President</p>
+      <p n="54">Willem F. Duisenberg</p>
+      <p n="55">(1) OJ L 318, 27.11.1998, p. 8.</p>
+      <p n="56">(2) OJ L 333, 17.12.2001, p. 1.</p>
+      <p n="57">(3) OJ L 151, 11.6.2002, p. 11.</p>
+      <p n="58">ANNEX</p>
+      <p n="59">&gt;PIC FILE= "L_2002330EN.003202.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

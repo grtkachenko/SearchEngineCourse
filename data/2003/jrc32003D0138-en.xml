@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32003D0138-en" n="32003D0138" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0138 English</title>
+        <title>2003/138/EC: Commission Decision of 27 February 2003 establishing component and material coding standards for vehicles pursuant to Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles (Text with EEA relevance) (notified under document number C(2003) 620)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0138:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0138:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1837</classCode>
+        <classCode scheme="eurovoc">2077</classCode>
+        <classCode scheme="eurovoc">2947</classCode>
+        <classCode scheme="eurovoc">4651</classCode>
+        <classCode scheme="eurovoc">848</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0138-en." lang="en">
+    <body>
+      <head n="1">2003/138/EC: Commission Decision of 27 February 2003 establishing component and material coding standards for vehicles pursuant to Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles (Text with EEA relevance) (notified under document number C(2003) 620)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 27 February 2003</p>
+      <p n="4">establishing component and material coding standards for vehicles pursuant to Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles</p>
+      <p n="5">(notified under document number C(2003) 620)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/138/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of-life vehicles(1), and in particular Article 8(2) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Under Directive 2000/53/EC, the Commission is to establish component and material coding standards, to be used by producers and material and equipment manufacturers, in particular to facilitate the identification of those components and materials which are suitable for reuse and recovery.</p>
+      <p n="13">(2) It would be appropriate to establish further coding standards on the basis of the practical experience gained in the recycling and recovery of end-of-life vehicles.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Committee referred to in Article 11 of Directive 2000/53/EC,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Without prejudice to Article 3(3) of Directive 2000/53/EC, Member States shall take the necessary measures to ensure that producers, in concert with material and equipment manufacturers, use the nomenclature of ISO component and material coding standards referred to in the Annex to this Decision for the labelling and identification of components and materials of vehicles.</p>
+      <p n="18">Article 2</p>
+      <p n="19">Two years after the entry into force of this Decision, on the basis of the practical experience gained in the recycling and recovery of end-of-life vehicles, the present Decision shall be reviewed in order to establish, if necessary, component and material coding standards for other materials.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision shall apply from 1 July 2003.</p>
+      <p n="22">Article 4</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 27 February 2003.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Margot Wallström</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 269, 21.10.2000, p. 34.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">For the labelling and identification of vehicle plastic components and materials having a weight of more than 100 grams, the following nomenclature applies:</p>
+      <p n="31">- ISO 1043-1 Plastics - symbols and abbreviated terms. Part 1: Basic polymers and their special characteristics.</p>
+      <p n="32">- ISO 1043-2 Plastics - symbols and abbreviated terms. Part 2: Fillers and reinforcing materials.</p>
+      <p n="33">- ISO 11469 Plastics - Generic identification and marking of plastic products.</p>
+      <p n="34">For the labelling and identification of vehicle elastomer components and materials having a weight of more than 200 grams, the following nomenclature applies:</p>
+      <p n="35">- ISO 1629 Rubbers and latices - Nomenclature. This shall not apply to the labelling of tyres.</p>
+      <p n="36">The symbols "&lt; " or " &gt;" used in the ISO standards, can be substituted by brackets.</p>
+    </body>
+  </text>
+</TEI.2>

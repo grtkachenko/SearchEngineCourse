@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32002D0280-en" n="32002D0280" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0280 English</title>
+        <title>2002/280/EC: Commission Decision of 15 April 2002 amending Decision 98/320/EC on the organisation of a temporary experiment on seed sampling and seed testing pursuant to Council Directives 66/400/EEC, 66/401/EEC, 66/402/EEC and 69/208/EEC (Text with EEA relevance) (notified under document number C(2002) 1404)</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0280:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0280:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4081</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">5481</classCode>
+        <classCode scheme="eurovoc">623</classCode>
+        <classCode scheme="eurovoc">867</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0280-en." lang="en">
+    <body>
+      <head n="1">2002/280/EC: Commission Decision of 15 April 2002 amending Decision 98/320/EC on the organisation of a temporary experiment on seed sampling and seed testing pursuant to Council Directives 66/400/EEC, 66/401/EEC, 66/402/EEC and 69/208/EEC (Text with EEA relevance) (notified under document number C(2002) 1404)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 15 April 2002</p>
+      <p n="4">amending Decision 98/320/EC on the organisation of a temporary experiment on seed sampling and seed testing pursuant to Council Directives 66/400/EEC, 66/401/EEC, 66/402/EEC and 69/208/EEC</p>
+      <p n="5">(notified under document number C(2002) 1404)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/280/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 66/400/EEC of 14 June 1966 on the marketing of beet seed(1), as last amended by Directive 98/96/EC(2), and in particular Article 13a thereof,</p>
+      <p n="11">Having regard to Council Directive 66/401/EEC of 14 June 1966 on the marketing of fodder plant seed(3), as last amended by Directive 2001/64/EC(4), and in particular Article 13a thereof,</p>
+      <p n="12">Having regard to Council Directive 66/402/EEC of 14 June 1966 on the marketing of cereal seed(5), as last amended by Directive 2001/64/EC, and in particular Article 13a thereof,</p>
+      <p n="13">Having regard to Council Directive 69/208/EEC of 30 June 1969 on the marketing of seed of oil and fibre plants(6), as last amended by Directive 98/96/EC, and in particular Article 12a thereof,</p>
+      <p n="14">Whereas:</p>
+      <p n="15">(1) Under Commission Decision 98/320/EC(7) provision was made for a temporary experiment at Community level to assess whether seed sampling and seed testing under official supervision may constitute improved alternatives to the procedures for official seed certification required under Directives 66/400/EEC, 66/401/EEC, 66/402/EEC and 69/208/EEC, without leading to a significant decline in the quality of the seed.</p>
+      <p n="16">(2) The Commission is still collecting data in order to update and complete the information already supplied by the Member States participating in the experiment in relation to the results of that participation. It is also still collecting data on the samples supplied by the Member States and tested in Community comparative trials.</p>
+      <p n="17">(3) Current international practices including those adopted by the Organisation of Economic Cooperation and Development (OECD) and the International Seed Testing Association (ISTA) continue to permit temporary experiments on seed sampling and seed testing.</p>
+      <p n="18">(4) Consequently the temporary experiment should be extended and Decision 98/320/EC should therefore be amended accordingly.</p>
+      <p n="19">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="20">HAS ADOPTED THIS DECISION:</p>
+      <p n="21">Article 1</p>
+      <p n="22">In Article 4 of Decision 98/320/EC the date "30 June 2002" is replaced by the date "31 July 2004".</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 15 April 2002.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">David Byrne</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ 125, 11.7.1966, p. 2290/66.</p>
+      <p n="30">(2) OJ L 25, 1.2.1999, p. 27.</p>
+      <p n="31">(3) OJ 125, 11.7.1966, p. 2298/66.</p>
+      <p n="32">(4) OJ L 234, 1.9.2001, p. 60.</p>
+      <p n="33">(5) OJ 125, 11.7.1966, p. 2309/66.</p>
+      <p n="34">(6) OJ L 169, 10.7.1969, p. 3.</p>
+      <p n="35">(7) OJ L 140, 12.5.1998, p. 14.</p>
+    </body>
+  </text>
+</TEI.2>

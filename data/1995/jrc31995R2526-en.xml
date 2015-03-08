@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31995R2526-en" n="31995R2526" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R2526 English</title>
+        <title>Commission Regulation (EC) No 2526/95 of 27 October 1995 amending Regulation (EC) No 1439/95 laying down detailed rules for the application of Council Regulation (EEC) No 3013/89 as regards the import and export of products in the sheepmeat and goatmeat sector</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2526:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2526:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2543</classCode>
+        <classCode scheme="eurovoc">4683</classCode>
+        <classCode scheme="eurovoc">4691</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R2526-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2526/95 of 27 October 1995 amending Regulation (EC) No 1439/95 laying down detailed rules for the application of Council Regulation (EEC) No 3013/89 as regards the import and export of products in the sheepmeat and goatmeat sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2526/95 of 27 October 1995 amending Regulation (EC) No 1439/95 laying down detailed rules for the application of Council Regulation (EEC) No 3013/89 as regards the import and export of products in the sheepmeat and goatmeat sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the Council Regulation (EEC) No 3013/89 of 25 September 1989 on the common organization of the market in sheepmeat and goatmeat (1), as last amended by Regulation (EC) No 1265/95 (2), and in particular Articles 9 (2) and 12 (4) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 1439/95 of 26 June 1995 laying down detailed rules for the application of Council Regulation (EEC) No 3013/89 as regards the import and export of products in the sheepmeat and goatmeat sector (3), as last amended by Regulation (EC) No 2416/95 (4), requires the submission of a licence upon export of products of the sheep and goatmeat sector; whereas experience in the operation of the export licence system has demonstrated that the deliverance of this licence creates a disproportionate administrative burden in particular in view of the small quantities that are exported from the Community; whereas it is therefore appropriate to delete this requirement;</p>
+      <p n="7">Whereas Regulation (EC) No 1439/95 also fixes the list of authorities in exporting countries empowered to issue documents of origin; whereas Poland has changed the authority empowered to issue these documents with effect from 15 November 1995; whereas Annex I to the Regulation should therefore be modified accordingly;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Sheepmeat and Goatmeat,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EC) No 1439/95 is modified as follows:</p>
+      <p n="12">1. Article 3 is deleted.</p>
+      <p n="13">2. Article 19 (4) is deleted.</p>
+      <p n="14">3. In Annex I, point 11 is replaced by:</p>
+      <p n="15">'Poland; Polski Zwiazek Owezarski`.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">It shall apply from 15 November 1995.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 27 October 1995.</p>
+      <p n="21">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

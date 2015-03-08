@@ -1,0 +1,75 @@
+<TEI.2 id="jrc32000R1666-en" n="32000R1666" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1666 English</title>
+        <title>Council Regulation (EC) No 1666/2000 of 17 July 2000 amending Regulation (EEC) No 1766/92 on the common organisation of the market in cereals</title>
+      </titleStmt>
+      <extent>41 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1666:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1666:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+        <classCode scheme="eurovoc">5506</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1666-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1666/2000 of 17 July 2000 amending Regulation (EEC) No 1766/92 on the common organisation of the market in cereals</head>
+      <p n="2">Council Regulation (EC) No 1666/2000</p>
+      <p n="3">of 17 July 2000</p>
+      <p n="4">amending Regulation (EEC) No 1766/92 on the common organisation of the market in cereals</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Article 3(2) of Council Regulation (EEC) No 1766/92(4) provides for the intervention price to be subject to monthly increases. This mechanism seeks to take account, to some extent, of storage costs and financing charges for storing cereals in the Community and of the need to ensure that stocks are disposed of in line with market requirements. In accordance with the approach followed for the reform of the common organisation of the markets in connection with Agenda 2000 and in order to enable producers to organise their production over several years, the number and amount of the monthly increases should be fixed without any limit in time, without prejudice to any revisions that may be called for in the future.</p>
+      <p n="12">(2) With an eye to simplification and legislative clarity, the provisions of Regulation (EEC) No 1766/92 that are not relevant should be deleted at the same time.</p>
+      <p n="13">(3) The measures necessary for the implementation of Regulation (EEC) No 1766/92 should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(5),</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EEC) No 1766/92 is amended as follows:</p>
+      <p n="17">1. Article 3(2) shall be replaced by the following:</p>
+      <p n="18">"2. The intervention price shall be subject to monthly increases in accordance with the table set out in Annex D."</p>
+      <p n="19">2. Articles 20 and 22 shall be deleted.</p>
+      <p n="20">3. Articles 23 shall be replaced by the following:</p>
+      <p n="21">"Article 23</p>
+      <p n="22">1. The Commission shall be assisted by the Management Committee for Cereals, hereinafter referred to as 'the Committee'.</p>
+      <p n="23">2. Where reference is made to this paragraph, Articles 4 and 7 of Decision 1999/468/EC shall apply.</p>
+      <p n="24">The period referred to in Article 4(3) of Decision 1999/468/EC shall be set at one month.</p>
+      <p n="25">3. The Committee shall adopt its rules of procedure."</p>
+      <p n="26">4. The following Annex shall be added:</p>
+      <p n="27">"ANNEX D</p>
+      <p n="28">Monthly increases in the intervention price</p>
+      <p n="29">&gt;TABLE&gt;"</p>
+      <p n="30">Article 2</p>
+      <p n="31">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="32">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="33">Done at Brussels, 17 July 2000.</p>
+      <p n="34">For the Council</p>
+      <p n="35">The President</p>
+      <p n="36">J. Glavany</p>
+      <p n="37">(1) OJ C 86 E, 24.3.2000, p. 1.</p>
+      <p n="38">(2) Opinion delivered on 16 May 2000 (not yet published in the Official Journal).</p>
+      <p n="39">(3) OJ C 168, 16.6.2000, p. 17.</p>
+      <p n="40">(4) OJ L 181, 1.7.1992, p. 21. Regulation as las amended by Regulation (EC) No 1253/1999 (OJ L 160, 26.6.1999, p. 18).</p>
+      <p n="41">(5) OJ L 184, 17.7.1999, p. 23.</p>
+    </body>
+  </text>
+</TEI.2>

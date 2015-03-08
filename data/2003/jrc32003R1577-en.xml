@@ -1,0 +1,132 @@
+<TEI.2 id="jrc32003R1577-en" n="32003R1577" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1577 English</title>
+        <title>Commission Regulation (EC) No 1577/2003 of 8 September 2003 derogating from Council Regulation (EC) No 1251/1999 as regards area payments for certain arable crops and payments for set-aside for the 2003/04 marketing year to producers in certain regions of the Community</title>
+      </titleStmt>
+      <extent>96 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1577:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1577:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1144</classCode>
+        <classCode scheme="eurovoc">2723</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+        <classCode scheme="eurovoc">755</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1577-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1577/2003 of 8 September 2003 derogating from Council Regulation (EC) No 1251/1999 as regards area payments for certain arable crops and payments for set-aside for the 2003/04 marketing year to producers in certain regions of the Community</head>
+      <p n="2">Commission Regulation (EC) No 1577/2003</p>
+      <p n="3">of 8 September 2003</p>
+      <p n="4">derogating from Council Regulation (EC) No 1251/1999 as regards area payments for certain arable crops and payments for set-aside for the 2003/04 marketing year to producers in certain regions of the Community</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1251/1999 of 17 May 1999 establishing a support system for producers of certain arable crops(1), as last amended by Regulation (EC) No 1038/2001(2), and in particular the fourth indent of the second paragraph of Article 9 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 8(1) of Regulation (EC) No 1251/1999 provides that area payments are to be made from 16 November following the harvest.</p>
+      <p n="10">(2) Certain regions of the Community have been adversely affected by extreme weather in 2003, resulting in exceptionally low average yields.</p>
+      <p n="11">(3) Some producers are experiencing severe financial difficulties as a result.</p>
+      <p n="12">(4) In the light of the situation in certain regions of the Community and the budgetary situation, the Member States concerned should be authorised to make, from 16 October 2003 onwards and subject to a limit of 50 %, advance area payments for arable crops and advance payments for set-aside for the 2003/04 marketing year.</p>
+      <p n="13">(5) In view of the urgent nature of the measures to be adopted, provision should be made for this Regulation to enter into force immediately.</p>
+      <p n="14">(6) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">1. By way of derogation from Article 8(1) of Regulation (EC) No 1251/1999, an advance payment in respect of the 2003/04 marketing year of up to 50 % of the area payments for arable crops and of up to 50 % of the payments for set-aside may be made from 16 October 2003 to producers in the Member States or regions listed in the Annex.</p>
+      <p n="18">2. The advance payment provided for in paragraph 1 may be made only where, on the date of payment, the producer concerned is found to be eligible.</p>
+      <p n="19">3. When calculating the final area payment to producers who receive the advance provided for in paragraph 1 of this Article, the competent authority shall take account of:</p>
+      <p n="20">(a) any reduction in the producer's eligible area;</p>
+      <p n="21">(b) any advance paid under this Regulation.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 8 September 2003.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz Fischler</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 160, 26.6.1999, p. 12.</p>
+      <p n="30">(2) OJ L 145, 31.5.2001, p. 16.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">France: Departments concerned</p>
+      <p n="33">01 AIN</p>
+      <p n="34">03 ALLIER</p>
+      <p n="35">04 ALPES-DE-HAUTE-PROVENCE</p>
+      <p n="36">05 HAUTES-ALPES</p>
+      <p n="37">07 ARDÈCHE</p>
+      <p n="38">09 ARIÈGE</p>
+      <p n="39">11 AUDE</p>
+      <p n="40">12 AVEYRON</p>
+      <p n="41">13 BOUCHES-DU-RHÔNE</p>
+      <p n="42">15 CANTAL</p>
+      <p n="43">16 CHARENTE</p>
+      <p n="44">17 CHARENTE-MARITIME</p>
+      <p n="45">18 CHER</p>
+      <p n="46">19 CORRÈZE</p>
+      <p n="47">21 CÔTE-D'OR</p>
+      <p n="48">23 CREUSE</p>
+      <p n="49">24 DORDOGNE</p>
+      <p n="50">25 DOUBS</p>
+      <p n="51">26 DRÔME</p>
+      <p n="52">28 EURE-ET-LOIRE</p>
+      <p n="53">30 GARD</p>
+      <p n="54">31 HAUTE-GARONNE</p>
+      <p n="55">32 GERS</p>
+      <p n="56">36 INDRE</p>
+      <p n="57">37 INDRE-ET-LOIRE</p>
+      <p n="58">38 ISÈRE</p>
+      <p n="59">39 JURA</p>
+      <p n="60">40 LANDES</p>
+      <p n="61">41 LOIR-ET-CHER</p>
+      <p n="62">42 LOIRE</p>
+      <p n="63">43 HAUTE-LOIRE</p>
+      <p n="64">44 LOIRE-ATLANTIQUE</p>
+      <p n="65">45 LOIRET</p>
+      <p n="66">46 LOT</p>
+      <p n="67">47 LOT-ET-GARONNE</p>
+      <p n="68">48 LOZÈRE</p>
+      <p n="69">49 MAINE-ET-LOIRE</p>
+      <p n="70">52 HAUTE-MARNE</p>
+      <p n="71">54 MEURTHE-ET-MOSELLE</p>
+      <p n="72">55 MEUSE</p>
+      <p n="73">57 MOSELLE</p>
+      <p n="74">58 NIÈVRE</p>
+      <p n="75">63 PUY-DE-DÔME</p>
+      <p n="76">64 PYRÉNÉES-ATLANTIQUES</p>
+      <p n="77">65 HAUTES-PYRÉNÉES</p>
+      <p n="78">67 BAS-RHIN</p>
+      <p n="79">68 HAUT-RHIN</p>
+      <p n="80">69 RHÔNE</p>
+      <p n="81">70 HAUTE-SAÔNE</p>
+      <p n="82">71 SAÔNE-ET-LOIRE</p>
+      <p n="83">73 SAVOIE</p>
+      <p n="84">74 HAUTE-SAVOIE</p>
+      <p n="85">79 DEUX-SÈVRES</p>
+      <p n="86">81 TARN</p>
+      <p n="87">82 TARN-ET-GARONNE</p>
+      <p n="88">83 VAR</p>
+      <p n="89">84 VAUCLUSE</p>
+      <p n="90">85 VENDÉE</p>
+      <p n="91">86 VIENNE</p>
+      <p n="92">87 HAUTE-VIENNE</p>
+      <p n="93">88 VOSGES</p>
+      <p n="94">89 YONNE</p>
+      <p n="95">90 TERRITOIRE DE BELFORT</p>
+      <p n="96">The whole of Italy, the Netherlands, Portugal, Germany and Spain</p>
+    </body>
+  </text>
+</TEI.2>

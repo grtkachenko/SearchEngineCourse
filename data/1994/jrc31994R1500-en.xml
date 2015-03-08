@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31994R1500-en" n="31994R1500" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994R1500 English</title>
+        <title>Council Regulation (EC) No 1500/94 of 21 June 1994 amending Commission Regulation (EEC) No 2454/93 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R1500:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R1500:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994R1500-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1500/94 of 21 June 1994 amending Commission Regulation (EEC) No 2454/93 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1500/94 of 21 June 1994 amending Commission Regulation (EEC) No 2454/93 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (1), and in particular Article 249 thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas Article 20 (4) of Regulation (EEC) No 2913/92 stipulates that preferential tariff measures, whether contained in agreements which the Community has concluded with certain countries or groups of countries and which provide for the granting of preferential tariff treatment, or adopted unilaterally by the Community in respect of certain countries, groups of countries or territories, as well as autonomous suspensive measures providing for a reduction in, or relief from, import duties chargeable on certain goods, shall apply only at the declarant's request where the goods concerned fulfil the conditions laid down by those measures;</p>
+      <p n="8">Whereas it is important to the operation of the Community's commercial policy to have comprehensive statistics on the volume of trade in goods benefiting from those measures;</p>
+      <p n="9">Whereas, in order for such statistics to be of use, the codes entered in box 36 of the Single Administrative Document must be common to all the Member States;</p>
+      <p n="10">Whereas the Member States should nevertheless be given the opportunity to adapt their customs computer systems; whereas provision should therefore be made for a transitional period during which national codes which are compatible with Community codes may be used;</p>
+      <p n="11">Whereas provision should be made for the recording, from 1 January 1996, of information relating to goods for which an export refund has been requested;</p>
+      <p n="12">Whereas, in the absence of an opinion of the Customs Code Committee on the draft Regulation submitted by the Commission, the Council is required to adopt the necessary provisions,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Annexes 37 and 38 to Regulation (EEC) No 2454/93 (2) are hereby amended in accordance with the Annex to this Regulation.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">It shall apply from 1 January 1995.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Luxembourg, 21 June 1994.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">G. MORAITIS</p>
+      <p n="24">(1) OJ No L 302, 19. 10. 1992, p. 1.</p>
+      <p n="25">(2) OJ No L 253, 11. 10. 1993, p. 1. Regulation as last amended by Commission Regulation (EC) No 655/94 (OJ No L 82, 25. 3. 1994, p. 15).</p>
+      <p n="26">ANNEX</p>
+      <p n="27">1. Annex 37 to Regulatin (EEC) No 2454/93 is hereby amended as follows:</p>
+      <p n="28">(a) in Title I, point B.2. Particulars required - minimum list, insert '36' in the list of boxes to be used for a declaration for release for free circulation.</p>
+      <p n="29">(b) The wording relating to box 36 in Title II, point C, shall be replaced by the following:</p>
+      <p n="30">'36. Preference</p>
+      <p n="31">Enter the appropriate code.</p>
+      <p n="32">Until 1 January 1996, Member States may use codes other than those specified in Annex 38, provided that such codes enable statistics to be recorded at least as accurately as the codes specified in that Annex.'</p>
+      <p n="33">2. In Annex 38 to Regulation (EEC) No 2454/93, the following wording referring to box 36 shall be inserted:</p>
+      <p n="34">'Box 36: Preference</p>
+      <p n="35">The relevant codes are given below:</p>
+      <p n="36">1. First digit of code</p>
+      <p n="37">"" ID="1"&gt;1&gt; ID="2"&gt;Normal tariff arrangement (no preference certificate)"&gt; ID="1"&gt;2&gt; ID="2"&gt;Generalized System of Preferences (GSP)"&gt; ID="1"&gt;3&gt; ID="2"&gt;Other tariff preferences (EUR 1, ATR or equivalent document)"&gt;</p>
+      <p n="38">2. Next two digits</p>
+      <p n="39">"" ID="1"&gt;00&gt; ID="2"&gt;None of the following"&gt; ID="1"&gt;10&gt; ID="2"&gt;Tariff suspension"&gt; ID="1"&gt;15&gt; ID="2"&gt;Tariff suspension with specified end-use"&gt; ID="1"&gt;18&gt; ID="2"&gt;Tariff suspension with certificate confirming the special nature of the product"&gt; ID="1"&gt;20&gt; ID="2"&gt;Tariff quota (1)"&gt; ID="1"&gt;23&gt; ID="2"&gt;Tariff quota with specified end-use (1)"&gt; ID="1"&gt;25&gt; ID="2"&gt;Tariff quota with certificate confirming the special nature of the product (1)"&gt; ID="1"&gt;28&gt; ID="2"&gt;Tariff quota following outward processing (1)"&gt; ID="1"&gt;40&gt; ID="2"&gt;Special end-use resulting from the Common Customs Tariff"&gt; ID="1"&gt;50&gt; ID="2"&gt;Certificate confirming the special nature of the product.""&gt;</p>
+      <p n="40">(1) Where the requested tariff quota is exhausted, Member States may allow the request to be valid for any other existing preference. '</p>
+    </body>
+  </text>
+</TEI.2>

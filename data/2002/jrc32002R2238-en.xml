@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32002R2238-en" n="32002R2238" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2238 English</title>
+        <title>Commission Regulation (EC) No 2238/2002 of 16 December 2002 amending Regulation (EC) No 2799/1999 laying down detailed rules for applying Regulation (EC) No 1255/1999 as regards the grant of aid for skimmed milk and skimmed-milk powder intended for animal feed and the sale of such skimmed-milk powder</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2238:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2238:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1570</classCode>
+        <classCode scheme="eurovoc">181</classCode>
+        <classCode scheme="eurovoc">20</classCode>
+        <classCode scheme="eurovoc">2958</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2238-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2238/2002 of 16 December 2002 amending Regulation (EC) No 2799/1999 laying down detailed rules for applying Regulation (EC) No 1255/1999 as regards the grant of aid for skimmed milk and skimmed-milk powder intended for animal feed and the sale of such skimmed-milk powder</head>
+      <p n="2">Commission Regulation (EC) No 2238/2002</p>
+      <p n="3">of 16 December 2002</p>
+      <p n="4">amending Regulation (EC) No 2799/1999 laying down detailed rules for applying Regulation (EC) No 1255/1999 as regards the grant of aid for skimmed milk and skimmed-milk powder intended for animal feed and the sale of such skimmed-milk powder</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), as last amended by Regulation (EC) No 509/2002(2), and in particular Article 10 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In accordance with Article 26 of Commission Regulation (EC) No 2799/1999(3), as last amended by Regulation (EC) No 1932/2002(4), intervention agencies have organised a standing invitation to tender for skimmed-milk powder taken into storage before 1 April 2002.</p>
+      <p n="10">(2) In view of the quantity still available and the market situation, that date should be amended to 1 May 2002.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">In Article 26(2) of Regulation (EC) No 2799/1999, "1 April 2002" is hereby replaced by "1 May 2002".</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on 17 December 2002.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 16 December 2002.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 160, 26.6.1999, p. 48.</p>
+      <p n="23">(2) OJ L 79, 22.3.2002, p. 15.</p>
+      <p n="24">(3) OJ L 340, 31.12.1999, p. 3.</p>
+      <p n="25">(4) OJ L 295, 30.10.2002, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

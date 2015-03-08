@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31998D0243-en" n="31998D0243" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0243 English</title>
+        <title>98/243/JHA: Council Decision of 19 March 1998 on the sharing of the costs of preparing film masters for the uniform format for residence permits</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0243:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0243:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2286</classCode>
+        <classCode scheme="eurovoc">3259</classCode>
+        <classCode scheme="eurovoc">3663</classCode>
+        <classCode scheme="eurovoc">4004</classCode>
+        <classCode scheme="eurovoc">488</classCode>
+        <classCode scheme="eurovoc">5043</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0243-en." lang="en">
+    <body>
+      <head n="1">98/243/JHA: Council Decision of 19 March 1998 on the sharing of the costs of preparing film masters for the uniform format for residence permits</head>
+      <p n="2">COUNCIL DECISION of 19 March 1998 on the sharing of the costs of preparing film masters for the uniform format for residence permits (98/243/JHA)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty on European Union, and in particular Article K.8(2), second paragraph, second indent thereof,</p>
+      <p n="5">Having regard to the Joint Action of 16 December 1996 adopted by the Council on the basis of Article K.3 of the Treaty on European Union, concerning a uniform format for residence permits (1), and in particular Article 2(1) thereof,</p>
+      <p n="6">Whereas adoption by the Council of the technical specifications referred to in Article 2(1) of that Joint Action entails the creation of film masters for the uniform format for residence permits;</p>
+      <p n="7">Whereas the Kingdom of the Netherlands has declared its willingness to prepare the film masters on behalf of the other Member States;</p>
+      <p n="8">Whereas the cost of preparing the film masters incurred by the Kingdom of the Netherlands must be shared among the Member States,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Kingdom of the Netherlands is hereby empowered to prepare the film masters for the uniform format for residence permits on behalf of the Member States.</p>
+      <p n="12">Article 2</p>
+      <p n="13">The total cost of preparing film masters for the uniform format for residence permits, which amounts to ECU 124 667, shall be financed from Member States' contributions. The financial contribution to be made by each individual Member State shall be calculated on the basis of the proportion of its gross national product to the total sum of Member States' gross national products which serves as the basis for the financing of the general budget of the European Communities for 1997 (2). 'Gross national product` within the meaning of this Article shall be as defined by Council Directive 89/130/EEC, Euratom of 13 February 1989 on the harmonisation of the compilation of gross national product at market prices (3).</p>
+      <p n="14">Article 3</p>
+      <p n="15">This Decision shall enter into force on the day of its publication in the Official Journal.</p>
+      <p n="16">Done at Brussels, 19 March 1998.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">J. STRAW</p>
+      <p n="20">(1) OJ L 7, 10.1.1997, p. 1.</p>
+      <p n="21">(2) OJ L 44, 14.2.1997, p. 127.</p>
+      <p n="22">(3) OJ L 49, 21.2.1989, p. 26.</p>
+    </body>
+  </text>
+</TEI.2>

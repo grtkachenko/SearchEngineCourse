@@ -1,0 +1,210 @@
+<TEI.2 id="jrc31997L0043-en" n="31997L0043" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997L0043 English</title>
+        <title>Council Directive 97/43/Euratom of 30 June 1997 on health protection of individuals against the dangers of ionizing radiation in relation to medical exposure, and repealing Directive 84/466/Euratom</title>
+      </titleStmt>
+      <extent>173 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0043:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0043:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1280</classCode>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">4455</classCode>
+        <classCode scheme="eurovoc">5287</classCode>
+        <classCode scheme="eurovoc">5739</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997L0043-en." lang="en">
+    <body>
+      <head n="1">Council Directive 97/43/Euratom of 30 June 1997 on health protection of individuals against the dangers of ionizing radiation in relation to medical exposure, and repealing Directive 84/466/Euratom</head>
+      <p n="2">COUNCIL DIRECTIVE 97/43/EURATOM of 30 June 1997 on health protection of individuals against the dangers of ionizing radiation in relation to medical exposure, and repealing Directive 84/466/Euratom</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 31 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission, drawn up after obtaining the opinion of a group of persons appointed by the Scientific and Technical Committee,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (2),</p>
+      <p n="8">(1) Whereas the Council has adopted Directives laying down the basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionizing radiation, as last amended by Directive 96/29/Euratom (3);</p>
+      <p n="9">(2) Whereas in accordance with Article 33 of the Treaty, each Member State is to lay down the appropriate provisions, whether by legislation, regulation or administrative action, to ensure compliance with the basic standards which have been established and take the necessary measures with regard to teaching, education and vocational training;</p>
+      <p n="10">(3) Whereas, on 3 September 1984 the Council adopted Directive 84/466/Euratom laying down the basic measures for the radiation protection of persons undergoing medical examination or treatment (4);</p>
+      <p n="11">(4) Whereas, as in 1984, medical exposure continues to constitute the major source of exposure to artificial sources of ionizing radiation of European Union citizens; whereas the use of ionizing radiation has enabled great progress to be made in many aspects of medicine; whereas practices causing medical exposure need to be carried out in optimized radiation protection conditions;</p>
+      <p n="12">(5) Whereas, recognizing the development of scientific knowledge in the field of radiation protection applied to medical exposure, the International Commission on Radiological Protection reviewed the subject in its 1990 and 1996 recommendations;</p>
+      <p n="13">(6) Whereas such developments make it necessary to repeal Directive 84/466/Euratom;</p>
+      <p n="14">(7) Whereas Directive 96/29/Euratom lays down basic safety standards for the protection of the workers administering the medical exposure and of the members of the public; whereas the same Directive ensures that the total of contributions to the exposure of the population as a whole, is kept under review;</p>
+      <p n="15">(8) Whereas health and safety requirements, including radiation protection aspects, regarding the design, manufacture and placing on the market of the medical devices are dealt with by Council Directive 93/42/EEC of 14 June 1993 concerning medical devices (5); whereas pursuant to Article 1 (8) of that Directive, the relevant Directives adopted under the Euratom Treaty are not to be affected by its provisions; whereas it is necessary to set out radiation protection requirements for the medical use of radiological installations from the date of the commencement of their operation;</p>
+      <p n="16">(9) Whereas provisions need to be adapted for the protection as regards exposure incurred by volunteers and persons knowingly and willingly helping persons undergoing medical examination or treatment;</p>
+      <p n="17">(10) Whereas the Committee of Ministers of the Council of Europe adopted on 6 February 1990 Recommendation R(90)3 on medical research on human beings, concerning inter alia the setting up of an ethics committee;</p>
+      <p n="18">(11) Whereas detailed requirements are needed for the correct application of the justification and optimization principles in relation to exposure within the scope of this Directive;</p>
+      <p n="19">(12) Whereas responsibilities for administering medical exposure need to be set out;</p>
+      <p n="20">(13) Whereas appropriate training for the staff involved, the establishment of quality assurance and audit programmes, and inspections by the competent authorities are necessary to ensure that medical exposure is delivered under good radiation protection conditions;</p>
+      <p n="21">(14) Whereas specific provisions are necessary as regards special practice, pregnant and breastfeeding females, volunteers in research and helping persons;</p>
+      <p n="22">(15) Whereas potential exposure needs to be taken into account,</p>
+      <p n="23">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="24">Article 1</p>
+      <p n="25">Purpose and scope</p>
+      <p n="26">1. This Directive supplements Directive 96/29/Euratom and lays down the general principles of the radiation protection of individuals in relation to the exposure referred to in paragraphs 2 and 3.</p>
+      <p n="27">2. This Directive shall apply to the following medical exposure:</p>
+      <p n="28">(a) the exposure of patients as part of their own medical diagnosis or treatment;</p>
+      <p n="29">(b) the exposure of individuals as part of occupational health surveillance;</p>
+      <p n="30">(c) the exposure of individuals as part of health screening programmes;</p>
+      <p n="31">(d) the exposure of healthy individuals or patients voluntarily participating in medical or biomedical, diagnostic or therapeutic, research programmes;</p>
+      <p n="32">(e) the exposure of individuals as part of medico-legal procedures.</p>
+      <p n="33">3. This Directive shall also apply to exposure of individuals knowingly and willingly helping (other than as part of their occupation) in the support and comfort of individuals undergoing medical exposure.</p>
+      <p n="34">Article 2</p>
+      <p n="35">Definitions</p>
+      <p n="36">For the purpose of this Directive, the following terms have the meaning hereby assigned them:</p>
+      <p n="37">- Clinical audit: a systematic examination or review of medical radiological procedures which seeks to improve the quality and the outcome of patient care through structured review whereby radiological practices, procedures and results are examined against agreed standards for good medical radiological procedures, with modification of practices where indicated and the application of new standards if necessary.</p>
+      <p n="38">- Clinical Responsibility: responsibility regarding individual medical exposures attributed to a practitioner, notably: justification; optimization; clinical evaluation of the outcome; cooperation with other specialists and the staff, as appropriate, regarding practical aspects; obtaining information, if appropriate, of previous examinations; providing existing radiological information and/or records to other practitioners and/or prescribers, as required; giving information on the risk of ionizing radiation to patients and other individuals involved, as appropriate.</p>
+      <p n="39">- Competent Authorities: any authority designated by a Member State.</p>
+      <p n="40">- Diagnostic Reference Levels: dose levels in medical radiodiagnostic practices or, in the case of radio-pharmaceuticals, levels of activity, for typical examinations for groups of standard-sized patients or standard phantoms for broadly defined types of equipment. These levels are expected not to be exceeded for standard procedures when good and normal practice regarding diagnostic and technical performance is applied.</p>
+      <p n="41">- Dose Constraint: a restriction on the prospective doses to individuals which may result from a defined source, for use at the planning stage in radiation protection whenever optimization is involved.</p>
+      <p n="42">- Exposure: the process of being exposed to ionizing radiation.</p>
+      <p n="43">- Health screening: a procedure using radiological installations for early diagnosis in population groups at risk.</p>
+      <p n="44">- Holder: any natural or legal person who has the legal responsibility under national law for a given radiological installation.</p>
+      <p n="45">- Individual Detriment: clinically observable deleterious effects that are expressed in individuals or their descendants, the appearance of which is either immediate or delayed and, in the latter case, implies a probability rather than a certainty of appearance.</p>
+      <p n="46">- Inspection: inspection is an investigation by any competent authority to verify compliance with national provisions on radiological protection for medical radiological procedures, equipment in use or radiological installations.</p>
+      <p n="47">- Medical Physics Expert: an expert in radiation physics or radiation technology applied to exposure, within the scope of this Directive, whose training and competence to act is recognized by the competent authorities; and who, as appropriate, acts or gives advice on patient dosimetry, on the development and use of complex techniques and equipment, on optimization, on quality assurance, including quality control, and on other matters relating to radiation protection, concerning exposure within the scope of this Directive.</p>
+      <p n="48">- Medical Radiological Procedure: any procedure concerning medical exposure.</p>
+      <p n="49">- Medico-legal procedures: procedures performed for insurance or legal purposes without a medical indication.</p>
+      <p n="50">- Occupational health surveillance: the medical surveillance for workers as specified by Member States or competent authorities.</p>
+      <p n="51">- Patient dose: the dose, concerning patients or other individuals undergoing medical exposure.</p>
+      <p n="52">- Patient dosimetry: the dosimetry concerning patients or other individuals undergoing medical exposure.</p>
+      <p n="53">- Practical Aspects: the physical conduct of any of the exposure referred to in Article 1 (2) and any supporting aspects including handling and use of radiological equipment, and the assessment of technical and physical parameters including radiation doses, calibration and maintenance of equipment, preparation and administration of radio-pharmaceuticals and the development of films.</p>
+      <p n="54">- Practitioner: a medical doctor, dentist or other health professional, who is entitled to take clinical responsibility for an individual medical exposure in accordance with national requirements.</p>
+      <p n="55">- Prescriber: a medical doctor, dentist or other health professional, who is entitled to refer individuals for medical exposure to a practitioner, in accordance with national requirements.</p>
+      <p n="56">- Quality Assurance: all those planned and systematic actions necessary to provide adequate confidence that a structure, system, component or procedure will perform satisfactorily complying with agreed standards.</p>
+      <p n="57">- Quality control: is a part of quality assurance. The set of operations (programming, coordinating, implementing) intended to maintain or to improve quality. It covers monitoring, evaluation and maintenance at required levels of all characteristics of performance of equipment that can be defined, measured, and controlled.</p>
+      <p n="58">- Radiological: pertaining to radiodiagnostic and radiotherapeutic procedures, and interventional radiology or other planning and guiding radiology.</p>
+      <p n="59">- Radiological installation: a facility containing radiological equipment.</p>
+      <p n="60">- Radiodiagnostic: pertaining to in vivo diagnostic nuclear medicine, medical diagnostic radiology, and dental radiology.</p>
+      <p n="61">- Radiotherapeutic: pertaining to radiotherapy including nuclear medicine for therapeutic purposes.</p>
+      <p n="62">Article 3</p>
+      <p n="63">Justification</p>
+      <p n="64">1. Medical exposure referred to in Article 1 (2) shall show a sufficient net benefit, weighing the total potential diagnostic or therapeutic benefits it produces, including the direct health benefits to an individual and the benefits to society, against the individual detriment that the exposure might cause, taking into account the efficacy, benefits and risks of available alternative techniques having the same objective but involving no or less exposure to ionizing radiation.</p>
+      <p n="65">In particular:</p>
+      <p n="66">(a) - all new types of practices involving medical exposure shall be justified in advance before being generally adopted,</p>
+      <p n="67">- existing types of practices involving medical exposure may be reviewed whenever new, important evidence about their efficacy or consequences is acquired.</p>
+      <p n="68">(b) all individual medical exposures shall be justified in advance taking into account the specific objectives of the exposure and the characteristics of the individual involved.</p>
+      <p n="69">If a type of practice involving a medical exposure is not justified in general, a specific individual exposure of this type could be justified in special circumstances, to be evaluated on a case-by-case basis.</p>
+      <p n="70">The prescriber and the practitioner as specified by Member States, shall seek, where practicable, to obtain previous diagnostic information or medical records relevant to the planned exposure and consider these data to avoid unnecessary exposure.</p>
+      <p n="71">(c) medical exposure for biomedical and medical research shall be examined by an ethics committee, set up in accordance with national procedures and/or by the competent authorities.</p>
+      <p n="72">(d) special attention shall be given to the justification of those medical exposures where there is no direct health benefit for the person undergoing the exposure and especially for those exposures on medico-legal grounds.</p>
+      <p n="73">2. Exposure referred to in Article 1 (3) shall show a sufficient net benefit, taking into account also the direct health benefits to a patient, the benefits to individuals referred to in Article 1 (3) and the detriment that the exposure might cause.</p>
+      <p n="74">3. If an exposure can not be justified, it should be prohibited.</p>
+      <p n="75">Article 4</p>
+      <p n="76">Optimization</p>
+      <p n="77">1. (a) All doses due to medical exposure for radiological purposes except radiotherapeutic procedures referred to in Article 1 (2) shall be kept as low as reasonably achievable consistent with obtaining the required diagnostic information, taking into account economic and social factors.</p>
+      <p n="78">(b) For all medical exposure of individuals for radiotherapeutic purposes, as mentioned in Article 1 (2) (a), exposures of target volumes shall be individually planned; taking into account that doses of non-target volumes and tissues shall be as low as reasonably achievable and consistent with the intended radiotherapeutic purpose of the exposure.</p>
+      <p n="79">2. Member States shall:</p>
+      <p n="80">(a) promote the establishment and the use of diagnostic reference levels for radiodiagnostic examinations, as referred to in Article 1 (2) (a), (b), (c) and (e), and the availability of guidance for this purpose having regard to European diagnostic reference levels where available;</p>
+      <p n="81">(b) ensure that for each biomedical and medical research project as mentioned in Article 1 (2) (d):</p>
+      <p n="82">- the individuals concerned shall participate voluntarily,</p>
+      <p n="83">- these individuals shall be informed about the risks of this exposure,</p>
+      <p n="84">- a dose constraint is established for individuals for whom no direct medical benefit is expected from this exposure,</p>
+      <p n="85">- in the case of patients, who voluntarily accept to undergo an experimental diagnostic or therapeutic practice and who are expected to receive a diagnostic or therapeutical benefit from this practice, the target levels of doses shall be planned on an individual basis by the practitioner and/or prescriber;</p>
+      <p n="86">(c) ensure that special attention be given, to keep the dose arising from the medico-legal exposure referred to in Article 1 (2) (e) as low as reasonably achievable.</p>
+      <p n="87">3. The optimization process shall include the selection of equipment, the consistent production of adequate diagnostic information or therapeutic outcome as well as the practical aspects, quality assurance including quality control and the assessment and evaluation of patient doses or administered activities, taking into account economic and social factors.</p>
+      <p n="88">4. Member States shall ensure that:</p>
+      <p n="89">(a) dose constraints are established for exposure, as referred to in Article 1 (3), of those individuals knowingly and willingly helping (other than as part of their occupation) in the support and comfort of patients undergoing medical diagnosis or treatment where appropriate;</p>
+      <p n="90">(b) appropriate guidance is established for exposure as referred to in Article 1 (3);</p>
+      <p n="91">(c) in the case of a patient undergoing a treatment or diagnosis with radionuclides, where appropriate the practitioner or the holder of the radiological installation provides the patient or legal guardian with written instructions, with a view to the restriction of doses to persons in contact with the patient as far as reasonably achievable and to provide information on the risks of ionizing radiation.</p>
+      <p n="92">These instructions shall be handed out before leaving the hospital or clinic or a similar institution.</p>
+      <p n="93">Article 5</p>
+      <p n="94">Responsibilities</p>
+      <p n="95">1. The prescriber as well as the practitioner shall be involved as specified by Member States in the justification process at the appropriate level.</p>
+      <p n="96">2. Member States shall ensure that any medical exposure referred to in Article 1 (2) is effected under the clinical responsibility of a practitioner.</p>
+      <p n="97">3. The practical aspects for the procedure or part of it may be delegated by the holder of the radiological installation or the practitioner, as appropriate, to one or more individuals entitled to act in this respect in a recognized field of specialization.</p>
+      <p n="98">4. Member States shall ensure the laying down of procedures to be observed in case of medico-legal examinations.</p>
+      <p n="99">Article 6</p>
+      <p n="100">Procedures</p>
+      <p n="101">1. Written protocols for every type of standard radiological practice shall be established for each equipment.</p>
+      <p n="102">2. Member States shall ensure that recommendations concerning referral criteria for medical exposure, including radiation doses, are available to the prescribers of medical exposure.</p>
+      <p n="103">3. In radiotherapeutic practices, a medical physics expert shall be closely involved. In standardized therapeutical nuclear medicine practices and in diagnostic nuclear medicine practices, a medical physics expert shall be available. For other radiological practices, a medical physics expert shall be involved, as appropriate, for consultation on optimization including patient dosimetry and quality assurance including quality control, and also to give advice on matters relating to radiation protection concerning medical exposure, as required.</p>
+      <p n="104">4. Clinical audits shall be carried out in accordance with national procedures.</p>
+      <p n="105">5. Member States shall ensure that appropriate local reviews are undertaken whenever diagnostic reference levels are consistently exceeded and that corrective actions are taken where appropriate.</p>
+      <p n="106">Article 7</p>
+      <p n="107">Training</p>
+      <p n="108">1. Member States shall ensure that practitioners and those individuals mentioned in Articles 5 (3) and 6 (3) have adequate theoretical and practical training for the purpose of radiological practices, as well as relevant competence in radiation protection.</p>
+      <p n="109">For this purpose Member States shall ensure that appropriate curricula are established and shall recognize the corresponding diplomas, certificates or formal qualifications.</p>
+      <p n="110">2. Individuals undergoing relevant training programmes may participate in practical aspects for the procedures mentioned in Article 5 (3).</p>
+      <p n="111">3. Member States shall ensure that continuing education and training after qualification is provided and, in the special case of the clinical use of new techniques, the organization of training related to these techniques and the relevant radiation protection requirements.</p>
+      <p n="112">4. Member States shall encourage the introduction of a course on radiation protection in the basic curriculum of medical and dental schools.</p>
+      <p n="113">Article 8</p>
+      <p n="114">Equipment</p>
+      <p n="115">1. Member States shall take such steps as they may consider necessary with a view to avoiding unnecessary proliferation of radiological equipment.</p>
+      <p n="116">2. Member States shall ensure that:</p>
+      <p n="117">- all radiological equipment in use is kept under strict surveillance regarding radiation protection,</p>
+      <p n="118">- an up-to-date inventory of radiological equipment for each radiological installation is available to the competent authorities,</p>
+      <p n="119">- appropriate quality assurance programmes including quality control measures and patient dose or administered activity assessments are implemented by the holder of the radiological installation, and</p>
+      <p n="120">- acceptance testing is carried out before the first use of the equipment for clinical purposes, and thereafter performance testing on a regular basis, and after any major maintenance procedure.</p>
+      <p n="121">3. Competent authorities shall take steps to ensure that necessary measures are taken by the holder of the radiological installation to improve inadequate or defective features of the equipment. They shall also adopt specific criteria of acceptability for equipment in order to indicate when appropriate remedial action is necessary, including, if appropriate, taking the equipment out of service.</p>
+      <p n="122">4. In the case of fluoroscopy, examinations without an image intensification or equivalent techniques are not justified and shall therefore be prohibited.</p>
+      <p n="123">5. Fluoroscopic examinations without devices to control the dose rate shall be limited to justified circumstances.</p>
+      <p n="124">6. If new radiodiagnostical equipment is used, it shall have, where practicable, a device informing the practitioner of the quantity of radiation produced by the equipment during the radiological procedure.</p>
+      <p n="125">Article 9</p>
+      <p n="126">Special Practices</p>
+      <p n="127">1. Member States shall ensure that appropriate radiological equipment, practical techniques and ancillary equipment are used for the medical exposure</p>
+      <p n="128">- of children,</p>
+      <p n="129">- as part of a health screening programme,</p>
+      <p n="130">- involving high doses to the patient, such as interventional radiology, computed tomography or radiotherapy.</p>
+      <p n="131">Special attention shall be given to the quality assurance programmes, including quality control measures and patient dose or administered activity assessment, as mentioned in Article 8, for these practices.</p>
+      <p n="132">2. Member States shall ensure that practitioners and those individuals referred to in Article 5 (3) performing the exposure referred to in the first paragraph obtain appropriate training on these radiological practices as required by Article 7 (1) and (2).</p>
+      <p n="133">Article 10</p>
+      <p n="134">Special protection during pregnancy and breastfeeding</p>
+      <p n="135">1. (a) In the case of a female of childbearing age, the prescriber and the practitioner shall inquire as specified by Member States whether she is pregnant, or breastfeeding, if relevant; and</p>
+      <p n="136">(b) if pregnancy cannot be excluded, depending on the type of medical exposure, in particular if abdominal and pelvic regions are involved, special attention shall be given to the justification, particularly the urgency, and to the optimization of the medical exposure taking into account the exposure both of the expectant mother and the unborn child.</p>
+      <p n="137">2. In the case of breastfeeding females, in nuclear medicine depending on the type of medical examination or treatment, special attention shall be given to the justification, particularly the urgency, and to the optimization of the medical exposure, taking into account the exposure both for the mother and the child.</p>
+      <p n="138">3. Without prejudice to Article 10 (1) and (2), any measure contributing to increasing the awareness of women subject to this Article, such as public notices in appropriate places, could be helpful.</p>
+      <p n="139">Article 11</p>
+      <p n="140">Potential exposure</p>
+      <p n="141">Member States shall ensure that all reasonable steps to reduce the probability and the magnitude of accidental or unintended doses of patients from radiological practices are taken, economic and social factors being taken into account.</p>
+      <p n="142">The main emphasis in accident prevention should be on the equipment and procedures in radiotherapy, but some attention should be paid to accidents with diagnostic equipment.</p>
+      <p n="143">Working instructions and written protocols as referred to in Article 6 (1) and quality assurance programmes as referred to in Article 8 (2) and the criteria referred to in Article 8 (3) are of particular relevance for this purpose.</p>
+      <p n="144">Article 12</p>
+      <p n="145">Estimates of population doses</p>
+      <p n="146">Member States shall ensure that the distribution of individual dose estimates from medical exposure referred to in Article 1 (2) is determined for the population and for relevant reference groups of the population as may be deemed necessary by the Member State.</p>
+      <p n="147">Article 13</p>
+      <p n="148">Inspection</p>
+      <p n="149">Member States shall ensure that a system of inspection as defined in Article 2 enforces the provisions introduced in compliance with this Directive.</p>
+      <p n="150">Article 14</p>
+      <p n="151">Transposition into Member State law</p>
+      <p n="152">1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 13 May 2000. They shall forthwith inform the Commission thereof.</p>
+      <p n="153">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be adopted by Member States.</p>
+      <p n="154">2. Member States shall communicate to the Commission the text of the main laws, regulations or administrative provisions which they adopt in the field covered by this Directive.</p>
+      <p n="155">Article 15</p>
+      <p n="156">Repeal</p>
+      <p n="157">Directive 84/466/Euratom is hereby repealed with effect from 13 May 2000.</p>
+      <p n="158">Article 16</p>
+      <p n="159">This Directive is addressed to the Member States.</p>
+      <p n="160">Done at Luxembourg, 30 June 1997.</p>
+      <p n="161">For the Council</p>
+      <p n="162">The President</p>
+      <p n="163">A. NUIS</p>
+      <p n="164">(1) OJ No C 167, 2. 6. 1997.</p>
+      <p n="165">(2) OJ No C 212, 22. 7. 1996, p. 32.</p>
+      <p n="166">(3) OJ No L 159, 29. 6. 1996, p. 1.</p>
+      <p n="167">(4) OJ No L 265, 5. 10. 1984, p. 1.</p>
+      <p n="168">(5) OJ No L 169, 12. 7. 1993, p. 1.</p>
+      <p n="169">(6) OJ No C 167, 2. 6. 1997.</p>
+      <p n="170">(7) OJ No C 212, 22. 7. 1996, p. 32.</p>
+      <p n="171">(8) OJ No L 159, 29. 6. 1996, p. 1.</p>
+      <p n="172">(9) OJ No L 265, 5. 10. 1984, p. 1.</p>
+      <p n="173">(10) OJ No L 169, 12. 7. 1993, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

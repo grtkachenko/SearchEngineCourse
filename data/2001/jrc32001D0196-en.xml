@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32001D0196-en" n="32001D0196" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0196 English</title>
+        <title>2001/196/EC: Council Decision of 26 February 2001 concerning the conclusion of an Agreement between the European Community and the United States of America renewing a programme of cooperation in higher education and vocational education and training</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0196:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0196:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1074</classCode>
+        <classCode scheme="eurovoc">3489</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">800</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0196-en." lang="en">
+    <body>
+      <head n="1">2001/196/EC: Council Decision of 26 February 2001 concerning the conclusion of an Agreement between the European Community and the United States of America renewing a programme of cooperation in higher education and vocational education and training</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 26 February 2001</p>
+      <p n="4">concerning the conclusion of an Agreement between the European Community and the United States of America renewing a programme of cooperation in higher education and vocational education and training</p>
+      <p n="5">(2001/196/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Articles 149 and 150 in conjunction with Article 300(3), first subparagraph thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Having regard to the opinion of the European Parliament,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) By its Decision of 22 May 2000 the Council authorised the Commission to negotiate Agreements for cooperation in higher education and vocational training between the European Community, Canada and the United States of America.</p>
+      <p n="12">(2) The Community and the United States of America expect to obtain mutual benefit from such cooperation, which must, on the Community's side, be complementary to the bilateral programmes between the Member States and the United States of America and provide a European added value.</p>
+      <p n="13">(3) The Agreement between the European Community and the United States of America renewing a programme of cooperation in higher education and vocational education and training should be approved,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Agreement between the European Community and the United States of America renewing a programme of cooperation in higher education and vocational education and training is hereby approved on behalf of the Community.</p>
+      <p n="17">The text of the Agreement is attached to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The delegation of the European Community to the Joint Committee referred to in Article 6 of the Agreement shall consist of a representative from the Commission assisted by a representative from each Member State.</p>
+      <p n="20">Article 3</p>
+      <p n="21">The President of the Council shall carry out the notification provided for in Article 12 of the Agreement.</p>
+      <p n="22">Done at Brussels, 26 February 2001.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">A. Lindh</p>
+    </body>
+  </text>
+</TEI.2>

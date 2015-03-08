@@ -1,0 +1,44 @@
+<TEI.2 id="jrc31993D0417-en" n="31993D0417" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993D0417 English</title>
+        <title>93/417/EEC: Commission Decision of 21 June 1993 amending the Decision on the Liaison Group on the Elderly</title>
+      </titleStmt>
+      <extent>17 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0417:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0417:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993D0417-en." lang="en">
+    <body>
+      <head n="1">93/417/EEC: Commission Decision of 21 June 1993 amending the Decision on the Liaison Group on the Elderly</head>
+      <p n="2">COMMISSION DECISION of 21 June 1993 amending the Decision on the Liaison Group on the Elderly</p>
+      <p n="3">(93/417/EEC)THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Whereas it is necessary to adapt membership of the Group in the light of developments at Community level,</p>
+      <p n="6">HAS DECIDED AS FOLLOWS:</p>
+      <p n="7">Article 1</p>
+      <p n="8">Commission Decision 91/544/EEC (1) is amended as follows:</p>
+      <p n="9">1. in Article 3 (2) '20' shall be replaced by '25';</p>
+      <p n="10">2. in Article 4 (3) shall '- EPSO - European Platform of Seniors Organizations: 5 seats' shall be added to the list of member organizations of the Liaison Group. A consequential amendment to the Annex to add EPSO to the list of organizations invited to submit candidates shall be made.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This decision shall take effect on 21 June 1993.</p>
+      <p n="13">Done at Brussels, 21 June 1993.</p>
+      <p n="14">For the Commission</p>
+      <p n="15">Padraig FLYNN</p>
+      <p n="16">Member of the Commission</p>
+      <p n="17">(1) OJ No L 296, 26. 10. 1991, p. 42.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32003D0060-en" n="32003D0060" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0060 English</title>
+        <title>2003/60/EC: Commission Decision of 24 January 2003 amending Decision 2000/258/EC designating a specific institute responsible for establishing the criteria necessary for standardising the serological tests to monitor the effectiveness of rabies vaccines, as regards the approval of laboratories in third countries (Text with EEA relevance) (notified under document number C(2003) 325)</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0060:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0060:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">2988</classCode>
+        <classCode scheme="eurovoc">3660</classCode>
+        <classCode scheme="eurovoc">4635</classCode>
+        <classCode scheme="eurovoc">5233</classCode>
+        <classCode scheme="eurovoc">867</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0060-en." lang="en">
+    <body>
+      <head n="1">2003/60/EC: Commission Decision of 24 January 2003 amending Decision 2000/258/EC designating a specific institute responsible for establishing the criteria necessary for standardising the serological tests to monitor the effectiveness of rabies vaccines, as regards the approval of laboratories in third countries (Text with EEA relevance) (notified under document number C(2003) 325)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 24 January 2003</p>
+      <p n="4">amending Decision 2000/258/EC designating a specific institute responsible for establishing the criteria necessary for standardising the serological tests to monitor the effectiveness of rabies vaccines, as regards the approval of laboratories in third countries</p>
+      <p n="5">(notified under document number C(2003) 325)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/60/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Decision 2000/258/EC, of 20 March 2000, designating a specific institute responsible for establishing the criteria necessary for standardising the serological tests to monitor the effectiveness of rabies vaccines(1), and, in particular, Article 4 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Afssa Nancy is the reference laboratory for post-antirabies-vaccination serological testing and is in charge of the organisation of the inter-laboratories aptitude test for the approval of laboratories willing to perform those serological tests.</p>
+      <p n="13">(2) Afssa Nancy has proposed to the Commission that laboratories in third countries which have passed the proficiency test should be approved.</p>
+      <p n="14">(3) It is therefore necessary to provide for a procedure for the communication of the approval of laboratories in third countries.</p>
+      <p n="15">(4) Decision 2000/258/EC should be amended accordingly.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">In Annex II to Decision 2000/258/EC, the fifth indent is replaced by the following:</p>
+      <p n="20">"- collaborate with the laboratories responsible for carrying out these analyses in third countries and communicate to the Commission the list of these laboratories which have passed the inter-laboratory aptitude test (proficiency test). These lists will be published on the following website:</p>
+      <p n="21">http://forum.europa.eu.int/ Public/irc/sanco/vets/information".</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 24 January 2003.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">David Byrne</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 79, 30.3.2000, p. 40.</p>
+    </body>
+  </text>
+</TEI.2>

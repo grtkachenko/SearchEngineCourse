@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32004R0277-en" n="32004R0277" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0277 English</title>
+        <title>Commission Regulation (EC) No 277/2004 of 17 February 2004 concerning the authorisation without a time limit of an additive in feedingstuffs (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0277:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0277:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">4743</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0277-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 277/2004 of 17 February 2004 concerning the authorisation without a time limit of an additive in feedingstuffs (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 277/2004</p>
+      <p n="3">of 17 February 2004</p>
+      <p n="4">concerning the authorisation without a time limit of an additive in feedingstuffs</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs(1), as last amended by Commission Regulation (EC) No 1756/2002(2), and in particular Article 3 and Article 9d(1) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Directive 70/524/EEC provides that no additive may be put into circulation unless a Community authorisation has been granted.</p>
+      <p n="11">(2) Article 3a of Directive 70/524 lays down the requirements for Community authorisation of an additive in feedingstuffs.</p>
+      <p n="12">(3) The use of the enzyme 3-phytase produced by Aspergillus niger (CBS 114.94) is already authorised without a time limit for the animal categories piglets, pigs for fattening, sows, chickens for fattening and laying hens by Commission Regulation (EC) No 1353/2000(3).</p>
+      <p n="13">(4) This additive was provisionally authorised for turkeys for fattening by Commission Regulation (EC) No 2316/98(4).</p>
+      <p n="14">(5) New data were submitted by the producing company in support of an application for authorisation without a time limit of this additive for turkeys for fattening in June 2003.</p>
+      <p n="15">(6) The assessment of this application for authorisation in respect of the use of this additive for turkeys for fattening shows that the conditions provided for in Directive 70/524/EEC for authorisation without time limit are satisfied.</p>
+      <p n="16">(7) The use of this additive for turkeys should therefore be authorised without a time limit.</p>
+      <p n="17">(8) The assessment of the application shows that certain procedures should be required to protect workers from exposure to the additive set out in the Annex. Such protection should be assured by the application of Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work(5), as amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council(6).</p>
+      <p n="18">(9) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="19">HAS ADOPTED THIS REGULATION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">The preparation belonging to the group "Enzymes" as set out in the Annex is authorised for use as additive in animal nutrition under the conditions laid down in that Annex.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 17 February 2004.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">David Byrne</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 270, 14.12.1970, p. 1.</p>
+      <p n="30">(2) OJ L 265, 3.10.2002, p. 1.</p>
+      <p n="31">(3) OJ L 155, 28.6.2000, p. 15.</p>
+      <p n="32">(4) OJ L 289, 28.10.1998, p. 4.</p>
+      <p n="33">(5) OJ L 183, 29.6.1989, p. 1.</p>
+      <p n="34">(6) OJ L 284, 31.10.2003, p. 1.</p>
+      <p n="35">ANNEX</p>
+      <p n="36">"&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

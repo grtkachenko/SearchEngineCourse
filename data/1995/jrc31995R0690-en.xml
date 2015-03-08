@@ -1,0 +1,171 @@
+<TEI.2 id="jrc31995R0690-en" n="31995R0690" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R0690 English</title>
+        <title>Commission Regulation (EC) No 690/95 of 30 March 1995 amending Regulation (EC) No 1091/94 laying down certain detailed rules for the implementation of Council Regulation (EEC) No 3528/86 on the detailed rules for the implementation of Council Regulation (EEC) No 3528/86 on the protection of the Community's forests against atmospheric pollution</title>
+      </titleStmt>
+      <extent>134 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0690:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0690:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1005</classCode>
+        <classCode scheme="eurovoc">2527</classCode>
+        <classCode scheme="eurovoc">3140</classCode>
+        <classCode scheme="eurovoc">5219</classCode>
+        <classCode scheme="eurovoc">6030</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R0690-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 690/95 of 30 March 1995 amending Regulation (EC) No 1091/94 laying down certain detailed rules for the implementation of Council Regulation (EEC) No 3528/86 on the detailed rules for the implementation of Council Regulation (EEC) No 3528/86 on the protection of the Community's forests against atmospheric pollution</head>
+      <p n="2">COMMISSION REGULATION (EC) No 690/95 of 30 March 1995 amending Regulation (EC) No 1091/94 laying down certain detailed rules for the implementation of Council Regulation (EEC) No 3528/86 on the detailed rules for the implementation of Council Regulation (EEC) No 3528/86 on the protection of the Community's forests against atmospheric pollution</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 3528/86 of 17 November 1986 on the protection of Community's forests against atmospheric pollution (1), as last amended by Regulation (EEC) No 2157/92 (2), and in particular Article 3 (2) thereof,</p>
+      <p n="6">Whereas, pursuant to the third indent of Article 2 (1) of Regulation (EEC) No 3528/86, the purpose of the Community scheme is to help the Member States to conduct intensive and continuous surveillance of forest ecosystems on the permanent observation plots;</p>
+      <p n="7">Whereas, pursuant to Article 2 (2) of Regulation (EEC) No 3528/86 the Member States are required to forward to the Commission the data gathered by the network of permanent observation plots for intensive and continuous surveillance;</p>
+      <p n="8">Whereas this network has been installed by the Member States in accordance with Annex I to Commission Regulation (EC) No 1091/94 (3); whereas the common methodology and format for the submission of data for the continuous inventory of the crown condition, the inventory of soil and foliar condition and increment measurements have been laid down in Annexes III to IV to Regulation (EC) No 1091/94;</p>
+      <p n="9">Whereas the measurements of deposition rates and the monitoring of meteorological parameters are already recorded and the common methodology and format for the data submission are to be added to Regulation (EC) No 1091/94;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Standing Forestry Committee,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Regulation (EC) No 1091/94 is hereby amended as follows:</p>
+      <p n="14">1. In Annex II, form 2a the following measures are added:</p>
+      <p n="15">'To establish and execute measurements of deposition rates To establish and execute the monitoring of the meteorologic parameters`.</p>
+      <p n="16">2. Annex III, paragraph II.5 is replaced by the following:</p>
+      <p n="17">'II.5. Data transfer The Member States shall forward to the Commission for each plot this information in standardized forms (see Annex VII, Form 3a and 3b).` 3. Annex VIIa is amended in accordance with the Annex to this Regulation.</p>
+      <p n="18">4. Annexes II and III to this Regulation are added as Annexes VIII and IX.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 30 March 1995.</p>
+      <p n="23">For the Commission Franz FISCHLER Member of the Commission</p>
+      <p n="24">ANNEX I</p>
+      <p n="25">To Annex VIIa of Regulation (EC) No 1091/94 the following part is added:</p>
+      <p n="26">- to paragraph I (Review of File names per survey), the following words are added:</p>
+      <p n="27">&gt;TABLE&gt;</p>
+      <p n="28">- and the last subparagraph is replaced by:</p>
+      <p n="29">'Each filename consists of the two-letter country code (represented by the XX in the list of names), followed by the year of assessment (in the example 1995) or GENER when the information is given once, the dot (.) and in the extension a three-letter code. This three-letter code for the plotfiles consists of the letters PL and the first letter of the assessment Soil, Foliage, Increment, Deposition and Meteorology. This three-letter code for the datafiles consists of two (or one) letter(s) for SOil, FOliage, INcrement, DEposition or MEteorology and one (or two) letter(s) to indicate Mandatory, Optional or the different parts of the increment assessment (EValuation), deposition assessment (Air) or Meteorology (Climate or Damage).</p>
+      <p n="30">If case the datahandling for the plots of the 16 x 16 km gridnet is done at the same place, this may create confusion as similar filenames are sometimes used. In this case the yearcodes in the abovementioned filenames could be increased with 1000 (e.g.XX2995.SOM).` - The following 10 forms (XX1995.PLD, XX1995.DEM, XX1995.DEO, XX1995.DEA, XX1995.PLM, XX1995.MEM, XX1995.MEC, Form 8d, XX1995.MEO, XX1995.MED) are added:</p>
+      <p n="31">&gt;START OF GRAPHIC&gt;</p>
+      <p n="32">Form 7a XX1995.PLD Contents of reduced plot file to be used in combination with the deposition measurements Column See explanation item</p>
+      <p n="33">1 P 4 Sequence number of plots (1 to 9999) 6 P 7 Country Code (France = 01, Belgium = 02, etc.) (1) 9 P 12 Observation plot number (2) 14 Sampler code (37) 16 P 22 Latitude in +DDMMSS (e.g.+505852) (4) 24 P 30 Longitude in (+ or P) DDMMSS (e.g.+035531) (4) 32 P 33 Altitude (in 50 meter classes from 1 to 51) (7) 35 P 40 First date of monitoring period (38) 42 P 47 Final date of monitoring period (38) 49 P 50 Number of (equal) measuring periods (39) 52 P 62 Other observations (word) (12) &gt;END OF GRAPHIC&gt;</p>
+      <p n="34">&gt;START OF GRAPHIC&gt;</p>
+      <p n="35">&gt;END OF GRAPHIC&gt;</p>
+      <p n="36">&gt;START OF GRAPHIC&gt;</p>
+      <p n="37">&gt;END OF GRAPHIC&gt;</p>
+      <p n="38">&gt;START OF GRAPHIC&gt;</p>
+      <p n="39">&gt;END OF GRAPHIC&gt;</p>
+      <p n="40">&gt;START OF GRAPHIC&gt;</p>
+      <p n="41">Form 8a XX1995.PLM Contents of reduced plot file to be used in combination with the meteorologic measurements Column See explanation item</p>
+      <p n="42">1 P 4 Sequence number of plots (1 to 9999) 6 P 7 Country Code (France = 01, Belgium = 02, etc.) (1) 9 P 12 Observation plot number (2) 14 P 15 Site code (41) 17 P 18 Instrument code (42) 20 P 26 Latitude in +DDMMSS (e.g.+505852) (4) 24 P 34 Longitude in (+ or P) DDMMSS (e.g.+035531) (4) 36 P 37 Altitude (in 50 meter classes from 1 to 51) (7) 39 P 44 First date of monitoring period (38) 46 P 51 Final date of monitoring period (38) 53 P 54 Number of (equal) measuring periods (39) 56 P 66 Other observations (word) (99) &gt;END OF GRAPHIC&gt;</p>
+      <p n="43">&gt;START OF GRAPHIC&gt;</p>
+      <p n="44">&gt;END OF GRAPHIC&gt;</p>
+      <p n="45">&gt;START OF GRAPHIC&gt;</p>
+      <p n="46">&gt;END OF GRAPHIC&gt;</p>
+      <p n="47">Form 8d</p>
+      <p n="48">Identified potential damaging events and phenomena per plot per species Country: Latitude: Date of installation:</p>
+      <p n="49">Plot</p>
+      <p n="50">: Longitude: Main species: Altitude:</p>
+      <p n="51">Information obtained during installation</p>
+      <p n="52">Event/phenomena Descriptive definition of event or phenomena 1 2 3 4 5 6 &gt;START OF GRAPHIC&gt;</p>
+      <p n="53">Form 8e XX1995.MEO Contents of datafile with occurrences of identified events/phenomena Column See explanation item</p>
+      <p n="54">1 P 5 Sequence number of occurrences (1 to 99999) 7 P 10 Corresponding plot number (max. 9999) (2) 12 P 13 Site code (41) 15 P 16 Number of identified event/phenomenon (see Form 9d) 18 P 19 Week number in which event/phenomenon took place/started (max 99) (48) 21 P 22 Week number in which event/phenomenon took place/ended (max 99) (48) 24 Indication of extremity (1 = very close according to definition, 2 = extremely long in duration, 3 = extremely intensive, 4 = extremely long and extremely intensive) (*) (49) 26 P 35 Words (*) Details shall be given in an annex to the meteorologic report.</p>
+      <p n="55">&gt;END OF GRAPHIC&gt;</p>
+      <p n="56">&gt;START OF GRAPHIC&gt;</p>
+      <p n="57">Form 8f XX1995.MED Contents of plot file with observed damage caused by meteorologic events/phenomena Column See explanation item</p>
+      <p n="58">1 P 4 Sequence number of plots (1 to 9999) 6 P 7 Country Code (France = 01, Belgium = 02, etc.) (1) 9 P 12 Observation plot/site number (2) 14 P 20 Latitude in +DDMMSS (e.g.+505852) (4) 22 P 28 Longitude in (+ or P) DDMMSS (e.g.+035531) (4) 30 P 31 Altitude (in 50 meter classes from 1 to 51) (7) 33 P 34 Number on events/phenomena list (if any, see form 9d) (50) 36 P 53 Description of observed damage (in words) (50) 55 P 56 Estimated start of occurrence (from week number) (48) 58 P 59 Estimated end of occurrence (to week number) (48) 61 P 71 Other observations (words) (99) &gt;END OF GRAPHIC&gt;</p>
+      <p n="59">- The following points are added to the list:</p>
+      <p n="60">'Information with regard to the deposition monitoring (37) Sampler code The following codes shall be used for the samplers for deposition.</p>
+      <p n="61">1: throughfall 2: bulk deposition 3: wet-only deposition 4: stemflow 5: fog 6: frozen fog (rime) 7: air concentration 9: others Details on the equipment used shall be stated in an Annex to the document with the background information.</p>
+      <p n="62">(37a) Sample quantity The total collected quantity of the sample(s) shall be divided by the catchment area of the collector(s) and shall be reported in mm.</p>
+      <p n="63">(38) First and final dates of the monitoring period The first and final dates of each monitoring period shall be stated on the forms, using the same format as the date of observation, assessment and analysis (see item 3).</p>
+      <p n="64">A monitoring period shall consist of one or more measuring periods. The measuring periods within one monitoring period should have the same length. The minimum length of a measuring period is one week, the maximum one month.</p>
+      <p n="65">When it is necessary to use different measuring periods during the year (e.g. weekly in summer and monthly in winter), two separate monitoring periods shall be identified and the results shall be reported separately on the forms.</p>
+      <p n="66">(39) Number of measuring periods The number of measuring periods in each monitoring period shall be indicated in the forms.</p>
+      <p n="67">(40) Period The measuring period number in which the sample has been collected shall be stated. Each year (on or around 1 January) a new set of measuring periods will be started. When samples from several measuring periods are combined before analysis, the exact details of the mixing shall be stated in the annex to the document with background information. The number of the first measuring period shall be used to indicate the period for analysis (e.g. when the samples from period 9, 10, 11 and 12 are combined into a single sample for the analysis, this sample will be given the period number 9).</p>
+      <p n="68">Information with regard to meteorologic monitoring (41) Site code In and near the plot a number of sites can be identified. As meteorologic instruments can be installed at different sites, each site has to be identified. The exact details of the site are to be included in an annex to the document with the meteorologic evaluation. Examples of possible site codes are:</p>
+      <p n="69">In the plot 1: under canopy at standard meteorologic height (1,50 m) 2: under canopy at height of 2 m (2,00 m) 3: under canpoy at ground level (0,10 m) 4: at canopy height 5: above the canopy 6: under canopy at depth of 20 cm ( P0,20 m) Outside the plot 7: open field, at standard meteorologic height (1,50 m) 8: open field, at ground level (0,10 m) 9: open field, at height of 10,00 m . . . etc.</p>
+      <p n="70">(42) Instrument code The following codes shall be used for the samplers for meteorology:</p>
+      <p n="71">10: manual reading 20: mechanical recording 30: paper recording 40: digital recording (stand alone) 50: digital recording (integrated datalogger) When more instruments of different types, brands, ect. are used, the single numbers can be used (e.g. 11; hair hygrometer, 12 wet/dry bulb).</p>
+      <p n="72">Details on the equipment used shall be stated in an annex to the document with the meteorologic evaluation.</p>
+      <p n="73">(43) Temperatures The temperatures will be stated in °C, using the format of a plus/minus and two digits plus one decimal (e.g. P12,5).</p>
+      <p n="74">(44) Relative Humidity The relative humidity will be stated as the period average, using the format of two digits and one decimal (e.g. 62,5).</p>
+      <p n="75">(45) Wind speed The windspeed will be stated as the average windspeed in metres per second (m/s), using the format of at maximum three digits (e.g. 25).</p>
+      <p n="76">(46) Wind direction Ther predominant wind direction will be stated in ° of the compass rose (North = 0°, East = 90°, South = 180° and West = 270°).</p>
+      <p n="77">(47) Solar Radiation The global solar radiation over the period will be stated in Watts per sq. metre (W/m2).</p>
+      <p n="78">(48) Occurrence weeks The occurrences will be stated in weeks using the standard week numbering. Week 1 starts on or around 1 January. For the occurrence of an event on a single day, the week numbers "from" and "to" are the same.</p>
+      <p n="79">(49) Extremity The extremity of an occurrence will be given a code:</p>
+      <p n="80">1: (Very) close according to the definition of the event/phenomena 2: Extremely long in duration 3: Extremely intensive.</p>
+      <p n="81">4: Extremely long and extremely intensive.</p>
+      <p n="82">(50) Observed damage The number and name under which the damage is mentioned in the Form 8d (if applicable) or a short indication and a reference to a more extensive explanation in the survey or evaluation report (see Annex IX, paragraph II.8) shall be stated. The same report should also include details on extremity, symptoms and spreading of the damage.`</p>
+      <p n="83">ANNEX II</p>
+      <p n="84">To Regulation (EC) No 1091/94 the following Annex VIII is added:</p>
+      <p n="85">'ANNEX VIII COMMON METHODS FOR DEPOSITION MEASUREMENTS ON THE PERMANENT OBSERVATION PLOTS I. Generals remarks The measurements are to be carried out on a selection of the permanent observation plots in a continous way. At least 10 % of the permanent observation plot shall be selected for the monitoring of deposition by the Member States. Measurements on throughfall (under canopy), stem flow (under canopy, in beech) and wet-only or bulk deposition (in an open area in the forest) will be mandatory. The installation of the equipment for the mandatory items shall be completed by December 1995. All other measurements such as: stemflow (in other species than beech), fog and air-concentrations are optional.</p>
+      <p n="86">The depositions monitoring will be done on a fixed period basis (for example monthly or weekly). To reduce analysis costs samples may be combined from a number of consecutive periods.</p>
+      <p n="87">The following technical details are based on the results of the Expert Panel on Deposition of ICP Forests. Reference is made to the manual prepared by this Expert Panel especially regarding specific details of sampling equipment, sampling techniques, quality assurance and data handling.</p>
+      <p n="88">II. Monitoring methodology II.1. Monitoring under the forest canopy Whenever possible the measuring equipment for throughfall shall be installed in the actual plot. To avoid damage to root systems, the parts that have to be installed in pits (collectors, recorders, etc.) could be installed outside the actual plot in the bufferzone. In beech forest equipment shall also be installed for the collection of stemflow. As these collectors should also be stored in a (or the same) pit, it is recommended to select trees outside the actual plot, in for example the bufferzone.</p>
+      <p n="89">The measurements of throughfall and stemflow should be made in such a way that the results are representative for the plot area. This means that a sufficient number of samples should be used.</p>
+      <p n="90">II.2. Monitoring in an open area in the forest At a location near the actual plot (within a distance of 2 km), wet-only and/or bulk deposition collectors shall be installed. The location should be selected in such a way that the surrounding objects are not closer than two times their height.</p>
+      <p n="91">II.3. Measurement period The measuring will be made monthly, weekly or at a time interval between the two, e. g. every two or three weeks, depending mainly on the general weather conditions at the specific plot (evaporation and growth of algae in the sample containers should be avoided).</p>
+      <p n="92">When it is necessary to use different measuring periods during the year (e. g. weekly in summer and monthly in winter), two separate monitoring periods shall be identified and the results shall be reported separately on the forms. Within one monitoring period the lenght of the measuring period shall be constant. The same measuring period shall be used for the monitoring under the forest canopy and the open area monitoring.</p>
+      <p n="93">II.4. Sampling, sample handling Clean collection gauges and containers are to be used for the collection of samples. Deionized water shall be used to rinse the equipment. It is important that the containers are kept away from light and kept cool during the sampling and transport. In sunny and warm conditions preservatives may be added to prevent the growth of algae. In this case only such preservatives should be used that do not interfere with the analysis of any ion of interest.</p>
+      <p n="94">II.5. Pretreatment of samples, transport and storage The volume of each collected sample form each individual throughfall, stemflow or open air collector shall be determined. The samples may be analyzed separately or mixed with samples from parallelly installed equipment of the same type. Throughfall, stemflow or open air samples shall be analyzed separately. Samples from stemflow measurements can only be pooled for trees of the same species and similar size and dominance.</p>
+      <p n="95">Samples from short periods may be analyzed as they are, or can be mixed to monthly samples before analysis. If samples are mixed they should be mixed in proportion to the total sample volume.</p>
+      <p n="96">The samples shall be transported to the laboratory as soon as possible (preferably in cold boxes) and kept in a cold (4 °C) and dark store until analyzed.</p>
+      <p n="97">II.6. General background information The following information shall be collected:</p>
+      <p n="98">- plot number,</p>
+      <p n="99">- sampler code,</p>
+      <p n="100">- first date of monitoring period,</p>
+      <p n="101">- last date of monitoring period,</p>
+      <p n="102">- number of (equal) measuring periods in monitoring period.</p>
+      <p n="103">Additional optional information can be collected, which is useful for the interpretation of the results, such as canopy roughness, leaf area index etc.</p>
+      <p n="104">II.7. Chemical Analysis In each sample the following parameters shall be determined mandatory (Man) or optional (Opt.):</p>
+      <p n="105">&gt;TABLE&gt;</p>
+      <p n="106">II.8. Data transfer The Member States shall forward this information in a standardized form to the Commission for each plot where deposition has been monitored (see Annex VII, Forms 7a, 7b, 7c and 7d).`</p>
+      <p n="107">ANNEX III</p>
+      <p n="108">To Regulation (EC) No 1091/94 the following Annex IX is added:</p>
+      <p n="109">'ANNEX IX COMMON METHODS FOR MEASUREMENTS OF METEOROLOGY ON THE PERMANENT OBSERVATION PLOTS I. General remarks In the period to mid 1996 a test period is foreseen during which, on a voluntary basis, in a limited number of permanent plots (10 %) meteorologic measurements are carried out. In the second half of 1996 an evaluation will take place and the details and intensity of the continuation of the meteorologic measurements will be decided upon. Besides the observations on a limited number of plots, the recording of observed damage caused by meteorologic phenomena should be executed on all permanent observation plots.</p>
+      <p n="110">The meteorologic observations are divided in three parts:</p>
+      <p n="111">A. execution of measurements of actual meteorologic situation on or close to the plot (limited number of plots) B. determination of long-term climatic situation (all plots) and potential damaging events/phenomena (limited number of plots) C. observation of damage of trees in the plot caused by extreme weather situations (all plots) The actual measurements (A) will be carried out on a selection of plots, preferably plots which are also used for the monitoring of deposition (See Annex VIII). The Member States are free in the selection of methods, equipment and frequency of the measurements during the test period. It is foreseen that in the evaluation process recommendations for methods, equipment and frequency are formulated.</p>
+      <p n="112">II. Inventory methodology II.1. Location of sampling equipment The measuring equipment for all monitoring of the meteorologic parameters (A) will be located in or close to the plot. Certain parameters (rainfall, wind, radiation, etc.) have to be measured in an open area in the forest. Other parameters (e.g. soil temperature) may be better monitored under crown cover. In the test period no restrictions nor explicit installation procedures are given. When parameters such as solar radiation, rainfall, etc. are monitored, a sufficiently large "open area in the forest" outside the stand should be selected. This location should be as near as possible, be in similar situation (slope, elevation, etc.) and preferably within a distance of 2 km of the plot.</p>
+      <p n="113">Whenever possible a combination with the equipment for deposition should be made. To avoid disturbances to the roots and soil situation, the equipment should be placed in such a way that the equipment can be reached and maintained without actually passing through the plot.</p>
+      <p n="114">II.2. Methods to measure the actual meteorologic situation in or close to the plot (A) For the test period the Member States are free in the selection of methods, equipment and measuring frequency. On a limited number of plots the meteorologic situation should be monitored.</p>
+      <p n="115">- If possible an intensive continuous meteorologic measuring station should be installed in the limited number of plots. The following parameters are then recommended to be measured in a continuous way:</p>
+      <p n="116">&gt;TABLE&gt;</p>
+      <p n="117">In places where snow is common special snowcollectors should be installed.</p>
+      <p n="118">- As an alternative for situations where no such intensive continuous meteorologic stations can be installed it is recommended to install, on the limited number of plots, equipment to monitor the following parameters with the frequency:</p>
+      <p n="119">&gt;TABLE&gt;</p>
+      <p n="120">In some cases wind and solar radiation information can be obtained from nearby meteo-stations.</p>
+      <p n="121">II.3. Collection, storage and submission of information The following information shall be collected:</p>
+      <p n="122">- plot number,</p>
+      <p n="123">- exact details of the used equipment,</p>
+      <p n="124">- location of the plots (longitude, latitude, altitude) and of equipment (relative to the plot),</p>
+      <p n="125">- start and end dates of the measurements,</p>
+      <p n="126">- frequency (number of periods).</p>
+      <p n="127">The data of the detailed measurements (temperatures, rainfall, wind etc.) should not be reported to the Commission, but kept in safe storage by the Member States. For each plot where the measurements have been executed a summary of the collected measurements shall be compiled and submitted to the Commission by mid 1996. This summary will contain information on a monthly or four-weekly basis, using the forms XX1993.PLM (8a) and XX1993.MEM (8b).</p>
+      <p n="128">II.4. Determination of long-term climatic situation (B) For each plot the long term climatic situation shall be determined as good as possible. As no actual plot data is available, existing data shall be used to estimate the long-term (open area in the forest) climatic situation of the plot. This will be done only once. The results are presented to the Commission using form XX1995.MEC (8c).</p>
+      <p n="129">II.5. Determination of potential damaging events and phenomena (B) For each plot where meteorologic measurements are taken a start shall be made with the preparation of a list of potential damaging events and phenomena. Each event or phenomenon shall be defined in meteorologic terms, using the parameters available for the plot. This list of potential damaging events and phenomena will be continuously updated by the Member States, each time when more information becomes available. The information on events and phenomena shall be reported to the Commission using form XX1995.MEL (8d).</p>
+      <p n="130">II.6. Reporting of pre-defined events and phenomena and its occurrences/extremity (A and B) For the limited number of plots where detailed information has become available the occurrence and extremity of the pre-defined events/phenomena (II.5) will be determined. Of each listed event/phenomenon the number of occurrences and the relative extremity shall be indicated. The occurrences and extremities shall be submitted to the Commission using form XX1995.MEO (8e). In case events/phenomena have been added or changed, the occurrences and extremities of the past years will be updated as well.</p>
+      <p n="131">II.7. Reporting of actually observed damage (C) Whenever during the visits on the plot damage has been observed that has a clear meteorologic cause, this shall be reported to the Commission by mid 1996 using form XX1995.MED (8f).</p>
+      <p n="132">The reporting will include the cause (drought, storm, frost, hail, etc.) the observed damage (foliage loss, breakage or dying of branches or new shoots, etc.) and an estimate of the period in which the event took place.</p>
+      <p n="133">II.8. Evaluation report on meteorology The Member States shall forward to the Commission together with the information in the standardized forms (in digital format) as described in paragraphs II.3, II.4, II.6 and II.7 an evaluation report with the background information on the used methods, models and interpretations of results.</p>
+      <p n="134">For the reporting of the list of the pre-defined events/phenomena (II.5) it is recommended to use a form similar to the example form 8d. These forms could be attached as an annex to the meteorologic evaluation report.`</p>
+    </body>
+  </text>
+</TEI.2>

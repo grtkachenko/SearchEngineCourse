@@ -1,0 +1,66 @@
+<TEI.2 id="jrc41998D0021-en" n="41998D0021" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41998D0021 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 23 June 1998 on the stamping of passports of visa applicants (SCH/Com-ex (98) 21)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0021:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0021:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">5420</classCode>
+        <classCode scheme="eurovoc">5796</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41998D0021-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 23 June 1998 on the stamping of passports of visa applicants (SCH/Com-ex (98) 21)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 23 June 1998</p>
+      <p n="4">on the stamping of passports of visa applicants</p>
+      <p n="5">(SCH/Com-ex (98)21)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 9 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Article 17 of the abovementioned Convention,</p>
+      <p n="9">Whereas it is in the interest of all the Schengen partners to harmonise, by mutual consent, their procedures for issuing visas as part of their common policy on the free movement of persons in order to prevent the same person from lodging multiple visa applications;</p>
+      <p n="10">Desiring to strengthen consular cooperation for the purpose of combating illegal immigration and illegal networks;</p>
+      <p n="11">Based on Chapter VIII of the Common Consular Instructions (CCI)(1) on consular cooperation at local level;</p>
+      <p n="12">Whereas the mutual exchange of information between the Schengen partners on the fact that a visa application has been lodged in one of their states is a means of preventing multiple or consecutive applications;</p>
+      <p n="13">Whereas the affixing of a stamp to identify visa applications is a means of preventing the same person from lodging multiple or successive visa applications;</p>
+      <p n="14">Whereas standardisation of the practice whereby a stamp is affixed to all visa applications irrespective of the country in which these are lodged would help to allay any reluctance that differing practices might create,</p>
+      <p n="15">HAS DECIDED AS FOLLOWS:</p>
+      <p n="16">1. The stamp shall be affixed to the passports of all visa applicants. The competent mission or post which receives the application shall decide whether or not to affix a stamp to diplomatic and service passports.</p>
+      <p n="17">2. The stamp shall contain a third space reserved for the code of the type of visa requested.</p>
+      <p n="18">3. The stamp may also be affixed in the case of applications for long-stay visas.</p>
+      <p n="19">4. The stamp shall be affixed when a Schengen State is representing another Schengen State. In this case, the third space reserved for designating the code of the type of visa requested shall also contain a note indicating that the State is representing another.</p>
+      <p n="20">5. In exceptional circumstances when it is impracticable to affix a stamp, the mission or post of the Presidency-in-office shall inform the relevant Schengen group, after carrying out local consular consultation, and shall submit for the group's approval an alternative proposal, for instance involving the exchange of photocopies of passports or lists of rejected visa applications giving grounds for the refusal.</p>
+      <p n="21">6. As a consequence of point 2, Chapter VIII of the CCI shall be amended as follows: "The exchange of information between missions and posts and the identification of applications by means of a stamp or by other means are aimed at preventing the same person from lodging multiple or successive visa applications, either whilst an application is being examined, or after an application has been refused, with the same mission or post or by a different mission or post.</p>
+      <p n="22">Without prejudice to the consultation which may take place between the missions and posts and the exchange of information which they may carry out, the mission or post with which an application is lodged shall affix to the passports of all visa applicants a stamp stipulating 'Visa applied for on ... at ...'. The space following 'on' shall be filled in with six figures (two for the day, two for the month and two for the year); the second space shall be reserved for the diplomatic mission or consular post concerned; the third space shall be filled in with the code of the type of visa requested.</p>
+      <p n="23">The competent mission or post which receives the application shall decide whether or not to affix a stamp to diplomatic and service passports.</p>
+      <p n="24">The stamp may also be affixed in the case of applications for long-stay visas.</p>
+      <p n="25">When a Schengen State is representing another Schengen State, the third space on the stamp shall show, after the code of the type of visa requested, the indication 'R' followed by the code of the represented State.</p>
+      <p n="26">Where the visa is issued, the sticker shall, as far as possible, be affixed on top of the identification stamp.</p>
+      <p n="27">In exceptional circumstances when it is impracticable to affix a stamp, the mission or post of the Presidency in office shall inform the relevant Schengen group and submit for the group's approval an alternative proposal, for instance involving the exchange of photocopies of passports or lists of rejected visa applications giving grounds for the refusal.</p>
+      <p n="28">The heads of the diplomatic missions or consular posts may, on the initiative of the Presidency, adopt at local level additional preventative measures, if such measures prove necessary."</p>
+      <p n="29">Ostend, 23 June 1998.</p>
+      <p n="30">The Chairman</p>
+      <p n="31">L. Tobback</p>
+      <p n="32">(1) See document SCH/Com-ex (99)13.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,163 @@
+<TEI.2 id="jrc31999R0530-en" n="31999R0530" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0530 English</title>
+        <title>Council Regulation (EC) No 530/1999 of 9 March 1999 concerning structural statistics on earnings and on labour costs</title>
+      </titleStmt>
+      <extent>129 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0530:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0530:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">279</classCode>
+        <classCode scheme="eurovoc">3843</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0530-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 530/1999 of 9 March 1999 concerning structural statistics on earnings and on labour costs</head>
+      <p n="2">COUNCIL REGULATION (EC) No 530/1999 of 9 March 1999 concerning structural statistics on earnings and on labour costs</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 213 thereof,</p>
+      <p n="5">Having regard to the draft Regulation submitted by the Commission,</p>
+      <p n="6">Whereas, in order to carry out the tasks assigned to it, the Commission should be kept informed of the level and composition of labour costs and of the structure and distribution of earnings in the Member States;</p>
+      <p n="7">Whereas the development of the Community and the operation of the internal market increase the need for comparable data on the level and composition of labour costs and on the structure and distribution of earnings, particularly as a means of analysing the progress of economic and social cohesion and for establishing reliable and relevant comparisons between the Member States and the regions of the Community;</p>
+      <p n="8">Whereas the best method of assessing the situation as regards labour costs and earnings is to compile Community statistics using harmonised methods and definitions as has been done on earlier occasions, most recently for 1996 in the case of the level and composition of labour costs pursuant to Regulation (EC) No 23/97 (1) and for 1995 in the case of the structure and distribution of earnings pursuant to Regulation (EC) No 2744/95 (2);</p>
+      <p n="9">Whereas, to reflect changes taking place in the structure of the labour force, in the distribution of earnings, and in the composition of expenditure by enterprises on wages and related employers' contributions, the statistics need to be regularly updated;</p>
+      <p n="10">Whereas, pursuant to Regulation (EC) No 2223/96 (3) the European System of National and Regional Accounts in the European Community (ESA-95) is the term of reference for standards, definitions and accounting practices in the Member States in order to meet the Community needs; whereas this necessitates the establishment of complete, reliable and comparable statistical sources at national and regional level; whereas the levels of breakdown to be applied to the variables are limited to what is necessary to ensure comparability with previous statistics and compatibility with national accounts requirements;</p>
+      <p n="11">Whereas the European Central Bank (ECB) needs information on the level and composition of labour costs and on the structure and distribution of earnings in order to assess the economic development in the Member States in the context of a single European monetary policy;</p>
+      <p n="12">Whereas statistical information in this field is available only in certain Member States and valid comparisons cannot therefore be made; whereas Community statistics should consequently be produced and the results processed on the basis of common definitions and harmonised methodologies, taking into account the standards approved by relevant international organisations;</p>
+      <p n="13">Whereas presently not all Member States collect complete data in sections M (Education), N (Health and social work) and O (Other Community, social and personal service activities); whereas it is therefore appropriate to decide on their possible inclusion in the scope of this Regulation in the light of a report to be submitted by the Commission on the basis of pilot studies on the feasibility of collecting complete data in these sectors;</p>
+      <p n="14">Whereas although the importance of complete data of all segments of the economy should be fully recognised, it should be carefully weighed against the reporting possibilities and the response burden in specific areas, in particular in relation to small and medium-sized enterprises (SMEs); whereas it is therefore appropriate for the Commission to carry out pilot studies on the feasibility of collecting complete data from statistical units with less than ten employees and that the Council decides on this matter in the light of a report to be submitted by the Commission, within four years of the entry into force of this Regulation; whereas the use of administrative records may be helpful in the meanwhile and should be encouraged;</p>
+      <p n="15">Whereas, in accordance with the principle of subsidiarity, the creation of common statistical standards enabling harmonised information to be produced is a proposed action the objectives of which can, by reason of its scale or effects be better achieved by the Community; whereas these standards will be implemented in each Member State on the authority of the agencies and institutions appointed to compile Community statistics;</p>
+      <p n="16">Whereas it seems appropriate to make provisions for exceptions for certain Member States, in order to take account of particular technical difficulties encountered by such States in the collection of certain types of information, provided that the quality of the statistical information is not seriously affected;</p>
+      <p n="17">Whereas the production of specific Community statistics is governed by the rules set out in Council Regulation (EC) No 322/97 of 17 February 1997 on Community Statistics (4);</p>
+      <p n="18">Whereas the Statistical Programme Committee established by Decision 89/382/EEC, Euratom (5) has been consulted in accordance with Article 3 of the aforesaid Decision,</p>
+      <p n="19">HAS ADOPTED THIS REGULATION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">General provisions</p>
+      <p n="22">The national authorities and Eurostat shall produce Community statistics on the level and composition of labour costs and on the structure and distribution of employees' earnings, in the economic activities defined in Article 3.</p>
+      <p n="23">Article 2</p>
+      <p n="24">Reference period</p>
+      <p n="25">1. The statistics on the level and composition of labour costs shall be produced for the calendar year 2000 and at four-yearly intervals thereafter.</p>
+      <p n="26">2. The statistics on the structure and distribution of earnings shall be produced for the calendar year 2002 and for a representative month in that year, and at four-yearly intervals thereafter.</p>
+      <p n="27">Article 3</p>
+      <p n="28">Scope</p>
+      <p n="29">1. The statistics shall cover all economic activities defined in sections C (Mining and quarrying), D (Manufacturing), E (Electricity, gas and water supply), F (Construction), G (Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods), H (Hotels and restaurants), I (Transport, storage and communications), J (Financial intermediation), K (Real estate, renting and business activities), M (Education), N (Health and social work) and section O (Other community, social and personal service activities) of the general industrial classification of economic activities in the European Community, hereinafter referred to as 'NACE Rev. 1` established by Regulation (EEC) No 3037/90 of 9 October 1990 on the statistical classification of economic activities in the European Community (6).</p>
+      <p n="30">2. The inclusion of economic activities defined in sections M (Education), N (Health and social work) and O (Other Community, social and personal service activities) of NACE Rev. 1 in the scope of this Regulation shall be optional for the reference years 2000 and 2002. They may also be made optional for the subsequent years in accordance with the procedure set out in Article 12, taking into account the results of pilot studies in this area, in particular those under Council Regulation (EC, Euratom) No 58/97 of 20 December 1996 concerning structural business statistics (7).</p>
+      <p n="31">Article 4</p>
+      <p n="32">Taking into account the views of the Statistical Programme Committee, the Commission shall, within four years of the date of entry into force of this Regulation, compile a report taking into account the results of pilot studies, in particular, on the basis of existing sources in the area of statistical units with less than ten employees, and submit it to the Council. The report shall assess the application of the provisions of this Regulation relating to units with less than ten employees. The report shall weigh the importance of complete data against the reporting possibilities and the response burden. Following this report the Commission may, if necessary, submit appropriate initiatives to the Council for the amendment of this Regulation.</p>
+      <p n="33">Article 5</p>
+      <p n="34">Statistical units</p>
+      <p n="35">The compilation of the statistics shall be based on local units and enterprises as defined in Council Regulation (EEC) No 696/93 of 15 March 1993 on the statistical units for the observation and analysis of the production system in the Community (8).</p>
+      <p n="36">Article 6</p>
+      <p n="37">Characteristics of the required information</p>
+      <p n="38">1. In the case of statistics on the level and composition of labour costs, information shall be provided at least on:</p>
+      <p n="39">(a) the following characteristics relating to the local unit:</p>
+      <p n="40">- the region (at NUTS 1 level),</p>
+      <p n="41">- the size of the enterprise to which the local unit belongs (classified as one of the following: 10-49, 50-249, 250-499, 500-999, 1 000 or more employees),</p>
+      <p n="42">- the economic activity (at the division level of NACE Rev. 1);</p>
+      <p n="43">(b) the following variables:</p>
+      <p n="44">- total annual labour costs, distinguishing wages and salaries (broken down into direct remuneration and bonuses, payments to employees' savings schemes, payment for days not worked and wages and salaries in kind), the employer's social contributions, (broken down into actual and imputed social contributions), vocational training costs, other expenditure and taxes, and also subsidies directly related to labour costs,</p>
+      <p n="45">- the average annual number of employees, distinguishing full-time employees, part-time employees, and apprentices,</p>
+      <p n="46">- the annual number of hours worked and the annual number of hours paid, in each case distinguishing full-time employees, part-time employees, and apprentices.</p>
+      <p n="47">2. In the case of statistics on the structure and distribution of earnings, information shall be provided at least on:</p>
+      <p n="48">(a) the following characteristics relating to the local unit to which the sampled employees are attached:</p>
+      <p n="49">- the region (at NUTS 1 level),</p>
+      <p n="50">- the size of the enterprise to which the local unit belongs (classified as one of the following: 10-49, 50-249, 250-499, 500-999, 1 000 or more employees),</p>
+      <p n="51">- the economic activity (at the devision level of NACE Rev. 1),</p>
+      <p n="52">- the form of economic and financial control within the meaning of Commission Directive 80/723/EEC of 25 June 1980 on the transparency of financial relations between Member States and public undertakings (9),</p>
+      <p n="53">- the type of collective pay agreement in force;</p>
+      <p n="54">(b) the following characteristics relating to each employee in the sample:</p>
+      <p n="55">- sex,</p>
+      <p n="56">- age,</p>
+      <p n="57">- occupation classified according to the International Standard Classification of Occupations,</p>
+      <p n="58">- highest completed level of education and training,</p>
+      <p n="59">- length of service in the enterprise,</p>
+      <p n="60">- whether full time or part time,</p>
+      <p n="61">- type of employment contract,</p>
+      <p n="62">(c) the following details of earnings:</p>
+      <p n="63">- gross earnings for a representative month (distinguishing separately earnings related to overtime and special payments for shift work),</p>
+      <p n="64">- gross annual earnings in the reference year (distinguishing separately bonuses paid irregularly),</p>
+      <p n="65">- working-time (the number of hours paid in a standard working month, the number of overtime hours paid in the month and the annual leave entitlement).</p>
+      <p n="66">Article 7</p>
+      <p n="67">Data collection</p>
+      <p n="68">1. Surveys shall be carried out through the appropriate national authorities, which shall draw up the appropriate methods for collecting the information, taking into account the response burdens, notably on SMEs.</p>
+      <p n="69">2. Employers and other persons required to supply information shall reply to the questions completely and within the time limits set. The Member States shall take appropriate measures to avoid infringement of the obligation to supply the information referred to in Article 6.</p>
+      <p n="70">3. In order to reduce the burden on enterprises, particularly on SMEs, surveys need not be carried out if the national authorities have information from other appropriate sources or are able to produce estimates of necessary data using statistical estimation procedures where some or all of the characteristics have not been observed for all the units for which the statistics are to be compiled.</p>
+      <p n="71">Article 8</p>
+      <p n="72">Processing of results</p>
+      <p n="73">The national authorities shall process the replies to the questions referred to in Article 7(2) or the information from other sources, as referred to in Article 7(3), so as to obtain comparable results.</p>
+      <p n="74">Article 9</p>
+      <p n="75">Forwarding of results</p>
+      <p n="76">The results shall be forwarded to Eurostat within a period of 18 months from the end of the reference year.</p>
+      <p n="77">Article 10</p>
+      <p n="78">Quality</p>
+      <p n="79">1. The national authorities shall ensure that the results reflect the true situation of the total population of units with a sufficient degree of representativity.</p>
+      <p n="80">2. The national authorities shall forward to Eurostat at its request after each reference period a report containing all relevant information relating to the implementation of the Regulation in the Member State concerned, to enable the quality of the statistics to be evaluated.</p>
+      <p n="81">Article 11</p>
+      <p n="82">Implementation measures</p>
+      <p n="83">The measures necessary for the implementation of this Regulation, including measures to take account of economic and technical changes, and in particular:</p>
+      <p n="84">(i) the treatment of economic activities defined in sections M, N and O of NACE Rev. 1 (Article 3(2));</p>
+      <p n="85">(ii) the definition and breakdown of the information to be provided (Article 6);</p>
+      <p n="86">(iii) the appropriate technical format for the transmission of the results (Article 9);</p>
+      <p n="87">(iv) quality evaluation criteria (Article 10);</p>
+      <p n="88">(v) derogations, in duly justified cases, for periods 2004 and 2006, respectively (Article 13(2)),</p>
+      <p n="89">shall be laid down for each reference period at least nine months before the beginning of the reference period, in accordance with the procedure set out in Article 12.</p>
+      <p n="90">Article 12</p>
+      <p n="91">Procedure</p>
+      <p n="92">1. The Commission shall be assisted by the Statistical Programme Committee, hereinafter referred to as 'the Committee`.</p>
+      <p n="93">2. The representative of the Commission shall submit to the Committee a draft of the measures to be taken. The Committee shall deliver its opinion on the draft within a time limit which the chairman may lay down according to the urgency of the matter. The opinion shall be delivered by the majority laid down in Article 148(2) of the Treaty in the case of decisions which the Council is required to adopt on a proposal from the Commission. The votes of the representatives of the Member States within the Committee shall be weighted in the manner set out in that Article. The chairman shall not vote.</p>
+      <p n="94">3. (a) The Commission shall adopt the measures envisaged if they are in accordance with the opinion of the Committee.</p>
+      <p n="95">(b) If the measures envisaged are not in accordance with the opinion of the Committee, or if no opinion is delivered, the Commission shall, without delay, submit to the Council a proposal relating to the measures to be taken. The Council shall act by a qualified majority.</p>
+      <p n="96">If, on the expiry of a period of three months from the date of referral to the Council, the Council has not acted, the proposed measures shall be adopted by the Commission.</p>
+      <p n="97">Article 13</p>
+      <p n="98">Derogations</p>
+      <p n="99">1. Derogations from the provisions of Articles 2, 3 and 6 for the reference years 2000 and 2002 are set out in the Annex.</p>
+      <p n="100">2. For the years 2004 and 2006, respectively, derogations from Articles 3 and 6 may be decided insofar as the national statistical system requires major adaptations, in accordance with the procedure set out in Article 12.</p>
+      <p n="101">Article 14</p>
+      <p n="102">Entry into force</p>
+      <p n="103">This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="104">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="105">Done at Brussels, 9 March 1999.</p>
+      <p n="106">For the Council</p>
+      <p n="107">The President</p>
+      <p n="108">W. RIESTER</p>
+      <p n="109">(1) OJ L 6, 10. 1. 1997, p. 1.</p>
+      <p n="110">(2) OJ L 287, 30. 11. 1995, p. 3.</p>
+      <p n="111">(3) OJ L 310, 30. 11. 1996, p. 1. Regulation as amended by Regulation (EC) No 448/98 (OJ L 58, 27. 2. 1998, p. 1).</p>
+      <p n="112">(4) OJ L 52, 22. 2. 1997, p. 1.</p>
+      <p n="113">(5) OJ L 181, 28. 6. 1989, p. 47.</p>
+      <p n="114">(6) OJ L 293, 24. 10. 1990, p. 1. Regulation as amended by Regulation (EEC) No 761/93 (OJ L 83, 3. 4. 1993, p. 1).</p>
+      <p n="115">(7) OJ L 14, 17. 1. 1997, p. 1.</p>
+      <p n="116">(8) OJ L 76, 30. 3. 1993, p. 1.</p>
+      <p n="117">(9) OJ L 195, 29. 7. 180, p. 35. Directive as last amended by Directive 93/84/EEC (OJ L 254, 12. 10. 1993, p. 16).</p>
+      <p n="118">ANNEX</p>
+      <p n="119">DEROGATIONS</p>
+      <p n="120">I. Derogations from Article 2</p>
+      <p n="121">1. Germany: the first statistics on the structure and distribution of earnings under this Regulation shall be produced for the reference year 2001 instead of 2002. Subsequent statistics on the structure and distribution of earnings shall be produced for the reference year 2006 and at four-yearly intervals thereafter.</p>
+      <p n="122">2. France, Germany, Ireland, Sweden, and the United Kingdom: the statistics for the reference years 2000 and 2002 may refer to the financial year most closely corresponding to these calendar years, but this will not affect the deadlines for forwarding the data referred to in Article 9.</p>
+      <p n="123">II. Derogations from Article 3</p>
+      <p n="124">1. Germany: the economic activities defined in sections H (Hotels and restaurants), I (Transport, storage and communications) and K (Real estate, renting and business activities) of NACE Rev. 1 shall be optional for the reference years 2000 and 2001.</p>
+      <p n="125">2. Ireland: the economic activities defined in section H (Hotels and restaurants) shall be optional for the reference year 2000.</p>
+      <p n="126">3. Ireland: the economic activities defined in sections I (Transport, storage and communications), division 67 of section J and section K (Real estate, renting and business activities) of NACE Rev. 1 shall be optional for the reference year 2002.</p>
+      <p n="127">III. Derogations from Article 6</p>
+      <p n="128">1. Austria, Belgium, Italy and the Netherlands: for the reference years 2000 and 2002, the characteristics referred to in Article 6 may refer to the enterprise instead of the local unit.</p>
+      <p n="129">2. Italy: for the reference year 2000 the characteristics referred to in Article 6(1)(b): payments to employees' savings schemes, other expenditures and taxes paid and also subsidies received by the employer shall be optional.</p>
+    </body>
+  </text>
+</TEI.2>

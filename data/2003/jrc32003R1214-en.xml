@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32003R1214-en" n="32003R1214" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1214 English</title>
+        <title>Commission Regulation (EC) No 1214/2003 of 7 July 2003 amending Regulation (EC) No 2368/2002 implementing the Kimberley Process certification scheme for the international trade in rough diamonds</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1214:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1214:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">11</classCode>
+        <classCode scheme="eurovoc">2381</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">3584</classCode>
+        <classCode scheme="eurovoc">5481</classCode>
+        <classCode scheme="eurovoc">5542</classCode>
+        <classCode scheme="eurovoc">6609</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1214-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1214/2003 of 7 July 2003 amending Regulation (EC) No 2368/2002 implementing the Kimberley Process certification scheme for the international trade in rough diamonds</head>
+      <p n="2">Commission Regulation (EC) No 1214/2003</p>
+      <p n="3">of 7 July 2003</p>
+      <p n="4">amending Regulation (EC) No 2368/2002 implementing the Kimberley Process certification scheme for the international trade in rough diamonds</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2368/2002 of 20 December 2002 implementing the Kimberley Process certification scheme for the international trade in rough diamonds(1), as last amended by Commission Regulation (EC) No 803/2003(2), and in particular Article 17 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Commission has received an application from the London Diamond Bourse and Club to be listed in Annex V to Regulation (EC) No 2368/2002 (hereafter "the Regulation").</p>
+      <p n="10">(2) The London Diamond Bourse and Club has provided the Commission with information to prove that it has fulfilled the requirements of Article 17 of the Regulation, in particular by adopting a code of conduct that will be binding for all its members.</p>
+      <p n="11">(3) On the basis of the information provided, the Commission has reached the conclusion that listing the London Diamond Bourse and Club in Annex V to the Regulation is justified.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Committee referred to in Article 22 of Regulation (EC) No 2368/2002,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The text contained in the Annex to this Regulation is added to Annex V to Regulation (EC) No 2368/2002.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 7 July 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Christopher Patten</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 358, 31.12.2002, p. 28.</p>
+      <p n="24">(2) OJ L 115, 9.5.2003, p. 53.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">The following text is added to Annex V to Regulation (EC) No 2368/2002:</p>
+      <p n="27">The London Diamond Bourse and Club 100 Hatton Garden London EC1N 8NX United Kingdom</p>
+    </body>
+  </text>
+</TEI.2>

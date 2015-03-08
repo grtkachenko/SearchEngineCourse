@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32002D0957-en" n="32002D0957" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0957 English</title>
+        <title>2002/957/EC: Council Decision of 28 November 2002 on the conclusion of an Agreement in the form of an Exchange of Letters concerning the amendment to the Annexes to the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0957:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0957:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1252</classCode>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1937</classCode>
+        <classCode scheme="eurovoc">2077</classCode>
+        <classCode scheme="eurovoc">2089</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0957-en." lang="en">
+    <body>
+      <head n="1">2002/957/EC: Council Decision of 28 November 2002 on the conclusion of an Agreement in the form of an Exchange of Letters concerning the amendment to the Annexes to the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 28 November 2002</p>
+      <p n="4">on the conclusion of an Agreement in the form of an Exchange of Letters concerning the amendment to the Annexes to the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products</p>
+      <p n="5">(2002/957/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products has been approved by Council Decision 97/132/EC(2).</p>
+      <p n="11">(2) Due to a difference in certification systems between the two Parties, the Parties have not notified each other of the completion of their respective procedures for ratification of the Agreement, as provided for in the second subparagraph of Article 18(1) thereof.</p>
+      <p n="12">(3) Therefore, the Agreement has not entered into force and until it does the Agreement is provisionally applied as agreed by the Agreement in the form of an Exchange of Letters, attached to Council Decision 97/131/EC of 17 December 1996 on the conclusion of an Agreement in the form of an Exchange of Letters concerning the provisional application of the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products(3).</p>
+      <p n="13">(4) Certain amendments to the Annexes to the Agreement concerning certification and recognition of equivalence of certification systems for certain commodities are necessary before the two Parties can complete their respective procedures and notify each other of their completion and before the Agreement can enter into force.</p>
+      <p n="14">(5) The two Parties have confirmed their agreement in principle to the form of an Exchange of Letters and the determination of the sanitary measures applicable to trade in live animal and animal products.</p>
+      <p n="15">(6) The Agreement in the form of an Exchange of Letters should be approved,</p>
+      <p n="16">HAS DECIDED AS FOLLOWS:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The Agreement in the form of an Exchange of Letters concerning amendments to the Annexes to the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products is hereby approved on behalf of the Community.</p>
+      <p n="19">The text of the Agreement in the form of an Exchange of Letters, including the amendments to the Annexes to the Agreement, is attached to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The President of the Council is hereby authorised to designate the person empowered to sign the Agreement in the form of an Exchange of Letters in order to bind the Community.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="24">This Decision shall take effect on the date of publication.</p>
+      <p n="25">Done at Brussels, 28 November 2002.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">M. Fischer Boel</p>
+      <p n="29">(1) Proposal of 16 September 2002 (not yet published in the Official Journal).</p>
+      <p n="30">(2) OJ L 57, 26.2.1997, p. 4. Decision as amended by Decision 1999/837/EC (OJ L 332, 23.12.1999, p. 1).</p>
+      <p n="31">(3) OJ L 57, 26.2.1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

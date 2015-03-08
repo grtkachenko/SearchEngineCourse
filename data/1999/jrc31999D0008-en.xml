@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31999D0008-en" n="31999D0008" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0008 English</title>
+        <title>1999/8/EC: Council Decision of 31 December 1998 adopting the Statutes of the Economic and Financial Committee</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0008:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0008:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4274</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+        <classCode scheme="eurovoc">5729</classCode>
+        <classCode scheme="eurovoc">5943</classCode>
+        <classCode scheme="eurovoc">6049</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0008-en." lang="en">
+    <body>
+      <head n="1">1999/8/EC: Council Decision of 31 December 1998 adopting the Statutes of the Economic and Financial Committee</head>
+      <p n="2">COUNCIL DECISION of 31 December 1998 adopting the Statutes of the Economic and Financial Committee (1999/8/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 153 thereof,</p>
+      <p n="5">Having regard to the opinion of the Commission,</p>
+      <p n="6">Whereas in accordance with Article 109c(2) of the Treaty an Economic and Financial Committee will be set up at the start of the third stage;</p>
+      <p n="7">Whereas the Council adopted on 21 December 1998 a Decision on the composition of the Economic and Financial Committee (1);</p>
+      <p n="8">Recalling that on 16 June 1997 the European Council adopted a resolution on the establishment of an exchange-rate mechanism in the third stage of economic and monetary union (2);</p>
+      <p n="9">Recalling that on 13 December 1997 the European Council adopted a resolution on economic policy coordination in the third stage of economic and monetary union and on Articles 109 and 109b of the Treaty (3);</p>
+      <p n="10">Recalling that, in these resolutions, a certain role was foreseen for the Economic and Financial Committee;</p>
+      <p n="11">Whereas, therefore, the Statutes of the Economic and Financial Committee should be adopted,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Statutes of the Economic and Financial Committee are hereby adopted.</p>
+      <p n="15">The text of the Statutes is set out in the Annex hereto.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="18">It shall take effect as from 1 January 1999.</p>
+      <p n="19">Done at Brussels, 31 December 1998.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">R. EDLINGER</p>
+      <p n="23">(1) OJ L 358, 31. 12. 1998, p. 109.</p>
+      <p n="24">(2) OJ C 236, 2. 8. 1997, p. 5.</p>
+      <p n="25">(3) OJ C 35, 2. 2. 1998, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

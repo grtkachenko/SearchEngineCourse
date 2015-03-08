@@ -1,0 +1,99 @@
+<TEI.2 id="jrc32002R0407-en" n="32002R0407" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0407 English</title>
+        <title>Council Regulation (EC) No 407/2002 of 28 February 2002 laying down certain rules to implement Regulation (EC) No 2725/2000 concerning the establishment of "Eurodac" for the comparison of fingerprints for the effective application of the Dublin Convention</title>
+      </titleStmt>
+      <extent>62 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0407:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0407:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1752</classCode>
+        <classCode scheme="eurovoc">3010</classCode>
+        <classCode scheme="eurovoc">4502</classCode>
+        <classCode scheme="eurovoc">4821</classCode>
+        <classCode scheme="eurovoc">5595</classCode>
+        <classCode scheme="eurovoc">6030</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0407-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 407/2002 of 28 February 2002 laying down certain rules to implement Regulation (EC) No 2725/2000 concerning the establishment of "Eurodac" for the comparison of fingerprints for the effective application of the Dublin Convention</head>
+      <p n="2">Council Regulation (EC) No 407/2002</p>
+      <p n="3">of 28 February 2002</p>
+      <p n="4">laying down certain rules to implement Regulation (EC) No 2725/2000 concerning the establishment of "Eurodac" for the comparison of fingerprints for the effective application of the Dublin Convention</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to Council Regulation (EC) No 2725/2000 of 11 December 2000 concerning the establishment of "Eurodac" for the comparison of fingerprints for the effective application of the Dublin Convention (hereinafter referred to as "the Eurodac Regulation")(1), and in particular Article 22(1) thereof,</p>
+      <p n="7">Whereas:</p>
+      <p n="8">(1) Article 22(1) of the Eurodac Regulation provides for the Council to adopt the implementing provisions necessary for laying down the procedure referred to in Article 4(7), the procedure for the blocking of data referred to in Article 12(1) and for drawing up the statistics referred to in Article 12(2) of the Eurodac Regulation.</p>
+      <p n="9">(2) Denmark, in accordance with Articles 1 and 2 of the Protocol on the position of Denmark annexed to the Treaty on European Union and to the Treaty establishing the European Community, is not participating in the adoption of this Regulation and is therefore neither bound by it nor subject to its application,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Definitions</p>
+      <p n="13">For the purposes of this Regulation:</p>
+      <p n="14">(a) "Central Unit" shall mean the unit referred to in Article 1(2)(a) of the Eurodac Regulation;</p>
+      <p n="15">(b) "database" shall mean the computerised central database referred to in Article 1(2)(b) of the Eurodac Regulation;</p>
+      <p n="16">(c) "comparison" shall mean the procedure of checking whether fingerprint data recorded in the database match those transmitted by a Member State.</p>
+      <p n="17">Article 2</p>
+      <p n="18">Transmission</p>
+      <p n="19">1. Fingerprints shall be digitally processed and transmitted in the data format referred to in Annex I. As far as it is necessary for the efficient operation of the Central Unit, the Central Unit shall establish the technical requirements for transmission of the data format by Member States to the Central Unit and vice versa. The Central Unit shall ensure that the fingerprint data transmitted by the Member States can be compared by the computerised fingerprint recognition system.</p>
+      <p n="20">2. Member States should transmit the data referred to in Article 5(1) of the Eurodac Regulation electronically. As far as it is necessary for the efficient operation of the Central Unit, the Central Unit shall establish the technical requirements to ensure that data can be properly electronically transmitted from the Member States to the Central Unit and vice versa. Transmission of data in paper form using the form set out in Annex II or by other means of data support (diskettes, CD-ROM or other means of data support which may be developed and generally used in future) should be limited to situations in which there are continuous technical problems.</p>
+      <p n="21">3. The reference number referred to in Article 5(1)(d) of the Eurodac Regulation shall make it possible to relate data unambiguously to one particular person and to the Member State which is transmitting the data. In addition, it shall make it possible to tell whether such data relate to an asylum seeker or a person referred to in Article 8 or Article 11 of the Eurodac Regulation. The reference number shall begin with the identification letter or letters by which, in accordance with the norm referred to in Annex I, the Member State transmitting the data is identified. The identification letter or letters shall be followed by the identification of the category of person. "1" refers to data relating to asylum seekers, "2" to persons referred to in Article 8 of the Eurodac Regulation and "3" to persons referred to in Article 11 of the Eurodac Regulation. The Central Unit shall establish the technical procedures necessary for Member States to ensure receipt of unambiguous data by the Central Unit.</p>
+      <p n="22">4. The Central Unit shall confirm receipt of the transmitted data as soon as possible. To this end the Central Unit shall establish the necessary technical requirements to ensure that Member States receive the confirmation receipt if requested.</p>
+      <p n="23">Article 3</p>
+      <p n="24">Carrying out comparisons and transmitting results</p>
+      <p n="25">1. Member States shall ensure the transmission of fingerprint data in an appropriate quality for the purpose of comparison by means of the computerised fingerprint recognition system. As far as it is necessary to ensure that the results of the comparison by the Central Unit reach a very high level of accuracy, the Central Unit shall define the appropriate quality of transmitted fingerprint data. The Central Unit shall, as soon as possible, check the quality of the fingerprint data transmitted. If fingerprint data do not lend themselves to comparison using the computerised fingerprint recognition system, the Central Unit shall, as soon as possible, request the Member State to transmit fingerprint data of the appropriate quality.</p>
+      <p n="26">2. The Central Unit shall carry out comparisons in the order of arrival of requests. Each request must be dealt with within 24 hours. In the case of data which are transmitted electronically, a Member State may for reasons connected with national law require particularly urgent comparisons to be carried out within one hour. Where these times cannot be respected owing to circumstances which are outside the Central Unit's responsibility, the Central Unit shall process the request as a matter of priority as soon as those circumstances no longer prevail. In such cases, as far as it is necessary for the efficient operation of the Central Unit, the Central Unit shall establish criteria to ensure the priority handling of requests.</p>
+      <p n="27">3. As far as it is necessary for the efficient operation of the Central Unit, the Central Unit shall establish the operational procedures for the processing of the data received and for transmitting the result of the comparison.</p>
+      <p n="28">Article 4</p>
+      <p n="29">Communication between Member States and the Central Unit</p>
+      <p n="30">Data transmitted from the Member States to the Central Unit and vice versa shall use IDA generic services referred to in Decision No 1719/1999/EC of the European Parliament and of the Council of 12 July 1999 on a series of guidelines, including the identification of projects of common interest, for trans-European networks for the electronic interchange of data between administrations (IDA)(2). As far as it is necessary for the efficient operation of the Central Unit, the Central Unit shall establish the technical procedures necessary for the use of IDA generic services.</p>
+      <p n="31">Article 5</p>
+      <p n="32">Other tasks of the Central Unit</p>
+      <p n="33">1. The Central Unit shall separate the data on asylum applicants and the data on persons referred to in Article 8 of the Eurodac Regulation which are stored in the database, by appropriate technical means.</p>
+      <p n="34">2. On the basis of a communication from a Member State, the Central Unit shall give an appropriate distinguishing mark to data on persons who have been recognised and admitted as refugees and shall separate them, by appropriate technical means, from other data recorded in the database. If a decision has been taken in accordance with Article 12(2)(a) of the Eurodac Regulation, the first sentence shall no longer apply. The Central Unit shall remove the existing distinguishing marks and cancel separation of the data.</p>
+      <p n="35">3. Four years and six months after Eurodac begins its activities, the Central Unit shall draw up statistics in order to indicate:</p>
+      <p n="36">(a) the number of persons who, having been recognised and admitted as refugees in a Member State, have lodged a further application for asylum in another Member State;</p>
+      <p n="37">(b) the number of persons who have been recognised and admitted as refugees in more than one Member State;</p>
+      <p n="38">(c) the Member States in which the refugees have lodged a further application for asylum, with:</p>
+      <p n="39">- per Member State, the number of applicants for asylum who, having the status of refugee in that State, have applied for asylum in another Member State, and the number of such persons for each of the latter Member States,</p>
+      <p n="40">- per Member State, the number of applicants for asylum who already have the status of refugee in another Member State, and the number of such persons for each of the latter Member States.</p>
+      <p n="41">4. The Central Unit shall ensure that, pursuant to Article 4(4) of the Eurodac Regulation, comparisons carried out at the request of a Member State can also cover the data transmitted by that particular Member State at an earlier time.</p>
+      <p n="42">Article 6</p>
+      <p n="43">Entry into force</p>
+      <p n="44">1. This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="45">2. The Council shall review application of this Regulation within four years following the start of Eurodac's activities.</p>
+      <p n="46">This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaty establishing the European Community.</p>
+      <p n="47">Done at Brussels, 28 February 2002.</p>
+      <p n="48">For the Council</p>
+      <p n="49">The President</p>
+      <p n="50">A. Acebes Paniagua</p>
+      <p n="51">(1) OJ L 316, 15.12.2000, p. 1.</p>
+      <p n="52">(2) OJ L 203, 3.8.1999, p. 1.</p>
+      <p n="53">ANNEX I</p>
+      <p n="54">Data format for the exchange of fingerprint data</p>
+      <p n="55">The following format is prescribed for the exchange of fingerprint data:</p>
+      <p n="56">ANSI/NIST - CSL 1 1993</p>
+      <p n="57">and any future further developments of this standard.</p>
+      <p n="58">Norm for Member State identification letters</p>
+      <p n="59">The following ISO norm will apply:</p>
+      <p n="60">ISO 3166 - 2 letters code.</p>
+      <p n="61">ANNEX II</p>
+      <p n="62">&gt;PIC FILE= "L_2002062EN.000502.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

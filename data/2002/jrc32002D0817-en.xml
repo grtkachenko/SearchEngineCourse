@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32002D0817-en" n="32002D0817" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0817 English</title>
+        <title>2002/817/EC: Council Decision of 23 September 2002 on the conclusion of the Convention between the European Community and the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) concerning aid to refugees in the countries in the Near East (2002 to 2005)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0817:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0817:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2179</classCode>
+        <classCode scheme="eurovoc">3075</classCode>
+        <classCode scheme="eurovoc">3472</classCode>
+        <classCode scheme="eurovoc">3489</classCode>
+        <classCode scheme="eurovoc">3501</classCode>
+        <classCode scheme="eurovoc">4614</classCode>
+        <classCode scheme="eurovoc">807</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0817-en." lang="en">
+    <body>
+      <head n="1">2002/817/EC: Council Decision of 23 September 2002 on the conclusion of the Convention between the European Community and the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) concerning aid to refugees in the countries in the Near East (2002 to 2005)</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 23 September 2002</p>
+      <p n="4">on the conclusion of the Convention between the European Community and the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) concerning aid to refugees in the countries in the Near East (2002 to 2005)</p>
+      <p n="5">(2002/817/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 181 in conjunction with the first subparagraph of Article 300(3), and Article 300(4), thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The 10th Convention(3) concluded with the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) expired on 31 December 2001.</p>
+      <p n="12">(2) The current crisis in the Middle East has put additional burden on UNRWA.</p>
+      <p n="13">(3) The Community assistance to UNRWA is an important element in stabilising the situation in the Middle East and furthermore forms part of the campaign against poverty in developing countries and therefore contributes to the sustainable economic and social development of the population concerned and the host countries in which the population lives.</p>
+      <p n="14">(4) Support of UNRWA operations would be likely to contribute to the attainment of the Community objectives.</p>
+      <p n="15">(5) A new Convention should be concluded with UNRWA so that the Community's aid can continue to be provided as part of a comprehensive programme offering a measure of continuity.</p>
+      <p n="16">(6) The appropriate internal procedure should be established to ensure the proper functioning of the Convention. It is therefore necessary to delegate to the Commission the power to carry out modifications where the Convention provides for modifications to be adopted by simplified procedure (Exchange of Letters),</p>
+      <p n="17">HAS DECIDED AS FOLLOWS:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The Convention between the European Community and the United Nations Relief and Works Agency for Palestine Refugees (UNRWA) concerning aid to refugees in the countries of the Near East (2002 to 2005) is hereby approved on behalf of the Community.</p>
+      <p n="20">The text of the Convention is attached to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">The execution of the Community programme of food aid to UNRWA shall be governed by the procedure defined in Council Regulation (EC) No 1292/96 of 27 June 1996 on food-aid policy and food-aid management and special operations in support of food security(4).</p>
+      <p n="23">Article 3</p>
+      <p n="24">The Commission shall approve, in consultation with a special committee, modifications to the Convention where the Convention provides for modifications to be adopted by way of simplified procedure (Exchange of Letters).</p>
+      <p n="25">Article 4</p>
+      <p n="26">The President of the Council is hereby authorised to designate the persons empowered to sign the Convention in order to bind the Community.</p>
+      <p n="27">Done at Brussels, 23 September 2002.</p>
+      <p n="28">For the Council</p>
+      <p n="29">The President</p>
+      <p n="30">M. Fischer Boel</p>
+      <p n="31">(1) OJ C 203, 27.8.2002, p. 142.</p>
+      <p n="32">(2) Opinion delivered on 3 September 2002 (not yet published in the Official Journal).</p>
+      <p n="33">(3) OJ L 261, 7.10.1999, p. 36.</p>
+      <p n="34">(4) OJ L 166, 5.7.1996, p. 1. Regulation as amended by Regulation (EC) No 1726/2001 (OJ L 234, 1.9.2001, p. 10).</p>
+    </body>
+  </text>
+</TEI.2>

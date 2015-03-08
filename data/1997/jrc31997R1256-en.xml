@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31997R1256-en" n="31997R1256" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1256 English</title>
+        <title>Council Regulation (EC) No 1256/97 of 25 June 1997 amending Regulation No 79/65/EEC setting up a network for the collection of accountancy data on the incomes and business operations of agricultural holdings in the European Economic Community</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1256:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1256:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1021</classCode>
+        <classCode scheme="eurovoc">3424</classCode>
+        <classCode scheme="eurovoc">3682</classCode>
+        <classCode scheme="eurovoc">92</classCode>
+        <classCode scheme="eurovoc">937</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1256-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1256/97 of 25 June 1997 amending Regulation No 79/65/EEC setting up a network for the collection of accountancy data on the incomes and business operations of agricultural holdings in the European Economic Community</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1256/97 of 25 June 1997 amending Regulation No 79/65/EEC setting up a network for the collection of accountancy data on the incomes and business operations of agricultural holdings in the European Economic Community</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas Regulation No 79/65/EEC of the Council of 15 June 1965 setting up a network for the collection of accountancy data on the incomes and business operations of agricultural holdings in the European Economic Community (3), lays down certain restrictions on the use of accountancy data from agricultural holdings and other individual details obtained in implementation of that Regulation; whereas, given the risk that information supplied by a farmer could be used for purposes other than those provided for in the above Regulation, the prohibition on any unauthorized use of such information should be reinforced; whereas, therefore, the Regulation in question should be amended,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Article 15 (1) of Regulation No 79/65/EEC is hereby replaced by the following:</p>
+      <p n="11">'1. It shall be prohibited to use for taxation purposes any individual accountancy data or other individual details obtained in implementation of this Regulation, or to divulge or use such data for purposes other than those specified in Article 1.`</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Luxembourg, 25 June 1997.</p>
+      <p n="16">For the Council</p>
+      <p n="17">The President</p>
+      <p n="18">J. VAN AARTSEN</p>
+      <p n="19">(1) OJ No C 127, 24. 4. 1997, p. 15.</p>
+      <p n="20">(2) OJ No C 167, 2. 6. 1997.</p>
+      <p n="21">(3) OJ No 109, 23. 6. 1965, p. 1859/65. Regulation as last amended by Regulation (EC) No 2801/95 (OJ No L 291, 6. 12. 1995, p. 3).</p>
+    </body>
+  </text>
+</TEI.2>

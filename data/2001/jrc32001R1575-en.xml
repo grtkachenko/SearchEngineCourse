@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32001R1575-en" n="32001R1575" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1575 English</title>
+        <title>Council Regulation (EC) No 1575/2001 of 25 June 2001 on the conclusion of the Fourth Protocol laying down the conditions relating to fishing provided for in the Agreement on fisheries between the European Economic Community, on the one hand, and the Government of Denmark and the local Government of Greenland, on the other</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1575:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1575:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1188</classCode>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">2556</classCode>
+        <classCode scheme="eurovoc">2850</classCode>
+        <classCode scheme="eurovoc">336</classCode>
+        <classCode scheme="eurovoc">5228</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1575-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1575/2001 of 25 June 2001 on the conclusion of the Fourth Protocol laying down the conditions relating to fishing provided for in the Agreement on fisheries between the European Economic Community, on the one hand, and the Government of Denmark and the local Government of Greenland, on the other</head>
+      <p n="2">Council Regulation (EC) No 1575/2001</p>
+      <p n="3">of 25 June 2001</p>
+      <p n="4">on the conclusion of the Fourth Protocol laying down the conditions relating to fishing provided for in the Agreement on fisheries between the European Economic Community, on the one hand, and the Government of Denmark and the local Government of Greenland, on the other</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 37 in conjunction with Article 300(2) and (3) first subparagraph thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Pursuant to Article 2(1) and Article 6 of the Agreement on fisheries between the European Economic Community, on the one hand, and the Government of Denmark and the local Government of Greenland, on the other(3), the Parties have negotiated a Fourth Protocol laying down the conditions relating to fishing provided for in the said Agreement, intended to come into force at the end of the period of application of the Third Protocol.</p>
+      <p n="11">(2) As a result of these negotiations, the new Protocol was initialled on 13 September 2000.</p>
+      <p n="12">(3) Under the new Protocol, Community fishermen will enjoy fishing opportunities in waters under the jurisdiction of Greenland from 1 January 2001 to 31 December 2006.</p>
+      <p n="13">(4) It is in the Community's interests to approve this Protocol,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Fourth Protocol, laying down the conditions relating to fishing provided for in the Agreement on fisheries between the European Economic Community, on the one hand, and the Government of Denmark and the local Government of Greenland, on the other, is hereby approved on behalf of the Community.</p>
+      <p n="17">The text of the Protocol is attached to this Regulation.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The President of the Council is hereby authorised to designate the persons empowered to sign the Protocol in order to bind the Community.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Luxembourg, 25 June 2001.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">A. Lindh</p>
+      <p n="27">(1) OJ C 120 E, 24.4.2001, p. 186.</p>
+      <p n="28">(2) Opinion delivered on 16 May 2001 (not yet published in the Official Journal).</p>
+      <p n="29">(3) OJ L 29, 1.2.1985, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32002D0052-en" n="32002D0052" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0052 English</title>
+        <title>2002/52/EC: Council Decision of 21 January 2002 on the conclusion of an Agreement between the European Community and the Republic of South Africa on trade in spirits</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0052:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0052:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">321</classCode>
+        <classCode scheme="eurovoc">5018</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+        <classCode scheme="eurovoc">614</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0052-en." lang="en">
+    <body>
+      <head n="1">2002/52/EC: Council Decision of 21 January 2002 on the conclusion of an Agreement between the European Community and the Republic of South Africa on trade in spirits</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 21 January 2002</p>
+      <p n="4">on the conclusion of an Agreement between the European Community and the Republic of South Africa on trade in spirits</p>
+      <p n="5">(2002/52/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133, in conjunction with the first sentence of the first subparagraph of Article 300(2) thereof,</p>
+      <p n="8">Having regard to the proposal of the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The Council decided by Decision 1999/753/EC(1), that the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part(2), would enter into force provisionally on 1 January 2000.</p>
+      <p n="11">(2) An Agreement between the European Community and the Republic of South Africa on trade in spirits (hereinafter referred to as the "Agreement") has been negotiated. This Agreement was initialled on 30 November 2001 and should be approved.</p>
+      <p n="12">(3) In order to facilitate the implementation of certain provisions of the Agreement, the Commission should be allowed to make the necessary technical adjustments in accordance with the procedure laid down in Article 15 of Council Regulation (EEC) No 1576/89(3) of 29 May 1989 laying down general rules on the definition, description and presentation of spirit drinks,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Agreement between the European Community and the Republic of South Africa on trade in spirits together with the attached Annex, Protocol and Declarations are hereby approved on behalf of the Community.</p>
+      <p n="16">The texts referred to in the first subparagraph are attached hereto.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is hereby authorised to designate the person(s) empowered to sign the Agreement in order to bind the Community.</p>
+      <p n="19">Article 3</p>
+      <p n="20">For the purpose of applying Articles 5(8) and 16(2) of the Agreement the Commission is hereby authorised, in accordance with the procedure laid down in Article 15 of Regulation (EEC) No 1576/89, to conclude the instruments required to amend the Agreement.</p>
+      <p n="21">Article 4</p>
+      <p n="22">The Commission shall represent the Community in the Joint Committee set up under Article 17 of the Agreement.</p>
+      <p n="23">Done at Brussels, 21 January 2002.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">M. Arias Cañete</p>
+      <p n="27">(1) OJ L 311, 4.12.1999, p. 1.</p>
+      <p n="28">(2) OJ L 311, 4.12.1999, p. 3.</p>
+      <p n="29">(3) OJ L 160, 12.6.1989, p. 1. Regulation as last amended by Regulation (EC) No 3378/94 of the European Parliament and of the Council (OJ L 366, 31.12.1994, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

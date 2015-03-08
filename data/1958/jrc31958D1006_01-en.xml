@@ -1,0 +1,36 @@
+<TEI.2 id="jrc31958D1006_01-en" n="31958D1006(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31958D1006(01) English</title>
+      </titleStmt>
+      <extent>11 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31958D1006(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31958D1006(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31958D1006_01-en." lang="en">
+    <body>
+      <p n="2">DECISION creating the "Official Journal of the European Communities"</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN ECONOMIC COMMUNITY,</p>
+      <p n="4">Having regard to Article 191 of the Treaty establishing the European Economic Community;Having regard to the proposals from the President of the European Parliament and the Presidents of the High Authority, the Commission of the European Economic Community and the Commission of the European Atomic Energy Community;</p>
+      <p n="5">Whereas the European Economic Community, the European Coal and Steel Community and the European Atomic Energy Community should have a joint official journal;</p>
+      <p n="6">HAS DECIDED:</p>
+      <p n="7">to create, as the official journal of the Community within the meaning of Article 191 of the Treaty establishing the European Economic Community, the Official Journal of the European Communities.</p>
+      <p n="8">Done at Brussels, 15 September 1958.</p>
+      <p n="9">For the Council</p>
+      <p n="10">The President</p>
+      <p n="11">ERHARD</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32001D0395-en" n="32001D0395" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0395 English</title>
+        <title>2001/395/EC: Council Decision of 14 May 2001 on the accession of the European Community to the United Nations Economic Commission for Europe Regulation No 13-H on the component approval of passenger cars in respect of their braking</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0395:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0395:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">3641</classCode>
+        <classCode scheme="eurovoc">3709</classCode>
+        <classCode scheme="eurovoc">4654</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+        <classCode scheme="eurovoc">848</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0395-en." lang="en">
+    <body>
+      <head n="1">2001/395/EC: Council Decision of 14 May 2001 on the accession of the European Community to the United Nations Economic Commission for Europe Regulation No 13-H on the component approval of passenger cars in respect of their braking</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 14 May 2001</p>
+      <p n="4">on the accession of the European Community to the United Nations Economic Commission for Europe Regulation No 13-H on the component approval of passenger cars in respect of their braking</p>
+      <p n="5">(2001/395/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Decision 97/836/EC of 27 November 1997 with a view to accession by the European Community to the Agreement of the United Nations Economic Commission for Europe concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions ("Revised 1958 Agreement")(1), and in particular Articles 3(3) and 4(2), second indent thereof,</p>
+      <p n="9">Having regard to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers(2),</p>
+      <p n="10">Having regard to the proposal from the Commission(3),</p>
+      <p n="11">Having regard to the assent of the European Parliament(4),</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) The standardised requirements of Regulation No 13-H of the United Nations Economic Commission for Europe on the component approval of passenger cars in respect of their braking is intended to remove technical barriers to the trade in motor vehicles between the Contracting Parties in respect of braking and ensure a high level of safety and environmental protection.</p>
+      <p n="14">(2) Regulation No 13-H has been notified to the Contracting Parties and has entered into force in respect of all the Contracting Parties who did not serve notice of their disagreement by the date or dates specified in the Regulation annexed to the Revised Agreement of 1958.</p>
+      <p n="15">(3) In order to facilitate the access to the markets of countries outside the Community, it appears appropriate to establish the equivalence of the requirements of Regulation No 13-H with those of Council Directive 71/320/EEC of 26 July 1971 on the approximation of the laws of the Member States relating to the braking devices of certain categories of motor vehicles and their trailers(5).</p>
+      <p n="16">(4) This Regulation should be incorporated into the approval system for motor vehicles and thus be added to the legislation in force within the Community,</p>
+      <p n="17">HAS DECIDED AS FOLLOWS:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The European Community shall accede to Regulation No 13-H of the United Nations Economic Commission for Europe on the component approval of passenger cars in respect of their braking.</p>
+      <p n="20">The text of the Regulation is attached to this Decision(6).</p>
+      <p n="21">Article 2</p>
+      <p n="22">In accordance with the provisions of Article 9(1) of Directive 70/156/EEC, the equivalence of the requirements of Regulation No 13-H of the United Nations Economic Commission for Europe and those of Council Directive 71/320/EEC, shall be recognised.</p>
+      <p n="23">Done at Brussels, 14 May 2001.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">L. Rekke</p>
+      <p n="27">(1) OJ L 346, 17.12.1997, p. 78.</p>
+      <p n="28">(2) OJ L 42, 23.2.1970, p. 1. Directive as last amended by European Parliament and Council Directive 98/91/EC (OJ L 11, 16.1.1999, p. 25).</p>
+      <p n="29">(3) OJ C 215 E, 25.7.2000, p. 46.</p>
+      <p n="30">(4) Assent given on 3 April 2001 (not yet published in the Official Journal).</p>
+      <p n="31">(5) OJ L 202, 6.9.1971, p. 37. Directive as last amended by Commission Directive 98/12/EC (OJ L 81, 18.3.1998, p. 1).</p>
+      <p n="32">(6) This Regulation shall be published in a future Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

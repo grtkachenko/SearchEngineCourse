@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32000R1040-en" n="32000R1040" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1040 English</title>
+        <title>Council Regulation (EC) No 1040/2000 of 16 May 2000 amending Regulation (EC) No 1255/1999 on the common organisation of the market in milk and milk products</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1040:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1040:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1040-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1040/2000 of 16 May 2000 amending Regulation (EC) No 1255/1999 on the common organisation of the market in milk and milk products</head>
+      <p n="2">Council Regulation (EC) No 1040/2000</p>
+      <p n="3">of 16 May 2000</p>
+      <p n="4">amending Regulation (EC) No 1255/1999 on the common organisation of the market in milk and milk products</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Articles 36 and 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Article 31 of Regulation (EC) No 1255/1999(4) provides for refunds on certain products covered by the Regulation if they are exported as goods listed in Annex II thereto, based on the prices for those products in world trade and the difference between those prices and the prices in the Community, within the limits resulting from agreements concluded in accordance with Article 300 of the Treaty.</p>
+      <p n="12">(2) In several agricultural sectors, in particular cereals, sugar, rice and eggs, the Commission has been given responsibility for identifying the goods that can qualify for export refunds, including goods not falling within Annex I of the Treaty, in order to ensure the flexibility needed to make the most efficient use possible of the resources available; it is therefore appropriate to give the Commission the same responsibility for identifying the goods eligible for refunds in the milk products sector,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Article 31(14) of Regulation (EC) No 1255/1999 shall be replaced by the following:</p>
+      <p n="16">"14. Detailed rules for the application of this Article, including the arrangements for redistributing unallocated or unused exportable quantities, and any amendments to Annex II shall be adopted by the Commission in accordance with the procedure laid down in Article 42. However, the detailed rules on the application of paragraphs 8, 10, 11 and 12 for products referred to in Article 1 and exported in the form of goods listed in Annex II to this Regulation shall be adopted in accordance with the procedure laid down in Article 16 of Regulation (EC) No 3448/93."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 16 May 2000.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">L. Capoulas Santos</p>
+      <p n="24">(1) OJ C 89 E, 28.3.2000, p. 31.</p>
+      <p n="25">(2) Opinion delivered on 3 May 2000 (not yet published in the Official Journal).</p>
+      <p n="26">(3) OJ C 75, 15.3.2000, p. 14.</p>
+      <p n="27">(4) OJ L 160, 26.6.1999, p. 48.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,69 @@
+<TEI.2 id="jrc31999R2605-en" n="31999R2605" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2605 English</title>
+        <title>Commission Regulation (EC) No 2605/1999 of 9 December 1999 amending Regulation (EEC) No 3846/87 establishing an agricultural product nomenclature for export refunds</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2605:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2605:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2068</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2605-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2605/1999 of 9 December 1999 amending Regulation (EEC) No 3846/87 establishing an agricultural product nomenclature for export refunds</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2605/1999</p>
+      <p n="3">of 9 December 1999</p>
+      <p n="4">amending Regulation (EEC) No 3846/87 establishing an agricultural product nomenclature for export refunds</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organisation of the market in cereals(1), as last amended by Regulation (EC) No 1253/1999(2), and in particular Article 13 thereof and the corresponding provisions of the other regulations on the common organisation of markets in agricultural products,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EEC) No 3846/87(3), as last amended by Regulation (EC) No 1230/1999(4), establishes, on the basis of the Combined Nomenclature, an agricultural product nomenclature for export refunds;</p>
+      <p n="10">(2) to facilitate the electronic transmission of the data and so reduce costs, the regulations fixing the export refunds for each sector should be presented in a more uniform manner. To this end, the destinations or stable groupings of countries common to several market organisations should be codified and that codification should be inserted into Regulation (EEC) No 3846/87;</p>
+      <p n="11">(3) in addition to the codes for the destinations or stable groupings of countries, codes for third countries are listed in the nomenclature of countries and territories for the Community's statistics for foreign trade and for trade between the Member States. Sectoral regulations may also contain codes for groupings of countries;</p>
+      <p n="12">(4) the measures provided for in this Regulation are in accordance with the opinion of all the Management Committees concerned,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EEC) No 3846/87 is amended as follows:</p>
+      <p n="16">1. In the second sentence of Article 1, the word "Annex" is replaced by "Annex I".</p>
+      <p n="17">2. The following Article 3a is added: "Article 3a</p>
+      <p n="18">The destinations or stable groupings of countries common to several market organisations are codified and listed in Annex II."</p>
+      <p n="19">3. The existing Annex "Agricultural product nomenclature" becomes Annex I.</p>
+      <p n="20">4. The Annex to this Regulation is inserted as Annex II.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Regulation shall enter into force on 1 September 2000.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 9 December 1999.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz FISCHLER</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 181, 1.7.1992, p. 21.</p>
+      <p n="29">(2) OJ L 160, 26.6.1999, p. 18.</p>
+      <p n="30">(3) OJ L 366, 24.12.1987, p. 1.</p>
+      <p n="31">(4) OJ L 149, 16.6.1999, p. 3.</p>
+      <p n="32">ANNEX</p>
+      <p n="33">"ANNEX II</p>
+      <p n="34">Destination codes for export refunds</p>
+      <p n="35">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

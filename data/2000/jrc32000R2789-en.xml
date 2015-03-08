@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32000R2789-en" n="32000R2789" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2789 English</title>
+        <title>Council Regulation (EC) No 2789/2000 of 14 December 2000 extending Regulation (EEC) No 1657/93 temporarily suspending the autonomous Common Customs Tariff duties on certain industrial products intended to equip the free zones of the Azores and Madeira as regards the Madeira free zone</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2789:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2789:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1730</classCode>
+        <classCode scheme="eurovoc">2758</classCode>
+        <classCode scheme="eurovoc">4080</classCode>
+        <classCode scheme="eurovoc">4350</classCode>
+        <classCode scheme="eurovoc">4793</classCode>
+        <classCode scheme="eurovoc">5076</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2789-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2789/2000 of 14 December 2000 extending Regulation (EEC) No 1657/93 temporarily suspending the autonomous Common Customs Tariff duties on certain industrial products intended to equip the free zones of the Azores and Madeira as regards the Madeira free zone</head>
+      <p n="2">Council Regulation (EC) No 2789/2000</p>
+      <p n="3">of 14 December 2000</p>
+      <p n="4">extending Regulation (EEC) No 1657/93 temporarily suspending the autonomous Common Customs Tariff duties on certain industrial products intended to equip the free zones of the Azores and Madeira as regards the Madeira free zone</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 26,</p>
+      <p n="7">Having regard to the proposal of the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Regulation (EEC) No 1657/93(1) establishes, until 31 December 2000, a temporary suspension of autonomous Common Customs Tariffs for certain industrial products intended to equip the free zones of the Azores and Madeira.</p>
+      <p n="10">(2) As provided for in Article 3 of Regulation (EEC) No 1657/93, the Commission, after consulting the competent Portuguese authorities, examined the effects of the measures adopted on the development of the free zone of Caniçal (Madeira), which is at present the only free zone in the outermost regions of Portugal.</p>
+      <p n="11">(3) Initially, these measures had a positive effect on the creation and establishment of new businesses and on the development of a number of industrial activities, especially in the textiles, plastics and glass sectors. More recently, economic conditions and infrastructure problems have led to a slow-down in the emergence of new industries and paralysed part of the processing sector. This situation should come to an end once the free-zone infrastructure and enlargement work presently being carried out is completed, and new innovative processing industries are established, alongside those which perform simpler recycling, packaging and storage tasks.</p>
+      <p n="12">(4) For their part, the Portuguese authorities have expressed an interest in extending these measures for a period of time in no case shorter than that which was previously granted, so as to encourage industrial investment in the Madeira free zone, and thus promote the region's socio-economic development.</p>
+      <p n="13">(5) Upon detailed examination of the situation and the impact of the measures adopted, such an extension of the time-limit on these measures does indeed appear likely to give a further boost to the development of industrial activities in the free zone; the suspension of the autonomous Common Customs Tariffs for capital equipment should therefore be extended, as requested by the Portuguese authorities.</p>
+      <p n="14">(6) Nonetheless, in order to avoid directly affecting the functioning of the common market, a time limit must be set for this measure,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The suspension referred to in Article 1(1) of Regulation (EEC) No 1657/93 shall be extended until 31 December 2008 with regard to the Madeira free zone.</p>
+      <p n="18">Article 2</p>
+      <p n="19">In the course of the year 2008, after consulting the competent Portuguese authorities, the Commission will again examine the effects of the measures adopted on the development of the Madeira free zone and will, if required, make appropriate proposals.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">It shall apply from 1 January 2001.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 14 December 2000.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">J. Glavany</p>
+      <p n="28">(1) OJ L 158, 30.6.1993, p. 1. Regulation as amended by Regulation (EC) No 3256/94 (OJ L 339, 29.12.1994, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

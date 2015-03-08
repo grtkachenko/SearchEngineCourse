@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32004D0332-en" n="32004D0332" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0332 English</title>
+        <title>2004/332/EC: Commission Decision of 2 April 2004 on the application of Council Directive 72/166/EEC with regard to checks on insurance against civil liability in respect of the use of motor vehicles (Text with EEA relevance) (notified under document number C(2004) 1235)</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0332:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0332:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">3303</classCode>
+        <classCode scheme="eurovoc">34</classCode>
+        <classCode scheme="eurovoc">3673</classCode>
+        <classCode scheme="eurovoc">532</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0332-en." lang="en">
+    <body>
+      <head n="1">2004/332/EC: Commission Decision of 2 April 2004 on the application of Council Directive 72/166/EEC with regard to checks on insurance against civil liability in respect of the use of motor vehicles (Text with EEA relevance) (notified under document number C(2004) 1235)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 2 April 2004</p>
+      <p n="4">on the application of Council Directive 72/166/EEC with regard to checks on insurance against civil liability in respect of the use of motor vehicles</p>
+      <p n="5">(notified under document number C(2004) 1235)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/332/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 72/166/EEC of 24 April 1972 on the approximation of the laws of the Member States relating to insurance against civil liability in respect of the use of motor vehicles and to the enforcement of the obligation to insure against such liability(1), and in particular Article 7(3) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The relationships between the national insurers' bureaux (hereinafter the bureaux) of the Member States, and those of the Croatia, Cyprus, the Czech Republic, Hungary, Iceland, Norway, Slovakia, Slovenia and Switzerland are governed by the Multilateral Agreement of 30 May 2002 (hereinafter the Agreement).</p>
+      <p n="13">(2) The Agreement was attached to Commission Decision 2003/564/EC of 28 July 2003 on the application of Council Directive 72/166/EEC relating to checks on insurance against civil liability in respect of the use of motor vehicles(2) which required each Member State to refrain from making checks on insurance against civil liability in respect of vehicles which are normally based in another Member State or in the territories of Croatia, Cyprus, Czech Republic, Hungary, Iceland, Norway, Slovakia, Slovenia and Switzerland and which are subject to the Agreement.</p>
+      <p n="14">(3) On 1 November 2003 the bureaux of the Member States and those of Croatia, Cyprus, Czech Republic, Estonia, Hungary, Iceland, Latvia, Lithuania, Malta, Norway, Poland, Slovakia, Slovenia and Switzerland, signed Addendum No 1 to the Agreement by which the Agreement was extended in order to include the bureaux of Estonia, Latvia, Lithuania, Malta and Poland. The Addendum provides for the practical arrangements to abolish insurance checks in respect of vehicles normally based in the territories of those latter countries.</p>
+      <p n="15">(4) Therefore all the conditions for the removal of checks on motor insurance against third-party civil liability in accordance with Directive 72/166/EEC between the Member States and Estonia, Latvia, Lithuania, Malta and Poland are fulfilled,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">As from 30 April 2004, Member States shall refrain from making checks on insurance against civil liability in respect of vehicles which are normally based in the territory of Estonia, Latvia, Lithuania, Malta and Poland which are subject to Addendum No 1 of 1 November 2003 to the Multilateral Agreement between the national insurers' bureaux of the Member States of the European Economic Area and other associate States.</p>
+      <p n="19">Article 2</p>
+      <p n="20">Member States shall forthwith inform the Commission of measures taken to apply this Decision.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 2 April 2004.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Frederik Bolkestein</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 103, 2.5.1972, p. 1. Directive as last amended by Directive 84/5/EEC (OJ L 8, 11.1.1984, p. 17).</p>
+      <p n="28">(2) OJ L 192, 31.7.2003, p. 23.</p>
+    </body>
+  </text>
+</TEI.2>

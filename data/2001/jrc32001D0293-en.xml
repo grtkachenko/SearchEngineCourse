@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32001D0293-en" n="32001D0293" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0293 English</title>
+        <title>2001/293/EC: Commission Decision of 30 March 2001 amending Council Directive 95/70/EC introducing minimum Community measures for the control of certain diseases affecting bivalve molluscs, in relation to the list of national reference laboratories for diseases of bivalve molluscs (Text with EEA relevance) (notified under document number C(2001) 978)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0293:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0293:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">1961</classCode>
+        <classCode scheme="eurovoc">3660</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0293-en." lang="en">
+    <body>
+      <head n="1">2001/293/EC: Commission Decision of 30 March 2001 amending Council Directive 95/70/EC introducing minimum Community measures for the control of certain diseases affecting bivalve molluscs, in relation to the list of national reference laboratories for diseases of bivalve molluscs (Text with EEA relevance) (notified under document number C(2001) 978)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 30 March 2001</p>
+      <p n="4">amending Council Directive 95/70/EC introducing minimum Community measures for the control of certain diseases affecting bivalve molluscs, in relation to the list of national reference laboratories for diseases of bivalve molluscs</p>
+      <p n="5">(notified under document number C(2001) 978)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/293/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 95/70/EC of 22 December 1995, introducing minimum Community measures for the control of certain diseases affecting bivalve molluscs(1) and in particular Article 9 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Council Directive 95/70/EC, Article 6(2) lays down that Member States shall ensure that in each Member State a national reference laboratory is designated, with facilities and expert personnel enabling it to carry out the testing referred to in paragraph I of the same Article.</p>
+      <p n="13">(2) Paragraph 3 of the same Article lays down that by way of derogation from paragraph 2, Member States which do not have a national laboratory competent in the matter may use the services of a national laboratory with competence in the matter in another Member State.</p>
+      <p n="14">(3) The list of national reference laboratories for diseases of bivalve molluscs is set out in Annex C to Directive 95/70/EC.</p>
+      <p n="15">(4) This list needs to be updated.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Annex C to Directive 95/70/EC is hereby replaced by the Annex hereto.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 30 March 2001.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">David Byrne</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 332, 30.12.1995, p. 33.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">"ANNEX C</p>
+      <p n="29">NATIONAL REFERENCE LABORATORIES FOR DISEASES OF BIVALVE MOLLUSCS</p>
+      <p n="30">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

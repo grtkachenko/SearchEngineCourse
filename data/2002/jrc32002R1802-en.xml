@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32002R1802-en" n="32002R1802" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1802 English</title>
+        <title>Commission Regulation (EC) No 1802/2002 of 10 October 2002 correcting Regulation (EC) No 1282/2002 amending Annexes to Council Directive 92/65/EEC laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(1) to Directive 90/425/EEC (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1802:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1802:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">1937</classCode>
+        <classCode scheme="eurovoc">3408</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1802-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1802/2002 of 10 October 2002 correcting Regulation (EC) No 1282/2002 amending Annexes to Council Directive 92/65/EEC laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(1) to Directive 90/425/EEC (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 1802/2002</p>
+      <p n="3">of 10 October 2002</p>
+      <p n="4">correcting Regulation (EC) No 1282/2002 amending Annexes to Council Directive 92/65/EEC laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(1) to Directive 90/425/EEC</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 92/65/EEC of 13 July 1992 laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(1) to Directive 90/425/EEC(1), as last amended by Commission Regulation (EC) No 1282/2002(2), and in particular Article 22 thereof.</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Regulation (EC) No 1282/2002 was adopted on 15 July 2002 to amend Directive 92/65/EEC.</p>
+      <p n="11">(2) In order to ensure that there was an appropriate period for the amended provisions to be implemented in all Member States, a date of application of Regulation (EC) No 1282/2002 should have been laid down.</p>
+      <p n="12">(3) However, during the adoption process the provision laying down that date was omitted.</p>
+      <p n="13">(4) Regulation (EC) No 1282/2002 should therefore be corrected accordingly.</p>
+      <p n="14">(5) It is necessary for the correction to take effect from the date of entry into force of Regulation (EC) No 1282/2002.</p>
+      <p n="15">(6) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">In Article 2 of Regulation (EC) No 1282/2002, the following second paragraph is inserted: "It shall apply from 1 March 2003."</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">It shall apply from 5 August 2002.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 10 October 2002.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 268, 14.9.1992, p. 54.</p>
+      <p n="28">(2) OJ L 187, 16.7.2002, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31993R3205-en" n="31993R3205" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993R3205 English</title>
+        <title>Council Regulation (EC) No 3205/93 of 16 November 1993 amending Regulation (EEC) No 357/79 on statistical surveys of areas under vines</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R3205:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R3205:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993R3205-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 3205/93 of 16 November 1993 amending Regulation (EEC) No 357/79 on statistical surveys of areas under vines</head>
+      <p n="2">COUNCIL REGULATION (EC) No 3205/93 of 16 November 1993 amending Regulation (EEC) No 357/79 on statistical surveys of areas under vines</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas Article 5 of Regulation (EEC) No 357/79 (3) provides for annual data on vineyard areas collected in intermediate surveys to be forwarded to the Commission;</p>
+      <p n="8">Whereas Article 4 of Council Regulation (EEC) No 2392/86 of 24 July 1986 establishing a Community vineyard register (4), provides for the register to be established within a period of six years following the date of that Regulation's entry into force; whereas the register is beginning to become operational or at least to take on a form that enables it to be used for statistical purposes in some Member States and Community regions, especially as regards the characteristics of areas under vines;</p>
+      <p n="9">Whereas the Member States which have already set up the vineyard register at national level or in some regions and ensure its regular updating in accordance with Article 5 (3) of Regulation (EEC) No 2392/86, can begin to use it for statistical purposes;</p>
+      <p n="10">Whereas the statistical results from the vineyard register annually updated can also be used as the source of annual data, once their statistical reliability has been validated;</p>
+      <p n="11">Whereas it is essential to ensure close cooperation between the Member States and the Commission;</p>
+      <p n="12">Whereas the Treaty lays down that agricultural policies are Community policies; whereas it is necessary to establish general and comprehensive rules valid throughout the Community for the agricultural statistics on which the common agricultural policy is based; whereas the resulting workload must be kept to a minimum by avoiding the same information being collected several times by the Member States,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EEC) No 357/79 is hereby amended as follows:</p>
+      <p n="16">1. the following paragraph shall be added to Article 5:</p>
+      <p n="17">'4a. The Commission shall examine in close collaboration with the Member States concerned whether the conditions governing the use of the data from the vineyard register for statistical purposes have been fulfilled.';</p>
+      <p n="18">2. the following Article shall be inserted:</p>
+      <p n="19">'Article 6a</p>
+      <p n="20">The Member States which have introduced the vineyard register at national level or in some regions and which update it annually, as provided for in Regulation (EEC) No 2392/86, may communicate to the Commission the annual information laid down in</p>
+      <p n="21">Articles 5 and 6 of this Regulation, using the data in the vineyard register as their source.'</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 16 November 1993.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">A. BOURGEOIS</p>
+      <p n="29">(1) OJ No C 219, 13. 8. 1993, p. 19.</p>
+      <p n="30">(2) Opinion delivered on 29 October 1993 (not yet published in the Official Journal).</p>
+      <p n="31">(3) OJ No L 54, 5. 3. 1979, p. 124. Regulation as last amended by Regulation (EEC) No 3570/90 (OJ No L 353, 17. 12. 1990, p. 8).</p>
+      <p n="32">(4) OJ No L 208, 31. 7. 1986, p. 1. Regulation as last amended by Regulation (EEC) No 3577/90 (OJ No L 353, 17. 12. 1990, p. 23).</p>
+    </body>
+  </text>
+</TEI.2>

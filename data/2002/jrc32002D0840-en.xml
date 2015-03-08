@@ -1,0 +1,77 @@
+<TEI.2 id="jrc32002D0840-en" n="32002D0840" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0840 English</title>
+        <title>2002/840/EC: Commission Decision of 23 October 2002 adopting the list of approved facilities in third countries for the irradiation of foods (Text with EEA relevance) (notified under document number C(2002) 3994)</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0840:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0840:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1255</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">321</classCode>
+        <classCode scheme="eurovoc">3660</classCode>
+        <classCode scheme="eurovoc">4085</classCode>
+        <classCode scheme="eurovoc">5287</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0840-en." lang="en">
+    <body>
+      <head n="1">2002/840/EC: Commission Decision of 23 October 2002 adopting the list of approved facilities in third countries for the irradiation of foods (Text with EEA relevance) (notified under document number C(2002) 3994)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 23 October 2002</p>
+      <p n="4">adopting the list of approved facilities in third countries for the irradiation of foods</p>
+      <p n="5">(notified under document number C(2002) 3994)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/840/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Directive 1999/2/EC of the European Parliament and of the Council of 22 February 1999 on the approximation of the laws of the Member States concerning foods and food ingredients treated with ionising radiation(1), and in particular Article 9(2) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) According to Directive 1999/2/EC a foodstuff treated with ionising radiation may not be imported from a third country unless it has been treated in an irradiation facility approved by the Community.</p>
+      <p n="13">(2) The Commission received an application for approval from three irradiation facilities in South Africa and one in Hungary through their competent authorities. Commission experts inspected the irradiation facilities in order to check whether they comply with the requirements of Directive 1999/2/EC and, in particular, if official supervision guarantees that they comply with the requirements of Article 7 of that Directive.</p>
+      <p n="14">(3) The facilities in South Africa and Hungary complied with most of the requirements of Directive 1999/2/EC. The shortcomings identified by the Commission have been adequately addressed by the South African and Hungarian competent authorities. The list to be adopted by this Decision should be kept under regular review.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The list of approved irradiation facilities within the meaning of Article 9(2) of Directive 1999/2/EC is as set out in the Annex to this Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 23 October 2002.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">David Byrne</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 66, 13.3.1999, p. 16.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">List of irradiation facilities in third countries approved by the Community</p>
+      <p n="28">Reference No: EU-AIF 01-2002</p>
+      <p n="29">HEPRO Cape (Pty) Ltd 6 Ferrule Avenue</p>
+      <p n="30">Montague Gardens</p>
+      <p n="31">Milnerton 7441 Western Cape Republic of South Africa Tel: (27-21) 551 24 40 Fax: (27-21) 551 17 66</p>
+      <p n="32">Reference No: EU-AIF 02-2002</p>
+      <p n="33">Gammaster South Africa (Pty) Ltd PO Box 3219 5 Waterpas Street</p>
+      <p n="34">Isando Extension 3</p>
+      <p n="35">Kempton Park 1620</p>
+      <p n="36">Johannesburg Republic of South Africa Tel: (27-11) 974 88 51 Fax: (27-11) 974 89 86</p>
+      <p n="37">Reference No: EU-AIF 03-2002</p>
+      <p n="38">Gamwave (Pty) Ltd PO Box 26406 Isipingo Beach Durban 4115 Kwazulu-Natal Republic of South Africa Tel: (27-31) 902 88 90 Fax: (27-31) 912 17 04</p>
+      <p n="39">Reference No: EU-AIF 04-2002</p>
+      <p n="40">Agroster Besugárzó Részvénytársaság Budapest X Jászberényi út 5 H - 1106 Tel: (36-1) 262 19 22 Fax: (36-1) 262 19 22</p>
+    </body>
+  </text>
+</TEI.2>

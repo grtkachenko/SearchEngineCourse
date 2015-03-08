@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32004R0263-en" n="32004R0263" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0263 English</title>
+        <title>Commission Regulation (EC) No 263/2004 of 16 February 2004 extending for six months the application of Regulation (EC) No 1475/2003 on the protection of deep-water coral reefs from the effects of trawling in an area north-west of Scotland</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0263:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0263:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1050</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">663</classCode>
+        <classCode scheme="eurovoc">997</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0263-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 263/2004 of 16 February 2004 extending for six months the application of Regulation (EC) No 1475/2003 on the protection of deep-water coral reefs from the effects of trawling in an area north-west of Scotland</head>
+      <p n="2">Commission Regulation (EC) No 263/2004</p>
+      <p n="3">of 16 February 2004</p>
+      <p n="4">extending for six months the application of Regulation (EC) No 1475/2003 on the protection of deep-water coral reefs from the effects of trawling in an area north-west of Scotland</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2371/2002 of 20 December 2002 on the conservation and sustainable exploitation of fisheries resources under the common fisheries policy(1), and in particular Article 7(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Immediate threats to the conservation of the aggregations of deep-water corals known as the Darwin Mounds gave rise to the adoption of Commission Regulation (EC) No 1475/2003 of 20 August 2003 on the protection of deep-water coral reefs from the effects of trawling in an area north-west of Scotland(2), on the basis of the emergency procedures provided for in Article 7 of Regulation (EC) No 2371/2002.</p>
+      <p n="10">(2) Regulation (EC) No 2371/2002 states that the emergency measures are to last no more than six months and that the Commission may take a new decision to extend them for an additional period of no more than six months.</p>
+      <p n="11">(3) In order to provide for permanent protection of the habitat concerned, the Commission has submitted a proposal for a Council Regulation amending Regulation (EC) No 850/98(3) as regards the protection of deep-water coral reefs from the effects of trawling in an area north-west of Scotland(4).</p>
+      <p n="12">(4) That Regulation might not be adopted before the expiry date of application of Regulation (EC) No 1475/2003. Meanwhile, the risks for the conservation of the Darwin Mounds persist.</p>
+      <p n="13">(5) It is therefore appropriate to extend for six months the emergency measures provided for in Regulation (EC) No 1475/2003,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The application of Regulation (EC) No 1475/2003 shall be extended until 22 August 2004.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 16 February 2004.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 358, 31.12.2002, p. 59.</p>
+      <p n="25">(2) OJ L 211, 21.8.2003, p. 14.</p>
+      <p n="26">(3) OJ L 125, 27.4.1998, p. 1. Regulation as last amended by Regulation (EC) No 973/2001 (OJ L 137, 19.5.2001, p. 1).</p>
+      <p n="27">(4) COM(2003) 519.</p>
+    </body>
+  </text>
+</TEI.2>

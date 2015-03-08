@@ -1,0 +1,161 @@
+<TEI.2 id="jrc31997L0069-en" n="31997L0069" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997L0069 English</title>
+        <title>Commission Directive 97/69/EC of 5 December 1997 adapting to technical progress for the 23rd time Council Directive 67/548/EEC on the approximation of the laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>124 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0069:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0069:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">6004</classCode>
+        <classCode scheme="eurovoc">720</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997L0069-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 97/69/EC of 5 December 1997 adapting to technical progress for the 23rd time Council Directive 67/548/EEC on the approximation of the laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 97/69/EC of 5 December 1997 adapting to technical progress for the 23rd time Council Directive 67/548/EEC on the approximation of the laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 67/548/EEC of 27 June 1967 on the approximation of the laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (1), as last amended by Directive 95/56/EC of the European Parliament and the Council (2), and in particular Article 28 thereof,</p>
+      <p n="6">Whereas Annex I to Directive 67/548/EEC contains a list of dangerous substances, together with particulars of the classification and labelling in respect of each substance or group of substances;</p>
+      <p n="7">Whereas laboratory studies have shown that certain man-made vitreous (silicate) fibres have carcinogenic effects; whereas epidemiological surveys have raised concern over the health effects of man-made vitreous (silicate) fibres;</p>
+      <p n="8">Whereas the list of dangerous substances contained in Annex I to that Directive should therefore be adapted and enlarged, particularly to include certain man-made vitreous (silicate) fibres; whereas in consequence it is necessary to amend the Foreword to Annex I so as to include notes and particulars relating to the identification, classification and labelling of man-made vitreous (silicate) fibres;</p>
+      <p n="9">Whereas in the current state of knowledge, it seems justified under certain circumstances to exclude some man-made vitreous (silicate) fibres from classification as a carcinogen; whereas this possibility should be reviewed in the light of scientific and technical developments, in particular in the area of carcinogenicity testing;</p>
+      <p n="10">Whereas the abbreviation 'EEC` appears in certain provisions of Annexes I and VI to Directive 67/548/EEC;</p>
+      <p n="11">Whereas Article G of the Treaty on European Union has replaced the term 'European Economic Community` with the term 'European Community`; whereas the abbreviation 'EEC` should therefore be replaced by the abbreviation 'EC` in the abovementioned provisions;</p>
+      <p n="12">Whereas Directive 96/56/EC has amended Articles 21 and 23 of Directive 67/548/EEC accordingly and allows the placing on the market of dangerous substances whose labels bear an 'EEC number` and the words 'EEC label` until 31 December 2000;</p>
+      <p n="13">Whereas the measures provided for in this Directive are in accordance with the opinion of the Committee on the Adaptation to Technical Progress of the Directives for the Elimination of Technical Barriers to Trade in Dangerous Substances and Preparations,</p>
+      <p n="14">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Directive 67/548/EEC is hereby amended as follows:</p>
+      <p n="17">1. Annex I is amended as follows:</p>
+      <p n="18">(a) The fifth paragraph of the chapter entitled 'Nomenclature` of the Foreword is replaced by the following text:</p>
+      <p n="19">'Article 23 (2) (a) requires that for substances appearing in Annex I, the name of the substance to be used on the label should be one of the designations given in the Annex. For certain substances, additional information has been added in square brackets in order to help identify the substance. This additional information need not be included on the label.`;</p>
+      <p n="20">(b) Note A in the Foreword is replaced by the following text:</p>
+      <p n="21">'Note A:</p>
+      <p n="22">The name of the substance must appear on the label in the form of one of the designations given in Annex I (see Article 23 (2) (a)).</p>
+      <p n="23">In Annex I, use is sometimes made of a general description such as ". . . compounds" or ". . . salts". In this case, the manufacturer or any other person who markets such a substance is required to state on the label the correct name, due account being taken of the chapter "Nomenclature" of the Foreword:</p>
+      <p n="24">Example: for BeCl2: beryllium chloride.`;</p>
+      <p n="25">(c) The following Notes Q and R are added to the Foreword:</p>
+      <p n="26">'Note Q:</p>
+      <p n="27">The classification as a carcinogen need not apply if it can be shown that the substance fulfils one of the following conditions:</p>
+      <p n="28">- a short-term biopersistence test by inhalation has shown that the fibres longer than 20 ìm have a weighted half life less than 10 days, or</p>
+      <p n="29">- a short-term biopersistence test by intratracheal instillation has shown that the fibres longer than 20 ìm have a weighted half life less than 40 days, or</p>
+      <p n="30">- an appropriate intra-peritoneal test has shown no evidence of excess carcinogenicity, or</p>
+      <p n="31">- absence of relevant pathogenicity or neoplastic changes in a suitable long term inhalation test.</p>
+      <p n="32">Note R:</p>
+      <p n="33">The classification as a carcinogen need not apply to fibres with a length weighted geometric mean diameter less two standard errors greater than 6 ìm.`;</p>
+      <p n="34">(d) The entries in the Annex to this Directive are added;</p>
+      <p n="35">(e) All references to 'EEC number` are replaced by 'EC number`.</p>
+      <p n="36">2. Annex VI is amended as follows:</p>
+      <p n="37">(a) All reference to 'EEC number` are replaced by 'EC number`;</p>
+      <p n="38">(b) All references to 'EEC label` are replaced by 'EC label`.</p>
+      <p n="39">Article 2</p>
+      <p n="40">During the period of five years after entry into force of this Directive, the Commission shall evaluate scientific developments and adopt measures to delete or amend Note Q.</p>
+      <p n="41">Article 3</p>
+      <p n="42">1. Not later than 16 December 1998, Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive. Member States shall immediately inform the Commission thereof.</p>
+      <p n="43">When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="44">2. Notwithstanding Article 1, Member States shall permit the placing on the market of substances whose labels bear the words 'EEC number` or the words 'EEC label` until 31 December 2000.</p>
+      <p n="45">Article 4</p>
+      <p n="46">This Directive shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="47">Article 5</p>
+      <p n="48">This Directive is addressed to the Member States.</p>
+      <p n="49">Done at Brussels, 5 December 1997.</p>
+      <p n="50">For the Commission</p>
+      <p n="51">Ritt BJERREGAARD</p>
+      <p n="52">Member of the Commission</p>
+      <p n="53">(1) OJ L 196, 16. 8. 1967, p. 1.</p>
+      <p n="54">(2) OJ L 236, 18. 9. 1996, p. 35.</p>
+      <p n="55">ANNEX</p>
+      <p n="56">CAS No -</p>
+      <p n="57">EC No -</p>
+      <p n="58">No 650-016-00-2</p>
+      <p n="59">Nota A</p>
+      <p n="60">Nota Q</p>
+      <p n="61">Nota R</p>
+      <p n="62">ES: Lanas minerales, excepto aquellas indicadas específicamente en este anexo;</p>
+      <p n="63">[Fibra vítreas artificiales (silicatos) con una orientación aleatoria y cuyo contenido en óxidos alcalinos y óxidos alcalino-térreos (Na2O+K2O+CaO+MgO+BaO) sea superior al 18 % en peso]</p>
+      <p n="64">DA: Mineraluld, undtagen sådanne nævnt andetsteds i dette bilag;</p>
+      <p n="65">[Syntetiske glasagtige (silikat) fibre uden bestemt orientering og med et indhold af alkaliske oxider og alkaliske jordarters oxider (Na2O+K2O+CaO+MgO+BaO) på over 18 vægtprocent]</p>
+      <p n="66">DE: Mineralwolle, soweit in diesem Anhang nicht gesondert aufgeführt;</p>
+      <p n="67">[Künstlich hergestellte ungerichtete glasige (Silikat-) Fasern mit einem Anteil an Alkali- und Erdalkalimetalloxiden (Na2O+ K2O+CaO+MgO+BaO) von über 18 Gewichtsprozent]</p>
+      <p n="68">EL: ÏñõêôÝò ßíåò, åîáéñïõìÝíùí áõôþí ðïõ êáôïíïìÜæïíôáé óå Üëëï óçìåßï áõôïý ôïõ ÐáñáñôÞìáôïò.</p>
+      <p n="69">[Ôå÷íçôÝò õáëþäåéò (ðõñéôéêÝò) ßíåò Üôáêôïõ ðñïóáíáôïëéóìïý ìå ðåñéåêôéêüôçôá óå ïîåßäéá áëêáëßùí êáé áëêáëéêþí ãáéþí (Na2O+K2O+CaO+MgO+BaO) áíþôåñç ôïõ 18 % êáôÜ âÜñïò].</p>
+      <p n="70">EN: Mineral wool, with the exception of those specified elsewhere in this Annex;</p>
+      <p n="71">[Man-made vitreous (silicate) fibres with random orientation with alkaline oxide and alkali earth oxide (Na2O+K2O+CaO+ MgO+BaO) content greater than 18 % by weight]</p>
+      <p n="72">FR: Laines minérales, à l'exception de celles nommément désignées dans cette annexe;</p>
+      <p n="73">[Fibres (de silicates) vitreuses artificielles à orientation aléatoire, dont le pourcentage pondéral d'oxydes alcalins et d'oxydes alcalino-terreux (Na2O+K2O+CaO+MgO+BaO) est supérieur à 18 %]</p>
+      <p n="74">IT: Lane minerali, escluse quelle espressamente indicate in questo allegato;</p>
+      <p n="75">[Fibre artificiali vetrose (silicati), che presentano un'orientazione casuale e un tenore di ossidi alcalini e ossidi alcalino-terrosi (Na2O+K2O+CaO+MgO+BaO) superiore al 18 % in peso]</p>
+      <p n="76">NL: Minerale vezels, met uitzondering van in deze bijlage met name genoemde;</p>
+      <p n="77">[Kunstmatige (silicaat)glasvezels met een willekeurige oriëntatie en een gehalte aan alkali- en aardalkali-oxiden (Na2O+ K2O+CaO+MgO+BaO) van meer dan 18 gewichtspercenten]</p>
+      <p n="78">PT: Lã mineral, com excepção das expressamente referidas no presente anexo;</p>
+      <p n="79">[Fibras de vidro (silicatos) sintéticas com orientação aleatória e um teor ponderal de óxidos de elementos alcalinos e alcalino-terrosos (Na2O+K2O+CaO+MgO+BaO) superior a 18 %]</p>
+      <p n="80">FI: Mineraalikuidut, paitsi muualla tässä liitteessä mainitut;</p>
+      <p n="81">[Keinotekoiset säännöttömästi suuntautuneet lasimaiset (silikaatti) kuidut, joiden alkalioksidija maa-alkaalioksidipitoisuus (Na2O+K2O+CaO+MgO+BaO) on yli 18 painoprosenttia]</p>
+      <p n="82">SV: Mineralull, förutom det på andra ställen i bilagan nämnda;</p>
+      <p n="83">[Syntetiska glasaktiga (silikat) fibrer slumpvis ordnade vars totala innehåll av oxider av alkalimetaller och alkaliska jordartsmetaller (Na2O+K2O+CaO+MgO+BaO), överstiger 18 viktprocent]</p>
+      <p n="84">Clasificación, Klassificering, Einstufung, Ôáîéíüìçóç, Classification, Classification, Classificazione, Indeling, Classificação, Luokitus, Klassificering</p>
+      <p n="85">Carc. Cat. 3; R40 Xi; R38Etiquetado, Etikettering, Kennzeichnung, ÅðéóÞìáíóç, Labelling, Étiquetage, Etichettatura, Kenmerken, Rotulagem, Merkinnät, Märkning</p>
+      <p n="86">Xn</p>
+      <p n="87">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="88">R: 38-40</p>
+      <p n="89">S: (2-)36/37</p>
+      <p n="90">Límites de concentración, Koncentrationsgrænser, Konzentrationsgrenzwerte, ¼ñéá óõãêÝíôñùóçò, Concentration Limits, Limites de concentration, Limiti di concentrazione, Concentratiegrenzen, Limites de concentração, Pitoisuusrajat, Koncentrationsgränser</p>
+      <p n="91">CAS No -</p>
+      <p n="92">EC No -</p>
+      <p n="93">No 650-017-00-8</p>
+      <p n="94">Nota A</p>
+      <p n="95">Nota R</p>
+      <p n="96">ES: Fibras cerámicas refractarias; fibras para usos especiales, excepto aquellas expresamente citadas en este anexo;</p>
+      <p n="97">[Fibras vítreas artificiales (silicatos) con una orientación aleatoria y cuyo contenido en óxidos alcalinos y óxidos alcalino-térreos (Na2O+K2O+CaO+MgO+BaO) sea inferior o igual al 18 % en peso]</p>
+      <p n="98">DA: Keramiske fibre; special fibre, undtagen sådanne nævnt andetsteds i dette bilag;</p>
+      <p n="99">[Syntetiske glasagtige (silikat) fibre uden bestemt orientering og med et indhold af alkaliske oxider og alkaliske jordarters oxider (Na2O+K2O+CaO+MgO+BaO) på 18 vægtprocent og derunder]</p>
+      <p n="100">DE: Keramische Mineralfasern; Fasern für spezielle Anwendungen, soweit in diesem Anhang nicht gesondert aufgeführt;</p>
+      <p n="101">[Künstlich hergestellte ungerichtete glasige (Silikat-) Fasern mit einem Anteil an Alkali- und Erdalkalimetalloxiden (Na2O+ K2O+CaO+MgO+BaO) von weniger oder gleich 18 Gewichtsprozent]</p>
+      <p n="102">EL: ÄéáèëáóôéêÝò êåñáìéêÝò ßíåò 7 ßíåò ãéá åéäéêïýò óêïðïýò åîáéñïõìÝíùí áõôþí ðïõ êáôïíïìÜæïíôáé óå Üëëï óçìåßï áõôïý ôïõ ÐáñáñôÞìáôïò 7</p>
+      <p n="103">[Ôå÷íçôÝò õáëþäåéò (ðõñéôéêÝò) ßíåò Üôáêôïõ ðñïóáíáôïëéóìïý ìå ðåñéåêôéêüôçôá óå ïîåßäéá áëêáëßùí êáé áëêáëéêþí ãáéþí (Na2O+K2O+CaO+MgO+BaO) êáôþôåñç Þ ßóç ôïõ 18 % êáôÜ âÜñïò].</p>
+      <p n="104">EN: Refractory Ceramic Fibres; Special Purpose Fibres, with the exception of those specified elsewhere in this Annex;</p>
+      <p n="105">[Man-made vitreous (silicate) fibres with random orientation with alkaline oxide and alkali earth oxide (Na2O+K2O+CaO+ MgO+BaO) content less or equal to 18 % by weight]</p>
+      <p n="106">FR: Fibres céramiques réfractaires; fibres à usage spécial, à l'exception de celles nommément désignées dans cette annexe;</p>
+      <p n="107">[Fibres (de silicates) vitreuses artificielles à orientation aléatoire, dont le pourcentage pondéral d'oxydes alcalins et d'oxydes alcalino-terreux (Na2O+K2O+CaO+MgO+BaO) est inférieur ou égal à 18 %]</p>
+      <p n="108">IT: Fibre ceramiche refrattarie; fibre per scopi speciali, escluse quelle espressamente indicate in questo allegato;</p>
+      <p n="109">[Fibre artificiali vetrose (silicati), che presentano un'orientazione casuale e un tenore di ossidi alcalini e ossidi alcalino-terrosi (Na2O+K2O+CaO+MgO+BaO) pari o inferiore al 18 % in peso]</p>
+      <p n="110">NL: Keramische minerale vezels; vezels voor speciale toepassingen, met uitzondering van in deze bijlage met name genoemde;</p>
+      <p n="111">[Kunstmatige (silicaat)glasvezels met een willekeurige oriëntatie en een gehalte aan alkali- en aardalkali-oxiden (Na2O+K2O+ CaO+MgO+BaO) van ten hoogste 18 gewichtspercenten]</p>
+      <p n="112">PT: Fibras cerâmicas refractárias; fibras para usos específicos, com excepção das expressamente referidas no presente anexo;</p>
+      <p n="113">[Fibras de vidro (silicatos) sintéticas com orientação aleatória e um teor ponderal de óxidos de elementos alcalinos e alcalino-terrosos (Na2O+K2O+CaO+MgO+BaO) não superior a 18 %]</p>
+      <p n="114">FI: Keraamiset kuidut; kuidut erityistarkoituksiin, paitsi muualla tässä liitteessä mainitut;</p>
+      <p n="115">[Keinotekoiset säännöttömästi suuntautuneet lasimaiset (silikaatti) kuidut, joiden alkalioksidija maa-alkalioksidipitoisuus (Na2O+K2O+CaO+MgO+BaO) on enintään 18 painoprosenttia]</p>
+      <p n="116">SV: Keramiska fibrer; specialfibrer förutom det på andra ställen i bilagan nämnda;</p>
+      <p n="117">[Syntetiska glasaktiga (silikat) fibrer slumpvis ordnade vars totala innehåll av oxider av alkalimetaller och alkaliska jordartsmetaller (Na2O+K2O+CaO+MgO+BaO), är lika med eller understiger 18 viktprocent]</p>
+      <p n="118">Clasificación, Klassificering, Einstufung, Ôáîéíüìçóç, Classification, Classification, Classificazione, Indeling, Classificação, Luokitus, Klassificering</p>
+      <p n="119">Carc. Cat. 2; R49 Xi; R38Etiquetado, Etikettering, Kennzeichnung, ÅðéóÞìáíóç, Labelling, Étiquetage, Etichettatura, Kenmerken, Rotulagem, Merkinnät, Märkning</p>
+      <p n="120">T</p>
+      <p n="121">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="122">R: 49-38</p>
+      <p n="123">S: 53-45</p>
+      <p n="124">Límites de concentración, Koncentrationsgrænser, Konzentrationsgrenzwerte, ¼ñéá óõãêÝíôñùóçò, Concentration Limits, Limites de concentration, Limiti di concentrazione, Concentratiegrenzen, Limites de concentração, Pitoisuusrajat, Koncentrationsgränser</p>
+    </body>
+  </text>
+</TEI.2>

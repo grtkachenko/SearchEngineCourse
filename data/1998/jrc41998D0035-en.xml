@@ -1,0 +1,55 @@
+<TEI.2 id="jrc41998D0035-en" n="41998D0035" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41998D0035 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 16 September 1998 on forwarding the Common Manual to EU applicant States (SCH/Com-ex (98) 35, rev. 2)</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0035:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0035:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">185</classCode>
+        <classCode scheme="eurovoc">1915</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41998D0035-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 16 September 1998 on forwarding the Common Manual to EU applicant States (SCH/Com-ex (98) 35, rev. 2)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 16 September 1998</p>
+      <p n="4">on forwarding the Common Manual to EU applicant States</p>
+      <p n="5">(SCH/Com-ex (98)35 rev. 2)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Whereas the Schengen acquis is to be integrated into the framework of the European Union pursuant to the relevant Protocol to the Amsterdam Treaty;</p>
+      <p n="9">Whereas pursuant to Article 8 of the said Protocol, the Schengen acquis must be accepted in full by all applicant States and whereas the latter must be adequately prepared to that end;</p>
+      <p n="10">Whereas the Common Manual on Checks at the External Borders, in particular, is an important component of the Schengen acquis and the States with which specific accession negotiations are being conducted must be informed thereof now so that they may prepare to accept the acquis;</p>
+      <p n="11">Whereas, to that end, the Common Manual on Checks at the External Borders, with the exception of certain annexes, and other documents should be forwarded to the States, despite the fact that they are confidential documents;</p>
+      <p n="12">Whereas the forwarding of public decisions and declarations of the Executive Committee may also be necessary,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">1. The Presidency-in-office may forward the Common Manual on Checks at the External Borders, without Annexes 6b, 6c and 14b, to the applicant States with which specific negotiations on their accession to the European Union are being conducted.</p>
+      <p n="15">2. The Central Group is empowered to decide on a case-by-case basis on forwarding other confidential documents to those States.</p>
+      <p n="16">3. Upon forwarding as referred to in points 1 and 2, it must be pointed out that this document is confidential. The State receiving the Common Manual on Checks at the External Borders or any other confidential document must undertake to treat such document as confidential.</p>
+      <p n="17">4. Moreover, the Presidency-in-office may forward public decisions and declarations of the Executive Committee and other non-confidential documents to States and other services for internal use where a warranted interest is demonstrated.</p>
+      <p n="18">Königswinter, 16 September 1998.</p>
+      <p n="19">The Chairman</p>
+      <p n="20">M. Kanther</p>
+    </body>
+  </text>
+</TEI.2>

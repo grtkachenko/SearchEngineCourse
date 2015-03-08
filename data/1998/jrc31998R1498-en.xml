@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31998R1498-en" n="31998R1498" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1498 English</title>
+        <title>Commission Regulation (EC) No 1498/98 of 14 July 1998 amending Regulation (EC) No 3223/94 on detailed rules for the application of the import arrangements for fruit and vegetables</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1498:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1498:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1115</classCode>
+        <classCode scheme="eurovoc">1602</classCode>
+        <classCode scheme="eurovoc">2635</classCode>
+        <classCode scheme="eurovoc">2671</classCode>
+        <classCode scheme="eurovoc">4645</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1498-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1498/98 of 14 July 1998 amending Regulation (EC) No 3223/94 on detailed rules for the application of the import arrangements for fruit and vegetables</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1498/98 of 14 July 1998 amending Regulation (EC) No 3223/94 on detailed rules for the application of the import arrangements for fruit and vegetables</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables (1), as last amended by Commission Regulation (EC) No 2520/97 (2) and in particular Article 32(2), thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 3223/94 (3), as last amended by Regulation (EC) No 2375/96 (4), lays down detailed rules for the application of the import arrangements for fruit and vegetables;</p>
+      <p n="7">Whereas setting an entry price requires that the rules for calculating the customs value as defined in Article 29(1) of Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (5), as last amended by Regulation (EC) No 82/97 of the European Parliament and of the Council (6), be applied in such a way as to ensure the consistency of the two methods of calculation; whereas this should also be specified in the text of Regulation (EC) No 3223/94, in particular to facilitate the preparation of the customs declarations;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The following paragraph 1b is added to Article 5 of Regulation (EC) No 3223/94:</p>
+      <p n="12">'1b. Where the entry price is calculated on the basis of the price fob of the products in the country of origin, the customs value shall be calculated on the basis of the relevant sale at that price.</p>
+      <p n="13">When the entry price is calculated in accordance with one of the procedures provided for in paragraph 1(b) or (c) or paragraph 1a(b), the customs value shall be calculated on the same basis as the entry price.`</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 14 July 1998.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 297, 21. 11. 1996, p. 1.</p>
+      <p n="22">(2) OJ L 346, 17. 12. 1997, p. 41.</p>
+      <p n="23">(3) OJ L 337, 24. 12. 1994, p. 66.</p>
+      <p n="24">(4) OJ L 325, 14. 12. 1996, p. 5.</p>
+      <p n="25">(5) OJ L 302, 19. 10. 1992, p. 1.</p>
+      <p n="26">(6) OJ L 17, 21. 1. 1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

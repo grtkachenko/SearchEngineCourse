@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31994D0700-en" n="31994D0700" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994D0700 English</title>
+        <title>94/700/EC: Council Decision of 24 October 1994 on the extension of the legal protection of topographies of semiconductor products to persons from Canada</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0700:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0700:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994D0700-en." lang="en">
+    <body>
+      <head n="1">94/700/EC: Council Decision of 24 October 1994 on the extension of the legal protection of topographies of semiconductor products to persons from Canada</head>
+      <p n="2">COUNCIL DECISION of 24 October 1994 on the extension of the legal protection of topographies of semiconductor products to persons from Canada (94/700/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 87/54/EEC of 16 December 1986 on the legal protection of topographies of semiconductor products (1), and in particular Article 3 (7) thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas the right to legal protection of topographies of semiconductor products in the Community applies to persons qualifying for protection pursuant to Article 3 (1) to (5) of Directive 87/54/EEC;</p>
+      <p n="8">Whereas this right can be extended by Council decision to persons who do not benefit from protection pursuant to the said provisions;</p>
+      <p n="9">Whereas the extension of the protection in question should, as far as possible, be decided by the Community as a whole;</p>
+      <p n="10">Whereas protection has previously been granted on conditions of reciprocity to persons from certain countries and territories outside the Community, in some cases on a permanent basis in Decision 90/510/EEC (2), and in others on an interim basis in Decision 93/16/EEC (3);</p>
+      <p n="11">Whereas Canada has regulations according suitable protection to designers of topographies and has announced that it plans to extend their applications, from 1 November 1994, to Community nationals and to natural and legal persons that have a real and effective establishment there for the purpose of designing topographies or manufacturing integrated circuits;</p>
+      <p n="12">Whereas the Agreement on trade-related aspects of intellectual property rights, which forms part of the result of the Uruguay Round of multilateral trade negotiations embodied in the Marrakesh Final Act of 15 April 1994, requires Members to grant protection to integrated-circuit topographies in compliance with its own provisions and with those of the Treaty on Intellectual Property in Respect of Integrated Circuits to which it refers;</p>
+      <p n="13">Whereas the Agreement, together with that establishing the World Trade Organization, will enter into force on 1 January 1995 or as soon as possible after that date; whereas the developed countries which are Members of the Agreement establishing the World Trade Organization will have one year following the entry into force of that Agreement in which to implement the Agreement on trade related aspects of intellectual property rights;</p>
+      <p n="14">Whereas, in view of the undertakings given by the Canadian authorities, the right to protection pursuant to Directive 87/54/EEC should be extended, from 1 November 1994 until the implementation of the Agreement on trade related aspects of intellectual property rights, to natural persons, companies and other legal persons from Canada,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Member States shall extend the legal protection provided for pursuant to Directive 87/54/EEC as follows:</p>
+      <p n="18">(a) natural persons who are nationals of Canada or who have their habitual residence in the territory of Canada shall be treated as if they were nationals of a Member State;</p>
+      <p n="19">(b) companies and other legal persons of Canada which have a real and effective industrial or commercial establishment in that country shall be treated as if they had a real and effective industrial or commercial establishment in the territory of a Member State.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision shall apply from 1 November 1994.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Luxembourg, 24 October 1994.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">J. BORCHERT</p>
+      <p n="28">(1) OJ No L 24, 27. 1. 1987, p. 36.</p>
+      <p n="29">(2) OJ No L 285, 17. 10. 1990, p. 29. Decision as amended by Decision 93/17/EEC (OJ No L 11, 19. 1. 1993, p. 22).</p>
+      <p n="30">(3) OJ No L 11, 19. 1. 1993, p. 20. Decision as amended by Decision 93/520/EEC (OJ No L 246, 2. 10. 1993, p. 31) which grants interim protection to persons from the United States of America (until 31. 12. 1993) and from certain territories (until 31. 12. 1994), and Decision 94/373/EC (OJ No L 170, 5. 7. 1994, p. 34), which extends until 1 July 1995 the protection in respect of the United States of America.</p>
+    </body>
+  </text>
+</TEI.2>

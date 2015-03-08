@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32000R1747-en" n="32000R1747" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1747 English</title>
+        <title>Council Regulation (EC) No 1747/2000 of 7 August 2000 amending Regulation (EC) No 2793/1999 on certain procedures for applying the Trade, Development and Cooperation Agreement between the European Community and the Republic of South Africa</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1747:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1747:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1031</classCode>
+        <classCode scheme="eurovoc">1567</classCode>
+        <classCode scheme="eurovoc">2095</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">2758</classCode>
+        <classCode scheme="eurovoc">321</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1747-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1747/2000 of 7 August 2000 amending Regulation (EC) No 2793/1999 on certain procedures for applying the Trade, Development and Cooperation Agreement between the European Community and the Republic of South Africa</head>
+      <p n="2">Council Regulation (EC) No 1747/2000</p>
+      <p n="3">of 7 August 2000</p>
+      <p n="4">amending Regulation (EC) No 2793/1999 on certain procedures for applying the Trade, Development and Cooperation Agreement between the European Community and the Republic of South Africa</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Annex to Regulation (EC) No 2793/1999(1) contains material errors which should be corrected.</p>
+      <p n="10">(2) Commission Regulation (EC) No 2204/1999 of 12 October 1999 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff(2) contains new elements which affect the said Annex.</p>
+      <p n="11">(3) The Combined Nomenclature codes set out in the said Annex should be adapted to those applicable from 1 January 2000,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Annex to Regulation (EC) No 2793/1999 shall be replaced by the Annex hereto.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 7 August 2000.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">H. Védrine</p>
+      <p n="22">(1) OJ L 337, 30.12.1999, p. 29.</p>
+      <p n="23">(2) OJ L 278, 28.10.1999, p. 1.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">"ANNEX</p>
+      <p n="26">concerning products referred to in Article 2</p>
+      <p n="27">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

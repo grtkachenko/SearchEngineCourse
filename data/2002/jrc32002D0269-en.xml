@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32002D0269-en" n="32002D0269" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0269 English</title>
+        <title>2002/269/EC: Commission Decision of 8 April 2002 amending Decision 2001/574/EC establishing a common fiscal marker for gas oils and kerosene (notified under document number C(2002) 1244)</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0269:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0269:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1021</classCode>
+        <classCode scheme="eurovoc">1092</classCode>
+        <classCode scheme="eurovoc">1267</classCode>
+        <classCode scheme="eurovoc">2366</classCode>
+        <classCode scheme="eurovoc">3772</classCode>
+        <classCode scheme="eurovoc">5726</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0269-en." lang="en">
+    <body>
+      <head n="1">2002/269/EC: Commission Decision of 8 April 2002 amending Decision 2001/574/EC establishing a common fiscal marker for gas oils and kerosene (notified under document number C(2002) 1244)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 8 April 2002</p>
+      <p n="4">amending Decision 2001/574/EC establishing a common fiscal marker for gas oils and kerosene</p>
+      <p n="5">(notified under document number C(2002) 1244)</p>
+      <p n="6">(2002/269/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Directive 95/60/EC of 27 November 1995 on fiscal marking of gas oils and kerosene(1), and in particular Article 2(2) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) By Commission Decision 2001/574/EC(2) the product identified by the scientific name N-Ethyl-N-[2-(1-isobutoxyethoxy)ethyl]-4-(phenylazo)aniline (Solvent Yellow 124) was established as the common fiscal marker for gas oils and kerosene. In the Annex to that Decision, that marker was specified using a commercial name, the scientific name and the Identification according to the Colour Index. However, since use of the commercial name does not appear to be indispensable, the reference to that name should be deleted.</p>
+      <p n="12">(2) In the interests of clarity, the Annex to Decision 2001/574/EC should therefore be replaced.</p>
+      <p n="13">(3) The measure provided for in this Decision is in accordance with the opinion of the Committee on Excise Duties,</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Annex to Decision 2001/574/EC is replaced by the following:</p>
+      <p n="17">"ANNEX</p>
+      <p n="18">1. Scientific name:</p>
+      <p n="19">N-Ethyl-N-[2-(1-isobutoxyethoxy)ethyl]-4-(phenylazo)aniline</p>
+      <p n="20">2. Identification according to the Colour Index: Solvent Yellow 124."</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 8 April 2002.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Frederik Bolkestein</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 291, 6.12.1995, p. 46.</p>
+      <p n="28">(2) OJ L 203, 28.7.2001, p. 20.</p>
+    </body>
+  </text>
+</TEI.2>

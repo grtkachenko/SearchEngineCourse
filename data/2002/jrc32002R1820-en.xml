@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32002R1820-en" n="32002R1820" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1820 English</title>
+        <title>Commission Regulation (EC) No 1820/2002 of 11 October 2002 amending Regulation (EEC) No 2958/93 laying down detailed rules for the application of Council Regulation (EEC) No 2019/93 as regards the specific arrangements for the supply of certain agricultural products</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1820:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1820:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2292</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">4171</classCode>
+        <classCode scheme="eurovoc">4885</classCode>
+        <classCode scheme="eurovoc">755</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1820-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1820/2002 of 11 October 2002 amending Regulation (EEC) No 2958/93 laying down detailed rules for the application of Council Regulation (EEC) No 2019/93 as regards the specific arrangements for the supply of certain agricultural products</head>
+      <p n="2">Commission Regulation (EC) No 1820/2002</p>
+      <p n="3">of 11 October 2002</p>
+      <p n="4">amending Regulation (EEC) No 2958/93 laying down detailed rules for the application of Council Regulation (EEC) No 2019/93 as regards the specific arrangements for the supply of certain agricultural products</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2019/93 of 19 July 1993 introducing specific measures for the smaller Aegean islands concerning certain agricultural products(1), as last amended by Regulation (EC) No 442/2002(2), and in particular Article 3a thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Council Regulation (EEC) No 2019/93 stipulates that products benefiting from the specific supply arrangements may not be re-exported to third countries or re-dispatched to the rest of the Community. However, it provides for derogation in case of traditional exports or traditional shipments to the rest of the Community of processed products.</p>
+      <p n="10">(2) Article 4 of Commission Regulation (EEC) No 2958/93 laying down detailed rules for the application of Council Regulation (EEC) No 2019/93 as regards the specific arrangements for the supply of certain agricultural products(3), as last amended by Regulation (EC) No 1020/2002(4), establishes that the Commission is to determine the limits of the annual quantities of processed products containing raw materials that have benefited from the specific supply arrangement that are allowed to be exported or shipped to the rest of the Community.</p>
+      <p n="11">(3) Those quantities should be determined on the basis of the average of exports and shipments to the rest of the Community during 1991, 1992 and 1993, before this regime entered into force, as established by the competent authorities.</p>
+      <p n="12">(4) In order to incorporate those annual quantities, it is necessary to amend Regulation (EEC) No 2958/93 accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinions of all the Management Committees concerned,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EEC) No 2958/93 is amended as follows:</p>
+      <p n="17">1. Article 4(1) is replaced by the following: "1. Traditional exports and traditional dispatches to the rest of the Community of processed products containing raw materials that have benefited from the specific supply arrangements are permitted within the limits of annual quantities set out in Annex III. The competent authorities shall take the necessary steps to ensure that those operations do not exceed the annual quantities laid down."</p>
+      <p n="18">2. The text in the Annex to this Regulation is added as Annex III.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 11 October 2002.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz Fischler</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 184, 27.7.1993, p. 1.</p>
+      <p n="27">(2) OJ L 68, 12.3.2002, p. 4.</p>
+      <p n="28">(3) OJ L 267, 28.10.1993, p. 4.</p>
+      <p n="29">(4) OJ L 155, 14.6.2002, p. 32.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">"ANNEX III</p>
+      <p n="32">Maximum quantities of processed products which can be exported or dispatched to the rest of the Community annually from the smaller Aegean islands in the context of traditional exports and dispatches</p>
+      <p n="33">(Article 4)</p>
+      <p n="34">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

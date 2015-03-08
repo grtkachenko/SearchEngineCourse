@@ -1,0 +1,40 @@
+<TEI.2 id="jrc31999R0639-en" n="31999R0639" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0639 English</title>
+        <title>Commission Regulation (EC) No 639/1999 of 25 March 1999 concerning the authorisation of a new additive in feedingstuffs</title>
+      </titleStmt>
+      <extent>3 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0639:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0639:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">2133</classCode>
+        <classCode scheme="eurovoc">316</classCode>
+        <classCode scheme="eurovoc">4062</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0639-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 639/1999 of 25 March 1999 concerning the authorisation of a new additive in feedingstuffs</head>
+      <p n="2">ANNEX</p>
+      <p n="3">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

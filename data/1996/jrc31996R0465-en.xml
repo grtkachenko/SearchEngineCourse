@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31996R0465-en" n="31996R0465" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0465 English</title>
+        <title>Commission Regulation (EC) No 465/96 of 14 March 1996 amending Regulation (EC) No 2898/95 concerning verification of compliance with quality standards for bananas</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0465:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0465:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1120</classCode>
+        <classCode scheme="eurovoc">1637</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">4125</classCode>
+        <classCode scheme="eurovoc">5233</classCode>
+        <classCode scheme="eurovoc">87</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0465-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 465/96 of 14 March 1996 amending Regulation (EC) No 2898/95 concerning verification of compliance with quality standards for bananas</head>
+      <p n="2">COMMISSION REGULATION (EC) No 465/96 of 14 March 1996 amending Regulation (EC) No 2898/95 concerning verification of compliance with quality standards for bananas</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 404/93 of 13 February 1993 on the common organization of the market in bananas (1), as last amended by Regulation (EC) No 3290/94 (2), and in particular Article 4 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 2898/95 (3) provides that the rules relating to verification of compliance with quality standards for bananas established by Commission Regulation (EC) No 2257/94 (4) are to enter into force on 1 April 1996; whereas that date of entry into force should be postponed so as to facilitate the implementation of the verification procedures and to complete the dissemination of information to traders;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Bananas,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">In Article 9 of Regulation (EC) No 2898/95, '1 April 1996` is hereby replaced by '1 July 1996`.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="14">Done at Brussels, 14 March 1996.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Franz FISCHLER</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ No L 47, 25. 2. 1993, p. 1.</p>
+      <p n="19">(2) OJ No L 349, 31. 12. 1994, p. 105.</p>
+      <p n="20">(3) OJ No L 304, 16. 12. 1995, p. 17.</p>
+      <p n="21">(4) OJ No L 245, 20. 9. 1994, p. 6.</p>
+    </body>
+  </text>
+</TEI.2>

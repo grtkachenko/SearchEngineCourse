@@ -1,0 +1,100 @@
+<TEI.2 id="jrc31993D0051-en" n="31993D0051" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993D0051 English</title>
+        <title>93/51/EEC: Commission Decision of 15 December 1992 on the microbiological criteria applicable to the production of cooked crustaceans and molluscan shellfish</title>
+      </titleStmt>
+      <extent>73 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0051:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0051:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993D0051-en." lang="en">
+    <body>
+      <head n="1">93/51/EEC: Commission Decision of 15 December 1992 on the microbiological criteria applicable to the production of cooked crustaceans and molluscan shellfish</head>
+      <p n="2">COMMISSION DECISION of 15 December 1992 on the microbiological criteria applicable to the production of cooked crustaceans and molluscan shellfish</p>
+      <p n="3">(93/51/EEC)THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 91/493/EEC of 22 July 1991 laying down the health conditions for the production and the placing on the market of fishery products (1), and in particular Chapter V (II) (4) of the Annex thereto,</p>
+      <p n="6">Whereas, in accordance with Chapter IV (IV) (7) (c) of the Annex to Directive 91/493/EEC, manufacturers of cooked crustacean and molluscan shellfish products must carry out microbiological checks on their production at regular intervals in compliance with the standards to be laid down pursuant to Chapter V (II) (4) of that Annex;</p>
+      <p n="7">Whereas with a view to protecting public health, a bacterial contamination limit should be set beyond which the results may not be regarded as acceptable without the product being regarded in any way as toxic; whereas, where the acceptability limit is exceeded, manufacturers must investigate the causes thereof and establish corrective procedures in order to prevent any further occurrence;</p>
+      <p n="8">Whereas the methods of analysis will be laid down later in the light of the studies undertaken; whereas until then internationally recognized methods should be applied;</p>
+      <p n="9">Whereas the measures laid down in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The microbiological standards applicable to the production of cooked crustaceans and molluscan shellfish provided for in Chapter IV (IV) (7) (c) of the Annex to Directive 91/493/EEC are laid down in the Annex hereto.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The microbiological standards shall be checked by the manufacturer during the manufacturing process and before the crustacean and molluscan shellfish products cooked in the processing plant approved in accordance with Article 7 of Directive 91/493/EEC are placed on the market.</p>
+      <p n="15">Article 3</p>
+      <p n="16">1. Sampling programmes shall be established by the managerial staff of the processing plant in relation to the nature of the products (whole, shelled or shucked), the temperature and time of cooking and the risk evaluation, and shall meet the requirements of Article 6 of Directive 91/493/EEC.</p>
+      <p n="17">2. The programmes referred to in paragraph 1 shall contain, in the event of failure to comply with the standards laid down under headings 1 and 2 of the Annex hereto, an undertaking:</p>
+      <p n="18">- to notify the competent authorities of the findings made and the action taken with regard to unsatisfactory batches, as well as the measures provided for in the second indent below,</p>
+      <p n="19">- to review the methods of supervising and checking the critical points so as to identify the contamination source, and to carry out analyses more frequently,</p>
+      <p n="20">- not to market for human consumption batches found to be unsatisfactory on account of the discovery of pathogens or where the M value for Staphylococcus provided for under heading 2 of the Annex is exceeded.</p>
+      <p n="21">Article 4</p>
+      <p n="22">Pending the establishment of Community methods of microbiological analysis, the methods of analysis used to verify the microbiological standards laid down in the Annex hereto shall be scientifically recognized at international level and tested in practice. The method of analysis used must be recorded with the corresponding results.</p>
+      <p n="23">Article 5</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 15 December 1992.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Ray MAC SHARRY</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ No L 268, 24. 9. 1991, p. 15.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">1. Pathogens</p>
+      <p n="32">"" ID="01"&gt;Salmonella spp.&gt; ID="02"&gt;Absent in 25 g n = 5 c = 0 "&gt;</p>
+      <p n="33">In addition, pathogens and toxins thereof which are to be sought according to the risk evaluation, must not be present in quantities such as to affect the health of consumers.</p>
+      <p n="34">2. Organismus indicating poor hygiene (shelled or shucked products)</p>
+      <p n="35">"" ID="01"&gt;Staphylococcus aureus&gt; ID="02"&gt;m = 100</p>
+      <p n="36">M = 1 000</p>
+      <p n="37">n = 5</p>
+      <p n="38">c = 2</p>
+      <p n="39">"&gt; ID="01"&gt;either: Thermotolerant coliform (44 °C on solid medium)&gt; ID="02"&gt;m = 10</p>
+      <p n="40">M = 100</p>
+      <p n="41">n = 5</p>
+      <p n="42">c = 2</p>
+      <p n="43">"&gt; ID="01"&gt;or: Escherichia coli (on solid medium)&gt; ID="02"&gt;m = 10</p>
+      <p n="44">M = 100</p>
+      <p n="45">n = 5</p>
+      <p n="46">c = 1</p>
+      <p n="47">"&gt;</p>
+      <p n="48">Where parameters n, m, M and c are defined as follows:</p>
+      <p n="49">n = number of units comprising the sample,</p>
+      <p n="50">m = limit below which all results are considered satisfactory,</p>
+      <p n="51">M = acceptability limit beyond which the results are considered unsatisfactory,</p>
+      <p n="52">c = number of sampling units giving bacterial counts of between m and M.</p>
+      <p n="53">The quality of a batch is considered to be:</p>
+      <p n="54">(a) satisfactory where all the values observed are 3m or less;</p>
+      <p n="55">(b) acceptable where the values observed are between 3m and 10m (= M) and where c/n is 2/5 or less.</p>
+      <p n="56">The quality of a batch is considered to be unsatisfactory:</p>
+      <p n="57">- in all cases where the values are above M,</p>
+      <p n="58">- where c/n is greater than 2/5.</p>
+      <p n="59">3. Indicator organisms (Guidelines)</p>
+      <p n="60">"" ID="01"&gt;Mesophilic aerobic bacteria (30 °C)"&gt; ID="01"&gt;(a) Whole products&gt; ID="02"&gt;m = 10 000</p>
+      <p n="61">M = 100 000</p>
+      <p n="62">n = 5</p>
+      <p n="63">c = 2</p>
+      <p n="64">"&gt; ID="01"&gt;(b) Shelled or shucked products with the exception of crabmeat&gt; ID="02"&gt;m = 50 000</p>
+      <p n="65">M = 500 000</p>
+      <p n="66">n = 5</p>
+      <p n="67">c = 2</p>
+      <p n="68">"&gt; ID="01"&gt;(c) Crabmeat&gt; ID="02"&gt;m = 100 000</p>
+      <p n="69">M = 1 000 000</p>
+      <p n="70">n = 5</p>
+      <p n="71">c = 2</p>
+      <p n="72">"&gt;</p>
+      <p n="73">These guidelines are to help manufacturers decide whether their plants are operating satisfactorily and to assist them in implementing the production monitoring procedures.</p>
+    </body>
+  </text>
+</TEI.2>

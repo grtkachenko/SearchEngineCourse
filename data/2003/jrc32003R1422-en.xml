@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32003R1422-en" n="32003R1422" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1422 English</title>
+        <title>Commission Regulation (EC) No 1422/2003 of 8 August 2003 correcting Regulation (EC) No 1175/2003 amending Regulations (EC) No 883/2001 and (EC) No 2805/95, respectively, laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 as regards trade with third countries in products in the wine sector and fixing the export refunds in the wine sector</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1422:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1422:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+        <classCode scheme="eurovoc">5859</classCode>
+        <classCode scheme="eurovoc">5860</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1422-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1422/2003 of 8 August 2003 correcting Regulation (EC) No 1175/2003 amending Regulations (EC) No 883/2001 and (EC) No 2805/95, respectively, laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 as regards trade with third countries in products in the wine sector and fixing the export refunds in the wine sector</head>
+      <p n="2">Commission Regulation (EC) No 1422/2003</p>
+      <p n="3">of 8 August 2003</p>
+      <p n="4">correcting Regulation (EC) No 1175/2003 amending Regulations (EC) No 883/2001 and (EC) No 2805/95, respectively, laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 as regards trade with third countries in products in the wine sector and fixing the export refunds in the wine sector</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Articles 63 and 64 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) There is an error in Article 1 of Commission Regulation (EC) No 1175/2003(3). That error should therefore be corrected.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Article 1 of Regulation (EC) No 1175/2003 is hereby replaced by the following:"The export licences already issued, comprising advance fixing of the refund, shall be valid for exports to the Czech Republic and Slovakia carried out up to 31 May 2003 only. The security referred to in Article 4(2) of Regulation (EC) No 883/2001 shall be released in proportion to the unused quantities."</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 8 August 2003.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz Fischler</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="22">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="23">(3) OJ L 164, 2.7.2003, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

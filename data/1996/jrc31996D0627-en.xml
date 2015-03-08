@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31996D0627-en" n="31996D0627" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0627 English</title>
+        <title>96/627/EC: Commission Decision of 17 October 1996 implementing Article 2 of Council Directive 77/311/EEC of 29 March 1977 on the approximation of the laws of the Member States relating to the driver-perceived noise level of wheeled agricultural or forestry tractors (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0627:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0627:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2063</classCode>
+        <classCode scheme="eurovoc">2349</classCode>
+        <classCode scheme="eurovoc">2824</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">4476</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0627-en." lang="en">
+    <body>
+      <head n="1">96/627/EC: Commission Decision of 17 October 1996 implementing Article 2 of Council Directive 77/311/EEC of 29 March 1977 on the approximation of the laws of the Member States relating to the driver-perceived noise level of wheeled agricultural or forestry tractors (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 17 October 1996 implementing Article 2 of Council Directive 77/311/EEC of 29 March 1977 on the approximation of the laws of the Member States relating to the driver-perceived noise level of wheeled agricultural or forestry tractors (Text with EEA relevance) (96/627/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 77/311/EEC of 29 March 1977 on the approximation of the laws of the Member States relating to the driver-perceived noise level of wheeled agricultural or forestry tractors (1), and in particular Article 2 thereof,</p>
+      <p n="6">Having regard to Council Directive 74/150/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to the type-approval of wheeled agricultural or forestry tractors (2), and in particular Article 13 thereof,</p>
+      <p n="7">Whereas it is necessary to fix the date of the end of the transitional period provided for by Directive 77/311/EEC so that the limits laid down for the driver-perceived noise level in Article 2 (1) of that Directive can enter into force;</p>
+      <p n="8">Whereas this is necessary in order to create a stable and predictable regulatory framework and to ensure that the same noise level limits are applied uniformly in all Member States;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion delivered by the Committee for the adaptation to technical progress of the Directives aimed at removing technical barriers to trade in agricultural and forestry tractors,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The transitional period referred to in Article 2 (1) and (2) of Directive 77/311/EEC shall expire on 1 October 1999.</p>
+      <p n="13">Article 2</p>
+      <p n="14">Member States shall adopt the provisions necessary to comply with this Decision before 30 September 1999. They shall forthwith inform the Commission thereof.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Decision is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 17 October 1996.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 105, 28. 4. 1977, p. 2.</p>
+      <p n="22">(2) OJ No L 84, 28. 3. 1974, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

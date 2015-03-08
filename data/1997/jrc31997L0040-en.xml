@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31997L0040-en" n="31997L0040" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997L0040 English</title>
+        <title>Council Directive 97/40/EC of 25 June 1997 amending Directive 93/113/EC concerning the use and marketing of enzymes, micro-organisms and their preparations in animal nutrition</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0040:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0040:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">5740</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997L0040-en." lang="en">
+    <body>
+      <head n="1">Council Directive 97/40/EC of 25 June 1997 amending Directive 93/113/EC concerning the use and marketing of enzymes, micro-organisms and their preparations in animal nutrition</head>
+      <p n="2">COUNCIL DIRECTIVE 97/40/EC of 25 June 1997 amending Directive 93/113/EC concerning the use and marketing of enzymes, micro-organisms and their preparations in animal nutrition</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs (4) lays down the principles relating to the admission and the use of additives;</p>
+      <p n="9">Whereas Directive 93/113/EC (5) authorizes the Member States to permit provisionally the use and marketing of the products in question provided that, on the basis of available scientific evidence, they do not present any danger to human or animal health;</p>
+      <p n="10">Whereas Directive 93/113/EC requires the Commission to decide before 1 January 1997 on case files submitted by the Member States before 1 January 1996 for the purpose of obtaining Community authorization under Directive 70/524/EEC;</p>
+      <p n="11">Whereas the large number of case files submitted by the Member States has made it impossible to decide, in full knowledge of the facts, on all the authorization applications by 31 December 1996; whereas the date by which the Commission must decide should thus be postponed by 18 months so that the Commission and the Member States have sufficient time to give serious consideration to the files submitted to them,</p>
+      <p n="12">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The date of 1 January 1997 in Article 5 of Directive 93/113/EC shall be replaced by 1 July 1998.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Directive shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Directive is addressed to the Member States.</p>
+      <p n="19">Done at Luxembourg, 25 June 1997.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">J. VAN AARTSEN</p>
+      <p n="23">(1) OJ No C 95, 24. 3. 1997, p. 30.</p>
+      <p n="24">(2) OJ No C 85, 17. 3. 1997, p. 176.</p>
+      <p n="25">(3) OJ No C 133, 28. 4. 1997, p. 26.</p>
+      <p n="26">(4) OJ No L 270, 14. 12. 1970, p. 1. Directive as last amended by Commission Directive 96/66/EC (OJ No L 272, 25. 10. 1996, p. 32).</p>
+      <p n="27">(5) OJ No L 334, 31. 12. 1993, p. 17.</p>
+    </body>
+  </text>
+</TEI.2>

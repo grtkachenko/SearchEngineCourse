@@ -1,0 +1,75 @@
+<TEI.2 id="jrc32003R1956-en" n="32003R1956" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1956 English</title>
+        <title>Commission Regulation (EC) No 1956/2003 of 6 November 2003 establishing the quantities to be allocated to importers from the first tranche of the 2004 Community quantitative quotas on certain products originating in the People's Republic of China</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1956:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1956:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+        <classCode scheme="eurovoc">5969</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1956-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1956/2003 of 6 November 2003 establishing the quantities to be allocated to importers from the first tranche of the 2004 Community quantitative quotas on certain products originating in the People's Republic of China</head>
+      <p n="2">Commission Regulation (EC) No 1956/2003</p>
+      <p n="3">of 6 November 2003</p>
+      <p n="4">establishing the quantities to be allocated to importers from the first tranche of the 2004 Community quantitative quotas on certain products originating in the People's Republic of China</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 520/94 of 7 March 1994 establishing a Community procedure for administering quantitative quotas(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Articles 9 and 13 thereof,</p>
+      <p n="8">Having regard to Commission Regulation (EC) No 1351/2003 of 30 July 2003 establishing administration procedures for the first tranche of the 2004 quantitative quotas for certain products originating in the People's Republic of China(3), and in particular Article 6 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Regulation (EC) No 1351/2003 established the portion of each of the quotas concerned reserved for traditional and other importers and the conditions and methods for participating in the allocation of the quantities available. Importers have lodged applications for import licences with the competent national authorities between 31 July 2003 and 3 p.m., Brussels time, on 19 September 2003, in accordance with Article 3 of Regulation (EC) No 1351/2003.</p>
+      <p n="11">(2) The Commission has received from the Member States, pursuant to Article 5 of Regulation (EC) No 1351/2003, particulars of the numbers and aggregate volume of import licence applications submitted and the total volume imported by traditional importers in 1998 or 1999, the reference years.</p>
+      <p n="12">(3) The Commission is now able, on the basis of that information, to establish uniform quantitative criteria by which the competent national authorities may satisfy licence applications submitted by importers in the Member States for the first tranche of the 2004 quantitative quotas.</p>
+      <p n="13">(4) Examination of the figures supplied by Member States shows that the aggregate volume of applications submitted by traditional importers for the products listed in Annex I to this Regulation exceeds the portion of the quota set aside for them. The applications must therefore be met by applying the uniform rate of reduction shown in Annex I to the volume of each importer's imports, expressed in quantity or value terms, over the reference period.</p>
+      <p n="14">(5) Examination of the figures supplied by Member States shows that the aggregate volume of applications submitted by non-traditional importers for the products listed in Annex II to this Regulation exceeds the portion of the quota set aside for them. The applications must therefore be met by applying the uniform rate of reduction shown in Annex II to the amounts requested by each importer, as limited by Regulation (EC) No 1351/2003.</p>
+      <p n="15">(6) Quantities not taken up by non-traditional importers were transferred to traditional importers,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">In response to licence applications in respect of the products listed in Annex I duly submitted by traditional importers, the competent national authorities shall allocate each importer a quantity or value equal to his imports for 1998 or 1999, as indicated by the importer, adjusted by the rate of reduction specified in the said Annex for each quota.</p>
+      <p n="19">Where the use of this quantitative criterion would entail allocating an amount greater than that applied for, the quantity or value allocated shall be limited to that specified in the application.</p>
+      <p n="20">Article 2</p>
+      <p n="21">In response to licence applications in respect of the products listed in Annex II duly submitted by non-traditional importers, the competent national authorities shall allocate each importer a quantity or value equal to the amount requested within the limits set by Regulation (EC) No 1351/2003, adjusted by the rate of reduction specified in the said Annex for each quota.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 6 November 2003.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Pascal Lamy</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 66, 10.3.1994, p. 1.</p>
+      <p n="30">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="31">(3) OJ L 192, 31.7.2003, p. 8.</p>
+      <p n="32">ANNEX I</p>
+      <p n="33">Rate of reduction (-) applicable to imports in 1998 or 1999</p>
+      <p n="34">(traditional importers)</p>
+      <p n="35">&gt;TABLE&gt;</p>
+      <p n="36">ANNEX II</p>
+      <p n="37">Rate of reduction (-) applicable to the volume requested within the limits of the maximum amounts fixed by Regulation (EC) No 1351/2003</p>
+      <p n="38">(non-traditional importers)</p>
+      <p n="39">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

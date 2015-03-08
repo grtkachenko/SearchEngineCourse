@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32003R1771-en" n="32003R1771" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1771 English</title>
+        <title>Council Regulation (EC) No 1771/2003 of 7 October 2003 amending Regulation (EC) No 2803/2000 as regards the opening and increase of autonomous Community tariff quotas for certain fishery products</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1771:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1771:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1771-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1771/2003 of 7 October 2003 amending Regulation (EC) No 2803/2000 as regards the opening and increase of autonomous Community tariff quotas for certain fishery products</head>
+      <p n="2">Council Regulation (EC) No 1771/2003</p>
+      <p n="3">of 7 October 2003</p>
+      <p n="4">amending Regulation (EC) No 2803/2000 as regards the opening and increase of autonomous Community tariff quotas for certain fishery products</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 26 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Community supplies of certain fishery products currently depend on imports from third countries. It is therefore in the Community's interest to suspend in part or in whole the customs duties for the products in question, in order not to jeopardise the development prospects of the fish production in the Community and to ensure an adequate supply to satisfy user industries. Council Regulation (EC) No 2803/2000 of 14 December 2000 opening and providing for the administration of autonomous Community tariff quotas for certain fishery products(1) has therefore suspended tariff quota for certain fishery products for a certain period.</p>
+      <p n="10">(2) The Commission has researched the markets and supply needs of user industries for 2003. Having regard to the requirements of the internal and external policies of the Community, certain new tariff quotas for the products in question should be opened and certain existing quotas should be increased to ensure continuation of Community production.</p>
+      <p n="11">(3) Regulation (EC) No 2803/2000 should therefore be amended accordingly,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Annex to Regulation (EC) No 2803/2000 shall be amended as follows:</p>
+      <p n="15">1. the tariff quotas listed in the Annex to this Regulation for the goods and quota periods set out in that Annex shall be added;</p>
+      <p n="16">2. for the quota period from 1 January to 31 December 2003:</p>
+      <p n="17">(a) the quota amount of the tariff quota 09.2785 shall be fixed at 20000 tonnes;</p>
+      <p n="18">(b) the quota amount of the tariff quota 09.2786 shall be fixed at 1500 tonnes;</p>
+      <p n="19">(c) the quota amount of the tariff quota 09.2794 shall be fixed at 7000 tonnes.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Luxembourg, 7 October 2003.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">G. Tremonti</p>
+      <p n="27">(1) OJ L 331, 27.12.2000, p. 61.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

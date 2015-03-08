@@ -1,0 +1,125 @@
+<TEI.2 id="jrc22003A0429_01-en" n="22003A0429(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22003A0429(01) English</title>
+      </titleStmt>
+      <extent>87 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003A0429(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003A0429(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2882</classCode>
+        <classCode scheme="eurovoc">4042</classCode>
+        <classCode scheme="eurovoc">4045</classCode>
+        <classCode scheme="eurovoc">4074</classCode>
+        <classCode scheme="eurovoc">5344</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+        <classCode scheme="eurovoc">921</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22003A0429_01-en." lang="en">
+    <body>
+      <p n="2">Agreement</p>
+      <p n="3">between the European Atomic Energy Community (Euratom) and non-member States of the European Union on the participation of the latter in the Community arrangements for the early exchange of information in the event of radiological emergency (Ecurie)</p>
+      <p n="4">(2003/C 102/02)</p>
+      <p n="5">THE PARTIES TO THIS AGREEMENT,</p>
+      <p n="6">Whereas Council Decision 87/600/Euratom created a framework, in the form of the Ecurie arrangements, for the Early exchange of information in the event of a radiological emergency.</p>
+      <p n="7">Whereas the efficiency of the Ecurie arrangements will be improved if third countries and in particular the neighbouring countries of the European Union participate.</p>
+      <p n="8">Whereas Bulgaria, Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Romania, the Slovak Republic, Slovenia, Switzerland and Turkey, hereinafter "the Participating Countries", should be invited to become party to this Agreement,</p>
+      <p n="9">HAVE AGREED AS FOLLOWS:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Purpose and scope</p>
+      <p n="12">The Agreement relates to notification arrangements and the exchange of information in all instances in which one of the Participating Countries or a Member State of Euratom decides to take measures of a widespread nature to protect the general public in the event of a radiological emergency resulting from:</p>
+      <p n="13">(a) an accident occurring within its territory involving any of the following installations or in connection with any of the following fields of activity:</p>
+      <p n="14">- any nuclear reactor, wherever located,</p>
+      <p n="15">- any other nuclear fuel cycle facility,</p>
+      <p n="16">- any radioactive waste management facility,</p>
+      <p n="17">- the transport and storage of nuclear fuels or radioactive waste,</p>
+      <p n="18">- the production, use, storage, disposal and transport of radioisotopes for agricultural, industrial, medical and related scientific or research purposes,</p>
+      <p n="19">- the use of radioisotopes for the generation of energy in space objects;</p>
+      <p n="20">or</p>
+      <p n="21">(b) any other accidents as a result of which a significant release of radioactive material has occurred or is likely to occur;</p>
+      <p n="22">or</p>
+      <p n="23">(c) the detection, within or outside its territory, of abnormal levels of radioactivity which are likely to be detrimental to public health.</p>
+      <p n="24">Article 2</p>
+      <p n="25">Exchange of information where measures referred to in Article 1 are taken within the territory of a Participating Country or in a Member State of Euratom</p>
+      <p n="26">1. If one of the Participating Countries decides to take any of the measures referred to in Article 1, that Country shall promptly provide the Commission of the European Communities, (hereinafter the Commission), with information relevant to the minimising of any foreseen radiological consequence. The Commission shall promptly inform the Member States of Euratom and the other Participating Countries.</p>
+      <p n="27">2. When a Member State of Euratom has decided to take any such measure and has informed the Commission thereof, the Commission shall promptly inform the Participating Countries.</p>
+      <p n="28">Article 3</p>
+      <p n="29">The information provided for in Article 2</p>
+      <p n="30">The information to be provided in accordance with Article 2 shall, where practicable and appropriate, include the following:</p>
+      <p n="31">(a) the nature and time of the event, its exact location and the facility or activity involved;</p>
+      <p n="32">(b) the assumed or established cause and the foreseeable development of the accident as regards the release of radioactive materials;</p>
+      <p n="33">(c) the general characteristics of the radioactive release, including the nature, the probable physical and chemical form, the quantity, composition and effective height of the radioactive release;</p>
+      <p n="34">(d) information on current and forecast meteorological and hydrological conditions necessary for forecasting the dispersion of the radioactive release;</p>
+      <p n="35">(e) the results of environmental monitoring;</p>
+      <p n="36">(f) the results of measurements of the levels of radioactivity in foodstuffs, feedingstuffs and drinking water;</p>
+      <p n="37">(g) the protective measures taken or planned;</p>
+      <p n="38">(h) the measures taken, or planned, to inform the public;</p>
+      <p n="39">(i) the predicted behaviour over time of the radioactive release.</p>
+      <p n="40">At appropriate intervals thereafter, the Participating Country concerned shall provide the Commission with any other information which may be of use, particularly with respect to the further development of the situation and the foreseeable or actual end of the emergency.</p>
+      <p n="41">Article 4</p>
+      <p n="42">Conditions of exchange of information</p>
+      <p n="43">1. Upon receipt of the information referred to in Articles 2 and 3, the Commission shall, while taking account of the information received from the Member States of Euratom:</p>
+      <p n="44">(a) promptly inform the Participating Countries of measures taken and recommendations issued following the receipt of such information;</p>
+      <p n="45">(b) inform the Participating Countries, at appropriate intervals thereafter, of levels of radioactivity in foodstuffs, feedingstuffs, drinking water and the environment recorded by monitoring facilities in the Member States of Euratom and in the Participating Countries.</p>
+      <p n="46">2. Upon receipt of the information referred to in Articles 2 and 3 above, the Participating Countries shall:</p>
+      <p n="47">(a) promptly inform the Commission of measures taken and recommendations issued following the receipt of such information;</p>
+      <p n="48">(b) inform the Commission, at appropriate intervals thereafter, of levels of radioactivity recorded by their monitoring facilities in foodstuffs, feedingstuffs, drinking water and the environment.</p>
+      <p n="49">Article 5</p>
+      <p n="50">Restrictions</p>
+      <p n="51">The Participating Countries shall not be obliged to provide the Commission with information which would jeopardise national security, and the Commission shall not pass on to the Participating Countries any information provided by a Member State of Euratom or by any party to the Agreement if such information was made available on a confidential basis.</p>
+      <p n="52">Article 6</p>
+      <p n="53">Technical arrangements</p>
+      <p n="54">1. The existing detailed Ecurie arrangements for the exchange of information referred to in Articles 2, 3 and 4 shall be implemented by the Participating Countries within three months of the date of their signature of this Agreement.</p>
+      <p n="55">2. Thereafter, detailed arrangements for the exchange of information referred to in Articles 2, 3 and 4 shall be laid down by joint Agreement between the Participating Countries, the Commission and the Member States of Euratom and tested at regular intervals. Each party shall bear its own costs in respect of the implementation of those arrangements.</p>
+      <p n="56">Article 7</p>
+      <p n="57">Competent authorities and points of contact</p>
+      <p n="58">1. The Participating Countries shall indicate to the Commission the competent authority and the point of contact designated to forward and receive the information referred to in Articles 2, 3 and 4, as well as their contact information.The Commission shall inform the Participating Countries as to which of its departments is the competent authority or the contact point.</p>
+      <p n="59">2. The contact points in the Participating Countries and the relevant department of the Commission shall be available on a 24-hour basis.</p>
+      <p n="60">Article 8</p>
+      <p n="61">Meetings</p>
+      <p n="62">1. The Participating Countries shall be invited to meetings of the group set up by the Commission for the management of the Ecurie arrangements.</p>
+      <p n="63">2. That group may decide to invite representatives from Participating Countries to attend meetings of any working groups which are set up.</p>
+      <p n="64">3. The representatives from the Participating Countries shall have observer status, and any expenses arising in that connection shall be borne by their national authorities.</p>
+      <p n="65">Article 9</p>
+      <p n="66">Ecurie arrangements and other international conventions in the same field</p>
+      <p n="67">This Agreement shall not affect the rights and obligations of the Participating Countries and of the Euratom Community deriving from bilateral or multilateral Agreements or conventions which are currently in force or to be concluded in the areas covered by the present Agreement and which are in keeping with its objective.</p>
+      <p n="68">Article 10</p>
+      <p n="69">Entry into force(1)</p>
+      <p n="70">1. Following signature of this Agreement by Euratom, the Agreement shall be open for ratification by the Republic of Bulgaria, the Republic of Cyprus, the Czech Republic, the Republic of Estonia, the Republic of Hungary, the Republic of Latvia, the Republic of Lithuania, the Republic of Malta, the Republic of Poland, Romania, the Slovak Republic, the Republic of Slovenia, the Swiss Confederation and the Republic of Turkey. To that effect, Euratom shall transmit certified copies of the Agreement to those countries for signature. Euratom may invite other countries to become a party to this Agreement.</p>
+      <p n="71">2. The Commission shall be depository of this Agreement.</p>
+      <p n="72">3. This Agreement shall enter into force three months after at least one of the countries named above has acceded to it. For each Country acceding to this Agreement after its entry into force, the Agreement shall enter into force three months later.</p>
+      <p n="73">4. Each acceding country shall inform the Commission about the termination of its internal procedures regarding the conclusion of this Agreement. The Commission shall inform the other parties to this Agreement about the accession of a new party, including the date on which the Agreement is to take effect for that party.</p>
+      <p n="74">5. Each acceding country shall provisionally participate as a member of the Ecurie arrangements from the date on which the Commission receives a certified copy of this Agreement duly signed by the national authority invested with the requisite powers, as well as the contact information requested under Article 7 for its full implementation.</p>
+      <p n="75">Article 11</p>
+      <p n="76">Termination conditions</p>
+      <p n="77">1. If a Party decides to terminate this Agreement, such termination shall be notified in writing to the other Parties. At the end of a three-month period from the date of notification, this Agreement shall cease to have legal effects between the Party which decides termination and the other Parties to this Agreement. The date of termination shall depend on the date of notification to the Commission. The Commission shall inform the other Parties to this Agreement of the relevant date.</p>
+      <p n="78">2. Upon the accession of a Participating Country to the European Union, Council Decision 87/600/Euratom shall apply and this Agreement shall cease to have individual effect for that country.</p>
+      <p n="79">3. This Agreement shall cease to exist if Euratom decides to withdraw from this Agreement in accordance with the conditions laid down in paragraph 1.</p>
+      <p n="80">Article 12</p>
+      <p n="81">Provisions concerning Switzerland</p>
+      <p n="82">The Agreement concluded in the form of an exchange of letters between Euratom and Switzerland on 21 June 1995 (OJ C 335, 13.12.1995, p. 4) shall be repealed with effect from the date of entry into force of this Agreement for Switzerland after its accession to this Agreement.</p>
+      <p n="83">Done at Brussels, 29 January 2003.</p>
+      <p n="84">For the Commission of the European Atomic Energy Community</p>
+      <p n="85">Margot Wallström</p>
+      <p n="86">Member of the Commission</p>
+      <p n="87">(1) A notice will be published in the Official Journal of the European Union once all the ratifications have been notified to the Commission.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32003D0912-en" n="32003D0912" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0912 English</title>
+        <title>2003/912/EC: Council Decision of 17 December 2003 amending Decision 95/408/EC on the conditions for drawing up, for an interim period, provisional lists of third-country establishments from which Member States are authorised to import certain products of animal origin, fishery products or live bivalve molluscs, as regards the extension of its validity</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0912:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0912:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">1961</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0912-en." lang="en">
+    <body>
+      <head n="1">2003/912/EC: Council Decision of 17 December 2003 amending Decision 95/408/EC on the conditions for drawing up, for an interim period, provisional lists of third-country establishments from which Member States are authorised to import certain products of animal origin, fishery products or live bivalve molluscs, as regards the extension of its validity</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 17 December 2003</p>
+      <p n="4">amending Decision 95/408/EC on the conditions for drawing up, for an interim period, provisional lists of third-country establishments from which Member States are authorised to import certain products of animal origin, fishery products or live bivalve molluscs, as regards the extension of its validity</p>
+      <p n="5">(2003/912/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to Council Decision 95/408/EC of 22 June 1995 on the conditions for drawing up, for an interim period, provisional lists of third-country establishments from which Member States are authorised to import certain products of animal origin, fishery products or live bivalve molluscs(1), and in particular Article 9 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Decision 95/408/EC expires on 31 December 2003.</p>
+      <p n="11">(2) The Commission proposal for a regulation of the European Parliament and of the Council laying down detailed rules for the organisation of official controls on products of animal origin intended for human consumption(2) (the Regulation for the organisation of official controls) provides for a new procedure for drawing up lists of establishments in third countries intended to replace the rules laid down in Decision 95/408/EC.</p>
+      <p n="12">(3) The validity of Decision 95/408/EC should be extended to bridge the gap between the expiry of that Decision and the entry into force of the Regulation for the organisation of official controls.</p>
+      <p n="13">(4) Decision 95/408/EC should therefore be amended accordingly,</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">In Article 9 of Decision 95/408/EC "31 December 2003" shall be replaced by "31 December 2005".</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Decision is addressed to the Member States.</p>
+      <p n="19">Done at Brussels, 17 December 2003.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">G. Alemanno</p>
+      <p n="23">(1) OJ L 243, 11.10.1995, p. 17. Decision as last amended by Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1).</p>
+      <p n="24">(2) OJ C 262 E, 29.10.2002, p. 449.</p>
+    </body>
+  </text>
+</TEI.2>

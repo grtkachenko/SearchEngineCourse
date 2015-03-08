@@ -1,0 +1,54 @@
+<TEI.2 id="jrc32000Y0909_06-en" n="32000Y0909(06)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000Y0909(06) English</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000Y0909(06):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000Y0909(06):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">5541</classCode>
+        <classCode scheme="eurovoc">889</classCode>
+        <classCode scheme="eurovoc">976</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000Y0909_06-en." lang="en">
+    <body>
+      <p n="2">Amendments to the Guidelines on national regional aid</p>
+      <p n="3">(2000/C 258/06)</p>
+      <p n="4">(Text with EEA relevance)</p>
+      <p n="5">Points 3.10.4, 4.15, 4.16 and 4.17 of the Guidelines on national reginal aid(1) are hereby replaced by the following text: "3.10.4. Regions with a low population density and the outermost regions:</p>
+      <p n="6">- subject to the ceiling for each Member State mentioned at point 3.9, regions with a population density of less than 12,5 inhabitants per square kilometre (19) and the outermost regions may also qualify for the derogation in question.</p>
+      <p n="7">Operating aid</p>
+      <p n="8">4.15. Regional aid aimed at reducing a firm's current expenses (operating aid) is normally prohibited.</p>
+      <p n="9">Exceptionally, however, such aid may be granted in regions eligible under the derogation in Article 87(3)(a)(2) of the Treaty provided that it is justified in terms of its contribution to regional development and its nature and its level is proportional to the handicaps it seeks to alleviate (36). It is for the Member State to demonstrate the existence of any handicaps and gauge their importance. Operating aid must be limited in time and progressively reduced.</p>
+      <p n="10">4.16. Exceptionally, operating aid which is not both progressively reduced and limited in time may be authorised provided that the conditions set out below are met.</p>
+      <p n="11">4.16.1. In the outermost regions qualifying for exemption under Article 87(3)(a) and (c) of the Treaty, and in the regions of low population density qualifying for exemption either under Article 87(3)(a) or under 87(3)(c) on the basis of the population density test referred to at point 3.10.4, aid which is not both progressively reduced and limited in time and is intended to offset in part additional transport costs (37) may be authorised under special conditions (38). It is the task of the Member State to prove that such additional costs exist and to determine their amount.</p>
+      <p n="12">4.16.2. Moreover, in the outermost regions qualifying for exemption under Article 87(3)(a) and (c) of the Treaty, aid which is not both progressively reduced and limited in time may be authorised in so far as it is intended to offset the additional costs arising in the pursuit of economic activity from the factors identified in Article 299(2) of the Treaty, the permanence and combination of which severely restrain the development of such regions (remoteness, insularity, small size, difficult topography and climate, and economic dependence on a few products). It is the task of the Member State to determine the amount of the additional costs and to prove that they are linked to the factors identified in Article 299(2).</p>
+      <p n="13">The proposed aid will have to be justified in terms of its contribution to regional development, and its nature; its level will have to be proportional to the additional costs it is intended to offset.</p>
+      <p n="14">The level of compensation for additional costs will also be examined on the basis of the level of development achieved by the region.</p>
+      <p n="15">Lastly, the aid will be authorised by the Commission for a period which will come to an end at the latest on expiry of the period of validity of the national regional aid maps in force at the time of the Commission's approval of the scheme in order to ensure that regular re-evaluation of the aid-level guarantees its long-term relevance to the situation of the region concerned.</p>
+      <p n="16">4.17. Operating aid intended to promote exports (39) between Member States is not allowed."</p>
+      <p n="17">The Commission shall apply these amendments, as from the date on which the decision is notified to the Member States, to new State aid notifications and to those notifications on which it has taken no decision by that date.</p>
+      <p n="18">All "unlawful aid" within the meaning of point (f) of Article 1 of Council Regulation (EC) No 659/1999(3) shall be appraised in accordance with the rules and guidelines prevailing at the time when the aid is granted.</p>
+      <p n="19">(1) OJ C 74, 10.3.1998, p. 9.</p>
+      <p n="20">(2) New numbering follows Amsterdam Treaty.</p>
+      <p n="21">(3) OJ L 83, 27.3.1999, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

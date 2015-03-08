@@ -1,0 +1,65 @@
+<TEI.2 id="jrc22003D0092-en" n="22003D0092" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22003D0092 English</title>
+        <title>Decision of the EEA Joint Committee No 92/2003 of 11 July 2003 amending Annex XX (Environment) to the EEA Agreement</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0092:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0092:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1158</classCode>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">3133</classCode>
+        <classCode scheme="eurovoc">5618</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22003D0092-en." lang="en">
+    <body>
+      <head n="1">Decision of the EEA Joint Committee No 92/2003 of 11 July 2003 amending Annex XX (Environment) to the EEA Agreement</head>
+      <p n="2">Decision of the EEA Joint Committee</p>
+      <p n="3">No 92/2003</p>
+      <p n="4">of 11 July 2003</p>
+      <p n="5">amending Annex XX (Environment) to the EEA Agreement</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as amended by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Annex XX to the Agreement was amended by Decision of the EEA Joint Committee No 57/2003 of 16 May 2003(1).</p>
+      <p n="10">(2) Council Decision 2003/33/EC of 19 December 2002 establishing criteria and procedures for the acceptance of waste at landfills pursuant to Article 16 of and Annex II to Directive 1999/31/EC(2) is to be incorporated into the Agreement,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Annex XX shall be amended as follows:</p>
+      <p n="14">1. Points 32db (Directive 2000/53/EC of the European Parliament and of the Council), 32dc (Commission Decision 2001/753/EC), 32dd (Commission Decision 2002/151/EC) and 32de (Directive 2000/76/EC of the European Parliament and of the Council) are renumbered 32e, 32ea, 32eb and 32f respectively.</p>
+      <p n="15">2. The following point is inserted after point 32da (Commission Decision 2000/738/EC):</p>
+      <p n="16">"32db. 32003 D 0033: Council Decision 2003/33/EC of 19 December 2002 establishing criteria and procedures for the acceptance of waste at landfills pursuant to Article 16 of and Annex II to Directive 1999/31/EC (OJ L 11, 16.1.2003, p. 27)."</p>
+      <p n="17">Article 2</p>
+      <p n="18">The texts of Decision 2003/33/EC in the Icelandic and Norwegian languages, to be published in the EEA Supplement to the Official Journal of the European Union, shall be authentic.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Decision shall enter into force on 12 July 2003, provided that all the notifications in Article 103(1) of the Agreement have been made to the EEA Joint Committee(3).</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Decision shall be published in the EEA section of, and in the EEA Supplement to, the Official Journal of the European Union.</p>
+      <p n="23">Done at Brussels, 11 July 2003.</p>
+      <p n="24">For the EEA Joint Committee</p>
+      <p n="25">The President</p>
+      <p n="26">H. S. H. Prinz Nikolaus von Liechtenstein</p>
+      <p n="27">(1) OJ L 193, 31.7.2003, p. 38.</p>
+      <p n="28">(2) OJ L 11, 16.1.2003, p. 27.</p>
+      <p n="29">(3) No constitutional requirements indicated.</p>
+    </body>
+  </text>
+</TEI.2>

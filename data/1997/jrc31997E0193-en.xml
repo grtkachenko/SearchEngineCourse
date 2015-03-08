@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31997E0193-en" n="31997E0193" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997E0193 English</title>
+        <title>97/193/CFSP: Common Position of 17 March 1997 defined by the Council on the basis of Article J.2 of the Treaty on European Union, on restrictive measures aimed at persons having perpetrated violent acts during the incidents in Mostar on 10 February 1997</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997E0193:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997E0193:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">306</classCode>
+        <classCode scheme="eurovoc">3483</classCode>
+        <classCode scheme="eurovoc">3588</classCode>
+        <classCode scheme="eurovoc">4045</classCode>
+        <classCode scheme="eurovoc">4065</classCode>
+        <classCode scheme="eurovoc">5931</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997E0193-en." lang="en">
+    <body>
+      <head n="1">97/193/CFSP: Common Position of 17 March 1997 defined by the Council on the basis of Article J.2 of the Treaty on European Union, on restrictive measures aimed at persons having perpetrated violent acts during the incidents in Mostar on 10 February 1997</head>
+      <p n="2">COMMON POSITION of 17 March 1997 defined by the Council on the basis of Article J.2 of the Treaty on European Union, on restrictive measures aimed at persons having perpetrated violent acts during the incidents in Mostar on 10 February 1997 (97/193/CFSP)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty on European Union, and in particular Article J.2 thereof,</p>
+      <p n="5">Whereas the European Union is committed to a policy of reconciliation and cooperation between the communities of Mostar and to the strengthening of the Federation;</p>
+      <p n="6">Whereas the Council considers that the incidents which occurred in Mostar on 10 February 1997 threaten to jeopardize the implementation of this policy;</p>
+      <p n="7">Whereas, in that context, the Council deems it appropriate to follow up the recommendations made by the Office of the High Representative in Sarajevo, according to which those who have been identified as the perpetrators of violence during the abovementioned incidents should be banned from travelling to Europe and overseas,</p>
+      <p n="8">HAS DEFINED THE FOLLOWING COMMON POSITION:</p>
+      <p n="9">1. The persons listed in the Annex shall be reported for purposes of non-admission in the territories of the Member States. The list shall be updated following the outcome of further investigations and judicial proceedings.</p>
+      <p n="10">2. Member States shall take all measures necessary to give effect to the provisions referred to in point 1 as from the date of the definition of this Common Position.</p>
+      <p n="11">3. This Common Position shall be published in the Official Journal.</p>
+      <p n="12">Done at Brussels, 17 March 1997.</p>
+      <p n="13">For the Council</p>
+      <p n="14">The President</p>
+      <p n="15">G. ZALM</p>
+      <p n="16">ANNEX</p>
+      <p n="17">LIST OF PERSONS REFERRED TO IN POINT 1</p>
+      <p n="18">HRKAC Ivan</p>
+      <p n="19">PLANINIC Zeljko</p>
+      <p n="20">PERIC Bozo</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32000R2038-en" n="32000R2038" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2038 English</title>
+        <title>Regulation (EC) No 2038/2000 of the European Parliament and of the Council of 28 September 2000 amending Regulation (EC) No 2037/2000 on substances that deplete the ozone layer, as regards metered dose inhalers and medical drug pumps</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2038:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2038:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2215</classCode>
+        <classCode scheme="eurovoc">3579</classCode>
+        <classCode scheme="eurovoc">3633</classCode>
+        <classCode scheme="eurovoc">3844</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2038-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 2038/2000 of the European Parliament and of the Council of 28 September 2000 amending Regulation (EC) No 2037/2000 on substances that deplete the ozone layer, as regards metered dose inhalers and medical drug pumps</head>
+      <p n="2">Regulation (EC) No 2038/2000 of the European Parliament and of the Council</p>
+      <p n="3">of 28 September 2000</p>
+      <p n="4">amending Regulation (EC) No 2037/2000 on substances that deplete the ozone layer, as regards metered dose inhalers and medical drug pumps</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE SOCIAL COMMITTEE,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof,</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee(1),</p>
+      <p n="8">After consulting the Committee of the Regions,</p>
+      <p n="9">Acting in accordance with the procedure laid down in Article 251 of the Treaty(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Exports of metered dose inhalers to developing countries and exports of medical drug pumps containing chlorofluorocarbons are not allowed under Regulation (EC) No 2037/2000 of the European Parliament and of the Council of 29 June 2000 on substances that deplete the ozone layer(3). However, the export of these health products, the use of which is permitted in the Community market, should not be restricted.</p>
+      <p n="12">(2) Regulation (EC) No 2037/2000 should, therefore, be amended accordingly,</p>
+      <p n="13">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The following point shall be added to Article 11(1) of Regulation (EC) No 2037/2000:</p>
+      <p n="16">"(f) metered dose inhalers and delivery mechanisms containing chlorofluorcarbons for hermetically sealed devices for implantation in the human body for delivery of measured doses of medication which, under Article 4(1), may be given a temporary authorisation in accordance with the procedure referred to in Article 18(2)."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 28 September 2000.</p>
+      <p n="21">For the European Parliament</p>
+      <p n="22">The President</p>
+      <p n="23">N. Fontaine</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">P. Moscovici</p>
+      <p n="27">(1) Opinion given on 20 September 2000 (not yet published in the Official Journal).</p>
+      <p n="28">(2) Opinion of the European Parliament of 7 September 2000 (not yet published in the Official Journal) and Council of 28 September 2000.</p>
+      <p n="29">(3) See page 1 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

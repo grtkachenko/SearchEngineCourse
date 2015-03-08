@@ -1,0 +1,57 @@
+<TEI.2 id="jrc32003D0862-en" n="32003D0862" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0862 English</title>
+        <title>2003/862/EC: Council Decision of 8 December 2003 extending the effects of Decision 2003/861/EC concerning analysis and cooperation with regard to counterfeit euro coins to those Member States which have not adopted the euro as their single currency</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0862:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0862:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">206</classCode>
+        <classCode scheme="eurovoc">5648</classCode>
+        <classCode scheme="eurovoc">574</classCode>
+        <classCode scheme="eurovoc">665</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0862-en." lang="en">
+    <body>
+      <head n="1">2003/862/EC: Council Decision of 8 December 2003 extending the effects of Decision 2003/861/EC concerning analysis and cooperation with regard to counterfeit euro coins to those Member States which have not adopted the euro as their single currency</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 8 December 2003</p>
+      <p n="4">extending the effects of Decision 2003/861/EC concerning analysis and cooperation with regard to counterfeit euro coins to those Member States which have not adopted the euro as their single currency</p>
+      <p n="5">(2003/862/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 308 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) In adopting Decision of 2003/861/EC concerning analysis and cooperation with regard to counterfeit euro coins the Council provided that it is to have effect in those Member States which have adopted the euro as their single currency.</p>
+      <p n="12">(2) It is important that the euro should enjoy the same level of protection in those Member States which have not adopted it and the necessary provisions should be taken to that end,</p>
+      <p n="13">HAS ADOPTED THIS DECISION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Council Decision 2003/861/EC concerning analysis and cooperation with regard to counterfeit euro coins shall be extended to those Member States which have not adopted the euro as their single currency.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision is addressed to those Member States which have not adopted the euro as their single currency.</p>
+      <p n="18">Done at Brussels, 8 December 2003.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">F. Frattini</p>
+      <p n="22">(1) Opinion delivered on 18 November 2003 (not yet published in the Official Journal).</p>
+    </body>
+  </text>
+</TEI.2>

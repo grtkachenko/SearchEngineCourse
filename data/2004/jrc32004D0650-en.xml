@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32004D0650-en" n="32004D0650" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0650 English</title>
+        <title>2004/650/EC: Council Decision of 13 September 2004 amending Regulation (EC) No 998/2003 of the European Parliament and of the Council on the animal health requirements applicable to the non-commercial movement of pet animals to take account of the accession of Malta(Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0650:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0650:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">12</classCode>
+        <classCode scheme="eurovoc">1774</classCode>
+        <classCode scheme="eurovoc">1919</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">4152</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0650-en." lang="en">
+    <body>
+      <head n="1">2004/650/EC: Council Decision of 13 September 2004 amending Regulation (EC) No 998/2003 of the European Parliament and of the Council on the animal health requirements applicable to the non-commercial movement of pet animals to take account of the accession of Malta(Text with EEA relevance)</head>
+      <p n="2">Council Decision of 13 September 2004 amending Regulation (EC) No 998/2003 of the European Parliament and of the Council on the animal health requirements applicable to the non-commercial movement of pet animals to take account of the accession of Malta (Text with EEA relevance) (2004/650/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the 2003 Act of Accession(1), and in particular, Article 57 thereof,</p>
+      <p n="6">Whereas:</p>
+      <p n="7">(1) For certain acts adopted by the European Union, which remain valid beyond 1 May 2004 , and require adaptation by reason of accession, the necessary adaptations were not provided for in the 2003 Act of Accession, in particular in Annex II thereto.</p>
+      <p n="8">(2) Regulation (EC) No 998/2003 of the European Parliament and of the Council(2) establishes veterinary conditions applying in particular to non-commercial movements of pet dogs, cats and ferrets, and is one of these acts that must be adapted.</p>
+      <p n="9">(3) Malta, which formerly applied a system of six months quarantine for imports for the species concerned, has abandoned this regime in order to transpose and implement Regulation (EC) No 998/2003 as from 3 July 2004 .</p>
+      <p n="10">(4) In the course of the negotiations for enlargement it was accepted that Malta, being an island with a similar health status for freedom from rabies to that of Ireland, the United Kingdom and Sweden, should be treated in the same category as these three Member States.</p>
+      <p n="11">(5) Regulation (EC) No 998/2003 divides Member States into two categories according to the history of their controls against rabies, and grants Sweden, Ireland and the United Kingdom a transitional period of five years for controls on dogs, cats and ferrets entering their territory.</p>
+      <p n="12">(6) Malta should therefore be added to the list of Member States which have been granted a transitional period under Regulation (EC) No 998/2003.</p>
+      <p n="13">(7) Regulation (EC) No 998/2003 should therefore be amended accordingly,</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EC) No 998/2003 is hereby amended as follows:</p>
+      <p n="17">1. Article 6(1):</p>
+      <p n="18">in the first subparagraph, introductory wording, «Malta» shall be inserted after «Ireland» ,</p>
+      <p n="19">in the third subparagraph, «these three Member States» shall be replaced by «these four Member States» .</p>
+      <p n="20">2. In Annex II, «Lists of countries and territories» , Part A, «Malta» shall be inserted after «Ireland» .</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision shall apply from the twentieth day following that of its publication in the Official Journal of the European Union .</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 13 September 2004 .</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">B. R. Bot</p>
+      <p n="29">(1) OJ L 236, 23.9.2003, p. 33.</p>
+      <p n="30">(2) OJ L 146, 13.6.2003, p. 1. Regulation as last amended by Commission Regulation (EC) No 592/2004 (OJ L 94, 31.3.2004, p. 7).</p>
+    </body>
+  </text>
+</TEI.2>

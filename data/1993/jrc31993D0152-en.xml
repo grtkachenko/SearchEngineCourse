@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31993D0152-en" n="31993D0152" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993D0152 English</title>
+        <title>93/152/EEC: Commission Decision of 8 February 1993 laying down the criteria for vaccines to be used against Newcastle disease in the context of routine vaccination programmes</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0152:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0152:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993D0152-en." lang="en">
+    <body>
+      <head n="1">93/152/EEC: Commission Decision of 8 February 1993 laying down the criteria for vaccines to be used against Newcastle disease in the context of routine vaccination programmes</head>
+      <p n="2">COMMISSION DECISION of 8 February 1993 laying down the criteria for vaccines to be used against Newcastle disease in the context of routine vaccination programmes</p>
+      <p n="3">(93/152/EEC)THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 90/539/EEC of 15 October 1990 on animal health conditions governing intra-Community trade in and imports from third countries of poultry and hatching eggs (1), as last amended by Council Directive 92/65/EEC (2), and in particular Annex III thereof,</p>
+      <p n="6">Whereas Annex III of Directive 90/539/EEC states that the Commission may determine the criteria for using vaccines against Newcastle disease in the context of routine vaccination programmes;</p>
+      <p n="7">Whereas the said criteria shall ensure that live attenuated and inactivated vaccines used in routine vaccination programmes fulfil certain requirements relating in the intracerebral pathogenicity index (ICPI) in respect of the Newcastle disease virus strain used in the said vaccines;</p>
+      <p n="8">Whereas it seems desirable that the level of intracerebral pathogenicity index virus strains to be used in vaccine production should be clearly defined;</p>
+      <p n="9">Whereas the Scientific Veterinary Committee and the Standing Veterinary Committee have been consulted,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">For the use in routine vaccination programmes:</p>
+      <p n="13">(a) live attenuated Newcastle disease vaccines shall be prepared from a Newcastle disease virus strain for which the master seed has been tested and shown to have an intracerebral pathogenicity index (ICPI) of:</p>
+      <p n="14">(i) less than 0,4 if not less than 107 EID50 are administrated to each bird in the ICPI test;</p>
+      <p n="15">or</p>
+      <p n="16">(ii) less than 0,5 if not less than 108 EID50 are administered to each bird, in the ICPI test;</p>
+      <p n="17">(b) inactivated Newcastle disease vaccines shall be prepared from a Newcastle disease virus strain for which the Master Seed has been tested and shown to have an intracerebral pathogenicity index (ICPI) of less than 0,7 if not less than 108 EID50 are administered to each bird in the ICPI test.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The present Decision shall apply from 1 January 1995.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 8 February 1993.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">René STEICHEN</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ No L 303, 31. 10. 1990, p. 6.</p>
+      <p n="27">(2) OJ No L 268, 14. 9. 1992, p. 54.</p>
+    </body>
+  </text>
+</TEI.2>

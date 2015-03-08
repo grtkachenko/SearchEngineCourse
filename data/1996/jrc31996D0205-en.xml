@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31996D0205-en" n="31996D0205" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0205 English</title>
+        <title>96/205/EC: Council Decision of 20 November 1995 concerning the provisional application of certain provisions of the Interregional Framework Cooperation Agreement between the European Community and its Member States, of the one part, and the Southern Common Market and its Party States, of the other part</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0205:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0205:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1379</classCode>
+        <classCode scheme="eurovoc">1616</classCode>
+        <classCode scheme="eurovoc">207</classCode>
+        <classCode scheme="eurovoc">209</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">5738</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0205-en." lang="en">
+    <body>
+      <head n="1">96/205/EC: Council Decision of 20 November 1995 concerning the provisional application of certain provisions of the Interregional Framework Cooperation Agreement between the European Community and its Member States, of the one part, and the Southern Common Market and its Party States, of the other part</head>
+      <p n="2">COUNCIL DECISION of 20 November 1995 concerning the provisional application of certain provisions of the Interregional Framework Cooperation Agreement between the European Community and its Member States, of the one part, and the Southern Common Market and its Party States, of the other part (1) (96/205/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION.</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas the Community and the Southern Common Market (Mercosur) have undertaken to adopt procedures for the early application of certain provisions of the Interregional Framework Cooperation Agreement between the European Community and its Member States, of the one part, and the Southern Common Market and its Party States, of the other part, which deal with trade cooperation between the Parties and the institutional framework for such cooperation;</p>
+      <p n="7">Whereas the provisional application of the provisions in question will contribute to facilitating and promoting closer trade relations between the Community and Mercosur, pending the completion of the procedures required to bring the Agreement into force,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The exchange of letters between the Community and Mercosur, which provides for the provisional application of certain provisions of the Interregional Framework Cooperation Agreement between the European Community and its Member States, of the one part, and the Southern Common Market and its Party States, of the other part, is hereby approved on behalf of the Community.</p>
+      <p n="11">The text of the exchange of letters is attached to this Decision.</p>
+      <p n="12">Article 2</p>
+      <p n="13">The Commission shall represent the Community within the bodies referred to in Articles 27 and 29 of the Agreement.</p>
+      <p n="14">Article 3</p>
+      <p n="15">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="16">Done at Brussels, 20 November 1995.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">J. SOLANA</p>
+      <p n="20">(1) The Interregional Framework Cooperation Agreement between the European Community and its Member States, of the one part, and the Southern Common Market and its Party States, of the other part, was signed, subject to conclusion, at Madrid from 15 to 31 December 1995.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,71 @@
+<TEI.2 id="jrc31998R0782-en" n="31998R0782" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0782 English</title>
+        <title>Council Regulation (EC) No 782/98 of 7 April 1998 amending Regulation (EC) No 1626/94 laying down certain technical measures for the conservation of fishery resources in the Mediterranean</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0782:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0782:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">133</classCode>
+        <classCode scheme="eurovoc">1879</classCode>
+        <classCode scheme="eurovoc">3544</classCode>
+        <classCode scheme="eurovoc">4829</classCode>
+        <classCode scheme="eurovoc">5228</classCode>
+        <classCode scheme="eurovoc">997</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0782-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 782/98 of 7 April 1998 amending Regulation (EC) No 1626/94 laying down certain technical measures for the conservation of fishery resources in the Mediterranean</head>
+      <p n="2">COUNCIL REGULATION (EC) No 782/98 of 7 April 1998 amending Regulation (EC) No 1626/94 laying down certain technical measures for the conservation of fishery resources in the Mediterranean</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community and, in particular, Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas, according to Article 2 of Council Regulation (EC) No 3760/92 of 20 December 1992 establishing a Community system for fisheries and aquaculture (4), the general objectives of the common fisheries policy is to protect and conserve living marine aquatic resources;</p>
+      <p n="9">Whereas the International Commission for the Conservation of Atlantic Tuna (ICCAT) at its 10th extraordinary session held in San Sebastian, Spain, from 22 to 29 November 1996, adopted two recommendations concerning the fishing activity for bluefin tuna in the Mediterranean; whereas ICCAT has also recommended certain specific rules on minimum landing sizes of bluefin tuna; whereas all these recommendations are drawn up on scientific advice;</p>
+      <p n="10">Whereas in the framework of the Community's international obligations and, in particular, taking into account the future accession of the Community to ICCAT, it is appropriate to implement those recommendations, in order to avoid an excessive fishing pressure on bluefin tuna;</p>
+      <p n="11">Whereas Regulation (EC) No 1626/94 (5) should consequently be amended,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Regulation (EC) No 1626/94 is hereby amended as follows:</p>
+      <p n="15">1. the following Article shall be inserted:</p>
+      <p n="16">'Article 3a</p>
+      <p n="17">1. It shall be forbidden to fish for bluefin tuna with purse seine during the period from 1 to 31 August.</p>
+      <p n="18">2. It shall be forbidden to use airplanes or helicopters in support of fishing operations for bluefin tuna during the period 1 to 30 June.`</p>
+      <p n="19">2. in Annex IV:</p>
+      <p n="20">- the following text shall replace the corresponding entry:</p>
+      <p n="21">&gt;TABLE&gt;</p>
+      <p n="22">- former footnote (**) shall be renumbered as (***).</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Luxembourg, 7 April 1998.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">D. BLUNKETT</p>
+      <p n="30">(1) OJ C 337, 7. 11. 1997, p. 36.</p>
+      <p n="31">(2) OJ C 104, 6. 4. 1998.</p>
+      <p n="32">(3) OJ C 73, 9. 3. 1998.</p>
+      <p n="33">(4) OJ L 389, 31. 12. 1992, p. 1.</p>
+      <p n="34">(5) OJ L 171, 6. 7. 1994, p. 1. Regulation as amended by Regulation (EC) No 1075/96 (OJ L 142, 15. 6. 1996, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

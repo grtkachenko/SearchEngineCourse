@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32003R1465-en" n="32003R1465" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1465 English</title>
+        <title>Commission Regulation (EC) No 1465/2003 of 19 August 2003 amending Regulation (EC) No 1508/2001 laying down the marketing standard for onions</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1465:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1465:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1603</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1465-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1465/2003 of 19 August 2003 amending Regulation (EC) No 1508/2001 laying down the marketing standard for onions</head>
+      <p n="2">Commission Regulation (EC) No 1465/2003</p>
+      <p n="3">of 19 August 2003</p>
+      <p n="4">amending Regulation (EC) No 1508/2001 laying down the marketing standard for onions</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Commission Regulation (EC) No 47/2003(2), and in particular Article 2(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 1508/2001(3), as amended by Regulation (EC) No 46/2003(4), laid down the marketing standard for onions, in particular with regards to presentation and marking provisions.</p>
+      <p n="10">(2) Consumer packaging containing mixtures of onions of different colours are becoming more common on the market and enable demand from certain consumers to be met.</p>
+      <p n="11">(3) Fair trading requires onions sold in the same package to be of uniform quality. This makes it necessary for mixtures of onions of different colours to be uniform in quality, as well as, for each colour concerned, in origin, variety and size when combined in sales packages. In addition, for such sales packages, it is appropriate to indicate each of the colours that are present, as well as the country of origin for each one of the various colours.</p>
+      <p n="12">(4) Regulation (EC) No 1508/2001 should therefore be amended accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Annex to Regulation (EC) No 1508/2001 is amended according to the Annex to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 19 August 2003.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="25">(2) OJ L 7, 11.1.2003, p. 64.</p>
+      <p n="26">(3) OJ L 200, 25.7.2001, p. 14.</p>
+      <p n="27">(4) OJ L 7, 11.1.2003, p. 61.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">The Annex to Regulation (EC) No 1508/2001 is amended as follows:</p>
+      <p n="30">1. In title V (Provisions concerning presentation), point A (Uniformity), the following second paragraph is inserted:</p>
+      <p n="31">"Sales packages, of a net weight not exceeding three kilograms, may however contain mixtures of onions of different colours, provided they are uniform in quality, and, for each colour concerned, in origin, variety and size."</p>
+      <p n="32">2. In title VI (Provisions concerning marking), points B (Nature of produce) and C (Origin of produce) are replaced by the following text:</p>
+      <p n="33">"B. Nature of produce</p>
+      <p n="34">- 'Onions' if the contents are not visible from the outside,</p>
+      <p n="35">- In the case of sales packages containing a mixture of different colours of onions:</p>
+      <p n="36">- 'Mixed onions' or equivalent denomination,</p>
+      <p n="37">- when the contents are not visible from the outside, the indication of each of the colours present in the package, and, of the minimum number of pieces of each of the colours concerned.</p>
+      <p n="38">C. Origin of produce</p>
+      <p n="39">- Country of origin and, optionally, district where grown or national, regional or local place name,</p>
+      <p n="40">- In the case of sales packages containing a mixture of onions of different colours of different origins, the indication of each country of origin shall appear next to the name of the colour concerned."</p>
+    </body>
+  </text>
+</TEI.2>

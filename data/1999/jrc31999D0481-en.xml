@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31999D0481-en" n="31999D0481" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0481 English</title>
+        <title>1999/481/CFSP: Council Decision of 19 July 1999 amending Common Position 96/184/CFSP concerning arms exports to the former Yugoslavia</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0481:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0481:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2647</classCode>
+        <classCode scheme="eurovoc">3483</classCode>
+        <classCode scheme="eurovoc">3577</classCode>
+        <classCode scheme="eurovoc">5931</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0481-en." lang="en">
+    <body>
+      <head n="1">1999/481/CFSP: Council Decision of 19 July 1999 amending Common Position 96/184/CFSP concerning arms exports to the former Yugoslavia</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 19 July 1999</p>
+      <p n="4">amending Common Position 96/184/CFSP concerning arms exports to the former Yugoslavia</p>
+      <p n="5">(1999/481/CFSP)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty on European Union, and in particular Article 15 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) On 26 February 1996 the Council adopted Common Position 96/184/CFSP concerning arms exports to the former Yugoslavia(1), which was amended by Council Decision 98/498/CFSP(2);</p>
+      <p n="10">(2) This Common Position should be updated in the light of changes in the international military presence in Bosnia, in particular the deployment of the Stabilisation Forces (SFOR);</p>
+      <p n="11">(3) In order to pursue pacification and stabilisation in Bosnia and Herzegovina transfers of small arms to the police forces should not be subject to the embargo,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Common Position 96/184/CFSP is hereby amended as follows:</p>
+      <p n="15">1. Point 2(i) shall be replaced by the following: "(i) during the period of the deployment of SFOR, as well as other operations including IPTF, the EU embargo on arms, munitions and military equipment(3) will be maintained towards Bosnia and Herzegovina, Croatia and the Federal Republic of Yugoslavia.</p>
+      <p n="16">Transfers of equipment needed for demining activities and transfers of small arms to the police forces in Bosnia and Herzegovina are not covered by this embargo. States will inform the Council of those transfers;"</p>
+      <p n="17">2. Point 3 shall be replaced by the following: "3. This Common Position shall be re-examined before the end of the deployment of SFOR."</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Decision shall take effect on the date of its adoption.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision shall be published in the Official Journal.</p>
+      <p n="22">Done at Brussels, 19 July 1999.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">T. HALONEN</p>
+      <p n="26">(1) OJ L 58, 7.3.1996, p. 1.</p>
+      <p n="27">(2) OJ L 225, 12.8.1998, p. 1.</p>
+      <p n="28">(3) The abovementioned embargo covers weapons designed to kill and their ammunition, weapons platforms, non-weapons platforms and ancillary equipment as listed in the EC embargo list of 8 and 9 July 1991. The embargo also covers spare parts, repairs, transfer of military technology and contracts entered into prior to the onset of the embargo.</p>
+    </body>
+  </text>
+</TEI.2>

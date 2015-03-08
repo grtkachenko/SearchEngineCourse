@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32002R0434-en" n="32002R0434" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0434 English</title>
+        <title>Commission Regulation (EC) No 434/2002 of 8 March 2002 amending Regulation (EC) No 94/2002 laying down detailed rules for applying Council Regulation (EC) No 2826/2000 on information and promotion actions for agricultural products on the internal market</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0434:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0434:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1423</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2803</classCode>
+        <classCode scheme="eurovoc">3299</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0434-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 434/2002 of 8 March 2002 amending Regulation (EC) No 94/2002 laying down detailed rules for applying Council Regulation (EC) No 2826/2000 on information and promotion actions for agricultural products on the internal market</head>
+      <p n="2">Commission Regulation (EC) No 434/2002</p>
+      <p n="3">of 8 March 2002</p>
+      <p n="4">amending Regulation (EC) No 94/2002 laying down detailed rules for applying Council Regulation (EC) No 2826/2000 on information and promotion actions for agricultural products on the internal market</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2826/2000 of 19 December 2000 on information and promotion actions for agricultural products on the internal market(1), and in particular Articles 12 and 16 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 94/2002(2), as amended by Regulation (EC) No 305/2002(3), lays down detailed rules for applying Regulation (EC) No 2826/2000.</p>
+      <p n="10">(2) Article 5(1) of Regulation (EC) No 94/2002 sets 15 June and in the first instance 15 March 2002 as the deadline for presentation to the Member State concerned of programmes submitted by trade federations and interbranch organisations.</p>
+      <p n="11">(3) On account of the late publication of the guidelines for the various sectors and in particular for cut flowers and live plants, the first year's deadline for the presentation of programmes to the Member State concerned should be put back to 31 March.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion delivered at the joint meeting of the management committees on agricultural product promotion,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The first sentence of Article 5(1) of Regulation (EC) No 94/2002 is hereby replaced by the following: "With a view to implementing measures contained in programmes as referred to in Article 6 of Regulation (EC) No 2826/2000, the Community trade federations or interbranch organisations that are representative of the sector(s) concerned shall submit programmes in response to calls for proposals issued by the Member States concerned before 31 March the first time and before 15 June thereafter."</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 8 March 2002.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 328, 21.12.2000, p. 2.</p>
+      <p n="24">(2) OJ L 17, 19.1.2002, p. 20.</p>
+      <p n="25">(3) OJ L 47, 19.2.2002, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

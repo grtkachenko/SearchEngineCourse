@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31989R0921-en" n="31989R0921" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989R0921 English</title>
+        <title>Commission Regulation (EEC) No 921/89 of 10 April 1989 amending Regulation (EEC) No 890/78 laying down detailed rules for the certification of hops</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989R0921:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989R0921:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989R0921-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 921/89 of 10 April 1989 amending Regulation (EEC) No 890/78 laying down detailed rules for the certification of hops</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 921/89</p>
+      <p n="4">of 10 April 1989</p>
+      <p n="5">amending Regulation (EEC) No 890/78 laying down detailed rules for the certification of hops</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 1696/71 of 26 July 1971 on the common organization of the market in hops (1), as last amended by Regulation (EEC) No 3998/87 (2), and in particular Article 2 (5) thereof,</p>
+      <p n="9">Whereas, to determine the proportions of hop leaves, stalks and waste, pursuant to Commission Regulation (EEC) No 890/78 (3), as last amended by Regulation (EEC) No 3994/88 (4), it has been assumed that the densities of hop waste and lupulin are identical; whereas it is now possible to determine the ratio between their respective densities; whereas the method of calculation used for that purpose should accordingly be specified;</p>
+      <p n="10">Whereas, pursuant to Article 7 of Regulation (EEC) No 890/78, the package in which the product is marketed must bear, after sealing, marking covering the required particulars; whereas, to avoid any possibility of abuse, provision should be make for such marking to be affixed also to the packets or boxes of powder or extract in the package; whereas Regulation (EEC) No 890/78 should be amended accordingly;</p>
+      <p n="11">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Hops,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Regulation (EEC) No 890/78 is hereby amended as follows:</p>
+      <p n="15">1. in the third paragraph of point C.1 in Annex II, 'The waste and the lupulin cannot be separated. The relative percentage of each must therefore be estimated by an objective assessment of the colour, and the weight is calculated on the assumption that their density is identical.' is replaced by:</p>
+      <p n="16">'It is extremely difficult to separate the waste and the lupulin precisely. However, it is possible, using a sieve with a mesh size of 0,8 millimetres, to determine approximately the relative proportions of the waste and the lupulin.</p>
+      <p n="17">When estimating the proportion of lupulin, it should be taken into account that the density of the lupulin is four times greater than that of the waste.';</p>
+      <p n="18">2. in point (d) of Annex IV, 'and on each packet or box of powder or extract in the sealed package' is added after 'printing on the sealed package'.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">It shall apply from the 1989 hops harvest.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 10 April 1989.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Ray MAC SHARRY</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ No L 175, 4. 8. 1971, p. 1.</p>
+      <p n="28">(2) OJ No L 377, 31. 12. 1987, p. 40.</p>
+      <p n="29">(3) OJ No L 117, 29. 4. 1978, p. 43.</p>
+      <p n="30">(4) OJ No L 354, 22. 12. 1988, p. 24.</p>
+    </body>
+  </text>
+</TEI.2>

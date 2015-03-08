@@ -1,0 +1,58 @@
+<TEI.2 id="jrc32004R0749-en" n="32004R0749" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0749 English</title>
+        <title>Commission Regulation (EC) No 749/2004 of 22 April 2004 laying down transitional measures as regards drinking milk produced in Estonia</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0749:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0749:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1566</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">5619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0749-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 749/2004 of 22 April 2004 laying down transitional measures as regards drinking milk produced in Estonia</head>
+      <p n="2">Commission Regulation (EC) No 749/2004</p>
+      <p n="3">of 22 April 2004</p>
+      <p n="4">laying down transitional measures as regards drinking milk produced in Estonia</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular Article 2(3) thereof,</p>
+      <p n="8">Having regard to the Act of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular the first paragraph of Article 41 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) More than 90 % of the drinking milk produced in Estonia has a fat content of 2,5 %, which does not comply with the requirements of Article 3(1)(b) of Council Regulation (EC) No 2597/97 of 18 December 1997 laying down additional rules on the common organisation of the market in milk and milk products for drinking milk(1).</p>
+      <p n="11">(2) In order to facilitate the transition towards the full application of Regulation (EC) No 2597/97, it is therefore necessary to adopt transitional measures allowing the delivery and the sale in Estonia of milk produced in Estonia with a fat content of 2,5 %.</p>
+      <p n="12">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">By way of derogation from Article 3(1)(b) of Regulation (EC) No 2597/97, drinking milk produced in Estonia with a fat content of 2,5 % may be delivered or sold in Estonia in accordance with Article 2(1) of that Regulation.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force subject to and on the date of the entry into force of the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia.</p>
+      <p n="18">It shall apply until 30 April 2007.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 22 April 2004.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 351, 23.12.1997, p. 13. Regulation as amended by Regulation (EC) No 1602/1999 (OJ L 189, 22.7.1999, p. 43).</p>
+    </body>
+  </text>
+</TEI.2>

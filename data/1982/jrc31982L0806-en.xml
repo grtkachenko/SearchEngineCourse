@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31982L0806-en" n="31982L0806" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31982L0806 English</title>
+        <title>Council Directive 82/806/EEC of 22 November 1982 amending, for the second time (benzene), Directive 76/769/EEC on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparationsH</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31982L0806:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31982L0806:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31982L0806-en." lang="en">
+    <body>
+      <head n="1">Council Directive 82/806/EEC of 22 November 1982 amending, for the second time (benzene), Directive 76/769/EEC on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparationsH</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL DIRECTIVE</p>
+      <p n="4">of 22 November 1982</p>
+      <p n="5">amending, for the second time (benzene), Directive 76/769/EEC on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparations</p>
+      <p n="6">(82/806/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN</p>
+      <p n="8">COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,</p>
+      <p n="10">Having regard to the proposal from the Commission (1),</p>
+      <p n="11">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="12">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="13">Whereas benzene is recognized as being highly toxic and liable to affect the central nervous and herma- topoietic systems and to induce cancer and in particular leukaemia;</p>
+      <p n="14">Whereas benzene is used inter alia as a constituent in the manufacture of certain toys, making it possible for children to absorb benzene by inhalation, ingestion or through the skin, thereby exposing them to the abovementioned hazards;</p>
+      <p n="15">Whereas the fixing of a maximum concentration limit of benzene in the free state enables these hazards to be excluded;</p>
+      <p n="16">Whereas benzene is governed by rules in certain Member States; whereas these rules differ as to the conditions of its marketing and use; whereas these differences constitute a barrier to trade and directly affect the establishment and functioning of the common market;</p>
+      <p n="17">Whereas, in order to eliminate these differences, the Annex to Directive 76/769/EEC (4), as last amended by Directive 79/663/EEC (5), should be supplemented;</p>
+      <p n="18">Whereas the Scientific Advisory Committee on the Toxicity and Eco-Toxicity of Chemical Compounds has delivered an opinion on this point,</p>
+      <p n="19">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="20">Article 1</p>
+      <p n="21">The following entry is hereby added to the Annex to Directive 76/769/EEC:</p>
+      <p n="22">1.2 // '5. Benzene CAS No (Chemical Abstract Service Number) 71-43-2 // Not permitted in toys or parts of toys as placed on the market where the concentration of benzene in the free state is in excess of 5 mg/kg of the weight of the toy or part of toy.'</p>
+      <p n="23">Article 2</p>
+      <p n="24">Member States shall take the measures necessary to comply with this Directive within 12 months of its notification. They shall forthwith inform the Commission thereof.</p>
+      <p n="25">Article 3</p>
+      <p n="26">This Directive is addressed to the Member States.</p>
+      <p n="27">Done at Brussels, 22 November 1982.</p>
+      <p n="28">For the Council</p>
+      <p n="29">The President</p>
+      <p n="30">U. ELLEMANN-JENSEN</p>
+      <p n="31">(1) OJ No C 285, 4. 11. 1981, p. 2.</p>
+      <p n="32">(2) OJ No C 346, 31. 12. 1980, p. 95.</p>
+      <p n="33">(3) OJ No C 353, 31. 12. 1980, p. 31.</p>
+      <p n="34">(4) OJ No L 262, 27. 9. 1976, p. 201.</p>
+      <p n="35">(5) OJ No L 197, 3. 8. 1979, p. 37.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32003R0775-en" n="32003R0775" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0775 English</title>
+        <title>Commission Regulation (EC) No 775/2003 of 5 May 2003 amending Regulation (EC) No 2759/1999 laying down rules for the application of Council Regulation (EC) No 1268/1999 on Community support for pre-accession measures for agriculture and rural development in the applicant countries of central and eastern Europe in the pre-accession period (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0775:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0775:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">12</classCode>
+        <classCode scheme="eurovoc">1542</classCode>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+        <classCode scheme="eurovoc">914</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0775-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 775/2003 of 5 May 2003 amending Regulation (EC) No 2759/1999 laying down rules for the application of Council Regulation (EC) No 1268/1999 on Community support for pre-accession measures for agriculture and rural development in the applicant countries of central and eastern Europe in the pre-accession period (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 775/2003</p>
+      <p n="3">of 5 May 2003</p>
+      <p n="4">amending Regulation (EC) No 2759/1999 laying down rules for the application of Council Regulation (EC) No 1268/1999 on Community support for pre-accession measures for agriculture and rural development in the applicant countries of central and eastern Europe in the pre-accession period</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC) No 1268/1999 of 21 June 1999 on Community support for pre-accession measures for agriculture and rural development in the applicant countries of central and eastern Europe in the pre-accession period(1), as last amended by Regulation (EC) No 696/2003(2), and in particular Article 12(1) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Article 3 of Commission Regulation (EC) No 2759/1999(3), as last amended by Regulation (EC) No 2251/2002(4), concerns the processing and marketing measure and its paragraph 2 lists certain expenditure that may be eligible. In order to avoid misinterpretation, it should be clearly indicated that the list of expenditure is not exhaustive.</p>
+      <p n="11">(2) Financing Agreements referred to in Article 1(2) of Commission Regulation (EC) 2222/2000(5), as last amended by Regulation (EC) No 188/2003(6), applicable between the Community and each applicant country set already out the parameters determining eligible expenditure. It is therefore appropriate to take into account the relevant provisions of those Agreements.</p>
+      <p n="12">(3) Regulation (EC) No 2759/1999 should therefore be amended accordingly.</p>
+      <p n="13">(4) The measures provided for in this Regulation are in accordance with the opinion of the Agricultural Structures and Rural Development Committee,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EC) No 2759/1999 is amended as follows:</p>
+      <p n="17">1. in Article 3(2) the introductory phrase is replaced by the following:</p>
+      <p n="18">"Eligible expenditure may include in particular:";</p>
+      <p n="19">2. the following Article 8a is inserted:</p>
+      <p n="20">"Article 8a</p>
+      <p n="21">Financing Agreements</p>
+      <p n="22">For each Programme eligible expenditure shall respect the provisions of the Financing Agreement referred to in Article 1(2) of Commission Regulation (EC) No 2222/2000(7) applicable between the Community and the applicant country concerned."</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 5 May 2003.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Franz Fischler</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 161, 26.6.1999, p. 87.</p>
+      <p n="31">(2) OJ L 99, 17.4.2003, p. 24.</p>
+      <p n="32">(3) OJ L 331, 23.12.1999, p. 51.</p>
+      <p n="33">(4) OJ L 343, 18.12.2002, p. 8.</p>
+      <p n="34">(5) OJ L 253, 7.10.2000, p. 5.</p>
+      <p n="35">(6) OJ L 27, 1.2.2003, p. 4.</p>
+      <p n="36">(7) OJ L 253, 7.10.2000, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>

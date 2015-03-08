@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32002D0580-en" n="32002D0580" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0580 English</title>
+        <title>2002/580/EC: Council Decision of 18 June 2002 amending Decision 97/788/EC as regards the period of validity</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0580:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0580:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">191</classCode>
+        <classCode scheme="eurovoc">235</classCode>
+        <classCode scheme="eurovoc">4081</classCode>
+        <classCode scheme="eurovoc">6223</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0580-en." lang="en">
+    <body>
+      <head n="1">2002/580/EC: Council Decision of 18 June 2002 amending Decision 97/788/EC as regards the period of validity</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 18 June 2002</p>
+      <p n="4">amending Decision 97/788/EC as regards the period of validity</p>
+      <p n="5">(2002/580/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 70/457/EEC of 29 September 1970 on the common catalogue of varieties of agricultural plant species(1), and in particular Article 21(1)(b) thereof,</p>
+      <p n="9">Having regard to Council Directive 70/458/EEC of 29 September 1970 on the marketing of vegetable seed(2), and in particular Article 32(1)(b) thereof,</p>
+      <p n="10">Having regard to the proposal from the Commission,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Council Decision 97/788/EC of 17 November 1997 on the equivalence of checks on practices for the maintenance of varieties carried out in third countries(3) determined that the official checks on practices for the maintenance of varieties carried out in certain third countries afford the same guarantees as those carried out by the Member States. That Decision expired in the case of certain third countries on 30 June 1999, and in the case of other third countries it will expire on 30 June 2002.</p>
+      <p n="13">(2) It appears that the checks carried out in the third countries in accordance with Decision 97/788/EC continue to afford the same guarantees as those carried out by the Member States.</p>
+      <p n="14">(3) Decision 97/788/EC should therefore be amended accordingly,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Article 3 of Decision 97/788/EC shall be replaced by the following: "Article 3</p>
+      <p n="18">This Decision shall apply from 1 July 1997 to 30 June 1999 and from 18 June 2002 to 30 June 2005 in the case of the Republic of Korea and the Federal Republic of Yugoslavia and from 1 July 1997 to 30 June 2005 in the case of the other third countries listed in the Annex."</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Luxembourg, 18 June 2002.</p>
+      <p n="22">For the Council</p>
+      <p n="23">The President</p>
+      <p n="24">F. Álvarez-Cascos Fernández</p>
+      <p n="25">(1) OJ L 225, 12.10.1970, p. 1. Directive as last amended by Commission Directive 2002/8/EC (OJ L 37, 7.2.2002, p. 7).</p>
+      <p n="26">(2) OJ L 225, 12.10.1970, p. 7. Directive as last amended by Directive 2002/8/EC.</p>
+      <p n="27">(3) OJ L 322, 25.11.1997, p. 39.</p>
+    </body>
+  </text>
+</TEI.2>

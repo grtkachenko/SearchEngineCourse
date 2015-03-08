@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31996D0505-en" n="31996D0505" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0505 English</title>
+        <title>96/505/EC: Council Decision of 25 July 1996 concerning the conclusion of the Agreement on scientific and technical cooperation between the European Community and the State of Israel</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0505:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0505:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1518</classCode>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">225</classCode>
+        <classCode scheme="eurovoc">4415</classCode>
+        <classCode scheme="eurovoc">5237</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0505-en." lang="en">
+    <body>
+      <head n="1">96/505/EC: Council Decision of 25 July 1996 concerning the conclusion of the Agreement on scientific and technical cooperation between the European Community and the State of Israel</head>
+      <p n="2">COUNCIL DECISION of 25 July 1996 concerning the conclusion of the Agreement on scientific and technical cooperation between the European Community and the State of Israel (96/505/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 130m, in conjunction with Article 228 (2), first sentence, and Article 228 (3) first subparagraph thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Whereas the Community and Israel are pursuing specific research programmes in areas of common interest;</p>
+      <p n="8">Whereas on the basis of past experience under the 1975 Agreement between the European Economic Community and the State of Israel (2), both sides have expressed a desire to establish a deeper and broader framework for the conduct of collaboration in science and technology;</p>
+      <p n="9">Whereas the State of Israel, on the one hand, and the European Community and its Member States, on the other hand, have signed a Euro-Mediterranean association agreement providing for the negotiation of a cooperation agreement in the field of science and technology;</p>
+      <p n="10">Whereas by its Decision of 29 September 1994, the Council authorized the Commission to negotiate an agreement on scientific and technical cooperation between the European Community and the State of Israel;</p>
+      <p n="11">Whereas by its Decision of 18 March 1996, the Council decided that the Agreement on scientific and technical cooperation should be signed on behalf of the European Community;</p>
+      <p n="12">Whereas the Agreement on scientific and technical cooperation was signed on 25 March 1996;</p>
+      <p n="13">Whereas the Agreement on scientific and technical cooperation between the European Community and the State of Israel should be approved,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Agreement on scientific and technical cooperation between the European Community and the State of Israel is hereby approved on behalf of the Community.</p>
+      <p n="17">The text of the Agreement is attached to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The President of the Council shall, on behalf of the Community, give the notification provided for in Article 13 of the Agreement.</p>
+      <p n="20">Done at Brussels, 25 July 1996.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">H. COVENEY</p>
+      <p n="24">(1) Opinion delivered on 19 July 1996 (not yet published in the Official Journal).</p>
+      <p n="25">(2) OJ No L 136, 28. 5. 1975, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

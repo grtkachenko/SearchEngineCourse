@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32003R2319-en" n="32003R2319" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2319 English</title>
+        <title>Council Regulation (EC) No 2319/2003 of 17 December 2003 amending Regulation (EEC) No 2075/92 on the common organisation of the market in raw tobacco</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2319:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2319:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4373</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2319-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2319/2003 of 17 December 2003 amending Regulation (EEC) No 2075/92 on the common organisation of the market in raw tobacco</head>
+      <p n="2">Council Regulation (EC) No 2319/2003</p>
+      <p n="3">of 17 December 2003</p>
+      <p n="4">amending Regulation (EEC) No 2075/92 on the common organisation of the market in raw tobacco</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="9">Having regard to the opinion of the European Economic and Social Committee(2),</p>
+      <p n="10">Having regard to the opinion of the Committee of the Regions,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) In accordance with Article 13(1) of Regulation (EEC) No 2075/92(3), the Community Tobacco Fund is to be financed by deductions of 2 % and 3 % respectively from the premiums for the 2002 and 2003 harvests.</p>
+      <p n="13">(2) The reform of the common organisation of the market in raw tobacco, which also covers the Community Tobacco Fund, is currently being drawn up. The new rules are not due to take effect until 2005. A deduction percentage therefore needs to be set for 2004, and in the transitional context it should be maintained at the same level as in 2003.</p>
+      <p n="14">(3) According to the conclusions of the report on utilisation of the Community Tobacco Fund presented by the Commission to the Council pursuant to Article 13(1) of Regulation (EEC) No 2075/92, a 3 % deduction will be sufficient to cover the fund's prospective expenditure.</p>
+      <p n="15">(4) Regulation (EEC) No 2075/92 therefore needs to be amended,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Article 13(1) of Regulation (EEC) No 2075/92 is hereby replaced by the following:</p>
+      <p n="19">"1. A Community Tobacco Fund (hereafter 'the Fund') shall be set up, financed by a deduction of:</p>
+      <p n="20">- 2 % from the premium for the 2002 harvest, and</p>
+      <p n="21">- 3 % from the premium for the 2003 and 2004 harvests."</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 17 December 2003.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">G. Alemanno</p>
+      <p n="29">(1) Opinion of 16 December 2003 (not yet published in the Official Journal).</p>
+      <p n="30">(2) Opinion of 10 December 2003 (not yet published in the Official Journal).</p>
+      <p n="31">(3) OJ L 215, 30.7.1992, p. 70. Regulation as last amended by Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

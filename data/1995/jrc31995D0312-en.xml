@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31995D0312-en" n="31995D0312" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0312 English</title>
+        <title>95/312/EC: Council Decision of 24 July 1995 on the conclusion of an Additional Protocol to the Agreement between the European Economic Community and the Kingdom of Norway consequent on the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden to the European Union</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0312:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0312:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">2732</classCode>
+        <classCode scheme="eurovoc">3544</classCode>
+        <classCode scheme="eurovoc">4057</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0312-en." lang="en">
+    <body>
+      <head n="1">95/312/EC: Council Decision of 24 July 1995 on the conclusion of an Additional Protocol to the Agreement between the European Economic Community and the Kingdom of Norway consequent on the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden to the European Union</head>
+      <p n="2">COUNCIL DECISION of 24 July 1995 on the conclusion of an Additional Protocol to the Agreement between the European Economic Community and the Kingdom of Norway consequent on the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden to the European Union (95/312/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 in conjunction with Article 228 (2) first sentence thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas the Commission has negotiated on behalf of the Community an Additional Protocol to the Agreement between the European Economic Community and the Kingdom of Norway (1), signed in Brussels on 14 May 1973, to take account of the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden to the European Union;</p>
+      <p n="7">Whereas this Additional Protocol should be approved,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Additional Protocol to the Agreement between the European Economic Community and the Kingdom of Norway consequent on the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden to the European Union is hereby approved on behalf of the Community.</p>
+      <p n="11">The text of the Additional Protocol is attached to this Decision.</p>
+      <p n="12">Article 2</p>
+      <p n="13">The President of the Council is hereby authorized to designate the person empowered to sign the Additional Protocol in order to bind the Community.</p>
+      <p n="14">Done at Brussels, 24 July 1995.</p>
+      <p n="15">For the Council</p>
+      <p n="16">The President</p>
+      <p n="17">P. SOLBES MIRA</p>
+      <p n="18">(1) OJ No L 171, 27. 6. 1973, p. 2.</p>
+    </body>
+  </text>
+</TEI.2>

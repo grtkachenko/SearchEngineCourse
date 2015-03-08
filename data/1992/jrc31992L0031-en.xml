@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31992L0031-en" n="31992L0031" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992L0031 English</title>
+        <title>Council Directive 92/31/EEC of 28 April 1992 amending Directive 89/336/EEC on the approximation of the laws of the Member States relating to electromagnetic compatibility</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992L0031:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992L0031:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992L0031-en." lang="en">
+    <body>
+      <head n="1">Council Directive 92/31/EEC of 28 April 1992 amending Directive 89/336/EEC on the approximation of the laws of the Member States relating to electromagnetic compatibility</head>
+      <p n="2">COUNCIL DIRECTIVE 92/31/EEC of 28 April 1992 amending Directive 89/336/EEC on the approximation of the laws of the Member States relating to electromagnetic compatibility</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100a thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">In cooperation with the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas Directive 89/336/EEC (4) provides for complete harmonization relating to electromagnetic compatibility;</p>
+      <p n="9">Whereas a uniform application of that Directive requires the availability of harmonized standards; whereas these standards will not be available by the date of application of that Directive;</p>
+      <p n="10">Whereas that Directive has not provided for an adequate transitional period during which it would be permitted to place on the market apparatus manufactured in accordance with national regulations applicable before the date of application of the said Directive;</p>
+      <p n="11">Whereas manufacturers must have the time needed to allow apparatus in stock to be marketed;</p>
+      <p n="12">Whereas Directive 89/336/EEC should accordingly be amended,</p>
+      <p n="13">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Directive 89/336/EEC is hereby amended as follows:</p>
+      <p n="16">1. Article 10 (3) shall be deleted.</p>
+      <p n="17">2. Article 12 (1) shall be supplemented by the following paragraph:</p>
+      <p n="18">'However, Member States shall, for the period up to 31 December 1995, authorize the placing on the market and/or the putting into service of apparatus referred to in this Directive conforming to the national regulations in force in their territory on 30 June 1992.'</p>
+      <p n="19">Article 2</p>
+      <p n="20">1. Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive not later than three months after its adoption. They shall forthwith inform the Commission thereof.</p>
+      <p n="21">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.</p>
+      <p n="22">Member States shall apply these provisions not later than six months after the adoption of this Directive.</p>
+      <p n="23">2. Member States shall communicate to the Commission the texts of the main provisions of domestic law which they adopt in the field governed by this Directive.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Directive is addressed to the Member States. Done at Luxembourg, 28 April 1992. For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">Arlindo MARQUES CUNHA</p>
+      <p n="28">(1) OJ No C 126, 21. 6. 1991, p. 7. (2) OJ No C 13, 20. 1. 1992, p. 506 and OJ No C 94, 13. 4. 1992. (3) OJ No C 339, 31. 12. 1991, p. 1. (4) OJ No L 139, 23. 5. 1989, p. 19. Directive amended by Directive 91/263/EEC (OJ No L 128, 23. 5. 1991, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

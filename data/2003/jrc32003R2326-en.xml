@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32003R2326-en" n="32003R2326" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2326 English</title>
+        <title>Council Regulation (EC) No 2326/2003 of 19 December 2003 fixing for the fishing year 2004 the guide prices and Community producer prices for certain fishery products pursuant to Regulation (EC) No 104/2000</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2326:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2326:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1025</classCode>
+        <classCode scheme="eurovoc">2456</classCode>
+        <classCode scheme="eurovoc">2638</classCode>
+        <classCode scheme="eurovoc">2649</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2326-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2326/2003 of 19 December 2003 fixing for the fishing year 2004 the guide prices and Community producer prices for certain fishery products pursuant to Regulation (EC) No 104/2000</head>
+      <p n="2">Council Regulation (EC) No 2326/2003</p>
+      <p n="3">of 19 December 2003</p>
+      <p n="4">fixing for the fishing year 2004 the guide prices and Community producer prices for certain fishery products pursuant to Regulation (EC) No 104/2000</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 104/2000 of 17 December 1999 on the common organisation of the markets in fishery and aquaculture products(1), and in particular Article 18(3) and Article 26(1) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Article 18(1) and Article 26(1) of Regulation (EC) No 104/2000 provide that a guide price and a Community producer price should be fixed for each fishing year in order to determine price levels for intervention on the market for certain fisheries products.</p>
+      <p n="11">(2) Article 18(1) of Regulation (EC) No 104/2000 requires the guide price to be fixed for each of the products and groups of products listed in Annexes I and II to that Regulation.</p>
+      <p n="12">(3) On the basis of the data currently available on the prices for the products concerned and the criteria referred to in Article 18(2) of Regulation (EC) No 104/2000, the guide prices should be increased, maintained or reduced for the fishing year 2004 depending on the species.</p>
+      <p n="13">(4) Regulation (EC) No 104/2000 requires the Community producer price to be fixed for each of the products listed in Annex III to that Regulation. It is, however, sufficient to establish the Community producer price for only one of the products listed in Annex III to Regulation (EC) No 104/2000, since the prices for the other products may be calculated by means of the conversion factors established by Commission Regulation (EEC) No 3510/82(2).</p>
+      <p n="14">(5) On the basis of the criteria laid down in the first and second indent of Article 18(2) and in Article 26(1) of Regulation (EC) No 104/2000, the Community producer price for the 2004 fishing year should be increased.</p>
+      <p n="15">(6) Given the urgency of the matter, it is important to grant an exception to the six-week period mentioned in paragraph 1(3) of the Protocol on the role of national parliaments in the European Union annexed to the Treaty of Amsterdam,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">For the fishing year 1 January to 31 December 2004, the guide prices as provided for in Article 18(1) of Regulation (EC) No 104/2000 shall be as set out in the Annex I to this Regulation.</p>
+      <p n="19">Article 2</p>
+      <p n="20">For the fishing year 1 January to 31 December 2004, the Community producer prices as provided for in Article 26(1) of Regulation (EC) No 104/2000 shall be as set out in Annex II to this Regulation.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Regulation shall enter into force on 1 January 2004.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 19 December 2003.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">G. Alemanno</p>
+      <p n="28">(1) OJ L 17, 21.1.2000, p. 22.</p>
+      <p n="29">(2) OJ L 368, 28.12.1982, p. 27; Regulation as last amended by Regulation (EEC) No 3899/92 (OJ L 392, 31.12.1992, p. 24).</p>
+      <p n="30">ANNEX I</p>
+      <p n="31">&gt;TABLE&gt;</p>
+      <p n="32">ANNEX II</p>
+      <p n="33">&gt;TABLE&gt;</p>
+      <p n="34">The Community producer prices for the other products listed in Annex III to Regulation (EC) No 104/2000 shall be determined by means of the conversion factors referred to in Regulation (EEC) No 3510/82.</p>
+    </body>
+  </text>
+</TEI.2>

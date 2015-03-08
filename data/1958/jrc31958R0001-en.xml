@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31958R0001-en" n="31958R0001" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31958R0001 English</title>
+        <title>EEC Council: Regulation No 1 determining the languages to be used by the European Economic Community</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31958R0001:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31958R0001:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31958R0001-en." lang="en">
+    <body>
+      <head n="1">EEC Council: Regulation No 1 determining the languages to be used by the European Economic Community</head>
+      <p n="2">REGULATION No 1 determining the languages to be used by the European Economic Community</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN ECONOMIC COMMUNITY,</p>
+      <p n="4">Having regard to Article 217 of the Treaty which provides that the rules governing the languages of the institutions of the Community shall, without prejudice to the provisions contained in the rules of procedure of the Court of Justice, be determined by the Council, acting unanimously;</p>
+      <p n="5">Whereas each of the four languages in which the Treaty is drafted is recognised as an official language in one or more of the Member States of the Community;</p>
+      <p n="6">HAS ADOPTED THIS REGULATION:</p>
+      <p n="7">Article 1</p>
+      <p n="8">The official languages and the working languages of the institutions of the Community shall be Dutch, French, German and Italian.</p>
+      <p n="9">Article 2</p>
+      <p n="10">Documents which a Member State or a person subject to the jurisdiction of a Member State sends to institutions of the Community may be drafted in any one of the official languages selected by the sender. The reply shall be drafted in the same language.</p>
+      <p n="11">Article 3</p>
+      <p n="12">Documents which an institution of the Community sends to a Member State or to a person subject to the jurisdiction of a Member State shall be drafted in the language of such State.</p>
+      <p n="13">Article 4</p>
+      <p n="14">Regulations and other documents of general application shall be drafted in the four official languages.</p>
+      <p n="15">Article 5</p>
+      <p n="16">The Official Journal of the Community shall be published in the four official languages.</p>
+      <p n="17">Article 6</p>
+      <p n="18">The institutions of the Community may stipulate in their rules of procedure which of the languages are to be used in specific cases.</p>
+      <p n="19">Article 7</p>
+      <p n="20">The languages to be used in the proceedings of the Court of Justice shall be laid down in its rules of procedure.</p>
+      <p n="21">Article 8</p>
+      <p n="22">If a Member State has more than one official language, the language to be used shall, at the request of such State, be governed by the general rules of its law.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 15 April 1958.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">V. LAROCK</p>
+    </body>
+  </text>
+</TEI.2>

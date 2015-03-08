@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31999R1062-en" n="31999R1062" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1062 English</title>
+        <title>Commission Regulation (EC) No 1062/1999 of 21 May 1999 amending Regulation (EEC) No 1858/93 laying down detailed rules for applying Council Regulation (EEC) No 404/93 as regards the aid scheme to compensate for loss of income from marketing in the banana sector</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1062:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1062:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1120</classCode>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">2355</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1062-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1062/1999 of 21 May 1999 amending Regulation (EEC) No 1858/93 laying down detailed rules for applying Council Regulation (EEC) No 404/93 as regards the aid scheme to compensate for loss of income from marketing in the banana sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1062/1999</p>
+      <p n="3">of 21 May 1999</p>
+      <p n="4">amending Regulation (EEC) No 1858/93 laying down detailed rules for applying Council Regulation (EEC) No 404/93 as regards the aid scheme to compensate for loss of income from marketing in the banana sector</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 404/93 of 13 February 1993 on the common organisation of the market in bananas(1), as last amended by Regulation (EC) No 1637/98(2), and in particular Articles 12(4) and (6) and 14 thereof,</p>
+      <p n="8">(1) Whereas Commission Regulation (EEC) No 1858/93(3), as last amended by Regulation (EC) No 796/95(4), lays down detailed rules for applying the system of compensatory aid for loss of income from the marketing of bananas;</p>
+      <p n="9">(2) Whereas, in accordance with the Commission's undertaking when the Council adopted decisions concerning various agricultural products for the 1998/99 marketing year and the new import arrangements were adopted for bananas, the flat-rate reference income should be increased in order to fix compensation for 1998 and from 1999 onwards; whereas the new amounts should be inserted into Regulation (EEC) No 1858/93;</p>
+      <p n="10">(3) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Bananas,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Article 2(2) of Regulation (EEC) No 1858/93 is replaced by the following: "2. The flat-rate reference income shall be EUR 62,25/100 kg net weight of green bananas ex-packing shed for 1998 and EUR 64,03/100 kg net weight from 1999."</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 21 May 1999.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 47, 25.2.1993, p. 1.</p>
+      <p n="22">(2) OJ L 210, 28.7.1998, p. 28.</p>
+      <p n="23">(3) OJ L 170, 13.7.1993, p. 5.</p>
+      <p n="24">(4) OJ L 80, 8.4.1995, p. 17.</p>
+    </body>
+  </text>
+</TEI.2>

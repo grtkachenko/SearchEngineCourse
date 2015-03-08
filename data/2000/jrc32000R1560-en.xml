@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32000R1560-en" n="32000R1560" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1560 English</title>
+        <title>Commission Regulation (EC) No 1560/2000 of 17 July 2000 amending Regulation (EC) No 2771/1999 laying down detailed rules for the application of Council Regulation (EC) No 1255/1999 as regards intervention on the market in butter and cream</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1560:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1560:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1486</classCode>
+        <classCode scheme="eurovoc">301</classCode>
+        <classCode scheme="eurovoc">4288</classCode>
+        <classCode scheme="eurovoc">4860</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1560-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1560/2000 of 17 July 2000 amending Regulation (EC) No 2771/1999 laying down detailed rules for the application of Council Regulation (EC) No 1255/1999 as regards intervention on the market in butter and cream</head>
+      <p n="2">Commission Regulation (EC) No 1560/2000</p>
+      <p n="3">of 17 July 2000</p>
+      <p n="4">amending Regulation (EC) No 2771/1999 laying down detailed rules for the application of Council Regulation (EC) No 1255/1999 as regards intervention on the market in butter and cream</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), as last amended by Regulation (EC) No 1040/2000(2), and in particular Article 10 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2771/1999 of 16 December 1999 laying down detailed rules for the application of Council Regulation (EC) No 1255/1999 as regards intervention on the market in butter and cream(3), lays down provisions on the delivery, placing in storage, storage and removal from storage of butter. For the sake of clarity for operators, the existing provisions should be redrafted and in particular the requirements relating to storage costs and controls on butter under private storage contracts should be specified.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Regulation (EC) No 2771/1999 is amended as follows:</p>
+      <p n="14">1. The second and third subparagraphs of Article 17(2) are replaced by the following:"The storage costs to be paid shall be determined on the basis of the standard amounts for entry, removal and storage costs laid down pursuant to Article 6 of Council Regulation (EEC) No 1883/78(4)."</p>
+      <p n="15">2. Article 33(3) is replaced by the following:</p>
+      <p n="16">"3. At the end of the contractual storage period, the competent agency shall, by sampling, verify weight and identification. However, where the butter is still in storage after expiry of the maximum contractual storage period, that check may be made when the butter is removed from storage.</p>
+      <p n="17">For the purposes of the check referred to in the first subparagraph, the contractor shall inform the competent agency, indicating the storage lots involved, at least five working days before:</p>
+      <p n="18">(i) the end of the maximum contractual storage period of 210 days, or</p>
+      <p n="19">(ii) before the start of the removal operations where products are removed during or after the 210-day period.</p>
+      <p n="20">The Member State may accept a shorter time limit than five working days."</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 17 July 2000.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 160, 26.6.1999, p. 48.</p>
+      <p n="29">(2) OJ L 118, 19.5.2000, p. 1.</p>
+      <p n="30">(3) OJ L 333, 24.12.1999, p. 11.</p>
+      <p n="31">(4) OJ L 216, 5.8.1978, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31994R1908-en" n="31994R1908" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994R1908 English</title>
+        <title>Commission Regulation (EC) No 1908/94 of 27 July 1994 amending Regulation (EEC) No 2048/90 laying down detailed rules for the application of the system of aid in favour of small cotton producers</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R1908:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R1908:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994R1908-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1908/94 of 27 July 1994 amending Regulation (EEC) No 2048/90 laying down detailed rules for the application of the system of aid in favour of small cotton producers</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1908/94 of 27 July 1994 amending Regulation (EEC) No 2048/90 laying down detailed rules for the application of the system of aid in favour of small cotton producers</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1152/90 fo 27 April 1990 instituting a system of aid in favour of small cotton producers (1), as amended by Regulation (EEC) No 2054/92 (2), and in particular Article 7 (1) thereof,</p>
+      <p n="6">Whereas Article 2 (1) of Commission Regulation (EEC) No 2048/90 of 18 July 1990 (3), as last amended by Regulation (EEC) No 3023/93 (4), lays down certain conditions for the granting of the aid to ensure that the system functions properly; whereas it has become apparent that the aim sought, namely the granting of aid to producers of cotton who grow cotton on a area of not more than 2,5 hectares, is being circumvented in certain cases by the fictional breakdown of areas in excess of that maximum area to allow aid applications to be submitted by non-authentic small producers on behalf of the real producers; whereas, in order to avoid this undesirable trend, provision should be made for the aid to be granted only to small producers who produce cotton on their own account;</p>
+      <p n="7">HAS ADOPTED THIS REGULATION:</p>
+      <p n="8">Article 1</p>
+      <p n="9">Regulation (EEC) No 2048/90 is amended as follows:</p>
+      <p n="10">1. In Article 2 (1), the following point (c) is added:</p>
+      <p n="11">'(c) have been used for that crop by the applicant on his own account and where the operations referred to in (a) are carried out by him or under his responsibility.'</p>
+      <p n="12">2. The following indent is added to Article 3 (4):</p>
+      <p n="13">'- a declaration that the area has been cultivated by the declarer for his own account.'</p>
+      <p n="14">3. The following paragraph 5 is added to Article 3:</p>
+      <p n="15">'5. on request from the Member State, applicants shall provide proof certifying to the satisfaction of the Member State that the conditions laid down in Article 2 (1) (c) are met.'</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">It shall apply from the 1994/95 marketing year.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 27 July 1994.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">René STEICHEN</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ No L 116, 8. 5. 1990, p. 1.</p>
+      <p n="25">(2) OJ No L 215, 30. 7. 1992, p. 13.</p>
+      <p n="26">(3) OJ No L 187, 19. 7. 1990, p. 29.</p>
+      <p n="27">(4) OJ No L 270, 30. 10. 1993, p. 65.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,45 @@
+<TEI.2 id="jrc31982L0621-en" n="31982L0621" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31982L0621 English</title>
+        <title>Commission Directive 82/621/EEC of 1 July 1982 adapting to technical progress Council Directive 76/891/EEC on the approximation of the laws of the Member States relating to electrical energy meters</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31982L0621:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31982L0621:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31982L0621-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 82/621/EEC of 1 July 1982 adapting to technical progress Council Directive 76/891/EEC on the approximation of the laws of the Member States relating to electrical energy meters</head>
+      <p n="2">COMMISSION DIRECTIVE of 1 July 1982 adapting to technical progress Council Directive 76/891/EEC on the approximation of the laws of the Member States relating to electrical energy meters (82/621/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 76/891/EEC of 4 November 1976 on the approximation of the laws of the Member States relating to electrical energy meters (1), and in particular the third paragraph of Article 3 thereof,</p>
+      <p n="6">Whereas, pursuant to Article 3 of Directive 76/891/EEC, it is necessary to review the maximum permissible errors in electrical energy meters for the EEC initial verification in order to take account of experience gained and of results obtained at international level;</p>
+      <p n="7">Whereas experience gained in this sector within the Community suggests the definitive retention of the tolerances in respect of maximum permissible errors already set out by way of general rate in the Annex to the said Directives which are more stringent than those adopted at international level;</p>
+      <p n="8">Whereas the measures provided for in this Directive are in accordance with the opinion of the Committee on the Adaptation to Technical Progress of the Directives for the Elimination of Technical Barriers to Trade in Measuring Instruments,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Member States which availed themselves of the option provided in the second paragraph of Article 3 of Directive 76/891/EEC shall, before 1 January 1983, repeal the measures adopted by virtue of that option.</p>
+      <p n="12">They shall forthwith inform the Commission thereof.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Directive is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 1 July 1982.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Karl-Heinz NARJES</p>
+      <p n="18">Member of the Commission (1) OJ No L 336, 4.12.1976, p. 30.</p>
+    </body>
+  </text>
+</TEI.2>

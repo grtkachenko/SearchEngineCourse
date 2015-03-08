@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31999R0494-en" n="31999R0494" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0494 English</title>
+        <title>Commission Regulation (EC) No 494/1999 of 5 March 1999 amending Regulation (EC) No 2571/97 on the sale of butter at reduced prices and the granting of aid for cream, butter and concentrated butter for use in the manufacture of pastry products, ice-cream and other foodstuffs</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0494:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0494:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2749</classCode>
+        <classCode scheme="eurovoc">301</classCode>
+        <classCode scheme="eurovoc">4236</classCode>
+        <classCode scheme="eurovoc">4498</classCode>
+        <classCode scheme="eurovoc">4667</classCode>
+        <classCode scheme="eurovoc">4860</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0494-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 494/1999 of 5 March 1999 amending Regulation (EC) No 2571/97 on the sale of butter at reduced prices and the granting of aid for cream, butter and concentrated butter for use in the manufacture of pastry products, ice-cream and other foodstuffs</head>
+      <p n="2">COMMISSION REGULATION (EC) No 494/1999 of 5 March 1999 amending Regulation (EC) No 2571/97 on the sale of butter at reduced prices and the granting of aid for cream, butter and concentrated butter for use in the manufacture of pastry products, ice-cream and other foodstuffs</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organisation of the market in milk and milk products (1), as last amended by Regulation (EC) No 1587/96 (2), and in particular Articles 6, 12(3) and 28 thereof,</p>
+      <p n="6">Whereas Article 11 of Commission Regulation (EC) No 2571/97 (3), as last amended by Regulation (EC) No 124/1999 (4), lays down the time limit for processing and incorporating into final products the products referred to in Article 1 of that Regulation; whereas the current length of that time limit is likely to encourage operations of a speculative nature; whereas the time limit should therefore be reduced;</p>
+      <p n="7">Whereas the Management Committee for milk and milk products has not delivered an opinion within the time limit set by its chairman,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">In Article 11 of Regulation (EC) No 2571/97, 'five months` is replaced by 'four months`.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="13">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="14">Done at Brussels, 5 March 1999.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Franz FISCHLER</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ L 148, 28. 6. 1968, p. 13.</p>
+      <p n="19">(2) OJ L 206, 16. 8. 1996, p. 21.</p>
+      <p n="20">(3) OJ L 350, 20. 12. 1997, p. 3.</p>
+      <p n="21">(4) OJ L 13, 21. 1. 1999, p. 19.</p>
+    </body>
+  </text>
+</TEI.2>

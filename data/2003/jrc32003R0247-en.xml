@@ -1,0 +1,74 @@
+<TEI.2 id="jrc32003R0247-en" n="32003R0247" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0247 English</title>
+        <title>Commission Regulation (EC) No 247/2003 of 10 February 2003 adopting the specification of the 2004 ad hoc module on work organisation and working time arrangements provided by Council Regulation (EC) No 577/98</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0247:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0247:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1503</classCode>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2184</classCode>
+        <classCode scheme="eurovoc">2550</classCode>
+        <classCode scheme="eurovoc">4213</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">592</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0247-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 247/2003 of 10 February 2003 adopting the specification of the 2004 ad hoc module on work organisation and working time arrangements provided by Council Regulation (EC) No 577/98</head>
+      <p n="2">Commission Regulation (EC) No 247/2003</p>
+      <p n="3">of 10 February 2003</p>
+      <p n="4">adopting the specification of the 2004 ad hoc module on work organisation and working time arrangements provided by Council Regulation (EC) No 577/98</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 577/98 of 9 March 1998 on the organisation of a labour force sample survey in the Community(1), as last amended by Commission Regulation (EC) No 2104/2002(2), and in particular Article 4(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 246/2003(3) adopting the programme of ad hoc modules, covering the years 2004 to 2006, to the labour force sample survey includes an ad hoc module on work organisation and working time arrangements.</p>
+      <p n="10">(2) In accordance with Article 4(2) of Regulation (EC) No 577/98 the detailed list of information to be collected in an ad hoc module shall be drawn at least 12 months before the beginning of the reference period for that module.</p>
+      <p n="11">(3) In order to evaluate adequately progress under the pillars of the employment policy guidelines and in particular under the third pillar on encouraging adaptability of businesses and their employees, including with regard to quality in work, comparable structural statistics are needed by the Member States and the Commission(4).</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The detailed list of information to be collected in 2004 by the ad hoc module, as laid down in the Annex, is hereby adopted.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 10 February 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Pedro Solbes Mira</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 77, 14.3.1998, p. 3.</p>
+      <p n="24">(2) OJ L 324, 29.11.2002, p. 14.</p>
+      <p n="25">(3) See page 3 of this Official Journal.</p>
+      <p n="26">(4) OJ L 60, 1.3.2002, p. 60.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">LABOUR FORCE SURVEY</p>
+      <p n="29">Specification of the 2004 ad hoc module on work organisation and working time arrangements</p>
+      <p n="30">1. Member States and regions concerned: all.</p>
+      <p n="31">2. The data are collected only for the main job.</p>
+      <p n="32">3. The variables will be coded as follows:</p>
+      <p n="33">&gt;TABLE&gt;</p>
+      <p n="34">4. The variables on shift work, evening work, Saturday and Sunday work which appear as columns 204 to 208 in the Annex to the Commission Regulation (EC) No 1575/2000 concerning the codification to be used for data transmission from 2001 onwards must be surveyed in 2004 for the same reference period as the ad hoc module referred to in Article 1 of the present Regulation.</p>
+      <p n="35">5. The variable on shift work is to be coded as follows:</p>
+      <p n="36">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

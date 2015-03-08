@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31995R1318-en" n="31995R1318" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1318 English</title>
+        <title>Commission Regulation (EC) No 1318/95 of 9 June 1995 amending Regulation (EC) No 2883/94 establishing a forecast balance for the supply to the Canary Islands to agricultural products covered by the specific measures provided for in Articles 2, 3, 4 and 5 of Council Regulation (EEC) No 1601/92</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1318:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1318:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1937</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">4172</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">4692</classCode>
+        <classCode scheme="eurovoc">4885</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1318-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1318/95 of 9 June 1995 amending Regulation (EC) No 2883/94 establishing a forecast balance for the supply to the Canary Islands to agricultural products covered by the specific measures provided for in Articles 2, 3, 4 and 5 of Council Regulation (EEC) No 1601/92</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1318/95 of 9 June 1995 amending Regulation (EC) No 2883/94 establishing a forecast balance for the supply to the Canary Islands to agricultural products covered by the specific measures provided for in Articles 2, 3, 4 and 5 of Council Regulation (EEC) No 1601/92</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1601/92 of 15 June 1992 concerning specific measures for the Canary Islands with regard to certain agricultural products (1), as last amended by the Act of Accession of Austria, Finland and Sweden and Regulation (EC) No 3290/94 (2), and in particular Article 3 (4) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 2790/94 (3), as amended by Regulation (EC) No 2883/94 (4), lays down the detailed rules for implementation of the specific arrangements for the supply of certain agricultural products to the Canary Islands;</p>
+      <p n="7">Whereas Regulation (EC) No 2883/94, as last amended by Regulation (EC) No 1113/95 (5), establishes the supply balance for milk products for the Canary Islands; whereas that balance may be revised where necessary, by means of adjustments during the year to the quantities, within the total laid down, on the basis of the region's requirements; whereas in order to satisfy the requirements of the Canary Islands for milk products, in particular cheese, beef and veal, and pigmeat, the quantities set down in the forecast supply balances for those products must be adjusted; whereas the corresponding Annexes to Regulation (EC) No 2883/94 should consequently be amended;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinions of the Management Committees concerned,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Annexes I, II and IV to Regulation (EC) No 2883/94 are hereby replaced by the Annex hereto.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 9 June 1995.</p>
+      <p n="16">For the Commission Franz FISCHLER Member of the Commission</p>
+      <p n="17">ANNEX</p>
+      <p n="18">'FORECAST SUPPLY BALANCES SUPPLY BALANCE FOR THE CANARY ISLANDS FOR THE PERIOD 1 JULY 1994 (*) TO 30 JUNE 1995 ANNEX I Live animals of the bovine species and beefmeat &gt;TABLE&gt;</p>
+      <p n="19">ANNEX II Live animals of the porcine species and pigmeat &gt;TABLE&gt;</p>
+      <p n="20">ANNEX IV &gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

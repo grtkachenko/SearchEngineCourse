@@ -1,0 +1,69 @@
+<TEI.2 id="jrc31999R0510-en" n="31999R0510" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0510 English</title>
+        <title>Commission Regulation (EC) No 510/1999 of 8 March 1999 amending Regulation (EC) No 2848/98 on the raw tobacco sector as regards the setting of certain time limits and Annex II in which the production areas are fixed</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0510:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0510:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">3581</classCode>
+        <classCode scheme="eurovoc">3633</classCode>
+        <classCode scheme="eurovoc">4373</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0510-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 510/1999 of 8 March 1999 amending Regulation (EC) No 2848/98 on the raw tobacco sector as regards the setting of certain time limits and Annex II in which the production areas are fixed</head>
+      <p n="2">COMMISSION REGULATION (EC) No 510/1999 of 8 March 1999 amending Regulation (EC) No 2848/98 on the raw tobacco sector as regards the setting of certain time limits and Annex II in which the production areas are fixed</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2075/92 of 30 June 1992 on the common organisation of the market in raw tobacco (1), as last amended by Regulation (EC) No 1636/98 (2), and in particular Articles 7 and 11 thereof,</p>
+      <p n="6">Whereas, in the absence of a Council decision on the Commission proposal (3) setting the maximum guarantee thresholds for the 1999, 2000 and 2001 harvests, for the 1999 harvest the Member States cannot meet the time limits for issuing quota statements to producers or the time limits for concluding cultivation contracts fixed by Commission Regulation (EC) No 2848/98 of 22 December 1998 laying down detailed rules for the application of Council Regulation (EEC) No 2075/92 as regards the premium scheme, production quotas and the specific aid to be granted to producer groups in the raw tobacco sector (4); whereas these time limits must be postponed;</p>
+      <p n="7">Whereas, in accordance with Article 5(a) of Regulation (EEC) No 2075/92, the grant of the premium is subject to the condition that the leaf tobacco comes from a specified production area for each variety;</p>
+      <p n="8">Whereas these areas of production, in accordance with Article 8 of Regulation (EC) No 2848/98, are fixed in Annex II to that Regulation;</p>
+      <p n="9">Whereas, following France's request to include Île de France in the list of Group II production areas it was noticed that Île de France already existed in a number of language versions but that the regions of Provence-Alpes-Côte d'Azur, Picardy, Nord-Pas-de-Calais, Normandy and Réunion were missing, and following Germany's request to include 'Mecklenburg-Vorpommern` in the list of Group III production areas without the word 'westliches`, Annex II to Regulation (EC) No 2848/98, listing the recognised production areas, should be corrected;</p>
+      <p n="10">Whereas these measures should be applied forthwith;</p>
+      <p n="11">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Tobacco,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Regulation (EC) No 2848/98 is amended as follows:</p>
+      <p n="15">1. the following paragraphs 2 and 3 are added to Article 55:</p>
+      <p n="16">'2. For the 1999 harvest, by derogation from Article 22(3), the Member States shall issue the quota statements to individual producers who are not members of a group and to producer groups by 15 April at the latest.</p>
+      <p n="17">3. For the 1999 harvest, by derogation from Article 10(1), the cultivation contracts must be concluded, except in cases of force majeure, by 30 June at the latest.`;</p>
+      <p n="18">2. Annex II is replaced by the Annex to this Regulation.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 8 March 1999.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 215, 30. 7. 1992, p. 70.</p>
+      <p n="27">(2) OJ L 210, 20. 7. 1998, p. 23.</p>
+      <p n="28">(3) OJ C 361, 24. 11. 1998, p. 16.</p>
+      <p n="29">(4) OJ L 358, 31. 12. 1998, p. 17.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">'ANNEX II</p>
+      <p n="32">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

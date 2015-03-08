@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32000R1080-en" n="32000R1080" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1080 English</title>
+        <title>Council Regulation (EC) No 1080/2000 of 22 May 2000 on support for the United Nations Interim Mission in Kosovo (UNMIK) and the Office of the High Representative in Bosnia and Herzegovina (OHR)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1080:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1080:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1005</classCode>
+        <classCode scheme="eurovoc">2933</classCode>
+        <classCode scheme="eurovoc">3075</classCode>
+        <classCode scheme="eurovoc">3489</classCode>
+        <classCode scheme="eurovoc">5469</classCode>
+        <classCode scheme="eurovoc">5695</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1080-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1080/2000 of 22 May 2000 on support for the United Nations Interim Mission in Kosovo (UNMIK) and the Office of the High Representative in Bosnia and Herzegovina (OHR)</head>
+      <p n="2">Council Regulation (EC) No 1080/2000</p>
+      <p n="3">of 22 May 2000</p>
+      <p n="4">on support for the United Nations Interim Mission in Kosovo (UNMIK) and the Office of the High Representative in Bosnia and Herzegovina (OHR)</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 308 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to the Opinion of the European Parliament(1),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) In Kosovo and in Bosnia and Herzegovina, where the Community pursues an active policy of reconstruction, aid to assist the return of refugees and displaced persons, and economic and regional cooperation, the international community has set up bodies to ensure the transitional civilian administration and the implementation of the peace agreements, namely the United Nations Interim Mission in Kosovo (UNMIK) and the Office of the High Representative in Bosnia and Herzegovina (OHR).</p>
+      <p n="11">(2) The timely installation and regular operation of those bodies may be important factors in optimising the effectiveness of Community aid under this policy.</p>
+      <p n="12">(3) A legal framework should accordingly be provided to cover the Community's financial assistance to these two bodies.</p>
+      <p n="13">(4) The operations referred to by this Regulation fit into the framework of Community policy in Kosovo and Bosnia and Herzegovina and are necessary in order to achieve one of the objectives of the Treaty. The Treaty does not provide for the adoption of this Regulation, powers other than those laid down in Article 308,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">1. The Community, within the context of its policy of reconstruction, aid to assist the return of refugees and displaced persons and economic and regional cooperation with Kosovo and with Bosnia and Herzegovina, shall contribute financially to the establishment and operation of the UNMIK (fourth pillar) and the OHR.</p>
+      <p n="17">2. The financing shall be in the form of a grant to the budgets of the UNMIK and the OHR.</p>
+      <p n="18">Article 2</p>
+      <p n="19">1. The operations covered by this Regulation shall be implemented by the Commission.</p>
+      <p n="20">2. The amount of the grant, the eligible expenditure, the period covered, the implementing procedures and procedures for verifying the management and ultimate destination of the Community grant shall be the subject of a financing agreement between the Commission, acting on behalf of the Community, and the recipient bodies.</p>
+      <p n="21">The terms of that financing agreement shall ensure an equitable division of the cost between the European Union and the other members of the international community.</p>
+      <p n="22">Article 3</p>
+      <p n="23">The Commission shall verify the implementation of this Regulation and regularly report back to the European Parliament and the Council.</p>
+      <p n="24">Article 4</p>
+      <p n="25">The financing agreements and any contract or implementing instruments resulting therefrom shall expressly provide that the Commission or bodies authorised by the Commission, the Court of Auditors and the European Anti-Fraud Office (OLAF) may carry out inspections on the spot, if necessary.</p>
+      <p n="26">Article 5</p>
+      <p n="27">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="28">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="29">Done at Brussels, 22 May 2000.</p>
+      <p n="30">For the Council</p>
+      <p n="31">The President</p>
+      <p n="32">J. Gama</p>
+      <p n="33">(1) Opinion delivered on 4 May 2000 (not yet published in the Official Journal).</p>
+    </body>
+  </text>
+</TEI.2>

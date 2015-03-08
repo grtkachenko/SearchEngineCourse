@@ -1,0 +1,51 @@
+<TEI.2 id="jrc31999D0439-en" n="31999D0439" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0439 English</title>
+        <title>1999/439/EC: Council Decision of 17 May 1999 on the conclusion of the Agreement with the Republic of Iceland and the Kingdom of Norway concerning the latters' association with the implementation, application and development of the Schengen acquis</title>
+      </titleStmt>
+      <extent>15 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0439:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0439:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1509</classCode>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">4048</classCode>
+        <classCode scheme="eurovoc">5405</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0439-en." lang="en">
+    <body>
+      <head n="1">1999/439/EC: Council Decision of 17 May 1999 on the conclusion of the Agreement with the Republic of Iceland and the Kingdom of Norway concerning the latters' association with the implementation, application and development of the Schengen acquis</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 17 May 1999</p>
+      <p n="4">on the conclusion of the Agreement with the Republic of Iceland and the Kingdom of Norway concerning the latters' association with the implementation, application and development of the Schengen acquis</p>
+      <p n="5">(1999/439/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to Article 6(1) of the Protocol, annexed by the Treaty of Amsterdam to the Treaty on European Union and to the Treaty establishing the European Community integrating the Schengen acquis into the framework of the European Union;</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Sole Article</p>
+      <p n="10">The Agreement with the Republic of Iceland and the Kingdom of Norway concerning the latters' association with the implementation, application and development of the Schengen acquis, including the Annexes, its Final Act, Declarations and the Exchanges of Letters annexed thereto are hereby approved.</p>
+      <p n="11">The text of the acts referred to in the first subparagraph is attached to this Decision.</p>
+      <p n="12">Done at Brussels, 17 May 1999.</p>
+      <p n="13">For the Council</p>
+      <p n="14">The President</p>
+      <p n="15">J. FISCHER</p>
+    </body>
+  </text>
+</TEI.2>

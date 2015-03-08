@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31997D0805-en" n="31997D0805" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0805 English</title>
+        <title>97/805/EC: Commission Decision of 26 November 1997 concerning certain protective measures with regard to certain fishery products originating in China and amending Decision 97/368/EC (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0805:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0805:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">3579</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">5969</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0805-en." lang="en">
+    <body>
+      <head n="1">97/805/EC: Commission Decision of 26 November 1997 concerning certain protective measures with regard to certain fishery products originating in China and amending Decision 97/368/EC (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 26 November 1997 concerning certain protective measures with regard to certain fishery products originating in China and amending Decision 97/368/EC (Text with EEA relevance) (97/805/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/675/EEC of 10 December 1990 laying down the principles governing the organization of veterinary checks on products entering the Community from third countries (1), as last amended by Directive 96/43/EC (2), and in particular Article 19,</p>
+      <p n="6">Whereas, upon importation of fishery products originating in several processing establishments in China, the presence of Vibrio parahaemolyticus has been detected;</p>
+      <p n="7">Whereas the presence of Vibrio parahaemolyticus on food is a result of bad hygienic practices before and/or after processing of food and it presents a potential risk for human health;</p>
+      <p n="8">Whereas imports of products from the establishments concerned in China must not therefore be further allowed;</p>
+      <p n="9">Whereas Community inspections in China and the results of checks at the Community border inspection posts have shown that potential health risks with regard to the production and processing of fishery products exist;</p>
+      <p n="10">Whereas Commission Decision 97/368/EC (3), as amended by Decision 97/620/EC (4), concerning certain protective measures with regard to certain fishery products originating in China, provides for a ban on importation of fresh fishery products originating in China and for a requirement that frozen or processed fishery products originating in China must be systematically submitted to a microbiological examination;</p>
+      <p n="11">Whereas Decision 97/368/EC should be reviewed before 28 February 1998 and on the ground of the current findings it should be necessary to extend the measures provided in this Decision until 30 June 1998;</p>
+      <p n="12">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="13">HAS ADOPTED THIS DECISION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">This Decision shall apply to fishery products, fresh, frozen or processed, originating in China.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Member States shall ban the imports of fishery products, in all forms, originating in the following establishments in China: Pingyang freezing multiple-producing factory - No 60 Jiangkou Road Aojiang Pingyang, Zhejiang (plant Code No 3300/02097) and Wenzhou Hongdali aquatic products processing Co. Ltda Yanting cold storage plant Yanting, Cangnan - Zhejiang (plant Code No 3300/02083).</p>
+      <p n="18">Article 3</p>
+      <p n="19">In Article 6 of Decision 97/368/EC the date '28 February 1998` shall be replaced by '30 June 1998`.</p>
+      <p n="20">Article 4</p>
+      <p n="21">The Member States shall amend the measures they apply in respect of imports from China to bring them into line with this Decision. They shall immediately inform the Commission thereof.</p>
+      <p n="22">Article 5</p>
+      <p n="23">All expenditure incurred by the application of this Decision shall be chargeable to the consignor, the consignee or their agent.</p>
+      <p n="24">Article 6</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 26 November 1997.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Franz FISCHLER</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 373, 31. 12. 1990, p. 1.</p>
+      <p n="31">(2) OJ L 162, 1. 7. 1996, p. 1.</p>
+      <p n="32">(3) OJ L 156, 13. 6. 1997, p. 57.</p>
+      <p n="33">(4) OJ L 254, 17. 9. 1997, p. 17.</p>
+    </body>
+  </text>
+</TEI.2>

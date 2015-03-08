@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31998R1197-en" n="31998R1197" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1197 English</title>
+        <title>Council Regulation (EC, ECSC, Euratom) No 1197/98 of 5 June 1998 amending Regulation (EEC, Euratom, ECSC) No 260/68 laying down the conditions and procedure for applying the tax for the benefit of the European Communities</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1197:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1197:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1048</classCode>
+        <classCode scheme="eurovoc">1311</classCode>
+        <classCode scheme="eurovoc">2601</classCode>
+        <classCode scheme="eurovoc">3412</classCode>
+        <classCode scheme="eurovoc">3751</classCode>
+        <classCode scheme="eurovoc">3843</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1197-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC, ECSC, Euratom) No 1197/98 of 5 June 1998 amending Regulation (EEC, Euratom, ECSC) No 260/68 laying down the conditions and procedure for applying the tax for the benefit of the European Communities</head>
+      <p n="2">COUNCIL REGULATION (EC, ECSC, EURATOM) No 1197/98 of 5 June 1998 amending Regulation (EEC, Euratom, ECSC) No 260/68 laying down the conditions and procedure for applying the tax for the benefit of the European Communities</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing a single Council and a single Commission of the European Communities,</p>
+      <p n="5">Having regard to the Protocol on the privileges and immunities of the European Communities, and in particular Articles 13 and 23 thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission (1),</p>
+      <p n="7">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="8">(1) Whereas the European Monetary Institute has delivered an opinion (3);</p>
+      <p n="9">(2) Whereas the European Central Bank is already established;</p>
+      <p n="10">(3) Whereas it is appropriate to extend the application of the tax for the benefit of the European Communities, on the terms and in accordance with the procedure laid down in Regulation (EEC, Euratom, ECSC) No 260/68 (4), to the salaries, wages and emoluments of the members of the Governing Council and the General Council of the European Central Bank and the staff of that Bank; whereas the application of this tax to the European Monetary Institute becomes irrelevant when the liquidation of the Institute is completed,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Article 12a of Regulation (EEC, Euratom, ECSC) No 260/68 shall be repealed with effect from the day after the date on which the liquidation of the European Monetary Institute is completed.</p>
+      <p n="14">Article 2</p>
+      <p n="15">The following shall be inserted in Regulation (EEC, Euratom, ECSC) No 260/68:</p>
+      <p n="16">'Article 12c</p>
+      <p n="17">This Regulation shall apply to the members of the Governing Council and of the General Council of the European Central Bank, to members of its staff and to recipients of the pensions paid by the Bank who are included in the categories determined by the Council pursuant to the first subparagraph of Article 16 of the Protocol on the privileges and immunities of the European Communities, with regard to salaries, wages and emoluments and to disability, retirement and survivors' pensions paid by the Bank.`</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Regulation shall be applicable as from 1 June 1998.</p>
+      <p n="20">Article 4</p>
+      <p n="21">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Luxembourg, 5 June 1998.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">G. BROWN</p>
+      <p n="27">(1) OJ C 118, 17. 4. 1998, p. 14.</p>
+      <p n="28">(2) Opinion delivered on 28 May 1998 (not yet published in the Official Journal).</p>
+      <p n="29">(3) Opinion delivered on 6 April 1998 (not yet published in the Official Journal).</p>
+      <p n="30">(4) OJ L 56, 4. 3. 1968, p. 8. Regulation as last amended by Regulation (ECSC, EC, Euratom) No 2190/97 (OJ L 301, 5. 11. 1997, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

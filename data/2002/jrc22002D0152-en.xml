@@ -1,0 +1,70 @@
+<TEI.2 id="jrc22002D0152-en" n="22002D0152" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22002D0152 English</title>
+        <title>Decision of the EEA Joint Committee No 152/2002 of 8 November 2002 amending Annex XXI (Statistics) to the EEA Agreement</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22002D0152:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22002D0152:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4256</classCode>
+        <classCode scheme="eurovoc">4509</classCode>
+        <classCode scheme="eurovoc">4511</classCode>
+        <classCode scheme="eurovoc">4522</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22002D0152-en." lang="en">
+    <body>
+      <head n="1">Decision of the EEA Joint Committee No 152/2002 of 8 November 2002 amending Annex XXI (Statistics) to the EEA Agreement</head>
+      <p n="2">Decision of the EEA Joint Committee</p>
+      <p n="3">No 152/2002</p>
+      <p n="4">of 8 November 2002</p>
+      <p n="5">amending Annex XXI (Statistics) to the EEA Agreement</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as amended by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Annex XXI to the Agreement was amended by Decision No 110/2002 of the EEA Joint Committee of 12 July 2002(1).</p>
+      <p n="10">(2) Commission Decision 2000/363/EC of 28 April 2000 on rules for implementing Council Directive 95/64/EC on statistical returns in respect of carriage of goods and passengers by sea(2), is to be incorporated into the Agreement,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Point 7b (Council Directive 95/64/EC) of Annex XXI to the Agreement shall be amended as follows:</p>
+      <p n="14">(a) the following indent shall be added:</p>
+      <p n="15">"- 32000 D 0363: Commission Decision 2000/363/EC of 28 April 2000 (OJ L 132, 5.6.2000, p. 1).";</p>
+      <p n="16">(b) the following adaptation shall be added:</p>
+      <p n="17">"(b) Annex II to Council Directive 95/64/EC shall be supplemented with the list set out in Appendix 2 to the present Annex.";</p>
+      <p n="18">(c) the heading "APPENDIX 2 TO ANNEX XXI" shall be inserted after Appendix 1 to Annex XXI.</p>
+      <p n="19">(d) the list in the Annex to the present Decision shall be inserted as the text of Appendix 2 to Annex XXI, under the subheading "LIST OF EFTA PORTS".</p>
+      <p n="20">Article 2</p>
+      <p n="21">The text of Decision 2000/363/EC in the Icelandic and Norwegian languages, to be published in the EEA Supplement of the Official Journal of the European Communities, shall be authentic.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision shall enter into force on 9 November 2002, provided that all the notifications under Article 103(1) of the Agreement have been made to the EEA Joint Committee(3).</p>
+      <p n="24">Article 4</p>
+      <p n="25">This Decision shall be published in the EEA Section of, and in the EEA Supplement to, the Official Journal of the European Communities.</p>
+      <p n="26">Done at Brussels, 8 November 2002.</p>
+      <p n="27">For the EEA Joint Committee</p>
+      <p n="28">The President</p>
+      <p n="29">Kjartan Jóhannsson</p>
+      <p n="30">(1) OJ L 298, 31.10.2002, p. 35.</p>
+      <p n="31">(2) OJ L 132, 5.6.2000, p. 1.</p>
+      <p n="32">(3) No constitutional requirements indicated.</p>
+      <p n="33">ANNEX</p>
+      <p n="34">to Decision of the EEA Joint Committee No 152/2002</p>
+      <p n="35">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

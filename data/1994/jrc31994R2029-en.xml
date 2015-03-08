@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31994R2029-en" n="31994R2029" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994R2029 English</title>
+        <title>Commission Regulation (EC) No 2029/94 of 8 August 1994 amending Regulation (EEC) No 2191/81 on the granting of aid for the purchase of butter by non-profit-making institutions and organizations</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R2029:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R2029:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994R2029-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2029/94 of 8 August 1994 amending Regulation (EEC) No 2191/81 on the granting of aid for the purchase of butter by non-profit-making institutions and organizations</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2029/94 of 8 August 1994 amending Regulation (EEC) No 2191/81 on the granting of aid for the purchase of butter by non-profit-making institutions and organizations</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organization of the market in milk and milk products (1), as last amended by Regulation (EC) No 1880/94 (2), and in particular Article 12 (3) thereof,</p>
+      <p n="6">Having regard to Council Regulation (EEC) No 3813/92 of 28 December 1992 on the unit of account and the conversion rates to be applied for the purposes of the common agricultural policy (3), as last amended by Regulation (EC) No 3528/93 (4), and in particular Article 9 (1) thereof,</p>
+      <p n="7">Whereas Commission Regulation (EEC) No 2191/81 (5), as last amended by Regulation (EEC) No 1756/93 (6), provides for the granting of aid for the purchase of butter by non-profit-making institutions and organizations;</p>
+      <p n="8">Whereas Regulation (EC) No 1881/94 (7), which last amended Council Regulation (EEC) No 2072/92 (8), fixing the target price for milk and the intervention prices for butter, skimmed milk powder and Grana Padano and Parmigiano Reggiano cheeses for two annual periods from 1 July 1993 to 30 June 1995, provides for a further reduction of the intervention price for butter from 1 August 1994;</p>
+      <p n="9">Whereas, therefore, the aid for the purchase of butter as provided for in Regulation (EEC) No 2191/81 should be adapted;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">In Article 2 of Regulation (EEC) No 2191/81, 'ECU 138' is hereby replaced by 'ECU 130'.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 8 August 1994.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Hans VAN DEN BROEK</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 148, 28. 6. 1968, p. 13.</p>
+      <p n="22">(2) OJ No L 197, 30. 7. 1994, p. 21.</p>
+      <p n="23">(3) OJ No L 387, 31. 12. 1992, p. 1.</p>
+      <p n="24">(4) OJ No L 320, 22. 12. 1993, p. 32.</p>
+      <p n="25">(5) OJ No L 213, 1. 8. 1981, p. 20.</p>
+      <p n="26">(6) OJ No L 161, 2. 7. 1993, p. 48.</p>
+      <p n="27">(7) OJ No L 197, 30. 7. 1994, p. 23.</p>
+      <p n="28">(8) OJ No L 215, 30. 7. 1992, p. 65.</p>
+    </body>
+  </text>
+</TEI.2>

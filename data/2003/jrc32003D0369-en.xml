@@ -1,0 +1,104 @@
+<TEI.2 id="jrc32003D0369-en" n="32003D0369" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0369 English</title>
+        <title>2003/369/EC: Commission Decision of 16 May 2003 amending Decision 85/377/EEC establishing a Community typology for agricultural holdings (notified under document number C(2003) 1557)</title>
+      </titleStmt>
+      <extent>68 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0369:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0369:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1800</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">3083</classCode>
+        <classCode scheme="eurovoc">3424</classCode>
+        <classCode scheme="eurovoc">937</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0369-en." lang="en">
+    <body>
+      <head n="1">2003/369/EC: Commission Decision of 16 May 2003 amending Decision 85/377/EEC establishing a Community typology for agricultural holdings (notified under document number C(2003) 1557)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 16 May 2003</p>
+      <p n="4">amending Decision 85/377/EEC establishing a Community typology for agricultural holdings</p>
+      <p n="5">(notified under document number C(2003) 1557)</p>
+      <p n="6">(2003/369/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Regulation No 79/65/EEC of 15 June 1965 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Economic Community(1), as last amended by Regulation (EC) No 1256/97(2), and in particular Articles 4(4) and 7(3) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Commission Decision 85/377/EEC(3), as last amended by Decision 1999/725/EC(4), is the basis for the classification of agricultural holdings by economic size and type of farming both in the farm structure surveys and under the Farm Accountancy Data Network (FADN). The results of the farm structure surveys, classified by European size units and type of farming serve as a basis for selecting and weighting the FADN farm sample.</p>
+      <p n="12">(2) Commission Regulation (EEC) No 2237/77 of 23 September 1977 on the form of farm return to be used for the purpose of determining incomes of agricultural holdings(5), as last amended by Regulation (EC) 1837/2001(6), lays down the type of accountancy data to be given in the farm return.</p>
+      <p n="13">(3) Council Regulation (EEC) No 571/88 of 29 February 1988 on the organisation of Community surveys on the structure of agricultural holdings(7), as last amended by Commission Regulation (EC) No 143/2002(8), lists the characteristics to be surveyed in a series of surveys on the structure of agricultural holdings.</p>
+      <p n="14">(4) The structure and content of both the farm return and the list of survey characteristics for the 2003, 2005 and 2007 surveys have been recently amended by those Regulations.</p>
+      <p n="15">(5) Decision 85/377/EEC should therefore be amended accordingly.</p>
+      <p n="16">(6) The measures provided for in this Decision are in accordance with the opinion of the Community Committee for the Farm Accountancy Data Network,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Annexes I and II to Decision 85/377/EEC are amended in accordance with the Annex to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 16 May 2003.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz Fischler</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ 109, 23.6.1965, p. 1859/65.</p>
+      <p n="27">(2) OJ L 174, 2.7.1997, p. 7.</p>
+      <p n="28">(3) OJ L 220, 17.8.1985, p. 1.</p>
+      <p n="29">(4) OJ L 291, 13.11.1999, p. 28.</p>
+      <p n="30">(5) OJ L 263, 17.10.1977, p. 1.</p>
+      <p n="31">(6) OJ L 255, 24.9.2001, p. 1.</p>
+      <p n="32">(7) OJ L 56, 2.3.1998, p. 1.</p>
+      <p n="33">(8) OJ L 24, 26.1.2002, p. 16.</p>
+      <p n="34">ANNEX</p>
+      <p n="35">Decision 85/377/EEC is amended as follows:</p>
+      <p n="36">1. In Annex I, point 1(f)(2) is replaced by the following:</p>
+      <p n="37">"(2) Monetary units and rounding</p>
+      <p n="38">The basic data for determining the SGMs and the calculated SGMs are established in euro. For the Member States not taking part in the Economic and Monetary Union, the SGMs are converted into euro using the average exchange rates for the reference period as defined in point 1(e) of this Annex. These rates are communicated by the Commission to these Member States.</p>
+      <p n="39">The SGMs may be rounded to the nearest EUR 5 where appropriate."</p>
+      <p n="40">2. Annex II is amended as follows:</p>
+      <p n="41">(a) Part B is amended as follows:</p>
+      <p n="42">(i) Point (a) is replaced by the following:</p>
+      <p n="43">"(a) The nature of the enterprises concerned</p>
+      <p n="44">These enterprises refer to the list of characteristics surveyed in the 2003, 2005 and 2007 surveys on the structure of agricultural holdings: they are indicated by using the code in Annex I to Council Regulation (EEC) No 571/88(1) or by a code regrouping several of those characteristics as set out in Annex II, part C, of this Regulation(2)."</p>
+      <p n="45">(ii) In the table entitled "Specialist holdings - crops products", the rows corresponding to point 1 (Specialist field crops) are replaced by the following:</p>
+      <p n="46">"&gt;TABLE&gt;"</p>
+      <p n="47">(b) Part C is amended as follows:</p>
+      <p n="48">(i) Point I is replaced by the following:</p>
+      <p n="49">"I. Codes regrouping several characteristics included in the 2003, 2005 and 2007 farm structure surveys</p>
+      <p n="50">P1. General cropping = D/1 (common wheat and spelt) + D/2 (durum wheat) + D/3 (rye) + D/4 (barley) + D/5 (oats) + D/6 (grain maize) + D/7 (rice) + D/8 (other cereals) + D/9 (protein crops) + D/10 (potatoes) + D/11 (sugar beet) + D/12 (forage roots and tubers) + D/23 (tobacco) + D/24 (hops) + D/25 (cotton) + D/26 (rape and turnip rape) + D/27 (sunflower) + D/28 (soya) + D/29 (linseed (oil flax)) + D/30 (other oil seed crops) + D/31 (flax) + D/32 (hemp) + D/33 (other textile crops) + D/34 (aromatic and medicinal plants and herbs) + D/35 (industrial plants, not mentioned elsewhere) + D/14a (fresh vegetables, melons, strawberries, open field) + D/18 (forage plants) + D/19 (arable land seeds and seedlings) + D/20 (other arable land crops) + D/22 (fallow land subject to set-aside incentive schemes with no economic use) + I/1 (successive secondary crops)(3).</p>
+      <p n="51">P2. Horticulture = D/14b (fresh vegetables, melons, strawberries - outdoor, market gardening) + D/15 (fresh vegetables, melons, strawberries under glass) + D/16 (flowers and ornamental plants - outdoor) + D/17 (flowers and ornamental plants - under glass) + I/2 (mushrooms).</p>
+      <p n="52">P3. Permanent crops = G/1 (fruit and berry plantations) + G/2 (citrus plantations) + G/3 (olive plantations) + G/4 (vineyards) + G/5 (nurseries) + G/6 (other permanent crops) + G/7 (permanent crops under glass).</p>
+      <p n="53">P4. Meadows and grazing livestock = F/1 (permanent pasture and meadows, not including rough grazing) + F/2 (rough grazing) + J/1 (equidae) + J/2 (cattle under one year old) + J/3 (male cattle over one but under two years old) + J/4 (female cattle over one but under two years old) + J/5 (male cattle two years old and over) + J/6 (heifers) + J/7 (dairy cows) + J/8 (other cows) + J/9 (sheep) + J/10 (goats).</p>
+      <p n="54">P5. Granivores = J/11 (piglets of less than 20 kilograms live weight) + J/12 (breeding sows of 50 kilograms or more) + J/13 (other pigs) + J/14 (broilers) + J/15 (laying hens) + J/16 (other poultry) + J/17 (rabbits, breeding females).</p>
+      <p n="55">P11. Cereals = D/1 (common wheat and spelt) + D/2 (durum wheat) + D/3 (rye) + D/4 (barley) + D/5 (oats) + D/6 (grain maize) + D/7 (rice) + D/8 (other cereals).</p>
+      <p n="56">P12. Oil seeds = D/26 (rape and turnip rape) + D/27 (sunflower) + D/28 (soya) + D/29 (linseed (oil flax)) + D30 (other oil seed crops).</p>
+      <p n="57">P41. Cattle, dairying = J/2 (bovine animals under one year old) + J/4 (female bovine animals over one but under two years old) + J/6 (heifers) + J/7 (dairy cows).</p>
+      <p n="58">P42. Cattle = J/2 (cattle under one year old) + J/3 (male bovine animals over one but under two years old) + J/4 (female bovine animals over one but under two years old) + J/5 (male bovine animals two years old and over) + J/6 (heifers) + J/7 (dairy cows) + J/8 (other cows).</p>
+      <p n="59">P51. Pigs = J/11 (piglets of less than 20 kilograms live weight) + J/12 (breeding sows of 50 kilograms or more) + J/13 (other pigs).</p>
+      <p n="60">P52. Poultry = J/14 (broilers) + J/15 (laying hens) + J/16 (other poultry).</p>
+      <p n="61">P111. Cereals without rice = D/1 (common wheat and spelt) + D/2 (durum wheat) + D/3 (rye) + D/4 (barley) + D/5 (oats) + D/6 (grain maize) + D/8 (other cereals).</p>
+      <p n="62">P121. Roots = D/10 (potatoes) + D/11 (sugar beet) + D/12 (Fodder roots and brassicas)."</p>
+      <p n="63">(ii) Point II is replaced by the following:</p>
+      <p n="64">"II. Correspondence between the headings of the structure surveys and the farm return of the Farm Accountancy Data Network (FADN)</p>
+      <p n="65">&gt;TABLE&gt;"</p>
+      <p n="66">(1) OJ L 56, 2.3.1988, p. 1.</p>
+      <p n="67">(2) The characteristics D/12 (Fodder roots and brassicas), D/18 (Forage plants), D/21 (Fallow land without any subsidies), E (Kitchen gardens), F/1 (Pasture and meadows, excluding rough grazing), F/2 (Rough grazing) and J/11 (Piglets less than 20 kg live weight) are used only under certain conditions (see point 5 of Annex I).</p>
+      <p n="68">(3) Successive secondary non-fodder crops (101) form part of general cropping (P1) and their SGMs are the same as those of the corresponding general crops.</p>
+    </body>
+  </text>
+</TEI.2>

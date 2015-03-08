@@ -1,0 +1,76 @@
+<TEI.2 id="jrc32002D1919-en" n="32002D1919" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D1919 English</title>
+        <title>Decision No 1919/2002/EC of the European Parliament and of the Council of 21 October 2002 amending Council Decision 96/411/EC on improving Community agricultural statistics</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D1919:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D1919:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2792</classCode>
+        <classCode scheme="eurovoc">4257</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4266</classCode>
+        <classCode scheme="eurovoc">5315</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D1919-en." lang="en">
+    <body>
+      <head n="1">Decision No 1919/2002/EC of the European Parliament and of the Council of 21 October 2002 amending Council Decision 96/411/EC on improving Community agricultural statistics</head>
+      <p n="2">Decision No 1919/2002/EC of the European Parliament and of the Council</p>
+      <p n="3">of 21 October 2002</p>
+      <p n="4">amending Council Decision 96/411/EC on improving Community agricultural statistics</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 285(1) thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Acting in accordance with the procedure laid down in Article 251 of the Treaty(2),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Council Decision 96/411/EC is designed to allow Community agricultural statistics(3) to respond more satisfactorily to the information needs arising from the common agricultural policy.</p>
+      <p n="11">(2) The report by the Commission to the European Parliament and to the Council on progress in implementing Decision 96/411/EC makes a positive assessment of the application of that Decision.</p>
+      <p n="12">(3) The process of adapting national statistical systems to the needs arising from changes in the common agricultural policy has not yet been completed.</p>
+      <p n="13">(4) Both the internal development of the common agricultural policy and the external context of enlargement to the east, and the opening of the new round of multilateral trade negotiations, call for improved identification of statistical needs and, where appropriate, for measures to complete the current regulatory framework laying down the scope of the statistical information on the common agricultural policy which Member States are obliged to make available to the Commission.</p>
+      <p n="14">(5) The proposal for a decision of the European Parliament and of the Council on the Community statistical programme (2003 to 2007)(4) recommends continuing the actions to improve existing agricultural statistics and to plan future developments with a view to responding satisfactorily to the needs of the common agricultural policy.</p>
+      <p n="15">(6) The tool introduced by Decision 96/411/EC has helped to further the process of adapting the system of Community agricultural statistics to changes in the statistical information needs of the common agricultural policy. However, this process has not yet been completed. Decision 96/411/EC should therefore be amended in order to extend this process,</p>
+      <p n="16">HAVE ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Decision 96/411/EC is hereby amended as follows:</p>
+      <p n="19">1. in Article 3, the terms "during the period 2000 to 2002" shall be replaced by the terms "during the period 2003 to 2007";</p>
+      <p n="20">2. in Article 6, paragraph 4 shall be replaced by the following:</p>
+      <p n="21">"4. The financial framework for the implementation of this programme for the period 2003 to 2007 is hereby set at EUR 5 million.</p>
+      <p n="22">The annual appropriations shall be authorised by the budgetary authority within the limits of the financial perspective.";</p>
+      <p n="23">3. in Article 11, the figure "2002" shall be replaced by the figure "2007";</p>
+      <p n="24">4. in Article 11, the phrase "having consulted the Standing Committee on Agricultural Statistics" shall be deleted.</p>
+      <p n="25">Article 2</p>
+      <p n="26">This Decision shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="27">Article 3</p>
+      <p n="28">This Decision is addressed to the Member States.</p>
+      <p n="29">Done at Luxembourg, 21 October 2002.</p>
+      <p n="30">For the European Parliament</p>
+      <p n="31">The President</p>
+      <p n="32">P. Cox</p>
+      <p n="33">For the Council</p>
+      <p n="34">The President</p>
+      <p n="35">M. Fischer Boel</p>
+      <p n="36">(1) OJ C 126 E, 28.5.2002, p. 403.</p>
+      <p n="37">(2) Opinion of the European Parliament of 3 September 2002 (not yet published in the Official Journal) and Council decision of 14 October 2002.</p>
+      <p n="38">(3) OJ L 162, 1.7.1996, p. 14. Decision as last amended by Decision No 2298/2000/EC of the European Parliament and of the Council (OJ L 263, 18.10.2000, p. 1).</p>
+      <p n="39">(4) OJ C 75 E, 26.3.2002, p. 274.</p>
+    </body>
+  </text>
+</TEI.2>

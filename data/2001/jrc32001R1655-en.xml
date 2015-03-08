@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32001R1655-en" n="32001R1655" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1655 English</title>
+        <title>Commission Regulation (EC) No 1655/2001 of 14 August 2001 amending Regulation (EC) No 1622/2000 laying down certain detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine and establishing a Community code of oenological practices and processes</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1655:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1655:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">4726</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1655-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1655/2001 of 14 August 2001 amending Regulation (EC) No 1622/2000 laying down certain detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine and establishing a Community code of oenological practices and processes</head>
+      <p n="2">Commission Regulation (EC) No 1655/2001</p>
+      <p n="3">of 14 August 2001</p>
+      <p n="4">amending Regulation (EC) No 1622/2000 laying down certain detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine and establishing a Community code of oenological practices and processes</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 2826/2000(2), and in particular Article 46 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Point A(3) of Annex V to Regulation (EC) No 1493/1999 allows the maximum permissible total sulphur dioxide levels of wine to be increased where weather conditions make this necessary.</p>
+      <p n="10">(2) Commission Regulation (EC) No 1622/2000(3), as last amended by Regulation (EC) No 1609/2001(4), lays down certain detailed rules for implementing Regulation (EC) No 1493/1999 as regards the maximum total sulphur dioxide levels in particular.</p>
+      <p n="11">(3) By letter of 21 May 2001, the German Government requested authorisation to increase the maximum permissible total sulphur dioxide content of wine, which is set at less than 300 milligrams per litre, by a maximum of 40 milligrams per litre for wine produced in Germany from the 2000 grape harvest in the wake of exceptionally unfavourable weather conditions. That request should be acceded to.</p>
+      <p n="12">(4) This temporary measure is the only option available for ensuring that the 2000 grape harvest is not spoiled and can thus be used for wines produced in Germany.</p>
+      <p n="13">(5) Regulation (EC) No 1622/2000 should therefore be amended to allow for an increase in the maximum total sulphur dioxide level of wines produced in Germany from the 2000 grape harvest.</p>
+      <p n="14">(6) The Management Committee for Wine has not delivered an opinion within the time limit set by its Chairman,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Regulation (EC) No 1622/2000 is hereby amended as follows:</p>
+      <p n="18">1. The following paragraph 4 is added to Article 19: "4. The cases where the Member States may authorise, because of weather conditions, that the maximum total sulphur dioxide content of wine, which is set at less than 300 milligrams per litre in point A of Annex V to Regulation (EC) No 1493/1999, be increased by a maximum of 40 milligrams per litre for certain wines produced in certain wine-growing zones within their territory shall be as listed in Annex XIIa hereto."</p>
+      <p n="19">2. Annex XIIa, the text of which is set out in the Annex hereto, is inserted.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 14 August 2001.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz Fischler</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="28">(2) OJ L 328, 23.12.2000, p. 2.</p>
+      <p n="29">(3) OJ L 194, 31.7.2000, p. 1.</p>
+      <p n="30">(4) OJ L 212, 7.8.2001, p. 9.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">"ANNEX ΧΙΙa</p>
+      <p n="33">Increase in the maximum total sulphur-dioxide content where the weather conditions make this necessary</p>
+      <p n="34">(Article 19 of this Regulation)</p>
+      <p n="35">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

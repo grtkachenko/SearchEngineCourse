@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31999D0630-en" n="31999D0630" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0630 English</title>
+        <title>1999/630/EC, ECSC, Euratom: Council Decision of 13 September 1999 appointing the Deputy Secretary-General of the Council of the European Union</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0630:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0630:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">114</classCode>
+        <classCode scheme="eurovoc">3559</classCode>
+        <classCode scheme="eurovoc">4178</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0630-en." lang="en">
+    <body>
+      <head n="1">1999/630/EC, ECSC, Euratom: Council Decision of 13 September 1999 appointing the Deputy Secretary-General of the Council of the European Union</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 13 September 1999</p>
+      <p n="4">appointing the Deputy Secretary-General of the Council of the European Union</p>
+      <p n="5">(1999/630/EC, ECSC, Euratom)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 207(2) thereof,</p>
+      <p n="8">Having regard to the Treaty establishing the European Coal and Steel Community, and in particular Article 30(2) thereof,</p>
+      <p n="9">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 121(2) thereof,</p>
+      <p n="10">Whereas the Deputy Secretary-General of the Council of the European Union should be appointed,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Mr Pierre De Boissieu is hereby appointed Deputy Secretary-General of the Council of the European Union for a period of five years with effect from 18 October 1999.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Decision shall be notified to Mr Pierre De Boissieu by the President of the Council.</p>
+      <p n="16">It shall be published in the Official Journal of the European Communities.</p>
+      <p n="17">Done at Brussels, 13 September 1999.</p>
+      <p n="18">For the Council</p>
+      <p n="19">The President</p>
+      <p n="20">T. HALONEN</p>
+    </body>
+  </text>
+</TEI.2>

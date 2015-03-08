@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31995R2197-en" n="31995R2197" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R2197 English</title>
+        <title>Commission Regulation (EC) No 2197/95 of 18 September 1995 amending the Annexes to Council Regulations (EEC) No 837/90 concerning statistical information to be supplied by the Member States on cereal production and (EEC) No 959/93 concerning statistical information to be supplied by the Member States on crop products other than cereals</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2197:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2197:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2198</classCode>
+        <classCode scheme="eurovoc">2723</classCode>
+        <classCode scheme="eurovoc">4057</classCode>
+        <classCode scheme="eurovoc">4257</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R2197-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2197/95 of 18 September 1995 amending the Annexes to Council Regulations (EEC) No 837/90 concerning statistical information to be supplied by the Member States on cereal production and (EEC) No 959/93 concerning statistical information to be supplied by the Member States on crop products other than cereals</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2197/95 of 18 September 1995 amending the Annexes to Council Regulations (EEC) No 837/90 concerning statistical information to be supplied by the Member States on cereal production and (EEC) No 959/93 concerning statistical information to be supplied by the Member States on crop products other than cereals</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 837/90 of 26 March 1990 concerning statistical information to be supplied by the Member States on cereal production (1), as amended by Regulation (EEC) No 3570/90 (2), and in particular Article 6 thereof,</p>
+      <p n="6">Having regard to Council Regulation (EEC) No 959/93 of 5 April 1993 concerning statistical information to be supplied by the Member States on crop products other than cereals (3), and in particular Article 10 thereof,</p>
+      <p n="7">Whereas by reason of the accession of Austria, Finland and Sweden it is necessary to make certain technical adaptations to the abovementioned annexes and to extend certain derogations to the new Member States;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Agricultural Statistics set up by Council Decision 72/279/EEC (4),</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Annex III of Council Regulation (EEC) No 837/90 shall be supplemented as follows:</p>
+      <p n="12">&gt;TABLE&gt;</p>
+      <p n="13">Article 2 Footnote (5) of Annex II in Council Regulation (EEC) No 959/93, shall read as follows:</p>
+      <p n="14">'(5) Delivery of data on areas occupied by kitchen gardens is not obligatory for Denmark, the Netherlands, Austria, Finland, Sweden and the United Kingdom.`</p>
+      <p n="15">Article 3</p>
+      <p n="16">Annex III of Council Regulation (EEC) No 959/93 shall be supplemented as follows:</p>
+      <p n="17">&gt;TABLE&gt;</p>
+      <p n="18">Article 4 This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 18 September 1995.</p>
+      <p n="21">For the Commission Yves-Thibault DE SILGUY Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

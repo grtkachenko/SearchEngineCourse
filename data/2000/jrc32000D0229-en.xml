@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32000D0229-en" n="32000D0229" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0229 English</title>
+        <title>2000/229/EC: Commission Decision of 7 March 2000 fixing an indicative allocation between beneficiary countries of the total amount of Community assistance under the Instrument for Structural Policies for Pre-accession (notified under document number C(2000) 552)</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0229:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0229:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">12</classCode>
+        <classCode scheme="eurovoc">1460</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">4057</classCode>
+        <classCode scheme="eurovoc">5138</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0229-en." lang="en">
+    <body>
+      <head n="1">2000/229/EC: Commission Decision of 7 March 2000 fixing an indicative allocation between beneficiary countries of the total amount of Community assistance under the Instrument for Structural Policies for Pre-accession (notified under document number C(2000) 552)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 7 March 2000</p>
+      <p n="4">fixing an indicative allocation between beneficiary countries of the total amount of Community assistance under the Instrument for Structural Policies for Pre-accession</p>
+      <p n="5">(notified under document number C(2000) 552)</p>
+      <p n="6">(2000/229/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Regulation (EC) No 1267/1999 of 21 June 1999 establishing an Instrument for Structural Policies for Pre-accession(1), hereinafter referred to as "ISPA", and in particular the first subparagraph of Article 4 thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The second subparagraph of Article 1(1) of Regulation (EC) No 1267/1999 lists the countries qualifying for ISPA.</p>
+      <p n="12">(2) The first subparagraph of Article 4 of Regulation (EC) No 1267/1999 lays down that an indicative allocation between beneficiary countries of the total amount of Community assistance under ISPA is to be made by the Commission on the basis of the criteria of population, gross domestic product (GDP) per inhabitant in purchasing power parities and surface area. This allocation may be adjusted according to the second subparagraph of the same Article.</p>
+      <p n="13">(3) Article 15 of Regulation (EC) No 1267/1999 stipulates that, on accession to the European Union, a country will lose its entitlement to assistance from ISPA and that the funding thus released will be reallocated among other beneficiary countries.</p>
+      <p n="14">(4) The measure provided for in this Decision are in accordance with the opinion of the Management Committee for the Insrument for Structural Policies for Pre-accession,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The indicative allocation between beneficiary countries of the total amount of Community assistance under ISPA is set out in the Annex hereto.</p>
+      <p n="18">The indicative allocation shall be adjusted if a beneficiary country, by virtue of acceding to the European Union, loses its entitlement to ISPA assistance.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 7 March 2000.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Michel Barnier</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 161, 26.6.1999, p. 73.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">Indicative allocation between beneficiary countries of the total amount of Community assistance under the Instrument for Structural Policies for Pre-accession</p>
+      <p n="28">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

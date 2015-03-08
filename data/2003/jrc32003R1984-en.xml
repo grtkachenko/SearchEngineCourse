@@ -1,0 +1,321 @@
+<TEI.2 id="jrc32003R1984-en" n="32003R1984" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1984 English</title>
+        <title>Council Regulation (EC) No 1984/2003 of 8 April 2003 introducing a system for the statistical monitoring of trade in bluefin tuna, swordfish and bigeye tuna within the Community</title>
+      </titleStmt>
+      <extent>283 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1984:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1984:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1076</classCode>
+        <classCode scheme="eurovoc">1159</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">133</classCode>
+        <classCode scheme="eurovoc">2437</classCode>
+        <classCode scheme="eurovoc">4256</classCode>
+        <classCode scheme="eurovoc">946</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1984-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1984/2003 of 8 April 2003 introducing a system for the statistical monitoring of trade in bluefin tuna, swordfish and bigeye tuna within the Community</head>
+      <p n="2">Council Regulation (EC) No 1984/2003</p>
+      <p n="3">of 8 April 2003</p>
+      <p n="4">introducing a system for the statistical monitoring of trade in bluefin tuna, swordfish and bigeye tuna within the Community</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Since 14 November 1997, and following the adoption of Council Decision 86/238/EEC(3), the Community has been a Contracting Party to the International Convention for the Conservation of Atlantic Tunas signed in Rio de Janeiro on 14 May 1966, as amended by the Protocol annexed to the Final Act of the Conference of Plenipotentiaries of the States Parties to the Convention signed at Paris on 10 July 1984 (hereinafter called the "ICCAT Convention").</p>
+      <p n="11">(2) The ICCAT Convention provides a framework for regional cooperation in the conservation and management of tuna stocks and tuna-like species in the Atlantic Ocean and adjacent seas through the establishment of an International Commission for the Conservation of Atlantic Tunas, hereinafter called the "ICCAT", and the adoption by the latter of conservation measures which become binding on the contracting parties.</p>
+      <p n="12">(3) As part of the measures to regulate stocks of bigeye tuna and swordfish, improve the quality and reliability of statistical data and control the spread of illegal fishing, the ICCAT has adopted recommendations on the introduction of statistical document programmes for bigeye tuna and Atlantic swordfish. Since these recommendations have become binding on the Community, they need to be put into effect.</p>
+      <p n="13">(4) Council Decision 95/399/EC(4) approved the accession of the Community to the Agreement for the establishment of the Indian Ocean Tuna Commission. This Agreement constitutes a framework for strengthening international cooperation for the purpose of conserving and making rational use of Indian Ocean tuna and related species through the establishment of the Indian Ocean Tuna Commission, hereinafter called the "IOTC" and the adoption by the latter of resolutions on conservation and management in the area of competence of the IOTC which become binding on the contracting parties.</p>
+      <p n="14">(5) The IOTC has adopted a resolution establishing a statistical document programme for bigeye tuna. As this resolution has become binding on the Community, it needs to be put into effect.</p>
+      <p n="15">(6) The recommendations and resolution on a statistical document programme for bluefin tuna adopted previously by the ICCAT have been incorporated in Community law by Council Regulation (EC) No 858/94 of 12 April 1994 introducing a system for the statistical monitoring of trade in bluefin tuna (Thunnus thynnus) within the Community(5). In order to ensure that the provisions on statistical documents are more easily readable and applied uniformly, Regulation (EC) No 858/94 should be repealed and all the relevant provisions brought together in this Regulation.</p>
+      <p n="16">(7) The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(6),</p>
+      <p n="17">HAS ADOPTED THIS REGULATION:</p>
+      <p n="18">CHAPTER 1 GENERAL PROVISIONS</p>
+      <p n="19">Article 1</p>
+      <p n="20">Object</p>
+      <p n="21">This Regulation lays down general rules and conditions for the application by the Community of:</p>
+      <p n="22">(a) the statistical document programmes for bluefin tuna (Thunnus thynnus), swordfish (Xiphias gladius) and bigeye tuna (Thunnus obesus) adopted by the "ICCAT";</p>
+      <p n="23">(b) the statistical document programme for bigeye tuna (Thunnus obesus) adopted by the "IOTC".</p>
+      <p n="24">Article 2</p>
+      <p n="25">Scope</p>
+      <p n="26">This Regulation shall apply to bluefin tuna, swordfish and bigeye tuna as referred to in Article 1:</p>
+      <p n="27">(a) caught by a Community vessel or producer, or</p>
+      <p n="28">(b) imported into the Community, or</p>
+      <p n="29">(c) exported or re-exported from the Community to a third country.</p>
+      <p n="30">This Regulation shall not apply to bigeye tuna taken by seiners or baitboats and intended mainly for the canning industry in the areas of application of the Agreement for the establishment of the Indian Ocean Tuna Commission (hereinafter called "the IOTC Agreement") and the ICCAT Convention.</p>
+      <p n="31">Article 3</p>
+      <p n="32">Definitions</p>
+      <p n="33">For the purposes of this Regulation, the following definitions shall apply:</p>
+      <p n="34">(a) bluefin tuna: fish of the species Thunnus thynnus falling within the TARIC codes listed in Annex I;</p>
+      <p n="35">(b) swordfish: fish of the species Xiphias gladius falling within the TARIC codes listed in Annex II;</p>
+      <p n="36">(c) bigeye tuna: fish of the species Thunnus obesus falling within the TARIC codes listed in Annex III;</p>
+      <p n="37">(d) fishing: capture by a vessel with a view to landing, transhipment or placing in a cage or by a producer using a tuna trap net, of any fish belonging to one of the species listed in Article 1;</p>
+      <p n="38">(e) Community producer: natural persons or legal entities using the means of production for obtaining fishery products with a view to first-stage marketing;</p>
+      <p n="39">(f) importation: the customs procedures referred to in Article 4, points 16(a) to 16(f), of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code(7).</p>
+      <p n="40">CHAPTER 2 STATISTICAL MONITORING</p>
+      <p n="41">Section 1 Requirements on Member States in respect of imports</p>
+      <p n="42">Article 4</p>
+      <p n="43">Statistical document for importation</p>
+      <p n="44">1. All quantities of fish belonging to one of the species referred to in Article 1 imported from a third country into the territory of the Community shall be accompanied by a statistical document drawn up in accordance with the specimen shown at:</p>
+      <p n="45">- Annex IVa in the case of bluefin tuna,</p>
+      <p n="46">- Annex V in the case of swordfish,</p>
+      <p n="47">- Annex VI or Annex VII in the case of bigeye tuna.</p>
+      <p n="48">2. A statistical document shall:</p>
+      <p n="49">(a) contain all the information specified in the relevant Annexes referred to in paragraph 1 and all the signatures required by the appropriate operators, who shall be answerable for the declarations made therein;</p>
+      <p n="50">(b) be validated:</p>
+      <p n="51">(i) where the fishing has been carried out by a vessel: by a civil servant duly approved by the flag State of the vessel which carries out the fishing or by any other person or institution duly approved by that State. In the case of the third countries listed in Annex IVb, validation may be undertaken by an institution recognised for that purpose by that country;</p>
+      <p n="52">(ii) where the fishing has been carried out using a trap net: by a civil servant duly approved by the State in whose territorial waters the catch has been taken;</p>
+      <p n="53">(iii) in the case of swordfish, bluefin tuna and bigeye tuna caught by a vessel operating under a charter agreement: by a civil servant or any other person or institution duly approved by the exporting State;</p>
+      <p n="54">(iv) in the case of bigeye tuna caught by one of the vessels listed in Annexes VIIIa and VIIIb: by a Japanese or Taiwanese government official or by any other person duly approved for that purpose by the Governments of those countries.</p>
+      <p n="55">3. The statistical document shall be delivered to the competent authorities of the Member State in which the product is imported.</p>
+      <p n="56">4. The Member States shall ensure that their customs authorities or other competent official agents request and examine all documents, including the statistical document, for imports of fish belonging to one of the species referred to in Article 1.</p>
+      <p n="57">Those authorities may also examine the content of any cargo in order to verify the accuracy of the information contained in those documents.</p>
+      <p n="58">5. The importation of fish belonging to one of the species referred to in Article 1 shall be prohibited where the cargo concerned is not accompanied by the statistical document for the relevant importation, validated and completed in accordance with paragraphs 1 and 2.</p>
+      <p n="59">Section 2 Requirements on Member States in respect of exports</p>
+      <p n="60">Article 5</p>
+      <p n="61">Statistical document for exportation</p>
+      <p n="62">1. All quantities of fish belonging to one of the species referred to in Article 1 caught by a Community vessel or taken by a Community producer and exported to a third country shall be accompanied by a statistical document drawn up in accordance with the specimen shown at:</p>
+      <p n="63">- Annex IVa in the case of bluefin tuna;</p>
+      <p n="64">- Annex V in the case of swordfish;</p>
+      <p n="65">- Annex VI or Annex VII in the case of bigeye tuna.</p>
+      <p n="66">2. A statistical document shall:</p>
+      <p n="67">(a) contain all the information specified in the relevant Annexes referred to in paragraph 1 and all the signatures required by the appropriate operators, who shall be answerable for the declarations made therein;</p>
+      <p n="68">(b) be validated by:</p>
+      <p n="69">(i) the competent authorities of the flag Member State, or</p>
+      <p n="70">(ii) the competent authorities of another Member State in which the products are landed, provided the corresponding quantities are exported outside the Community from the territory of that Member State. The latter shall transmit a copy of the validated statistical document to the flag Member State within two months.</p>
+      <p n="71">3. The Member States shall ensure that their customs authorities or other competent official agents request and examine all documents, including the statistical document, for exports of all fish belonging to one of the species referred to in Article 1.</p>
+      <p n="72">These authorities may also examine the content of any cargo in order to verify the accuracy of the information contained in those documents.</p>
+      <p n="73">4. Each Member State shall send the Commission the information concerning its competent authorities referred to in paragraph 2(b). The Commission shall forward this information to the other Member States.</p>
+      <p n="74">5. The export of fish belonging to one of the species referred to in Article 1 shall be prohibited where the load concerned is not accompanied by the statistical document for the relevant export, validated and completed in accordance with paragraphs 1 and 2.</p>
+      <p n="75">Section 3 Requirements on Member States in respect of re-exports</p>
+      <p n="76">Article 6</p>
+      <p n="77">Re-export certificates</p>
+      <p n="78">1. A re-export certificate shall accompany all quantities of fish belonging to one of the species referred to in Article 1 which are:</p>
+      <p n="79">(a) re-exported from the Community to a third country following importation into the Community; or</p>
+      <p n="80">(b) imported into the territory of the Community from a third country after having been re-exported by that third country.</p>
+      <p n="81">Re-export certificates shall be drawn up in accordance with the specimen shown at:</p>
+      <p n="82">(a) Annex IX in the case of bluefin tuna;</p>
+      <p n="83">(b) Annex X in the case of swordfish;</p>
+      <p n="84">(c) Annex XI or Annex XII in the case of bigeye tuna.</p>
+      <p n="85">2. Re-export certificates shall:</p>
+      <p n="86">(a) contain all the information specified in the relevant Annexes referred to in the second subparagraph of paragraph 1 and all the signatures required by the appropriate operators, who shall be answerable for the declarations made therein;</p>
+      <p n="87">(b) be validated by the competent authorities of the Member State from which the re-export is to take place or the competent authorities of the third country from which the re-export has taken place;</p>
+      <p n="88">(c) be accompanied by a duly validated copy of the statistical document for importation referred to in Article 4.</p>
+      <p n="89">3. Member States which authenticate re-export certificates in accordance with paragraph 2(b) shall require re-exporters to provide the necessary documents certifying that the cargo of fish re-exported corresponds to the cargo of fish originally imported. The Member States shall provide the flag State or the exporting State, upon request, with a copy of the certificate.</p>
+      <p n="90">4. The re-export certificate shall be delivered to the competent authorities of the Member State of importation or re-exportation.</p>
+      <p n="91">5. The Member States shall ensure that their customs authorities or other competent official agents request and examine all documents, including the re-export certificate, for the re-export of fish belonging to one of the species referred to in Article 1.</p>
+      <p n="92">These authorities may also examine the content of any cargo in order to verify the accuracy of the information contained in those documents.</p>
+      <p n="93">6. The re-export and import following the re-export of fish belonging to one of the species referred to in Article 1 shall be prohibited where the cargo concerned is not accompanied by the corresponding certificate, validated and completed in accordance with paragraphs 1 and 2.</p>
+      <p n="94">Article 7</p>
+      <p n="95">Repeated re-exports</p>
+      <p n="96">1. All quantities of fish belonging to one of the species referred to in Article 1, re-exported after having already been re-exported, shall be accompanied by a new re-export certificate, validated and completed in accordance with Article 6(1) and (2).</p>
+      <p n="97">Article 6(3), (4), (5) and (6) shall apply.</p>
+      <p n="98">2. The new certificate referred to in paragraph 1 shall be accompanied by a certified copy of the preceding, duly validated, re-export certificates which accompanied the cargo.</p>
+      <p n="99">CHAPTER 3 TRANSMISSION OF DATA</p>
+      <p n="100">Article 8</p>
+      <p n="101">Information concerning validation</p>
+      <p n="102">Each Member State shall forward to the Commission not later than 30 days following the entry into force of this Regulation a specimen of its statistical documents and re-export certificates. It shall also forward to the Commission all necessary information concerning validation and, in good time, any changes to those documents and certificates, in accordance with:</p>
+      <p n="103">(a) the ICCAT specimen shown at Annex XIII for bluefin tuna, swordfish and bigeye tuna;</p>
+      <p n="104">(b) the IOTC specimen shown at Annex XIV for bigeye tuna.</p>
+      <p n="105">Article 9</p>
+      <p n="106">Transmission of data</p>
+      <p n="107">1. Member States which import, export or re-export fish belonging to one of the species referred to in Article 1 shall forward to the Commission by computer transmission before 15 March for the period from 1 July to 31 December of the preceding year and before 15 September for the period from 1 January to 30 June of the current year, a report on:</p>
+      <p n="108">(a) the quantities of each commercial presentation of fish belonging to one of the species referred to in Article 1 imported into their territory, broken down by third country of origin, place of catch and type of fishing gear used;</p>
+      <p n="109">(b) the quantities of each commercial presentation of fish belonging to one of the species referred to in Article 1 imported into their territory after having been re-exported by a third country, broken down by third country of origin, place of capture and type of fishing gear used.</p>
+      <p n="110">2. The report referred to in paragraph 1 shall contain the information specified in:</p>
+      <p n="111">(a) Annex XV for bluefin tuna;</p>
+      <p n="112">(b) Annex XVI for swordfish;</p>
+      <p n="113">(c) Annex XVII or Annex XVIII for bigeye tuna.</p>
+      <p n="114">Article 10</p>
+      <p n="115">National report</p>
+      <p n="116">Member States which export fish belonging to one of the species referred to in Article 1 shall check that the information on imports transmitted by the Commission corresponds to their own information. They shall inform the Commission of the outcome of such cross-checks in the national report referred to in Article 9 of Council Regulation (EC) No 1936/2001 of 27 September 2001 laying down control measures applicable to fishing for certain stocks of highly migratory fish(8).</p>
+      <p n="117">CHAPTER 4 FINAL PROVISIONS</p>
+      <p n="118">Article 11</p>
+      <p n="119">Amendment of Annexes</p>
+      <p n="120">The Annexes hereto may be amended in accordance with the ICCAT and the IOTC conservation measures which become binding on the Community and in accordance with the procedure laid down in Article 12(2).</p>
+      <p n="121">Article 12</p>
+      <p n="122">Committee procedure</p>
+      <p n="123">1. The Commission shall be assisted by the Management Committee for Fisheries and Aquaculture established by Article 30 of Council Regulation (EC) No 2371/2002 of 20 December 2002 on the conservation and sustainable exploitation of fisheries resources under the Common Fisheries Policy(9).</p>
+      <p n="124">2. Where reference is made to this paragraph, Articles 4 and 7 of Decision 1999/468/EC shall apply.</p>
+      <p n="125">The period laid down in Article 4(3) of Decision 1999/468/EC shall be set at one month.</p>
+      <p n="126">3. The Committee shall adopt its rules of procedure.</p>
+      <p n="127">Article 13</p>
+      <p n="128">Repeal</p>
+      <p n="129">1. Regulation (EC) No 858/94 is hereby repealed.</p>
+      <p n="130">2. References to the repealed Regulation shall be understood as references to this Regulation and are to be read in accordance with the table of equivalence shown in Annex XIX.</p>
+      <p n="131">Article 14</p>
+      <p n="132">Entry into force</p>
+      <p n="133">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.</p>
+      <p n="134">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="135">Done at Luxembourg, 8 April 2003.</p>
+      <p n="136">For the Council</p>
+      <p n="137">The President</p>
+      <p n="138">G. Drys</p>
+      <p n="139">(1) OJ C 331 E, 31.12.2002, p. 128.</p>
+      <p n="140">(2) Opinion of 12 February 2003 (not yet published in the Official Journal).</p>
+      <p n="141">(3) OJ L 162, 18.6.1986, p. 33.</p>
+      <p n="142">(4) OJ L 236, 5.10.1995, p. 24.</p>
+      <p n="143">(5) OJ L 99, 19.4.1994, p. 1. Regulation as amended by Regulation (EC) No 1446/1999 (OJ L 167, 2.7.1999, p. 1).</p>
+      <p n="144">(6) OJ L 184, 17.7.1999, p. 23.</p>
+      <p n="145">(7) OJ L 302, 19.10.1992, p. 1. Regulation as last amended by Regulation (EC) No 2700/2000 (OJ L 311, 12.12.2000, p. 17).</p>
+      <p n="146">(8) OJ L 263, 3.10.2001, p. 1.</p>
+      <p n="147">(9) OJ L 358, 31.12.2002, p. 59.</p>
+      <p n="148">ANNEX I</p>
+      <p n="149">PRODUCTS REFERRED TO IN ARTICLE 3(a)</p>
+      <p n="150">Without prejudice to the rules for the interpretation of the Combined Nomenclature, the wording of the description of the goods is regarded as being for information purposes only. In the context of this Annex, the TARIC codes will apply, as they exist when this Regulation is adopted.</p>
+      <p n="151">TARIC code</p>
+      <p n="152">0301 99 90 60</p>
+      <p n="153">0302 35 10 00</p>
+      <p n="154">0302 35 90 00</p>
+      <p n="155">0303 45 11 00</p>
+      <p n="156">0303 45 13 00</p>
+      <p n="157">0303 45 19 00</p>
+      <p n="158">0303 45 90 00</p>
+      <p n="159">0304 10 38 60</p>
+      <p n="160">0304 10 98 50</p>
+      <p n="161">0304 20 45 10</p>
+      <p n="162">0304 90 97 70</p>
+      <p n="163">0305 20 00 18</p>
+      <p n="164">0305 20 00 74</p>
+      <p n="165">0305 20 00 75</p>
+      <p n="166">0305 30 90 30</p>
+      <p n="167">0305 49 80 10</p>
+      <p n="168">0305 59 90 40</p>
+      <p n="169">0305 69 90 30</p>
+      <p n="170">1604 14 11 20</p>
+      <p n="171">1604 14 11 25</p>
+      <p n="172">1604 14 16 20</p>
+      <p n="173">1604 14 16 25</p>
+      <p n="174">1604 14 18 20</p>
+      <p n="175">1604 14 18 25</p>
+      <p n="176">1604 20 70 30</p>
+      <p n="177">1604 20 70 35</p>
+      <p n="178">ANNEX II</p>
+      <p n="179">PRODUCTS REFERRED TO IN ARTICLE 3(b)</p>
+      <p n="180">Without prejudice to the rules for the interpretation of the Combined Nomenclature, the wording of the description of the goods is regarded as being for information purposes only. In the context of this Annex, the TARIC codes will apply, as they exist when this Regulation is adopted.</p>
+      <p n="181">TARIC code</p>
+      <p n="182">0301 99 90 70</p>
+      <p n="183">0302 69 87 00</p>
+      <p n="184">0303 79 87 00</p>
+      <p n="185">0304 10 38 70</p>
+      <p n="186">0304 10 98 55</p>
+      <p n="187">0304 20 87 00</p>
+      <p n="188">0304 90 65 00</p>
+      <p n="189">0305 20 00 19</p>
+      <p n="190">0305 20 00 76</p>
+      <p n="191">0305 20 00 77</p>
+      <p n="192">0305 30 90 40</p>
+      <p n="193">0305 49 80 20</p>
+      <p n="194">0305 59 90 50</p>
+      <p n="195">0305 69 90 50</p>
+      <p n="196">1604 19 91 30</p>
+      <p n="197">1604 19 98 20</p>
+      <p n="198">1604 20 90 60</p>
+      <p n="199">ANNEX III</p>
+      <p n="200">PRODUCTS REFERRED TO IN ARTICLE 3(c)</p>
+      <p n="201">Without prejudice to the rules for the interpretation of the Combined Nomenclature, the wording of the description of the goods is regarded as being for information purposes only. In the context of this Annex, the TARIC codes will apply, as they exist when this Regulation is adopted.</p>
+      <p n="202">TARIC code</p>
+      <p n="203">0301 99 90 75</p>
+      <p n="204">0302 34 10 00</p>
+      <p n="205">0302 34 90 00</p>
+      <p n="206">0303 44 11 00</p>
+      <p n="207">0303 44 13 00</p>
+      <p n="208">0303 44 19 00</p>
+      <p n="209">0303 44 90 00</p>
+      <p n="210">0304 10 38 75</p>
+      <p n="211">0304 10 98 65</p>
+      <p n="212">0304 20 45 20</p>
+      <p n="213">0304 90 97 75</p>
+      <p n="214">0305 20 00 21</p>
+      <p n="215">0305 20 00 78</p>
+      <p n="216">0305 20 00 79</p>
+      <p n="217">0305 30 90 75</p>
+      <p n="218">0305 49 80 60</p>
+      <p n="219">0305 59 90 45</p>
+      <p n="220">0305 69 90 40</p>
+      <p n="221">1604 14 11 30</p>
+      <p n="222">1604 14 11 35</p>
+      <p n="223">1604 14 16 30</p>
+      <p n="224">1604 14 16 35</p>
+      <p n="225">1604 14 18 30</p>
+      <p n="226">1604 14 18 35</p>
+      <p n="227">1604 20 70 40</p>
+      <p n="228">1604 20 70 45</p>
+      <p n="229">ANNEX IVa</p>
+      <p n="230">&gt;PIC FILE= "L_2003295EN.000902.TIF"&gt;</p>
+      <p n="231">&gt;PIC FILE= "L_2003295EN.001001.TIF"&gt;</p>
+      <p n="232">&gt;PIC FILE= "L_2003295EN.001101.TIF"&gt;</p>
+      <p n="233">ANNEX IVb</p>
+      <p n="234">Third countries recognised by ICCAT for which the statistical document can be validated by an institution authorised for this purpose, for example a chamber of commerce: Angola, Brazil, Canada, Cape Verde, China, Côte d'Ivoire, Croatia, Equatorial Guinea, Gabon, Ghana, Guinea-Bissau, Guinea-Conakry, Japan, Korea, Libya, Morocco, Russia, São Tomé and Príncipe, South Africa, Tunisia, Uruguay, USA, Venezuela.</p>
+      <p n="235">ANNEX V</p>
+      <p n="236">&gt;PIC FILE= "L_2003295EN.001202.TIF"&gt;</p>
+      <p n="237">&gt;PIC FILE= "L_2003295EN.001301.TIF"&gt;</p>
+      <p n="238">&gt;PIC FILE= "L_2003295EN.001401.TIF"&gt;</p>
+      <p n="239">ANNEX VI</p>
+      <p n="240">&gt;PIC FILE= "L_2003295EN.001502.TIF"&gt;</p>
+      <p n="241">&gt;PIC FILE= "L_2003295EN.001601.TIF"&gt;</p>
+      <p n="242">&gt;PIC FILE= "L_2003295EN.001701.TIF"&gt;</p>
+      <p n="243">ANNEX VII</p>
+      <p n="244">&gt;PIC FILE= "L_2003295EN.001802.TIF"&gt;</p>
+      <p n="245">&gt;PIC FILE= "L_2003295EN.001901.TIF"&gt;</p>
+      <p n="246">&gt;PIC FILE= "L_2003295EN.002001.TIF"&gt;</p>
+      <p n="247">ANNEX VIIIa</p>
+      <p n="248">List of vessels participating in the Japanese breaking-up programme</p>
+      <p n="249">&gt;TABLE&gt;</p>
+      <p n="250">ANNEX VIIIb</p>
+      <p n="251">List of vessels flying the Taiwanese flag participating in the re-registration programme</p>
+      <p n="252">&gt;TABLE&gt;</p>
+      <p n="253">ANNEX IX</p>
+      <p n="254">&gt;PIC FILE= "L_2003295EN.002302.TIF"&gt;</p>
+      <p n="255">&gt;PIC FILE= "L_2003295EN.002401.TIF"&gt;</p>
+      <p n="256">&gt;PIC FILE= "L_2003295EN.002501.TIF"&gt;</p>
+      <p n="257">ANNEX X</p>
+      <p n="258">&gt;PIC FILE= "L_2003295EN.002602.TIF"&gt;</p>
+      <p n="259">&gt;PIC FILE= "L_2003295EN.002701.TIF"&gt;</p>
+      <p n="260">ANNEX XI</p>
+      <p n="261">&gt;PIC FILE= "L_2003295EN.002802.TIF"&gt;</p>
+      <p n="262">&gt;PIC FILE= "L_2003295EN.002901.TIF"&gt;</p>
+      <p n="263">ANNEX XII</p>
+      <p n="264">&gt;PIC FILE= "L_2003295EN.003002.TIF"&gt;</p>
+      <p n="265">&gt;PIC FILE= "L_2003295EN.003101.TIF"&gt;</p>
+      <p n="266">ANNEX XIII</p>
+      <p n="267">&gt;PIC FILE= "L_2003295EN.003202.TIF"&gt;</p>
+      <p n="268">ANNEX XIV</p>
+      <p n="269">&gt;PIC FILE= "L_2003295EN.003302.TIF"&gt;</p>
+      <p n="270">ANNEX XV</p>
+      <p n="271">&gt;PIC FILE= "L_2003295EN.003402.TIF"&gt;</p>
+      <p n="272">&gt;PIC FILE= "L_2003295EN.003501.TIF"&gt;</p>
+      <p n="273">ANNEX XVI</p>
+      <p n="274">&gt;PIC FILE= "L_2003295EN.003602.TIF"&gt;</p>
+      <p n="275">&gt;PIC FILE= "L_2003295EN.003701.TIF"&gt;</p>
+      <p n="276">ANNEX XVII</p>
+      <p n="277">&gt;PIC FILE= "L_2003295EN.003802.TIF"&gt;</p>
+      <p n="278">&gt;PIC FILE= "L_2003295EN.003901.TIF"&gt;</p>
+      <p n="279">ANNEX XVIII</p>
+      <p n="280">&gt;PIC FILE= "L_2003295EN.004002.TIF"&gt;</p>
+      <p n="281">&gt;PIC FILE= "L_2003295EN.004101.TIF"&gt;</p>
+      <p n="282">ANNEX XIX</p>
+      <p n="283">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

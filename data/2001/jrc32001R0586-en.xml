@@ -1,0 +1,77 @@
+<TEI.2 id="jrc32001R0586-en" n="32001R0586" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R0586 English</title>
+        <title>Commission Regulation (EC) No 586/2001 of 26 March 2001 on implementing Council Regulation (EC) No 1165/98 concerning short-term statistics as regards the definition of Main Industrial Groupings (MIGS)</title>
+      </titleStmt>
+      <extent>41 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0586:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0586:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1200</classCode>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">4256</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4262</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R0586-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 586/2001 of 26 March 2001 on implementing Council Regulation (EC) No 1165/98 concerning short-term statistics as regards the definition of Main Industrial Groupings (MIGS)</head>
+      <p n="2">Commission Regulation (EC) No 586/2001</p>
+      <p n="3">of 26 March 2001</p>
+      <p n="4">on implementing Council Regulation (EC) No 1165/98 concerning short-term statistics as regards the definition of Main Industrial Groupings (MIGS)</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1165/98 of 19 May 1998(1) concerning short-term statistics, and in particular Article 3 and Article 17(c) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Regulation (EC) No 1165/98 established a common framework for the production of short-term Community statistics on the business cycle.</p>
+      <p n="10">(2) In accordance with Article 3 and Article 17(c) of Regulation (EC) No 1165/98, implementing measures are necessary concerning the definition of Main Industrial Groupings (MIGS).</p>
+      <p n="11">(3) The definition of Main Industrial Groupings (MIGS) is based on the statistical classification of economic activities in the European Community, Council Regulation (EEC) No 3037/90(2), as last amended by Commission Regulation (EEC) No 761/93(3), (NACE rev. 1). It uses the level of Groups (3 digits) for distinguishing between the Main Industrial Groupings (MIGS).</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion delivered by the Statistical Programme Committee, established by Council Decision 89/382/EEC, Euratom(4),</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Definition of Main Industrial Groupings (MIGS)</p>
+      <p n="16">The allocation of NACE rev. 1 Groups to the Main Industrial Groupings (MIGS) is defined in the Annex to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">Non-availability of data on NACE rev. 1 Group level</p>
+      <p n="19">Member States that do not calculate the statistical data covered by Regulation (EC) No 1165/98 to the level of detail of NACE rev. 1 Groups are allowed to calculate national weights for the Groups within a Division in order to do the split-up of the Division-based data into Groups.</p>
+      <p n="20">The Member States that apply the allocation to Main Industrial Groupings (MIGS) in part or in total on the basis of NACE rev. 1 Divisions shall inform Eurostat on the weights used for the split-up into NACE rev. 1 Groups.</p>
+      <p n="21">Article 3</p>
+      <p n="22">Implementation of the definitions</p>
+      <p n="23">Member States shall apply the definitions set forth in the Annex for statistical datas communicated pursuant to Regulation (EC) No 1165/98, not later than three months after the present Regulation enters into force; Member States shall, in applying the definitions set forth in the Annex, take the necessary measures to assure that existing statistical data covered by Regulation (EC) No 1165/98 will be revised by means of recalculation or estimation to satisfy these definitions.</p>
+      <p n="24">Article 4</p>
+      <p n="25">Information on conformance to the definitions</p>
+      <p n="26">Each Member State shall transmit to the Commission, at its request, any relevant information on conformance within that Member State to the definitions set forth in the Annex.</p>
+      <p n="27">Article 5</p>
+      <p n="28">Entry into force</p>
+      <p n="29">This Regulation shall enter into force on the 20th day after its publication in the Official Journal of the European Communities.</p>
+      <p n="30">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="31">Done at Brussels, 26 March 2001.</p>
+      <p n="32">For the Commission</p>
+      <p n="33">Pedro Solbes Mira</p>
+      <p n="34">Member of the Commission</p>
+      <p n="35">(1) OJ L 162, 5.6.1998, p. 1.</p>
+      <p n="36">(2) OJ L 293, 24.10.1990, p. 1.</p>
+      <p n="37">(3) OJ L 83, 3.4.1993, p. 1.</p>
+      <p n="38">(4) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="39">ANNEX</p>
+      <p n="40">ALLOCATION OF NACE HEADINGS TO CATEGORIES OF AGGREGATE CLASSIFICATION</p>
+      <p n="41">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

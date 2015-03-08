@@ -1,0 +1,146 @@
+<TEI.2 id="jrc31998R2702-en" n="31998R2702" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2702 English</title>
+        <title>Commission Regulation (EC) No 2702/98 of 17 December 1998 concerning the technical format for the transmission of structural business statistics (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>109 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2702:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2702:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4300</classCode>
+        <classCode scheme="eurovoc">4488</classCode>
+        <classCode scheme="eurovoc">45</classCode>
+        <classCode scheme="eurovoc">5235</classCode>
+        <classCode scheme="eurovoc">5985</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2702-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2702/98 of 17 December 1998 concerning the technical format for the transmission of structural business statistics (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2702/98 of 17 December 1998 concerning the technical format for the transmission of structural business statistics (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC, Euratom) No 58/97 of 20 December 1996 (1) concerning structural business statistics, and in particular Article 12(viii) thereof,</p>
+      <p n="6">Whereas Council Regulation (EC, Euratom) No 58/97 established a common framework for the production of Community statistics on the structure, activity, competitiveness and performance of businesses in the Community;</p>
+      <p n="7">Whereas it is necessary to specify the technical format for the transmission of structural business statistics;</p>
+      <p n="8">Whereas the envisaged measures are in accordance with the opinion of the Statistical Programme Committee,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The technical format referred to in Article 9 of Regulation (EC, Euratom) No 58/97 concerning structural business statistics is defined in the Annex to this Regulation.</p>
+      <p n="12">Article 2</p>
+      <p n="13">Member States shall apply this format for the data concerning the 1996 reference year and subsequent years.</p>
+      <p n="14">Article 3</p>
+      <p n="15">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 17 December 1998.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Yves-Thibault de SILGUY</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 14, 17.1.1997, p. 1.</p>
+      <p n="22">ANNEX</p>
+      <p n="23">TECHNICAL FORMAT</p>
+      <p n="24">1. The form of the data</p>
+      <p n="25">The data is sent as a set of records of which a large part describes the characteristics of the data (country, year, economic activity, etc.). The data itself is a number which can be linked to flags and explanatory footnotes used for example to describe aggregations of NACE codes. Confidential data should be sent with the true value being recorded in the value field and a flag indicating the nature of the confidential data being added to the record.</p>
+      <p n="26">In order to be precise about the nature of the data, it is necessary to distinguish the following special cases:</p>
+      <p n="27">- data equal to zero (coded '0`): real values of zero only,</p>
+      <p n="28">- confidential data (coded 'x`): indicates data which the Member State does not transmit to Eurostat because the data is confidential,</p>
+      <p n="29">- missing data (coded 'm`): this is data which is currently missing but the Member State intends to supply when available,</p>
+      <p n="30">- data not available: this is data which is not collected in a Member State. In this case the corresponding record is not sent.</p>
+      <p n="31">By default, if an entire dimension (a variable, a NUTS code, a NACE code, etc.) is not collected then the corresponding records will not exist except for those which are missing because they form part of a regrouping of NACE codes. This is why it is important to distinguish data which is really missing by supplying a record (one per missing item) in which the data value is coded as 'm`, and data which is really equal to zero by supplying the corresponding records in which the data value is set to 0.</p>
+      <p n="32">2. Record structure</p>
+      <p n="33">Records are made up of fields of variable length separated by semi-colons (;). The maximum expected length is shown in the table for information. In order from left to right they are:</p>
+      <p n="34">&gt;TABLE&gt;</p>
+      <p n="35">3. Description of the fields</p>
+      <p n="36">3.1. The type of series</p>
+      <p n="37">&gt;TABLE&gt;</p>
+      <p n="38">3.2. Territorial unit</p>
+      <p n="39">This code corresponds to the country for national series or to the region for regional series (series 1C, 2F, 3E, 3F, 4F). It is based on the NUTS 95 code. For regions, two characters are added to the two characters for the country (see NUTS 95).</p>
+      <p n="40">&gt;TABLE&gt;</p>
+      <p n="41">3.3. Size classes</p>
+      <p n="42">Each size class corresponds to a code. Most series cover all size categories and hence code 30 is the most appropriate.</p>
+      <p n="43">All codes from 01 up to 53 refer to the number of persons employed. Codes 80 to 85 refer to gross premiums written.</p>
+      <p n="44">&gt;TABLE&gt;</p>
+      <p n="45">&gt;TABLE&gt;</p>
+      <p n="46">3.4. Economic activity</p>
+      <p n="47">This field is used for the NACE Rev.1 heading. A number of standard aggregates are foreseen by the SBS Regulation and should be coded as follows.</p>
+      <p n="48">&gt;TABLE&gt;</p>
+      <p n="49">Non-standard aggregates should be indicated in the 'Aggregation of NACE codes field`.</p>
+      <p n="50">3.5. Form of ownership or FATS identification</p>
+      <p n="51">This field is used either for breakdowns according to form of ownership (only used in industry and construction) or FATS identification (only used in services). There are no series that breakdown by both classifications.</p>
+      <p n="52">The requirements concerning the breakdown of characteristics following the location of ownership or control (FATS) are part of Annex 1, section 10, paragraph 3 of Regulation (EC, Euratom) No 58/97. Thus data collection is subject to testing.</p>
+      <p n="53">The data concern a breakdown of totals by the country or geographical region where ownership or control is located. Three pieces of information are required:</p>
+      <p n="54">- the method used for the collection: ultimate beneficial owner or 'first shot` information,</p>
+      <p n="55">- the kind of FATS: inward/resident FATS or outward FATS,</p>
+      <p n="56">- the country where ownership or control is located or for outward FATS where, for example, turnover is generated or employment is located.</p>
+      <p n="57">&gt;TABLE&gt;</p>
+      <p n="58">3.6. Location of ownership - FATS</p>
+      <p n="59">Only used in services.</p>
+      <p n="60">The codes to be used are those also used for balance of payments statistics (the same as the above codes in section 3.2). Country codes and other area codes (an incomplete list) are shown at the end of this format.</p>
+      <p n="61">3.7. Variable</p>
+      <p n="62">&gt;TABLE&gt;</p>
+      <p n="63">3.8. Data value</p>
+      <p n="64">Monetary data is expressed in thousands of national currency units except for:</p>
+      <p n="65">- Ireland: data is given in units (IEP),</p>
+      <p n="66">- Spain, Greece and Italy : data is given in millions of national currency units.</p>
+      <p n="67">In order to be precise about the nature of the data, it is necessary to distinguish the following cases:</p>
+      <p n="68">- data equal to zero (coded '0`): real values of zero only,</p>
+      <p n="69">- confidential data (coded 'X`): indicates data which the Member State does not transmit to Eurostat because the data is confidential. A flag should also be used to indicate that the data is missing due to confidentiality (see 3.10 below),</p>
+      <p n="70">- missing data (coded 'm`): this is data which is currently missing but the Member State intends to supply when available,</p>
+      <p n="71">- data not available: this is data, which is not collected in a Member State. In this case the corresponding record is not sent.</p>
+      <p n="72">By default, if an entire dimension (a variable, a NUTS code, a NACE code, etc.) is not collected then the corresponding records will not exist excepts for those which are missing because they form part of a regrouping of NACE codes. This is why it is important to distinguish data which is really missing by supplying a record (one per missing item) in which the data value is coded as 'm`.</p>
+      <p n="73">3.9. Quality flag</p>
+      <p n="74">&gt;TABLE&gt;</p>
+      <p n="75">Revised data refers to data which are sent for a second (or more) time and are corrections of data which have been previously sent. Updated data concerns data which was not previously available and was coded as missing in the data value field (see 3.8) but has since become available. The flag indicating provisional data should be used in order to indicate that it is likely that that the data being transmitted may be corrected.</p>
+      <p n="76">3.10. Confidentiality</p>
+      <p n="77">Member States are asked to clearly indicate confidential data using the flags listed below.</p>
+      <p n="78">Countries which cannot send confidential data are asked to set the value to 'x` (see 3.8) and to indicate using a flag that the data is missing due to confidentiality.</p>
+      <p n="79">&gt;TABLE&gt;</p>
+      <p n="80">3.11. Turnover size classes</p>
+      <p n="81">The size classes below are measured in million ECU.</p>
+      <p n="82">&gt;TABLE&gt;</p>
+      <p n="83">3.12. Sales area size classes</p>
+      <p n="84">&gt;TABLE&gt;</p>
+      <p n="85">3.13. Units of data values</p>
+      <p n="86">This field is optional and allows Member States to specify which units have been used for the data values used in the data transmission. The correct implementation of section 3.8 makes it unnecessary to use this field.</p>
+      <p n="87">&gt;TABLE&gt;</p>
+      <p n="88">4. Examples of records</p>
+      <p n="89">Example 1: Aggregation of NACE-codes</p>
+      <p n="90">Series 2A data for 1995 for Germany. The NACE code 231 contains the aggregation of codes 231 + 232 + 233 for variable 16 11 0: number of persons employed. It is not confidential.</p>
+      <p n="91">2A;1995;DE;30;231;;;16110;2700;M;;;231 = 231 + 232 + 233;</p>
+      <p n="92">Example 2: Confidential data: too few enterprises</p>
+      <p n="93">Total wages and salaries (DEM 12 124 million) for the manufacture of iron and steel (NACE 271) in 1995 in the region of Fribourg (series C) is confidential because there are too few enterprises. This is revised data.</p>
+      <p n="94">2C;1995;DE13;30;271;;;13320;12124000;R;A;;;</p>
+      <p n="95">Example 3: Confidential data: dominance by one enterprise</p>
+      <p n="96">The number of persons employed (2 700) in France in 1996 for enterprises of 250 to 499 employees for NACE 141 is confidential. One enterprise dominates the data and represents 92 % of employment. This is provisional data.</p>
+      <p n="97">2D;1996;FR;14;141;;;16110;2700;P;B;92;;</p>
+      <p n="98">Example 4: Size class data: sales area in retail trade</p>
+      <p n="99">The turnover of the retail sale of foods (NACE Rev.1 52.2) in Luxembourg in 1996 for a sales space of 120 to 399 m² was LUF 1 000 million. It is updated data.</p>
+      <p n="100">3C;1996;LU;30;522;;;12110;1000000;M;;;;;;02</p>
+      <p n="101">Example 5: Inward FATS in road freight transport</p>
+      <p n="102">In 1995 the number of enterprises (code 11110) in the Netherlands in road freight transport owned or controlled by an enterprise in the USA, following the concept of ultimate beneficial ownership (UBO), is 4. The data is provisional. It concerns Annex 1 data and the specification on the data value is added.</p>
+      <p n="103">1G;1995;NL;30;6024;30;US;11110;4;P;;;;UNIT</p>
+      <p n="104">5. Type of magnetic media</p>
+      <p n="105">In order to facilitate reading the data, the data must be supplied on 3,5&amp;Prime; diskette.</p>
+      <p n="106">6. Other methods</p>
+      <p n="107">Upon written request Eurostat can provide Member States with electronic questionnaires for the service sectors using Microsoft Excel. The request should be made well in advance of the planned date of data delivery.</p>
+      <p n="108">&gt;TABLE&gt;</p>
+      <p n="109">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

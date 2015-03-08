@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32000D0462-en" n="32000D0462" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0462 English</title>
+        <title>2000/462/EC: Commission Decision of 12 July 2000 concerning the health certification for imports of bees/hives, queens and their attendants from third countries (notified under document number C(2000) 1966) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0462:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0462:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2115</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0462-en." lang="en">
+    <body>
+      <head n="1">2000/462/EC: Commission Decision of 12 July 2000 concerning the health certification for imports of bees/hives, queens and their attendants from third countries (notified under document number C(2000) 1966) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 12 July 2000</p>
+      <p n="4">concerning the health certification for imports of bees/hives, queens and their attendants from third countries</p>
+      <p n="5">(notified under document number C(2000) 1966)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/462/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 92/65/EEC of 13 July 1992 laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A (I) to Directive 90/425/EEC(1), as last amended by Decision 95/176/EC(2), and in particular Articles 17 and 18 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Those third countries from which Member States authorise imports of bees/hives or queens (with attendants) into the Community must be established in accordance with the requirements of Council Directive 92/65/EEC; this authorisation shall apply to any third country.</p>
+      <p n="13">(2) A health certification must be established for imports into the Community of bees/hives, queens and their attendants in accordance with the requirements of Council Directive 92/65/EEC.</p>
+      <p n="14">(3) Additional disease measures must be taken in the case of new or exotic diseases as necessary.</p>
+      <p n="15">(4) Council Directive 96/93/EEC(3) lays down standards of certification which are necessary for valid certification and to prevent fraud; whereas it is appropriate to ensure that the rules and principles applied to third country certifying officers provide guarantees which are at least equivalent to those laid down in this Directive.</p>
+      <p n="16">(5) Considering that a new certification regime is hereby established, a period of time should be provided for its implementation.</p>
+      <p n="17">(6) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">Member States shall authorise the importation of bees (Apis mellifera)/hives, queens and their attendants coming from any third country, only if they comply with the guarantees laid down in the health certificate corresponding to the specimen drawn up in the Annex to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is applicable from 1 November 2000.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 12 July 2000.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">David Byrne</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 268, 14.9.1992, p. 52.</p>
+      <p n="30">(2) OJ L 117, 24.5.1995, p. 23.</p>
+      <p n="31">(3) OJ L 13, 16.1.1997, p. 18.</p>
+      <p n="32">ANNEX</p>
+      <p n="33">&gt;PIC FILE= "L_2000183EN.001902.EPS"&gt;</p>
+      <p n="34">&gt;PIC FILE= "L_2000183EN.002001.EPS"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

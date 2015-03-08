@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32004R0229-en" n="32004R0229" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0229 English</title>
+        <title>Commission Regulation (EC) No 229/2004 of 10 February 2004 derogating from Regulation (EC) No 565/2002 as regards the dates for lodging the licence applications for imports of garlic for the first quarter of the period 2004 to 2005</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0229:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0229:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1603</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0229-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 229/2004 of 10 February 2004 derogating from Regulation (EC) No 565/2002 as regards the dates for lodging the licence applications for imports of garlic for the first quarter of the period 2004 to 2005</head>
+      <p n="2">Commission Regulation (EC) No 229/2004</p>
+      <p n="3">of 10 February 2004</p>
+      <p n="4">derogating from Regulation (EC) No 565/2002 as regards the dates for lodging the licence applications for imports of garlic for the first quarter of the period 2004 to 2005</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), and in particular Article 31(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Importers from the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia (hereinafter referred to as "the new Member States") should benefit from the provisions contained in Commission Regulation (EC) No 565/2002 of 2 April 2002 establishing the method for managing tariff quotas and introducing a system of certificates of origin for garlic imported from third countries(2).</p>
+      <p n="10">(2) To ensure the correct use of quotas and allow traditional importers from the new Member States to be in a position to apply for sufficient quantities during the first quarter of the import period 2004 to 2005, provisions should be made as regards the dates for lodging the applications.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Processed Fruit and Vegetables,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">By way of derogation from Article 5(2) of Regulation (EC) No 565/2002, importers shall submit their applications for import licences for the first quarter of the import period 2004 to 2005 to the national competent authorities from 3 May 2004 till the last Friday of August 2004, both inclusive.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 10 February 2004.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 297, 21.11.1996, p. 1. Regulation as last amended by Commission Regulation (EC) No 47/2003 (OJ L 7, 11.1.2003, p. 64).</p>
+      <p n="23">(2) OJ L 86, 3.4.2002, p. 11.</p>
+    </body>
+  </text>
+</TEI.2>

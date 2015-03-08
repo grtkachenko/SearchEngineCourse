@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31998D0241-en" n="31998D0241" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0241 English</title>
+        <title>98/241/EC: Council Decision of 23 March 1998 concerning the approval, on behalf of the Community, of PARCOM Decision 96/1 on the phasing-out of the use of hexachloroethane in the non-ferrous metal industry</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0241:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0241:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1662</classCode>
+        <classCode scheme="eurovoc">1885</classCode>
+        <classCode scheme="eurovoc">2611</classCode>
+        <classCode scheme="eurovoc">3820</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0241-en." lang="en">
+    <body>
+      <head n="1">98/241/EC: Council Decision of 23 March 1998 concerning the approval, on behalf of the Community, of PARCOM Decision 96/1 on the phasing-out of the use of hexachloroethane in the non-ferrous metal industry</head>
+      <p n="2">COUNCIL DECISION of 23 March 1998 concerning the approval, on behalf of the Community, of PARCOM Decision 96/1 on the phasing-out of the use of hexachloroethane in the non-ferrous metal industry (98/241/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 100a, in conjunction with Article 228(2), first sentence, and (3), first subparagraph,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas by Council Decision of 3 March 1975 the Community concluded the Convention on the Prevention of Marine Pollution from Land-Based Sources (Paris Convention) (3) thus becoming a Contracting Party to this Convention;</p>
+      <p n="8">Whereas the executive body of the Paris Convention (PARCOM - Paris Commission) may adopt measures in the area of pollution prevention and that it adopted PARCOM Decision 96/1 on the phasing-out of the use of hexachloroethane in the non-ferrous metal industry;</p>
+      <p n="9">Whereas the Commission participated in the adoption of PARCOM Decision 96/1 on the basis of the authorisation granted by the Council and within the negotiating directives issued accordingly;</p>
+      <p n="10">Whereas hexachloroethane appears on the list of dangerous substances in Annex I to Council Directive 76/769/EEC of 27 July 1976 on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparations (4);</p>
+      <p n="11">Whereas the provisions of PARCOM Decision 96/1 are in line with Directive 76/769/EEC;</p>
+      <p n="12">Whereas it is therefore desirable that the Community approve PARCOM Decision 96/1,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Sole Article</p>
+      <p n="15">1. PARCOM Decision 96/1 on the phasing-out of the use of hexachloroethane in the non-ferrous metal industry is hereby approved on behalf of the Community.</p>
+      <p n="16">The text of the said Decision is attached to this Decision.</p>
+      <p n="17">2. The Commission is hereby authorised to notify this approval to the Paris Commission.</p>
+      <p n="18">Done at Brussels, 23 March 1998.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">M. MEACHER</p>
+      <p n="22">(1) OJ C 364, 2. 12. 1997, p. 13.</p>
+      <p n="23">(2) OJ C 80, 16. 3. 1998.</p>
+      <p n="24">(3) OJ L 194, 25. 7. 1975, p. 5.</p>
+      <p n="25">(4) OJ L 262, 27. 9. 1976, p. 201. Directive as last amended by Commission Directive 97/64/EC (OJ L 315, 19. 11. 1997, p. 13).</p>
+    </body>
+  </text>
+</TEI.2>

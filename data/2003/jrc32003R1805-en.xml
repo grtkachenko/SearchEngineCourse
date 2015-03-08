@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32003R1805-en" n="32003R1805" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1805 English</title>
+        <title>Council Regulation (EC) No 1805/2003 of 13 October 2003 amending Regulation (EC) No 2596/97 extending the period provided for in Article 149(1) of the Act of Accession of Austria, Finland and Sweden</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1805:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1805:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1019</classCode>
+        <classCode scheme="eurovoc">1284</classCode>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">4320</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1805-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1805/2003 of 13 October 2003 amending Regulation (EC) No 2596/97 extending the period provided for in Article 149(1) of the Act of Accession of Austria, Finland and Sweden</head>
+      <p n="2">Council Regulation (EC) No 1805/2003</p>
+      <p n="3">of 13 October 2003</p>
+      <p n="4">amending Regulation (EC) No 2596/97 extending the period provided for in Article 149(1) of the Act of Accession of Austria, Finland and Sweden</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Act of Accession of Austria, Finland and Sweden, and in particular Article 149(2) thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="9">Having regard to the opinion of the European Economic and Social Committee(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The second subparagraph of Article 1 of Regulation (EC) No 2596/97(3) extends until 31 December 2003 the period during which transitional measures may be adopted with regard to the fat content requirements for milk on the market under the conditions set out in the 1994 Act of Accession.</p>
+      <p n="12">(2) In the milk and milk products sector, the requirements relating to the fat content of milk for human consumption continue to cause difficulties for Finland and Sweden.</p>
+      <p n="13">(3) It is therefore necessary to make use of the possibility afforded by Article 149(2) of the 1994 Act of Accession to extend the period in question. An additional period running until 30 April 2009 seems appropriate.</p>
+      <p n="14">(4) Regulation (EC) No 2596/97 should therefore be amended,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The second subparagraph of Article 1 of Regulation (EC) No 2596/97, shall be replaced by the following:</p>
+      <p n="18">"However, with regard to the requirements relating to the fat content of milk for human consumption produced in Finland and Sweden, the period is hereby extended until 30 April 2009."</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on 1 January 2004.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Luxembourg, 13 October 2003.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">G. Alemanno</p>
+      <p n="26">(1) Opinion delivered on 9 October 2003 (not yet published in the Official Journal).</p>
+      <p n="27">(2) Opinion delivered on 24 September 2003 (not yet published in the Official Journal).</p>
+      <p n="28">(3) OJ L 351, 23.12.1997, p. 12. Regulation as last amended by Regulation (EC) No 2703/1999 (OJ L 327, 21.12.1999, p. 11).</p>
+    </body>
+  </text>
+</TEI.2>

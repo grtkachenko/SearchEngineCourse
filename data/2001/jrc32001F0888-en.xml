@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32001F0888-en" n="32001F0888" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001F0888 English</title>
+        <title>Council Framework Decision of 6 December 2001 amending Framework Decision 2000/383/JHA on increasing protection by criminal penalties and other sanctions against counterfeiting in connection with the introduction of the euro</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001F0888:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001F0888:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">167</classCode>
+        <classCode scheme="eurovoc">1708</classCode>
+        <classCode scheme="eurovoc">3878</classCode>
+        <classCode scheme="eurovoc">4608</classCode>
+        <classCode scheme="eurovoc">665</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001F0888-en." lang="en">
+    <body>
+      <head n="1">Council Framework Decision of 6 December 2001 amending Framework Decision 2000/383/JHA on increasing protection by criminal penalties and other sanctions against counterfeiting in connection with the introduction of the euro</head>
+      <p n="2">Council Framework Decision</p>
+      <p n="3">of 6 December 2001</p>
+      <p n="4">amending Framework Decision 2000/383/JHA on increasing protection by criminal penalties and other sanctions against counterfeiting in connection with the introduction of the euro</p>
+      <p n="5">(2001/888/JHA)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty on European Union, and in particular Article 31(e) and Article 34(2)(b) thereof,</p>
+      <p n="8">Having regard to the initiative of the Kingdom of Sweden(1),</p>
+      <p n="9">Having regard to the Opinion of the European Parliament,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Council adopted on 29 May 2000 Framework Decision 2000/383/JHA on increasing protection by criminal penalties and other sanctions against counterfeiting in connection with the introduction of the euro(2).</p>
+      <p n="12">(2) The measures in Framework Decision 2000/383/JHA should be supplemented by a provision on the recognition of previous convictions regarding offences referred to in that Framework Decision,</p>
+      <p n="13">HAS ADOPTED THIS FRAMEWORK DECISION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The following Article shall be inserted after Article 9 of Framework Decision 2000/383/JHA: "Article 9a</p>
+      <p n="16">Recognition of previous convictions</p>
+      <p n="17">Every Member State shall recognise the principle of the recognition of previous convictions under the conditions prevailing under its domestic law and, under those same conditions, shall recognise for the purpose of establishing habitual criminality final sentences handed down in another Member State for the offences referred to in Articles 3 to 5 of this Framework Decision, or the offences referred to in Article 3 of the Convention, irrespective of the currency counterfeited."</p>
+      <p n="18">Article 2</p>
+      <p n="19">Implementation</p>
+      <p n="20">1. Member States shall take the necessary measures to comply with this Framework Decision by 31 December 2002.</p>
+      <p n="21">2. By 31 December 2002, the Member States shall transmit to the General Secretariat of the Council, the Commission and the European Central Bank the text of the provisions transposing into their national law the obligations imposed on them under this Framework Decision.</p>
+      <p n="22">Article 3</p>
+      <p n="23">Entry into force</p>
+      <p n="24">This Framework Decision shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="25">Done at Brussels, 6 December 2001.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">M. Verwilghen</p>
+      <p n="29">(1) OJ C 225, 10.8.2001, p. 9.</p>
+      <p n="30">(2) OJ L 140, 14.6.2000, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

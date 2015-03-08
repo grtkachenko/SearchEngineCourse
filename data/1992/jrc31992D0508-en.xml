@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31992D0508-en" n="31992D0508" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992D0508 English</title>
+        <title>92/508/EEC: Commission Decision of 20 October 1992 amending Decision 91/516/EEC establishing a list of ingredients whose use is prohibited in compound feedingstuffs</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0508:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0508:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992D0508-en." lang="en">
+    <body>
+      <head n="1">92/508/EEC: Commission Decision of 20 October 1992 amending Decision 91/516/EEC establishing a list of ingredients whose use is prohibited in compound feedingstuffs</head>
+      <p n="2">COMMISSION DECISION of 20 October 1992 amending Decision 91/516/EEC establishing a list of ingredients whose use is prohibited in compound feedingstuffs (92/508/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 79/373/EEC of 2 April 1979 on the marketing of compound feedingstuffs (1), as last amended by Directive 91/681/EEC (2), and in particular Article 10 (c) thereof,</p>
+      <p n="6">Whereas Commission Decision 91/516/EEC established a list of ingredients whose use is prohibited in compound feedingstuffs (3);</p>
+      <p n="7">Whereas it is necessary to define more precisely certain products;</p>
+      <p n="8">Whereas it is advisable to complete the list in order to prohibit the use of solid urban waste, untreated waste from eating places and packaging, and parts of packaging, of products incorporated in compound feedingstuffs coming from the agri-food industry;</p>
+      <p n="9">Whereas the term 'waste' should for the purposes of this Decision have the meaning as defined in Council Directive 75/442/EEC of 15 July 1975 on waste (4), as last amended by Directive 91/692/EEC (5);</p>
+      <p n="10">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee for Feedingstuffs,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The Annex to Decision 91/516/EEC is hereby amended as set out in the Annex hereto.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Decision shall apply from 1 October 1993.</p>
+      <p n="16">Article 3</p>
+      <p n="17">This Decision is addressed to the Member States. Done at Brussels, 20 October 1992. For the Commission</p>
+      <p n="18">Ray MAC SHARRY</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 86, 6. 4. 1979, p. 30. (2) OJ No L 376, 31. 12. 1991, p. 20. (3) OJ No L 281, 9. 10. 1991, p. 23. (4) OJ No L 194, 25. 7. 1975, p. 47. (5) OJ No L 377, 31. 12. 1991, p. 48.</p>
+      <p n="21">ANNEX</p>
+      <p n="22">1. Point 2 is replaced by the following:</p>
+      <p n="23">'2. Treated hide, including leather, and their waste.'</p>
+      <p n="24">2. The following points are added:</p>
+      <p n="25">'6. Solid urban waste, such as household waste.</p>
+      <p n="26">7. Untreated waste from eating places, excluding foodstuffs of vegetable origin considered unsuitable for human consumption for reasons of freshness.</p>
+      <p n="27">8. The packaging and parts of packaging from the use of products from the agri-food industry.'</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31999D0492-en" n="31999D0492" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0492 English</title>
+        <title>1999/492/EC: Council Decision of 21 June 1999 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Republic of Iceland, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Republic of Iceland</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0492:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0492:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1509</classCode>
+        <classCode scheme="eurovoc">2850</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+        <classCode scheme="eurovoc">5750</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0492-en." lang="en">
+    <body>
+      <head n="1">1999/492/EC: Council Decision of 21 June 1999 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Republic of Iceland, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Republic of Iceland</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 21 June 1999</p>
+      <p n="4">concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Republic of Iceland, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Republic of Iceland</p>
+      <p n="5">(1999/492/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 in conjunction with the first sentence of Article 300(2) thereof;</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">(1) Whereas an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Republic of Iceland, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Republic of Iceland(1) has been negotiated in order to take into account the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden to the European Union and the implementation of the Uruguay Round Settlement;</p>
+      <p n="10">(2) Whereas the Agreement should be approved,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Republic of Iceland, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Republic of Iceland is hereby approved on behalf of the Community.</p>
+      <p n="14">The text of the Agreement is attached to this Decision.</p>
+      <p n="15">Article 2</p>
+      <p n="16">Detailed rules for the application of this Decision shall be adopted by the Commission assisted by the committee referred to in Article 15 of Regulation (EC) No 3448/93(2) in accordance with the procedure provided for in Article 16 of that Regulation.</p>
+      <p n="17">Article 3</p>
+      <p n="18">The President of the Council is hereby authorised to designate the person empowered to sign the Agreement referred to in Article 1 in order to bind the Community.</p>
+      <p n="19">Done at Luxembourg, 21 June 1999.</p>
+      <p n="20">For the Council</p>
+      <p n="21">G. VERHEUGEN</p>
+      <p n="22">The President</p>
+      <p n="23">(1) OJ L 301, 31.12.1972, p. 2.</p>
+      <p n="24">(2) OJ L 318, 20.12.1993, p. 18. Regulation as last amended by Regulation (EC) No 2491/98 (OJ L 309, 19.11.1998, p. 28).</p>
+    </body>
+  </text>
+</TEI.2>

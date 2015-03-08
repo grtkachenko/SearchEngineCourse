@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32002L0086-en" n="32002L0086" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002L0086 English</title>
+        <title>Commission Directive 2002/86/EC of 6 November 2002 amending Directive 2001/101/EC as regards the date from which trade in products not in conformity with Directive 2000/13/EC of the European Parliament and of the Council is prohibited</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002L0086:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002L0086:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">2862</classCode>
+        <classCode scheme="eurovoc">720</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002L0086-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 2002/86/EC of 6 November 2002 amending Directive 2001/101/EC as regards the date from which trade in products not in conformity with Directive 2000/13/EC of the European Parliament and of the Council is prohibited</head>
+      <p n="2">Commission Directive 2002/86/EC</p>
+      <p n="3">of 6 November 2002</p>
+      <p n="4">amending Directive 2001/101/EC as regards the date from which trade in products not in conformity with Directive 2000/13/EC of the European Parliament and of the Council is prohibited</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,</p>
+      <p n="7">Having regard to Directive 2000/13/EC of the European Parliament and of the Council of 20 March 2000 on the approximation of the laws of the Member States relating to the labelling, presentation and advertising of foodstuffs(1), as amended by Commission Directive 2001/101/EC(2), and in particular the first indent of the second subparagraph of Article 6(6) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The provisions of Directive 2001/101/EC concerning the labelling of products containing meat are not applicable until the day following the final deadline for transposition of that Directive by the Member States.</p>
+      <p n="10">(2) Following the adoption of a definition of the term "meat" for labelling purposes, the operators concerned will have to make considerable changes to the labelling of their products, in particular in respect of the list of ingredients and, where applicable, the meat content.</p>
+      <p n="11">(3) Because of the large number of such products on the market and the number of small and medium-sized enterprises affected, an adequate transitional period is needed to enable the labelling of these products to be brought into line with Directive 2001/101/EC.</p>
+      <p n="12">(4) Provision must also be made to enable operators to sell on the market products labelled prior to expiry of the transitional period whose labelling does not comply with the abovementioned provisions.</p>
+      <p n="13">(5) Directive 2001/101/EC should therefore be amended accordingly.</p>
+      <p n="14">(6) The measures provided for in this Directive are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="15">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Article 2 of Directive 2001/101/EC is replaced by the following: "Article 2</p>
+      <p n="18">1. Member States shall authorise trade in products that are in conformity with Directive 2000/13/EC from 1 January 2003.</p>
+      <p n="19">2. Member States shall prohibit, with effect from 1 July 2003, trade in products which are not in conformity with Directive 2000/13/EC.</p>
+      <p n="20">However, products which are not in conformity with Directive 2000/13/EC and which were labelled before 1 July 2003 shall be authorised while stocks last."</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Directive is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 6 November 2002.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">David Byrne</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 109, 6.5.2000, p. 29.</p>
+      <p n="30">(2) OJ L 310, 28.11.2001, p. 19.</p>
+    </body>
+  </text>
+</TEI.2>

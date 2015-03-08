@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31996R2382-en" n="31996R2382" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2382 English</title>
+        <title>Council Regulation (EC) No 2382/96 of 9 December 1996 repealing Regulations (EEC) No 990/93 and (EC) No 2471/94 and concerning the termination of restrictions on economic and financial relations with the Federal Republic of Yugoslavia (Serbia and Montenegro), the United Nations Protected Areas in the Republic of Croatia and those areas of the Republic of Bosnia and Herzegovina under the control of Bosnian Serb forces</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2382:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2382:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1616</classCode>
+        <classCode scheme="eurovoc">3112</classCode>
+        <classCode scheme="eurovoc">3219</classCode>
+        <classCode scheme="eurovoc">3490</classCode>
+        <classCode scheme="eurovoc">5931</classCode>
+        <classCode scheme="eurovoc">614</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2382-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2382/96 of 9 December 1996 repealing Regulations (EEC) No 990/93 and (EC) No 2471/94 and concerning the termination of restrictions on economic and financial relations with the Federal Republic of Yugoslavia (Serbia and Montenegro), the United Nations Protected Areas in the Republic of Croatia and those areas of the Republic of Bosnia and Herzegovina under the control of Bosnian Serb forces</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2382/96 of 9 December 1996 repealing Regulations (EEC) No 990/93 and (EC) No 2471/94 and concerning the termination of restrictions on economic and financial relations with the Federal Republic of Yugoslavia (Serbia and Montenegro), the United Nations Protected Areas in the Republic of Croatia and those areas of the Republic of Bosnia and Herzegovina under the control of Bosnian Serb forces</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Articles 73g and 228a thereof,</p>
+      <p n="5">Having regard to Common Position No 96/708/CFSP of 9 December 1996 defined by the Council on the basis of Article J.2 of the Treaty on European Union concerning the termination of restrictions on economic and financial relations with the Federal Republic of Yugoslavia (Serbia and Montenegro), the United Nations Protected Areas in the Republic of Croatia and those areas of the Republic of Bosnia and Herzegovina under the control of Bosnian Serb forces (1) decided on by the United Nations Security Council in its Resolution 1074 (1996),</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas the Security Council of the United Nations has decided in its Resolution 1074 (1996) to terminate the measures imposed by its Resolutions 757 (1992), 787 (1992), 820 (1993), 942 (1994), 943 (1994), 988 (1995), 992 (1995), 1003 (1995) and 1015 (1995) in accordance with paragraph 4 of Resolution 1022 (1995);</p>
+      <p n="8">Whereas, in the circumstances, Regulations (EEC) No 990/93 (2) and (EC) No 2471/94 (3) should be repealed,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulations (EEC) No 990/93 and (EC) No 2471/94 are hereby repealed.</p>
+      <p n="12">Article 2</p>
+      <p n="13">All assets and funds previously impounded or frozen pursuant to Regulations (EEC) No 990/93 and (EC) No 2471/94 may be released by Member States in accordance with the law, provided that any such assets that are subject to any claims, liens, judgments or incumbrances, or which are the assets of any person, partnership, corporation or other entity found or deemed to be insolvent under the law or the accounting principles prevailing in the relevant Member State, shall remain frozen or impounded until released in accordance with the applicable law.</p>
+      <p n="14">Article 3</p>
+      <p n="15">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="16">It shall apply with effect from 2 October 1996.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 9 December 1996.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">B. HOWLIN</p>
+      <p n="22">(1) See page 5 of this Official Journal.</p>
+      <p n="23">(2) OJ No L 102, 28. 4. 1993, p. 14, suspended by Regulation (EC) No 462/96 (OJ No L 65, 15. 3. 1996, p. 1).</p>
+      <p n="24">(3) OJ No L 266, 15. 10. 1994, p. 1, suspended by Regulation (EC) No 462/96 (OJ No L 65, 15. 3. 1996, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31998D0008-en" n="31998D0008" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0008 English</title>
+        <title>98/8/EC: Commission Decision of 16 December 1997 on the list of establishments in the Federal Republic of Yugoslavia approved for the purpose of importing fresh meat into the Community (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0008:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0008:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">4689</classCode>
+        <classCode scheme="eurovoc">5931</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0008-en." lang="en">
+    <body>
+      <head n="1">98/8/EC: Commission Decision of 16 December 1997 on the list of establishments in the Federal Republic of Yugoslavia approved for the purpose of importing fresh meat into the Community (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 16 December 1997 on the list of establishments in the Federal Republic of Yugoslavia approved for the purpose of importing fresh meat into the Community (Text with EEA relevance) (98/8/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 72/462/EEC of 12 December 1972 on health and veterinary inspection problems upon importation of bovine, bovine and caprine animals and swine and fresh meat or meat products from third countries (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Articles 4 (1) and 18 (1) (a) and (b) thereof,</p>
+      <p n="6">Whereas establishments in third countries cannot be authorized to export fresh meat to the Community unless they satisfy the general and special conditions laid down in that Directive;</p>
+      <p n="7">Whereas, in accordance with Article 4 (3) of Directive 72/462/EEC, the Federal Republic of Yugoslavia has forwarded a list of the establishments authorized to export to the Community;</p>
+      <p n="8">Whereas, following a Community veterinary mission, it appears that the animal health situation in the Federal Republic of Yugoslavia compares favourably with that in Community countries particularly as regards disease transmissible through meat;</p>
+      <p n="9">Whereas Community on-the-spot inspections have shown that the hygiene standards of these establishments are sufficient and they may therefore be entered on a first list of establishments, drawn up in accordance with Article 4 (1) of that Directive, from which imports of fresh meat may be authorized;</p>
+      <p n="10">Whereas imports of fresh meat from the establishments on the list in the Annex hereto continue to be subject to provisions already laid down, the general provisions of the Treaty and in particular the other Community veterinary regulations, particularly as regards health protection;</p>
+      <p n="11">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="12">HAS ADOPTED THIS DECISION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">1. The establishments in the Federal Republic of Yugoslavia listed in the Annex are hereby approved for the purposes of exporting fresh meat to the Community.</p>
+      <p n="15">2. Imports from those establishments shall remain subject to the Community veterinary provisions laid down elsewhere, and in particular those concerning health protection.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision is addressed to the Member States.</p>
+      <p n="18">Done at Brussels, 16 December 1997.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz FISCHLER</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 302, 31. 12. 1972, p. 28.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">LIST OF ESTABLISHMENTS</p>
+      <p n="25">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

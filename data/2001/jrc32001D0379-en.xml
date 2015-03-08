@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32001D0379-en" n="32001D0379" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0379 English</title>
+        <title>2001/379/EC: Council Decision of 4 April 2001 on the approval, on behalf of the European Community, of the Protocol to the 1979 Convention on Long-range Transboundary Air Pollution on Heavy Metals</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0379:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0379:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1884</classCode>
+        <classCode scheme="eurovoc">2527</classCode>
+        <classCode scheme="eurovoc">2542</classCode>
+        <classCode scheme="eurovoc">3162</classCode>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">3489</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0379-en." lang="en">
+    <body>
+      <head n="1">2001/379/EC: Council Decision of 4 April 2001 on the approval, on behalf of the European Community, of the Protocol to the 1979 Convention on Long-range Transboundary Air Pollution on Heavy Metals</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 4 April 2001</p>
+      <p n="4">on the approval, on behalf of the European Community, of the Protocol to the 1979 Convention on Long-range Transboundary Air Pollution on Heavy Metals</p>
+      <p n="5">(2001/379/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 175(1), in conjunction with Article 300(2), first sentence of the first subparagraph, and (3), first subparagraph, thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Community signed in Aarhus on 24 June 1998 the Protocol to the 1979 Convention on Long-range Transboundary Air Pollution on Heavy Metals (hereinafter "the Protocol").</p>
+      <p n="12">(2) The Protocol aims at controlling emissions of heavy metals caused by anthropogenic activities that are subject to long-range transboundary atmospheric transport and that are likely to have significant adverse effects on human health or the environment.</p>
+      <p n="13">(3) The Protocol stipulates the reduction of total annual emissions into the atmosphere of cadmium, lead and mercury, and the application of product control measures.</p>
+      <p n="14">(4) The measures envisaged in the Protocol contribute to achieving objectives of the Community policy on environment.</p>
+      <p n="15">(5) The Community and the Member States cooperate, in the framework of their respective competences, with non-member countries and the competent international organisations.</p>
+      <p n="16">(6) The Community should approve the Protocol,</p>
+      <p n="17">HAS DECIDED AS FOLLOWS:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The Protocol to the 1979 Convention on Long-range Transboundary Air Pollution on Heavy Metals, signed on 24 June 1998, is hereby approved on behalf of the European Community.</p>
+      <p n="20">The text of the Protocol is attached to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">The President of the Council is hereby authorised to designate the person empowered to deposit the instrument of approval with the Secretary-General of the United Nations, in accordance with Article 16 of the Protocol.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision will be published in the Official Journal of the European Communities.</p>
+      <p n="25">Done at Luxembourg, 4 April 2001.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">B. Rosengren</p>
+      <p n="29">(1) OJ C 311 E, 31.10.2000, p. 136.</p>
+      <p n="30">(2) Opinion given on 24 October 2000 (not yet published in the Official Journal).</p>
+    </body>
+  </text>
+</TEI.2>

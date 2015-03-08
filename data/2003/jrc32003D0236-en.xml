@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32003D0236-en" n="32003D0236" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0236 English</title>
+        <title>2003/236/EC: Commission Decision of 3 April 2003 amending Decision 92/486/EEC establishing the form of cooperation between the Animo host centre and the Member States (Text with EEA relevance) (notified under document number C(2003) 1104)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0236:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0236:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1937</classCode>
+        <classCode scheme="eurovoc">3422</classCode>
+        <classCode scheme="eurovoc">3489</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">5358</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0236-en." lang="en">
+    <body>
+      <head n="1">2003/236/EC: Commission Decision of 3 April 2003 amending Decision 92/486/EEC establishing the form of cooperation between the Animo host centre and the Member States (Text with EEA relevance) (notified under document number C(2003) 1104)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 3 April 2003</p>
+      <p n="4">amending Decision 92/486/EEC establishing the form of cooperation between the Animo host centre and the Member States</p>
+      <p n="5">(notified under document number C(2003) 1104)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/236/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning the veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market(1), as last amended by Directive 2002/33/EC of the European Parliament and of the Council(2), and in particular Article 20(3) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Pending the setting up of a new computer system architecture, in particular the part to be used for the Animo network, as defined in Commission Decision 2003/24/EC of 30 December 2002 concerning the development of an integrated computerised veterinary system(3), the continuity of that network should be ensured.</p>
+      <p n="13">(2) Decision 92/486/EEC of 25 September 1992 establishing the form of cooperation between the Animo host centre and the Member States(4), as last amended by Decision 2002/615/EC(5), should be amended accordingly.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The first subparagraph of Article 2a(7) of Decision 92/486/EEC is replaced by the following:"For the period from 1 April 2003 to 31 March 2004, the coordination authorities provided for in Article 1 shall ensure that the contracts referred to in that Article are extended for one year."</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Decision shall apply from 1 April 2003.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 3 April 2003.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">David Byrne</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 224, 18.8.1990, p. 29.</p>
+      <p n="27">(2) OJ L 315, 19.11.2002, p. 14.</p>
+      <p n="28">(3) OJ L 8, 14.1.2003, p. 44.</p>
+      <p n="29">(4) OJ L 291, 7.10.1992, p. 20.</p>
+      <p n="30">(5) OJ L 196, 25.7.2002, p. 60.</p>
+    </body>
+  </text>
+</TEI.2>

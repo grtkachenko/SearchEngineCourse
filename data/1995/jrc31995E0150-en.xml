@@ -1,0 +1,49 @@
+<TEI.2 id="jrc31995E0150-en" n="31995E0150" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995E0150 English</title>
+        <title>95/150/CFSP: Common Position of 28 April 1995 defined by the Council on the basis of Article J.2 of the Treaty on European Union with regard to the extension of the suspension of certain restrictions on trade with the Federal Republic of Yugoslavia (Serbia and Montenegro)</title>
+      </titleStmt>
+      <extent>12 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995E0150:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995E0150:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1616</classCode>
+        <classCode scheme="eurovoc">3490</classCode>
+        <classCode scheme="eurovoc">3584</classCode>
+        <classCode scheme="eurovoc">4509</classCode>
+        <classCode scheme="eurovoc">4511</classCode>
+        <classCode scheme="eurovoc">4778</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995E0150-en." lang="en">
+    <body>
+      <head n="1">95/150/CFSP: Common Position of 28 April 1995 defined by the Council on the basis of Article J.2 of the Treaty on European Union with regard to the extension of the suspension of certain restrictions on trade with the Federal Republic of Yugoslavia (Serbia and Montenegro)</head>
+      <p n="2">COMMON POSITION of 28 April 1995 defined by the Council on the basis of Article J.2 of the Treaty on European Union with regard to the extension of the suspension of certain restrictions on trade with the Federal Republic of Yugoslavia (Serbia and Montenegro) (95/150/CFSP)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty on European Union, and in particular Article J.2 thereof,</p>
+      <p n="5">Having regard to Resolutions 943 (1994), 970 (1995) and 988 (1995) adopted on 23 September 1994, 12 January and 21 April 1995 respectively by the United Nations Security Council,</p>
+      <p n="6">HAS DEFINED THE FOLLOWING COMMON POSITION:</p>
+      <p n="7">Article 1</p>
+      <p n="8">In accordance with Resolutions 943 (1994), 970 (1995) and 988 (1995) adopted on 23 September 1994, 12 January and 21 April 1995 respectively by the United Nations Security Council, the suspension of certain restrictions on trade with the Federal Republic of Yugoslavia (Serbia and Montenegro) will be extended.</p>
+      <p n="9">Article 2</p>
+      <p n="10">This common position shall be published in the Official Journal.</p>
+      <p n="11">Done at Brussels, 28 April 1995.</p>
+      <p n="12">For the Council The President A. JUPPÉ</p>
+    </body>
+  </text>
+</TEI.2>

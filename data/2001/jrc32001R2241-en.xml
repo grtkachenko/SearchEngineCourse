@@ -1,0 +1,56 @@
+<TEI.2 id="jrc32001R2241-en" n="32001R2241" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R2241 English</title>
+        <title>Council Regulation (EC) No 2241/2001 of 15 November 2001 amending the autonomous common customs tariff duty for garlic falling within CN code 07032000</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2241:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2241:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1603</classCode>
+        <classCode scheme="eurovoc">4080</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R2241-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2241/2001 of 15 November 2001 amending the autonomous common customs tariff duty for garlic falling within CN code 07032000</head>
+      <p n="2">Council Regulation (EC) No 2241/2001</p>
+      <p n="3">of 15 November 2001</p>
+      <p n="4">amending the autonomous common customs tariff duty for garlic falling within CN code 0703 20 00</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Agreement in the form of an Exchange of Letters between the European Community and the Argentine Republic pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994, for the modification of concessions with respect to garlic provided for in Schedule CXL annexed to the GATT, was approved on behalf of the Community by Decision 2001/404/EC(1).</p>
+      <p n="10">(2) The conditions for importing garlic have thus been amended as a result from 1 June 2001. The new system subjects imports of garlic falling within CN code 0703 20 00, outside of a GATT quota, to a customs duty comprising an ad valorem rate of 9,6 % and a specific amount, fixed at EUR 1200 per tonne net.</p>
+      <p n="11">(3) So that the new system can completely fulfil its role, the autonomous rate of duty fixed in the common customs tariff should be increased by the same specific amount as that laid down for the out-of-quota conventional duty, with effect from 1 June 2001,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The autonomous common customs tariff duty for garlic falling within CN code 0703 20 00 shall comprise an ad valorem rate of 12 % and a specific amount of EUR 1200 per tonne net.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply from 1 June 2001.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 15 November 2001.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">M. Aelvoet</p>
+      <p n="23">(1) OJ L 142, 29.5.2001, p. 7.</p>
+    </body>
+  </text>
+</TEI.2>

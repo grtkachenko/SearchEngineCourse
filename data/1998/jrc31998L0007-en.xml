@@ -1,0 +1,159 @@
+<TEI.2 id="jrc31998L0007-en" n="31998L0007" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998L0007 English</title>
+        <title>Directive 98/7/EC of the European Parliament and of the Council of 16 February 1998 amending Directive 87/102/EEC for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit</title>
+      </titleStmt>
+      <extent>123 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0007:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0007:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1476</classCode>
+        <classCode scheme="eurovoc">2606</classCode>
+        <classCode scheme="eurovoc">278</classCode>
+        <classCode scheme="eurovoc">289</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998L0007-en." lang="en">
+    <body>
+      <head n="1">Directive 98/7/EC of the European Parliament and of the Council of 16 February 1998 amending Directive 87/102/EEC for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit</head>
+      <p n="2">DIRECTIVE 98/7/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 February 1998 amending Directive 87/102/EEC for the approximation of the laws, regulations and administrative provisions of the Member States concerning consumer credit</p>
+      <p n="3">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof,</p>
+      <p n="5">Having regard to the proposal of the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the Economic and Social Committee (2),</p>
+      <p n="7">Acting in accordance with the procedure laid down in Article 189b of the Treaty (3),</p>
+      <p n="8">Whereas it is desirable, in order to promote the establishment and functioning of the internal market and to ensure that consumers benefit from a high level of protection, that a single method of calculating the annual percentage rate of charge for consumer credit should be used throughout the Community;</p>
+      <p n="9">Whereas Article 5 of Directive 87/102/EEC (4) provides for the introduction of a Community method or methods of calculating the annual percentage rate of charge;</p>
+      <p n="10">Whereas, in order to introduce this single method, it is desirable to draw up a single mathematical formula for calculating the annual percentage rate of charge and for determining the credit cost items to be used in the calculation by indicating those costs which must not be taken into account;</p>
+      <p n="11">Whereas Annex II of Directive 87/102/EEC introduced a mathematical formula for the calculation of the annual percentage rate of charge and Article 1a(2) of that Directive provided for the charges to be excluded from the calculation of the 'total cost of credit to the consumer`;</p>
+      <p n="12">Whereas during a transitional period of three years from 1 January 1993, Member States which prior to 1 March 1990 applied laws which permitted the use of another mathematical formula for calculating the annual percentage rate of charge, were permitted to continue to apply such laws;</p>
+      <p n="13">Whereas the Commission has submitted a Report to the Council which makes it possible, in the light of experience, to apply a single Community mathematical formula for calculating the annual percentage rate of charge;</p>
+      <p n="14">Whereas, since no Member State has made use of Article 1a(3) of Directive 87/102/EEC by which certain costs were excluded from the calculation of the annual percentage rate of charge in certain Member States, it has become obsolete;</p>
+      <p n="15">Whereas accuracy to at least one decimal place is necessary;</p>
+      <p n="16">Whereas a year is presumed to have 365 days or 365,25 days or (for leap years) 366 days, 52 weeks or 12 equal months; whereas an equal month is presumed to have 30,41666 days;</p>
+      <p n="17">Whereas it is desirable that consumers should be able to recognize the terms used different Member States to indicate the 'annual percentage rate of charge`;</p>
+      <p n="18">Whereas it is appropriate to study without delay to what extent a further degree of harmonization of the cost elements of consumer credit is necessary in order to put the European consumer in a position to make a better comparison between the actual percentage rates of charges offered by institutions in the various Member States, thereby ensuring harmonious functioning of the internal market,</p>
+      <p n="19">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Directive 87/102/EEC shall be amended as follows:</p>
+      <p n="22">(a) Article 1a(1)(a) shall be replaced by the following:</p>
+      <p n="23">- in the Greek language version of the Directive:</p>
+      <p n="24">'Ôï óõíïëéêü åôÞóéï ðñáãìáôéêü ðïóïóôü åðéâÜñõíóçò ðïõ åîéóþíåé óå åôÞóéá âÜóç ôéò ðáñïýóåò áîßåò ôïõ óõíüëïõ ôùí ôñå÷ïõóþí Þ ìåëëïíôéêþí õðï÷ñåþóåùí (äáíåßùí, åîïöëÞóåùí êáé åðéâáñýíóåùí) ðïõ Ý÷ïõí áíáëçöèåß áðü ôï äáíåéóôÞ êáé ôï (äáíåéæüìåíï) êáôáíáëùôÞ, õðïëïãßæåôáé óýìöùíá ìå ôï ìáèçìáôéêü ôýðï ðïõ ðáñáôßèåôáé óôï ðáñÜñôçìá ÉÉ.`,</p>
+      <p n="25">- in the English language version of the Directive:</p>
+      <p n="26">'The annual percentage rate of charge which shall be that rate, on an annual basis which equalizes the present value of all commitments (loans, repayments and charges), future or existing, agreed by the creditor and the borrower, shall be calculated in accordance with the mathematical formula set out in Annex II.`;</p>
+      <p n="27">(b) Article 1a(3) shall be deleted;</p>
+      <p n="28">(c) Article 1a(5) shall be deleted;</p>
+      <p n="29">(d) Article 3 shall be replaced by the following:</p>
+      <p n="30">'Without prejudice to Council Directive 84/450/EEC of 10 September 1984 relating to the approximation of the laws, regulations and administrative provisions of the Member States concerning misleading advertising (*), and to the rules and principles applicable to unfair advertising, any advertisement, or any offer which is displayed at business premises, in which a person offers credit or offers to arrange a credit agreement and in which a rate of interest or any figures relating to the cost of the credit are indicated, shall also include a statement of the annual percentage rate of charge, by means of a representative example if no other means is practicable.</p>
+      <p n="31">(*) OJ L 250, 19.9.1984, p. 17. Directive as last amended by Directive 97/55/EC (OJ L 280, 23.10.1997, p. 18).`;</p>
+      <p n="32">(e) Annex II shall be replaced by the text of Annex I attached hereto;</p>
+      <p n="33">(f) Annex III shall be replaced by the text of Annex II attached hereto.</p>
+      <p n="34">Article 2</p>
+      <p n="35">1. Member States shall bring into force the laws, regulations and administrative provisions necessary for them to comply with this Directive no later than two years after the entry into force of this Directive. They shall inform the Commission thereof.</p>
+      <p n="36">When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.</p>
+      <p n="37">2. The Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field governed by this Directive.</p>
+      <p n="38">Article 3</p>
+      <p n="39">This Directive is addressed to the Member States.</p>
+      <p n="40">Done at Brussels, 16 February 1998.</p>
+      <p n="41">For the European Parliament</p>
+      <p n="42">The President</p>
+      <p n="43">J. M. GIL-ROBLES</p>
+      <p n="44">For the Council</p>
+      <p n="45">The President</p>
+      <p n="46">J. CUNNINGHAM</p>
+      <p n="47">(1) OJ C 235, 13.8.1996, p. 8 and</p>
+      <p n="48">OJ C 137, 3.5.1997, p. 9.</p>
+      <p n="49">(2) OJ C 30, 30.1.1997, p. 94.</p>
+      <p n="50">(3) Opinion of the European Parliament of 20 February 1997 (OJ C 85, 17.3.1997, p. 108), Council Common Position of 7 July 1997 (OJ C 284, 19.9.1997, p. 1) and Decision of the European Parliament of 19 November 1997. Council Decision of 18 December 1997.</p>
+      <p n="51">(4) OJ L 42, 12.2.1987, p. 48. Directive as amended by Directive 90/88/EEC (OJ L 61, 10.3.1990, p. 14).</p>
+      <p n="52">ANNEX I</p>
+      <p n="53">'ANNEX II</p>
+      <p n="54">THE BASIC EQUATION EXPRESSING THE EQUIVALENCE OF LOANS ON THE ONE HAND AND REPAYMENTS AND CHARGES ON THE OTHER</p>
+      <p n="55">&gt;TABLE&gt;</p>
+      <p n="56">Meaning of letters and symbols:</p>
+      <p n="57">&gt;TABLE&gt;</p>
+      <p n="58">Remarks:</p>
+      <p n="59">(a) The amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals.</p>
+      <p n="60">(b) The starting date shall be that of the first loan.</p>
+      <p n="61">(c) Intervals between dates used in the calculations shall be expressed in years or in fractions of a year. A year is presumed to have 365 days or 365,25 days or (for leap years) 366 days, 52 weeks or 12 equal months. An equal month is presumed to have 30,41666 days (i.e. &gt;NUM&gt;365/&gt;DEN&gt;12).</p>
+      <p n="62">(d) The result of the calculation shall be expressed with an accuracy of at least one decimal place. When rounding to a particular decimal place the following rule shall apply:</p>
+      <p n="63">If the figure at the decimal place following this particular decimal place is greater than or equal to 5, the figure at this particular decimal place shall be increased by one.</p>
+      <p n="64">(e) Member States shall provide that the methods of resolution applicable give a result equal to that of the examples presented in Annex III.`</p>
+      <p n="65">ANNEX II</p>
+      <p n="66">'ANNEX III</p>
+      <p n="67">EXAMPLES OF CALCULATION</p>
+      <p n="68">A. CALCULATION OF THE ANNUAL PERCENTAGE RATE OF CHARGE ON A CALENDAR BASIS (1 YEAR = 365 DAYS (OR 366 DAYS FOR LEAP YEARS))</p>
+      <p n="69">First example</p>
+      <p n="70">Sum loaned: S = ECU 1 000 on 1 January 1994.</p>
+      <p n="71">It is repaid in a single payment of ECU 1 200 made on 1 July 1995 i.e. 1 ½ years or 546 (= 365 + 181) days after the date of the loan.</p>
+      <p n="72">The equation becomes:</p>
+      <p n="73">&gt;TABLE&gt;</p>
+      <p n="74">or:</p>
+      <p n="75">&gt;TABLE&gt;</p>
+      <p n="76">This amount will be rounded to 13 % (or 12,96 % if an accuracy of two decimal places is preferred).</p>
+      <p n="77">Second example</p>
+      <p n="78">The sum loaned is S = ECU 1 000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1 200, as in the first example, is again made on 1 July 1995.</p>
+      <p n="79">The equation becomes:</p>
+      <p n="80">&gt;TABLE&gt;</p>
+      <p n="81">or:</p>
+      <p n="82">&gt;TABLE&gt;</p>
+      <p n="83">This amount will be rounded to 16,9 %.</p>
+      <p n="84">Third example</p>
+      <p n="85">The sum loaned is ECU 1 000, on 1 January 1994, repayable in two amounts, each of ECU 600, paid after one and two years respectively.</p>
+      <p n="86">The equation becomes:</p>
+      <p n="87">&gt;TABLE&gt;</p>
+      <p n="88">It is solved by algebra and produces i = 0,1306623 rounded to 13,1 % (or 13,07 % if an accuracy of two decimal places is preferred).</p>
+      <p n="89">Fourth example</p>
+      <p n="90">The sum loaned is S = ECU 1 000, on 1 January 1994, and the amounts to be paid by the borrower are:</p>
+      <p n="91">&gt;TABLE&gt;</p>
+      <p n="92">The equation becomes:</p>
+      <p n="93">&gt;TABLE&gt;</p>
+      <p n="94">This equation allows i to be calculated by successive approximations, which can be programmed on a pocket calculator.</p>
+      <p n="95">The result is i = 0,13226 rounded to 13,2 % (or 13,23 % if an accuracy of two decimal places is preferred).</p>
+      <p n="96">B. CALCULATION OF THE ANNUAL PERCENTAGE RATE OF CHARGE ON THE BASIS OF A STANDARD YEAR (1 YEAR = 365 DAYS OR 365,25 DAYS, 52 WEEKS, OR 12 EQUAL MONTHS)</p>
+      <p n="97">First example</p>
+      <p n="98">Sum loaned: S = ECU 1 000.</p>
+      <p n="99">It is repaid in a single payment of ECU 1 200 made in 1,5 years (i.e. 1,5 × 365 = 547,5 days, 1,5 × 365,25 = 547,875 days, 1,5 × 366 = 549 days, 1,5 × 12 = 18 months, or 1,5 × 52 = 78 weeks) after the date of the loan.</p>
+      <p n="100">The equation becomes:</p>
+      <p n="101">&gt;TABLE&gt;</p>
+      <p n="102">or:</p>
+      <p n="103">&gt;TABLE&gt;</p>
+      <p n="104">This amount will be rounded to 12,9 % (or 12,92 % if an accuracy of two decimal places is preferred).</p>
+      <p n="105">Second example</p>
+      <p n="106">The sum loaned is S = ECU 1 000, but the creditor retains ECU 50 for administrative expenses, so that the loan is in fact ECU 950; the repayment of ECU 1 200, as in the first example, is again made 1,5 years after the date of the loan.</p>
+      <p n="107">The equation becomes:</p>
+      <p n="108">&gt;TABLE&gt;</p>
+      <p n="109">or:</p>
+      <p n="110">&gt;TABLE&gt;</p>
+      <p n="111">This amount will be rounded to 16,9 % (or 16,85 % if an accuracy of two decimal places is preferred).</p>
+      <p n="112">Third example</p>
+      <p n="113">The sum loaned is ECU 1 000, repayable in two amounts, each of ECU 600, paid after one and two years respectively.</p>
+      <p n="114">The equation becomes:</p>
+      <p n="115">&gt;TABLE&gt;</p>
+      <p n="116">It is solved by algebra and produces i = 0,13066 which will be rounded to 13,1 % (or 13,07 % if an accuracy of two decimal places is preferred).</p>
+      <p n="117">Fourth example</p>
+      <p n="118">The sum loaned is S = ECU 1 000 and the amounts to be paid by the borrower are:</p>
+      <p n="119">&gt;TABLE&gt;</p>
+      <p n="120">The equation becomes:</p>
+      <p n="121">&gt;TABLE&gt;</p>
+      <p n="122">This equation allows i to be calculated by successive approximations, which can be programmed on a pocket calculator.</p>
+      <p n="123">The result is i = 0,13185 which will be rounded to 13,2 % (or 13,19 % if an accuracy of two decimal places is preferred).`</p>
+    </body>
+  </text>
+</TEI.2>

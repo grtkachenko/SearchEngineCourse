@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31996R2063-en" n="31996R2063" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2063 English</title>
+        <title>Council Regulation (EC) No 2063/96 of 14 October 1996 amending Regulation (EEC) No 1180/77 on imports into the Community of certain agricultural products originating in Turkey</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2063:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2063:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1264</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">4399</classCode>
+        <classCode scheme="eurovoc">4580</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2063-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2063/96 of 14 October 1996 amending Regulation (EEC) No 1180/77 on imports into the Community of certain agricultural products originating in Turkey</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2063/96 of 14 October 1996 amending Regulation (EEC) No 1180/77 on imports into the Community of certain agricultural products originating in Turkey</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to Council Regulation (EEC) No 3813/92 of 28 December 1992 on the unit of account and the conversion rates to be applied for the purposes of the common agricultural policy (1), and in particular Article 13 (1) thereof,</p>
+      <p n="7">Whereas Decision No 1/77 of the EEC-Turkey Association Council of 17 May 1977 on new concessions for imports of Turkish agricultural products into the Community stipulates that if Turkey levies a special export charge on imports into the Community of olive oil falling within CN codes 1509 10 10, 1509 10 90 and 1510 00 10, the levy applicable to such oil is to be reduced by a fixed amount of ECU 0,7245 per 100 kilograms and by an amount equal to the special charge; whereas this reduction was fixed so as not to exceed ECU 10,88 per 100 kilograms in the case of the reduction provided for in Article 2 of the said Decision and ECU 10,88 per 100 kilograms in the case of the additional amount provided for in Annex IV of that Decision;</p>
+      <p n="8">Whereas Decision No 1/77 was implemented by Regulation (EEC) No 1180/77 (2);</p>
+      <p n="9">Whereas the Contracting Parties have agreed, by an Agreement in the form of an Exchange of Letters, to fix the additional amount at ECU 10,88 per 100 kilograms for the period from 1 January 1994 to 31 January 1995 and at ECU 13,14 per 100 kilograms for the period beginning on 1 February 1995;</p>
+      <p n="10">Whereas Regulation (EEC) No 1180/77 should be amended accordingly,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Article 9 (1) (b) of Regulation (EEC) No 1180/77 shall be replaced by the following:</p>
+      <p n="14">'(b) an amount equal to the special charge levied by Turkey on exports of the said oil but not exceeding ECU 10,88 per 100 kilograms for the period 1 January 1994 to 31 January 1995 and not exceeding ECU 13,14 per 100 kilograms for the period beginning on 1 February 1995, these amounts being increased by ECU 10,88 per 100 kilograms for the first period and by ECU 13,14 per 100 kilograms for the second period respectively.`</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Luxembourg, 14 October 1996.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">R. QUINN</p>
+      <p n="22">(1) OJ No L 387, 31. 12. 1992, p. 1. Regulation as last amended by Regulation (EC) No 150/95 (OJ No L 22, 31. 1. 1995, p. 1).</p>
+      <p n="23">(2) OJ No L 142, 9. 6. 1977, p. 10. Regulation as last amended by Regulation (EEC) No 1902/92 (OJ No L 192, 11. 7. 1992, p. 3).</p>
+    </body>
+  </text>
+</TEI.2>

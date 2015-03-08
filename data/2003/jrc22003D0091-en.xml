@@ -1,0 +1,65 @@
+<TEI.2 id="jrc22003D0091-en" n="22003D0091" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22003D0091 English</title>
+        <title>Decision of the EEA Joint Committee No 91/2003 of 11 July 2003 amending Annex XIII (Transport) to the EEA Agreement</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0091:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0091:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">172</classCode>
+        <classCode scheme="eurovoc">2039</classCode>
+        <classCode scheme="eurovoc">5235</classCode>
+        <classCode scheme="eurovoc">5618</classCode>
+        <classCode scheme="eurovoc">906</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22003D0091-en." lang="en">
+    <body>
+      <head n="1">Decision of the EEA Joint Committee No 91/2003 of 11 July 2003 amending Annex XIII (Transport) to the EEA Agreement</head>
+      <p n="2">Decision of the EEA Joint Committee</p>
+      <p n="3">No 91/2003</p>
+      <p n="4">of 11 July 2003</p>
+      <p n="5">amending Annex XIII (Transport) to the EEA Agreement</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as amended by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Annex XIII to the Agreement was amended by Decision of the EEA Joint Committee No 81/2003 of 20 June 2003(1).</p>
+      <p n="10">(2) Commission Regulation (EC) No 980/2002 of 4 June 2002 amending Regulation (EC) No 2082/2000 adopting Eurocontrol standards(2) is to be incorporated into the Agreement,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The following shall be added in the second indent of point 66c (Council Directive 93/65/EEC) of Annex XIII to the Agreement:</p>
+      <p n="14">", as amended by:</p>
+      <p n="15">- 32002 R 0980: Commission Regulation (EC) No 980/2002 of 4 June 2002 (OJ L 150, 8.6.2002, p. 38)."</p>
+      <p n="16">Article 2</p>
+      <p n="17">The texts of Regulation (EC) No 980/2002 in the Icelandic and Norwegian languages, to be published in the EEA Supplement to the Official Journal of the European Union, shall be authentic.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Decision shall enter into force on 12 July 2003, provided that all the notifications in Article 103(1) of the Agreement have been made to the EEA Joint Committee(3).</p>
+      <p n="20">Article 4</p>
+      <p n="21">This Decision shall be published in the EEA section of, and in the EEA Supplement to, the Official Journal of the European Union.</p>
+      <p n="22">Done at Brussels, 11 July 2003.</p>
+      <p n="23">For the EEA Joint Committee</p>
+      <p n="24">The President</p>
+      <p n="25">H. S. H. Prinz Nikolaus von Liechtenstein</p>
+      <p n="26">(1) OJ L 257, 9.10.2003, p. 33.</p>
+      <p n="27">(2) OJ L 150, 8.6.2002, p. 38.</p>
+      <p n="28">(3) No constitutional requirements indicated.</p>
+    </body>
+  </text>
+</TEI.2>

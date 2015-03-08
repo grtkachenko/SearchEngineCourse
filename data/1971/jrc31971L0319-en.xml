@@ -1,0 +1,122 @@
+<TEI.2 id="jrc31971L0319-en" n="31971L0319" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31971L0319 English</title>
+        <title>Council Directive 71/319/EEC of 26 July 1971 on the approximation of the laws of the Member States relating to meters for liquids other than water</title>
+      </titleStmt>
+      <extent>95 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31971L0319:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31971L0319:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31971L0319-en." lang="en">
+    <body>
+      <head n="1">Council Directive 71/319/EEC of 26 July 1971 on the approximation of the laws of the Member States relating to meters for liquids other than water</head>
+      <p n="2">COUNCIL DIRECTIVE of 26 July 1971 on the approximation of the laws of the Member States relating to meters for liquids other than water (71/319/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof;</p>
+      <p n="5">Having regard to the proposal from the Commission;</p>
+      <p n="6">Having regard to the Opinion of the European Parliament 1;</p>
+      <p n="7">Having regard to the Opinion of the Economic and Social Committee 2;</p>
+      <p n="8">Whereas in the Member States the construction and methods of control of liquid meters are subject to mandatory provisions which differ from one Member State to another and consequently hinder trade in such instruments ; whereas it is therefore necessary to approximate these provisions;</p>
+      <p n="9">Whereas the Council Directive of 26 July 1971 3 on the approximation of the laws of the Member States relating to provisions for both measuring instruments and methods of metrological control has laid down the EEC pattern approval and EEC initial verification procedures ; whereas, in accordance with that Directive, the technical requirements for the design and functioning of volumetric meters for liquids other than water should be laid down;</p>
+      <p n="10">Whereas, to ensure that these instruments can be used directly in measuring systems for liquids, approximation of national provisions concerning the maximum permissible errors for such assemblies should be undertaken immediately;</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">This Directive applies to volumetric meters for liquids other than water in which the liquid causes the movement of mobile walls of measuring chambers and which permit the measurement of any volumes.</p>
+      <p n="14">Article 2</p>
+      <p n="15">1. "Volumetric meter for liquids" means an instrument composed solely of a measuring device and an indicating device. It generally forms part of a measuring system.</p>
+      <p n="16">2. "Measuring system for liquids" means a measuring instrument comprising, as well as the meter itself and the ancillary equipment which may be associated with it, all the devices necessary for ensuring correct measurement and any devices which have been added in order, in particular, to facilitate the operations. Measuring systems will be the subject of a separate directive.</p>
+      <p n="17">Article 3</p>
+      <p n="18">Those volumetric meters which may bear EEC marks and symbols are described in Chapter I of the Annex. They shall be subject to EEC pattern approval and shall be submitted to EEC initial verification under the conditions laid down in items 1 and 2 of Annex II to the Directive on the approximation of the laws of the Member States relating to provisions for both measuring instruments and methods of metrological control, and under the conditions which will be laid down by the separate directive on measuring assemblies. 1OJ No C 25, 28.2.1970, p. 76. 2OJ No C 26, 4.3.1970, p. 2. 3OJ No L 202, 6.9.1971, p. 1.</p>
+      <p n="19">Article 4</p>
+      <p n="20">No Member State may refuse, prohibit or restrict the placing on the market or entry into service of volumetric meters for liquids other than water bearing the EEC pattern approval symbol and the EEC initial verification mark.</p>
+      <p n="21">Article 5</p>
+      <p n="22">When measuring assemblies for liquids which incorporate volumetric meters for liquids bearing EEC marks and symbols are subject to initial verification, the maximum permissible errors shall be those laid down in Chapter II of the Annex.</p>
+      <p n="23">Article 6</p>
+      <p n="24">1. Member States shall put into force the laws, regulations and administrative provisions needed in order to comply with this Directive within eighteen months of its notification, and shall forthwith inform the Commission thereof.</p>
+      <p n="25">2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.</p>
+      <p n="26">Article 7</p>
+      <p n="27">This Directive is addressed to the Member States.</p>
+      <p n="28">Done at Brussels, 26 July 1971.</p>
+      <p n="29">For the Council</p>
+      <p n="30">The President</p>
+      <p n="31">A. MORO</p>
+      <p n="32">ANNEX</p>
+      <p n="33">CHAPTER I SPECIFICATIONS FOR METERS FOR LIQUIDS OTHER THAN WATER</p>
+      <p n="34">1. Definitions 1.1. "Minimum delivery" means the smallest volume of liquid which may be measured by a particular pattern.</p>
+      <p n="35">1.2. "Cyclic volume" means the volume of liquid corresponding to the operating cycle of the measuring device, that is to say to the whole of the movements at the end of which all the internal moving parts of the measuring device return, for the first time, to their original position.</p>
+      <p n="36">1.3. "Periodic variation" means the maximum difference, during one working cycle, between the volume displaced by the moving components and the corresponding volume shown by the indicator, the latter being connected to the measuring device without play or slip and in such a way that it indicates at the end of the cycle and for this cycle a volume equal to the cyclic volume. This difference may be reduced by a suitable calibration device.</p>
+      <p n="37">2. Indicating mechanisms 2.1. Meters must incorporate an indicating mechanism showing the measured volume in cubic centimetres or millilitres, in cubic decimetres or litres or in cubic metres.</p>
+      <p n="38">2.2. In an indicating mechanism having one or more elements, that which is marked with the smallest scale intervals is called the "first element".</p>
+      <p n="39">2.3. The drive between the indicating mechanism and the measuring device must be reliable, durable and effected by means of a mechanical connection or by a permanent magnet device.</p>
+      <p n="40">2.4.1. Reading of the indications must be reliable, easy and unambiguous.</p>
+      <p n="41">2.4.2. If the indicating mechanism incorporates several elements, the indicating mechanism as a whole must he so constructed that the reading of the indication can be performed by simple juxtaposition of the indications of the different elements.</p>
+      <p n="42">2.5. The maximum capacity of the indicating mechanism must be of the form 1 × 10n, 2 × 10n or 5 × 10n authorised units of volume, n being a whole positive or negative number, or zero.</p>
+      <p n="43">2.6. The movement of an element may be either continuous or discontinuous.</p>
+      <p n="44">2.7. When the moving part of an element has a continuous movement, a graduated scale and a datum mark must enable the measured quantity to be determined for every position at which the element might come to rest.</p>
+      <p n="45">2.8. Scale intervals on the first element must be in the form 1 × 10n, 2 × 10n or 5 × 10n authorised units of volume.</p>
+      <p n="46">2.9. Except for the element which corresponds to the maximum capacity of the indicating mechanism, the value of one revolution of an element must be of the form 10n authorised units, when the graduated scale on this unit is completely visible.</p>
+      <p n="47">2.10. When an element consists of a fixed circular scale and a rotating pointer, the direction of rotation of this pointer must be clockwise.</p>
+      <p n="48">2.11. On an indicating mechanism having several elements, each rotation of the moving part of the elements of which the graduation is entirely visible must correspond to the value of the scale interval of the next element.</p>
+      <p n="49">2.12. On an indicating mechanism having several elements, the indication of an element with a discontinuous movement, other than the first element, must move forward by one figure while the preceeding element moves through not more than one-tenth of its revolution. This forward movement must cease when the preceding element indicates zero.</p>
+      <p n="50">2.13. When an indicating mechanism has several elements and when only a pan of the scale of the second and subsequent elements is visible in the windows, the movement of the latter elements must be discontinuous. The movement of the first element may be continuous or discontinuous.</p>
+      <p n="51">2.14. If the indication is given by figures in-line and if the movement of the first element is discontinuous, the marking of one or more fixed zeros to the right of this element is permissible.</p>
+      <p n="52">2.15. When the first element has only a portion of its scale visible in a window and has a continuous movement, there can be a resulting ambiguity in the reading which should be eliminated so far as is possible. To this end, and in order to allow for reading by interpolation, the relevant window must have, parallel to the movement of the scale, a dimension not less than 1 75 times the distance between the centre lines of two consecutively numbered graduation marks, in such a way that at least two graduation marks of which one will have a figure, are always visible. The window may be assymmetrical relative to the datum mark.</p>
+      <p n="53">2.16. On scales having graduation marks, the marks must have the same thickness, constant along the length of the mark, which shall not exceed one quarter of the distance between the centre lines of two consecutive marks.</p>
+      <p n="54">Marks corresponding to 1 × 10n, 2 × 10n or 5 × 10n authorised units shall only be distinguished by difference in their lengths.</p>
+      <p n="55">2.17. The actual or apparent distance between the axes of two consecutive graduation marks must not be less than 2 millimetres.</p>
+      <p n="56">2.18. The actual or apparent height of the figures must not be less than 4 millimetres.</p>
+      <p n="57">3. Calibrating devices 3.1. Meters must incorporate a calibrating device which can vary the relationship between the indicated and actual volumes of liquid passing through the meter.</p>
+      <p n="58">3.2. When this device changes this relationship in a discontinuous manner, the consecutive increments of this relationship must never differ by more than 0 7002.</p>
+      <p n="59">3.3. Regulation by means of a bypass arrangement on the meter is prohibited.</p>
+      <p n="60">4. Special conditions concerning the minimum delivery 4.1. The minimum delivery must be such that each of the following values shall be not greater than the maximum permissible error for such delivery as specified in items 2 and 3 of Chapter II: 1. the volume corresponding to a movement of 2 millimeters of the scale of the first element of the indicating mechanism and to one-fifth of the value of the scale interval, when the first element has a continuous movement;</p>
+      <p n="61">2. the volume corresponding to two consecutive movements of the figures when the first element has a discontinuous movement;</p>
+      <p n="62">3. the error which, under normal operation conditions, is caused by play or slip in the drive between the measuring device and the first element of the indicating mechanism;</p>
+      <p n="63">4. twice the periodic variation.</p>
+      <p n="64">4.2. In the determination of this minimum delivery, account must also be taken, where necessary, of the effect of the additional components on the measuring equipment, in accordance with the requirements stated in the directive concerning this equipment.</p>
+      <p n="65">4.3. The minimum delivery must be in the form 1 × 10n, 2 × 10n or 5 × 10n authorised units, n being a whole positive or negative number, or zero.</p>
+      <p n="66">5. Maximum and minimum rates of flow 5.1. The maximum and minimum rates of flow are specified in the certificate of approval in accordance with results obtained during the examination. The meter must be capable of operation for a determined period specified in the certificate of approval, at approximately its maximum rate of flow without showing any noticeable change in its measuring qualities.</p>
+      <p n="67">5.2. The ratio between the maximum and minimum rates of flow must be at least equal to 10 for meters in general and to 5 for meters for liquefied gases.</p>
+      <p n="68">6. Effect of the nature of the liquid, of temperature and of pressure 6.1. The certificate of approval of a meter must specify the liquid or liquids for which the meter is intended, the temperature limits for the liquid to be measured where these limits are below -10 ºC or above + 50 ºC, as well as the maximum working pressure.</p>
+      <p n="69">6.2. The examination carried out for the purpose of approving a model of a meter must show that the variations in error due to maximum variations in the properties of the liquids, to the pressure and the temperature of the liquid, within the limits which are to be specified in the certificate of approval, must not exceed, for each of these factors, one half of the values stated in items 1, 2 and 3 of Chapter II.</p>
+      <p n="70">7. Maximum permissible errors on a meter alone 7.1. When the initial verification of a measuring system is preceded by metrological examination of the meter alone, within the meaning of Article 3, the maximum permissible errors at the time of this examination are equal to one half of the maximum permissible errors specified in items 1, 2 and 3 of Chapter II but not less than 0 73 % of the measured quantity, if the liquid used is the same as that for which the meter is intended.</p>
+      <p n="71">7.2. However, if the precision of measurement is not sufficient to permit the application of this requirement, the certificate of approval may increase the maximum permissible errors, within the limits of those specified in items 1, 2 and 3 of Chapter II.</p>
+      <p n="72">7.3. Moreover, the certificate of approval may reduce and/or vary the maximum permissible errors where the verification referred to above will be carried out either with only one of the liquids provided for or with a different liquid.</p>
+      <p n="73">In the latter case (that is to say when the liquid used in the verification is different from that for which the meter is intended), the certificate of approval may specify the rates of flow during testing at rates other than those which lie between the maximum and minimum rates of flow.</p>
+      <p n="74">8. Legends 8.1. Each meter must carry, in a legible and indelible manner, either on the dial of the indicating mechanism or on a special plate, the following information: (a) the EEC pattern approval symbol</p>
+      <p n="75">(b) the identification mark or name of the manufacturer</p>
+      <p n="76">(c) the manufacturer's description, if any</p>
+      <p n="77">(d) serial number of meter and the year of manufacture</p>
+      <p n="78">(e) the cyclic volume</p>
+      <p n="79">(f) the maximum and minimum rates of flow</p>
+      <p n="80">(g) the maximum working pressure</p>
+      <p n="81">(h) the temperature range in the case where the liquid can be measured at a temperature below -10 ºC or above + 50 ºC</p>
+      <p n="82">(i) the nature of the liquid or liquids to be measured and the limits of viscosity, kinematic or dynamic, where an indication of the nature of the liquid alone is not sufficient to determine their viscosity.</p>
+      <p n="83">8.2. The following items must be visibly marked on the dial of the indicating mechanism: (a) the unit in which the measured volumes are expressed or the symbol for this unit,</p>
+      <p n="84">(b) the minimum delivery.</p>
+      <p n="85">8.3. Where there is a possibility of ambiguity the direction of movement of the liquid must be indicated by an arrow on the meter casing.</p>
+      <p n="86">8.4. On meters which measure potable liquids and which can be dismantled, the serial number or the three last figures of this number must be repeated on parts whose replacement can affect the measurement results.</p>
+      <p n="87">8.5. The indicating mechanism may carry a special description and identifying number.</p>
+      <p n="88">9. Placing of seals and verification marks 9.1. Sealing devices must prevent access to parts which can alter the calibration and, the dismantling, even partially, of the meter where such dismantling is not authorised in the certificate of approval (meters which measure potable liquids and which can be dismantled).</p>
+      <p n="89">9.2. A firm location on an essential part, visible without dismantling, must be provided on the measuring device, on the indicating mechanism or on their housing for the application of the EEC verification mark.</p>
+      <p n="90">9.3. The certificate of approval may require a location for the application of a stamp on interchangeable components of meters which can be dismantled, alongside the serial number referred to in item 8.4 in this Chapter.</p>
+      <p n="91">CHAPTER II MAXIMUM PERMISSIBLE ERRORS ON MEASURING SYSTEMS</p>
+      <p n="92">1. When a meter is incorporated in a measuring system, the maximum permissible errors, in excess or in deficiency, at the initial verification of this system, under the normal working conditions and within the working limits specified in the certificate of approval, are laid down by the following table, in terms of the measured quantities : &gt;PIC FILE= "T0011029"&gt;</p>
+      <p n="93">2. However, the maximum permissible error on the maximum delivery is double the value laid down in item 1 of Chapter II and, whatever might be the measured quantity, the maximum permissible error is never less than that permitted on the minimum delivery.</p>
+      <p n="94">3. Because of difficulties inherent in the testing facilities, the maximum permissible errors are double those given in items 1 and 2 of Chapter II where these are applicable to measuring equipment for liquid gases or other liquids measured at a temperature below -10 ºC or above +50 ºC, as well as for equipment for which the minimum rate of flow is not greater than 1 litre per hour.</p>
+      <p n="95">4. If, on initial verification, the errors are all of the same sense, one at least amongst them must not exceed the limits laid down in item 7.1 of Chapter I.</p>
+    </body>
+  </text>
+</TEI.2>

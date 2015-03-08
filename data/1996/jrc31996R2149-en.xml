@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31996R2149-en" n="31996R2149" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2149 English</title>
+        <title>Commission Regulation (EC) No 2149/96 of 8 November 1996 amending Regulation (EC) No 716/96 adopting exceptional support measures for the beef market in the United Kingdom</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2149:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2149:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">1857</classCode>
+        <classCode scheme="eurovoc">3774</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2149-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2149/96 of 8 November 1996 amending Regulation (EC) No 716/96 adopting exceptional support measures for the beef market in the United Kingdom</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2149/96 of 8 November 1996 amending Regulation (EC) No 716/96 adopting exceptional support measures for the beef market in the United Kingdom</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organization of the market in beef and veal (1), as last amended by Regulation (EC) No 1997/96 (2), and in particular Article 23 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 716/96 of 19 April 1996 (3), as last amended by Regulation (EC) No 1974/96 (4), authorizes the purchase of animals over 30 months old and held on holdings in the United Kingdom for at least three months with a view to slaughter and destruction; whereas, following experience gained in the application of the slaughter arrangements in question, the period during which the animals must have been held on holdings must be longer;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">In Article 1 (1) of Regulation (EC) No 716/96, the period 'three months` is hereby replaced by 'six months`.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">It shall apply to animals purchased from the third Monday following the date of publication.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 8 November 1996.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 148, 28. 6. 1968, p. 24.</p>
+      <p n="20">(2) OJ No L 267, 19. 10. 1996, p. 1.</p>
+      <p n="21">(3) OJ No L 99, 20. 4. 1996, p. 14.</p>
+      <p n="22">(4) OJ No L 262, 16. 10. 1996, p. 2.</p>
+    </body>
+  </text>
+</TEI.2>

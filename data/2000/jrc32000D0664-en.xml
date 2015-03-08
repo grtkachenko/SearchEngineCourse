@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32000D0664-en" n="32000D0664" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0664 English</title>
+        <title>2000/664/EC: Council Decision of 23 October 2000 amending Decision 2000/265/EC on the establishment of a financial regulation governing the budgetary aspects of the management by the Deputy Secretary-General of the Council of contracts concluded in his name, on behalf of certain Member States, relating to the installation and the functioning of the communication infrastructure for the Schengen environment, 'SISNET'</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0664:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0664:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">164</classCode>
+        <classCode scheme="eurovoc">2218</classCode>
+        <classCode scheme="eurovoc">3119</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">5405</classCode>
+        <classCode scheme="eurovoc">929</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0664-en." lang="en">
+    <body>
+      <head n="1">2000/664/EC: Council Decision of 23 October 2000 amending Decision 2000/265/EC on the establishment of a financial regulation governing the budgetary aspects of the management by the Deputy Secretary-General of the Council of contracts concluded in his name, on behalf of certain Member States, relating to the installation and the functioning of the communication infrastructure for the Schengen environment, 'SISNET'</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 23 October 2000</p>
+      <p n="4">amending Decision 2000/265/EC on the establishment of a financial regulation governing the budgetary aspects of the management by the Deputy Secretary-General of the Council of contracts concluded in his name, on behalf of certain Member States, relating to the installation and the functioning of the communication infrastructure for the Schengen environment, "SISNET"</p>
+      <p n="5">(2000/664/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the first sentence of the second subparagraph of Article 2(1) of the Protocol annexed to the Treaty on European Union and to the Treaty establishing the European Community, integrating the Schengen acquis into the framework of the European Union (hereinafter referred to as "the Schengen Protocol"),</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Decision 1999/870/EC(1) authorised the Deputy Secretary-General of the Council to act, in the context of the integration of the Schengen acquis within the European Union, as representative of certain Member States for the purposes of concluding contracts relating to the installation and the functioning of the communication infrastructure for the Schengen environment, "SISNET", and to manage such contracts.</p>
+      <p n="10">(2) The financial obligations arising under those contracts are not borne by the general budget of the European Union. Therefore, the provisions of the Financial Regulation of 21 December 1997 applicable to the general budget of the European Communities(2) do not apply.</p>
+      <p n="11">(3) Accordingly, a financial regulation was adopted under Decision 2000/265/EC(3) setting out specific rules to define the detailed procedures for establishing and implementing the budget required to meet any expenses incurred in the course of concluding the contracts, the obligations arising under those contracts once concluded, for recovering the contributions to be paid by the States concerned and for the presentation and auditing of the accounts.</p>
+      <p n="12">(4) Good accountancy practices require some minor formal amendments to the said financial regulation.</p>
+      <p n="13">(5) This Decision is a development of the Schengen acquis within the meaning of the Schengen Protocol,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Council Decision 2000/265/EC is hereby amended as follows:</p>
+      <p n="17">1. Article 7(1)(b) shall be replaced by the following:</p>
+      <p n="18">"(b) appropriations in respect of payments still outstanding at 31 December by virtue of commitments duly entered into between 1 January and 15 December shall be carried over automatically to the next financial year only."</p>
+      <p n="19">2. The first subparagraph of Article 7(2) shall be replaced by the following:</p>
+      <p n="20">"2. Notwithstanding paragraph 1, the Deputy Secretary-General of the Council may forward to the Schengen Information System Working Group, hereafter referred to as the 'SIS Working Group', before 31 January, duly substantiated requests to carry over to the next financial year appropriatons not committed at 15 December when the appropriations provided for the headings concerned in the budget for the following financial year do not cover requirements."</p>
+      <p n="21">3. The first sentence of Article 21 shall be replaced by the following:"Payments shall be effected through a bank account specifically opened for that purpose in the name of the General Secretariat of the Council."</p>
+      <p n="22">Article 2</p>
+      <p n="23">1. This Decision shall take effect on the day of its adoption.</p>
+      <p n="24">2. It shall be published in the Official Journal of the European Communities.</p>
+      <p n="25">Done at Luxembourg, 23 October 2000.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">J. Glavany</p>
+      <p n="29">(1) OJ L 337, 30.12.1999, p. 41.</p>
+      <p n="30">(2) OJ L 356, 31.12.1977, p. 1. Regulation as last amended by Regulation (EC) No 2673/1999 (OJ L 326, 18.12.1999, p. 1).</p>
+      <p n="31">(3) OJ L 85, 6.4.2000, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32002R2151-en" n="32002R2151" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2151 English</title>
+        <title>Council Regulation (EC) No 2151/2002 of 28 November 2002 amending Regulation (EC) No 1098/98 introducing special temporary measures for hops</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2151:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2151:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1261</classCode>
+        <classCode scheme="eurovoc">1521</classCode>
+        <classCode scheme="eurovoc">2477</classCode>
+        <classCode scheme="eurovoc">2621</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2151-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2151/2002 of 28 November 2002 amending Regulation (EC) No 1098/98 introducing special temporary measures for hops</head>
+      <p n="2">Council Regulation (EC) No 2151/2002</p>
+      <p n="3">of 28 November 2002</p>
+      <p n="4">amending Regulation (EC) No 1098/98 introducing special temporary measures for hops</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 1696/71 of 26 July 1971 on the common organisation of the market in hops(1), and in particular Article 16a thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) To rectify a surplus on the market in hops, Council Regulation (EC) No 1098/98(2) introduces special temporary measures under the procedure provided for in Article 16a of Regulation (EEC) No 1696/71. Thus, in the Member States deciding to apply those special measures, producer groups may, up to and including the 2002 harvest, have recourse to temporary resting and/or permanent grubbing-up of land under hops.</p>
+      <p n="11">(2) Although application of the special resting and grubbing-up measures over the first four years of the five-year programme adopted by the Council has permitted a reduction in land under hops of 10 % by comparison with 1997, efforts to balance the market are still required and the measures should be retained for another year.</p>
+      <p n="12">(3) Articles 2 and 4 of Regulation (EC) No 1098/98 therefore should be amended,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EC) No 1098/98 is hereby amended as follows:</p>
+      <p n="16">1. in Article 2(1):</p>
+      <p n="17">- in the first subparagraph "2002 harvest" is replaced by "2003 harvest",</p>
+      <p n="18">- in the second subparagraph "2003 harvest" is replaced by "2004 harvest";</p>
+      <p n="19">2. the second subparagraph of Article 4 is replaced by the following:"It shall apply from the 1998 harvest up to and including the 2004 harvest."</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 28 November 2002.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">M. Fischer Boel</p>
+      <p n="27">(1) OJ L 175, 4.8.1971, p. 1. Regulation as last amended by Regulation (EC) No 1514/2001 (OJ L 201, 26.7.2001, p. 8).</p>
+      <p n="28">(2) OJ L 157, 25.5.1998, p. 7.</p>
+    </body>
+  </text>
+</TEI.2>

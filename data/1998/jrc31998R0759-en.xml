@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31998R0759-en" n="31998R0759" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0759 English</title>
+        <title>Commission Regulation (EC) No 759/98 of 3 April 1998 amending Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0759:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0759:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0759-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 759/98 of 3 April 1998 amending Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 759/98 of 3 April 1998 amending Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organisation of the market in beef and veal (1), as last amended by Regulation (EC) No 2634/97 (2), and in particular Articles 9 and 13 thereof,</p>
+      <p n="6">Whereas Article 7 of Commission Regulation (EC) No 1445/95 of 26 June 1995 on rules of application for import and export licences in the beef and veal sector and repealing Regulation (EEC) No 2377/80 (3), as last amended by Regulation (EC) No 260/98 (4), provides that export licences must be issued for all products exported from 2 January 1998;</p>
+      <p n="7">Whereas Article 5(1) of Commission Regulation (EEC) No 3719/88 of 16 November 1988 laying down common detailed rules for the application of the system of import and export licences and advance fixing certificates for agricultural products (5), as last amended by Regulation (EC) No 1404/97 (6), provides that no export licence is required for products where no refund is applied for and in quantities such that the security for any licence would have been ECU 5 or less;</p>
+      <p n="8">Whereas, in the case of beef and veal, that limit of ECU 5 corresponds to one head of livestock or 200 kilograms of meat; whereas that limit has proved much too low, in particular for certain traditional transborder trade flows; whereas a derogation from Regulation (EEC) No 3719/88 should accordingly be provided for to increase that amount to ECU 60;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The following paragraph is hereby added to Article 7 of Regulation (EC) No 1445/95:</p>
+      <p n="13">'However, notwithstanding the fourth indent of Article 5(1) of Regulation (EEC) No 3719/88, no export licence shall be required for products covered by the second indent of Article 8(2) in quantities such that the security for any licence would have been ECU 60 or less. If the licence is issued per head and if the amount of ECU 60 does not correspond to a whole number of head, the security shall be deemed to correspond to that for the next higher whole number of head.`</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 3 April 1998.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 148, 28. 6. 1968, p. 24.</p>
+      <p n="22">(2) OJ L 356, 31. 12. 1997, p. 13.</p>
+      <p n="23">(3) OJ L 143, 27. 6. 1995, p. 35.</p>
+      <p n="24">(4) OJ L 25, 31. 1. 1998, p. 42.</p>
+      <p n="25">(5) OJ L 331, 2. 12. 1988, p. 1.</p>
+      <p n="26">(6) OJ L 194, 23. 7. 1997, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>

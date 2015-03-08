@@ -1,0 +1,105 @@
+<TEI.2 id="jrc32003R0048-en" n="32003R0048" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0048 English</title>
+        <title>Commission Regulation (EC) No 48/2003 of 10 January 2003 laying down the rules applicable to mixes of different types of fresh fruit and vegetables in the same sales package</title>
+      </titleStmt>
+      <extent>68 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0048:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0048:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1119</classCode>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">1608</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">720</classCode>
+        <classCode scheme="eurovoc">87</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0048-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 48/2003 of 10 January 2003 laying down the rules applicable to mixes of different types of fresh fruit and vegetables in the same sales package</head>
+      <p n="2">Commission Regulation (EC) No 48/2003</p>
+      <p n="3">of 10 January 2003</p>
+      <p n="4">laying down the rules applicable to mixes of different types of fresh fruit and vegetables in the same sales package</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Regulation (EC) No 545/2002(2), and in particular Article 2(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Packages containing different types of fruit and vegetables are becoming more common on the market in response to demand from certain consumers.</p>
+      <p n="10">(2) Fair trading requires that fresh fruit and vegetables sold in the same package must be of uniform quality. This can be ensured for products for which Community standards have not been adopted by recourse to general provisions.</p>
+      <p n="11">(3) The marketing standards contain provisions on the labelling of packages containing fruit and vegetables. Labelling requirements should be laid down for mixes of different types of fruit and vegetables in the same package, but these should be less strict than those laid down by the standards to take account, in particular, of the space available on the label. However, in order to prevent consumers from being misled, the same details should be laid down for products not covered by marketing standards as for those that are.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Sales packages of fresh fruit and vegetables of a net weight of three kilograms or less may contain mixes of different types of fresh fruit and vegetables provided that:</p>
+      <p n="16">(a) the products are of uniform quality and that each type concerned complies with the standards in accordance with Article 2;</p>
+      <p n="17">(b) the package is appropriately marked, in accordance with Article 3; and</p>
+      <p n="18">(c) the mix is not such as to mislead the consumer.</p>
+      <p n="19">Article 2</p>
+      <p n="20">The products contained in mixes as referred to in Article 1 must be of the same commercial class (Class I, Class II or "Extra" Class where there is an "Extra" Class for each of the products in the mix).</p>
+      <p n="21">Where a mix contains fruit and vegetables not covered by Community marketing standards, those products must be classed either in the same class, in accordance with the Annex.</p>
+      <p n="22">Article 3</p>
+      <p n="23">The marking on sales packages as referred to in Article 1 and/or on each package containing them shall show at least the following details:</p>
+      <p n="24">(a) name and address or officially issued or accepted code of the packer and/or dispatcher. Where a code mark is used, the reference "packer and/or dispatcher" (or equivalent abbreviations) must be indicated close to the code mark;</p>
+      <p n="25">(b) name of each of the products/types contained in the package;</p>
+      <p n="26">(c) name of the variety or of the commercial type for each product contained in the mix for which the Community marketing standard requests it for non-mixed products;</p>
+      <p n="27">(d) country of origin of each of the products concerned, next to the name of the products concerned;</p>
+      <p n="28">(e) class.</p>
+      <p n="29">For fruit and vegetables covered by Community marketing standards, these details shall replace the particulars laid down by those standards.</p>
+      <p n="30">Article 4</p>
+      <p n="31">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="32">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="33">Done at Brussels, 10 January 2003.</p>
+      <p n="34">For the Commission</p>
+      <p n="35">Franz Fischler</p>
+      <p n="36">Member of the Commission</p>
+      <p n="37">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="38">(2) OJ L 84, 28.3.2002, p. 1.</p>
+      <p n="39">ANNEX</p>
+      <p n="40">Quality conditions to be satisfied by each product for which there is no Community marketing standard</p>
+      <p n="41">Minimum quality requirements</p>
+      <p n="42">In all classes, and bearing in mind the permitted tolerances (see below), the products must be:</p>
+      <p n="43">- intact,</p>
+      <p n="44">- sound; products affected by rotting or deterioration such as to make them unfit for consumption are excluded,</p>
+      <p n="45">- clean, practically free of any visible foreign matter,</p>
+      <p n="46">- practically free from pests,</p>
+      <p n="47">- practically free from damage caused by pests,</p>
+      <p n="48">- free of abnormal external moisture,</p>
+      <p n="49">- free of any foreign smell and/or taste.</p>
+      <p n="50">"Extra" class</p>
+      <p n="51">Products in this class must be of superior quality. They must be characteristic of the variety and/or commercial type.</p>
+      <p n="52">They must be free from defects, with the exception of very slight superficial defects, provided these do not affect the general appearance of the product, its quality, keeping quality and presentation in the package.</p>
+      <p n="53">Class I</p>
+      <p n="54">Products in this class must be of good quality. They must be characteristic of the variety and/or commercial type.</p>
+      <p n="55">Slight defects may be allowed, however, provided that they do not affect the general appearance of the product, its quality, keeping quality and presentation in the package.</p>
+      <p n="56">Class II</p>
+      <p n="57">This class includes products which do not qualify for inclusion in the higher classes but satisfy the minimum requirements required above.</p>
+      <p n="58">They may present defects, provided they retain their essential characteristics as regards quality, keeping quality and presentation.</p>
+      <p n="59">Quality tolerances</p>
+      <p n="60">Quality tolerances shall be allowed in each package for products not satisfying the requirements of the class indicated.</p>
+      <p n="61">- "Extra" class</p>
+      <p n="62">5 % by number or weight of products not satisfying the requirements of the class, but meeting those of Class I or, exceptionally, coming within the tolerances of that class.</p>
+      <p n="63">- Class I</p>
+      <p n="64">10 % by number or weight of products not satisfying the requirements of the class, but meeting those of Class II or, exceptionally, coming within the tolerances of that class.</p>
+      <p n="65">- Class II</p>
+      <p n="66">10 % by number or weight of products not satisfying the requirements of the class, nor the minimum requirements, with the exception of products affected by rotting or any other deterioration rendering them unfit for consumption.</p>
+      <p n="67">Uniformity</p>
+      <p n="68">The products must be of the same origin, variety or commercial class and quality.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32002D0529-en" n="32002D0529" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0529 English</title>
+        <title>2002/529/EC: Commission Decision of 27 June 2002 concerning a questionnaire for Member States reports on the implementation of Directive 1999/13/EC on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain activities and installations (notified under document number C(2002) 2234)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0529:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0529:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1076</classCode>
+        <classCode scheme="eurovoc">1707</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">2751</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">3164</classCode>
+        <classCode scheme="eurovoc">3817</classCode>
+        <classCode scheme="eurovoc">4211</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0529-en." lang="en">
+    <body>
+      <head n="1">2002/529/EC: Commission Decision of 27 June 2002 concerning a questionnaire for Member States reports on the implementation of Directive 1999/13/EC on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain activities and installations (notified under document number C(2002) 2234)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 27 June 2002</p>
+      <p n="4">concerning a questionnaire for Member States reports on the implementation of Directive 1999/13/EC on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain activities and installations</p>
+      <p n="5">(notified under document number C(2002) 2234)</p>
+      <p n="6">(2002/529/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Directive 1999/13/EC of 11 March 1999(1), on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain activities and installations, and in particular Article 11(1) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Article 11(1) of Directive 1999/13/EC requires that reports on the implementation of the Directive be drawn up on the basis of a questionnaire or outline drafted by the Commission in accordance with the procedure laid down in Article 6 of Council Directive 91/692/EEC(2),</p>
+      <p n="12">(2) Member States, which implement national plans in accordance with Article 6 of Directive 1999/13/EC already are required to submit these plans to the Commission,</p>
+      <p n="13">(3) The questionnaire or outline shall be sent to the Member States six months before the start of the period covered by the report,</p>
+      <p n="14">(4) The first report will cover the period 1 January 2003 to 31 December 2004 inclusive,</p>
+      <p n="15">(5) The Committee established in accordance with Article 6 of Directive 91/692/EEC did not deliver an opinion on these measures within the time limit laid down by the chairman,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The questionnaire in the Annex is hereby adopted.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 27 June 2002.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Margot Wallström</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 85, 29.3.1999, p. 1.</p>
+      <p n="26">(2) OJ L 377, 31.12.1991, p. 48.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">&gt;PIC FILE= "L_2002172EN.005802.TIF"&gt;</p>
+      <p n="29">&gt;PIC FILE= "L_2002172EN.005901.TIF"&gt;</p>
+      <p n="30">&gt;PIC FILE= "L_2002172EN.006001.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

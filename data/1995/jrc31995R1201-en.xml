@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31995R1201-en" n="31995R1201" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1201 English</title>
+        <title>Commission Regulation (EC) No 1201/95 of 29 May 1995 amending Annex VI to Regulation (EEC) No 2092/91 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1201:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1201:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">2948</classCode>
+        <classCode scheme="eurovoc">2962</classCode>
+        <classCode scheme="eurovoc">568</classCode>
+        <classCode scheme="eurovoc">79</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1201-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1201/95 of 29 May 1995 amending Annex VI to Regulation (EEC) No 2092/91 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1201/95 of 29 May 1995 amending Annex VI to Regulation (EEC) No 2092/91 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2092/91 of 24 June 1991 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs (1), as last amended by Commission Regulation (EC) No 2381/94 (2), and in particular Article 13 thereof,</p>
+      <p n="6">Having regard to Commission Regulation (EEC) No 207/93 of 25 January 1993 defining the content of Annex VI to Regulation (EEC) No 2092/91 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs and laying down detailed rules for implementing the provisions of Article 5 (4) thereto (3), and in particular Article 3 thereof,</p>
+      <p n="7">Whereas certain Member States have notified to the other Member States and the Commission that authorizations were granted for use of certain ingredients of agricultural origin not included in section C of Annex VI to Regulation (EEC) No 2092/91; whereas for certain of these notified products it has appeared that no sufficient production was taking place in the Community; whereas therefore these products should be introduced into section C of Annex VI;</p>
+      <p n="8">Whereas it has appeared that there is an important production in the Community in the context of organic farming of chicory, vinegar from various fermented beverages as well as of a large number of spices and herbs; whereas therefore chicory, vinegar, spices and herbs should be deleted from section C of Annex VI;</p>
+      <p n="9">Whereas a positive list of the main spices and herbs which are not available from organic production in sufficient quantities in the European Community will be developped as soon as possible; whereas pending the adoption of this list, the procedure of Article 3 of Regulation (EEC) No 207/93 can be applied under the conditions set out in that Article;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the committee referred to in Article 14 of Regulation (EEC) No 2092/91,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Annex VI to Regulation (EEC) No 2092/91 is amended as defined in the Annex to the present Regulation.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force seven days from the date of its publication in the Official Journal of the European Communities.</p>
+      <p n="16">The products referred to in the first and fourth indents of the Annex to this Regulation may continue to be used under the previously applicable conditions until three months from the date of entry into force of the Regulation.</p>
+      <p n="17">The products referred to in the third indent of the Annex to this Regulation may continue to be used under the previously applicable conditions until seven months from the date of entry into force of the Regulation.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 29 May 1995.</p>
+      <p n="20">For the Commission Franz FISCHLER Member of the Commission</p>
+      <p n="21">ANNEX</p>
+      <p n="22">Section C of Annex VI of Regulation (EEC) No 207/93 and amended by Commission (EC) No 468/94 (1) is amended as follows:</p>
+      <p n="23">- the following product is deleted from subsection C.1.1.: chicory,</p>
+      <p n="24">- the following products are added to subsection C.1.1. after 'Acerola`:</p>
+      <p n="25">dried banana powder (Musa L.) gooseberries (Ribes crispa L.) dried strawberry powder (Fragaria L.) dried raspberries (Ribus idaeus L.) dried red currants (Ribes rubrum L.),</p>
+      <p n="26">- subsection C.1.2 entitled 'Edible spices and herbs` is replaced by the following:</p>
+      <p n="27">'C.1.2. Edible spices and herbs -`,</p>
+      <p n="28">- in subsection C.2.3, the product 'Vinegar other than vinegar from wine` is deleted.</p>
+    </body>
+  </text>
+</TEI.2>

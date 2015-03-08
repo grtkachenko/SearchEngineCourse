@@ -1,0 +1,85 @@
+<TEI.2 id="jrc31993R3605-en" n="31993R3605" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993R3605 English</title>
+        <title>Council Regulation (EC) No 3605/93 of 22 November 1993 on the application of the Protocol on the excessive deficit procedure annexed to the Treaty establishing the European Community</title>
+      </titleStmt>
+      <extent>58 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R3605:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R3605:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993R3605-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 3605/93 of 22 November 1993 on the application of the Protocol on the excessive deficit procedure annexed to the Treaty establishing the European Community</head>
+      <p n="2">COUNCIL REGULATION (EC) No 3605/93 of 22 November 1993 on the application of the Protocol on the excessive deficit procedure annexed to the Treaty establishing the European Community</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular the third subparagraph of Article 104c (14) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas the definitions of 'government', 'deficit' and 'investment' are laid down in the Protocol on the excessive deficit procedure by reference to the European System of Integrated Economic Accounts (ESA) (3); whereas precise definitions referring to the classification codes of ESA are required; whereas these definitions may be subject to revision in the context of the necessary harmonization of national statistics or for other reasons; whereas any revision of ESA will be decided by the Council in accordance with the rules on competence and procedure laid down in the Treaty;</p>
+      <p n="8">Whereas the definition of 'debt' laid down in the Protocol on the excessive deficit procedure needs to be amplified by a reference to the classification codes of ESA;</p>
+      <p n="9">Whereas Council Directive 89/130/EEC, Euratom of 13 February 1989 on the harmonization of the compilation of gross national product at market prices (4) provides an adequate, detailed definition of gross domestic product at market prices;</p>
+      <p n="10">Whereas, pursuant to the terms of the Protocol on the excessive deficit procedure, the Commission is required to provide the statistical data to be used in that procedure;</p>
+      <p n="11">Whereas detailed rules are required to organize the prompt and regular reporting by the Member States to the Commission of their planned and actual deficits and of the levels of their debt;</p>
+      <p n="12">Whereas, pursuant to Article 104c (2) and (3) of the Treaty, the Commission is to monitor the development of the budgetary situation and of the stock of government debt in the Member States and to examine compliance with budgetary discipline on the basis of criteria relating to government deficit and government debt; whereas, if a Member State does not fulfil the requirements under one or both criteria, the Commission must take into account all relevant factors; whereas the Commission has to examine whether there is a risk of an excessive deficit in a Member State,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">SECTION 1 Definitions</p>
+      <p n="15">Article 1</p>
+      <p n="16">1. For the purposes of the Protocol on the excessive deficit procedure and of this Regulation, the terms given in the following paragraphs are defined according to the European System of Integrated Economic Accounts (ESA). The codes in brackets refer to ESA, second edition.</p>
+      <p n="17">2. 'Government' means the sector of general government (S60), that is central government (S61), local government (S62) and social security funds (S63), to the exclusion of commercial operations, as defined in ESA.</p>
+      <p n="18">The exclusion of commercial operations means that the sector of general government (S60) comprises only institutional units producing non-market services as their main activity.</p>
+      <p n="19">3. 'Government deficit (surplus)' means the net borrowing (net lending) (N5) of the sector of general government (S60), as defined in ESA. The interest comprised in the government deficit is the sum of interest (R41), as defined in ESA.</p>
+      <p n="20">4. 'Government investment' means the gross fixed capital formation (P41) of the sector of general government (S60), as defined in ESA.</p>
+      <p n="21">5. 'Government debt' means the total gross debt at nominal value outstanding at the end of the year of the sector of general government (S60), with the exception of those liabilities the corresponding financial assets of which are held by the sector of general government (S60).</p>
+      <p n="22">Government debt is constituted by the liabilities of general government in the following categories: currency and deposits (F20 and F30), bills and short-term bonds (F40), long-term bonds (F50), other short-term loans (F79) and other medium and long-term loans (F89) as defined in ESA.</p>
+      <p n="23">The nominal value of a liability outstanding at the end of the year is the face value.</p>
+      <p n="24">The nominal value of an index-linked liability corresponds to its face value adjusted by the index-related capital uplift accrued to the end of the year.</p>
+      <p n="25">Liabilities denominated in foreign currencies shall be converted into the national currency at the representative market exchange rate prevailing on the last working day of each year.</p>
+      <p n="26">Article 2</p>
+      <p n="27">Gross domestic product means gross domestic product at market prices (GDP mp), as defined in Article 2 of Directive 89/130/EEC, Euratom.</p>
+      <p n="28">Article 3</p>
+      <p n="29">1. Planned government deficit figures mean the figures established for the current year by the Member States consistent with the most recent decisions of their budgetary authorities.</p>
+      <p n="30">2. Actual government deficit and government debt level figures mean estimated, provisional, half-finalized or final results for a past year.</p>
+      <p n="31">SECTION 2 Rules and coverage of reporting</p>
+      <p n="32">Article 4</p>
+      <p n="33">1. As from the beginning of 1994, Member States shall report to the Commission their planned and actual government deficits and levels of government debt twice a year, the first time before 1 March of the current year (year n) and the second time before 1 September of year n.</p>
+      <p n="34">2. Before 1 March of year n, Member States:</p>
+      <p n="35">- shall report to the Commission their planned government deficit for year n, an up-to-date estimate of their actual government deficit for year n-1 and their actual government deficits for years n-2, n-3 and n-4,</p>
+      <p n="36">- shall simultaneously provide the Commission for years n, n-1 and n-2 with their corresponding public accounts budget deficits according to the definition which is given most prominence nationally and with the figures which explain the transition between this public accounts budget deficit and their government deficit. The figures explaining this transition which are provided to the Commission shall include, in particular, the figures for net borrowing of the subsectors S61, S62 and S63,</p>
+      <p n="37">- shall report to the Commission their estimate of the level of actual government debt at the end of year n-1 and their levels of actual government debt for years n-2, n-3 and n-4,</p>
+      <p n="38">- shall simultaneously provide the Commission for years n-1 and n-2 with the figures which explain the contributions of their government deficit and the other relevant factors contributing to the variation in the level of their government debt.</p>
+      <p n="39">3. Before 1 September of year n, Member States shall report to the Commission:</p>
+      <p n="40">- their updated planned government deficit for year n and their actual government deficits for years n-1, n-2, n-3 and n-4 and shall comply with the requirements of the second indent of paragraph 2,</p>
+      <p n="41">- their actual level of government debt for years n-1, n-2, n-3 and n-4, and shall comply with the requirements of the fourth indent of paragraph 2.</p>
+      <p n="42">4. The figures for the planned government deficit reported to the Commission in accordance with paragraphs 2 and 3 shall be expressed in national currency and in budget years.</p>
+      <p n="43">The figures for actual government deficit and actual government debt level reported to the Commission in accordance with paragraphs 2 and 3 shall be expressed in national currency and in calendar years, with the exception of the up-to-date estimates for year n-1, which may be expressed in budget years.</p>
+      <p n="44">Where the budget year differs from the calendar year, Member States shall also report to the Commission their figures for actual government deficit and actual government debt level in budget years for the two budget years preceding the current budget year.</p>
+      <p n="45">Article 5</p>
+      <p n="46">Member States shall, in accordance with the procedure laid down in Article 4 (1), (2) and (3), provide the Commission with the figures for their government investment expenditure and interest expenditure.</p>
+      <p n="47">Article 6</p>
+      <p n="48">Member States shall provide the Commission with a forecast of their gross domestic product for year n and the actual amount of their gross domestic product for years n-1, n-2, n-3 and n-4, under the same timing conditions as those indicated in Article 4 (1).</p>
+      <p n="49">Article 7</p>
+      <p n="50">In the event of a revision of ESA to be decided on by the Council in accordance with the rules on competence and procedure laid down in the Treaty, the Commission shall introduce the new references to ESA into Articles 1 and 4.</p>
+      <p n="51">Article 8</p>
+      <p n="52">This Regulation shall enter into force on 1 January 1994.</p>
+      <p n="53">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="54">Done at Brussels, 22 November 1993.</p>
+      <p n="55">For the Council</p>
+      <p n="56">The President</p>
+      <p n="57">Ph. MAYSTADT</p>
+      <p n="58">(1) OJ No C 324, 1. 12. 1993, p. 8; and OJ No C 340, 17. 12. 1993, p. 8.(2) OJ No C 329, 6. 12. 1993.(3) Statistical Office of the European Communities, European System of Integrated Economic Accounts (ESA), second edition.(4) OJ No L 49, 21. 2. 1989, p. 26.</p>
+    </body>
+  </text>
+</TEI.2>

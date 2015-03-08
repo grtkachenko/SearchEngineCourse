@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31999D0778-en" n="31999D0778" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0778 English</title>
+        <title>1999/778/EC: Council Decision of 15 November 1999 concerning the conclusion of a Protocol on veterinary matters supplementing the Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faeroe Islands, of the other part</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0778:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0778:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1294</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">336</classCode>
+        <classCode scheme="eurovoc">4031</classCode>
+        <classCode scheme="eurovoc">5877</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0778-en." lang="en">
+    <body>
+      <head n="1">1999/778/EC: Council Decision of 15 November 1999 concerning the conclusion of a Protocol on veterinary matters supplementing the Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faeroe Islands, of the other part</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 15 November 1999</p>
+      <p n="4">concerning the conclusion of a Protocol on veterinary matters supplementing the Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part</p>
+      <p n="5">(1999/778/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 in conjunction with the first sentence of the first subparagraph of Article 300(2) and Article 300(4) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Whereas the Protocol on veterinary matters supplementing the Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part, should be approved,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Protocol on veterinary matters supplementing the Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part, is hereby approved on behalf of the Community.</p>
+      <p n="13">The text of the Protocol is attached to this Decision.</p>
+      <p n="14">Article 2</p>
+      <p n="15">The President of the Council is hereby authorised to designate the person(s) empowered to sign the Protocol in order to bind the Community and to give the notification provided for in Article 4 of the Protocol(2).</p>
+      <p n="16">Article 3</p>
+      <p n="17">The Commission, assisted by the representatives of the veterinary services of the Member States, shall represent the Community in the veterinary sub-group established by Article 2 of the Protocol. The Community position in the Joint Committee on the recommendations of the veterinary sub-group shall be established by the Council, acting by a qualified majority on a proposal from the Commission.</p>
+      <p n="18">Article 4</p>
+      <p n="19">This Decision shall take effect on the day of its adoption.</p>
+      <p n="20">Done at Brussels, 15 November 1999.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">K. HEMILÄ</p>
+      <p n="24">(1) OJ C 274, 28.9.1999, p. 11.</p>
+      <p n="25">(2) The date of the entry into force of the Protocol will be published in the Official Journal of the European Communities by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

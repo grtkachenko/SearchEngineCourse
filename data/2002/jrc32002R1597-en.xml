@@ -1,0 +1,77 @@
+<TEI.2 id="jrc32002R1597-en" n="32002R1597" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1597 English</title>
+        <title>Commission Regulation (EC) No 1597/2002 of 6 September 2002 laying down detailed rules for the application of Council Directive 1999/105/EC as regards the format of national lists of the basic material of forest reproductive material</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1597:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1597:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1063</classCode>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">1595</classCode>
+        <classCode scheme="eurovoc">3409</classCode>
+        <classCode scheme="eurovoc">486</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1597-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1597/2002 of 6 September 2002 laying down detailed rules for the application of Council Directive 1999/105/EC as regards the format of national lists of the basic material of forest reproductive material</head>
+      <p n="2">Commission Regulation (EC) No 1597/2002</p>
+      <p n="3">of 6 September 2002</p>
+      <p n="4">laying down detailed rules for the application of Council Directive 1999/105/EC as regards the format of national lists of the basic material of forest reproductive material</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Directive 1999/105/EC of 22 December 1999 on the marketing of forest reproductive material(1), and in particular Article 10(3) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In accordance with Article 10(1) of Directive 1999/105/EC Member States shall draw up a national register of the basic material of the various species approved on its territory.</p>
+      <p n="10">(2) In accordance with Article 10(2) of the same Directive Member States shall draw up a summary of the national register in the form of a national list to be made available on request to the Commission and the other Member States. The national list shall be presented in a common form for each "unit of approval", as referred to in Article 4(2)(b) of Directive 1999/105/EC and specified, for each category of forest reproductive material, in Article 2(l) of the same Directive. For the categories "source identified" and "selected" a summary of the "units of approval" within one region of provenance is permitted. The details of the information to be provided in the list are specified in Article 10(2) referred to above.</p>
+      <p n="11">(3) In order to ensure the proper functioning of the national lists and their comparability, the form of those lists should be standardised at Community level. This would assist the Commission to publish the list entitled "Community List of Approved Basic Material for the Production of Forest Reproductive Material", as referred to in Article 11(1) of that Directive.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The national list referred to in Article 10(2) of Directive 1999/105/EC shall be drawn up by each Member State in the standardised form as detailed in the Annex. Each Member State shall make its list available on request to the Commission and other Member States in the form of an electronic spreadsheet or database.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">It shall apply from 1 January 2003.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 6 September 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">David Byrne</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 11, 15.1.2000, p. 17.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">Standardised form for the national lists of basic material approved by Member States</p>
+      <p n="27">PART A</p>
+      <p n="28">Structure of the national list of basic material</p>
+      <p n="29">&gt;PIC FILE= "L_2002240EN.003502.TIF"&gt;</p>
+      <p n="30">PART B</p>
+      <p n="31">Guidelines for filling in the different columns of the national list of basic material, as presented in Part A of this Annex</p>
+      <p n="32">1. The species should be listed in alphabetical order (column B) and within each species in the order of the categories (Article 2(l) of Directive 1999/105/EC) (column C) commencing with source identified, followed by selected, qualified and tested. Within qualified the order will be seed orchard, parents of family(ies), clone and clonal mixture while within tested, stand will precede seed orchard.</p>
+      <p n="33">2. The different columns shall be filled in accordance with the standardised order and coding of information as specified in Part B.4 of this Annex.</p>
+      <p n="34">3. Column B shall be filled in accordance with the abbreviations as specified in Part B.5 of this Annex.</p>
+      <p n="35">4. Standardised order and coding information for the different columns of the national list of basic material, as presented in Part A of this Annex</p>
+      <p n="36">&gt;TABLE&gt;</p>
+      <p n="37">Where any column does not need to be completed, NA will be used to indicate not applicable, in order to distinguish it from the situation in which it is blank due to missing information.</p>
+      <p n="38">Columns F, G, H and J do not need to be completed for basic material of the type parents of family(ies), clone or clonal mixture.</p>
+      <p n="39">5. Abbreviations of the botanical name of tree species and artificial hybrids thereof to be used for column B of the national list as presented in Part A of this Annex</p>
+      <p n="40">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

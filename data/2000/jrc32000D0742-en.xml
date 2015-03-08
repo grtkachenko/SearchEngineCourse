@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32000D0742-en" n="32000D0742" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0742 English</title>
+        <title>2000/742/EC: Council Decision of 16 November 2000 concerning the conclusion of the Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0742:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0742:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">225</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">5876</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0742-en." lang="en">
+    <body>
+      <head n="1">2000/742/EC: Council Decision of 16 November 2000 concerning the conclusion of the Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 16 November 2000</p>
+      <p n="4">concerning the conclusion of the Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation</p>
+      <p n="5">(2000/742/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the treaty establishing the European Community, and in particular Article 170, in conjunction with Article 300(2), first sentence of the first subparagraph, and Article 300(3), first subparagraph thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The European Community and the Russian Federation are pursuing specific research programmes in areas of common interest.</p>
+      <p n="12">(2) The Russian Federation, on the one hand, and the European Community and its Member States, on the other hand, have signed an Agreement on Partnership and Cooperation(3), wherein Article 62 provides for the negotiation of "specific arrangements" in the field of science and technology.</p>
+      <p n="13">(3) By its Decision of 10 November 1997, the Council authorised the Commission to negotiate an agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation for the duration of the fifth framework programme, established by Decision No 182/1999/EC of the European Parliament and of the Council(4).</p>
+      <p n="14">(4) The Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation should be approved,</p>
+      <p n="15">HAS DECIDED AS FOLLOWS:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation is hereby approved on behalf of the Community.</p>
+      <p n="18">The text of the Agreement is attached to this Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">The President of the Council shall, on behalf of the Community, give the notification provided for in Article 12 of the Agreement(5).</p>
+      <p n="21">Done at Brussels, 16 November 2000.</p>
+      <p n="22">For the Council</p>
+      <p n="23">The President</p>
+      <p n="24">R. Schwartzenberg</p>
+      <p n="25">(1) OJ C 370 E, 26.10.1999, p. 22.</p>
+      <p n="26">(2) Not yet published in the Official Journal.</p>
+      <p n="27">(3) OJ L 327, 28.11.1997, p. 3.</p>
+      <p n="28">(4) OJ L 26, 1.2.1999, p. 1.</p>
+      <p n="29">(5) The date of entry into force of the Agreement will be published in the Official Journal by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

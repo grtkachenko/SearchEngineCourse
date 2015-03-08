@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31997R1068-en" n="31997R1068" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1068 English</title>
+        <title>Commission Regulation (EC) No 1068/97 of 12 June 1997 amending Annex II to Council Regulation (EEC) No 2081/92 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1068:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1068:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">1650</classCode>
+        <classCode scheme="eurovoc">1686</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">3173</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1068-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1068/97 of 12 June 1997 amending Annex II to Council Regulation (EEC) No 2081/92 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1068/97 of 12 June 1997 amending Annex II to Council Regulation (EEC) No 2081/92 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2081/92 of 14 July 1992 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs (1), as amended by Regulation (EC) No 535/97 (2), and in particular the third subparagraph of Article 1 (1) thereof,</p>
+      <p n="6">Whereas cochineal and cork should be included in Annex II to Regulation (EEC) No 2081/92 to meet the expectations of certain agricultural producers for whom those products are one of their main sources of income; whereas, since agricultural products are concerned, such producers might conceivably submit applications for registration of such products under Regulation (EEC) No 2081/92 in view of the link which such products may have with certain geographical areas;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Committee for Geographical Indications and Designations of Origin,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The following products are hereby inserted in Annex II to Regulation (EEC) No 2081/92:</p>
+      <p n="11">'- cork</p>
+      <p n="12">- cochineal (raw product of animal origin).`</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 12 June 1997.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 208, 24. 7. 1992, p. 1.</p>
+      <p n="21">(2) OJ No L 83, 25. 3. 1997, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

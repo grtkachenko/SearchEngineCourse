@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31997R1572-en" n="31997R1572" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1572 English</title>
+        <title>Commission Regulation (EC) No 1572/97 of 4 August 1997 amending Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1572:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1572:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1572-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1572/97 of 4 August 1997 amending Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1572/97 of 4 August 1997 amending Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organization of the market in beef and veal (1), as last amended by Regulation (EC) No 2222/96 (2), and in particular Articles 9 and 13 thereof,</p>
+      <p n="6">Whereas Article 10 (5) of Commission Regulation (EC) No 1445/95 of 26 June 1995 on rules of application for import and export licences in the beef and veal sector and repealing Regulation (EEC) No 2377/80 (3), as last amended by Regulation (EC) No 1496/97 (4), provides that by way of derogation from paragraph 1 of that Article, export licence applications for a quantity not exceeding 22 tonnes of products falling within CN codes 0201 and 0202 are not, at the applicant's request, subject to the five-day time-lag;</p>
+      <p n="7">Whereas, where licence applications are rejected, applications for licences for frozen meat covering such small quantities have made up an abnormally high proportion; whereas, consequently, for the sake of better administration of the quantities, applications for those licences should be restricted to fresh or chilled meat falling within CN code 0201;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The first sentence of Article 10 (5) of Regulation (EC) No 1445/95 is hereby replaced by the following:</p>
+      <p n="12">'5. By way of derogation from paragraph 1, licence applications for a quantity not exceeding 22 tonnes of products falling within CN code 0201 shall not, at the applicant's request, be subject to the five-day time-lag.`</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="15">It shall apply to export licences with advance fixing of the refund applied for from the day following the date of entry into force of this Regulation.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 4 August 1997.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Monika WULF-MATHIES</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 148, 28. 6. 1968, p. 24.</p>
+      <p n="22">(2) OJ No L 296, 21. 11. 1996, p. 50.</p>
+      <p n="23">(3) OJ No L 143, 27. 6. 1995, p. 35.</p>
+      <p n="24">(4) OJ No L 202, 30. 7. 1997, p. 36.</p>
+    </body>
+  </text>
+</TEI.2>

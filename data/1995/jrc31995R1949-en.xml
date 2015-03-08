@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31995R1949-en" n="31995R1949" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1949 English</title>
+        <title>Commission Regulation (EC) No 1949/95 of 7 August 1995 amending Commission Regulation (EC) No 97/95 of 17 January 1995 laying down detailed rules for the application of Council Regulation (EEC) No 1766/92 as regards the minimum price and compensatory payment to be paid to potato producers and of Council Regulation (EC) No 1868/94 establishing a quota system in relation to the production of potato starch</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1949:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1949:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1654</classCode>
+        <classCode scheme="eurovoc">2194</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">2548</classCode>
+        <classCode scheme="eurovoc">2681</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1949-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1949/95 of 7 August 1995 amending Commission Regulation (EC) No 97/95 of 17 January 1995 laying down detailed rules for the application of Council Regulation (EEC) No 1766/92 as regards the minimum price and compensatory payment to be paid to potato producers and of Council Regulation (EC) No 1868/94 establishing a quota system in relation to the production of potato starch</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1949/95 of 7 August 1995 amending Commission Regulation (EC) No 97/95 of 17 January 1995 laying down detailed rules for the application of Council Regulation (EEC) No 1766/92 as regards the minimum price and compensatory payment to be paid to potato producers and of Council Regulation (EC) No 1868/94 establishing a quota system in relation to the production of potato starch</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the market in cereals (1), as last amended by Regulation (EC) No 1863/95 (2), and in particular Article 8 (5) thereof,</p>
+      <p n="6">Having regard to Council Regulation (EC) No 1868/94 of 27 July 1994 establishing a quota system in relation to the production of potato starch (3), as last amended by Regulation (EC) No 1863/95, and in particular Article 8 thereof,</p>
+      <p n="7">Whereas Commission Regulation (EC) No 1664/95 (4) amends the Regulations for cereals, oilseeds and protein crops fixing before 1 February 1995 certain prices and amounts whose values in ecus have been adjusted because of the abolition of the correcting factor in agricultural conversion rates, in particular the minimum price referred to in the third indent of Article 8 (1) of Regulation (EEC) No 1766/92, the compensatory payment referred to in the third indent of Article 8 (2) of that Regulation and the amount of the premium referred to in Article 5 of Regulation (EC) No 1868/94;</p>
+      <p n="8">Whereas Annex II to Commission Regulation (EC) No 97/95 (5) fixes the minimum prices, compensatory payments and premiums corresponding to the underwater weight of 5 050 g of potatoes on the basis of their starch content; whereas that Annex should be amended as a result of the amendments introduced by Regulation (EC) No 1664/95;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committees concerned,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Annex II to Regulation (EC) No 97/95 is hereby replaced by the Annex to this Regulation.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">It shall apply from 1 July 1995.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 7 August 1995.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Martin BANGEMANN</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 181, 1. 7. 1992, p. 21.</p>
+      <p n="22">(2) OJ No L 179, 29. 7. 1995, p. 1.</p>
+      <p n="23">(3) OJ No L 197, 30. 7. 1994, p. 4.</p>
+      <p n="24">(4) OJ No L 158, 8. 7. 1995, p. 13.</p>
+      <p n="25">(5) OJ No L 16, 24. 1. 1995, p. 3.</p>
+      <p n="26">ANNEXE</p>
+      <p n="27">«ANEXO II - BILAG II - ANHANG II - ÐÁÑÁÑÔÇÌÁ ÉÉ - ANNEX II - ANNEXE II - ALLEGATO II - BIJLAGE II - ANEXO II - LIITE II - BILAGA II</p>
+      <p n="28">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

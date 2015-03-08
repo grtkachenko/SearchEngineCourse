@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32002R1496-en" n="32002R1496" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1496 English</title>
+        <title>Commission Regulation (EC) No 1496/2002 of 21 August 2002 amending Annex I (the rules of jurisdiction referred to in Article 3(2) and Article 4(2)) and Annex II (the list of competent courts and authorities) to Council Regulation (EC) No 44/2001 on jurisdiction and the recognition and enforcement of judgements in civil and commercial matters</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1496:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1496:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3526</classCode>
+        <classCode scheme="eurovoc">42</classCode>
+        <classCode scheme="eurovoc">523</classCode>
+        <classCode scheme="eurovoc">524</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">5811</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1496-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1496/2002 of 21 August 2002 amending Annex I (the rules of jurisdiction referred to in Article 3(2) and Article 4(2)) and Annex II (the list of competent courts and authorities) to Council Regulation (EC) No 44/2001 on jurisdiction and the recognition and enforcement of judgements in civil and commercial matters</head>
+      <p n="2">Commission Regulation (EC) No 1496/2002</p>
+      <p n="3">of 21 August 2002</p>
+      <p n="4">amending Annex I (the rules of jurisdiction referred to in Article 3(2) and Article 4(2)) and Annex II (the list of competent courts and authorities) to Council Regulation (EC) No 44/2001 on jurisdiction and the recognition and enforcement of judgements in civil and commercial matters</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgements in civil and commercial matters(1), and in particular Articles 3(2), 4(2), 44 and 74 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) According to Article 3(1) of the Regulation (EC) No 44/2001, persons domiciled in a Member State may only be sued in the courts of another Member State by virtue of the rules set out in sections 2 to 7 of Chapter II on jurisdiction; according to Article 3(2), in particular the rules of jurisdiction set out in Annex I shall not be applicable as against them.</p>
+      <p n="10">(2) Therefore, if a rule referred to in Annex I is abolished in a Member State, the content of the list should be modified accordingly.</p>
+      <p n="11">(3) An application for a declaration of enforceability of a judgment given in a Member State and enforceable in that State, in another Member State, should be submitted to the competent authorities listed in Annex II to Regulation (EC) No 44/2001.</p>
+      <p n="12">(4) Articles 38 et seq. and 57(4) of Regulation (EC) No 44/2001 allow that an application for a declaration of enforceability of an authentic instrument may be submitted to notaries as competent authorities.</p>
+      <p n="13">(5) Article 74 of Regulation (EC) No 44/2001 provides that Member States should notify the Commission of texts amending the list of competent authorities set out in Annexes I to IV.</p>
+      <p n="14">(6) The Netherlands has notified the Commission of an amendment to the rules of jurisdiction set in Annex I and to the list of competent courts and authorities set out in Annex II and Germany has notified the Commission of an amendment to the list of competent courts and authorities set out in Annex II; therefore, Regulation (EC) No 44/2001 should be amended accordingly,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">In Annex I to Regulation (EC) No 44/2001, the eighth indent concerning the Netherlands, shall be deleted.</p>
+      <p n="18">Article 2</p>
+      <p n="19">In Annex II to Regulation (EC) No 44/2001, "in Germany the presiding Judge of a chamber of the 'Landgericht'" shall be replaced by the following: "in Germany:</p>
+      <p n="20">(a) the presiding Judge of a chamber of the 'Landgericht';</p>
+      <p n="21">(b) a notary ('...') in a procedure of declaration of enforceability of an authentic instrument."</p>
+      <p n="22">Article 3</p>
+      <p n="23">In Annex II to Regulation (EC) No 44/2001, "in the Netherlands, the presiding Judge of the 'arrondissementsrechtbank'" shall be replaced by the following: "in the Netherlands, the 'voorzieningenrechter van de rechtbank'."</p>
+      <p n="24">Article 4</p>
+      <p n="25">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Brussels, 21 August 2002.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">António Vitorino</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 12, 16.1.2001, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

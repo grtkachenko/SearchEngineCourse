@@ -1,0 +1,58 @@
+<TEI.2 id="jrc32002D0970-en" n="32002D0970" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0970 English</title>
+        <title>2002/970/EC: Council Decision of 18 November 2002 concerning the conclusion on behalf of the European Community of the International Cocoa Agreement 2001</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0970:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0970:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2189</classCode>
+        <classCode scheme="eurovoc">2449</classCode>
+        <classCode scheme="eurovoc">3461</classCode>
+        <classCode scheme="eurovoc">5078</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0970-en." lang="en">
+    <body>
+      <head n="1">2002/970/EC: Council Decision of 18 November 2002 concerning the conclusion on behalf of the European Community of the International Cocoa Agreement 2001</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 18 November 2002</p>
+      <p n="4">concerning the conclusion on behalf of the European Community of the International Cocoa Agreement 2001</p>
+      <p n="5">(2002/970/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 in conjunction with Article 300(2) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) On 2 March 2001 the Unctad negotiating conference formally approved by way of decision the text of the International Cocoa Agreement 2001.</p>
+      <p n="11">(2) This new agreement has been negotiated to replace the International Cocoa Agreement 1993, as extended, which will remain in force until 30 September 2003 at the latest.</p>
+      <p n="12">(3) The International Cocoa Agreement 2001 is open for signature and deposit of the instruments of ratification, acceptance or approval.</p>
+      <p n="13">(4) The Community is a member of the 1993 International Agreement, as extended, and it is therefore in its interest to approve the agreement which succeeds it,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The International Cocoa Agreement 2001 is hereby approved on behalf of the European Community.</p>
+      <p n="17">The text of the Agreement is attached to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The President of the Council is hereby authorised to designate the person empowered to sign the agreement and deposit the instrument of approval on behalf of the Community.</p>
+      <p n="20">Done at Brussels, 18 November 2002.</p>
+      <p n="21">For the Council</p>
+      <p n="22">P. S. Møller</p>
+      <p n="23">The President</p>
+    </body>
+  </text>
+</TEI.2>

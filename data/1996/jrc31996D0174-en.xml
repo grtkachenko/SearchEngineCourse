@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31996D0174-en" n="31996D0174" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0174 English</title>
+        <title>96/174/EC: Council Decision of 26 February 1996 amending Decision 91/115/EEC establishing a Committee on monetary, financial and balance of payment statistics</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0174:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0174:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2510</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4263</classCode>
+        <classCode scheme="eurovoc">4671</classCode>
+        <classCode scheme="eurovoc">6050</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0174-en." lang="en">
+    <body>
+      <head n="1">96/174/EC: Council Decision of 26 February 1996 amending Decision 91/115/EEC establishing a Committee on monetary, financial and balance of payment statistics</head>
+      <p n="2">COUNCIL DECISION of 26 February 1996 amending Decision 91/115/EEC establishing a Committee on monetary, financial and balance of payment statistics (96/174/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the draft Decision submitted by the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the European Monetary Institute (3),</p>
+      <p n="8">Whereas according to Article 109f of the Treaty establishing the European Community and Article 2 of the Protocol on the Statute of the European Monetary Institute (EMI), the EMI shall contribute to the realization of the conditions necessary for the transition to the third stage of economic and monetary union by strengthening the coordination of monetary policies with a view to ensuring price stability, making the preparations required for the establishment of the European System of Central Banks (ESCB), for the conduct of a single monetary policy and for the creation of a single currency in the third stage, and overseeing the development of the ECU;</p>
+      <p n="9">Whereas according to Article 109f (3) of the Treaty establishing the European Community, at the latest by 31 December 1996, the EMI shall specify the regulatory, organizational and logistical framework necessary for the ESCB to perform its tasks in the third stage of Economic and Monetary Union, including the promotion of harmonization where necessary, of the rules and practices governing the collection, compilation and distribution of statistics in the areas within its field of competence;</p>
+      <p n="10">Whereas according to Article 5 of the ESCB Statute, the European Central Bank (ECB), assisted by the national central banks, shall collect the necessary statistical information and it shall cooperate with the Commission; whereas there is therefore a need in the second stage to prepare the appropriate cooperation within the framework of the achievement of Economic and Monetary Union;</p>
+      <p n="11">Whereas Decision 91/115/EEC (4) should be amended in consequence,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Sole Article</p>
+      <p n="14">Decision 91/115/EEC is amended as follows:</p>
+      <p n="15">1. The following Article shall be inserted:</p>
+      <p n="16">'Article 3a</p>
+      <p n="17">The Committee may express opinions on its own initiative on any questions relating to those statistics that are of common concern to the Commission and national statistical authorities, on the one hand, and the European Monetary Institute (EMI) and national central banks, on the other. In the execution of its tasks, the Committee shall give its views to all interested parties.`;</p>
+      <p n="18">2. Article 4 shall be replaced by the following:</p>
+      <p n="19">'Article 4</p>
+      <p n="20">The Committee shall be composed of one, two or three representatives per Member State, coming from the institutions principally concerned with financial, monetary and balance of payments statistics, up to three representatives of the Commission and up to three representatives of the EMI. In addition one representative of the Monetary Committee may attend the meetings of the Committee, as an observer. Each Member State, the Commission and the EMI will have one vote each.</p>
+      <p n="21">Representatives of other organizations, as well as any person able to contribute to discussions, may, on the decision of the Committee, participate in the Committee's meetings.`;</p>
+      <p n="22">3. Article 5 shall be replaced by the following:</p>
+      <p n="23">'Article 5</p>
+      <p n="24">The Committee shall elect its chairman according to the detailed rules laid down in its rules of procedure.`</p>
+      <p n="25">Done at Brussels, 26 February 1996.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">S. AGNELLI</p>
+      <p n="29">(1) OJ No C 359, 16. 12. 1994, p. 10.</p>
+      <p n="30">(2) OJ No C 269, 16. 10. 1995, p. 198.</p>
+      <p n="31">(3) OJ No C 397, 31. 12. 1994, p. 52.</p>
+      <p n="32">(4) Opinion delivered on 16 January 1995.</p>
+    </body>
+  </text>
+</TEI.2>

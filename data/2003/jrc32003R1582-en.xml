@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32003R1582-en" n="32003R1582" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1582 English</title>
+        <title>Commission Regulation (EC) No 1582/2003 of 10 September 2003 correcting Regulation (EC) No 1433/2003 laying down detailed rules for the application of Council Regulation (EC) No 2200/96 as regards operational funds, operational programmes and financial assistance</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1582:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1582:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1052</classCode>
+        <classCode scheme="eurovoc">1115</classCode>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">1602</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">3574</classCode>
+        <classCode scheme="eurovoc">5823</classCode>
+        <classCode scheme="eurovoc">922</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1582-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1582/2003 of 10 September 2003 correcting Regulation (EC) No 1433/2003 laying down detailed rules for the application of Council Regulation (EC) No 2200/96 as regards operational funds, operational programmes and financial assistance</head>
+      <p n="2">Commission Regulation (EC) No 1582/2003</p>
+      <p n="3">of 10 September 2003</p>
+      <p n="4">correcting Regulation (EC) No 1433/2003 laying down detailed rules for the application of Council Regulation (EC) No 2200/96 as regards operational funds, operational programmes and financial assistance</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Commission Regulation (EC) No 47/2003(2), and in particular Article 48 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In Article 28(1) of Commission Regulation (EC) No 1433/2003(3), laying down transitional provisions, a deadline is fixed for the requests made by producer organisations of the necessary amendments to the operational programmes approved before the entry into force of that regulation and which continue to apply in 2004.</p>
+      <p n="10">(2) A check has shown that this date is not consistent with the measure presented for an opinion to the Management Committee; therefore, this date should be corrected,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">In Article 28(1) of Regulation (EC) No 1433/2003, "15 September 2003" is replaced by "15 October 2003".</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 10 September 2003.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz Fischler</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="22">(2) OJ L 7, 11.1.2003, p. 64.</p>
+      <p n="23">(3) OJ L 203, 12.8.2003, p. 25.</p>
+    </body>
+  </text>
+</TEI.2>

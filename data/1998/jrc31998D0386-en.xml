@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31998D0386-en" n="31998D0386" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0386 English</title>
+        <title>98/386/EC, ECSC: Decision of the Council and of the Commission of 29 May 1998 concerning the conclusion of the Agreement between the European Communities and the Government of the United States of America on the application of positive comity principles in the enforcement of their competition laws</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0386:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0386:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">539</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0386-en." lang="en">
+    <body>
+      <head n="1">98/386/EC, ECSC: Decision of the Council and of the Commission of 29 May 1998 concerning the conclusion of the Agreement between the European Communities and the Government of the United States of America on the application of positive comity principles in the enforcement of their competition laws</head>
+      <p n="2">DECISION OF THE COUNCIL AND OF THE COMMISSION of 29 May 1998 concerning the conclusion of the Agreement between the European Communities and the Government of the United States of America on the application of positive comity principles in the enforcement of their competition laws (98/386/EC, ECSC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="5">Having regard to the Treaty establishing the European Community, and in particular Article 87 in conjunction with the first subparagraph of Article 228(3) thereof,</p>
+      <p n="6">Having regard to the Treaty establishing the European Coal and Steel Community, and in particular Articles 65 and 66 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="9">Whereas the Agreement of 23 September 1991 between the European Communities and the Government of the United States of America regarding the application of their competition laws, and the exchange of interpretative letters dated 31 May and 31 July 1995 in relation to that Agreement (together hereinafter referred to as 'the 1991 Agreement`), attached to Decision 95/145/EC, ECSC of the Council and the Commission (2) has contributed to coordination, cooperation and avoidance of conflicts in competition law enforcement;</p>
+      <p n="10">Whereas Article V of the 1991 Agreement, commonly referred to as the 'positive comity` Article, calls for cooperation regarding anti-competitive activities occurring in the territory of one Party that adversely affect the interests of the other Party;</p>
+      <p n="11">Whereas further elaboration of the principles of positive comity and of the implementation of those principles would enhance the 1991 Agreement's effectiveness in relation to such conduct;</p>
+      <p n="12">Whereas, to this end, the Commission has negotiated an Agreement with the Government of the United States of America on the application of positive comity principles in the enforcement of the competition rules of the European Communities and of the United States of America;</p>
+      <p n="13">Whereas the Agreement should be approved,</p>
+      <p n="14">HAVE DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Agreement between the European Communities and the Government of the United States of America on the application of positive comity principles in the enforcement of their competition laws is hereby approved on behalf of the European Community and the European Coal and Steel Community.</p>
+      <p n="17">The text of the Agreement, drawn up in the English language, is attached to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The President of the Council is hereby authorised to designate the person(s) empowered to sign the Agreement on behalf of the European Community.</p>
+      <p n="20">The President of the Commission is hereby authorised to designate the person(s) empowered to sign the Agreement on behalf of the European Coal and Steel Community.</p>
+      <p n="21">Done at Brussels, 29 May 1998.</p>
+      <p n="22">For the Council</p>
+      <p n="23">The President</p>
+      <p n="24">J. STRAW</p>
+      <p n="25">For the Commission</p>
+      <p n="26">The President</p>
+      <p n="27">J. SANTER</p>
+      <p n="28">(1) OJ C 138, 4. 5. 1998.</p>
+      <p n="29">(2) OJ L 95, 27. 4. 1995, p. 45; corrigendum OJ L 131, 15. 6. 1995, p. 38.</p>
+    </body>
+  </text>
+</TEI.2>

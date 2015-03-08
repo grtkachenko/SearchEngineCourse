@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31998L0052-en" n="31998L0052" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998L0052 English</title>
+        <title>Council Directive 98/52/EC of 13 July 1998 on the extension of Directive 97/80/EC on the burden of proof in cases of discrimination based on sex to the United Kingdom of Great Britain and Northern Ireland</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0052:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0052:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1505</classCode>
+        <classCode scheme="eurovoc">3346</classCode>
+        <classCode scheme="eurovoc">3774</classCode>
+        <classCode scheme="eurovoc">454</classCode>
+        <classCode scheme="eurovoc">5809</classCode>
+        <classCode scheme="eurovoc">688</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998L0052-en." lang="en">
+    <body>
+      <head n="1">Council Directive 98/52/EC of 13 July 1998 on the extension of Directive 97/80/EC on the burden of proof in cases of discrimination based on sex to the United Kingdom of Great Britain and Northern Ireland</head>
+      <p n="2">COUNCIL DIRECTIVE 98/52/EC of 13 July 1998 on the extension of Directive 97/80/EC on the burden of proof in cases of discrimination based on sex to the United Kingdom of Great Britain and Northern Ireland</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 100 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas the Council, acting in accordance with the Agreement on social policy annexed to Protocol 14 on social policy annexed to the EC Treaty, and in particular Article 2(2) thereof, adopted Directive 97/80/EC (4); whereas, as a result, the said Directive does not apply to the United Kingdom;</p>
+      <p n="9">Whereas the Amsterdam European Council, held on 16 and 17 June 1997, noted with approval the agreement of the Intergovernmental Conference to incorporate the Agreement on social policy in the Treaty and also noted that a means had to be found to give legal effect to the wish of the United Kingdom to accept the Directives already adopted on the basis of that Agreement and those which may be adopted before the entry into force of the Treaty of Amsterdam;</p>
+      <p n="10">Whereas, at the Council of 24 July 1997, the Council and the Commission agreed to put into effect the conclusions adopted at the Amsterdam European Council; whereas they also agreed to apply the same procedure, mutatis mutandis, to future Directives adopted on the basis of the Agreement on social policy; whereas this Directive seeks to achieve this aim by extending Directive 97/80/EC to the United Kingdom;</p>
+      <p n="11">Whereas the fact that Directive 97/80/EC is not applicable in the United Kingdom directly affects the functioning of the common market; whereas an effective implementation of the principle of equal treatment for men and women, in particular as regards the rules organizing the burden of proof in cases of discrimination based on sex, in all the Member States will improve the functioning of the common market;</p>
+      <p n="12">Whereas the adoption of this Directive will make Directive 97/80/EC applicable in the United Kingdom; whereas, from the date on which this Directive enters into force, the term 'Member States` in Directive 97/80/EC should be construed as including the United Kingdom;</p>
+      <p n="13">Whereas the United Kingdom should benefit from the same period of three years that was granted to other Member States to bring into force the necessary provisions to comply with Directive 97/80/EC,</p>
+      <p n="14">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Without prejudice to Article 2, Directive 97/80/EC shall apply to the United Kingdom of Great Britain and Northern Ireland.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The following paragraph shall be inserted after the first paragraph of Article 7 of Directive 97/80/EC:</p>
+      <p n="19">'As regards the United Kingdom of Great Britain and Northern Ireland, the date of 1 January 2001 in paragraph 1 shall be replaced by 22 July 2001.`</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Directive shall enter into force on the day of its publication.</p>
+      <p n="22">Article 4</p>
+      <p n="23">This Directive is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 13 July 1998.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">W. SCHÜSSEL</p>
+      <p n="28">(1) OJ C 332, 7. 11. 1996, p. 11.</p>
+      <p n="29">(2) OJ C 167, 1. 6. 1998.</p>
+      <p n="30">(3) OJ C 157, 25. 5. 1998, p. 64.</p>
+      <p n="31">(4) OJ L 14, 20. 1. 1998, p. 6.</p>
+    </body>
+  </text>
+</TEI.2>

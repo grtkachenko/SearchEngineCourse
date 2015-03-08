@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32002R1824-en" n="32002R1824" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1824 English</title>
+        <title>Council Regulation (EC) No 1824/2002 of 8 October 2002 amending Regulation (EC) No 2505/96 opening and providing for the administration of autonomous Community tariff quotas for certain agricultural and industrial products</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1824:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1824:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2739</classCode>
+        <classCode scheme="eurovoc">2758</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1824-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1824/2002 of 8 October 2002 amending Regulation (EC) No 2505/96 opening and providing for the administration of autonomous Community tariff quotas for certain agricultural and industrial products</head>
+      <p n="2">Council Regulation (EC) No 1824/2002</p>
+      <p n="3">of 8 October 2002</p>
+      <p n="4">amending Regulation (EC) No 2505/96 opening and providing for the administration of autonomous Community tariff quotas for certain agricultural and industrial products</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 26 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Council opened, by virtue of Regulation (EC) No 2505/96(1), Community tariff quotas for certain agricultural and industrial products. Community demand for the products in question should be met under the most favourable conditions. Community tariff quotas should therefore be opened at zero rates of duty for appropriate volumes from 1 July 2002, while avoiding any disturbance to the markets for these products.</p>
+      <p n="10">(2) Regulation (EC) No 2505/96 should therefore be amended,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The tariff quotas listed in the Annex to this Regulation shall be added to Annex I to Regulation (EC) No 2505/96.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">It shall take effect on 1 July 2002.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Luxembourg, 8 October 2002.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">T. Pedersen</p>
+      <p n="22">(1) OJ L 345, 31.12.1996, p. 1. Regulation as last amended by Commission Regulation (EC) No 1578/2002 (OJ L 236, 4.9.2002, p. 3).</p>
+      <p n="23">ANNEX</p>
+      <p n="24">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

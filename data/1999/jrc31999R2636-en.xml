@@ -1,0 +1,78 @@
+<TEI.2 id="jrc31999R2636-en" n="31999R2636" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2636 English</title>
+        <title>Commission Regulation (EC) No 2636/1999 of 14 December 1999 on the communication of information on tobacco from the 2000 harvest onwards and repealing Regulation (EEC) No 1771/93</title>
+      </titleStmt>
+      <extent>41 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2636:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2636:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1076</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4373</classCode>
+        <classCode scheme="eurovoc">5070</classCode>
+        <classCode scheme="eurovoc">5334</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2636-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2636/1999 of 14 December 1999 on the communication of information on tobacco from the 2000 harvest onwards and repealing Regulation (EEC) No 1771/93</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2636/1999</p>
+      <p n="3">of 14 December 1999</p>
+      <p n="4">on the communication of information on tobacco from the 2000 harvest onwards and repealing Regulation (EEC) No 1771/93</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2075/92 of 30 June 1992 on the common organisation of the market in raw tobacco(1), as last amended by Regulation (EC) No 660/1999(2), and in particular Article 21 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The information to be communicated under Regulation (EEC) No 2075/92 and the regulations adopted for its application should be laid down;</p>
+      <p n="10">(2) In the interests of efficient administration, this information should be grouped and a timetable established for its submission;</p>
+      <p n="11">(3) The required information on the raw tobacco sector has been communicated by the Member States under Commission Regulation (EEC) No 1771/93(3) on the communication of information on tobacco from the 1993 harvest onwards. This Regulation refers to Regulations replaced by Commission Regulation (EC) No 2848/98 of 22 December 1998 laying down detailed rules for the application of Council Regulation (EEC) No 2075/92 as regards the premium scheme, production quotas and the specific aid to be granted to producer groups in the raw tobacco sector(4), as last amended by Regulation (EC) No 2162/1999(5). Regulation (EEC) No 1771/93 should therefore be repealed;</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Tobacco,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Member States shall communicate the information set out in Annexes I to III in accordance with the time limits given therein.</p>
+      <p n="16">The information shall be provided for each harvest and for each group of varieties.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The Member States shall take the measures necessary to ensure that the economic operators concerned provide them with the information required within the relevant time limits.</p>
+      <p n="19">Article 3</p>
+      <p n="20">Information on stocks held by first processing enterprises shall be communicated in accordance with Annex III.</p>
+      <p n="21">Article 4</p>
+      <p n="22">Regulation (EEC) No 1771/93 is hereby repealed with effect from the 2000 harvest.</p>
+      <p n="23">Article 5</p>
+      <p n="24">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="25">It shall apply from the 2000 harvest.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Brussels, 14 December 1999.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">Franz FISCHLER</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 215, 30.7.1992, p. 70.</p>
+      <p n="32">(2) OJ L 83, 27.3.1999, p. 10.</p>
+      <p n="33">(3) OJ L 162, 3.7.1993, p. 13.</p>
+      <p n="34">(4) OJ L 358, 31.12.1998, p. 17.</p>
+      <p n="35">(5) OJ L 265, 13.10.1999, p. 13.</p>
+      <p n="36">ANNEX I</p>
+      <p n="37">&gt;PIC FILE= "L_1999323EN.000502.EPS"&gt;</p>
+      <p n="38">ANNEX II</p>
+      <p n="39">&gt;PIC FILE= "L_1999323EN.000602.EPS"&gt;</p>
+      <p n="40">ANNEX III</p>
+      <p n="41">&gt;PIC FILE= "L_1999323EN.000702.EPS"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

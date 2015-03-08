@@ -1,0 +1,51 @@
+<TEI.2 id="jrc31975D0320-en" n="31975D0320" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31975D0320 English</title>
+        <title>75/320/EEC: Council Decision of 20 May 1975 setting up a pharmaceutical committee</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31975D0320:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31975D0320:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31975D0320-en." lang="en">
+    <body>
+      <head n="1">75/320/EEC: Council Decision of 20 May 1975 setting up a pharmaceutical committee</head>
+      <p n="2">COUNCIL DECISION of 20 May 1975 setting up a pharmaceutical committee (75/320/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community;</p>
+      <p n="5">Having regard to the proposal from the Commission;</p>
+      <p n="6">Whereas the implementation of the measures adopted by the Council as regards the approximation of the laws relating to proprietary medicinal products for human use may raise problems which should be jointly examined;</p>
+      <p n="7">Whereas, to this end, a Committee should be set up, chaired by a representative of the Commission and composed of representatives of the Member States from those States' administrations,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">A Committee called the "Pharmaceutical Committee" shall be set up and attached to the Commission.</p>
+      <p n="11">Article 2</p>
+      <p n="12">Without prejudice to the tasks of the Committee for Proprietary Medicinal Products referred to in Article 8 of the Second Council Directive 75/319/EEC (1) of 20 May 1975 on the approximation of provisions laid down by law, regulation or administrative action relating to proprietary medicinal products, the task of this Committee shall be to examine: - any question relating to the application of Directives on proprietary medicinal products which are brought up by its Chairman - either on his initiative or at the request of the representative of a Member State;</p>
+      <p n="13">- any other question in the field of proprietary medicinal products brought up by its Chairman - either on his initiative or at the request of the representative of a Member State.</p>
+      <p n="14">The Commission shall consult the Committee when preparing proposals for Directives in the field of proprietary medicinal products, and in particular when it considers any amendments to Council Directive 65/65/EEC (2) of 26 January 1965 on the approximation of provisions laid down by law, regulation or administrative action relating to proprietary medicinal products which it might have occasion to propose.</p>
+      <p n="15">Article 3</p>
+      <p n="16">1. The Committee shall consist of senior experts in public health matters from the Member States' administrations and each Member State shall have one representative.</p>
+      <p n="17">2. There shall be one deputy for each representative. This deputy shall be entitled to participate in meetings of the Committee.</p>
+      <p n="18">3. A representative of the Commission shall chair the Committee.</p>
+      <p n="19">Article 4</p>
+      <p n="20">The Committee shall adopt its rules of procedure.</p>
+      <p n="21">Done at Brussels, 20 May 1975.</p>
+      <p n="22">For the Council</p>
+      <p n="23">The President</p>
+      <p n="24">R. RYAN (1)See page 13 of this Official Journal. (2)OJ No 22, 9.2.1965, p. 369/65.</p>
+    </body>
+  </text>
+</TEI.2>

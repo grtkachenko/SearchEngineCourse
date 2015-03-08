@@ -1,0 +1,75 @@
+<TEI.2 id="jrc31997Y1206_01-en" n="31997Y1206(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997Y1206(01) English</title>
+      </titleStmt>
+      <extent>42 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997Y1206(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997Y1206(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">5399</classCode>
+        <classCode scheme="eurovoc">5642</classCode>
+        <classCode scheme="eurovoc">5937</classCode>
+        <classCode scheme="eurovoc">92</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997Y1206_01-en." lang="en">
+    <body>
+      <p n="2">DECISION OF THE GOVERNING BOARD on public access to European Training Foundation documents (97/C 369/11)</p>
+      <p n="3">(Text with EEA relevance)</p>
+      <p n="4">THE GOVERNING BOARD OF THE EUROPEAN TRAINING FOUNDATION,</p>
+      <p n="5">Having regard to the declaration on the right of access to information annexed to the final act of the Treaty on European Union, which emphasizes that transparency of the decision-making process strengthens the democratic nature of the institutions and the public's confidence in the administration,</p>
+      <p n="6">Having regard to the conclusions wherein the European Councils in Birmingham and Edinburgh agreed on principles to promote a Community closer to its citizens,</p>
+      <p n="7">Having regard to the conclusions of the European Council in Copenhagen, reaffirming the principle of giving citizens the greatest possible access to information and calling on the Commission and the Council to adopt at an early date the necessary measures for putting this principle into practice,</p>
+      <p n="8">Whereas the said principles are without prejudice to the relevant provisions on access to files directly concerning persons with a specific interest in them;</p>
+      <p n="9">Whereas these principles will have to be implemented in full compliance with the provisions concerning classified information;</p>
+      <p n="10">Whereas this decision constitutes an additional element in the information and communication policy of the European Training Foundation,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The public will have the widest possible access to documents held by the European Training Foundation (hereinafter referred to as the Foundation).</p>
+      <p n="14">'Document` means any written text, whatever its medium, which contains existing data and is held by the Foundation.</p>
+      <p n="15">This decision does not apply to Foundation documents which are published by the Office for Official Publications of the European Community.</p>
+      <p n="16">Article 2</p>
+      <p n="17">1. All applications for access to documents shall be made in writing to the Director of the Foundation.</p>
+      <p n="18">Applications have to be made in a sufficiently precise manner; they will have to contain information that will enable the document or documents concerned to be identified.</p>
+      <p n="19">Where necessary, the Director will ask the applicant for further details.</p>
+      <p n="20">2. The Director shall inform the applicant in writing, within one month, whether the application is granted.</p>
+      <p n="21">Where a document held by the Foundation pertains to activities undertaken on the basis of an agreement which the Foundation has concluded with a Member State, a Community institution or body or any other national or international body, their consent must be sought prior to any decision.</p>
+      <p n="22">3. Failure to reply to an application for access to documents within one month constitutes a refusal.</p>
+      <p n="23">4. If the Director decides to refuse an application, the grounds for the decision must be given as well as the means of redress that are available, i.e. judicial proceedings and complaints to the Ombudsman under the provisions specified in Article 138e of the Treaty establishing, the European Community.</p>
+      <p n="24">5. The applicant will have access to documents either by consulting them on the spot or by having a copy sent at his own expense. A fee which shall not exceed a reasonable sum may be charged.</p>
+      <p n="25">If an applicant wishes to consult a document on-site, the Foundation shall try to make arrangements to accommodate him.</p>
+      <p n="26">6. In consultation with the applicants, the Foundation will find a fair solution to comply with repeat applications and/or those which relate to very large documents.</p>
+      <p n="27">7. The Foundation will be able to stipulate that a person to whom a document is released will not be allowed to reproduce or circulate the said document for commercial purposes without its prior authorization.</p>
+      <p n="28">8. Where the document held by the Foundation was written by a natural or legal person, a Member State, a Community institution or body or any other national or international body, the application must be sent to the author.</p>
+      <p n="29">Article 3</p>
+      <p n="30">The Foundation will refuse access to any document where disclosure could undermine:</p>
+      <p n="31">- the protection of the public interest (in particular public security, international relations, monetary stability, court proceedings, inspections and investigation),</p>
+      <p n="32">- the protection of the individual and of privacy,</p>
+      <p n="33">- the protection of commercial and industrial secrecy,</p>
+      <p n="34">- the protection of the Community's financial interests,</p>
+      <p n="35">- the protection of confidentiality as requested by the natural or legal persons who supplied the information or as required by the legislation of the Member State that supplied the information.</p>
+      <p n="36">The Foundation may also refuse access in order to protect its interest in the confidentiality of its proceedings.</p>
+      <p n="37">Article 4</p>
+      <p n="38">The Decision will take effect from 1 November 1997. It shall be published in the Official Journal of the European Communities and made available to the public.</p>
+      <p n="39">Done at Turin, 27 October 1997.</p>
+      <p n="40">For the Governing Board of the</p>
+      <p n="41">European Training Foundation</p>
+      <p n="42">Thomas O'DWYER</p>
+    </body>
+  </text>
+</TEI.2>

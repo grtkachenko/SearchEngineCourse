@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31999D0716-en" n="31999D0716" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0716 English</title>
+        <title>1999/716/EC: Commission Decision of 19 October 1999 amending Decision 92/486/EEC on the form of collaboration between the Animo host centre and the Member States (notified under number C(1999) 3358) (Text with EEA relevance.)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0716:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0716:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1937</classCode>
+        <classCode scheme="eurovoc">3422</classCode>
+        <classCode scheme="eurovoc">5358</classCode>
+        <classCode scheme="eurovoc">618</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0716-en." lang="en">
+    <body>
+      <head n="1">1999/716/EC: Commission Decision of 19 October 1999 amending Decision 92/486/EEC on the form of collaboration between the Animo host centre and the Member States (notified under number C(1999) 3358) (Text with EEA relevance.)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 19 October 1999</p>
+      <p n="4">amending Decision 92/486/EEC on the form of collaboration between the Animo host centre and the Member States</p>
+      <p n="5">(notified under number C(1999) 3358)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(1999/716/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning the veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market(1), as last amended by Directive 92/118/EEC(2), and in particular Article 20(3) thereof,</p>
+      <p n="11">(1) Whereas the various works carried out at Community level during studies and seminars in particular require the systems architecture of the Animo network to be revised so that a veterinary system integrating the various computer applications can be introduced;</p>
+      <p n="12">(2) Whereas Decision 92/486/EEC of 25 September 1992 establishing the form of collaboration between the Animo host centre and the Member States(3), as last amended by Decision 98/222/EC(4), should be amended to ensure the continuity of the Animo network;</p>
+      <p n="13">(3) Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee;</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Decision 92/486/EEC is amended as follows:</p>
+      <p n="17">The following paragraph 4 is added to Article 2a:</p>
+      <p n="18">"4. For the period from 1 April 1999 to 31 March 2000, the coordination authorities provided for in Article 1 shall ensure that the contracts referred to in that Article are extended for one year.</p>
+      <p n="19">The following charge shall apply in respect of this paragraph:</p>
+      <p n="20">EUR 386 per unit (central unit, local unit, border inspection post) for all the Animo units listed in Decision 96/295/EC, as last amended by Decision 98/167/EC(5)."</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision shall enter into force on 1 April 1999.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 19 October 1999.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">David BYRNE</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 224, 18.8.1990, p. 29.</p>
+      <p n="30">(2) OJ L 62, 15.3.1993, p. 49.</p>
+      <p n="31">(3) OJ L 291, 7.10.1992, p. 20.</p>
+      <p n="32">(4) OJ L 82, 19.3.1998, p. 50.</p>
+      <p n="33">(5) OJ L 62, 3.3.1998, p. 33.</p>
+    </body>
+  </text>
+</TEI.2>

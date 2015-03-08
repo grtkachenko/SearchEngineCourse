@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32000D0354-en" n="32000D0354" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0354 English</title>
+        <title>2000/354/CFSP: Council Decision of 22 May 2000 setting up a Committee for civilian aspects of crisis management</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0354:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0354:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3057</classCode>
+        <classCode scheme="eurovoc">5788</classCode>
+        <classCode scheme="eurovoc">6049</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0354-en." lang="en">
+    <body>
+      <head n="1">2000/354/CFSP: Council Decision of 22 May 2000 setting up a Committee for civilian aspects of crisis management</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 22 May 2000</p>
+      <p n="4">setting up a Committee for civilian aspects of crisis management</p>
+      <p n="5">(2000/354/CFSP)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty on European Union and in particular Article 28(1) thereof,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community and in particular Article 207 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) In the framework of the strengthening of the Common Foreign and Security Policy, and in particular of the Common European Security and Defence Policy provided for in Article 17 of the Treaty on European Union, the European Council, meeting in Helsinki on 10 and 11 December 1999 asked the Presidency, together with the Secretaray-General/High Representative to carry forward work in the General Affairs Council on all aspects of the Presidency report, including on a committee for civilian crisis management.</p>
+      <p n="11">(2) The European Council meeting in Lisbon on 23 and 24 March 2000 invited the Council to establish by or at the European Council meeting in Feira a committee for civilian crisis management.</p>
+      <p n="12">(3) Decisions regarding the tools for civilian crisis management under the EC Treaty will be taken according to the procedures provided for by that Treaty.</p>
+      <p n="13">(4) The European Council meeting in Helsinki highlighted the need to strenghten the responsiveness and efficiency of the Union's resources and tools, as well as their synergy.</p>
+      <p n="14">(5) The exchange of information and coordination of tools for civilian crisis management will, inter alia, facilitate the work of the Coordinating Mechanism in the General Secretariat of the Council, the establishment of which was approved by the European Council in Helsinki,</p>
+      <p n="15">HAS DECIDED AS FOLLOWS:</p>
+      <p n="16">Article 1</p>
+      <p n="17">A Committee for civilian aspects of crisis management consisting of representatives of Member States is hereby set up.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The Committee shall operate as a Council working party and report to the Permanent Representatives Committee. It will provide information, formulate recommendations and give advice on civilian aspects of crisis management to the interim Political and Security Committee and to the other appropriate Council bodies in accordance with their respective competencies.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision shall take effect on the date of its adoption.</p>
+      <p n="22">Article 4</p>
+      <p n="23">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="24">Done at Brussels, 22 May 2000.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">J. Gama</p>
+    </body>
+  </text>
+</TEI.2>

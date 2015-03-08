@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31996D0749-en" n="31996D0749" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0749 English</title>
+        <title>96/749/JHA: Council Decision of 16 December 1996 on monitoring the implementation of instruments adopted by the Council concerning illegal immigration, readmission, the unlawful employment of third country nationals and cooperation in the implementation of expulsion orders</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0749:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0749:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1915</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3489</classCode>
+        <classCode scheme="eurovoc">4003</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+        <classCode scheme="eurovoc">950</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0749-en." lang="en">
+    <body>
+      <head n="1">96/749/JHA: Council Decision of 16 December 1996 on monitoring the implementation of instruments adopted by the Council concerning illegal immigration, readmission, the unlawful employment of third country nationals and cooperation in the implementation of expulsion orders</head>
+      <p n="2">COUNCIL DECISION of 16 December 1996 on monitoring the implementation of instruments adopted by the Council concerning illegal immigration, readmission, the unlawful employment of third country nationals and cooperation in the implementation of expulsion orders (96/749/JHA)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty on European Union and in particular Article K.3 (2) (a) thereof,</p>
+      <p n="5">Having regard to the priority work programme adopted by the Council on 30 November 1993 in Brussels, calling in particular for the preparation of an annual report on achievements in the field of justice and home affairs and to the Council resolution on 14 October 1996, laying down the priorities for cooperation in the field of justice and home affairs for the period from 1 July 1996 to 30 June 1998 (1).</p>
+      <p n="6">Whereas Article K.1 (3) (c) of the Treaty states that Member States shall regard the combating of unauthorized immigration, residence and work by nationals of third countries on the territory of Member States as a matter of common interest;</p>
+      <p n="7">Whereas monitoring the implementation by Member States of the instruments adopted by the Council in this area will reveal the practical effect of the Council's work in this matter and provide useful lessons for its future work,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Preparation of a questionnaire</p>
+      <p n="11">Each year, the Presidency shall forward to the Member States a questionnaire designed to show how they have implemented the instruments adopted by the Council concerning illegal immigration, readmission, the unlawful employment of third country nationals and cooperation in the implementation of expulsion orders.</p>
+      <p n="12">Article 2</p>
+      <p n="13">Content of the questionnaire</p>
+      <p n="14">The questionnaire shall refer to the following matters:</p>
+      <p n="15">- provisions adopted during the preceding year by the Member States in any of the areas covered by the instruments referred to in Article 1,</p>
+      <p n="16">- any difficulties encountered in adopting such provisions,</p>
+      <p n="17">- the likelihood of provisions in the areas referred to in the first indent being adopted in the near future,</p>
+      <p n="18">- practical application of the aforementioned instruments and provisions.</p>
+      <p n="19">Article 3</p>
+      <p n="20">Evaluation of the replies</p>
+      <p n="21">A report shall be drawn up by the General Secretariat of the Council on the basis of the replies received from the Member States and shall be submitted to the Council.</p>
+      <p n="22">Article 4</p>
+      <p n="23">Implementation for the first time</p>
+      <p n="24">The first questionnaire shall be sent to the Member States no later than 30 June 1997 and shall cover the period since the entry into force of the Treaty on European Union.</p>
+      <p n="25">Done at Brussels, 16 December 1996.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">M. D. HIGGINS</p>
+      <p n="29">(1) OJ No C 319, 26. 10. 1996, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

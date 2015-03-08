@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32002D0920-en" n="32002D0920" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0920 English</title>
+        <title>2002/920/EC: Commission Decision of 25 November 2002 amending Decision 1999/710/EC, with respect to Australia, Lithuania and Slovenia for minced meat and meat preparations (Text with EEA relevance) (notified under document number C(2002) 4536)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0920:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0920:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2738</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0920-en." lang="en">
+    <body>
+      <head n="1">2002/920/EC: Commission Decision of 25 November 2002 amending Decision 1999/710/EC, with respect to Australia, Lithuania and Slovenia for minced meat and meat preparations (Text with EEA relevance) (notified under document number C(2002) 4536)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 25 November 2002</p>
+      <p n="4">amending Decision 1999/710/EC, with respect to Australia, Lithuania and Slovenia for minced meat and meat preparations</p>
+      <p n="5">(notified under document number C(2002) 4536)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/920/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Decision 95/408/EC of 22 June 1995 on the conditions for drawing up, for an interim period, provisional lists of third country establishments from which Member States are authorised to import certain products of animal origin, fishery products or live bivalve molluscs(1), as last amended by Decision 2001/4/EC(2), and in particular Article 2(4) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Provisional lists of establishments in third countries producing minced meat and meat preparations consumption have been drawn up by Commission Decision 1999/710/EC, of 15 October 1999 drawing up provisional lists of third country establishments from which Member States authorise imports of minced meat and meat preparations(3).</p>
+      <p n="13">(2) Australia, Lithuania and Slovenia have provided lists of establishments producing minced meat and meat preparations for which the competent authorities certify that the establishments are in accordance with the Community rules.</p>
+      <p n="14">(3) Provisional listing of these establishments can thus be drawn up for Australia, Lithuania and Slovenia. Decision 1999/710/EC should therefore be amended accordingly.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">In the Annex to Decision 1999/710/EC, the following rows are added:</p>
+      <p n="19">"País: Australia/Land: Australien/Land: Australien/Χώρα: Αυστραλία/Country: Australia/Pays: Australie/Paese: Australia/Land: Australië/País: Austrália/Maa: Australia/Land: Australien</p>
+      <p n="20">País: Lituania/Land: Litauen/Land: Litauen/Χώρα: Λιθουανία/Country: Lithuania/Pays: Lituanie/Paese: Lituania/Land: Litouwen/País: Lituânia/Maa: Liettua/Land: Litauen</p>
+      <p n="21">País: Eslovenia/Land: Slovenien/Land: Slowenien/Χώρα: Σλοβενία/Country: Slovenia/Pays: Slovénie/Paese: Slovenia/Land: Slovenië/País: Eslovénia/Maa: Slovenia/Land: Slovenien"</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision shall apply as from the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 25 November 2002.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">David Byrne</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 243, 11.10.1995, p. 17.</p>
+      <p n="31">(2) OJ L 2, 5.1.2001, p. 21.</p>
+      <p n="32">(3) OJ L 281, 4.11.1999, p. 82.</p>
+    </body>
+  </text>
+</TEI.2>

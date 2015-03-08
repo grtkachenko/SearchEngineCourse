@@ -1,0 +1,75 @@
+<TEI.2 id="jrc32001L0008-en" n="32001L0008" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001L0008 English</title>
+        <title>Commission Directive 2001/8/EC of 8 February 2001 replacing Annex I to Council Directive 92/109/EEC on the manufacture and placing on the market of certain substances used in the illicit manufacture of narcotic drugs and psychotropic substances</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001L0008:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001L0008:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1092</classCode>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">2739</classCode>
+        <classCode scheme="eurovoc">3355</classCode>
+        <classCode scheme="eurovoc">4306</classCode>
+        <classCode scheme="eurovoc">5914</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001L0008-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 2001/8/EC of 8 February 2001 replacing Annex I to Council Directive 92/109/EEC on the manufacture and placing on the market of certain substances used in the illicit manufacture of narcotic drugs and psychotropic substances</head>
+      <p n="2">Commission Directive 2001/8/EC</p>
+      <p n="3">of 8 February 2001</p>
+      <p n="4">replacing Annex I to Council Directive 92/109/EEC on the manufacture and placing on the market of certain substances used in the illicit manufacture of narcotic drugs and psychotropic substances</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Directive 92/109/EEC of 14 December 1992 on the manufacture and placing on the market of certain substances used in the illicit manufacture of narcotic drugs and psychotropic substances(1), as amended by Commission Directive 93/46/EEC(2), and in particular Article 10(3) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) It is necessary to give effect to the decision taken by the United Nations Commission on Narcotic Drugs in March 2000 to include the substance norephedrine in Table I of the Annex to the 1988 UN Convention.</p>
+      <p n="10">(2) It is necessary to amend Category 1 of the Annex I to the basic Directive to comply with this.</p>
+      <p n="11">(3) Such inclusion will continue the process of aligning the Directive with Council Regulation (EEC) No 3677/90 of 13 December 1990 laying down measures to discourage the diversion of certain substances to the illicit manufacture of narcotic drugs and psychotropic substances(3), as implemented and last amended by Commission Regulation (EEC) No 3769/92(4).</p>
+      <p n="12">(4) The measures provided for in this Directive are in accordance with the opinion of the Committee set up pursuant to Article 10 of Regulation (EEC) No 3677/90,</p>
+      <p n="13">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Annex I to Directive 92/109/EEC is replaced by the Annex to this Directive.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 March 2001 at the latest. They shall forthwith inform the Commission thereof.</p>
+      <p n="18">When adopted by the Member States, those provisions shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Directive is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 8 February 2001.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Erkki Liikanen</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 370, 19.12.1992, p. 76.</p>
+      <p n="28">(2) OJ L 159, 1.7.1993, p. 134.</p>
+      <p n="29">(3) OJ L 357, 20.12.1990, p. 1.</p>
+      <p n="30">(4) OJ L 383, 29.12.1992, p. 17.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">"ANNEX I</p>
+      <p n="33">CATEGORY 1</p>
+      <p n="34">&gt;TABLE&gt;</p>
+      <p n="35">CATEGORY 2</p>
+      <p n="36">&gt;TABLE&gt;</p>
+      <p n="37">CATEGORY 3</p>
+      <p n="38">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

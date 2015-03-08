@@ -1,0 +1,97 @@
+<TEI.2 id="jrc31997L0022-en" n="31997L0022" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997L0022 English</title>
+        <title>Council Directive 97/22/EC of 22 April 1997 amending Directive 92/117/EEC concerning measures for protection against specified zoonoses and specified zoonotic agents in animals and products of animal origin in order to prevent outbreaks of food-borne infections and intoxications</title>
+      </titleStmt>
+      <extent>60 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0022:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0022:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1442</classCode>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">3660</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997L0022-en." lang="en">
+    <body>
+      <head n="1">Council Directive 97/22/EC of 22 April 1997 amending Directive 92/117/EEC concerning measures for protection against specified zoonoses and specified zoonotic agents in animals and products of animal origin in order to prevent outbreaks of food-borne infections and intoxications</head>
+      <p n="2">COUNCIL DIRECTIVE 97/22/EC of 22 April 1997 amending Directive 92/117/EEC concerning measures for protection against specified zoonoses and specified zoonotic agents in animals and products of animal origin in order to prevent outbreaks of food-borne infections and intoxications</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas, in the light of the experience acquired and bearing in mind the importance accorded to the prevention and control of zoonoses, it is necessary to carry out a substantial review of Directive 92/117/EEC (4);</p>
+      <p n="9">Whereas, pending the aforementioned review, it is appropriate to provide for a postponement of the provisions concerning new rules for the reporting system for zoonoses, the establishment of methods for collecting samples and carrying out examinations, the implementation and approval of certain national measures, and the plans to be submitted by third countries,</p>
+      <p n="10">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Directive 92/117/EEC is hereby amended as follows:</p>
+      <p n="13">1. Article 5 shall be amended as follows:</p>
+      <p n="14">(a) in paragraph 1, '31 March` shall be replaced by '31 May`;</p>
+      <p n="15">(b) in paragraph 2, '1 October` shall be replaced by '1 November`;</p>
+      <p n="16">(c) paragraph 3 shall be deleted;</p>
+      <p n="17">2. in Article 6 (b), the words 'In the case of salmonella this shall be done before the date laid down in Article 17;` shall be deleted;</p>
+      <p n="18">3. Article 8 shall be amended as follows:</p>
+      <p n="19">(a) in paragraph 1, '1 October 1993` shall be replaced by '1 March 1998`;</p>
+      <p n="20">(b) the following subparagraph shall be added to paragraph 2:</p>
+      <p n="21">'However, pending the review provided for in Article 15a, the obligation to submit plans to the Commission shall be suspended in the case of those Member States which have not yet submitted such plans with regard to salmonella in poultry.`;</p>
+      <p n="22">4. Article 10 shall be amended as follows:</p>
+      <p n="23">(a) in the first and second subparagraphs of paragraph 1, '1 January 1994` shall be replaced by '1 January 1998`;</p>
+      <p n="24">(b) the third and fourth subparagraphs of paragraph 1 shall be deleted;</p>
+      <p n="25">(c) paragraph 2 shall be deleted;</p>
+      <p n="26">5. in Article 14 (2), '31 December 1995` shall be replaced by '31 December 1998`;</p>
+      <p n="27">6. in Article 15 the second subparagraph shall be deleted;</p>
+      <p n="28">7. The following Article shall be inserted:</p>
+      <p n="29">'Article 15a</p>
+      <p n="30">1. The Commission shall, before 1 November 97, submit a report to the Council concerning the measures to be implemented for the control and prevention of zoonoses. This report shall refer in particular to:</p>
+      <p n="31">- the new rules for the reporting system for zoonoses,</p>
+      <p n="32">- the methods for collecting samples and for examinations in approved national laboratories,</p>
+      <p n="33">- the control of salmonella in poultry laying flocks,</p>
+      <p n="34">- the control of salmonella in poultry breedingflocks and in compound feedingstuffs for poultry,</p>
+      <p n="35">- any measures to combat zoonoses other than salmonellosis.</p>
+      <p n="36">2. The report referred to in paragraph 1 shall be accompanied by proposals concerning zoonoses, especially in the context of the review of this Directive. The Council shall act on the proposals by a qualified majority before 1 June 1998.`;</p>
+      <p n="37">8. The following point shall be inserted in Annex III, Section I:</p>
+      <p n="38">'Va Pending the report provided for in Article 15a, Member States may waive the compulsory destruction provided for in point V.1 (b) and the slaughter requirement laid down in point V.1 (c) if they can ensure that:</p>
+      <p n="39">(i) no non-incubated eggs from a flock covered by the first paragraph of V.1 (b) are marketed, except for the purpose of treatment in accordance with Directive 89/437/EEC (*);</p>
+      <p n="40">(ii) no live poultry - including day-old chicks - can move from the flock unless they are going for immediate slaughter in accordance with the abovementioned point (c),</p>
+      <p n="41">and this until it has been established to the satisfaction of the competent authority that the infection due to Salmonella enteritidis or Salmonella typhimurium is no longer present.</p>
+      <p n="42">Member States availing themselves of the option provided for in the first subparagraph shall not be eligible for the Community financial contribution provided for in Article 29 of Decision 90/424/EEC (**).</p>
+      <p n="43">(*) OJ No L 212, 22. 7. 1989, p. 87. Directive as last amended by Directive 96/23/EC (OJ No L 125, 23. 5. 1996, p. 10).</p>
+      <p n="44">(**) OJ No L 224, 18. 8. 1990, p. 19. Decision as last amended by Decision 94/370/EC (OJ No L 168, 2. 7. 1994, p. 31).`</p>
+      <p n="45">Article 2</p>
+      <p n="46">1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 1 September 1997. They shall immediately inform the Commission thereof.</p>
+      <p n="47">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.</p>
+      <p n="48">2. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field covered by this Directive.</p>
+      <p n="49">Article 3</p>
+      <p n="50">This Directive shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="51">Article 4</p>
+      <p n="52">This Directive is addressed to the Member States.</p>
+      <p n="53">Done at Luxembourg, 22 April 1997.</p>
+      <p n="54">For the Council</p>
+      <p n="55">The President</p>
+      <p n="56">J. VAN AARTSEN</p>
+      <p n="57">(1) OJ No C 13, 18. 1. 1996, p. 23.</p>
+      <p n="58">(2) OJ No C 320, 28. 10. 1996, p. 261.</p>
+      <p n="59">(3) OJ No C 97, 1. 4. 1996, p. 29.</p>
+      <p n="60">(4) OJ No L 62, 15. 3. 1993, p. 38. Directive as amended by the 1994 Act of Accession.</p>
+    </body>
+  </text>
+</TEI.2>

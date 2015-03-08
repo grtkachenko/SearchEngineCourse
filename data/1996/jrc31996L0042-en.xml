@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31996L0042-en" n="31996L0042" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996L0042 English</title>
+        <title>Council Directive 96/42/EC of 25 June 1996 amending Directive 77/388/EEC on the common system of value added tax</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996L0042:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996L0042:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1031</classCode>
+        <classCode scheme="eurovoc">1260</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">4585</classCode>
+        <classCode scheme="eurovoc">5648</classCode>
+        <classCode scheme="eurovoc">5739</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996L0042-en." lang="en">
+    <body>
+      <head n="1">Council Directive 96/42/EC of 25 June 1996 amending Directive 77/388/EEC on the common system of value added tax</head>
+      <p n="2">COUNCIL DIRECTIVE 96/42/EC of 25 June 1996 amending Directive 77/388/EEC on the common system of value added tax</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 99 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (2),</p>
+      <p n="8">Whereas Article 12 (3) (d) of Directive 77/388/EEC (3) lays down that the rules concerning the taxation of agricultural outputs other than those falling within category 1 of Annex H are to be decided unanimously by the Council before 31 December 1994 on a proposal from the Commission; whereas, until that date, those Member States which had already been applying a reduced rate might continue to do so while those applying a standard rate could not apply a reduced rate; whereas that allowed a two-year postponement in the application of the standard rate;</p>
+      <p n="9">Whereas experience has shown that the structural imbalance in the VAT rates applicable by Member States to agricultural outputs of the floricultural and horticultural sectors has led to reported cases of fraudulent activities; whereas that structural imbalance is a direct result of the application of Article 12 (3) (d) and should be redressed accordingly;</p>
+      <p n="10">Whereas the most appropriate solution would be to extend to all Member States, on a transitional basis, the option of applying a reduced rate to supplies of agricultural outputs of the floricultural and horticultural sectors and of wood used as firewood,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Directive 77/388/EEC is hereby amended as follows:</p>
+      <p n="14">1. Article 12 (3) (d) shall be deleted;</p>
+      <p n="15">2. the following shall be inserted in Article 28 (2):</p>
+      <p n="16">'(i) Member States may apply a reduced rate to supplies of live plants (including bulbs, roots and the like, cut flowers and ornamental foliage) and wood for use as firewood.`</p>
+      <p n="17">Article 2</p>
+      <p n="18">Member States shall communicate to the Commission the text of the provisions of domestic law which they adopt in the field covered by this Directive.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Directive shall apply from 1 January 1995.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Directive is addressed to the Member States.</p>
+      <p n="23">Done at Luxembourg, 25 June 1996.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">M. PINTO</p>
+      <p n="27">(1) OJ No C 17, 22. 1. 1996, p. 26.</p>
+      <p n="28">(2) OJ No C 236, 11. 9. 1995, p. 10.</p>
+      <p n="29">(3) OJ No L 145, 13. 6. 1977, p. 1. Directive as last amended by Directive 95/7/EC (OJ No L 102, 5. 5. 1995, p. 18)</p>
+    </body>
+  </text>
+</TEI.2>

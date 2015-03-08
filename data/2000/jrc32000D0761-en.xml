@@ -1,0 +1,88 @@
+<TEI.2 id="jrc32000D0761-en" n="32000D0761" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0761 English</title>
+        <title>2000/761/EC: Commission Decision of 16 November 2000 defining the specifications of projects of common interest identified in the sector of the trans-European energy networks by Decision No 1254/96/EC of the European Parliament and of the Council (notified under document number C(2000) 2683) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>51 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0761:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0761:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1141</classCode>
+        <classCode scheme="eurovoc">1160</classCode>
+        <classCode scheme="eurovoc">4025</classCode>
+        <classCode scheme="eurovoc">5861</classCode>
+        <classCode scheme="eurovoc">5864</classCode>
+        <classCode scheme="eurovoc">747</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0761-en." lang="en">
+    <body>
+      <head n="1">2000/761/EC: Commission Decision of 16 November 2000 defining the specifications of projects of common interest identified in the sector of the trans-European energy networks by Decision No 1254/96/EC of the European Parliament and of the Council (notified under document number C(2000) 2683) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 16 November 2000</p>
+      <p n="4">defining the specifications of projects of common interest identified in the sector of the trans-European energy networks by Decision No 1254/96/EC of the European Parliament and of the Council</p>
+      <p n="5">(notified under document number C(2000) 2683)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/761/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Decision No 1254/96/EC of the European Parliament and of the Council of 5 June 1996, laying down a series of guidelines for trans-European energy networks(1), as last amended by Decision No 1741/1999/EC(2), and in particular Article 6(4) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The projects of common interest identified by Decision No 1254/96/EC should be specified by indicating their location and, where required, their main characteristics.</p>
+      <p n="13">(2) By Decision No 97/548/EC(3), the Commission has defined the specifications of the projects of common interest identified by Decision No 1254/96/EC.</p>
+      <p n="14">(3) Since projects of common interest have developed and new projects of common interest have been introduced by amendments to Decision No 1254/96/EC, those specifications should be adapted accordingly. It is therefore expedient to replace Decision No 97/548/EC.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Committee established by Article 9 of Decision No 1254/96/EC,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The specification of the projects of common interest identified by Decision No 1254/96/EC shall be as set out in the Annex to this Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">Decision No 97/548/EC is repealed.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 16 November 2000.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Loyola De Palacio</p>
+      <p n="26">Vice-President</p>
+      <p n="27">(1) OJ L 161, 29.6.1996, p. 147.</p>
+      <p n="28">(2) OJ L 207, 6.8.1999, p. 1.</p>
+      <p n="29">(3) OJ L 225, 15.8.1997, p. 25.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">TRANS-EUROPEAN ENERGY NETWORKS</p>
+      <p n="32">Specifications(1) (in the right column) of projects of common interest (in the left column) identified by Decisions No 1254/96/EC, No 1047/97/EC and No 1741/1999/EC</p>
+      <p n="33">ELECTRICITY NETWORKS</p>
+      <p n="34">(a) Connection of isolated electricity networks to European interconnected networks</p>
+      <p n="35">&gt;TABLE&gt;</p>
+      <p n="36">(b) Development of electricity interconnections between Member States</p>
+      <p n="37">&gt;TABLE&gt;</p>
+      <p n="38">(c) Development of internal electricity connections necessary to make the best use of interconnections between Member States</p>
+      <p n="39">&gt;TABLE&gt;</p>
+      <p n="40">(d) Development of electricity interconnections with third countries in Europe and the Mediterranean region helping to improve the reliability, security and supply of Community electricity networks</p>
+      <p n="41">&gt;TABLE&gt;</p>
+      <p n="42">NATURAL GAS NETWORKS</p>
+      <p n="43">(e) Introduction of natural gas into new regions</p>
+      <p n="44">&gt;TABLE&gt;</p>
+      <p n="45">(f) Connection of isolated gas networks to European interconnected networks, including the improvement of the existing networks, and connection of separate natural gas networks</p>
+      <p n="46">&gt;TABLE&gt;</p>
+      <p n="47">(g) Increasing reception (LNG) and storage capacities necessary to satisfy demand, and diversification of supply sources and routes for natural gas</p>
+      <p n="48">&gt;TABLE&gt;</p>
+      <p n="49">(h) Increasing transmission capacity (gas delivery pipelines) necessary to meet demand and diversification of supply sources and routes for natural gas</p>
+      <p n="50">&gt;TABLE&gt;</p>
+      <p n="51">(1) All projects in the list below are specified without prejudice to the results of the Environmental Impact Assessment for the projects.</p>
+    </body>
+  </text>
+</TEI.2>

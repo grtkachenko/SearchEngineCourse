@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32003D0520-en" n="32003D0520" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0520 English</title>
+        <title>2003/520/EC: Council Decision of 16 June 2003 concluding the Agreement between the European Community and the Government of Japan concerning cooperation on anti-competitive activities</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0520:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0520:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1524</classCode>
+        <classCode scheme="eurovoc">3581</classCode>
+        <classCode scheme="eurovoc">539</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0520-en." lang="en">
+    <body>
+      <head n="1">2003/520/EC: Council Decision of 16 June 2003 concluding the Agreement between the European Community and the Government of Japan concerning cooperation on anti-competitive activities</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 16 June 2003</p>
+      <p n="4">concluding the Agreement between the European Community and the Government of Japan concerning cooperation on anti-competitive activities</p>
+      <p n="5">(2003/520/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Articles 83 and 308, in conjunction with the first subparagraph of Article 300(3) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Given the increasingly pronounced international dimension to competition problems, international cooperation in this field should be strengthened.</p>
+      <p n="12">(2) The sound and effective enforcement of competition laws is a matter of importance to the efficient operation of the markets and to international trade.</p>
+      <p n="13">(3) Elaboration of the principles of positive comity in international law and implementation of those principles in the enforcement of the competition laws of the European Community and Japan are likely to increase the effectiveness in their application.</p>
+      <p n="14">(4) To this end, the Commission has negotiated an Agreement with Japan regarding the application of the competition rules of the European Community and Japan.</p>
+      <p n="15">(5) Article 308 of the Treaty must be invoked owing to the inclusion in the text of the Agreement of mergers and acquisitions which are covered by Council Regulation (EEC) No 4064/89 of 21 December 1989 on the control of concentrations between undertakings(3), which in turn is essentially based on Article 308.</p>
+      <p n="16">(6) The Agreement should be approved,</p>
+      <p n="17">HAS DECIDED AS FOLLOWS:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The Agreement between the European Community and the Government of Japan concerning cooperation on anti-competitive activities is hereby approved on behalf of the European Community</p>
+      <p n="20">The text of the Agreement is attached to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">The President of the Council is hereby authorised to designate the person(s) empowered to sign the Agreement on behalf of the European Community(4).</p>
+      <p n="23">Done at Luxembourg, 16 June 2003.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">G. Papandreou</p>
+      <p n="27">(1) Proposal of 8 May 2002 (not yet published in the Official Journal).</p>
+      <p n="28">(2) Opinion of 3 July 2002 (not yet published in the Official Journal).</p>
+      <p n="29">(3) OJ L 395, 30.12.1989, p. 1 (Corrigendum: OJ L 257, 21.9.1990, p. 13), as amended by Council Regulation (EC) No 1310/97 (OJ L 180, 9.7.1997, p. 1).</p>
+      <p n="30">(4) In accordance with Article 12(1), this Agreement will enter into force on 9 August 2003.</p>
+    </body>
+  </text>
+</TEI.2>

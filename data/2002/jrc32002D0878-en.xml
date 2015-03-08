@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32002D0878-en" n="32002D0878" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0878 English</title>
+        <title>2002/878/EC: Commission Decision of 6 November 2002 establishing the sampling plans and diagnostic methods for the detection and confirmation of the presence of the mollusc diseases Bonamiosis (Bonamia ostreae) and Marteiliosis (Marteilia refringens) (Text with EEA relevance) (notified under document number C(2002) 4327)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0878:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0878:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">1961</classCode>
+        <classCode scheme="eurovoc">5305</classCode>
+        <classCode scheme="eurovoc">623</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0878-en." lang="en">
+    <body>
+      <head n="1">2002/878/EC: Commission Decision of 6 November 2002 establishing the sampling plans and diagnostic methods for the detection and confirmation of the presence of the mollusc diseases Bonamiosis (Bonamia ostreae) and Marteiliosis (Marteilia refringens) (Text with EEA relevance) (notified under document number C(2002) 4327)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 6 November 2002</p>
+      <p n="4">establishing the sampling plans and diagnostic methods for the detection and confirmation of the presence of the mollusc diseases Bonamiosis (Bonamia ostreae) and Marteiliosis (Marteilia refringens)</p>
+      <p n="5">(notified under document number C(2002) 4327)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/878/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/67/EEC of 28 January 1991 concerning the animal health conditions governing the placing on the market of aquaculture animals and products(1), as last amended by Directive 98/45/EC(2), and in particular Article 15 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) In order to take into account developments in scientific knowledge, practical experience and international guidelines, the plans and methods laid down by Commission Decision 94/306/EC of 16 May 1994 laying down the sampling plans and diagnostic methods for the detection and confirmation of certain mollusc diseases(3) need to be updated.</p>
+      <p n="13">(2) Experts have agreed that the sampling plans and diagnostic methods laid down in the current edition of the International Office of Epizootics (OIE) Diagnostic Manual for Aquatic Animal Diseases as regards Bonamiosis (Bonamia ostreae) and Marteiliosis (Marteilia refringens) and as regards abnormal mortality are appropriate. Therefore, sampling and diagnosis for these diseases in relation to recognition of approved zones and farms and for the examination of stocks where abnormal mortalities occur should be carried out in line with the Third Edition, 2000, of this Manual.</p>
+      <p n="14">(3) Decision 94/306/EC should therefore be repealed and replaced by this Decision.</p>
+      <p n="15">(4) A sufficient period of time should be provided for the implementation of these new requirements.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The sampling and diagnostic methods to be carried out for the detection and confirmation of bonamiosis (Bonamia ostreae) and marteiliosis (Marteilia refringens) in molluscs in the case of abnormal mortality and for the recognition of approved (free) zones and farms are laid down in the Annex.</p>
+      <p n="20">Article 2</p>
+      <p n="21">Decision 94/306/EC is repealed.</p>
+      <p n="22">References to the repealed Decision shall be construed as references to this Decision.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision shall apply from 6 January 2003.</p>
+      <p n="25">Article 4</p>
+      <p n="26">This Decision is addressed to the Member States.</p>
+      <p n="27">Done at Brussels, 6 November 2002.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">David Byrne</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 46, 19.2.1991, p. 1.</p>
+      <p n="32">(2) OJ L 189, 3.7.1998, p. 12.</p>
+      <p n="33">(3) OJ L 133, 28.5.1994, p. 51.</p>
+      <p n="34">ANNEX</p>
+      <p n="35">Sampling and diagnostic methods for the detection and confirmation of bonamiosis (bonamia ostreae) and marteiliosis (marteilia refringens)</p>
+      <p n="36">The sampling and diagnostic methods to be carried out, including the techniques, examination procedures and media used, their standardisation and the interpretation of the results, for the detection and confirmation of bonamiosis (Bonamia ostreae) and marteiliosis (Marteilia refringens) in molluscs in the case of abnormal mortality and for the recognition of approved (free) zones and farms must conform to those specified in the OIE Diagnostic Manual for Aquatic Animal Diseases Third Edition, 2000, Part 3 Diseases of molluscs: Chapter I.2 (General information), Chapter 3.1.1 (bonamiosis) and Chapter 3.1.3 (marteiliosis).</p>
+    </body>
+  </text>
+</TEI.2>

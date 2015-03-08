@@ -1,0 +1,80 @@
+<TEI.2 id="jrc31998R1688-en" n="31998R1688" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1688 English</title>
+        <title>Council Regulation (EC) No 1688/98 of 20 July 1998 amending Commission Regulation (EC) No 1749/96 concerning the geographic and population coverage of the harmonised index of consumer prices</title>
+      </titleStmt>
+      <extent>44 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1688:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1688:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1354</classCode>
+        <classCode scheme="eurovoc">2636</classCode>
+        <classCode scheme="eurovoc">3193</classCode>
+        <classCode scheme="eurovoc">5155</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1688-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1688/98 of 20 July 1998 amending Commission Regulation (EC) No 1749/96 concerning the geographic and population coverage of the harmonised index of consumer prices</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1688/98 of 20 July 1998 amending Commission Regulation (EC) No 1749/96 concerning the geographic and population coverage of the harmonised index of consumer prices</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2494/95 of 23 October 1995 concerning harmonised indices of consumer prices (1), and in particular Article 4 and Article 5(3) thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Having regard to the opinion of the European Central Bank (2),</p>
+      <p n="8">Whereas, by virtue of Article 5(1)(b) of Regulation (EC) No 2494/95, each Member State is required to produce a harmonised index of consumer prices (HICP) starting with the index for January 1997; whereas the requirement to produce HICPS in no way puts in question the right of Member States to publish their national, non-harmonised, inflation indices, which they may wish to use for national policy purposes;</p>
+      <p n="9">Whereas Commission Regulation (EC) No 1749/96 of 9 September on initial implementing measures for Council Regulation (EC) No 2494/95 concerning harmonised indices of consumer prices (3) set down the initial coverage for HICPs that was restricted to those goods and services covered by all or most national consumer prices indices (CPIs);</p>
+      <p n="10">Whereas Council Regulation (EC) No 1687/98 of 20 July 1998, amending Commission Regulation (EC) No 1749/96 concerning the coverage of goods and services of the harmonised index of consumer prices (4) defined the coverage of the HICP as those goods and services which are included in household final monetary consumption expenditure;</p>
+      <p n="11">Whereas Article 3 of Regulation (EC) No 2494/95 requires that the HICP should be based on the prices of goods and services available for purchase in the economic territory of the Member State for the purposes of directly satisfying consumer needs; whereas the weights of the HICP require a harmonised definition of their geographic and population coverage;</p>
+      <p n="12">Whereas the compilation of the Monetary Union index of consumer prices (MUICP) and the European index of consumer prices (EICP) requires a harmonised geographic concept for the HICPs;</p>
+      <p n="13">Whereas the Statistical Programme Committee (SPC) has not delivered an opinion within the time limit set by its chairman; whereas, in this case, following the procedure laid down in Article 14(2) of Regulation (EC) No 2494/95, the Commission shall, without delay, submit to the Council a proposal relating to the measures to be taken,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EC) No 1749/96 shall be amended as follows:</p>
+      <p n="17">1. Subparagraph (a)(2) of Article 2 shall be replaced by the following:</p>
+      <p n="18">'(a)(2) "Household final monetary consumption expenditure" is defined as that part of final consumption expenditure which is incurred:</p>
+      <p n="19">- by households irrespective of nationality or residence status, and</p>
+      <p n="20">- in monetary transactions, and</p>
+      <p n="21">- on the economic territory of the Member State, and</p>
+      <p n="22">- on goods and services that are used for the direct satisfaction of individual needs or wants, and</p>
+      <p n="23">- in one or both of the time periods being compared.</p>
+      <p n="24">Household final monetary consumption expenditure is specified in Annex 1b and follows the definitions laid down in the European System of Accounts (ESA) 1995 contained in Regulation (EC) No 2223/96 (*).</p>
+      <p n="25">(*) OJ L 310, 13.11.1996, p. 1.`;</p>
+      <p n="26">2. the following paragraph shall be added to Article 3:</p>
+      <p n="27">'3. HICPs compiled using sub-index weights which reflect final monetary consumption expenditure of a sub-set of households, rather than of all households, shall be deemed comparable, where this difference in practice accounts for less than one part in a thousand of the total expenditure covered by the HICP. Any amendments of the weights necessary to secure comparability as defined in this paragraph shall be implemented by December 1999 at the latest.`;</p>
+      <p n="28">3. in Annex 1b paragraphs 1 and 2 shall be replaced by the following:</p>
+      <p n="29">'1. The household sector consists of households which include all individuals or groups of individuals (as defined in ESA 2.76.a and 2.76.b) irrespective of, in particular, the type of area in which they live, their position in the income distribution and their nationality or residence status. It includes individuals living in institutional households (as defined in ESA 2.76.b). It does not include businesses.</p>
+      <p n="30">2. The economic territory is as defined in ESA 2.05 except that the extraterritorial enclaves situated within the boundaries of the country are included and the territorial enclaves situated in the rest of the world are excluded.`</p>
+      <p n="31">Article 2</p>
+      <p n="32">Taking into account the views of the committee set up by Decision 89/382/EEC, Euratom (5), the Commission shall, within two years of the date of entry into force of this Regulation, compile a report and submit it to the Council. The report shall assess the operation of the provisions of this Regulation. Following this report the Commission may, if necessary, submit appropriate initiatives to the Council for the modification of this Regulation.</p>
+      <p n="33">Article 3</p>
+      <p n="34">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="35">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="36">Done at Brussels, 20 July 1998.</p>
+      <p n="37">For the Council</p>
+      <p n="38">The President</p>
+      <p n="39">W. MOLTERER</p>
+      <p n="40">(1) OJ L 257, 27. 10. 1995, p. 1.</p>
+      <p n="41">(2) Opinion delivered on 14 July 1998 (not yet published in the Official Journal).</p>
+      <p n="42">(3) OJ L 229, 10. 9. 1996, p. 3.</p>
+      <p n="43">(4) See page 12 of this Official Journal.</p>
+      <p n="44">(5) OJ L 181, 28. 6. 1989, p. 47.</p>
+    </body>
+  </text>
+</TEI.2>

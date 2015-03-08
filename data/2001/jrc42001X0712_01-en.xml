@@ -1,0 +1,53 @@
+<TEI.2 id="jrc42001X0712_01-en" n="42001X0712(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 42001X0712(01) English</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:42001X0712(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:42001X0712(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1528</classCode>
+        <classCode scheme="eurovoc">2881</classCode>
+        <classCode scheme="eurovoc">3908</classCode>
+        <classCode scheme="eurovoc">3912</classCode>
+        <classCode scheme="eurovoc">5891</classCode>
+        <classCode scheme="eurovoc">6088</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc42001X0712_01-en." lang="en">
+    <body>
+      <p n="2">Declaration by the Council and the representatives of the Governments of the Member States, meeting within the Council</p>
+      <p n="3">of 28 June 2001</p>
+      <p n="4">on combating racism and xenophobia on the Internet by intensifying work with young people</p>
+      <p n="5">(2001/C 196/01)</p>
+      <p n="6">The European Union is founded on the principles of liberty, democracy, respect for human rights, fundamental freedoms and the rule of law. Diversity and tolerance are democratic values unanimously recognised and respected in each Member State.</p>
+      <p n="7">Anti-democratic influences exploit the Internet to communicate and disseminate their messages of racism, xenophobia and other expressions of intolerance, taking advantage of the fact that young people in Europe are frequent Internet consumers. The initiative, enterprise, creativity and social solidarity of youth should be harnessed to counteract these anti-democratic attitudes on the Internet wherever they appear.</p>
+      <p n="8">Europe must combat all forms of racicm, xenophobia and related expressions of intolerance, at local, national, European and worldwide level.</p>
+      <p n="9">Therefore:</p>
+      <p n="10">THE COUNCIL AND THE REPRESENTATIVES OF THE GOVERNMENTS OF THE MEMBER STATES, MEETING WITHIN THE COUNCIL:</p>
+      <p n="11">- WELCOME the European Commission's communication entitled "Creating a safer information society by improving the security of information infrastructures and combating computer-related crime (Europe 2002)" and especially welcome the European Commission's initiative to examine the scope for action against racist and xenophobic activity on the Internet;</p>
+      <p n="12">- EMPHASISE the importance and responsibilities of schools, other relevant institutions and youth organisations in encouraging young people's direct involvement in the development of democratic values, as well as in creating opportunities for promotion of democracy, human rights and tolerance;</p>
+      <p n="13">- EMPHASISE the need, among young people, to create an understanding of the current laws concerning publication and dissemination of racist and xenophobic materal on the Internet and of the importance of a critical review of material found on the web, stressing the importance of schools and other relevant institutions and organisations in creating this understanding;</p>
+      <p n="14">- STRESS the need to involve and educate those working with young people in order to increase their awareness and understanding of problems related to intolerance and increase their ability to apply democratic values when working with young people;</p>
+      <p n="15">- EMPHASISE the importance and the need for an exchange of experience and information among the Member States, by promoting the development of the existing programmes, networks and institutions such as the European Monitoring Centre on Racism and Xenophobia involving authorities at national and local level as well as professionals in order to develop best practice in this area and the Community action plan on promoting the safer use of Internet;</p>
+      <p n="16">- STRESS that efforts should be employed to harness the initiative and creativity of young people with a view to rejecting and counteracting racism, xenophobia and related expressions of intolerance to be found on the web;</p>
+      <p n="17">- EMPHASISE the need of encourage Internet service providers based in the Union to provide means for the public to report racist and xenophobic contents that they encounter on the Internet;</p>
+      <p n="18">- EMPHASISE the need to encourage cooperation between Internet service providers - i.e. access providers and web hosts - and police and legal authorities in the Member States, in order to combat racist and xenophobic material on the Internet.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32001R1239-en" n="32001R1239" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1239 English</title>
+        <title>Council Regulation (EC) No 1239/2001 of 19 June 2001 rectifying Regulation (EC) No 2201/96 on the common organisation of the markets in processed fruit and vegetable products</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1239:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1239:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2730</classCode>
+        <classCode scheme="eurovoc">2962</classCode>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+        <classCode scheme="eurovoc">979</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1239-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1239/2001 of 19 June 2001 rectifying Regulation (EC) No 2201/96 on the common organisation of the markets in processed fruit and vegetable products</head>
+      <p n="2">Council Regulation (EC) No 1239/2001</p>
+      <p n="3">of 19 June 2001</p>
+      <p n="4">rectifying Regulation (EC) No 2201/96 on the common organisation of the markets in processed fruit and vegetable products</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Articles 36 and 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Regulation (EC) No 2699/2000(2) inter alia amended Title I of Regulation (EC) No 2201/96(3) and accordingly adjusted, without changing the content, the provisions governing the aid scheme for the processing of dried figs and prunes derived from d'Ente plums. The scheme, which was previously included in Articles 2 to 6 of Regulation (EC) No 2201/96, is currently established by Article 6a of that Regulation. To take account of this new presentation, the text of Article 31 of the said Regulation, which identifies the expenditure to be funded by the Guarantee Section of the European Agriculture Guidance and Guarantee Fund (EAGGF), should be amended.</p>
+      <p n="11">(2) In the same Article 31 the reference to Regulation (EEC) No 729/70(4), which has been repealed, should be replaced by a reference to Council Regulation (EC) No 1258/1999 of 17 May 1999 on the financing of the common agricultural policy(5),</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Article 31 of Regulation (EC) No 2201/96 shall be replaced by the following: "Article 31</p>
+      <p n="15">Expenditure incurred under Article 2, Article 6a, Article 7, Article 9(4) and (5) and Article 10(3) shall be deemed to be intervention to stabilise the agricultural markets within the meaning of point (b) of Article 1(2) of Council Regulation (EC) No 1258/1999 of 17 May 1999 on the financing of the common agricultural policy(6)."</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Luxembourg, 19 June 2001.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">M. Winberg</p>
+      <p n="23">(1) Opinion delivered on 16 May 2001 (not yet published in the Official Journal).</p>
+      <p n="24">(2) OJ L 311, 12.12.2000, p. 9.</p>
+      <p n="25">(3) Council Regulation (EC) No 2201/96 of 28 October 1996 on the common organisation of the markets in processed fruit and vegetable products (OJ L 297, 21.11.1996, p. 29). Regulation as last amended by Regulation (EC) No 2699/2000 (OJ L 311, 12.12.2000, p. 9).</p>
+      <p n="26">(4) Council Regulation (EEC) No 729/70 of 21 April 1970 on the financing of the common agricultural policy (OJ L 94, 28.4.1970, p. 13). Regulation as last amended by Regulation (EC) No 1287/95 (OJ L 125, 8.6.1995, p. 1).</p>
+      <p n="27">(5) OJ L 160, 26.6.1999, p. 103.</p>
+      <p n="28">(6) OJ L 160, 26.6.1999, p. 103.</p>
+    </body>
+  </text>
+</TEI.2>

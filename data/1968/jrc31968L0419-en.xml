@@ -1,0 +1,45 @@
+<TEI.2 id="jrc31968L0419-en" n="31968L0419" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31968L0419 English</title>
+        <title>Council Directive 68/419/EEC of 20 December 1968 making a third amendment to the Council Directive on the approximation of the rules of the Member States concerning the colouring matters authorized for use in foodstuffs intended for human consumption</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31968L0419:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31968L0419:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31968L0419-en." lang="en">
+    <body>
+      <head n="1">Council Directive 68/419/EEC of 20 December 1968 making a third amendment to the Council Directive on the approximation of the rules of the Member States concerning the colouring matters authorized for use in foodstuffs intended for human consumption</head>
+      <p n="2">COUNCIL DIRECTIVE of 20 December 1968 making a third amendment to the Council Directive on the approximation of the rules of the Member States concerning the colouring matters authorised for use in foodstuffs intended for human consumption (68/419/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof;</p>
+      <p n="5">Having regard to the proposal from the Commission;</p>
+      <p n="6">Whereas pursuant to Articles 2 and 12 (2) of the Council Directive of 23 October 1962 1 on the approximation of the rules of the Member States concerning the colouring matters authorised for use in foodstuffs intended for human consumption, as last amended by the Council Directive of 24 October 1967 2, Member States must, not later than 31 December 1967, prohibit the use of certain colouring matters and in particular sulphonated orcein ; whereas this prohibition must take effect before the end of 1968;</p>
+      <p n="7">Whereas it has not as yet been possible to terminate scientific research on sulphonated orcein and an additional period is required in order to complete this research;</p>
+      <p n="8">Whereas it is therefore necessary to authorise the Member States concerned to suspend application of the prohibition on the use of that colouring matter so that, in the interim, all the information needed for its definitive assessment may be obtained;</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The following sentence shall be added to Article 12 (2) of the Council Directive of 23 October 1962, as amended by Article 1 (4) of the Council Directive of 25 October 1965 3:</p>
+      <p n="12">"However, in the case of sulphonated orcein, application of the amended rules may be deferred until 1 January 1972."</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Directive is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 20 December 1968.</p>
+      <p n="16">For the Council</p>
+      <p n="17">The President</p>
+      <p n="18">V. LATTANZIO 1OJ No 115, 11.11.1962, p. 2645/62. 2OJ No 263, 30.10.1967, p. 4. 3OJ No 178, 26.10.1965, p. 2793/65.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31989R3470-en" n="31989R3470" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989R3470 English</title>
+        <title>Commission Regulation (EEC) No 3470/89 of 16 November 1989 concerning the analysis method to be used for the application of Additional Note 2 to Chapter 7 to the combined nomenclature</title>
+      </titleStmt>
+      <extent>43 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989R3470:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989R3470:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989R3470-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 3470/89 of 16 November 1989 concerning the analysis method to be used for the application of Additional Note 2 to Chapter 7 to the combined nomenclature</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 3470/89</p>
+      <p n="4">of 16 November 1989</p>
+      <p n="5">concerning the analysis method to be used for the application of Additional Note 2 to Chapter 7 to the combined nomenclature</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as last amended by Regulation (EEC) No 3469/89 (2), and in particular Article 9 thereof,</p>
+      <p n="9">Whereas, in order to ensure uniform application of the combined nomenclature (annexed to the abovementioned regulation) provisions have to be adopted for the application of Additional Note 2 to Chapter 7 to the combined nomenclature;</p>
+      <p n="10">Whereas, according to the studies carried out, the analysis method described in the Annex to this Regulation appears to be appropriate;</p>
+      <p n="11">Whereas the Nomenclature Committee has not delivered an opinion within the time limit set by its chairman,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The analysis method to be used for application of Additional Note 2 to the combined nomenclature is that contained in the Annex to the Regulation.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on 1 January 1990.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 16 November 1989.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Christiane SCRIVENER</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ No L 256, 7. 9. 1987, p. 1.</p>
+      <p n="23">(2) See page 5 of this Official Journal.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">ANALYSIS METHOD FOR THE APPLICATION OF ADDITIONAL NOTE 2 TO CHAPTER 7 OF THE COMBINED NOMENCLATURE</p>
+      <p n="26">1. Principle</p>
+      <p n="27">A weighed quantity of the pellets are dispersed in cold water, without undergoing any further physical treatment which would result in their size reduction, or any structural modification. The resulting material is sieved using a large quantity of cold water and the residue retained on the sieve is dried and weighed.</p>
+      <p n="28">The amount of product passing through the sieve (Z) is expressed as a percentage by mass of the sample, corrected to take account of the moisture content.</p>
+      <p n="29">2. Apparatus</p>
+      <p n="30">2.1. analytical balance;</p>
+      <p n="31">2.2. glass beaker, 1 1;</p>
+      <p n="32">2.3. woven metal wire cloth sieve with an aperture of 2 mm;</p>
+      <p n="33">2.4. filter paper, dried;</p>
+      <p n="34">2.5. drying oven, 40 °C;</p>
+      <p n="35">2.6. drying oven, 103 °C.</p>
+      <p n="36">3. Procedure</p>
+      <p n="37">Weigh at least 100 ± 0,1 g of a representative sample of the pellets into the beaker (2.2). Add 800 ml of cold water and allow to stand for at least 16 hours, with occasional gentle stirring.</p>
+      <p n="38">Transfer the contents of the beaker to the sieve (2.3) using a large quantity of cold water. Transfer the residue retained on the sieve to a filter paper (2.4), place in the oven (2.5) at 40 °C and dry overnight. Following the overnight drying, dry the residue in the oven (2.6) at 103 °C to constant weight.</p>
+      <p n="39">4. Calculation and expression of results</p>
+      <p n="40">1.2.3 // // Z = 100 - // r × 100 i × (100 - v) 100</p>
+      <p n="41">where</p>
+      <p n="42">1.2 // r // is the mass, in grams, of the dried sieved residue // i // is the mass, in grams, of the sample // v // is the moisture content of the sample determined according to the method in Section 1 of the Annex to Commission Directive 71/393/EEC (1).</p>
+      <p n="43">(1) OJ No L 279, 20. 12. 1971, p. 7.</p>
+    </body>
+  </text>
+</TEI.2>

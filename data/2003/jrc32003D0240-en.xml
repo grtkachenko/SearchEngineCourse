@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32003D0240-en" n="32003D0240" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0240 English</title>
+        <title>2003/240/EC: Commission Decision of 24 March 2003 amending Decision 2000/45/EC as regards the validity of the ecological criteria for the award of the Community eco-label to washing machines (Text with EEA relevance) (notified under document number C(2003) 218)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0240:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0240:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3646</classCode>
+        <classCode scheme="eurovoc">3861</classCode>
+        <classCode scheme="eurovoc">5696</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0240-en." lang="en">
+    <body>
+      <head n="1">2003/240/EC: Commission Decision of 24 March 2003 amending Decision 2000/45/EC as regards the validity of the ecological criteria for the award of the Community eco-label to washing machines (Text with EEA relevance) (notified under document number C(2003) 218)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 24 March 2003</p>
+      <p n="4">amending Decision 2000/45/EC as regards the validity of the ecological criteria for the award of the Community eco-label to washing machines</p>
+      <p n="5">(notified under document number C(2003) 218)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/240/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Regulation (EC) No 1980/2000 of the European Parliament and of the Council of 17 July 2000 on a revised Community eco-label award scheme(1), and in particular the second subparagraph of Article 6(1) thereof,</p>
+      <p n="11">After consulting the European Union Eco-labelling Board,</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) Under Regulation (EC) No 1980/2000 the Community eco-label may be awarded to a product possessing characteristics which enable it to contribute significantly to improvements in relation to key environmental aspects.</p>
+      <p n="14">(2) Regulation (EC) No 1980/2000 provides that specific eco-label criteria are to be established according to product groups.</p>
+      <p n="15">(3) It also provides that a review of the eco-label criteria, as well as of the assessment and verification requirements related to the criteria, is to take place in due time before the end of the period of validity of the criteria specified for each product group.</p>
+      <p n="16">(4) Following the review of Commission Decision 2000/45/EC(2), it is appropriate to prolong the period of validity of those ecological criteria for a period of three years.</p>
+      <p n="17">(5) Decision 2000/45/EC should therefore be amended accordingly.</p>
+      <p n="18">(6) The measures provided for in this Decision are in accordance with the opinion of the Committee set up under Article 17 of Regulation (EC) No 1980/2000,</p>
+      <p n="19">HAS ADOPTED THIS DECISION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Article 3 of Decision 2000/45/EC is replaced by the following:</p>
+      <p n="22">"Article 3</p>
+      <p n="23">The product group definition and the criteria for the product group shall be valid from the day of notification of this Decision until 30 November 2005. If, however, by that date a new decision establishing the product group definition and the criteria for this product group has not yet been adopted, that period of validity shall instead end either on 30 November 2006 or on the date of adoption of the new decision, whichever is sooner."</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 24 March 2003.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Margot Wallström</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 237, 21.9.2000, p. 1.</p>
+      <p n="31">(2) OJ L 16, 21.1.2000, p. 74.</p>
+    </body>
+  </text>
+</TEI.2>

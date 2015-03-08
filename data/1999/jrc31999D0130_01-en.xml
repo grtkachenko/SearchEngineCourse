@@ -1,0 +1,50 @@
+<TEI.2 id="jrc31999D0130_01-en" n="31999D0130(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0130(01) English</title>
+      </titleStmt>
+      <extent>17 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0130(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0130(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1432</classCode>
+        <classCode scheme="eurovoc">3943</classCode>
+        <classCode scheme="eurovoc">5630</classCode>
+        <classCode scheme="eurovoc">5933</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0130_01-en." lang="en">
+    <body>
+      <p n="2">COUNCIL DECISION of 3 December 1998 supplementing the definition of the form of crime 'traffic in human beings` in the Annex to the Europol Convention (1999/C 26/05)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to Article 43(3) of the Convention based on Article K.3 of the Treaty on European Union on the establishment of a European Police Office (Europol Convention) (1),</p>
+      <p n="5">Recalling the agreement within the Council on 4 December 1997 to supplement the definition of the form of crime 'traffic in human beings` in the Annex to the Europol Convention,</p>
+      <p n="6">After discussion of the matter by the Europol Management Board,</p>
+      <p n="7">HAS DECIDED AS FOLLOWS:</p>
+      <p n="8">Article 1</p>
+      <p n="9">The definition of the form of crime 'traffic in human beings` in the Annex to the Europol Convention is hereby supplemented so as to read as follows:</p>
+      <p n="10">'- "traffic in human beings" means subjection of a person to the real and illegal sway of other persons by using violence or menaces or by abuse of authority or intrigue, especially with a view to the exploitation of prostitution, forms of sexual exploitation and assault of minors or trade in abandoned children. These forms of exploitation also include the production, sale or distribution of child-pornography material;`.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Decision shall enter into force on 1 January 1999.</p>
+      <p n="13">Done at Brussels, 3 December 1998.</p>
+      <p n="14">For the Council</p>
+      <p n="15">The President</p>
+      <p n="16">K. SCHLÖGL</p>
+      <p n="17">(1) OJ C 316, 27.11.1995, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

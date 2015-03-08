@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31996D0572-en" n="31996D0572" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0572 English</title>
+        <title>96/572/EC: Commission Decision of 24 September 1996 amending Commission Decisions 91/270/EEC and 92/471/EEC on the importation of embryos of domestic animals of the bovine species from Argentina (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0572:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0572:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2525</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">5608</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0572-en." lang="en">
+    <body>
+      <head n="1">96/572/EC: Commission Decision of 24 September 1996 amending Commission Decisions 91/270/EEC and 92/471/EEC on the importation of embryos of domestic animals of the bovine species from Argentina (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 24 September 1996 amending Commission Decisions 91/270/EEC and 92/471/EEC on the importation of embryos of domestic animals of the bovine species from Argentina (Text with EEA relevance) (96/572/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 89/556/EEC of 25 September 1989 on animal health conditions governing intra-Community trade in, and importation from third countries of embryos of domestic animals of the bovine species (1) as last amended by Directive 94/113/EC (2) and in particular Articles 7, 9 and 10 thereof,</p>
+      <p n="6">Whereas a list of third countries from which Member States authorize importation of embryos of domestic animals of the bovine species appears in Commission Decision 91/270/EEC (3) as amended by Decision 94/453/EC (4);</p>
+      <p n="7">Whereas the animal health conditions and veterinary certification for importation of bovine embryos from third countries are laid down in Commission Decision 92/471/EEC (5) as last amended by Decision 94/453/EC;</p>
+      <p n="8">Whereas the competent authorities of Argentina have undertaken to notify the Commission and the Member States by telex or fax within 24 hours of the confirmation of the occurrence of any of the following diseases: rinderpest, foot-and-mouth disease, contagious bovine pleuropneumonia, bluetongue, epizootic haemorrhagic disease, Rift Valley fever and contagious vesicular stomatitis or changes in the policy of vaccination against them;</p>
+      <p n="9">Whereas the animal health situation in Argentina is satisfactory from the point of view of imports of bovine embryos;</p>
+      <p n="10">Whereas the veterinary services in that country are well-structured and organized and whereas the guarantees as to compliance with the rules laid down in Directive 89/556/EEC were given by the competent authorities of that country;</p>
+      <p n="11">Whereas the competent authorities of Argentina have undertaken to ensure that the embryos have been collected or produced and processed by approved and supervised embryo collection or production teams, that they have, as appropriate, been obtained from animals of satisfactory health status, that they have been stored and transported in accordance with the rules which preserve their health status and are accompanied during transport by an animal health certificate in order to ensure that this obligation has been fulfilled;</p>
+      <p n="12">Whereas the list of third countries from which Member States authorize importation of embryos of domestic animals of the bovine species should be amended and the animal health conditions for importation of embryos from Argentina should be laid down;</p>
+      <p n="13">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">To the list of countries appearing in the Annex to Decision 91/270/EEC, the following country is added:</p>
+      <p n="17">'Argentina`.</p>
+      <p n="18">Article 2</p>
+      <p n="19">To the list of countries appearing in Annex A, Part II, to Decision 92/471/EEC, the following country is added:</p>
+      <p n="20">'Argentina`.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Decision shall apply from the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="23">Article 4</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 24 September 1996.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz FISCHLER</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ No L 302, 19. 10. 1989, p. 1.</p>
+      <p n="30">(2) OJ No L 53, 24. 2. 1994, p. 23.</p>
+      <p n="31">(3) OJ No L 134, 29. 5. 1991, p. 56.</p>
+      <p n="32">(4) OJ No L 187, 22. 7. 1994, p. 11.</p>
+      <p n="33">(5) OJ No L 270, 15. 9. 1992, p. 27.</p>
+    </body>
+  </text>
+</TEI.2>

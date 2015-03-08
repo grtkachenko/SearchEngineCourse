@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32004D0007-en" n="32004D0007" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0007 English</title>
+        <title>2004/7/EC: Commission Decision of 5 November 2003 amending Decision 2001/527/EC establishing the Committee of European Securities Regulators (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0007:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0007:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3165</classCode>
+        <classCode scheme="eurovoc">4646</classCode>
+        <classCode scheme="eurovoc">6049</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0007-en." lang="en">
+    <body>
+      <head n="1">2004/7/EC: Commission Decision of 5 November 2003 amending Decision 2001/527/EC establishing the Committee of European Securities Regulators (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 5 November 2003</p>
+      <p n="4">amending Decision 2001/527/EC establishing the Committee of European Securities Regulators</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">(2004/7/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) In June 2001, the Commission adopted Decisions 2001/527/EC(1) and 2001/528/EC(2), setting up the Committee of European Securities Regulators and the European Securities Committee respectively.</p>
+      <p n="11">(2) In its Resolutions of 5 February 2002 and 21 November 2002, the European Parliament endorsed the four-level regulatory framework advocated in the Final Report of the Committee of Wise Men on the regulation of European securities markets and called for certain aspects of that approach to be extended to the banking and insurance sectors, subject to a clear Council commitment to reform to guarantee a proper institutional balance.</p>
+      <p n="12">(3) Council Directive 85/611/EEC of 20 December 1985 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investments in transferable securities (UCITS)(3), as last amended by Directive 2001/108/EC of the European Parliament and of the Council(4), set up the UCITS Contact Committee in order to facilitate the harmonised implementation of that Directive through regular consultations on any practical problems arising from its application and on which exchanges of views are deemed useful, to facilitate consultation between Member States and to advise the Commission, if necessary, on amendments to be made to that Directive.</p>
+      <p n="13">(4) On 3 December 2002, the Council invited the Commission to take steps in order to transfer those functions and powers to the structures already established in the securities field.</p>
+      <p n="14">(5) The Commission has proposed a Directive amending, inter alia, Directive 85/611/EEC to delete the functions of the UCITS Contact Committee provided for by Article 53 of this Directive, and to transfer those laid down under Article 53a of the same Directive to the European Securities Committee established by Decision 2001/528/EC.</p>
+      <p n="15">(6) Such an amendment will require a corresponding and simultaneous amendment of the competences of the Committee of European Securities Regulators, as defined in Article 2 of Decision 2001/527/EC,</p>
+      <p n="16">HAS DECIDED AS FOLLOWS:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Decision 2001/527/EC is amended as follows:</p>
+      <p n="19">1. Article 2 is replaced by the following:</p>
+      <p n="20">"Article 2</p>
+      <p n="21">The role of the Committee shall be to advise the Commission, either at the Commission's request, within a time limit which the Commission may lay down according to the urgency of the matter, or on the Committee's own initiative, in particular for the preparation of draft implementing measures in the field of securities, including those relating to undertakings for collective investment in transferable securities (UCITS)."</p>
+      <p n="22">2. In Article 3, the first sentence of the first paragraph is replaced by the following:"The Committee shall be composed of high-level representatives from the national public authorities competent in the field of securities, including UCITS."</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Decision shall enter into force on the same day as the entry into force of any directive amending the functions of the UCITS Contact Committee to transfer them to the European Securities Committee.</p>
+      <p n="25">Done at Brussels, 5 November 2003.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Frederik Bolkestein</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 191, 13.7.2001, p. 43.</p>
+      <p n="30">(2) OJ L 191, 13.7.2001, p. 45.</p>
+      <p n="31">(3) OJ L 375, 31.12.1985, p. 3.</p>
+      <p n="32">(4) OJ L 41, 13.2.2002, p. 35.</p>
+    </body>
+  </text>
+</TEI.2>

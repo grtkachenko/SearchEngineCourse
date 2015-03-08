@@ -1,0 +1,53 @@
+<TEI.2 id="jrc31992L0004-en" n="31992L0004" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992L0004 English</title>
+        <title>Commission Directive 92/4/EEC of 10 February 1992 amending Council Directive 78/663/EEC laying down specific criteria of purity for emulsifiers, stabilizers, thickeners and gelling agents for use in foodstuffs</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992L0004:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992L0004:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992L0004-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 92/4/EEC of 10 February 1992 amending Council Directive 78/663/EEC laying down specific criteria of purity for emulsifiers, stabilizers, thickeners and gelling agents for use in foodstuffs</head>
+      <p n="2">COMMISSION DIRECTIVE 92/4/EEC of 10 February 1992 amending Council Directive 78/663/EEC laying down specific criteria of purity for emulsifiers, stabilizers, thickeners and gelling agents for use in foodstuffs</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 89/107/EEC of 21 December 1988 on the approximation of the laws of the Member States concerning food additives authorized for use in foodstuffs intended for human consumption (1), and in particular Article 3 (3) thereof,</p>
+      <p n="6">Whereas taking into account the specifications as adopted by the Codex Alimentarius and to take into account new production techniques, it is necessary to amend Council Directive 78/663/EEC (2), as last amended by Commission Directive 90/612/EEC (3);</p>
+      <p n="7">Whereas, in pursuance of Article 6 of Directive 89/107/EEC, the Scientific Committee of Foodstuffs was consulted on the provisions likely to affect public health;</p>
+      <p n="8">Whereas, the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Foodstuffs,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Annex to Directive 78/663/EEC is hereby amended as set out in the Annex to this Directive.</p>
+      <p n="12">Article 2</p>
+      <p n="13">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 June 1993, at the latest, and shall forthwith inform the Commission thereof.</p>
+      <p n="14">When Member States adopt these provisions, these shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. The procedure for such reference shall be laid down by Member States.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Directive is addressed to the Member States. Done at Brussels, 10 February 1992. For the Commission</p>
+      <p n="17">Martin BANGEMANN</p>
+      <p n="18">Vice-President</p>
+      <p n="19">(1) OJ No L 40, 11. 2. 1989, p. 27. (2) OJ No L 223, 14. 8. 1978, p. 7. (3) OJ No L 326, 24. 11. 1990, p. 58.</p>
+      <p n="20">ANNEX</p>
+      <p n="21">The Annex to Directive 78/663/EEC is amended as follows:</p>
+      <p n="22">Under E 473 - Sucrose esters:</p>
+      <p n="23">(a) the final sentence in the item on the chemical description is replaced by the following sentence:</p>
+      <p n="24">'No organic solvent other than dimethylsulphoxide, diméthylformamide, ethyl acetate, isopropanol, isobutanol and methylethylketon may be used in their preparation.'</p>
+      <p n="25">(b) below the point concerning the isobutanol content, the following point is added:</p>
+      <p n="26">'Methylethylketon content / not more than 10 mg/kg.'</p>
+    </body>
+  </text>
+</TEI.2>

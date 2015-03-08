@@ -1,0 +1,57 @@
+<TEI.2 id="jrc21997A0226_01-en" n="21997A0226(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 21997A0226(01) English</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21997A0226(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21997A0226(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1937</classCode>
+        <classCode scheme="eurovoc">2089</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc21997A0226_01-en." lang="en">
+    <body>
+      <p n="2">AGREEMENT IN THE FORM OF AN EXCHANGE OF LETTERS concerning the provisional application of the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products</p>
+      <p n="3">A. Letter from the Government of New Zealand</p>
+      <p n="4">Brussels, 17 December 1996</p>
+      <p n="5">Sir,</p>
+      <p n="6">With reference to the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products, I have the honour to propose to you that the European Community and New Zealand apply the provisions concerning veterinary checks and fees provided for in Articles 10 and 11 (together with Annex VIII) on a provisional basis with effect from 1 January 1997.</p>
+      <p n="7">I have the further honour to propose that all existing health certification conditions applicable as at 31 December 1996 to trade in live animals and animal products laid down in the European Community veterinary legislation and relevant New Zealand legislation continue to apply until the entry into force of the Agreement in conformity with the provisions of the second subparagraph of Article 18 (1) thereof.</p>
+      <p n="8">I should be obliged if you would confirm the European Community's agreement to such provisional application of the Agreement.</p>
+      <p n="9">Please accept, Sir, the assurance of my highest consideration.</p>
+      <p n="10">For the Government of New Zealand</p>
+      <p n="11">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="12">B. Letter from the European Community</p>
+      <p n="13">Brussels, 17 December 1996</p>
+      <p n="14">Sir,</p>
+      <p n="15">I have the honour to acknowledge receipt of your letter of today's date, which reads as follows:</p>
+      <p n="16">'With reference to the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products, I have the honour to propose to you that the European Community and New Zealand apply the provisions concerning veterinary checks and fees provided for in Articles 10 and 11 (together with Annex VIII) on a provisional basis with effect from 1 January 1997.</p>
+      <p n="17">I have the further honour to propose that all existing health certification conditions applicable as at 31 December 1996 to trade in live animals and animal products laid down in the European Community veterinary legislation and relevant New Zealand legislation continue to apply until the entry into force of the Agreement in conformity with the provisions of the second subparagraph of Article 18 (1) thereof.</p>
+      <p n="18">I should be obliged if you would confirm the European Community's agreement to such provisional application of the Agreement.`</p>
+      <p n="19">I have the honour to confirm the agreement of the European Community to the terms of your letter.</p>
+      <p n="20">Please accept, Sir, the assurance of my highest consideration.</p>
+      <p n="21">On behalf of the Council of the European Union</p>
+      <p n="22">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+    </body>
+  </text>
+</TEI.2>

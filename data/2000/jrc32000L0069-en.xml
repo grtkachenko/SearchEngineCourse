@@ -1,0 +1,238 @@
+<TEI.2 id="jrc32000L0069-en" n="32000L0069" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000L0069 English</title>
+        <title>Directive 2000/69/EC of the European Parliament and of the Council of 16 November 2000 relating to limit values for benzene and carbon monoxide in ambient air</title>
+      </titleStmt>
+      <extent>201 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000L0069:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000L0069:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1274</classCode>
+        <classCode scheme="eurovoc">177</classCode>
+        <classCode scheme="eurovoc">2213</classCode>
+        <classCode scheme="eurovoc">2522</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">3967</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000L0069-en." lang="en">
+    <body>
+      <head n="1">Directive 2000/69/EC of the European Parliament and of the Council of 16 November 2000 relating to limit values for benzene and carbon monoxide in ambient air</head>
+      <p n="2">Directive 2000/69/EC of the European Parliament and of the Council</p>
+      <p n="3">of 16 November 2000</p>
+      <p n="4">relating to limit values for benzene and carbon monoxide in ambient air</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="9">After consultation of the Committee of the Regions,</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) On the basis of principles enshrined in Article 174 of the Treaty, the European Community programme of policy and action in relation to the environment and sustainable development (the Fifth Environment Action Programme)(4), supplemented by Decision No 2179/98/EC of the European Parliament and the Council(5) on its review, envisages in particular amendments to legislation on air pollutants. That programme recommends the establishment of long-term objectives on air quality. Article 174 of the Treaty requires the precautionary principle to be applied in relation to the protection of human health and the environment.</p>
+      <p n="13">(2) Article 152 of the Treaty provides that health-protection requirements are to form a constituent part of the Community's other policies. Article 3(1)(p) of the Treaty provides that the activities of the Community are to include a contribution to the attainment of a high level of health protection.</p>
+      <p n="14">(3) Pursuant to Article 4(5) of Council Directive 96/62/EC of 27 September 1996 on ambient air quality assessment and management(6), the Council is to adopt the legislation provided for in paragraph 1 as well as the provisions laid down in paragraphs 3 and 4 of that Article.</p>
+      <p n="15">(4) Directive 96/62/EC requires that action plans be developed for zones within which concentrations of pollutants in ambient air exceed limit values, plus any temporary margins of tolerance applicable in order to ensure compliance with limit values by the dates laid down.</p>
+      <p n="16">(5) Directive 96/62/EC provides that the numerical values for limit values are to be based on the findings of work carried out by international scientific groups active in the field. The Commission is to take account of the most recent scientific research data in the epidemiological and environmental fields concerned and of the most recent advances in metrology for re-examining the elements on which limit values are based.</p>
+      <p n="17">(6) The measures necessary for the implementation of this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(7).</p>
+      <p n="18">(7) The amendments necessary for adaptation to scientific and technical progress may relate solely to criteria and techniques for the assessment of concentrations of benzene and carbon monoxide or detailed arrangements for forwarding information to the Commission, and may not have the effect of modifying limit values either directly or indirectly.</p>
+      <p n="19">(8) The limit values laid down in this Directive are minimum requirements; in accordance with Article 176 of the Treaty, Member States may maintain or introduce more stringent protective measures; in particular, stricter limit values may be introduced to protect the health of particularly vulnerable categories of the population, such as children and hospital patients. A Member State may require that limit values be attained before the dates laid down in this Directive.</p>
+      <p n="20">(9) Benzene is a human genotoxic carcinogen and there is no identifiable threshold below which there is no risk to human health.</p>
+      <p n="21">(10) However, when limit values for benzene as set by this Directive are difficult to achieve because of site-specific dispersion characteristics or relevant climatic conditions and if the application of the measures would result in severe socio-economic problems, Member States may ask the Commission for one time-limited extension under specific conditions.</p>
+      <p n="22">(11) In order to facilitate the review of this Directive in 2004, the Commission and the Member States should consider encouraging research into the effects of benzene and carbon monoxide, taking air pollution in enclosed spaces into account as well as that in outside air.</p>
+      <p n="23">(12) Standardised accurate measurement techniques and common criteria for the location of measuring stations are an important element in the assessment of ambient air quality with a view to obtaining comparable information across the Community.</p>
+      <p n="24">(13) Information on concentrations of benzene and carbon monoxide should be forwarded to the Commission as a basis for regular reports.</p>
+      <p n="25">(14) Up-to-date information on concentrations of benzene and carbon monoxide in ambient air should be readily available to the public,</p>
+      <p n="26">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="27">Article 1</p>
+      <p n="28">Objectives</p>
+      <p n="29">The objectives of this Directive shall be:</p>
+      <p n="30">(a) to establish limit values for concentrations of benzene and carbon monoxide in ambient air intended to avoid, prevent or reduce harmful effects on human health and the environment as a whole;</p>
+      <p n="31">(b) to assess concentrations of benzene and carbon monoxide in ambient air on the basis of common methods and criteria;</p>
+      <p n="32">(c) to obtain adequate information on concentrations of benzene and carbon monoxide in ambient air and ensure that it is made available to the public;</p>
+      <p n="33">(d) to maintain ambient air quality where it is good and improve it in other cases with respect to benzene and carbon monoxide.</p>
+      <p n="34">Article 2</p>
+      <p n="35">Definitions</p>
+      <p n="36">The definitions in Article 2 of Directive 96/62/EC shall apply.</p>
+      <p n="37">For the purposes of this Directive:</p>
+      <p n="38">(a) "upper assessment threshold" shall mean a level specified in Annex III, below which a combination of measurements and modelling techniques may be used to assess ambient air quality, in accordance with Article 6(3) of Directive 96/62/EC;</p>
+      <p n="39">(b) "lower assessment threshold" shall mean a level specified in Annex III, below which modelling or objective estimation techniques alone may be used to assess ambient air quality in accordance with Article 6(4) of Directive 96/62/EC;</p>
+      <p n="40">(c) "fixed measurements" shall mean measurements taken in accordance with Article 6(5) of Directive 96/62/EC.</p>
+      <p n="41">Article 3</p>
+      <p n="42">Benzene</p>
+      <p n="43">1. Member States shall take the measures necessary to ensure that concentrations of benzene in ambient air, as assessed in accordance with Article 5, do not exceed the limit value laid down in Annex I according to the dates mentioned therein.</p>
+      <p n="44">The margin of tolerance laid down in Annex I shall apply in accordance with Article 8 of Directive 96/62/EC.</p>
+      <p n="45">2. When the limit value laid down in Annex I is difficult to achieve because of site-specific dispersion characteristics or relevant climatic conditions, such as low windspeed and/or conditions conducive to evaporation, and if the application of the measures were to result in severe socio-economic problems, a Member State may ask the Commission for a time-limited extension. The Commission, acting in accordance with the procedure laid down in Article 12(2) of Directive 96/62/EC, may, at the request of a Member State and without prejudice to Article 8(3) of this Directive, grant one extension for a period of up to five years if the Member State concerned:</p>
+      <p n="46">- designates the zones and/or agglomerations concerned;</p>
+      <p n="47">- provides the necessary justification for such an extension;</p>
+      <p n="48">- demonstrates that all reasonable measures have been taken to lower the concentrations of the pollutants concerned and to minimise the area over which the limit value is exceeded, and</p>
+      <p n="49">- outlines the future developments with regard to the measures which it will take according to Article 8(3) of Directive 96/62/EC.</p>
+      <p n="50">The limit value for benzene to be granted during that time-limited extension shall, however, not exceed 10 μg/m3.</p>
+      <p n="51">Article 4</p>
+      <p n="52">Carbon monoxide</p>
+      <p n="53">Member States shall take the measures necessary to ensure that concentrations of carbon monoxide in ambient air, as assessed in accordance with Article 5, do not exceed the limit value laid down in Annex II according to the dates mentioned therein.</p>
+      <p n="54">The margin of tolerance laid down in Annex II shall apply in accordance with Article 8 of Directive 96/62/EC.</p>
+      <p n="55">Article 5</p>
+      <p n="56">Assessment of concentrations</p>
+      <p n="57">1. The upper and lower assessment thresholds for benzene and carbon monoxide shall be those laid down in Section I of Annex III.</p>
+      <p n="58">The classification of each zone or agglomeration for the purposes of Article 6 of Directive 96/62/EEC shall be reviewed at least every five years in accordance with the procedure laid down in Section II of Annex III to this Directive. Classification shall be reviewed earlier in the event of significant change in activities relevant to ambient concentrations of benzene or carbon monoxide.</p>
+      <p n="59">2. The criteria for determining the location of sampling points for the measurement of benzene and carbon monoxide in ambient air shall be those listed in Annex IV. The minimum number of sampling points for fixed measurements of concentrations of each relevant pollutant shall be as laid down in Annex V, and they shall be installed in each zone or agglomeration within which measurement is required if fixed measurement is the sole source of data on concentrations within it.</p>
+      <p n="60">3. For zones and agglomerations within which information from fixed measurement stations is supplemented by information from other sources, such as emission inventories, indicative measurement methods and air quality modelling, the number of fixed measuring stations to be installed and the spatial resolution of other techniques shall be sufficient for the concentrations of air pollutants to be established in accordance with Section I of Annex IV, and Section I of Annex VI.</p>
+      <p n="61">4. For zones and agglomerations within which measurement is not required, modelling or objective-estimation techniques may be used.</p>
+      <p n="62">5. The reference methods for the analysis and the sampling of benzene and carbon monoxide shall be as laid down in Sections I and II of Annex VII. Section III of Annex VII will set out reference techniques for air quality modelling when such techniques are available.</p>
+      <p n="63">6. The date by which Member States shall inform the Commission of the methods used for the preliminary assessment of air quality under point (d) of Article 11(1) of Directive 96/62/EC shall be the date set out in Article 10 of this Directive.</p>
+      <p n="64">7. Any amendments necessary to adapt the provisions of this Article and Annexes III to VII to scientific and technical progress shall be adopted in accordance with the procedure referred to in Article 6(2) but may not result in any direct or indirect changes to limit values.</p>
+      <p n="65">Article 6</p>
+      <p n="66">Committee</p>
+      <p n="67">1. The Commission shall be assisted by the committee referred to in Article 12(2) of Directive 96/62/EC, hereinafter referred to as "the Committee".</p>
+      <p n="68">2. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.</p>
+      <p n="69">The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.</p>
+      <p n="70">3. The Committee shall adopt its rules of procedure.</p>
+      <p n="71">Article 7</p>
+      <p n="72">Public information</p>
+      <p n="73">1. Member States shall ensure that up-to-date information on ambient concentrations of benzene and carbon monoxide is routinely made available to the public as well as to appropriate organisations, such as environmental organisations, consumer organisations, organisations representing the interests of sensitive populations and other relevant health-care bodies, by means, for example, of broadcast media, press, information screens or computer-network services, teletext, telephone or fax.</p>
+      <p n="74">Information on ambient concentrations of benzene, as an average value over the last 12 months, shall be updated on at least a three-monthly basis and, wherever practicable, information shall be updated on a monthly basis. Information on ambient concentrations of carbon monoxide, as a maximum running average over eight hours, shall be updated on at least a daily basis and, wherever practicable, information shall be updated on an hourly basis.</p>
+      <p n="75">The information referred to in the second subparagraph shall at least indicate any exceedances of the concentrations stated in the limit values over the averaging periods laid down in Annexes I and II. It shall also provide a short assessment in relation to limit values and appropriate information regarding effects on health.</p>
+      <p n="76">2. When making plans or programmes available to the public under Article 8(3) of Directive 96/62/EC, Member States shall also make them available to the organisations referred to in paragraph 1 of this Article. This also includes the documentation required by Annex VI(II) of this Directive.</p>
+      <p n="77">3. Information made available to the public and to organisations under paragraphs 1 and 2 shall be clear, comprehensible and accessible.</p>
+      <p n="78">Article 8</p>
+      <p n="79">Report and review</p>
+      <p n="80">1. No later than 31 December 2004 the Commission shall submit to the European Parliament and the Council a report based on the experience acquired in the application of this Directive and, in particular, on the results of the most recent scientific research concerning the effects on human health, paying particular attention to sensitive populations, and on ecosystems of exposure to benzene and carbon monoxide, and on technological developments including the progress achieved in methods of measuring and otherwise assessing concentrations of benzene and carbon monoxide in ambient air.</p>
+      <p n="81">2. The report referred to in paragraph 1 shall take into account in particular as regards benzene and carbon monoxide:</p>
+      <p n="82">(a) current air quality and trends up to and beyond the year 2010;</p>
+      <p n="83">(b) the scope for making further reductions to polluting emissions across all relevant sources, taking account of their technical feasibility and cost-effectiveness;</p>
+      <p n="84">(c) the relationships between pollutants and opportunities for combined strategies for achieving Community air quality and related objectives;</p>
+      <p n="85">(d) current and future requirements for informing the public and for the exchange of information between Member States and Commission;</p>
+      <p n="86">(e) the experience acquired in the application of this Directive in Member States including, in particular, the conditions laid down in Annex IV under which measurement has been carried out.</p>
+      <p n="87">3. With a view to maintaining a high level of protection of human health and the environment, the report referred to in paragraph 1 shall be accompanied, if appropriate, by proposals for the amendment of this Directive which could include further extensions to the timetable for meeting the limit value for benzene in Annex I which may be agreed under Article 3(2).</p>
+      <p n="88">Article 9</p>
+      <p n="89">Penalties</p>
+      <p n="90">Member States shall determine the penalties applicable to breaches of the national provisions adopted pursuant to this Directive. The penalties shall be effective, proportionate and dissuasive.</p>
+      <p n="91">Article 10</p>
+      <p n="92">Implementation</p>
+      <p n="93">1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 13 December 2002 at the latest. They shall forthwith inform the Commission thereof.</p>
+      <p n="94">When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.</p>
+      <p n="95">2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.</p>
+      <p n="96">Article 11</p>
+      <p n="97">Entry into force</p>
+      <p n="98">This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="99">Article 12</p>
+      <p n="100">Addressees</p>
+      <p n="101">This Directive is addressed to the Member States.</p>
+      <p n="102">Done at Brussels, 16 November 2000.</p>
+      <p n="103">For the European Parliament</p>
+      <p n="104">The President</p>
+      <p n="105">N. Fontaine</p>
+      <p n="106">For the Council</p>
+      <p n="107">The President</p>
+      <p n="108">R. Schwartzenberg</p>
+      <p n="109">(1) OJ C 53, 24.2.1999, p. 8.</p>
+      <p n="110">(2) OJ C 138, 18.5.1999, p. 42.</p>
+      <p n="111">(3) Opinion of the European Parliament of 2 December 1999 (OJ C 194, 11.7.2000, p. 56), Council Common Position of 10 April 2000 (OJ C 195, 11.7.2000, p. 1) and Decision of the European Parliament of 6 July 2000 (not yet published in the Official Journal). Council Decision of 24 October 2000.</p>
+      <p n="112">(4) OJ C 138, 17.5.1993, p. 5.</p>
+      <p n="113">(5) OJ L 275, 10.10.1998, p. 1.</p>
+      <p n="114">(6) OJ L 296, 21.11.1996, p. 55.</p>
+      <p n="115">(7) OJ L 184, 17.7.1999, p. 23.</p>
+      <p n="116">ANNEX I</p>
+      <p n="117">LIMIT VALUE FOR BENZENE</p>
+      <p n="118">The limit value must be expressed in μg/m3, standardised at a temperature of 293 K and a pressure of 101,3 kPa.</p>
+      <p n="119">&gt;TABLE&gt;</p>
+      <p n="120">ANNEX II</p>
+      <p n="121">LIMIT VALUE FOR CARBON MONOXIDE</p>
+      <p n="122">The limit value must be expressed in mg/m3. The volume must be standardised at a temperature of 293 K and a pressure of 101,3 kPa.</p>
+      <p n="123">&gt;TABLE&gt;</p>
+      <p n="124">The maximum daily 8-hour mean concentration will be selected by examining 8-hour running averages, calculated from hourly data and updated each hour. Each 8-hour average so calculated will be assigned to the day on which it ends. i.e. the first calculation period for any one day will be the period from 17:00 on the previous day to 01:00 on that day; the last calculation period for any one day will be the period from 16:00 to 24:00 on that day.</p>
+      <p n="125">ANNEX III</p>
+      <p n="126">DETERMINATION OF REQUIREMENTS FOR ASSESSMENT OF CONCENTRATIONS OF BENZENE AND CARBON MONOXIDE IN AMBIENT AIR WITHIN A ZONE OR AGGLOMERATION</p>
+      <p n="127">I. Upper and lower assessment thresholds</p>
+      <p n="128">The following upper and lower assessment thresholds will apply:</p>
+      <p n="129">(a) Benzene</p>
+      <p n="130">&gt;TABLE&gt;</p>
+      <p n="131">(b) Carbon Monoxide</p>
+      <p n="132">&gt;TABLE&gt;</p>
+      <p n="133">II. Determination of exceedances of upper and lower assessment thresholds</p>
+      <p n="134">Exceedances of upper and lower assessment thresholds must be determined on the basis of concentrations during the previous five years where sufficient data are available. An assessment threshold will be deemed to have been exceeded if it has been exceeded during at least three separate years out of those previous five years.</p>
+      <p n="135">Where fewer than five years' data are available, Member States may combine measurement campaigns of short duration during the period of the year and at locations likely to be typical of the highest pollution levels with results obtained from information from emission inventories and modelling to determine exceedances of the upper and lower assessment thresholds.</p>
+      <p n="136">ANNEX IV</p>
+      <p n="137">LOCATION OF SAMPLING POINTS FOR THE MEASUREMENT OF CONCENTRATIONS OF BENZENE AND CARBON MONOXIDE IN AMBIENT AIR</p>
+      <p n="138">The following considerations will apply to fixed measurement.</p>
+      <p n="139">I. Macroscale siting</p>
+      <p n="140">Sampling points directed at the protection of human health should be sited:</p>
+      <p n="141">(i) to provide data on the areas within zones and agglomerations where the highest concentrations occur to which the population is likely to be directly or indirectly exposed for a period which is significant in relation to the averaging period of the limit value(s);</p>
+      <p n="142">(ii) to provide data on levels in other areas within the zones and agglomerations which are representative of the exposure of the general population.</p>
+      <p n="143">Sampling points should in general be sited to avoid measuring very small micro-environments in their immediate vicinity. As a guideline, a sampling point should be sited to be representative of air quality in a surrounding area of no less than 200 m2 at traffic-orientated sites and of several square kilometres at urban-background sites.</p>
+      <p n="144">Sampling points should also, where possible, be representative of similar locations not in their immediate vicinity.</p>
+      <p n="145">Account should be taken of the need to locate sampling points on islands, where that is necessary for the protection of human health.</p>
+      <p n="146">II. Microscale siting</p>
+      <p n="147">The following guidelines should be met as far as practicable:</p>
+      <p n="148">- the flow around the inlet sampling probe should be unrestricted, without any obstructions affecting the airflow in the vicinity of the sampler (normally some metres away from buildings, balconies, trees and other obstacles and at least 0,5 m from the nearest building in the case of sampling points representing air quality at the building line);</p>
+      <p n="149">- in general, the inlet sampling point should be between 1,5 m (the breathing zone) and 4 m above the ground. Higher positions (up to 8 m) may be necessary in some circumstances. Higher siting may also be appropriate if the station is representative of a large area;</p>
+      <p n="150">- the inlet probe should not be positioned in the immediate vicinity of sources in order to avoid direct intake of emissions unmixed with ambient air;</p>
+      <p n="151">- the sampler's exhaust outlet should be positioned so that recirculation of exhaust air to the sample inlet is avoided;</p>
+      <p n="152">- location of traffic-orientated samplers:</p>
+      <p n="153">- for all pollutants, such sampling points should be at least 25 metres from the edge of major junctions and at least 4 m from the centre of the nearest traffic lane;</p>
+      <p n="154">- for carbon monoxide, inlets should be no more than 5 m from the kerbside;</p>
+      <p n="155">- for benzene, inlets should be sited so as to be representative of air quality near to the building line.</p>
+      <p n="156">The following factors may also be taken into account:</p>
+      <p n="157">- interfering sources;</p>
+      <p n="158">- security;</p>
+      <p n="159">- access;</p>
+      <p n="160">- availability of electrical power and telephone communications;</p>
+      <p n="161">- visibility of the site in relation to its surroundings;</p>
+      <p n="162">- safety of public and operators;</p>
+      <p n="163">- the desirability of co-locating sampling points for different pollutants;</p>
+      <p n="164">- planning requirements.</p>
+      <p n="165">III. Documentation and review of site selection</p>
+      <p n="166">The site selection procedures should be fully documented at the classification stage by such means as compass-point photographs of the surrounding area and a detailed map. Sites should be reviewed at regular intervals with repeated documentation to ensure that selection criteria remain valid over time.</p>
+      <p n="167">ANNEX V</p>
+      <p n="168">CRITERIA FOR DETERMINING NUMBERS OF SAMPLING POINTS FOR FIXED MEASUREMENT OF CONCENTRATIONS OF BENZENE AND CARBON MONOXIDE IN AMBIENT AIR</p>
+      <p n="169">Minimum number of sampling points for fixed measurement to assess compliance with limit values for the protection of human health in zones and agglomerations where fixed measurement is the sole source of information:</p>
+      <p n="170">(a) Diffuse sources</p>
+      <p n="171">&gt;TABLE&gt;</p>
+      <p n="172">(b) Point sources</p>
+      <p n="173">For the assessment of pollution in the vicinity of point sources, the number of sampling points for fixed measurement should be calculated taking into account emission densities, the likely distribution patterns of ambient air pollution and potential exposure of the population.</p>
+      <p n="174">ANNEX VI</p>
+      <p n="175">DATA QUALITY OBJECTIVES AND COMPILATION OF RESULTS OF AIR QUALITY ASSESSMENT</p>
+      <p n="176">I. Data quality objectives</p>
+      <p n="177">The following data quality objectives, for allowed uncertainty of assessment methods, and of minimum time coverage and of data capture of measurement are provided to guide quality-assurance programmes.</p>
+      <p n="178">&gt;TABLE&gt;</p>
+      <p n="179">The uncertainty (on a 95 % confidence interval) of the assessment methods will be evaluated in accordance with the principles of the ISO Guide to the Expression of Uncertainty in Measurement (1993) or the methodology of ISO 5725:1994 or equivalent. The percentages for uncertainty in the above table are given for individual measurements averaged over the period considered by the limit value, for a 95 % confidence interval. The uncertainty for the fixed measurements should be interpreted as being applicable in the region of the appropriate limit value. Until such time as CEN standards with detailed test protocols are fully adopted, the Commission will issue, before the adoption of this Directive, the guidelines for use developed by CEN.</p>
+      <p n="180">The uncertainty for modelling and objective estimation is defined as the maximum deviation of the measured and calculated concentration levels, over the period considered, by the limit value, without taking into account the timing of the events.</p>
+      <p n="181">The requirements for minimum data capture and time coverage do not include losses of data due to the regular calibration or the normal maintenance of the instrumentation.</p>
+      <p n="182">II. Results of air quality assessment</p>
+      <p n="183">The following information should be compiled for zones or agglomerations within which sources other than measurement are employed to supplement information from measurement or as the sole means of air quality assessment:</p>
+      <p n="184">- a description of assessment activities carried out;</p>
+      <p n="185">- the specific methods used, with references to descriptions of the method;</p>
+      <p n="186">- the sources of data and information;</p>
+      <p n="187">- a description of results, including uncertainties and, in particular, the extent of any area or, if relevant, the length of road within the zone or agglomeration over which concentrations exceed limit value(s) or, as may be, limit value(s) plus applicable margin(s) of tolerance and of any area within which concentrations exceed the upper assessment threshold or the lower assessment threshold;</p>
+      <p n="188">- for limit values the object of which is the protection of human health, the population potentially exposed to concentrations in excess of the limit value.</p>
+      <p n="189">Where possible, Member States should compile maps showing concentration distributions within each zone and agglomeration.</p>
+      <p n="190">III. Standardisation</p>
+      <p n="191">For benzene and carbon monoxide the measurement result must be standardised at a temperature of 293 K and a pressure of 101,3 kPa.</p>
+      <p n="192">ANNEX VII</p>
+      <p n="193">REFERENCE METHODS FOR ASSESSMENT OF CONCENTRATIONS OF BENZENE AND CARBON MONOXIDE</p>
+      <p n="194">I. Reference method for the sampling/analysis of benzene</p>
+      <p n="195">The reference method for the measurement of benzene will be the pumped sampling method on a sorbent cartridge followed by gas chromatographic determination that is currently being standardised by CEN. In the absence of a CEN standardised method, Member States are allowed to use national standard methods based on the same measurement method.</p>
+      <p n="196">A Member State may also use any other method which it can demonstrate gives results equivalent to the above method.</p>
+      <p n="197">II. Reference method for the analysis of carbon monoxide</p>
+      <p n="198">The reference method for the measurement of carbon monoxide will be the non-dispersive infra-red spectometric (NDIR) method, that is currently being standardised by CEN. In the absence of a CEN standardised method, the Member States are allowed to use national standard methods based on the same measurement method.</p>
+      <p n="199">A Member State may also use any other method which it can demonstrate gives results equivalent to the above method.</p>
+      <p n="200">III. Reference modelling techniques</p>
+      <p n="201">Reference modelling techniques cannot be specified at present. Any amendments to adapt this point to scientific and technical progress must be adopted in accordance with the procedure laid down in Article 6(2).</p>
+    </body>
+  </text>
+</TEI.2>

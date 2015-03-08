@@ -1,0 +1,126 @@
+<TEI.2 id="jrc32001R2163-en" n="32001R2163" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R2163 English</title>
+        <title>Commission Regulation (EC) No 2163/2001 of 7 November 2001 concerning the technical arrangements for data transmission for statistics on the carriage of goods by road (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>90 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2163:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2163:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4502</classCode>
+        <classCode scheme="eurovoc">4509</classCode>
+        <classCode scheme="eurovoc">4521</classCode>
+        <classCode scheme="eurovoc">4533</classCode>
+        <classCode scheme="eurovoc">5908</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R2163-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2163/2001 of 7 November 2001 concerning the technical arrangements for data transmission for statistics on the carriage of goods by road (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 2163/2001</p>
+      <p n="3">of 7 November 2001</p>
+      <p n="4">concerning the technical arrangements for data transmission for statistics on the carriage of goods by road</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC) No 1172/98 of 25 May 1998 on statistical returns in respect of the carriage of goods by road(1), as amended by Commission Regulation (EC) No 2691/1999(2), and in particular Article 5(2) and Article 9 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) In accordance with Article 5(2) of Regulation (EC) No 1172/98, the Commission shall determine the arrangements for the transmission of data by the Member States.</p>
+      <p n="11">(2) It is necessary to specify the format in which the data are to be transmitted to Eurostat in sufficient detail to ensure that the data can be processed rapidly and in a cost effective way.</p>
+      <p n="12">(3) This Regulation does not change the status of the variables which are declared optional in Regulation (EC) No 1172/98.</p>
+      <p n="13">(4) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee, set up by Council Decision 89/382/EEC, Euratom(3),</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The technical format for the transmission of data to the Commission (Eurostat) is defined in the Annex to this Regulation.</p>
+      <p n="17">Member States shall use this format for the data concerning the 2002 reference year and subsequent years.</p>
+      <p n="18">Article 2</p>
+      <p n="19">Member States shall transmit to the Commission (Eurostat) the data and metadata required by this Regulation in electronic form, in conformity with an interchange standard proposed by the Commission (Eurostat).</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 7 November 2001.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Pedro Solbes Mira</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 163, 6.6.1998, p. 1.</p>
+      <p n="28">(2) OJ L 326, 18.12.1999, p. 39.</p>
+      <p n="29">(3) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">TECHNICAL FORMAT FOR DATA TRANSMISSION</p>
+      <p n="32">1. DATA STRUCTURE</p>
+      <p n="33">The individual data records for each quarter, which are to be sent to Eurostat, shall consist of three linked data sets covering:</p>
+      <p n="34">A1 vehicle-related variables</p>
+      <p n="35">A2 journey-related variables</p>
+      <p n="36">A3 goods-related variables (in the basic transport operation).</p>
+      <p n="37">Each A1 "vehicle record" is linked to 1-n "journey records" (A2 data set) which contain data on the journeys made by that vehicle during the survey period (normally one week). Each journey record is in turn linked to 0-m "goods records" (A3 data set) which contain data on the basic transport operations which make up that journey.</p>
+      <p n="38">Figure 1 illustrates the structure of the data.</p>
+      <p n="39">It should be noted that there may not be multiple goods records for each journey record.</p>
+      <p n="40">&gt;PIC FILE= "L_2001291EN.001402.TIF"&gt;</p>
+      <p n="41">For laden journeys, depending on the method used to record journeys, and/or on the type of journey, there may be only one goods record linked to each journey record. For unladen journeys, there shall normally be no linked goods records (although the existence of linked goods records for empty journeys is permitted).</p>
+      <p n="42">The "Methodological appendix" in Annex A to Regulation (EC) No 1172/98 provides further information.</p>
+      <p n="43">2. LIST OF FIELDS</p>
+      <p n="44">The following information is provided for each field:</p>
+      <p n="45">- field number: this identifies the position of the field in the record,</p>
+      <p n="46">- variable: this is either the reference to the variable in Regulation (EC) No 1172/98, or an internal identifier,</p>
+      <p n="47">- description: short description of the contents of the field,</p>
+      <p n="48">- coding: variables are to be coded according to Annexes A to G of Regulation (EC) No 1172/98. Additional coding rules are noted here. Further explanations and recommendations on coding may be provided by Eurostat in the reference manual for the implementation of Regulation (EC) No 1172/98,</p>
+      <p n="49">- field type: indicates whether field contains a numeric quantity or a text string,</p>
+      <p n="50">- except for variable A1.9, all numeric fields are to be provided as integers,</p>
+      <p n="51">- variable A1.9 shall have a comma (",") as the decimal separator,</p>
+      <p n="52">- optional variable: a flag for variables which are optional according to Annex A to Regulation (EC) No 1172/98,</p>
+      <p n="53">- maximum length: the maximum expected length of the data for this field. Data which are too long cannot be loaded,</p>
+      <p n="54">- key field: the combination of the values of the key fields for a data set must constitute a unique key value within that data set. If duplicate key values are found, the loading of the data set and its linked data sets is blocked, since the vehicle, journey and goods records cannot be correctly linked.</p>
+      <p n="55">Data Set A1: Vehicle-related variables</p>
+      <p n="56">&gt;TABLE&gt;</p>
+      <p n="57">Data set A2: Journey-related variables</p>
+      <p n="58">&gt;TABLE&gt;</p>
+      <p n="59">Data set A3: Goods-related variables (in the basic transport operation)</p>
+      <p n="60">&gt;TABLE&gt;</p>
+      <p n="61">3. MISSING VALUES</p>
+      <p n="62">By default, missing values in data records shall be coded as an empty field (no data between two successive field separators). For certain fields, Eurostat may recommend the use of specific codes for missing values or other special values (see column "specific codes for missing values").</p>
+      <p n="63">Additional information is provided in the reference manual for the implementation of Regulation (EC) No 1172/98 on statistics on the carriage of goods by road.</p>
+      <p n="64">4. CHANGE IN CONFIGURATION OR TYPE OF TRANSPORT</p>
+      <p n="65">Annex A to Regulation (EC) No 1172/98 noted that during a survey period a vehicle might be subject to a change in configuration (addition of a trailer giving rise to a change in axle configuration and load capacity) or the type of transport might vary between journeys. These changes should be recorded, although this is not obligatory.</p>
+      <p n="66">In order to permit the transmission of these data within the normal data structures described here, the variables A1.2, A1.4, A1.5 and A1.7 shall be transmitted as part of the A2 data set (journey-related variables).</p>
+      <p n="67">5. VALIDATION OF DATA BY EUROSTAT</p>
+      <p n="68">Eurostat shall apply some validation checks to the data transmitted by Member States, before the data are loaded into the production database. Where a significant number of records fails these checks, Eurostat shall notify the Member State of the records in error and provide an indication of the reasons for non-acceptance. The Member State shall be requested to rectify the errors noted and then to re-submit the complete set of three data sets for that quarter (not just the records that were in error). This procedure is necessary in order to guarantee the correctness of the weighting factors and the coherence between the vehicle, journey and goods records.</p>
+      <p n="69">Where the number of records containing errors is very small and the likely effect on any analysis insignificant, Eurostat shall load those records that pass the verification checks and to discard the records in error. In such a case a Member State shall be informed of the records not passing the checks and the reasons. The Member State shall be invited, if it wished, to correct the errors found and to resubmit the complete set of three data sets for that quarter (not just the records that were in error). Where a re-submission is made, Eurostat shall load the revised data but if no re-submission is made, Eurostat shall use the date already accepted for the preparation of aggregated tables.</p>
+      <p n="70">6. NAMING OF DATA SETS</p>
+      <p n="71">Names of data sets shall be, according to the Stadium requirements, in the form "CCYYQnROADAx.ZZZ" where:</p>
+      <p n="72">&gt;TABLE&gt;</p>
+      <p n="73">Examples:</p>
+      <p n="74">1. The data set "ES99Q2ROADA1.zip" is a compressed "zip" data set containing the A1 data set for Spain, year 1999 and quarter 2 ("ES99Q2ROADA1.dat").</p>
+      <p n="75">2. The data set "UK99Q3ROADA2.dat" is the data set that contains for United Kingdom, year 1999, quarter 3, the data set A2.</p>
+      <p n="76">The above specified data set name has to appear in the subject line of the electronic mail.</p>
+      <p n="77">7. TRANSMISSION MEDIA</p>
+      <p n="78">The preferred transmission support is Stadium, sent to an address to be notified by Eurostat. Note that electronic mail is subject to maximum size limits which may exclude its use for large data sets.</p>
+      <p n="79">8. TRANSITIONAL PERIOD</p>
+      <p n="80">In a transitional period, the data may also be sent in ASCII data sets with variable-length fields. The semi-colon (";") is used as the field separator.</p>
+      <p n="81">All fields must be present even if they are empty (that is, two successive field separators).</p>
+      <p n="82">Additional spaces in the data fields shall be ignored, unless the specific instructions for a field prohibit the presence of additional spaces.</p>
+      <p n="83">Furthermore during this transitional period Eurostat shall also support the reception of data by post on diskettes or recordable compact disks (CD-R). Data shall not be accepted on magnetic tapes or on paper.</p>
+      <p n="84">Where data are to be sent by electronic mail, the following rules shall apply in a transitional period:</p>
+      <p n="85">- data shall be sent in the form of attached data sets,</p>
+      <p n="86">- only one data set at a time can be attached to each message,</p>
+      <p n="87">- the name of the data set shall be used as the subject of the message,</p>
+      <p n="88">- comments on data (such as methodological notes, remarks on the quality of the data, etc.) can be entered as plain text in the body of the message to which a data data set is attached. Formatted text shall not be used,</p>
+      <p n="89">- comments on data may also be sent as a separate plain text message (without an attached data data set) using the subject field: "CCYYQnROADAx.rem". Formatted text shall not be used,</p>
+      <p n="90">- corrections: to correct a data file previously transmitted to Eurostat, the corrected data set shall be sent with the same data set name, together with an explanatory note in plain text format in the body of the e-mail.</p>
+    </body>
+  </text>
+</TEI.2>

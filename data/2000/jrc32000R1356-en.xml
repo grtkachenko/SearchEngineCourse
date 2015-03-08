@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32000R1356-en" n="32000R1356" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1356 English</title>
+        <title>Commission Regulation (EC) No 1356/2000 of 27 June 2000 amending Regulation (EC) No 1474/95 opening and providing for the administration of the tariff quotas in the egg sector and for egg albumin</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1356:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1356:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2050</classCode>
+        <classCode scheme="eurovoc">2121</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2845</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1356-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1356/2000 of 27 June 2000 amending Regulation (EC) No 1474/95 opening and providing for the administration of the tariff quotas in the egg sector and for egg albumin</head>
+      <p n="2">Commission Regulation (EC) No 1356/2000</p>
+      <p n="3">of 27 June 2000</p>
+      <p n="4">amending Regulation (EC) No 1474/95 opening and providing for the administration of the tariff quotas in the egg sector and for egg albumin</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations(1), and in particular Article 1 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In the framework of the World Trade Organization, the Community has undertaken to open tariff quotas for certain products in the egg sector and for egg albumin. As a result, detailed rules for the application of those quotas from 1 July 2000 should be laid down.</p>
+      <p n="10">(2) Commission Regulation (EC) No 1474/95(2), as last amended by Regulation (EC) No 1323/1999(3), provides for the administration of those quotas for the period 1 July 1999 to 30 June 2000. Provision should be made for their administration from 1 July 2000.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Regulation (EC) No 1474/95 is hereby amended as follows:</p>
+      <p n="15">1. Article 1 is replaced by the following:</p>
+      <p n="16">"Article 1</p>
+      <p n="17">The import tariff quotas listed in Annex I are opened annually for the product groups and under the conditions indicated therein."</p>
+      <p n="18">2. Annex I is replaced by the Annex to this Regulation.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">It shall apply from 1 July 2000.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 27 June 2000.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz Fischler</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 146, 20.6.1996, p. 1.</p>
+      <p n="28">(2) OJ L 145, 29.6.1995, p. 19.</p>
+      <p n="29">(3) OJ L 157, 24.6.1999, p. 29.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">"ANNEX I</p>
+      <p n="32">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

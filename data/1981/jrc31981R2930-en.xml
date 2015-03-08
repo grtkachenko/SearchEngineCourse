@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31981R2930-en" n="31981R2930" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31981R2930 English</title>
+        <title>Commission Regulation (EEC) No 2930/81 of 12 October 1981 adopting additional provisions for the application of the Community scale for the classification of carcases of adult bovine animals</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981R2930:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981R2930:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31981R2930-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 2930/81 of 12 October 1981 adopting additional provisions for the application of the Community scale for the classification of carcases of adult bovine animals</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 2930/81</p>
+      <p n="4">of 12 October 1981</p>
+      <p n="5">adopting additional provisions for the application of the Community scale for the classification of carcases of adult bovine animals</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN</p>
+      <p n="7">COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organization of the market in beef and veal (1), as last amended by the Act of Accession of Greece,</p>
+      <p n="10">Having regard to Council Regulation (EEC) No 1208/81 of 28 April 1981 determining the Community scale for the classification of carcases of adult bovine animals (2), and in particular the first paragraph of Article 6 thereof,</p>
+      <p n="11">Whereas, in order to ensure the uniform classification of the carcases of adult bovine animals in the Community, it is necessary to make the definitions of conformation classes and fat classes more precise;</p>
+      <p n="12">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The additional provisions referred to in the first subparagraph of Article 6 of Regulation (EEC) No 1208/81 shall be as listed in the Annex to this Regulation.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 12 October 1981.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Poul DALSAGER</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ No L 148, 28, 6. 1968, p. 24.</p>
+      <p n="24">(2) OJ No L 123, 7. 5. 1981, p. 3.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">1. CONFORMATION</p>
+      <p n="27">Development of carcase profiles, in particular the essential parts (round, back, shoulder)</p>
+      <p n="28">1.2,4 // // // Conformation class // Additional provisions 1.2.3.4 // // // // // E // Round: // very rounded // Topside spreads markedly over the symphisis (symphisis pelvis) // excellent // Back: // wide and very thick, up to the shoulder // Rump very rounded // // Shoulder: // very rounded // // // // // // U // Round: // rounded // Topside spreads over the symphisis (symphisis pelvis) // very good // Back: // wide and thick, up to the shoulder // Rump rounded // // Shoulder: // rounded // // // // // // R // Round: // well-developed // Topside and rump are slightly rounded // good // Back: // still thick but less wide at the shoulder // // // Shoulder: // fairly well-developed // // // // // // O // Round: // average development to lacking development // // fair // Back: // average thickness to lacking thickness // Rump: straight profile // // Shoulder: // average development to almost flat // // // // // // P // Round: // poorly developed // // poor // Back: // narrow with bones visible // // // Shoulder: // flat with bones visible // // // // //</p>
+      <p n="29">2. DEGREE OF FAT COVER</p>
+      <p n="30">Amount of fat on the outside of the carcase and in the thoracic cavity</p>
+      <p n="31">1.2 // // // Class of fat cover // Additional provisions // // // 1 low // No fat within the thoracic cavity // // // 2 slight // Within the thoracic cavity the muscle is clearly visible between the ribs // // // 3 average // Within the thoracic cavity the muscle is still visible between the ribs // // // 4 high // The seams of fat on the round are prominent. Within the thoracic cavity the muscle between the ribs may be infiltrated with fat // // // 5 very high // The round is almost completely covered with fat, so that the seams of fat are no longer clearly visible. Within the thoracic cavity the muscle between the ribs is infiltrated with fat // //</p>
+    </body>
+  </text>
+</TEI.2>

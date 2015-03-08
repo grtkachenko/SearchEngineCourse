@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R2332-en" n="32003R2332" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2332 English</title>
+        <title>Commission Regulation (EC) No 2332/2003 of 30 December 2003 derogating from Regulation (EC) No 2535/2001 as regards the period for lodging applications for licences to import milk products under quotas</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2332:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2332:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+        <classCode scheme="eurovoc">614</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2332-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2332/2003 of 30 December 2003 derogating from Regulation (EC) No 2535/2001 as regards the period for lodging applications for licences to import milk products under quotas</head>
+      <p n="2">Commission Regulation (EC) No 2332/2003</p>
+      <p n="3">of 30 December 2003</p>
+      <p n="4">derogating from Regulation (EC) No 2535/2001 as regards the period for lodging applications for licences to import milk products under quotas</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), and in particular Articles 26(3) and 29(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Chapter I of Title 2 of Commission Regulation (EC) No 2535/2001 of 14 December 2001 laying down detailed rules for applying Council Regulation (EC) No 1255/1999 as regards the import arrangements for milk and milk products and opening tariff quotas(2) provides for, inter alia, the breakdown of the quantities to be imported in each six-month period under certain tariff quotas and the periods for lodging the relevant import licence applications.</p>
+      <p n="10">(2) According to Article 14(1) of Regulation (EC) No 2535/2001, import licence applications may be lodged only during the first 10 days of each six-month period.</p>
+      <p n="11">(3) It is intended that, in January 2004, the opening of the quotas referred to in Chapter I of Title 2 of that Regulation for the WTO year (1 July to 30 June) should be limited to the quantities for four rather than six months, so that operators in the new Member States which are to join the Community on 1 May 2004 may have access to an additional tranche of these quotas, to be allocated in May 2004, equal to two months' quota.</p>
+      <p n="12">(4) Pending finalisation of the procedures for the adoption and publication of those provisions, and in the interests of legal certainty, it is necessary to postpone the period for lodging applications provided for in Article 14(1) of Regulation (EC) No 2535/2001 and to derogate from that Article.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">By way of derogation from Article 14(1) of Regulation (EC) No 2535/2001, for the period 1 January to 30 April 2004, import licence applications for the quotas referred to in Annex I. A, Annex I. B, points 5 and 6, Annex I. F and Annex I. H of that Regulation may be lodged only during the period 12 to 16 January 2004.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="19">It shall apply from 1 January 2004.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 30 December 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 160, 26.6.1999, p. 48; Regulation as last amended by Regulation (EC) No 1787/2003 (OJ L 270, 21.10.2003, p. 121).</p>
+      <p n="26">(2) OJ L 341, 22.12.2001, p. 29; Regulation as last amended by Regulation (EC) No 2012/2003 (OJ L 297, 15.11.2003, p. 19).</p>
+    </body>
+  </text>
+</TEI.2>

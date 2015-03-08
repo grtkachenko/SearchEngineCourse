@@ -1,0 +1,34 @@
+<TEI.2 id="jrc31990Y0303_03-en" n="31990Y0303(03)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31990Y0303(03) English</title>
+      </titleStmt>
+      <extent>9 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990Y0303(03):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990Y0303(03):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31990Y0303_03-en." lang="en">
+    <body>
+      <p n="2">Amendment to the list of spirituous beverages in Annex II to Council Regulation (EEC) No 1576/89 (1), the minimum alcoholic strength of which as determined by national laws is higher than the values laid down in the Community regulations for the category to which they belong</p>
+      <p n="3">(90/C 52/05)</p>
+      <p n="4">Published pursuant to Article 3 (2) of Regulation (EEC) No 1576/89</p>
+      <p n="5">(Official Journal of the European Communities No C 1 of 4 January 1990, page 14)</p>
+      <p n="6">The list is supplemented by:</p>
+      <p n="7">'PORTUGAL</p>
+      <p n="8">&gt;TABLE&gt;</p>
+      <p n="9">(1) OJ No L 160, 12. 6. 1989, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

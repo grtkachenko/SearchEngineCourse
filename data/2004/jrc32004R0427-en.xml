@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32004R0427-en" n="32004R0427" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0427 English</title>
+        <title>Commission Regulation (EC) No 427/2004 of 4 March 2004 fixing the reference prices for certain fishery products for the 2004 fishing year</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0427:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0427:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2657</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0427-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 427/2004 of 4 March 2004 fixing the reference prices for certain fishery products for the 2004 fishing year</head>
+      <p n="2">Commission Regulation (EC) No 427/2004</p>
+      <p n="3">of 4 March 2004</p>
+      <p n="4">fixing the reference prices for certain fishery products for the 2004 fishing year</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 104/2000 of 17 December 1999 on the common organisation of the markets in fishery and aquaculture products(1), and in particular Article 29(1) and (5) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Regulation (EC) No 104/2000 provides that reference prices valid for the Community may be fixed each year, by product category, for products that are the subject of a tariff suspension pursuant to Article 28(1). The same holds for products which, by virtue of being either the subject of a binding tariff reduction under the WTO or some other preferential arrangements, must comply with a reference price.</p>
+      <p n="10">(2) For the products listed in its Annex I(A) and (B) to Regulation (EC) No 104/2000, the reference price is the same as the withdrawal price fixed in accordance with Article 20(1) of that Regulation.</p>
+      <p n="11">(3) The Community withdrawal and selling prices for the products concerned are fixed for the 2004 fishing year by Commission Regulation (EC) No 425/2004(2).</p>
+      <p n="12">(4) The reference price for products other than those listed in Annexes I and II to Regulation (EC) No 104/2000 is established on the basis of the weighted average of customs values recorded on the import markets or in the ports of import in the three years immediately preceding the date on which the reference price is fixed.</p>
+      <p n="13">(5) There is no need to fix reference prices for all the species covered by the criteria laid down in Regulation (EC) No 104/2000, and particularly not for those imported from third countries in insignificant volumes.</p>
+      <p n="14">(6) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fishery Products,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The reference prices for the 2004 fishing year of fishery products as provided for in accordance with Article 29 of Regulation (EC) No 104/2000 are set out in the Annex to this Regulation.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 4 March 2004.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 17, 21.1.2000, p. 22.</p>
+      <p n="26">(2) See page 14 of this Official Journal.</p>
+      <p n="27">ANNEX(1)</p>
+      <p n="28">1. Reference prices for products referred to in Article 29(3)(a) of Regulation (EC) No 104/2000</p>
+      <p n="29">&gt;TABLE&gt;</p>
+      <p n="30">&gt;TABLE&gt;</p>
+      <p n="31">2. Reference prices for fishery products referred to in Article 29(3)(d) of Regulation (EC) No 104/2000</p>
+      <p n="32">&gt;TABLE&gt;</p>
+      <p n="33">(1) The additional code to be mentioned for all categories other than those explicitly referred to in points 1 and 2 of the Annex is "F499: Other".</p>
+    </body>
+  </text>
+</TEI.2>

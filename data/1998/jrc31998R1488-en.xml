@@ -1,0 +1,71 @@
+<TEI.2 id="jrc31998R1488-en" n="31998R1488" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1488 English</title>
+        <title>Commission Regulation (EC) No 1488/98 of 13 July 1998 amending Regulation (EEC) No 2807/83 laying down detailed rules for recording information on Member States' catches of fish</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1488:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1488:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2891</classCode>
+        <classCode scheme="eurovoc">5229</classCode>
+        <classCode scheme="eurovoc">5255</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1488-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1488/98 of 13 July 1998 amending Regulation (EEC) No 2807/83 laying down detailed rules for recording information on Member States' catches of fish</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1488/98 of 13 July 1998 amending Regulation (EEC) No 2807/83 laying down detailed rules for recording information on Member States' catches of fish</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2847/93 of 12 October 1993 establishing a control system applicable to the common fisheries policy (1), as last amended by Regulation (EC) No 2635/97 (2), and in particular Article 6(8) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 2807/83 (3), as last amended by Regulation (EC) No 395/98 (4), lays down detailed rules for recording information on Member States' catches of fish for which a TAC and quota have been fixed;</p>
+      <p n="7">Whereas Council Regulation (EC) No 45/98 of 19 December 1997 fixing, for certain fish stocks and groups of fish stocks, the total allowable catches for 1998 and certain conditions under which they may be fished (5), as last amended by Regulation (EC) No 783/98 (6), (EC) No 50/98 of 19 December 1997 allocating, for 1998, Community catch quotas in Greenland waters (7) and (EC) No 65/98 of 19 December 1997 fixing, for certain stocks of highly migratory fish, the total allowable catches for 1998, their distribution in quotas to Member States and certain conditions under which they may be fished (8), as amended by Regulation (EC) No 1283/98 (9), set for 1998 new TACs and allocate these TACs among Member States in order to limit the catches of a number of additional fish stocks or group of fish stocks;</p>
+      <p n="8">Whereas it is therefore necessary to amend Regulation (EEC) No 2807/83;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Regulation (EC) No 2807/83 is amended as follows:</p>
+      <p n="13">1. in Annex VII, point 1, the following is added:</p>
+      <p n="14">&gt;TABLE&gt;</p>
+      <p n="15">;2. in Annex VII, point 1, the following lines are deleted:</p>
+      <p n="16">&gt;TABLE&gt;</p>
+      <p n="17">;3. in Annex VII, point 2, the following is added:</p>
+      <p n="18">&gt;TABLE&gt;</p>
+      <p n="19">.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 13 July 1998.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Emma BONINO</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 261, 20. 10. 1993, p. 1.</p>
+      <p n="28">(2) OJ L 356, 31. 12. 1997, p. 14.</p>
+      <p n="29">(3) OJ L 276, 10. 10. 1983, p. 1.</p>
+      <p n="30">(4) OJ L 50, 20. 2. 1998, p. 17.</p>
+      <p n="31">(5) OJ L 12, 19. 1. 1998, p. 1.</p>
+      <p n="32">(6) OJ L 113, 15. 4. 1998, p. 8.</p>
+      <p n="33">(7) OJ L 12, 19. 1. 1998, p. 72.</p>
+      <p n="34">(8) OJ L 12, 19. 1. 1998, p. 145.</p>
+      <p n="35">(9) OJ L 178, 23. 6. 1998, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

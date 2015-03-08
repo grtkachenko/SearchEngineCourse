@@ -1,0 +1,86 @@
+<TEI.2 id="jrc31993D0173-en" n="31993D0173" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993D0173 English</title>
+        <title>93/173/EEC: Commission Decision of 22 February 1993 drawing up the standard form provided for by Article 16 of Council Regulation (EEC) No 3820/85 on the harmonization of certain social legislation relating to road transport</title>
+      </titleStmt>
+      <extent>59 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0173:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0173:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993D0173-en." lang="en">
+    <body>
+      <head n="1">93/173/EEC: Commission Decision of 22 February 1993 drawing up the standard form provided for by Article 16 of Council Regulation (EEC) No 3820/85 on the harmonization of certain social legislation relating to road transport</head>
+      <p n="2">COMMISSION DECISION of 22 February 1993 drawing up the standard form provided for by Article 16 of Council Regulation (EEC) No 3820/85 on the harmonization of certain social legislation relating to road transport</p>
+      <p n="3">(93/173/EEC)THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 3820/85 of 20 December 1985 on the harmonization of certain social legislation relating to road transport (1), and in particular Article 16 thereof,</p>
+      <p n="6">Having consulted the Member States in accordance with Article 16 (3) thereof,</p>
+      <p n="7">Whereas the standard form referred to in Article 16 (2) and (3) of Regulation (EEC) No 3820/85 should be drawn up, as the medium through which the Member States communicate to the Commission, every two years, the necessary information for the preparation of a report on the implementation of the common rules and on developments in the fields in question,</p>
+      <p n="8">HAS ADOPTED THIS DECISION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The standard form referred to in Article 16 (2) and (3) of Regulation (EEC) No 3820/85 shall be drawn up in accordance with the specimen in the Annex to this Decision.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Decision is addressed to the Member States.</p>
+      <p n="13">Done at Brussels, 22 February 1993.</p>
+      <p n="14">For the Commission</p>
+      <p n="15">Abel MATUTES</p>
+      <p n="16">Member of the Commission</p>
+      <p n="17">(1) OJ No L 370, 31. 12. 1985, p. 1.</p>
+      <p n="18">ANNEX</p>
+      <p n="19">Model of the standard form which Member States should use to communicate to the Commission the necessary information for drawing up the report on the implementation by Member States of the Council Regulation on the harmonization of certain social legislation relating to road transport (Article 16 of Regulation (EEC) No 3820/85) and on the developments in the fields in question 1. REFERENCE PERIOD</p>
+      <p n="20">(Article 16 of Regulation (EEC) No 3820/85)</p>
+      <p n="21">Period: from:</p>
+      <p n="22">to:</p>
+      <p n="23">2. CALCULATION OF MINIMUM CHECKS</p>
+      <p n="24">(Article 2 of Directive 88/599/EEC)</p>
+      <p n="25">(a) Number of days worked per driver during the reference period</p>
+      <p n="26">(b) Total number of vehicles subject to Regulation (EEC) No 3820/85</p>
+      <p n="27">(c) Total number of days worked ((a) × (b))</p>
+      <p n="28">(d) Minimum checks (1 % of c)</p>
+      <p n="29">3. CHECKS</p>
+      <p n="30">3.1. Number of checks at the roadside</p>
+      <p n="31">of undertaking</p>
+      <p n="32">(a) carriage of passengers</p>
+      <p n="33">(b) carriage of goods</p>
+      <p n="34">(c) carriage on own account</p>
+      <p n="35">(d) carriage for hire or reward</p>
+      <p n="36">3.3. Number of working days checked at the roadside</p>
+      <p n="37">premises of undertaking</p>
+      <p n="38">(a) carriage of passengers</p>
+      <p n="39">(b) carriage of goods</p>
+      <p n="40">(c) carriage of own account</p>
+      <p n="41">(d) carriage for hire or reward</p>
+      <p n="42">4. OFFENCES - NUMBER OF OFFENCES RECORDED</p>
+      <p n="43">(Regulation (EEC) No 820/85)</p>
+      <p n="44">/* Tables: see OJ */</p>
+      <p n="45">- Regulatory</p>
+      <p n="46">- Administrative</p>
+      <p n="47">- Other</p>
+      <p n="48">6. PENALTIES</p>
+      <p n="49">6.1. Scales</p>
+      <p n="50">6.2. Changes</p>
+      <p n="51">- Date of most recent changes</p>
+      <p n="52">- Administrative or legal references.</p>
+      <p n="53">7. CONCLUSIONS AND COMMENTS, INCLUDING ANY DEVELOPMENTS IN THE FIELDS IN QUESTION</p>
+      <p n="54">Person responsible for the compilation of this report</p>
+      <p n="55">Surname: Forename:</p>
+      <p n="56">Postion:</p>
+      <p n="57">Administrative address:</p>
+      <p n="58">Tel:</p>
+      <p n="59">Date: Signature:</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32001D0007-en" n="32001D0007" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0007 English</title>
+        <title>2001/7/EC: Commission Decision of 19 December 2000 amending Annex I, Chapter 14 of Council Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A(I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC (Text with EEA relevance) (notified under document number C(2000) 3866)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0007:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0007:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+        <classCode scheme="eurovoc">767</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0007-en." lang="en">
+    <body>
+      <head n="1">2001/7/EC: Commission Decision of 19 December 2000 amending Annex I, Chapter 14 of Council Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A(I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC (Text with EEA relevance) (notified under document number C(2000) 3866)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 19 December 2000</p>
+      <p n="4">amending Annex I, Chapter 14 of Council Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A(I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC</p>
+      <p n="5">(notified under document number C(2000) 3866)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/7/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A(I) to Directive 89/662/EEC and, as regards pathogens to Directive 90/425/EEC(1), and in particular Article 15 thereof, as last amended by Commission Decision 1999/724/EC(2),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Thee are some linguistic translation differences between the German text and the other language versions concerning the cross-border trade in unprocessed manure which should be resolved and it is opportune in view of possible disease risks to introduce better controls on such movements.</p>
+      <p n="13">(2) It is necessary to take into account in such cross-border movements the disease situation of Member States.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">In Annex I, Chapter 14, Part I.A, to Council Directive 92/118/EEC point 1(a), is replaced with:</p>
+      <p n="18">"1. (a) Trade in unprocessed manure of species other than poultry or equidae is prohibited, except for manure:</p>
+      <p n="19">from an area or holding which is not subject to restrictions by virtue of a serious transmissible disease,</p>
+      <p n="20">and</p>
+      <p n="21">intended for spreading under the control of the competent authorities on land forming part of or belonging to the same holding, whether separated or not, located on both sides of the frontier between Member States and within a distance of approximately 20 kilometres. Records should be kept by the owner of the holding concerning these cross-frontier movements in order to be approved. The competent authority shall keep a register of such approved holdings."</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision shall apply from 1 January 2001.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 19 December 2000.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">David Byrne</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 62, 15.3.1993, p. 49.</p>
+      <p n="31">(2) OJ L 290, 12.11.1999, p. 32.</p>
+    </body>
+  </text>
+</TEI.2>

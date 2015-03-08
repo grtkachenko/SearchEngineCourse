@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32004R0387-en" n="32004R0387" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0387 English</title>
+        <title>Commission Regulation (EC) No 387/2004 of 1 March 2004 supplementing the Annex to Regulation (EC) No 2400/96 on the entry of certain names in the "Register of protected designations of origin and protected geographical indications" (Arbroath Smokies)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0387:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0387:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1686</classCode>
+        <classCode scheme="eurovoc">2437</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3173</classCode>
+        <classCode scheme="eurovoc">3774</classCode>
+        <classCode scheme="eurovoc">5573</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0387-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 387/2004 of 1 March 2004 supplementing the Annex to Regulation (EC) No 2400/96 on the entry of certain names in the "Register of protected designations of origin and protected geographical indications" (Arbroath Smokies)</head>
+      <p n="2">Commission Regulation (EC) No 387/2004</p>
+      <p n="3">of 1 March 2004</p>
+      <p n="4">supplementing the Annex to Regulation (EC) No 2400/96 on the entry of certain names in the "Register of protected designations of origin and protected geographical indications" (Arbroath Smokies)</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2081/92 of 14 July 1992 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs(1), and in particular Article 6(3) and (4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Under Article 5 of Regulation (EEC) No 2081/92 the United Kingdom forwarded to the Commission an application for registration of the name Arbroath Smokies as a geographical indication.</p>
+      <p n="10">(2) An investigation as required by Article 6(1) of the above Regulation was carried out and it was found that that Regulation's requirements were met, notably that all the particulars required under Article 4 were provided.</p>
+      <p n="11">(3) Following publication in the Official Journal of the European Union(2) of the application in respect of the name indicated in the Annex hereto, the Commission has received no objection under Article 7 of the said Regulation.</p>
+      <p n="12">(4) The name in question should therefore be entered in the "Register of protected designations of origin and protected geographical indications" and accordingly enjoy protected geographical indication status at Community level.</p>
+      <p n="13">(5) The content of the Annex to this Regulation supplements the Annex to Regulation (EC) No 2400/96(3),</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The name shown in the Annex to this Regulation is hereby added to the Annex to Regulation (EC) No 2400/96 and entered as a protected geographical indication (PGI) in the "Register of protected designations of origin and protected geographical indications" provided for in Article 6(3) of Regulation (EEC) No 2081/92.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 1 March 2004.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 208, 24.7.1992, p. 1. Regulation as last amended by Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1).</p>
+      <p n="25">(2) OJ C 141, 17.6.2003, p. 10 (Arbroath Smokies).</p>
+      <p n="26">(3) OJ L 327, 18.12.1996, p. 11. Regulation as last amended by Regulation (EC) No 297/2004 (OJ L 50, 20.2.2004, p. 18).</p>
+      <p n="27">ANNEX</p>
+      <p n="28">PRODUCTS LISTED IN ANNEX I TO THE TREATY INTENDED FOR HUMAN CONSUMPTION</p>
+      <p n="29">Fresh fish, molluscs and crustaceans</p>
+      <p n="30">UNITED KINGDOM</p>
+      <p n="31">Arbroath Smokies (PGI)</p>
+    </body>
+  </text>
+</TEI.2>

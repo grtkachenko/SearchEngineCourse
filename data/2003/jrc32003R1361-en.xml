@@ -1,0 +1,58 @@
+<TEI.2 id="jrc32003R1361-en" n="32003R1361" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1361 English</title>
+        <title>Commission Regulation (EC) No 1361/2003 of 31 July 2003 correcting Regulation (EC) No 977/2003 opening and providing for the administration of an import tariff quota for young male bovine animals for fattening (1 July 2003 to 30 June 2004)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1361:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1361:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1361-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1361/2003 of 31 July 2003 correcting Regulation (EC) No 977/2003 opening and providing for the administration of an import tariff quota for young male bovine animals for fattening (1 July 2003 to 30 June 2004)</head>
+      <p n="2">Commission Regulation (EC) No 1361/2003</p>
+      <p n="3">of 31 July 2003</p>
+      <p n="4">correcting Regulation (EC) No 977/2003 opening and providing for the administration of an import tariff quota for young male bovine animals for fattening (1 July 2003 to 30 June 2004)</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1254/1999 of 17 May 1999 on the common organisation of the market in beef and veal(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Article 32(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 9(6) of Commission Regulation (EC) No 977/2003(3) contains a clerical error which needs to be corrected.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Article 9(6) of Regulation (EC) No 977/2003 is corrected to read:</p>
+      <p n="14">"6. For the purposes of this Article, Articles 4 to 8 shall apply. However, the date of application mentioned in Article 4(2) shall be 27 February 2004 and the date of communication mentioned in Article 4(5) shall be 5 March 2004."</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 31 July 2003.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 160, 26.6.1999, p. 21.</p>
+      <p n="23">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="24">(3) OJ L 141, 7.6.2003, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>

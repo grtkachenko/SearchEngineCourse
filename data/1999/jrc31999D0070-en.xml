@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31999D0070-en" n="31999D0070" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0070 English</title>
+        <title>1999/70/EC: Council Decision of 25 January 1999 concerning the external auditors of the national central banks</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0070:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0070:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3545</classCode>
+        <classCode scheme="eurovoc">4763</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">60</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0070-en." lang="en">
+    <body>
+      <head n="1">1999/70/EC: Council Decision of 25 January 1999 concerning the external auditors of the national central banks</head>
+      <p n="2">COUNCIL DECISION of 25 January 1999 concerning the external auditors of the national central banks (1999/70/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Protocol on the Statute of the European System of Central Banks and of the European Central Bank and in particular to Article 27.1 thereof,</p>
+      <p n="5">Having regard to the Recommendation of the European Central Bank (hereinafter referred to as the 'ECB`) of 12 November 1998 (1),</p>
+      <p n="6">Whereas the accounts of the ECB and of the national central banks (hereinafter referred to as the 'NCBs`) are to be audited by independent external auditors recommended by the Governing Council of the ECB and approved by the Council;</p>
+      <p n="7">Whereas the ECB has recommended the reappointment of the current external auditors appointed by each participating NCB subject to a possible later decision,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">1. KPMG Réviseurs d'Entreprises s.c., Antwerp, and Deloitte Touche Tohmatsu s.c., Brussels, are hereby approved as the external auditors of the Banque Nationale de Belgique/Nationale Bank van België.</p>
+      <p n="11">2. KPMG Deutsche Treuhandgesellschaft AG and PwC Deutsche Revision AG are hereby approved as the external auditors of the Deutsche Bundesbank.</p>
+      <p n="12">3. Coopers &amp; Lybrand, belonging to the international firm PricewaterhouseCoopers, is hereby approved as the external auditor of the Banco de España.</p>
+      <p n="13">4. Mazars &amp; Guérard, Paris, and Deloitte Touche Tohmatsu-Audit, Neuilly, are hereby approved as the external auditors of the Banque de France.</p>
+      <p n="14">5. PricewaterhouseCoopers, Dublin, is hereby approved as the external auditor of the Central Bank of Ireland.</p>
+      <p n="15">6. Reconta Ernst and Young, spa, Rome, is hereby approved as the external auditor of the Banca d'Italia.</p>
+      <p n="16">7. PricewaterhouseCoopers SARL (Société à responsabilité limitée), Réviseur d'Entreprises, Luxembourg, is hereby approved as the external auditor of the Banque centrale du Luxembourg.</p>
+      <p n="17">8. Prof. Dr J.A. van Manen RA (Registered Accountant) is hereby approved as the external auditor of De Nederlandsche Bank, acting on a personal assignment, partner of PricewaterhouseCoopers.</p>
+      <p n="18">9. Prof. DDr Kurt Neuner, Dr Pipin Henzl, Dr Peter Wolf, Mag. Christian Hofer, Dkfm. Dr Peter Christian Gormasz and Dkfm. Leopold Wundsam, all of whom are registered certified public accountants, are hereby approved as the external auditors of the Österreichische Nationalbank.</p>
+      <p n="19">10. PricewaterhouseCoopers-Auditores e Consultores Lda., is hereby approved as the external auditor of the Banco de Portugal.</p>
+      <p n="20">11. Arthur Anderson Oy is hereby approved as the external auditor of Suomen Pankki.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision shall be notified to the ECB.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="25">Done at Brussels, 25 January 1999.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">J. FISCHER</p>
+      <p n="29">(1) OJ C 411, 31. 12. 1998, p. 11.</p>
+    </body>
+  </text>
+</TEI.2>

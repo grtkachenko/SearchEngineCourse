@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32000R0744-en" n="32000R0744" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R0744 English</title>
+        <title>Commission Regulation (EC) No 744/2000 of 10 April 2000 rectifying Regulation (EEC) No 32/82 laying down the conditions for granting special export refunds for beef and veal</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0744:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0744:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">720</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R0744-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 744/2000 of 10 April 2000 rectifying Regulation (EEC) No 32/82 laying down the conditions for granting special export refunds for beef and veal</head>
+      <p n="2">Commission Regulation (EC) No 744/2000</p>
+      <p n="3">of 10 April 2000</p>
+      <p n="4">rectifying Regulation (EEC) No 32/82 laying down the conditions for granting special export refunds for beef and veal</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1254/1999 of 17 May 1999 on the common organisation of the market in beef and veal(1), and in particular Article 33(12) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EEC) No 32/82(2), as last amended by Regulation (EC) No 2326/97(3), lays down the conditions for granting special export refunds for beef and veal.</p>
+      <p n="10">(2) As a result of a drafting error, when Regulation (EEC) No 32/82 was last amended, by Regulation (EC) No 2326/97, the final sentence of the second subparagraph of Article 2(2) was deleted. That sentence should therefore be reintroduced into the text with effect from 3 December 1997, the date on which Regulation (EC) No 2326/97 entered into force.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The following sentence is added to the second subparagraph of Article 2(2) of Regulation (EEC) No 32/82:"However, the competent authorities may authorise the wrapping of the products on condition that the identification mark or seal on each product, referred to in Article 3(2), still remains visible."</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply from 3 December 1997.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 10 April 2000.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 160, 26.6.1999, p. 21.</p>
+      <p n="24">(2) OJ L 4, 8.1.1982, p. 11.</p>
+      <p n="25">(3) OJ L 323, 26.11.1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

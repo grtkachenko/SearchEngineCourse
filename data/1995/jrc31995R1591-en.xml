@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31995R1591-en" n="31995R1591" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1591 English</title>
+        <title>Commission Regulation (EC) No 1591/95 of 30 June 1995 laying down detailed rules for the application of export refunds to glucose and glucose syrup used in certain products processed from fruit and vegetables</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1591:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1591:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1170</classCode>
+        <classCode scheme="eurovoc">2730</classCode>
+        <classCode scheme="eurovoc">2731</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4170</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1591-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1591/95 of 30 June 1995 laying down detailed rules for the application of export refunds to glucose and glucose syrup used in certain products processed from fruit and vegetables</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1591/95 of 30 June 1995 laying down detailed rules for the application of export refunds to glucose and glucose syrup used in certain products processed from fruit and vegetables</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 426/86 of 24 February 1986 on the common organization of the market in products processed from fruit and vegetables (1), as last amended by Commission Regulation (EC) No 1032/95 (2), and in particular Articles 13 (8), 14 (5) and 14a (7) thereof,</p>
+      <p n="6">Whereas in accordance with Article 13 (4) of Regulation (EEC) No 426/86, an export licence is required before any refund can be granted;</p>
+      <p n="7">Whereas Commission Regulation (EEC) No 3719/88 (3), as last amended by Regulation (EC) No 1199/95 (4), lays down detailed rules for the application of the system of import and export licences and advance fixing certificates for agricultural products;</p>
+      <p n="8">Whereas Commission Regulation (EEC) No 3846/87 (5), as last amended by Regulation (EC) No 836/95 (6), establishes an agricultural product nomenclature for export refunds;</p>
+      <p n="9">Whereas Commission Regulation (EEC) No 3665/87 (7), as last amended by Regulation (EC) No 331/95 (8), lays down common rules for the application of the system of export refunds on agricultural products; whereas these rules must be supplemented by specific rules on glucose and glucose syrup incorporated into products processed from fruit and vegetables;</p>
+      <p n="10">Wheres, pursuant to Article 13 (1) of Regulation (EEC) No 426/86, refunds must be fixed within the limits resulting from agreements concluded in accordance with Article 228 of the Treaty;</p>
+      <p n="11">Whereas, with this in mind, and to prevent distortion of competition, the system of export refunds for glucose and glucose syrup incorporated into products processed from fruit and vegetables should be brought into line with the system provided for in Commission Regulation (EC) No 1518/95 of 29 June 1995 laying down detailes rules for the application of Regulations (EEC) No 1418/76 and (EEC) No 1766/92 as regards imports and exports or products processed from cereals and rice and amending Commission Regulation (EC) No 1162/95 laying down special detailed rules for the application of the system of import and export licences for cereals and rice (9);</p>
+      <p n="12">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Products Processed from Fruit and Vegetables,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">An export refund may be granted in respect of glucose and glucose syrup falling within CN codes 1702 30 51, 1702 30 59, 1702 30 91, 1702 30 99 and 1702 40 90 used in the products listed in Article 1 (1) (b) of Regulation (EEC) No 426/86.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Regulation (EC) No 1518/95 shall apply to the products referred to in Article 1.</p>
+      <p n="18">Grant of a refund pursuant to this Regulation shall preclude a refund being granted pursuant to Commission Regulation (EC) No 1429/95 (10) laying down detailed rules for the application of export refunds in respect of products processed from fruit and vegetables, other than refunds granted in respect of added sugars.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Regulation shall enter into force on 1 July 1995.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 30 June 1995.</p>
+      <p n="23">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

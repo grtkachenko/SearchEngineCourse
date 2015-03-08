@@ -1,0 +1,95 @@
+<TEI.2 id="jrc31994R0897-en" n="31994R0897" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994R0897 English</title>
+        <title>Commission Regulation (EC) No 897/94 of 22 April 1994 laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 as regards pilot projects relating to continuous position monitoring of Community fishing vessels</title>
+      </titleStmt>
+      <extent>68 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R0897:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R0897:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994R0897-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 897/94 of 22 April 1994 laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 as regards pilot projects relating to continuous position monitoring of Community fishing vessels</head>
+      <p n="2">COMMISSION REGULATION (EC) No 897/94 of 22 April 1994 laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 as regards pilot projects relating to continuous position monitoring of Community fishing vessels</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2847/93 of 12 October 1993 establishing a control system applicable to the common fisheries policy (1), and in particular Article 3 (4) thereof,</p>
+      <p n="6">Whereas Article 3 of Regulation (EEC) No 2847/93 provides for the carrying out by Member States of pilot projects, in respect of certain categories of Community fishing vessels, relating to continuous position monitoring systems, either land- or satellite-based and using satellite communications for data transmission, and, as appropriate, the carrying out of pilot projects relating to automatic position recorders, before 30 June 1995;</p>
+      <p n="7">Whereas the purpose of these pilot projects is to assess which technology to use and which vessels to include in the aforesaid systems so that the Council may, before 1 January 1996, decide if and when they are to be used for improving the effectiveness of surveillance of fishing activities;</p>
+      <p n="8">Whereas it is therefore necessary, in order to ensure that Member States carry out these pilot projects, to lay down the detailed rules of application, in particular with regard to the number of vessels, per Member State, to be included in the pilot projects, the procedure for the collection and computerized processing of data transmitted by or recovered from the vessels in question and the procedure for communicating such data among Member States;</p>
+      <p n="9">Whereas, in order to ensure the monitoring of the pilot projects and cooperation among Member States, the Commission must be informed by the Member States as and when the pilot projects are to be carried out;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">This Regulation lays down certain conditions under which Member States are to carry out the pilot projects provided for in Article 3 of Regulation (EEC) No 2847/93 relating to continuous position monitoring systems, either land- or satellite-based and using satellite communications for data transmission, and, as appropriate, the pilot projects concerning automatic position recorders.</p>
+      <p n="14">Article 2</p>
+      <p n="15">1. Member States shall take the necessary steps to carry out:</p>
+      <p n="16">(a) pilot projects relating to the continuous position monitoring of Community fishing vessels using satellite communications which will apply to a minimum number of vessels flying the flag of a Member State, which must be at least equal to the number of the Member State's vessels exceeding 50 metres in length, if that number is more than 10, or not less than 10 otherwise. The minimum number of vessels for each Member State is specified in Annex I;</p>
+      <p n="17">(b) if they so wish, complementary pilot projects relating to the recording of continuous position monitoring of Community fishing vessels, using an automatic position recording system which will apply to not more than the number of vessels provided for in respect of the pilot projects referred to under (a).</p>
+      <p n="18">2. Member States shall ensure that the pilot projects referred to in paragraph 1 apply to vessels exceeding 17 metres in length. However, Member States may apply pilot projects to a limited number of vessels less than 17 metres in length where the activities of such vessels are subject to fishing effort restrictions.</p>
+      <p n="19">3. The pilot projects must be carried out as from 1 July 1994. They must be operational in all Member States as from 1 October 1994 and remain operational at least until 30 June 1995.</p>
+      <p n="20">4. Without prejudice to the conditions set in paragraph 1, Member States may decide to carry out joint pilot projects.</p>
+      <p n="21">Article 3</p>
+      <p n="22">The competent authority responsible for carrying out the pilot projects shall be designated by each Member State, which shall communicate to the Commission, not later than one month after the entry into force of this Regulation, the name, address, telephone number and fax number of that authority.</p>
+      <p n="23">Article 4</p>
+      <p n="24">Each Member State shall take the necessary steps to ensure that the pilot projects comprise:</p>
+      <p n="25">(a) installations on board the vessels flying its flag which are to take part in the pilot projects;</p>
+      <p n="26">(b) computerized installations allowing the competent authorities referred to in Article 3 to process the data transmitted by or recovered from the fishing vessels referred to in Article 2 as well as the data communicated by the competent authorities of the other Member States.</p>
+      <p n="27">Article 5</p>
+      <p n="28">In the case of the pilot projects using the satellite-based communication system, the installations referred to in Article 4 (a) must:</p>
+      <p n="29">1. allow the continuous position monitoring, with a position error which must be less than 500 metres and a confidence interval of 99 %, of vessels flying the flag of the Member State concerned, from an earth station or a satellite, regardless of the maritime waters in which they are operating or the port they are in;</p>
+      <p n="30">2. ensure the automatic transmission, on a hourly basis, of data relating to the geographical position, with a position error which must be less than 500 metres and a confidence interval of 99 %, and the date and time of the recording of the said position, of the vessels flying the flag of the Member State concerned, to the competent authority of the flag Member State referred to in Article 3 and, with the agreement of the flag State, to the Commission at its request;</p>
+      <p n="31">3. be such as to ensure the reliability of the data referred to in point 2.</p>
+      <p n="32">Article 6</p>
+      <p n="33">In the case of the complementary pilot projects using an automatic position recording system, the installations referred to in Article 4 (a) must:</p>
+      <p n="34">1. allow the automatic and continuous recording of geographical position, with a posiiton error which must be less than 500 metres and a confidence interval of 99 %, and the date and time of the recording of the said position, regardless of the maritime waters in which the vessels are operating or the port they are in;</p>
+      <p n="35">2. be such as to ensure the reliability of the data referred to in point 1.</p>
+      <p n="36">Article 7</p>
+      <p n="37">The installations referred to in Article 4 (b) must enable the flag Member State, whatever the system used, to:</p>
+      <p n="38">1. collect, process, record and centralize in computer-readable form the data referred to in Articles 5 (2) and 6 (1). Member States shall take steps to ensure such data are kept on record until 31 December 1995;</p>
+      <p n="39">2. communicate in an automatic way the data transmitted by or recovered from its vessels to the competent authority of the Member State the maritime waters of which the vessels concerned are operating and, with the agreement of the flag State, to the Commission, at its request.</p>
+      <p n="40">Article 8</p>
+      <p n="41">1. Member States shall cooperate so as to ensure the communication of the data referred to in Article 7 (2).</p>
+      <p n="42">2. Each flag Member State shall take the necessary steps to ensure that the individual data transmitted by its vessels as part of the pilot projects referred to in Article 2 (1) (a) are communicated to the competent authority referred to in Article 7 (2) within 60 minutes of receipt of the data by the flag Member State and in any case within 120 minutes of the transmission of the data by its vessels.</p>
+      <p n="43">To this end, Member States may use a data exchange format that is mutually acceptable.</p>
+      <p n="44">3. The competent authority referred to in paragraph 2 which receives the data shall take the necessary steps to process them by computer.</p>
+      <p n="45">Article 9</p>
+      <p n="46">1. Not later than one month before the pilot projects become operational, Member States shall forward to the Commission the information specified in Annex II relating to the carrying out of their pilot projects. However, Member States which have transmitted such information pursuant to Council Decision 89/631/EEC (2), shall be exempt from this obligation.</p>
+      <p n="47">Member States shall inform the Commission regularly of the carrying out of their pilot projects.</p>
+      <p n="48">2. In the event of a vessel having to be added, withdrawn or replaced, or the data relating to a vessel having to be altered, the Member State whose flag the vessel concerned is flying shall inform the Commission thereof.</p>
+      <p n="49">Article 10</p>
+      <p n="50">In order to facilitate cooperation among Member States, the Commission shall communicate to each Member State the data it has received under Article 9 and shall ensure the pilot projects carried out by each Member State are monitored in accordance with the procedure laid down in Article 36 of Regulation (EEC) No 2847/93.</p>
+      <p n="51">Article 11</p>
+      <p n="52">Before 31 March 1995, each Member State shall submit to the Commission an interim assessment report on the pilot project(s) which it has carried out. Before 31 August 1995 each Member State shall submit its final assessment report, containing in particular details as to the cost-effectiveness of the systems, guarantees as to their transparency and recommendations relating to the future of continuous position monitoring systems for Community fishing vessels.</p>
+      <p n="53">On the basis of these reports, the Commission shall transmit to the Council a comprehensive assessment report on the pilot projects carried out by the Member States, containing, as appropriate, proposals relating to the definitive introduction of a continuous position monitoring system for Community fishing vessels.</p>
+      <p n="54">Article 12</p>
+      <p n="55">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="56">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="57">Done at Brussels, 22 April 1994.</p>
+      <p n="58">For the Commission</p>
+      <p n="59">Yannis PALEOKRASSAS</p>
+      <p n="60">Member of the Commission</p>
+      <p n="61">(1) OJ No L 261, 20. 10. 1993, p. 1.</p>
+      <p n="62">(2) OJ No L 364, 14. 12. 1989, p. 64.</p>
+      <p n="63">ANNEX I</p>
+      <p n="64">"" ID="1"&gt;Belgïe/Belgique&gt; ID="2"&gt;0&gt; ID="3"&gt;10"&gt; ID="1"&gt;Deutschland&gt; ID="2"&gt;15&gt; ID="3"&gt;15"&gt; ID="1"&gt;Danmark&gt; ID="2"&gt;4&gt; ID="3"&gt;10"&gt; ID="1"&gt;España&gt; ID="2"&gt;124&gt; ID="3"&gt;124"&gt; ID="1"&gt;France&gt; ID="2"&gt;67&gt; ID="3"&gt;67"&gt; ID="1"&gt;United Kingdom&gt; ID="2"&gt;19&gt; ID="3"&gt;19"&gt; ID="1"&gt;Ellas&gt; ID="2"&gt;9&gt; ID="3"&gt;10"&gt; ID="1"&gt;Ireland&gt; ID="2"&gt;3&gt; ID="3"&gt;10"&gt; ID="1"&gt;Italia&gt; ID="2"&gt;17&gt; ID="3"&gt;17"&gt; ID="1"&gt;Nederland&gt; ID="2"&gt;14&gt; ID="3"&gt;14"&gt; ID="1"&gt;Portugal&gt; ID="2"&gt;47&gt; ID="3"&gt;47"&gt;</p>
+      <p n="65">ANNEX II</p>
+      <p n="66">Information referred to in Article 9:</p>
+      <p n="67">- number of vessels concerned and their technical description (internal fleet register number, name, external identification number, length, tonnage, motive power, radio call sign, type of vessel, type of fishing normally engaged in),</p>
+      <p n="68">- the technical characteristics of the installations referred to in Article 4.</p>
+    </body>
+  </text>
+</TEI.2>

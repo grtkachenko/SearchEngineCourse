@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32003R1409-en" n="32003R1409" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1409 English</title>
+        <title>Commission Regulation (EC) No 1409/2003 of 7 August 2003 derogating from Regulation (EEC) No 1915/83 on certain detailed implementing rules concerning the keeping of accounts for the purpose of determining the incomes of agricultural holdings</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1409:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1409:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2984</classCode>
+        <classCode scheme="eurovoc">3602</classCode>
+        <classCode scheme="eurovoc">3682</classCode>
+        <classCode scheme="eurovoc">4884</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1409-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1409/2003 of 7 August 2003 derogating from Regulation (EEC) No 1915/83 on certain detailed implementing rules concerning the keeping of accounts for the purpose of determining the incomes of agricultural holdings</head>
+      <p n="2">Commission Regulation (EC) No 1409/2003</p>
+      <p n="3">of 7 August 2003</p>
+      <p n="4">derogating from Regulation (EEC) No 1915/83 on certain detailed implementing rules concerning the keeping of accounts for the purpose of determining the incomes of agricultural holdings</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Regulation No 79/65/EEC of the Council of 15 June 1965 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Economic Community(1), as last amended by Regulation (EC) No 1256/97(2), and in particular Article 6(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 3 of Commission Regulation (EEC) No 1915/83(3) provides that the liaison agency shall forward all the farm returns to the Commission not later than nine months after the end of the accounting year to which they relate.</p>
+      <p n="10">(2) Commission Regulation (EC) No 1251/2002(4) provided, by way of derogation from the first and second paragraphs of Article 3 of Regulation (EEC) No 1915/83, for a period of 22 months for the delivery of the farm returns for the accounting years 2000 and 2001.</p>
+      <p n="11">(3) This prolongation of the period was justified, inter alia, because of the introduction of amendments to the form of the farm return.</p>
+      <p n="12">(4) In order to allow liaison agencies more time to adapt to the new farm return, it is appropriate to provide for the accounting year 2002 also for a prolongation of the period for the delivery of the farm return to the Commission.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Community Committee for the Farm Accountancy Data Network,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">By way of derogation from the first and second paragraphs of Article 3 of Regulation (EEC) No 1915/83, for the accounting year 2002, the period for the forwarding of the farm returns shall be 15 months.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 7 August 2003.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ 109, 23.6.1965, p. 1859/65.</p>
+      <p n="25">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="26">(3) OJ L 190, 14.7.1983, p. 25.</p>
+      <p n="27">(4) OJ L 183, 12.7.2002, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

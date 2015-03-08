@@ -1,0 +1,173 @@
+<TEI.2 id="jrc32001D0752-en" n="32001D0752" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0752 English</title>
+        <title>2001/752/EC: Commission Decision of 17 October 2001 amending the Annexes to Council Decision 97/101/EC establishing a reciprocal exchange of information and data from networks and individual stations measuring ambient air pollution within the Member States (Text with EEA relevance) (notified under document number C(2001) 3093)</title>
+      </titleStmt>
+      <extent>138 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0752:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0752:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">177</classCode>
+        <classCode scheme="eurovoc">2527</classCode>
+        <classCode scheme="eurovoc">5334</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0752-en." lang="en">
+    <body>
+      <head n="1">2001/752/EC: Commission Decision of 17 October 2001 amending the Annexes to Council Decision 97/101/EC establishing a reciprocal exchange of information and data from networks and individual stations measuring ambient air pollution within the Member States (Text with EEA relevance) (notified under document number C(2001) 3093)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 17 October 2001</p>
+      <p n="4">amending the Annexes to Council Decision 97/101/EC establishing a reciprocal exchange of information and data from networks and individual stations measuring ambient air pollution within the Member States</p>
+      <p n="5">(notified under document number C(2001) 3093)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/752/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Decision 97/101/EC of 27 January 1997 establishing a reciprocal exchange of information and data from networks and individual stations measuring ambient air pollution within the Member States(1), and in particular Article 7 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Decision 97/101/EC lays down a system for reciprocal exchange of information and data on ambient air pollution.</p>
+      <p n="13">(2) It is appropriate to amend the Annexes to that Decision in order to adapt the list of pollutants covered as well as requirements on additional information, validation and aggregation.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Committee instituted by Article 12(2) of Council Directive 96/62/EC(2),</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The Annexes to Decision 97/101/EC are replaced by the text in the Annex to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Decision is addressed to the Member States.</p>
+      <p n="20">Done at Brussels, 17 October 2001.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Margot Wallström</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 35, 5.2.1997, p. 14.</p>
+      <p n="25">(2) OJ L 296, 21.11.1996, p. 55.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">"ANNEX I</p>
+      <p n="28">LIST OF POLLUTANTS, STATISTICAL PARAMETERS AND UNITS OF MEASUREMENT</p>
+      <p n="29">1. Pollutants listed in Annex I to Directive 96/62/EC on air quality</p>
+      <p n="30">2. Pollutants not listed in Annex I to Directive 96/62/EC on air quality</p>
+      <p n="31">Pollutants to be reported under Directives other than Directive 96/62/EC are listed in Section 3 under Nos 14 and 15. Pollutants only to be reported if available are listed under Nos 16 to 63.</p>
+      <p n="32">3. Pollutants, units of measurement, averaging times:</p>
+      <p n="33">&gt;TABLE&gt;</p>
+      <p n="34">4. Data, calculated over the calendar year, to be transmitted to the Commission</p>
+      <p n="35">Member States shall send raw data or shall send raw data and statistics.</p>
+      <p n="36">For those Member States who transfer raw data and statistics the following statistics are required.</p>
+      <p n="37">- For pollutants 1 to 61:</p>
+      <p n="38">the arithmetic mean, the median, the percentiles 98 (and 99,9 which may be transmitted on a voluntary basis for pollutants for which the mean is calculated over one hour) and the maximum calculated from raw data corresponding to the recommended averaging times indicated in the table above,</p>
+      <p n="39">- for pollutants 62 and 63:</p>
+      <p n="40">total monthly deposition, calculated from raw data corresponding to the recommended averaging times indicated in the table above.</p>
+      <p n="41">The yth percentile should be selected from the values actually measured. All the values should be listed in increasing order:</p>
+      <p n="42">&gt;PIC FILE= "L_2001282EN.007301.TIF"&gt;</p>
+      <p n="43">The yth percentile is the concentration Xk, where the value of k is calculated as follows:</p>
+      <p n="44">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="45">with q being equal to y/100 and N the number of values actually measured.</p>
+      <p n="46">The value of (q x N) should be rounded off to the nearest whole number.</p>
+      <p n="47">All the results should be expressed at the following conditions of temperature and pressure: 293 K and 101,3 kPa, except for pollutants 62 and 63. For particle bound components, data from the year 2001 and onwards should be reported at ambient conditions.</p>
+      <p n="48">5. Data transmission to the Commission:</p>
+      <p n="49">Data shall be transmitted by one of the following data formats: ISO 7168 version 2 extended format, NASA-AMES 1001/1010 or DEM(1) compatible format; or in DEM database:</p>
+      <p n="50">The Commission will confirm receipt of data and the number of stations and pollutants.</p>
+      <p n="51">(1) Data exchange module provided on behalf of the European Commission.</p>
+      <p n="52">ANNEX II</p>
+      <p n="53">INFORMATION CONCERNING NETWORKS, STATIONS AND MEASUREMENT TECHNIQUES</p>
+      <p n="54">Member States shall report on the following points: I.1, I.4.1 to I.4.4, I.5, II.1.1, II.1.4, II.1.8, II.1.10, II.1.11 and II.2.1. To the extent possible, as much information as feasible should be supplied on the other points:</p>
+      <p n="55">I. INFORMATION CONCERNING NETWORKS</p>
+      <p n="56">I.1. Name</p>
+      <p n="57">I.2. Abbreviation</p>
+      <p n="58">I.3. Type of networks (local industry, town/city, urban area, county, region, entire country, international, etc.)</p>
+      <p n="59">I.4. Body responsible for network management</p>
+      <p n="60">I.4.1. Name</p>
+      <p n="61">I.4.2. Name of person responsible</p>
+      <p n="62">I.4.3. Adress</p>
+      <p n="63">I.4.4. Telephone and fax numbers</p>
+      <p n="64">I.4.5. e-mail</p>
+      <p n="65">I.4.6 Website address</p>
+      <p n="66">I.5. Time reference basis (UTC, local)</p>
+      <p n="67">II. INFORMATION CONCERNING STATIONS</p>
+      <p n="68">II.1. General information</p>
+      <p n="69">II.1.1. Name of the station</p>
+      <p n="70">II.1.2. Name of the town/city of location when applicable</p>
+      <p n="71">II.1.3. National and/or local reference number or code</p>
+      <p n="72">II.1.4. Station code given under the present decision and to be provided by the Commission</p>
+      <p n="73">II.1.5. Name of technical body responsible for the station (if different from that responsible for the network)</p>
+      <p n="74">II.1.6. Bodies or programmes to which data are reported (by compound, if necessary) (local, national, European Commission, GEMS, OECD, EMEP, etc.)</p>
+      <p n="75">II.1.7. Monitoring objective(s) (compliance with the requirements of legal instruments exposure assessment (human health and/or ecosystems and/or materials), trend analysis, emission assessment, etc.)</p>
+      <p n="76">II.1.8. Geographical coordinates (according to ISO 6709: geographical longitude and latitude and geodetic altitude)</p>
+      <p n="77">II.1.9. NUTS level IV (nomenclature des unités territoriales statistiques)</p>
+      <p n="78">II.1.10. Pollutants measured</p>
+      <p n="79">II.1.11. Meteorological parameters measured</p>
+      <p n="80">II.1.12. Other relevant information: prevailing wind direction, ratio between distance from and height of closest obstacles, etc.</p>
+      <p n="81">II.2. Classification of station</p>
+      <p n="82">II.2.1. Type of area</p>
+      <p n="83">II.2.1.1. Urban:</p>
+      <p n="84">continuously built-up area</p>
+      <p n="85">II.2.1.2. Suburban:</p>
+      <p n="86">largely built-up area: continuous settlement of detached buildings mixed with non-urbanised areas (small lakes, woods, agricultural)</p>
+      <p n="87">II.2.1.3. Rural(1):</p>
+      <p n="88">all areas that not fulfil the criteria for urban/suburban areas</p>
+      <p n="89">II.2.2. Type of station in relation to dominant emission sources</p>
+      <p n="90">II.2.2.1. Traffic:</p>
+      <p n="91">stations located such that their pollution level is influenced mainly by emissions from a nearby road/street</p>
+      <p n="92">II.2.2.2. Industrial:</p>
+      <p n="93">stations located such that their pollution level is influenced mainly by nearby single industrial sources or industrial areas</p>
+      <p n="94">II.2.2.3. Background:</p>
+      <p n="95">stations that are neither traffic nor industrial(2)</p>
+      <p n="96">II.2.3. Additional information about the station</p>
+      <p n="97">II.2.3.1. Area of representativeness (radius). For traffic stations, give instead the length of street/road that the station represents</p>
+      <p n="98">II.2.3.2. Urban and suburban stations</p>
+      <p n="99">- population of town/city</p>
+      <p n="100">II.2.3.3. Traffic stations</p>
+      <p n="101">- assessed traffic volume (annual average daily traffic)</p>
+      <p n="102">- distance from kerb</p>
+      <p n="103">- heavy-duty fraction of traffic</p>
+      <p n="104">- traffic speed</p>
+      <p n="105">- distance between and height of building facades (street canyons)</p>
+      <p n="106">- width of street/road (non-canyon streets)</p>
+      <p n="107">II.2.3.4. Industrial stations</p>
+      <p n="108">- type of industry(ies) (selected nomenclature for air pollutants code)</p>
+      <p n="109">- distance to source/source area</p>
+      <p n="110">II.2.3.5. Rural background stations (subcategories)</p>
+      <p n="111">- near-city</p>
+      <p n="112">- regional</p>
+      <p n="113">- remote</p>
+      <p n="114">III. INFORMATION CONCERNING MEASUREMENT CONFIGURATION BY COMPOUND</p>
+      <p n="115">III.1. Equipment</p>
+      <p n="116">III.1.1. Name</p>
+      <p n="117">III.1.2. Analytical principle or measurement method</p>
+      <p n="118">III.2. Characteristics of sampling</p>
+      <p n="119">III.2.1. Location of sampling point (facade of building, pavement, kerbside, courtyard, etc.)</p>
+      <p n="120">III.2.2. Height of sampling point</p>
+      <p n="121">III.2.3. Result-integrating time</p>
+      <p n="122">III.2.4. Sampling time</p>
+      <p n="123">(1) If the station is measuring ozone additional information on the status of rural background is to be provided (II.2.3.5).</p>
+      <p n="124">(2) Located such that their pollution level is not mainly influenced by any single source or street but rather by the integrated contribution from all sources upwind of the station (e.g. by all traffic, combustion sources, etc. upwind of a station in a city or by all upwind source areas (cities, industrial areas) in a rural area).</p>
+      <p n="125">ANNEX III</p>
+      <p n="126">DATA VALIDATION PROCEDURE AND QUALITY ASSURANCE</p>
+      <p n="127">All transmitted data are deemed to be valid.</p>
+      <p n="128">It is the responsibility of the Member States to ensure that a quality assurance procedure is in place, which meets in general the objectives of this Decision and in paricular the objectives of the relevant Directives.</p>
+      <p n="129">ANNEX IV</p>
+      <p n="130">CRITERIA FOR THE AGGREGATION OF DATA AND THE CALCULATION OF STATISTICAL PARAMETERS</p>
+      <p n="131">These criteria mainly concern the data capture</p>
+      <p n="132">If criteria for the aggregation of data and the calculation of statistical parameters have not been laid down in EU directives the following applies:</p>
+      <p n="133">(a) Aggregation of data</p>
+      <p n="134">The criteria for the calculaltion of one-hour and 24-hour values from data with a smaller averaging time are</p>
+      <p n="135">&gt;TABLE&gt;</p>
+      <p n="136">(b) Calculation of statistical parameters</p>
+      <p n="137">&gt;TABLE&gt;</p>
+      <p n="138">The ratio between the number of valid data for the two seasons of the year considered cannot be greater than 2, the two seasons being winter (from January to March inclusive and from October to December inclusive) and summer (from April to September inclusive)."</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32001D0368-en" n="32001D0368" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0368 English</title>
+        <title>2001/368/EC,: Council Decision of 7 May 2001 on the adjustment of the allowances paid to members and alternates of the Economic and Social Committee</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0368:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0368:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1048</classCode>
+        <classCode scheme="eurovoc">3545</classCode>
+        <classCode scheme="eurovoc">3557</classCode>
+        <classCode scheme="eurovoc">6054</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0368-en." lang="en">
+    <body>
+      <head n="1">2001/368/EC,: Council Decision of 7 May 2001 on the adjustment of the allowances paid to members and alternates of the Economic and Social Committee</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 7 May 2001</p>
+      <p n="4">on the adjustment of the allowances paid to members and alternates of the Economic and Social Committee</p>
+      <p n="5">(2001/368/EC, Euratom)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular the fourth subparagraph of Article 258 thereof,</p>
+      <p n="8">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular the fourth subparagraph of Article 166 thereof,</p>
+      <p n="9">Having regard to the request from the Economic and Social Committee of 15 March 2001,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The amounts of the daily allowances paid to members and alternates of the Economic and Social Committee, laid down by Council Decision 81/121/EEC(1), should be adapted.</p>
+      <p n="12">(2) Provision should be made for the amounts of the daily allowances to be revised after a year, having regard to the principle sought by the Council that reimbursements should be based on the actual costs incurred rather than on a flat-rate arrangement.</p>
+      <p n="13">(3) The Economic and Social Committee should be allowed to set the amount of experts' allowances,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Article 2 of Decision 81/121/EEC shall be replaced by the following: "Article 2</p>
+      <p n="17">1. The daily allowance per travel day shall be:</p>
+      <p n="18">- EUR 120 for members and alternates.</p>
+      <p n="19">2. The daily allowance per meeting day shall be:</p>
+      <p n="20">- EUR 181 for members and alternates.</p>
+      <p n="21">3. Where the beneficiary furnishes satisfactory proof that he has incurred expenditure on an overnight stay at the place of work, he shall be paid a supplementary daily allowance of EUR 25."</p>
+      <p n="22">Article 2</p>
+      <p n="23">The Council may revise the amounts laid down in Article 1 of this Decision, on the basis of a report submitted by the Economic and Social Committee as from 1 May 2002.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Decision shall take effect on 1 May 2001.</p>
+      <p n="26">It shall expire on 31 December 2002.</p>
+      <p n="27">Done at Brussels, 7 May 2001.</p>
+      <p n="28">For the Council</p>
+      <p n="29">The President</p>
+      <p n="30">B. Ringholm</p>
+      <p n="31">(1) OJ L 67, 12.3.1981, p. 29. Decision as last amended by Council Decision 93/358/EC, Euratom (OJ L 205, 31.8.1995, p. 38).</p>
+    </body>
+  </text>
+</TEI.2>

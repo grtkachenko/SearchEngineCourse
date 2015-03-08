@@ -1,0 +1,173 @@
+<TEI.2 id="jrc32002R1226-en" n="32002R1226" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1226 English</title>
+        <title>Commission Regulation (EC) No 1226/2002 of 8 July 2002 amending Annex B to Council Directive 64/432/EEC</title>
+      </titleStmt>
+      <extent>135 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1226:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1226:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">3660</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1226-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1226/2002 of 8 July 2002 amending Annex B to Council Directive 64/432/EEC</head>
+      <p n="2">Commission Regulation (EC) No 1226/2002</p>
+      <p n="3">of 8 July 2002</p>
+      <p n="4">amending Annex B to Council Directive 64/432/EEC</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Directive 64/432/EEC(1) of 26 June 1964 on animal health problems affecting intra-Community trade in bovine animals and swine, as last amended by Commission Regulation No (EC) 535/2002(2), and in particular Article 16(1), second paragraph thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) On 11 October 1999 the Scientific Committee on Animal Health and Animal Welfare adopted a report(3) on the modification of technical Annexes of Council Directive 64/432/EEC to take account of scientific developments regarding tuberculosis, brucellosis and enzootic bovine leucosis.</p>
+      <p n="10">(2) In accordance with the above report, the tests for tuberculosis should be carried out in line with the Manual of Standards for Diagnostic Tests and Vaccines, Third Edition, 1996, of the Office International des Epizooties (OIE).</p>
+      <p n="11">(3) In August 2001 the OIE published the Fourth Edition 2000 of the said Manual, including certain modifications in the description of tests for tuberculosis.</p>
+      <p n="12">(4) In January 2002 the European Directorate for the Quality of Medicines published the Fourth Edition 2002 of the European Pharmacopoeia including the monogaphs 0535 and 0536 for the Tuberculin Purified Protein Derivative Avian and Bovine.</p>
+      <p n="13">(5) It is therefore necessary to amend Annex B to Directive 64/432/EEC so as to lay down test procedures applicable for surveillance and trade purposes within the Community taking account of the opinion of the Scientific Veterinary Committee.</p>
+      <p n="14">(6) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Annex B to Directive 64/432/EEC is replaced by the Annex to the present Regulation.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 8 July 2002.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">David Byrne</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ 121, 29.7.1964, p. 1977/64.</p>
+      <p n="26">(2) OJ L 80, 23.3.2002, p. 22.</p>
+      <p n="27">(3) SANCO/B3/R10/1999.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">"ANNEX B</p>
+      <p n="30">TUBERCULOSIS</p>
+      <p n="31">1. IDENTIFICATION OF THE AGENT</p>
+      <p n="32">The presence of Mycobacterium bovis (M. bovis), agent of bovine tuberculosis, in clinical and post-mortem specimens may be demonstrated by examination of stained smears or immunoperoxidase techniques and confirmed by cultivation of the organism on primary isolation medium.</p>
+      <p n="33">Pathological material for the confirmation of M. bovis should be taken from abnormal lymph nodes and parenchymatous organs such as lungs, liver, spleen, etc. In the cases where the animal does not present pathological lesions, samples from the retropharyngeal, bronchial, mediastinal, supramammary, mandibular and some mesenteric lymph nodes and liver should be collected for examination and culture.</p>
+      <p n="34">Identification of isolates may be usually carried out by determining cultural and biochemical properties. The polymerase chain reaction (PCR) may also be employed for the detection of the M. tuberculosis complex. DNA analysis techniques may prove to be faster and more reliable than biochemical methods for the differentiation of M. bovis from other members of the M. tuberculosis complex. Genetic fingerprinting allows distinguishing between different strains of M. bovis and will enable patterns of origin, transmission and spread of M. bovis to be described.</p>
+      <p n="35">The techniques and media used, their standardisation and the interpretation of results must conform to that specified in the OIE Manual of Standards for Diagnostic Tests and Vaccines, Fourth Edition, 2000, Chapter 2.3.3 (bovine tuberculosis).</p>
+      <p n="36">2. THE TUBERCULIN SKIN TEST</p>
+      <p n="37">Tuberculin PPD (Purified Protein Derivatives) that fulfil the standards laid down in paragraph 2.1 shall be used for carrying out official tuberculin skin test following the procedures referred to in paragraph 2.2.</p>
+      <p n="38">2.1. Standards for tuberculin (bovine and avian)</p>
+      <p n="39">2.1.1. Definition</p>
+      <p n="40">Tuberculin purified protein derivative (tuberculin PPD, bovine or avian) is a preparation obtained from the heat-treated products of growth and lysis of Mycobacterium bovis or Mycobacterium avium (as appropiate) capable of revealing a delayed hypersensitivity in an animal sensitised to microorganisms of the same species.</p>
+      <p n="41">2.1.2. Production</p>
+      <p n="42">It is obtained from the water-soluble fractions prepared by heating in free-flowing steam and subsequently filtering cultures of M. bovis or M. avium (as appropiate) grown in a liquid synthetic medium. The active fraction of the filtrate, consisting mainly of protein, is isolated by precipitation, washed and re-dissolved. An antimicrobial preservative that does not give rise to false positive reactions, such as phenol, may be added. The final sterile preparation, free from mycobacteria, is distributed aseptically into sterile tamper-proof glass containers which are then closed so as to prevent contamination. The preparation may be freeze-dried.</p>
+      <p n="43">2.1.3. Identification of the product</p>
+      <p n="44">Inject a range of graded doses intradermally at different sites into suitably sensitised albino guinea-pigs, each weighing not less than 250 g. After 24 h to 28 h, reactions appear in the form of oedematous swellings with erythema with or without necrosis at the points of injection. The size and severity of the reactions vary according to the dose. Unsensitised guinea-pigs show no reactions to similar injections.</p>
+      <p n="45">2.1.4. Tests</p>
+      <p n="46">2.1.4.1. pH: The pH is 6.5 to 7.5.</p>
+      <p n="47">2.1.4.2. Phenol: If the preparation to be examined contains phenol, its concentration is not more than 5 g/l.</p>
+      <p n="48">2.1.4.3. Sensitising effect: Use a group of three guinea-pigs that have not been treated with any material which will interfere with the test. On 3 occasions at intervals of five days inject intradermally into each guinea-pig a dose of the preparation to be examined equivalent to 500 IU in 0,1 ml. 15 to 21 days after the third injection inject the same dose (500 IU) intradermally into these animals and into a control group of three guinea-pigs of the same mass and which have not previously received injections of tuberculin. 24 to 28 hours after the last injections, the reactions of the two groups are not significantly different.</p>
+      <p n="49">2.1.4.4. Toxicity: Use two guinea-pigs, each weighing not less than 250 g and which have not previously been treated with any material which will interfere with the test. Inject subcutaneously into each guinea-pig 0,5 ml of the preparation to be examined. Observe the animals for seven days. No abnormal effects occur during the observation period.</p>
+      <p n="50">2.1.4.5. Sterility: It complies with the test for sterility prescribed in the monograph on Vaccines for veterinary use 4th Edition 2002 of the European Pharmacopoeia.</p>
+      <p n="51">2.1.5. Potency</p>
+      <p n="52">The potency of tuberculin purified protein derivative (bovine and avian) is determined by comparing the reactions produced in sensitised guinea-pigs by the intradermal injection of a series of dilutions of the preparation to be examined with those produced by known concentrations of a reference preparation of tuberculin (bovine or avian, as appropiate) purified protein derivative calibrated in International Units.</p>
+      <p n="53">To test the potency, sensitise not fewer than nine albino guinea-pigs, each weighing 400 g to 600 g, by the deep intramuscular injection of 0,0001 mg of wet mass of living M. bovis of strain AN5 suspended in 0.5 ml of a 9 g/l solution of sodium chloride R for bovine tuberculin, or a suitable dose of inactivated or live M. avium for avian tuberculin. Not less than four weeks after the sensitisation of the guinea-pigs, shave their flanks to provide space for not more than four injection sites on each side. Prepare dilutions of the preparation to be examined and of the reference preparation using isotonic phosphate-buffered saline (pH 6,5-7,5) containing 0,005 g/l of polysorbate 80 R. Use not fewer than three doses of the reference preparation and not fewer than three doses of the preparation to be examined. Choose the doses such that the lesions produced have a diameter of not less than 8 mm and not more than 25 mm. Allocate the dilutions randomly to the sites using a Latin square design. Inject each dose intradermally in a constant volume of 0,1 ml or 0,2 ml. Measure the diameters of the lesions after 24 to 28 hours and calculate the result of the test using the usual statistical methods and assuming that the diameters of the lesions are directly proportional to the logarithm of the concentration of the tuberculins.</p>
+      <p n="54">The test is not valid unless the fiducial limits of error (P = 0,95) are not less than 50 % and not more then 200 % of the estimated potency. The estimated potency is not less than 66 % and not more than 150 % of the stated potency for bovine tuberculin. The estimated potency is not less than 75 % and not more than 133 % of the stated potency for avian tuberculin. The stated potency is not less than 20000 IU/ml for both tuberculins (bovine and avian).</p>
+      <p n="55">2.1.6. Storage</p>
+      <p n="56">Store protected from light, at a temperature of 5 ± 3 °C.</p>
+      <p n="57">2.1.7. Labelling</p>
+      <p n="58">The label states:</p>
+      <p n="59">- the potency in International Units per millilitre,</p>
+      <p n="60">- the name and quantity of any added substance,</p>
+      <p n="61">- for freeze-dried preparations:</p>
+      <p n="62">- -the name and volume of the reconstituting liquid to be added,</p>
+      <p n="63">- -that the product should be used immediately after reconstitution.</p>
+      <p n="64">2.2. Test procedures</p>
+      <p n="65">2.2.1. The following shall be recognised as official intradermal tuberculin tests:</p>
+      <p n="66">- the single intradermal test: this test requires a single injection of bovine tuberculin,</p>
+      <p n="67">- the intradermal comparative test: this test requires one injection of bovine tuberculin and one injection of avian tuberculin given simultaneously.</p>
+      <p n="68">2.2.2. The dose of tuberculin injected shall be:</p>
+      <p n="69">- not less than 2000 IU of bovine tuberculin,</p>
+      <p n="70">- not less than 2000 IU of avian tuberculin.</p>
+      <p n="71">2.2.3. The volume of each injection dose shall not exceed 0,2 ml.</p>
+      <p n="72">2.2.4. Tuberculin tests shall be carried out by injecting tuberculin(s) into the skin of the neck. The injection sites shall be situated at the border of the anterior and middle thirds of the neck. When both avian and bovine tuberculins are injected in the same animal, the site for injection of avian tuberculins shall be about 10 cm from the crest of the neck and the site for the injection of bovine tuberculin about 12,5 cm lower on a line roughly parallel with the line of the shoulder or on different sides of the neck; in young animals in which there is not room to separate the sites sufficiently on one side of the neck, one injection shall be made on each side of the neck at identical sites in the centre of the middle third of the neck.</p>
+      <p n="73">2.2.5. The technique of tuberculin testing and interpretation of reactions shall be as follows:</p>
+      <p n="74">2.2.5.1. Technique:</p>
+      <p n="75">Injection sites shall be clipped and cleansed. A fold of skin within each clipped area shall be taken between the forefinger and thumb and measured with callipers and recorded. The dose of tuberculin shall then be injected by a method that ensures that the tuberculin is delivered intradermically. A short sterile needle, bevel edge outwards, with graduated syringe charged with tuberculin, inserted obliquely into the deeper layers of the skin may be used. A correct injection shall be confirmed by palpating a small pea-like swelling at each site of injection. The skin-fold thickness of each injection site shall be remeasured 72 hours (± 4 hours) after injection and recorded.</p>
+      <p n="76">2.2.5.2. Interpretation of reactions</p>
+      <p n="77">The interpretation of reactions shall be based on clinical observations and the recorded increase(s) in skin-fold thickness at the sites of injection 72 hours after injection of tuberculin(s).</p>
+      <p n="78">(a) Negative reaction: if only limited swelling is observed, with an increase of not more than 2 mm in the thickness of the fold of skin without clinical signs such as diffuse or extensive oedema, exudation, necrosis, pain or inflammation of the lymphatic ducts in that region or of the lymph nodes.</p>
+      <p n="79">(b) Inconclusive reaction: if no clinical signs such as mentioned in a) are observed and if the increase in skin-fold thickness is more than 2 mm and less than 4 mm.</p>
+      <p n="80">(c) Positive reaction: if clinical signs such as mentioned in a) are observed or there is an increase of 4 mm or more in the thickness of the fold of skin at the injection site.</p>
+      <p n="81">2.2.5.3. The interpretation of official intradermal tuberculin tests shall be as follows:</p>
+      <p n="82">2.2.5.3.1. Single intradermal test:</p>
+      <p n="83">(a) positive: a positive bovine reaction as defined in paragraph 2.2.5.2(c);</p>
+      <p n="84">(b) inconclusive: an inconclusive reaction as defined in paragraph 2.2.5.2(b);</p>
+      <p n="85">(c) negative: a negative bovine reaction as defined in paragraph 2.2.5.2(a).</p>
+      <p n="86">Animals inconclusive to the single intradermal test shall be subjected to another test after a minimum of 42 days.</p>
+      <p n="87">Animals which are not negative to this second test shall be deemed to be positive to the test.</p>
+      <p n="88">Animals positive to the single intradermal test may be subjected to an intradermal comparative test if false positive reaction or interference reaction is suspected.</p>
+      <p n="89">2.2.5.3.2. Intradermal comparative test for the establishment and maintenance of officially tuberculosis-free herd status:</p>
+      <p n="90">(a) positive: a positive bovine reaction which is more than 4 mm greater than the avian reaction, or the presence of clinical signs;</p>
+      <p n="91">(b) inconclusive: a positive or inconclusive bovine reaction which is from 1 to 4 mm greater than the avian reaction, and the absence of clinical signs;</p>
+      <p n="92">(c) negative: a negative bovine reaction, or a positive or inconclusive bovine reaction but which is equal to or less than a positive or inconclusive avian reaction and the absence of clinical signs in both cases.</p>
+      <p n="93">Animals inconclusive to the intradermal comparative test shall be subjected to another test after a minimum of 42 days. Animals, which are not negative to this second test, shall be deemed to be positive to the test.</p>
+      <p n="94">2.2.5.3.3. Officially tuberculosis-free herd status may be suspended and animals from the herd shall not be allowed to enter intra-Community trade until such time as the status of the following animals is resolved:</p>
+      <p n="95">(a) animals which have been deemed to be inconclusive to the single intradermal tuberculin test;</p>
+      <p n="96">(b) animals which have been deemed to be positive to the single intradermal tuberculin test but are awaiting retest with an intradermal comparative test;</p>
+      <p n="97">(c) animals which have been deemed to be inconclusive to the intradermal comparative test.</p>
+      <p n="98">2.2.5.3.4. Where animals are required by Community legislation to be subjected to an intradermal test prior to movement, the test shall be interpreted so that no animal which shows an increase in skin-fold thickness greater than 2 mm or the presence of clinical signs is entered into intra-Community trade.</p>
+      <p n="99">2.2.5.3.5. To enable detection of the maximum number of infected and diseased animals in a herd or in a region, Member States may modify the criteria for the interpretation of the test in order to achieve improved test sensitivity considering all inconclusive reactions referred in 2.2.5.3.1(b) and 2.2.5.3.2(b) as positive reactions.</p>
+      <p n="100">3. SUPPLEMENTARY TESTING</p>
+      <p n="101">To enable detection of the maximum number of infected and diseased animals in a herd or in a region, Member States may authorise the employ of the gamma-interferon assay referred in the OIE Manual of Standards for Diagnostic Tests and Vaccines, 4th Edition, 2000, Chapter 2.3.3. (bovine tuberculosis), in addition to the tuberculin test.</p>
+      <p n="102">4. STATE INSTITUTES AND NATIONAL REFERENCE LABORATORIES</p>
+      <p n="103">4.1. Tasks and responsibilities</p>
+      <p n="104">The State Institutes and Reference Laboratories included in paragraph 3.2 shall be responsible for the official testing of tuberculins or reagents included in paragraph 2 and 3 in their respective States to ensure each of these tuberculins or reagents are adequate in relation to the standards above referred.</p>
+      <p n="105">4.2. List of State institutes and national reference laboratories</p>
+      <p n="106">1. Germany:</p>
+      <p n="107">Paul-Ehrlich Institut (PEI), Bundesamt für Sera und Impstoffe, D-23207 Langen; Bundesinstitut für gesundheitlichen Verbraucherschutz und Veterinärmedizin - Bereich Jena - D-07743 Jena;</p>
+      <p n="108">2. Belgium:</p>
+      <p n="109">Institut Scientifique de la Santé Publique - Louis Pasteur, 14 Rue Juliette Wytsman - B 1050 Bruxelles - Belgique;</p>
+      <p n="110">3. France:</p>
+      <p n="111">Laboratoire national des médicaments vétérinaires, Fougères;</p>
+      <p n="112">4. Grand Duchy of Luxembourg:</p>
+      <p n="113">Institute of the supplying country;</p>
+      <p n="114">5. Italy:</p>
+      <p n="115">Istituto superiore di sanità, Rome;</p>
+      <p n="116">6. Netherlands:</p>
+      <p n="117">Centraal Instituut voor Dierziekte Controle Lelystad (CIDC-Lelystad), Lelystad;</p>
+      <p n="118">7. Denmark:</p>
+      <p n="119">Danmarks Veterinærinstitut, Bülowsvej 27, DK-1790 København;</p>
+      <p n="120">8. Ireland:</p>
+      <p n="121">Institute of the supplying country;</p>
+      <p n="122">9. United Kingdom:</p>
+      <p n="123">Veterinary Laboratory Agency, Addlestone, Weybridge;</p>
+      <p n="124">10. Greece:</p>
+      <p n="125">Κέντρο Κτηνιατρικών Ιδρυμάτων, Νεαπόλεως 25, 153 10 Αθήνα;</p>
+      <p n="126">11. Spain:</p>
+      <p n="127">Laboratorio de Sanidad y producción animal de Granada;</p>
+      <p n="128">12. Portugal:</p>
+      <p n="129">Laboratorio Nacional de Investigação Veterinária, Lisbon;</p>
+      <p n="130">13. Austria:</p>
+      <p n="131">Bundesanstalt für veterinärmedizinische Untersuchungen, Mödling;</p>
+      <p n="132">14. Finland:</p>
+      <p n="133">Eläinlääkintä - ja elintarviketutkimus - laitos - Forskningsanstalten för veterinärmedicin och livsmedel, Helsinki;</p>
+      <p n="134">15. Sweden:</p>
+      <p n="135">Statens veterinärmedicinska anstalt, Uppsala."</p>
+    </body>
+  </text>
+</TEI.2>

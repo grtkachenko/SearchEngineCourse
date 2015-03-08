@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31996D0753-en" n="31996D0753" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0753 English</title>
+        <title>96/753/EC: Council Decision of 6 December 1996 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Kingdom of Norway, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Kingdom of Norway</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0753:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0753:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">2275</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+        <classCode scheme="eurovoc">666</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0753-en." lang="en">
+    <body>
+      <head n="1">96/753/EC: Council Decision of 6 December 1996 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Kingdom of Norway, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Kingdom of Norway</head>
+      <p n="2">COUNCIL DECISION of 6 December 1996 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Kingdom of Norway, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Kingdom of Norway (96/753/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 in conjunction with the first sentence of Article 228 (2) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Kingdom of Norway, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Kingdom of Norway (1) was negotiated in order to take account of the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden to the European Union and the implementation of the Uruguay Round Agreement;</p>
+      <p n="7">Whereas the Agreement should be approved,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Kingdom of Norway, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Kingdom of Norway is hereby approved on behalf of the Community.</p>
+      <p n="11">The text of the Agreement is attached to this Decision.</p>
+      <p n="12">Article 2</p>
+      <p n="13">Detailed rules for the application of this Decision shall be adopted by the Commission assisted by the Committee referred to in Article 15 of Regulation (EC) No 3448/93 (2) in accordance with the procedure provided for in Article 16 of that Regulation.</p>
+      <p n="14">Article 3</p>
+      <p n="15">The President of the Council is hereby authorized to designate the person empowered to sign the Agreement referred to in Article 1 in order to bind the Community.</p>
+      <p n="16">Done at Brussels, 6 December 1996.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">D. SPRING</p>
+      <p n="20">(1) OJ No L 171, 27. 6. 1973, p. 1.</p>
+      <p n="21">(2) OJ No L 318, 20. 12. 1993, p. 18.</p>
+    </body>
+  </text>
+</TEI.2>

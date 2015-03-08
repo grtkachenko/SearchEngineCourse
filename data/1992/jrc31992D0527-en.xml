@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31992D0527-en" n="31992D0527" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992D0527 English</title>
+        <title>92/527/EEC: Commission Decision of 4 November 1992 laying down the model for the certificate referred to in Article 7 (1) of Council Directive 91/496/EEC</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0527:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0527:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992D0527-en." lang="en">
+    <body>
+      <head n="1">92/527/EEC: Commission Decision of 4 November 1992 laying down the model for the certificate referred to in Article 7 (1) of Council Directive 91/496/EEC</head>
+      <p n="2">COMMISSION DECISION of 4 November 1992 laying down the model for the certificate referred to in Article 7 (1) of Council Directive 91/496/EEC (92/527/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 91/496/EEC of 15 July 1991 laying down the principles governing the organization of veterinary checks on animals entering the Community from third countries and amending Directives 89/662/EEC, 90/425/EEC and 90/675/EEC (1), as amended by Decision 92/438/EEC (2), and in particular Article 7 (1) thereof,</p>
+      <p n="6">Whereas the official veterinarian at the border inspection post, after having completed the veterinary checks, must issue a certificate attesting that these checks have been carried out to his satisfaction;</p>
+      <p n="7">Whereas the certificate must also specify the nature of the samples that have been taken and the results of any laboratory tests, or when those results are expected;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The certificate provided for in the second indent of Article 7 (1) of Directive 91/496/EEC must be drawn up in accordance with the model laid down in the Annex. The certificate must take up a single sheet only.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Decision is addressed to the Member States. Done at Brussels, 4 November 1992. For the Commission</p>
+      <p n="14">Ray MAC SHARRY</p>
+      <p n="15">Member of the Commission</p>
+      <p n="16">(1) OJ No L 268, 24. 9. 1991, p. 56. (2) OJ No L 243, 25. 8. 1992, p. 27.</p>
+      <p n="17">ANNEX</p>
+      <p n="18">CERTIFICATE OF BORDER CROSSING</p>
+      <p n="19">NB: Certificate to be completed in capital letters.</p>
+      <p n="20">1. Certificate number 2. Border inspection post Full address Code number (Animo) 3. Species of animal Common name Code number (Animo) 4. Third country of origin Region 5. Size of consignment (1) Number of animals Number of packages Number of containers 6. Category of animal (1) For breeding For fattening For slaughter Other (to be specified) 7. Number of the original (1) of the certificate of the accompanying document 8. Importer Full name and address 9. Destination Full name and address Place where the animals are housed 10. Means of transport after border crossing identification (2) Railway wagon (No) Lorry (No) Aeroplane (flight No) Vessel (Name) 11. Laboratory tests (1) Sample taken Yes/No (3) Nature of sample: blood (2) urine (2) faecal matter (2) other (2) (to be specified) Nature of test Result of test Laboratory test underway (4) 12. Specific requirements</p>
+      <p n="21">Additional guarantees at place of destination (1)</p>
+      <p n="22">13. Health declaration (1) (2)</p>
+      <p n="23">I, the undersigned, official veterinarian for the border inspection post of , hereby certify that:</p>
+      <p n="24">(a) the documentary, identity and physical checks required under Directive 91/496/EEC have been carried out, that the animals have been found to be suitable for entry into the territory of the Community, and that the consignment fulfils the Community animal health import conditions (5);</p>
+      <p n="25">(b) the documentary, identity and physical checks have been carried out and that the animals comply with the animal health requirements of (Member State of destination) (6);</p>
+      <p n="26">(c) the minimum requirements laid down in Council Directive 77/489/EEC on the protection of animals during international transport have been complied with.</p>
+      <p n="27">Done at</p>
+      <p n="28">Date</p>
+      <p n="29">Name and function of the official veterinarian</p>
+      <p n="30">Signature of the official veterinarian</p>
+      <p n="31">Stamp (7)</p>
+      <p n="32">This certificate must accompany the consignment to the place of destination. It covers only the animals of a single category transported in the same means of transport and having the same destination.</p>
+      <p n="33">(1) Complete as appropriate. (2) Complete as appropriate. (3) Delete the inappropriate. (4) To be communicated to the competent authority at the place of destination. (5) Health declaration for animals of species for which import rules have been harmonized at Community level, as well as for animals the trade in which has been harmonized at Community level but which come from a third country for which uniform animal health conditions have not yet been established. (6) Health declaration for animals of species not covered by Annex A to Directive 90/425/EEC, and of species covered by Council Directives 91/67/EEC (aquaculture) and 91/68/EEC (sheep and goats). (7) To be applied in a colour different from that used in the certificate.</p>
+    </body>
+  </text>
+</TEI.2>

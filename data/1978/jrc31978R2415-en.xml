@@ -1,0 +1,46 @@
+<TEI.2 id="jrc31978R2415-en" n="31978R2415" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31978R2415 English</title>
+        <title>Commission Regulation (EEC) No 2415/78 of 17 October 1978 on the statistical threshold in the external trade statistics of the Community and statistics of trade between Member States</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31978R2415:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31978R2415:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31978R2415-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 2415/78 of 17 October 1978 on the statistical threshold in the external trade statistics of the Community and statistics of trade between Member States</head>
+      <p n="2">COMMISSION REGULATION (EEC) No 2415/78 of 17 October 1978 on the statistical threshold in the external trade statistics of the Community and statistics of trade between Member States</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1736/75 of 24 June 1975 on the external trade statistics of the Community and statistics of trade between Member States (1), as amended by Regulation (EEC) No 2845/77 (2), and in particular Articles 24 and 41 thereof,</p>
+      <p n="6">Whereas, since Council Regulation (EEC) No 2845/77 of 19 December 1977 has now entered into force and fixed the new statistical threshold at 300 European Units of Account (EUA), this latter should be converted into national currencies;</p>
+      <p n="7">Whereas the rate of conversion for each currency in relation to the EUA varies from day to day ; whereas to determine the value of the statistical threshold the application of a fixed rate of conversion is required ; whereas this latter rate may be based on the average exchange rates during the period January to December 1977;</p>
+      <p n="8">Whereas in the interests of simplification the amounts so obtained should be rounded off;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Committee on External Trade Statistics,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The statistical threshold, within the meaning of Article 24 of Regulation (EEC) No 1736/75, expressed in national currencies, shall not exceed: &gt;PIC FILE= "T0013891"&gt;</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 17 October 1978.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">François-Xavier ORTOLI</p>
+      <p n="19">Vice-President (1)OJ No L 183, 14.7.1975, p. 3. (2)OJ No L 329, 22.12.1977, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

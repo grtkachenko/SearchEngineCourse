@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31997R0142-en" n="31997R0142" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R0142 English</title>
+        <title>Commission Regulation (EC) No 142/97 of 27 January 1997 concerning the delivery of information about certain existing substances as foreseen under Council Regulation (EEC) No 793/93 (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0142:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0142:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1362</classCode>
+        <classCode scheme="eurovoc">2739</classCode>
+        <classCode scheme="eurovoc">2836</classCode>
+        <classCode scheme="eurovoc">4038</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R0142-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 142/97 of 27 January 1997 concerning the delivery of information about certain existing substances as foreseen under Council Regulation (EEC) No 793/93 (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 142/97 of 27 January 1997 concerning the delivery of information about certain existing substances as foreseen under Council Regulation (EEC) No 793/93 (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 793/93 of 23 March 1993 on the evaluation and control of the risks of existing substances (1), and in particular Article 12 (2) thereof,</p>
+      <p n="6">Whereas the Commission needs relevant information on certain substances in order to initiate the review procedure under Articles 69, 84 and 112 of the Accession Treaty of provisions not yet applicable in the new Member States, whereas this information must be available before all the information required by Articles 3 and 4 of Regulation (EEC) No 793/93 is available;</p>
+      <p n="7">Whereas Article 12 foresees that for certain substances suspected of presenting serious risks to man or the environment, the manufacturers and importers may be obliged to deliver available information;</p>
+      <p n="8">Whereas Commission Regulation (EEC) No 1488/94 (2) outlines the principles for the assessment of risks to man and the environment of existing substances in accordance with Regulation (EEC) No 793/93;</p>
+      <p n="9">Whereas, the provisions of this Regulation are in accordance with the opinion of the Committee established pursuant to Article 15 of Regulation (EEC) No 793/93,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The manufacturer(s) and importer(s) of the substances listed in the Annex to this Regulation shall deliver all relevant and available information concerning exposure to man and the environment of these substances to the Commission within four months of the entry in force of this Regulation.</p>
+      <p n="13">The information relevant to the exposure information concerns the emission of, or exposure to, the chemical to human populations or environmental spheres at various stages during the life cycle of the substance according Article 3 (3) and Annex 1A of Regulation (EC) No 1488/94 where:</p>
+      <p n="14">- the human populations are workers, consumers and man exposed via the environment;</p>
+      <p n="15">- the environmental spheres are aquatic, terrestrial and atmosphere, as well as information related to fate of the chemical in waste water treatment plants and it's accumulation in the food chain;</p>
+      <p n="16">- the life cycle of a substance is seen as manufacture, transport, storage, formulation into a preparation or other processing, use and disposal or recovery.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 27 January 1997.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Ritt BJERREGAARD</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ No L 84, 5. 4. 1993, p. 1.</p>
+      <p n="25">(2) OJ No L 161, 29. 6. 1994, p. 3.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32003D0242-en" n="32003D0242" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0242 English</title>
+        <title>2003/242/EC: Commission Decision of 3 April 2003 amending Decision 93/231/EEC, authorising, in respect of the marketing of seed potatoes in all or part of the territory of certain Member States, more stringent measures against certain diseases than are provided for in Annexes I and II to Council Directive 66/403/EEC (Text with EEA relevance) (notified under document number C(2003) 1057)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0242:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0242:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">1595</classCode>
+        <classCode scheme="eurovoc">2409</classCode>
+        <classCode scheme="eurovoc">2548</classCode>
+        <classCode scheme="eurovoc">2713</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0242-en." lang="en">
+    <body>
+      <head n="1">2003/242/EC: Commission Decision of 3 April 2003 amending Decision 93/231/EEC, authorising, in respect of the marketing of seed potatoes in all or part of the territory of certain Member States, more stringent measures against certain diseases than are provided for in Annexes I and II to Council Directive 66/403/EEC (Text with EEA relevance) (notified under document number C(2003) 1057)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 3 April 2003</p>
+      <p n="4">amending Decision 93/231/EEC, authorising, in respect of the marketing of seed potatoes in all or part of the territory of certain Member States, more stringent measures against certain diseases than are provided for in Annexes I and II to Council Directive 66/403/EEC</p>
+      <p n="5">(notified under document number C(2003) 1057)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/242/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 2002/56/EC, of 13 June 2002, on the marketing of seed potatoes(1), as amended by Commission Decision 2003/66/EC(2), and in particular Article 17(2) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 93/231/EC(3), as last amended by Decision 96/332/EC(4), authorised certain Member States, in respect of listed regions, to restrict the marketing of seed potatoes to basic seed potatoes of certain Community grades.</p>
+      <p n="13">(2) Changes in the administrative structure of certain regions in Finland require that the entry relating to Finland in the said Decision be amended.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The Annex to Decision 93/231/EEC is hereby amended in accordance with the Annex to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Decision is addressed to the Member States.</p>
+      <p n="20">Done at Brussels, 3 April 2003.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">David Byrne</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 193, 20.7.2002, p. 60; Directive which has repealed and replaced Directive 66/403/EEC.</p>
+      <p n="25">(2) OJ L 25, 30.1.2003, p. 42.</p>
+      <p n="26">(3) OJ L 106, 30.4.1993, p. 11.</p>
+      <p n="27">(4) OJ L 127, 25.5.1996, p. 31.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">In the entry relating to Finland in the Annex to Decision 93/231/EEC, the text in column 2 is replaced by the following:</p>
+      <p n="30">"&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

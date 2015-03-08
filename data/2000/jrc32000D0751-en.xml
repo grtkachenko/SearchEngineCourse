@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32000D0751-en" n="32000D0751" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0751 English</title>
+        <title>2000/751/EC: Council Decision of 30 November 2000 on declassifying certain parts of the Common Manual adopted by the Executive Committee established by the Convention implementing the Schengen Agreement of 14 June 1985</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0751:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0751:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1589</classCode>
+        <classCode scheme="eurovoc">4479</classCode>
+        <classCode scheme="eurovoc">5311</classCode>
+        <classCode scheme="eurovoc">5405</classCode>
+        <classCode scheme="eurovoc">5456</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0751-en." lang="en">
+    <body>
+      <head n="1">2000/751/EC: Council Decision of 30 November 2000 on declassifying certain parts of the Common Manual adopted by the Executive Committee established by the Convention implementing the Schengen Agreement of 14 June 1985</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 30 November 2000</p>
+      <p n="4">on declassifying certain parts of the Common Manual adopted by the Executive Committee established by the Convention implementing the Schengen Agreement of 14 June 1985</p>
+      <p n="5">(2000/751/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 207 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) By its Decisions of 14 December 1993 (SCH/Com-ex (93) 22 rev) and 23 June 1998 (SCH/Com-ex (98) 17), the Executive Committee established by the Convention implementing the Schengen Agreement of 14 June 1985, which was replaced by the Council pursuant to Article 2 of the Schengen Protocol, classified as "Confidential" all the provisions of the Common Manual, the last version of which was adopted by the Decision of the said Executive Committee on 28 April 1999 (SCH/Com-ex (99) 13).</p>
+      <p n="10">(2) The Common Manual and the Decisions of the Executive Committee on its classification form part of the Schengen acquis as defined by the Council in its Decision 1999/435/EC(1).</p>
+      <p n="11">(3) Certain parts of the Common Manual should be declassified, including the provisions corresponding to the non-classified provisions of the Common Consular Instructions,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Part I and Annexes 1, 2, 3, 4, 5, 5a, 6, 6a, 7, 8, 8a, 9, 10, 11, 12, 13, 14 and 14a of the Common Manual shall be declassified.</p>
+      <p n="15">Article 2</p>
+      <p n="16">The declassified parts of the Common Manual shall be published in the Official Journal of the European Communities.</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Decision shall take effect on the day of its publication.</p>
+      <p n="19">Done at Brussels, 30 November 2000.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">M. Lebranchu</p>
+      <p n="23">(1) OJ L 176, 10.7.1999, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

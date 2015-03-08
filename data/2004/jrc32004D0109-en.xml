@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32004D0109-en" n="32004D0109" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0109 English</title>
+        <title>2004/109/EC: Commission Decision of 29 January 2004 amending Decision 95/328/EC establishing health certification for fishery products from third countries which are not yet covered by a specific decision (Text with EEA relevance) (notified under document number C(2004) 129)</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0109:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0109:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0109-en." lang="en">
+    <body>
+      <head n="1">2004/109/EC: Commission Decision of 29 January 2004 amending Decision 95/328/EC establishing health certification for fishery products from third countries which are not yet covered by a specific decision (Text with EEA relevance) (notified under document number C(2004) 129)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 29 January 2004</p>
+      <p n="4">amending Decision 95/328/EC establishing health certification for fishery products from third countries which are not yet covered by a specific decision</p>
+      <p n="5">(notified under document number C(2004) 129)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/109/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/493/EEC of 22 July 1991 laying down the health conditions for the production and placing on the market of fishery products(1), and in particular Article 11 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 95/328/EC of 25 July 1995 establishing health certification for fishery products from third countries which are not yet covered by a specific decision(2) is valid until 31 December 2003.</p>
+      <p n="13">(2) Commission Decision 97/296/EC(3) establishes the list of third countries from which the import of fishery products for human consumption is authorised. Part II of that list contains the third countries which are not yet covered by a specific decision but which satisfy the requirements of Article 2(2) of Council Decision 95/408/EC(4). According to Decision 95/408/EC that list is valid until 31 December 2005.</p>
+      <p n="14">(3) The date of validity of Decision 95/328/EC should be in line with the date of validity of the provisional list established by Decision 97/296/EC.</p>
+      <p n="15">(4) Decision 95/328/EC should therefore be amended accordingly.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">In Article 4 of Decision 95/328/EC, "to 31 December 2003" is replaced by "to 31 December 2005".</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 29 January 2004.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">David Byrne</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 268, 24.9.1991, p. 15. Directive as last amended by Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1).</p>
+      <p n="27">(2) OJ L 191, 12.8.1995, p. 32. Decision as last amended by Decision 2001/67/EC (OJ L 22, 24.1.2001, p. 41).</p>
+      <p n="28">(3) OJ L 122, 14.5.1997, p. 21. Decision as last amended by Decision 2004/36/EC (OJ L 8, 14.1.2004, p. 8).</p>
+      <p n="29">(4) OJ L 243, 11.10.1995, p. 17. Decision as last amended by Decision 2003/912/EC (OJ L 345, 31.12.2003, p. 112).</p>
+    </body>
+  </text>
+</TEI.2>

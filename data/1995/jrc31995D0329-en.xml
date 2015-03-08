@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31995D0329-en" n="31995D0329" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0329 English</title>
+        <title>95/329/EC: Commission Decision of 25 July 1995 defining the categories of male equidae to which the requirement regarding viral arteritis laid down in Article 15 (b) (ii) of Council Directive 90/426/EEC applies</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0329:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0329:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0329-en." lang="en">
+    <body>
+      <head n="1">95/329/EC: Commission Decision of 25 July 1995 defining the categories of male equidae to which the requirement regarding viral arteritis laid down in Article 15 (b) (ii) of Council Directive 90/426/EEC applies</head>
+      <p n="2">COMMISSION DECISION of 25 July 1995 defining the categories of male equidae to which the requirement regarding viral arteritis laid down in Article 15 (b) (ii) of Council Directive 90/426/EEC applies (Text with EEA relevance) (95/329/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/426/EEC of 26 June 1990 on animal health conditions governing the movement and import from third countries of equidae (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 15 (b) (ii) thereof,</p>
+      <p n="6">After consultation of the Scientific Veterinary Committee,</p>
+      <p n="7">Whereas certain categories of male equidae are not liable to transmit equine viral arteritis; whereas the requirement laid down in Article 15 (b) (ii) should therefore apply solely to the other categories of male equidae;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The requirement relating to equine viral arteritis laid down in Article 15 (b) (ii) of Directive 90/426/EEC shall apply to male equidae with the exception of:</p>
+      <p n="12">- equidae vaccinated against equine viral arteritis under official supervision with a vaccine approved by the competent authority and which have reacted with a negative result at 1 in 4 to a serum neutralization test for that disease. The equidae shall be vaccinated on the date on which the blood specimen is taken or within the following 15 days on condition that they have been isolated during that period. The test shall be carried out and certified, and the result and vaccination certified, under official veterinary supervision. Vaccination shall be repeated at regular intervals. In the case of registered equidae, vaccinations and the results of serological tests shall be entered in the identification document (passport),</p>
+      <p n="13">- equidae vaccinated against equine viral arteritis under official supervision with a vaccine approved by the competent authority and which have undergone two serum neutralization tests for that disease at an interval of at least 10 days between the age of 180 and 270 days without an increase in antibodies being established. The equidae shall be isolated under official supervision from the time the first blood specimen is taken up to vaccination. The tests shall be carried out and certified, and the results and vaccinations certified, under official veterinary supervision. Vaccination shall be repeated at regular intervals. In the case of registered equidae, vaccinations and the results of serological tests shall be entered in the identification document (passport),</p>
+      <p n="14">- equidae less than 180 days old,</p>
+      <p n="15">- equidae for slaughter sent directly to a slaughterhouse accompanied by a certificate as provided for in Annex I to Commission Decision 93/196/EEC of 5 February 1993 on animal health conditions and veterinary certification for imports of equidae for slaughter (2).</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision shall apply from 1 October 1995.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Decision is addressed to the Member States.</p>
+      <p n="20">Done at Brussels, 25 July 1995.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ No L 224, 18. 8. 1990, p. 42.</p>
+      <p n="25">(2) OJ No L 86, 6. 4. 1993, p. 7.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32003R2303-en" n="32003R2303" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2303 English</title>
+        <title>Commission Regulation (EC) No 2303/2003 of 29 December 2003 on specific labelling rules for wines imported from the United States of America</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2303:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2303:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">4713</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2303-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2303/2003 of 29 December 2003 on specific labelling rules for wines imported from the United States of America</head>
+      <p n="2">Commission Regulation (EC) No 2303/2003</p>
+      <p n="3">of 29 December 2003</p>
+      <p n="4">on specific labelling rules for wines imported from the United States of America</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), and in particular Article 53 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 753/2002 of 29 April 2002 laying down certain rules for applying Council Regulation (EC) No 1493/1999 as regards the description, designation, presentation and protection of certain wine sector products(2) contains certain derogations as regards the labelling of wines imported from the United States of America which expire on 31 December 2003.</p>
+      <p n="10">(2) Since the bilateral negotiations in progress with the United States of America will not end before the end of the year, in order to prevent any disruption of trade, the rules applicable to wines imported from the United States of America should be extended in the light of the progress of the negotiations.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">1. Wine imported from the United States of America may be identified by the name of a Federal State supplemented, where relevant, by the name of a county or wine-growing region even if only 75 % of the wine concerned is made from grapes harvested in that State or a single county whose name it bears, provided the wine is made entirely from grapes harvested in the United States of America.</p>
+      <p n="15">2. Wine imported from the United States of America may use the name of a variety even if only 75 % of the wine in question is made from grapes of the variety whose name it bears, provided that that variety determines the character of the wine in question.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="18">It shall apply from 1 January 2004 until the entry into force of the agreement resulting from the negotiations with the United States of America with a view to concluding no later than 31 December 2005 an agreement on trade in wine and on oenological practices in particular and on the protection of geographical indications.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 29 December 2003.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 179, 14.7.1999, p. 1; Regulation as last amended by Commission Regulation (EC) No 1795/2003 (OJ L 262, 14.10.2003, p. 13).</p>
+      <p n="25">(2) OJ L 118, 4.5.2002, p. 1; Regulation as last amended by Regulation (EC) No 1205/2003 (OJ L 168, 5.7.2003, p. 13).</p>
+    </body>
+  </text>
+</TEI.2>

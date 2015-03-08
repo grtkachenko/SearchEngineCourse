@@ -1,0 +1,62 @@
+<TEI.2 id="jrc22003D0096-en" n="22003D0096" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22003D0096 English</title>
+        <title>Decision of the EEA Joint Committee No 96/2003 of 11 July 2003 amending Protocol 31 to the EEA Agreement on cooperation in specific fields outside the four freedoms</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0096:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0096:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">2792</classCode>
+        <classCode scheme="eurovoc">5315</classCode>
+        <classCode scheme="eurovoc">5618</classCode>
+        <classCode scheme="eurovoc">668</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22003D0096-en." lang="en">
+    <body>
+      <head n="1">Decision of the EEA Joint Committee No 96/2003 of 11 July 2003 amending Protocol 31 to the EEA Agreement on cooperation in specific fields outside the four freedoms</head>
+      <p n="2">Decision of the EEA Joint Committee</p>
+      <p n="3">No 96/2003</p>
+      <p n="4">of 11 July 2003</p>
+      <p n="5">amending Protocol 31 to the EEA Agreement on cooperation in specific fields outside the four freedoms</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as amended by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Articles 86 and 98 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Protocol 31 to the Agreement was amended by Decision of the EEA Joint Committee No 85/2003 of 20 June 2003(1).</p>
+      <p n="10">(2) It is appropriate to extend the cooperation of the Contracting Parties to the Agreement to include Decision No 451/2003/EC of the European Parliament and of the Council of 27 February 2003 amending Decision No 253/2000/EC establishing the second phase of the Community action programme in the field of education "Socrates"(2),</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The following shall be added in the third indent of Article 4(2c) (Decision No 253/2000/EC of the European Parliament and of the Council) of Protocol 31 to the Agreement:</p>
+      <p n="14">", as amended by:</p>
+      <p n="15">- 32003 D 0451: Decision No 451/2003/EC of the European Parliament and of the Council of 27 February 2003 (OJ L 69, 13.3.2003, p. 6)."</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision shall enter into force on 12 July 2003, provided that all the notifications in Article 103(1) of the Agreement have been made to the EEA Joint Committee(3).</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Decision shall be published in the EEA section of, and in the EEA Supplement to, the Official Journal of the European Union.</p>
+      <p n="20">Done at Brussels, 11 July 2003.</p>
+      <p n="21">For the EEA Joint Committee</p>
+      <p n="22">The President</p>
+      <p n="23">H. S. H. Prinz Nikolaus von Liechtenstein</p>
+      <p n="24">(1) OJ L 257, 9.10.2003, p. 42.</p>
+      <p n="25">(2) OJ L 69, 13.3.2003, p. 6.</p>
+      <p n="26">(3) No constitutional requirements indicated.</p>
+    </body>
+  </text>
+</TEI.2>

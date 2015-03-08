@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32001R1514-en" n="32001R1514" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1514 English</title>
+        <title>Council Regulation (EC) No 1514/2001 of 23 July 2001 amending Regulation (EEC) No 1696/71 on the common organisation of the market in hops</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1514:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1514:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1261</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1514-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1514/2001 of 23 July 2001 amending Regulation (EEC) No 1696/71 on the common organisation of the market in hops</head>
+      <p n="2">Council Regulation (EC) No 1514/2001</p>
+      <p n="3">of 23 July 2001</p>
+      <p n="4">amending Regulation (EEC) No 1696/71 on the common organisation of the market in hops</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Articles 36 and 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Article 12(5) of Council Regulation (EEC) No 1696/71(4) stipulates that the amount of aid for hops produced in the Community is fixed for a period of five years from the 1996 to the 2000 harvests.</p>
+      <p n="12">(2) As laid down in Article 18 of Regulation (EEC) No 1696/71, the Commission presented to the Council a report on the development of the hops sector in the European Community. The report shows that production is gradually being adapted to the requirements of demand both from the point of view of quantity, through a reduction in surface areas and quantities produced, and from that of quality, through a change in variety, in particular towards the varieties most in demand by the brewing industry.</p>
+      <p n="13">(3) The amount of aid currently being provided should be continued for a period of three years and there should be a report covering this new period.</p>
+      <p n="14">(4) The measures necessary for the implementation of Regulation (EEC) No 1696/71 should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(5),</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Regulation (EEC) No 1696/71 is amended as follows:</p>
+      <p n="18">1. Article 12(5)(a) shall be replaced by the following: "(a) The aid per hectare shall be the same for all groups of varieties. For a period of eight years from the 1996 harvest, it shall amount to EUR 480/ha.";</p>
+      <p n="19">2. Article 12(5)(d) shall be replaced by the following: "(d) The aid withheld may be accumulated for a maximum period of three years; at the end of that period all aid withheld must have been spent.";</p>
+      <p n="20">3. in the second paragraph of Article 18, "1 September 2000" shall be replaced by "31 December 2003";</p>
+      <p n="21">4. Article 19 shall be deleted;</p>
+      <p n="22">5. Article 20 shall be replaced by the following: "Article 20</p>
+      <p n="23">1. The Commission shall be assisted by a 'management committee for hops' (hereinafter referred to as 'the committee').</p>
+      <p n="24">2. Where reference is made to this Article, Articles 4 and 7 of Decision 1999/468/EC shall apply.</p>
+      <p n="25">The period laid down in Article 4(3) of Decision 1999/468/EC shall be set at one month.</p>
+      <p n="26">3. The committee shall adopt its rules of procedure."</p>
+      <p n="27">Article 2</p>
+      <p n="28">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="29">It shall apply from 1 January 2001.</p>
+      <p n="30">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="31">Done at Brussels, 23 July 2001.</p>
+      <p n="32">For the Council</p>
+      <p n="33">The President</p>
+      <p n="34">A. Neyts-Uyttebroeck</p>
+      <p n="35">(1) OJ C 96 E, 27.3.2001, p. 345.</p>
+      <p n="36">(2) Opinion delivered on 13 June 2001, not yet published in the Official Journal.</p>
+      <p n="37">(3) Opinion delivered on 25 April 2001, not yet published in the Official Journal.</p>
+      <p n="38">(4) OJ L 175, 4.8.1971, p. 1. Regulation as last amended by Regulation (EC) No 191/2000 (OJ L 23, 28.1.2000, p. 4.).</p>
+      <p n="39">(5) OJ L 184, 17.7.1999, p. 23.</p>
+    </body>
+  </text>
+</TEI.2>

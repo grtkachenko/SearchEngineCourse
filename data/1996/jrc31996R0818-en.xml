@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31996R0818-en" n="31996R0818" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0818 English</title>
+        <title>Council Regulation (EC) No 818/96 of 29 April 1996 amending Regulation (EEC) No 1907/90 on certain marketing standards for eggs</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0818:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0818:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1019</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2121</classCode>
+        <classCode scheme="eurovoc">87</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0818-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 818/96 of 29 April 1996 amending Regulation (EEC) No 1907/90 on certain marketing standards for eggs</head>
+      <p n="2">COUNCIL REGULATION (EC) No 818/96 of 29 April 1996 amending Regulation (EEC) No 1907/90 on certain marketing standards for eggs</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2771/75 of 29 October 1975 on the common organization of the market in eggs (1), and in particular Article 2 (2) thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas Regulation (EEC) No 1907/90 (2) lays down certain marketing standards for eggs;</p>
+      <p n="8">Whereas Regulation (EEC) No 1907/90 does not apply to direct sales from producers to retailers in certain regions of Finland in view of the specific conditions of egg marketing in those regions; whereas the list of these regions should now be amended taking account of improved marketing conditions due to an increase in the number of packing centres in the less remote areas of Finland; whereas, in order to facilitate future reductions of this list, they should be adopted in accordance with Article 17 of Regulation (EEC) No 2771/75,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EEC) No 1907/90 is hereby amended as follows:</p>
+      <p n="12">1. the following subparagraph shall be added to Article 2 (3):</p>
+      <p n="13">'The list of regions of Finland contained in Annex II may be reduced in accordance with the procedure laid down in Article 17 of Regulation (EEC) No 2771/75.`;</p>
+      <p n="14">2. Annex II shall be replaced by Annex II as it appears in the Annex to this Regulation.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Luxembourg, 29 April 1996.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">W. LUCHETTI</p>
+      <p n="22">(1) OJ No L 282, 1. 11. 1975, p. 49. Regulation as last amended by Regulation (EC) No 2916/95 (OJ No L 305, 19. 12. 1995, p. 49).</p>
+      <p n="23">(2) OJ No L 173, 6. 7. 1990, p. 5. Regulation as last amended by Regulation (EC) No 3117/94 (OJ No L 330, 21. 12. 1994, p. 4).</p>
+      <p n="24">ANNEX</p>
+      <p n="25">'ANNEX II</p>
+      <p n="26">Regions of Finland referred to in Article 2 (3)</p>
+      <p n="27">The provinces of:</p>
+      <p n="28">- Lappi,</p>
+      <p n="29">- Oulu,</p>
+      <p n="30">- Pohjois-Karjala,</p>
+      <p n="31">- Kuopio.</p>
+      <p n="32">The islands of Åland.`</p>
+    </body>
+  </text>
+</TEI.2>

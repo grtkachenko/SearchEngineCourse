@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32000D0192-en" n="32000D0192" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0192 English</title>
+        <title>2000/192/EC: Commission Decision of 7 February 2000 concerning the conclusion of an Agreement amending the Agreement between the European Community and Australia on trade in wine (notified under document number C(2000) 224)</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0192:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0192:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">1567</classCode>
+        <classCode scheme="eurovoc">2804</classCode>
+        <classCode scheme="eurovoc">4160</classCode>
+        <classCode scheme="eurovoc">4713</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0192-en." lang="en">
+    <body>
+      <head n="1">2000/192/EC: Commission Decision of 7 February 2000 concerning the conclusion of an Agreement amending the Agreement between the European Community and Australia on trade in wine (notified under document number C(2000) 224)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 7 February 2000</p>
+      <p n="4">concerning the conclusion of an Agreement amending the Agreement between the European Community and Australia on trade in wine</p>
+      <p n="5">(notified under document number C(2000) 224)</p>
+      <p n="6">(2000/192/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Decision 94/184/EC, of 24 January 1994, concerning the conclusion of an Agreement between the European Community and Australia on trade in wine(1), and in particular Article 3 thereof,</p>
+      <p n="10">Having regard to the Agreement between the European Community and Australia on trade in wine signed in Brussels and in Canberra respectively on 26 and 31 January 1994(2),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The Commission negotiated, on behalf of the Community, an amendment of the aforementioned Agreement aiming to extend, until 30 June 2000, the provisional authorisation granted to Australian wines treated with cation exchange resins.</p>
+      <p n="13">(2) The measures provided for in this Decision are in accordance with the opinion of the Wine Committee,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Agreement amending the Agreement between the European Community and Australia on trade in wine is hereby approved on behalf of the Community.</p>
+      <p n="17">The text of the Agreement is attached to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Decision and the Agreement referred to in Article 1 shall be published in the Official Journal of the European Communities.</p>
+      <p n="20">Done at Brussels, 7 February 2000.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 86, 31.3.1994, p. 1.</p>
+      <p n="25">(2) OJ L 86, 31.3.1994, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

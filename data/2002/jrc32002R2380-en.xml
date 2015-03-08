@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32002R2380-en" n="32002R2380" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2380 English</title>
+        <title>Commission Regulation (EC) No 2380/2002 of 30 December 2002 amending Regulation (EC) No 883/2001 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 as regards trade with third countries in products in the wine sector</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2380:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2380:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+        <classCode scheme="eurovoc">6100</classCode>
+        <classCode scheme="eurovoc">618</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2380-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2380/2002 of 30 December 2002 amending Regulation (EC) No 883/2001 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 as regards trade with third countries in products in the wine sector</head>
+      <p n="2">Commission Regulation (EC) No 2380/2002</p>
+      <p n="3">of 30 December 2002</p>
+      <p n="4">amending Regulation (EC) No 883/2001 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 as regards trade with third countries in products in the wine sector</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 2585/2001(2), and in particular Article 68(3) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 22(2)(c) of Commission Regulation (EC) No 883/2001(3), as last amended by Regulation (EC) No 1574/2002(4), lays down that the certificate and analysis report provided for in Article 20 of that Regulation need not be presented for wine and grape juice in containers of not more than five litres, originating in and coming from third countries whose annual imports into the Community are less than 1000 hectolitres. The import of small quantities is planned from Indonesia and Thailand. Those two countries should therefore be added to the list given in Annex VI to Regulation (EC) No 883/2001.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Annex VI to Regulation (EC) No 883/2001 is replaced by the Annex hereto.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 30 December 2002.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz Fischler</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="22">(2) OJ L 345, 29.12.2001, p. 10.</p>
+      <p n="23">(3) OJ L 128, 10.5.2001, p. 1.</p>
+      <p n="24">(4) OJ L 235, 3.9.2002, p. 10.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">"ANNEX VI</p>
+      <p n="27">List of countries referred to in Article 22</p>
+      <p n="28">- Iran</p>
+      <p n="29">- Lebanon</p>
+      <p n="30">- People's Republic of China</p>
+      <p n="31">- Taiwan</p>
+      <p n="32">- India</p>
+      <p n="33">- Bolivia</p>
+      <p n="34">- Republic of San Marino</p>
+      <p n="35">- Thailand</p>
+      <p n="36">- Indonesia."</p>
+    </body>
+  </text>
+</TEI.2>

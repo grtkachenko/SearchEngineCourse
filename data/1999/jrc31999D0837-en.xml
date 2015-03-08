@@ -1,0 +1,75 @@
+<TEI.2 id="jrc31999D0837-en" n="31999D0837" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0837 English</title>
+        <title>1999/837/EC: Council Decision of 15 November 1999 amending Decision No 97/132/EC on the conclusion of the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0837:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0837:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1937</classCode>
+        <classCode scheme="eurovoc">2089</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0837-en." lang="en">
+    <body>
+      <head n="1">1999/837/EC: Council Decision of 15 November 1999 amending Decision No 97/132/EC on the conclusion of the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 15 November 1999</p>
+      <p n="4">amending Decision No 97/132/EC on the conclusion of the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products</p>
+      <p n="5">(1999/837/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Council Decision 97/132/EC of 17 December 1996 on the conclusion of the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products(1) has not yet entered into force because certain technical amendments are necessary to the Annexes to the Agreement before it can be applied in practice;</p>
+      <p n="11">(2) Decision 97/132/EC does not provide for a procedure for amendment of the Annexes; however, the Council has adopted Decision 98/258/EC of 16 March 1998 on the conclusion of the Agreement between the European Community and the United States of America on sanitary measures to protect public and animal health in trade in live animals and animal products(2), which includes such a procedure;</p>
+      <p n="12">(3) since the Agreement with New Zealand was concluded, equivalence has been agreed in principle for several more products and it is necessary to amend Annex V to that Agreement to take account of this; it is also necessary to amend certain other Annexes to take account of changes in inspection fees and other administrative matters;</p>
+      <p n="13">(4) in order to ensure the effective implementation of the Agreement with New Zealand, and for reasons of consistency, the procedure for amendment of the Annexes to the Agreement with the United States of America should be added to Decision 97/132/EC;</p>
+      <p n="14">(5) the Community and the New Zealand competent authority have agreed, in the form of an Exchange of Letters, the determination of the sanitary measures applicable to trade in live animals and animal products; the Exchange of Letters should be approved,</p>
+      <p n="15">HAS DECIDED AS FOLLOWS:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Decision 97/132/EC is hereby amended as follows:</p>
+      <p n="18">1. Article 3 shall be replaced by the following:</p>
+      <p n="19">"Article 3</p>
+      <p n="20">The Commission, assisted by representatives of Member States, shall represent the Community in the Joint Management Committee referred to in Article 16(1) of the Agreement.</p>
+      <p n="21">The Community position with regard to the matters to be dealt with by that Committee shall be established within the appropriate Council bodies, in accordance with the provisions of the Treaty.</p>
+      <p n="22">Amendments to the Annexes to the Agreement which are the result of recommendations by the Joint Management Committee shall be adopted according to the procedure provided for in Article 29 of Directive 72/462/EEC(3)."</p>
+      <p n="23">2. Article 4 shall be replaced by the following:</p>
+      <p n="24">"Article 4</p>
+      <p n="25">The measures necessary for the implementation of the Agreement, including as regards fresh meat and meat-based products guarantees equivalent to those laid down by Directive 72/462/EEC, shall be established pursuant to the procedure laid down in Article 30 of that Directive."</p>
+      <p n="26">Article 2</p>
+      <p n="27">The Exchange of Letters concerning the amendment to the Annexes to the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products is hereby approved on behalf of the Community.</p>
+      <p n="28">The text of the Exchange of Letters, including the amendments to the Annexes to the Agreement, is attached to this Decision.</p>
+      <p n="29">Article 3</p>
+      <p n="30">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="31">It shall take effect on the day of its publication.</p>
+      <p n="32">Done at Brussels, 15 November 1999.</p>
+      <p n="33">For the Council</p>
+      <p n="34">The President</p>
+      <p n="35">K. HEMILÄ</p>
+      <p n="36">(1) OJ L 57, 26.2.1997, p. 4.</p>
+      <p n="37">(2) OJ L 118, 21.4.1998, p. 1.</p>
+      <p n="38">(3) OJ L 302, 31.12.1972, p. 28. Directive as last amended by Directive 97/79/EC (OJ L 24, 30.1.1998, p. 31).</p>
+    </body>
+  </text>
+</TEI.2>

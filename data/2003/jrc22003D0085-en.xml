@@ -1,0 +1,67 @@
+<TEI.2 id="jrc22003D0085-en" n="22003D0085" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22003D0085 English</title>
+        <title>Decision of the EEA Joint Committee No 85/2003 of 20 June 2003 amending Protocol 31 to the EEA Agreement, on cooperation in specific fields outside the four freedoms</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0085:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0085:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">3748</classCode>
+        <classCode scheme="eurovoc">4245</classCode>
+        <classCode scheme="eurovoc">5618</classCode>
+        <classCode scheme="eurovoc">6562</classCode>
+        <classCode scheme="eurovoc">678</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22003D0085-en." lang="en">
+    <body>
+      <head n="1">Decision of the EEA Joint Committee No 85/2003 of 20 June 2003 amending Protocol 31 to the EEA Agreement, on cooperation in specific fields outside the four freedoms</head>
+      <p n="2">Decision of the EEA Joint Committee</p>
+      <p n="3">No 85/2003</p>
+      <p n="4">of 20 June 2003</p>
+      <p n="5">amending Protocol 31 to the EEA Agreement, on cooperation in specific fields outside the four freedoms</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as amended by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Articles 86 and 98 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Protocol 31 to the Agreement was amended by Decision of the EEA Joint Committee No 64/2003 of 16 May 2003(1).</p>
+      <p n="10">(2) It is appropriate to extend the cooperation of the Contracting Parties to the Agreement to include Decision No 291/2003/EC of the European Parliament and of the Council of 6 February 2003 establishing the European Year of Education through Sport 2004(2).</p>
+      <p n="11">(3) Protocol 31 to the Agreement should therefore be amended in order to allow for this extended cooperation to take place from 1 January 2003,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Article 4 (Education, training and youth) of Protocol 31 to the Agreement shall be amended as follows:</p>
+      <p n="15">1. The following point shall be inserted after point 2f (Preparatory actions for cooperation in the fields of education and of youth policy):</p>
+      <p n="16">"2g. The EFTA States shall, with effect from 1 January 2003, participate in the following action:</p>
+      <p n="17">- 32003 D 0291: Decision No 291/2003/EC of the European Parliament and of the Council of 6 February 2003 establishing the European Year of Education through Sport 2004 (OJ L 43, 18.2.2003, p. 1)."</p>
+      <p n="18">2. In point 3, the words "2e and 2f" shall be replaced by the words "2e, 2f and 2g".</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision shall enter into force on the first day following the last notification to the EEA Joint Committee under Article 103(1) of the Agreement(3).</p>
+      <p n="21">It shall apply from 1 January 2003.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision shall be published in the EEA Section of, and in the EEA Supplement to, the Official Journal of the European Union.</p>
+      <p n="24">Done at Brussels, 20 June 2003.</p>
+      <p n="25">For the EEA Joint Committee</p>
+      <p n="26">The President</p>
+      <p n="27">P. Westerlund</p>
+      <p n="28">(1) OJ L 193, 31.7.2003, p. 54.</p>
+      <p n="29">(2) OJ L 43, 18.2.2003, p. 1.</p>
+      <p n="30">(3) Constitutional requirements indicated.</p>
+    </body>
+  </text>
+</TEI.2>

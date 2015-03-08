@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31999D0257-en" n="31999D0257" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0257 English</title>
+        <title>1999/257/EC: Council Decision of 29 March 1999 concerning the conclusion of the Convention on the International Commission for the Protection of the Oder</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0257:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0257:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1707</classCode>
+        <classCode scheme="eurovoc">2533</classCode>
+        <classCode scheme="eurovoc">2543</classCode>
+        <classCode scheme="eurovoc">260</classCode>
+        <classCode scheme="eurovoc">5546</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0257-en." lang="en">
+    <body>
+      <head n="1">1999/257/EC: Council Decision of 29 March 1999 concerning the conclusion of the Convention on the International Commission for the Protection of the Oder</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 29 March 1999</p>
+      <p n="4">concerning the conclusion of the Convention on the International Commission for the Protection of the Oder</p>
+      <p n="5">(1999/257/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 130s(1) thereof, in conjunction with the first sentence of Article 228(2) and the first subparagraph of Article 228(3) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas the Commission has participated, on behalf of the Community, in the negotiations to prepare a Convention on the International Commission for the Protection of the Oder;</p>
+      <p n="11">Whereas the Convention was signed on behalf of the Community at Wroclaw (Poland) on 11 April 1996;</p>
+      <p n="12">Whereas the Convention aims to strengthen multilateral cooperation to prevent and control pollution of the Oder, protect the environment and ensure sustainable use of water resources;</p>
+      <p n="13">Whereas the overriding aim of Community policy in the field of environment is a high level of protection; whereas it is based on the principles of precautionary measures and preventive action, the principle of rectifying environmental damage preferably at source and the "polluter pays" principle;</p>
+      <p n="14">Whereas, within their respective spheres of competence, the Community and Member States cooperate with third countries and the competent international organisations;</p>
+      <p n="15">Whereas the conclusion of the Convention by the Community contributes to the pursuit of the objectives laid down in Article 130r of the Treaty,</p>
+      <p n="16">HAS DECIDED AS FOLLOWS:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The Convention on the International Commission for the Protection of the Oder is hereby approved on behalf of the Community.</p>
+      <p n="19">The text of the Convention is attached to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The President of the Council is hereby authorised to designate the person or persons empowered to deposit the instrument of approval with the General Secretariat of the Council in accordance with Article 18(2) of the Convention.</p>
+      <p n="22">Done at Brussels, 29 March 1999.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">F. MÜNTEFERING</p>
+      <p n="26">(1) OJ C 316, 14.10.1998, p. 5.</p>
+      <p n="27">(2) Opinion delivered on 16 December 1998 (not yet published in the Official Journal).</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,251 @@
+<TEI.2 id="jrc32003R2244-en" n="32003R2244" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2244 English</title>
+        <title>Commission Regulation (EC) No 2244/2003 of 18 December 2003 laying down detailed provisions regarding satellite-based Vessel Monitoring Systems</title>
+      </titleStmt>
+      <extent>215 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2244:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2244:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2476</classCode>
+        <classCode scheme="eurovoc">3905</classCode>
+        <classCode scheme="eurovoc">3995</classCode>
+        <classCode scheme="eurovoc">4426</classCode>
+        <classCode scheme="eurovoc">4829</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2244-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2244/2003 of 18 December 2003 laying down detailed provisions regarding satellite-based Vessel Monitoring Systems</head>
+      <p n="2">Commission Regulation (EC) No 2244/2003</p>
+      <p n="3">of 18 December 2003</p>
+      <p n="4">laying down detailed provisions regarding satellite-based Vessel Monitoring Systems</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2371/2002 of 20 December 2002 on the conservation and sustainable exploitation of fisheries resources under the Common Fisheries Policy(1), and in particular Article 22(3) and Article 23(5) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Pursuant to Article 22(1)(b) of Regulation (EC) No 2371/2002, fishing vessels are prohibited from engaging in activities within the scope of the Common Fisheries Policy, unless they have installed on board a functioning system which allows detection and identification of the vessel by remote monitoring systems.</p>
+      <p n="10">(2) It is appropriate to provide that as from 1 January 2004, all fishing vessels exceeding 18 metres length overall, and as from 1 January 2005, all fishing vessels exceeding 15 metres length overall, should be subject to a satellite-based Vessel Monitoring System (VMS).</p>
+      <p n="11">(3) Fishing vessels which operate exclusively inside the baselines of Member States should not be subject to that obligation since the impact of their activity on resources is insignificant.</p>
+      <p n="12">(4) Pursuant to Article 23(3) of Regulation (EC) No 2371/2002, Member States are to set up the administrative and technical structure necessary for ensuring effective control, inspection and enforcement, including satellite based monitoring systems.</p>
+      <p n="13">(5) Stricter VMS provisions create the potential to enhance significantly the efficiency and effectiveness of monitoring, control and surveillance operations both at sea and on land.</p>
+      <p n="14">(6) It is appropriate to establish a transitional period for the application of the provisions referring to the communication of the speed and course of the fishing vessel subject to certain conditions.</p>
+      <p n="15">(7) The VMS should apply in a similar way to Community fishing vessels and fishing vessels of third countries operating in Community waters.</p>
+      <p n="16">(8) In view of the adoption of these new provisions, it is necessary to repeal Commission Regulation (EC) No 1489/97 of 29 July 1997 laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 as regards satellite-based vessel monitoring systems(2).</p>
+      <p n="17">(9) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture,</p>
+      <p n="18">HAS ADOPTED THIS REGULATION:</p>
+      <p n="19">CHAPTER I GENERAL PROVISIONS</p>
+      <p n="20">Article 1</p>
+      <p n="21">Subject matter</p>
+      <p n="22">This Regulation lays down detailed rules for the operation by Member States of a satellite-based Vessel Monitoring System (VMS), as provided for in Article 22(1)(b) and Article 23(3) of Regulation (EC) No 2371/2002.</p>
+      <p n="23">Article 2</p>
+      <p n="24">Scope</p>
+      <p n="25">1. This Regulation shall apply to:</p>
+      <p n="26">(a) fishing vessels exceeding 18 metres overall length, as from 1 January 2004; and</p>
+      <p n="27">(b) fishing vessels exceeding 15 metres overall length as from 1 January 2005.</p>
+      <p n="28">2. This Regulation shall not apply to fishing vessels used exclusively for exploitation of aquaculture and operating exclusively inside the baselines of Member States.</p>
+      <p n="29">Article 3</p>
+      <p n="30">Fisheries monitoring centres</p>
+      <p n="31">1. Member States shall operate Fisheries Monitoring Centres (FMC).</p>
+      <p n="32">2. The FMC of a Member State shall monitor:</p>
+      <p n="33">(a) the fishing vessels flying the flag of that Member State, regardless of the waters or the port they are in;</p>
+      <p n="34">(b) Community fishing vessels flying the flag of other Member States; and</p>
+      <p n="35">(c) third country fishing vessels during the time they are in the waters under the sovereignty or the jurisdiction of that Member State.</p>
+      <p n="36">3. Member States may operate a joint FMC.</p>
+      <p n="37">CHAPTER II SATELLITE-BASED MONITORING OF COMMUNITY FISHING VESSELS</p>
+      <p n="38">Article 4</p>
+      <p n="39">Requirement of satellite-tracking devices on Community fishing vessels</p>
+      <p n="40">A Community fishing vessel subject to VMS is not allowed to leave a port without an operational satellite-tracking device installed on board.</p>
+      <p n="41">Article 5</p>
+      <p n="42">Characteristics of satellite tracking devices</p>
+      <p n="43">1. The satellite-tracking devices installed on board Community fishing vessels shall ensure the automatic transmission to the FMC of the flag Member State, at all times, of data relating to:</p>
+      <p n="44">(a) the fishing vessel identification;</p>
+      <p n="45">(b) the most recent geographical position of the fishing vessel, with a position error which shall be less than 500 metres, with a confidence interval of 99 %;</p>
+      <p n="46">(c) the date and time (expressed in Universal Time Coordinated (UTC)) of the fixing of the said position of the fishing vessel; and</p>
+      <p n="47">(d) with effect from 1 January 2006 at the latest, the speed and course of the fishing vessel.</p>
+      <p n="48">2. Member States shall adopt the appropriate measures to ensure that the satellite-tracking devices do not permit the input or output of false positions and are not capable of being manually over-ridden.</p>
+      <p n="49">Article 6</p>
+      <p n="50">Responsibilities concerning the satellite-tracking devices</p>
+      <p n="51">1. The master of a Community fishing vessel shall ensure that the satellite-tracking devices are fully operational at all times and that the data referred to in Article 5(1) are transmitted.</p>
+      <p n="52">2. In particular, the master of a Community fishing vessel shall ensure that:</p>
+      <p n="53">(a) the data are not altered in any way;</p>
+      <p n="54">(b) the antenna or the antennas connected to the satellite tracking devices are not obstructed in any way;</p>
+      <p n="55">(c) the power supply of the satellite tracking devices is not interrupted in any way; and</p>
+      <p n="56">(d) the satellite tracking devices are not removed from the fishing vessel.</p>
+      <p n="57">3. It shall be prohibited to destroy, damage, render inoperative or otherwise interfere with the satellite tracking device.</p>
+      <p n="58">Article 7</p>
+      <p n="59">Control measures to be adopted by flag Member States</p>
+      <p n="60">Each flag Member State shall ensure the regular monitoring of the accuracy of the data referred to in Article 5(1) and shall act promptly whenever data are found to be inaccurate.</p>
+      <p n="61">Article 8</p>
+      <p n="62">Frequency of data transmission</p>
+      <p n="63">1. Each Member State shall ensure that its FMC receives, at least once an hour, through the VMS the information referred to in Article 5(1) concerning the fishing vessels flying its flag and registered in the Community. The FMC may decide to require the information at shorter time intervals.</p>
+      <p n="64">2. Notwithstanding paragraph 1, the frequency of data transmission may be at least once every two hours, if the FMC has the possibility of polling the actual position of the fishing vessels.</p>
+      <p n="65">3. When a fishing vessel is in port, the satellite tracking device may be switched off, subject to prior notification to the FMC of the flag Member State and the FMC of the coastal Member State and providing that the next report shows that the fishing vessel has not changed its position in relation to the previous report.</p>
+      <p n="66">Article 9</p>
+      <p n="67">Monitoring of entry into and exit from specific areas</p>
+      <p n="68">Each Member State shall ensure that, through the VMS, its FMC monitors, as regards fishing vessels flying its flag and registered in the Community, the date and time of the entry into and the exit from:</p>
+      <p n="69">(a) any maritime areas where specific rules on access to waters and resources apply;</p>
+      <p n="70">(b) the regulatory areas of the regional fisheries organisations to which the Community or certain Member States are a party;</p>
+      <p n="71">(c) the waters of a third country.</p>
+      <p n="72">Article 10</p>
+      <p n="73">Transmission of data to the coastal Member State</p>
+      <p n="74">1. The VMS established by each Member State shall ensure the automatic transmission to the FMC of a coastal Member State of the data to be provided in accordance with Article 5 concerning the fishing vessels flying its flag and registered in the Community, during the time they are in the waters of the coastal Member State.</p>
+      <p n="75">That data transmission shall be simultaneous with transmission to the FMC of the flag Member State and shall be in conformity with the format set out in Annex I.</p>
+      <p n="76">2. Each Member State shall transmit to the other Member States a comprehensive list of latitude and longitude coordinates which delimit its exclusive economic zone or exclusive fishery zone.</p>
+      <p n="77">3. Coastal Member States monitoring jointly an area may specify a common destination for the transmission of the data to be provided in accordance with Article 5. They shall inform the Commission and the other Member States thereof.</p>
+      <p n="78">4. Member States shall ensure coordination between their competent authorities regarding the establishment and operation of the procedures for transmission to the FMC of a coastal Member State.</p>
+      <p n="79">5. On request Member States shall communicate to other Member States the list of vessels flying their flag subject to VMS. The list shall contain the internal fleet register number, the external identification, the name and the international radio call sign of each vessel.</p>
+      <p n="80">Article 11</p>
+      <p n="81">Technical failure or non-functioning of the satellite tracking device</p>
+      <p n="82">1. In the event of a technical failure or non-functioning of the satellite-tracking device fitted on board a Community fishing vessel, the master or the owner of the vessel or their representative shall communicate every four hours, starting from the time that event was detected or from the time that he was informed in accordance with paragraph 3 or Article 12(1), the up to date current geographical position of the vessel by e-mail, by telex, by fax, by telephone message or by radio, via a radio station approved under the Community legislation for the reception of such reports, to the FMC of the flag Member State and the FMC of the coastal Member State.</p>
+      <p n="83">2. A Community fishing vessel shall not leave a port, following a technical failure or non-functioning, before the satellite tracking device fitted on board is functioning to the satisfaction of the competent authorities or before it is otherwise authorised to leave by the competent authorities.</p>
+      <p n="84">3. Member States shall seek to inform the master or the owner of the vessel or their representative when the satellite tracking device fitted on board a Community fishing vessel appears to be defective or not to be functioning.</p>
+      <p n="85">4. The flag Member State may authorise the satellite-tracking device to be replaced by a functioning device which complies with Article 5.</p>
+      <p n="86">Article 12</p>
+      <p n="87">Non-receipt of data</p>
+      <p n="88">1. When the FMC of a flag Member State has not received data transmissions in accordance with Articles 8 or 11 for 12 hours it shall notify the master or the owner of the vessel or their representative thereof as soon as possible. If, in respect of a particular vessel, this situation occurs more than three times within a period of one year, the flag Member State shall ensure that the satellite tracking device of the vessel in question is checked. The Member State concerned shall investigate the matter in order to establish whether the equipment has been tampered with. By way of derogation from Article 6(2)(d) this may entail the removal of such equipment for examination.</p>
+      <p n="89">2. When the FMC of a flag Member State has not received data transmissions in accordance with Article 8 or Article 11(1) for 12 hours and the last received position was from within the waters of a coastal Member State it shall notify the FMC of that coastal Member State thereof as soon as possible.</p>
+      <p n="90">3. When the competent authorities of a coastal Member State observe a fishing vessel in its waters and have not received data in accordance with Article 10(1) or Article 11(1) they shall notify the master of the vessel and the FMC of the flag Member State thereof.</p>
+      <p n="91">Article 13</p>
+      <p n="92">Monitoring of the fishing activities</p>
+      <p n="93">1. Member States shall use the data received pursuant to Article 8, Article 10(1) and Article 11(1) for the effective monitoring of the fishing activities of vessels.</p>
+      <p n="94">2. Flag Member States shall ensure that the data received from fishing vessels flying their flag or registered in them are recorded in computer-readable form for a period of three years.</p>
+      <p n="95">3. Coastal Member States shall ensure that the data received from fishing vessels flying the flag of another Member State, are recorded in computer-readable form for a period of three years.</p>
+      <p n="96">CHAPTER III ACCESS TO DATA AND REPORTS</p>
+      <p n="97">Article 14</p>
+      <p n="98">Access to data</p>
+      <p n="99">1. Member States shall ensure that the Commission has, on specific request, remote access by online sessions to the computer files containing the data recorded by their FMC.</p>
+      <p n="100">2. The data received in the framework of this Regulation shall be treated in a confidential manner.</p>
+      <p n="101">Article 15</p>
+      <p n="102">Information concerning the competent authorities</p>
+      <p n="103">1. The name, address, telephone number, telex number, fax number, as well as the X.25 and any other addresses used for electronic data transmission, of the competent authority responsible for a FMC are listed in Annex II.</p>
+      <p n="104">2. Any changes to information referred to in paragraph 1 shall be communicated to the Commission and to the other Member States within one week from the date of any such change.</p>
+      <p n="105">Article 16</p>
+      <p n="106">Half-yearly reports by Member States</p>
+      <p n="107">1. Member States shall report half-yearly to the Commission, by 1 May and by 1 November, on the functioning of their VMS during the previous half year.</p>
+      <p n="108">2. In particular, they shall notify the Commission of the following data:</p>
+      <p n="109">(a) the number of fishing vessels flying the flag of or registered in the Member State concerned subject to VMS during the previous half year;</p>
+      <p n="110">(b) the list of fishing vessels whose satellite-tracking devices have repeatedly experienced technical failure or have repeatedly failed to function during the previous half year;</p>
+      <p n="111">(c) the number of position reports received by the FMC during the previous half year, broken down by flag State; and</p>
+      <p n="112">(d) the aggregated time spent in maritime zones identified by FAO sub-areas, during the previous half year, by the fishing vessels flying the flag of or registered in the Member State concerned subject to VMS.</p>
+      <p n="113">3. The format for notifying the information referred to in paragraph 2 may be laid down in consultation with the Member States and the Commission.</p>
+      <p n="114">CHAPTER IV SATELLITE-BASED MONITORING OF THIRD-COUNTRY FISHING VESSELS OPERATING IN COMMUNITY WATERS</p>
+      <p n="115">Article 17</p>
+      <p n="116">Requirement of satellite-tracking device on board</p>
+      <p n="117">A third-country fishing vessel subject to VMS shall have an operational satellite-tracking device installed on board when it is in Community waters.</p>
+      <p n="118">Article 18</p>
+      <p n="119">Characteristics of satellite tracking devices</p>
+      <p n="120">1. The satellite-tracking devices installed on board third-country fishing vessels shall ensure the automatic transmission, at all times at which those vessels are in Community waters, of the following data:</p>
+      <p n="121">(a) the fishing vessel identification;</p>
+      <p n="122">(b) the most recent geographical position of the fishing vessel, with a position error which shall be less than 500 metres, with a confidence interval of 99 %;</p>
+      <p n="123">(c) the date and time (expressed in Universal Time Coordinated (UTC)) of the fixing of the position of the fishing vessel; and</p>
+      <p n="124">(d) with effect from 1 January 2006 at the latest, the speed and course of the fishing vessel.</p>
+      <p n="125">2. The satellite-tracking devices shall not permit the input or output of false positions and shall not be capable of being manually over-ridden.</p>
+      <p n="126">Article 19</p>
+      <p n="127">Responsibilities concerning the satellite-tracking devices</p>
+      <p n="128">1. The masters of third-country fishing vessels subject to VMS shall ensure that the satellite-tracking devices are at fully operational at all times and that the data referred to in Article 18(1) are transmitted.</p>
+      <p n="129">2. In particular, the masters of the third-country fishing vessels shall ensure that:</p>
+      <p n="130">(a) the data are not altered in any way;</p>
+      <p n="131">(b) the antenna or the antennas connected to the satellite tracking devices are not obstructed in any way;</p>
+      <p n="132">(c) the power supply of the satellite tracking devices is not interrupted in any way; and</p>
+      <p n="133">(d) the satellite tracking devices are not removed from the fishing vessels.</p>
+      <p n="134">3. It shall be prohibited to destroy, damage, render inoperative or otherwise interfere with the satellite tracking device.</p>
+      <p n="135">Article 20</p>
+      <p n="136">Frequency of data transmission</p>
+      <p n="137">The frequency of the automatic data transmission shall be at least once every hour. However, it may be at least once every two hours, if the FMC of the flag State has the possibility of polling the actual position of the fishing vessel.</p>
+      <p n="138">Article 21</p>
+      <p n="139">Forwarding to the coastal Member State</p>
+      <p n="140">The position monitoring information referred to in Article 18(1) shall be forwarded to the FMC of the coastal Member State in conformity with the format defined in Annex I.</p>
+      <p n="141">Article 22</p>
+      <p n="142">Cooperation between Member States and third countries</p>
+      <p n="143">1. Each Member State shall transmit to the competent authorities of the third countries concerned a comprehensive list of latitude and longitude coordinates which delimit its exclusive economic zone or exclusive fishery zone, in a format compatible with the World Geodetic System 1984 (WGS 84).</p>
+      <p n="144">2. Coastal Member States shall ensure coordination with the competent authorities of the third countries concerned regarding the establishment and operation of the procedures for automatic transmission to their FMC.</p>
+      <p n="145">Article 23</p>
+      <p n="146">Technical failure or non-function of the satellite-tracking device</p>
+      <p n="147">1. In the event of a technical failure of non-functioning of the satellite-tracking device fitted on board a third-country fishing vessel during the time it is in Community waters, the master or the owner of the vessel or their representative shall communicate every two hours, and each time the vessel moves from one ICES division to another, the up-to-date current geographical position of the vessel by e-mail, by telex, by fax, by telephone messages or by radio.</p>
+      <p n="148">2. That information shall be transmitted to the FMC of the Coastal Member State.</p>
+      <p n="149">3. A third-country vessel operating in Community waters shall not leave a port of a Member State, following a technical failure or non-functioning, before the satellite tracking device fitted on board is functioning to the satisfaction of the competent authorities or before it is otherwise authorised to leave by the competent authorities.</p>
+      <p n="150">4. Coastal Member States shall inform the master or the owner of a vessel or their representative when the satellite-tracking device fitted on board the vessel appears to be defective or not to be functioning.</p>
+      <p n="151">Article 24</p>
+      <p n="152">Monitoring and reports of the fishing activities</p>
+      <p n="153">1. Member States shall use the data received pursuant to Article 18 and Article 23(1) for the effective monitoring of the fishing activities of the third-country fishing vessels.</p>
+      <p n="154">2. Member States shall ensure that the data received from third-country fishing vessels are recorded in computer-readable form for a period of three years.</p>
+      <p n="155">3. Member States shall inform the Commission immediately when a vessel does not comply with the rules contained in this Chapter.</p>
+      <p n="156">CHAPTER V FINAL PROVISIONS</p>
+      <p n="157">Article 25</p>
+      <p n="158">Repeal</p>
+      <p n="159">Regulation (EC) No 1489/97 is repealed with effect from 1 January 2004.</p>
+      <p n="160">References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex III.</p>
+      <p n="161">Article 26</p>
+      <p n="162">Entry into force and applicability</p>
+      <p n="163">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="164">It shall apply from 1 January 2004.</p>
+      <p n="165">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="166">Done at Brussels, 18 December 2003.</p>
+      <p n="167">For the Commission</p>
+      <p n="168">Franz Fischler</p>
+      <p n="169">Member of the Commission</p>
+      <p n="170">(1) OJ L 358, 31.12.2002, p. 59.</p>
+      <p n="171">(2) OJ L 202, 30.7.1997, p. 18. Regulation as last amended by Regulation (EC) No 2445/1999 (OJ L 298, 19.11.1999, p. 5).</p>
+      <p n="172">ANNEX I</p>
+      <p n="173">Electronic data exchange format for transmission of data to the coastal Member State</p>
+      <p n="174">A. Content of position report</p>
+      <p n="175">&gt;TABLE&gt;</p>
+      <p n="176">B. Structure of the position report</p>
+      <p n="177">Each data transmission is structured as follows:</p>
+      <p n="178">- double slash (//) and the characters "SR" indicate the start of a message,</p>
+      <p n="179">- a double slash (//) and field code indicate the start of a data element,</p>
+      <p n="180">- a single slash (/) separates the field code and the data,</p>
+      <p n="181">- pairs of data are separated by space,</p>
+      <p n="182">- the characters "ER" and a double slash (//) indicate the end of a record.</p>
+      <p n="183">C. Definition of the data elements</p>
+      <p n="184">&gt;TABLE&gt;</p>
+      <p n="185">ANNEX II</p>
+      <p n="186">Competent authorities</p>
+      <p n="187">BELGIË/BELGIQUE</p>
+      <p n="188">&gt;TABLE&gt;</p>
+      <p n="189">DANMARK</p>
+      <p n="190">&gt;TABLE&gt;</p>
+      <p n="191">DEUTSCHLAND</p>
+      <p n="192">&gt;TABLE&gt;</p>
+      <p n="193">ΕΛΛΑΣ</p>
+      <p n="194">&gt;TABLE POSITION&gt;</p>
+      <p n="195">ESPAÑA</p>
+      <p n="196">&gt;TABLE&gt;</p>
+      <p n="197">FRANCE</p>
+      <p n="198">&gt;TABLE&gt;</p>
+      <p n="199">IRELAND</p>
+      <p n="200">&gt;TABLE&gt;</p>
+      <p n="201">ITALIA</p>
+      <p n="202">&gt;TABLE&gt;</p>
+      <p n="203">NEDERLAND</p>
+      <p n="204">&gt;TABLE&gt;</p>
+      <p n="205">PORTUGAL</p>
+      <p n="206">&gt;TABLE&gt;</p>
+      <p n="207">SUOMI/FINLAND</p>
+      <p n="208">&gt;TABLE&gt;</p>
+      <p n="209">SVERIGE</p>
+      <p n="210">&gt;TABLE&gt;</p>
+      <p n="211">UNITED KINGDOM</p>
+      <p n="212">&gt;TABLE&gt;</p>
+      <p n="213">ANNEX III</p>
+      <p n="214">CORRELATION TABLE</p>
+      <p n="215">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

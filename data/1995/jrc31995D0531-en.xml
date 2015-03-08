@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31995D0531-en" n="31995D0531" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0531 English</title>
+        <title>95/531/EC: Commission Decision of 29 November 1995 amending, because of the accession of Austria, Finland and Sweden, Commission Decision No 77/144/EEC laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees, and laying down the boundaries of the production areas for these surveys</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0531:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0531:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">12</classCode>
+        <classCode scheme="eurovoc">322</classCode>
+        <classCode scheme="eurovoc">4257</classCode>
+        <classCode scheme="eurovoc">4488</classCode>
+        <classCode scheme="eurovoc">6019</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0531-en." lang="en">
+    <body>
+      <head n="1">95/531/EC: Commission Decision of 29 November 1995 amending, because of the accession of Austria, Finland and Sweden, Commission Decision No 77/144/EEC laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees, and laying down the boundaries of the production areas for these surveys</head>
+      <p n="2">COMMISSION DECISION of 29 November 1995 amending, because of the accession of Austria, Finland and Sweden, Commission Decision No 77/144/EEC laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees, and laying down the boundaries of the production areas for these surveys (95/531/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the Act of Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden,</p>
+      <p n="6">Having regard to Council Directive 76/625/EEC of 20 July 1976 concerning the statistical surveys to be carried out by the Member States in order to determine the production potential of plantations of certain species of fruit trees (1), as last amended by Council Regulation (EEC) No 1057/91 (2), and in particular Article 4 (2) and (4) and Article 9 thereof,</p>
+      <p n="7">Whereas those Member States which process their survey results electronically must submit these to the Commission in a machine-readable form; whereas the codes for transmitting survey results are determined in accordance with the procedure laid down in Article 9 of Directive 76/625/EEC; whereas these codes were laid down by Commission Decision No 77/144/EEC (3);</p>
+      <p n="8">Whereas Article 4 (2) of Directive 76/625/EEC provides for a breakdown by production areas of the information collected in the framework of these fruit tree surveys; whereas the boundaries of the production areas are also fixed in accordance with the procedure laid down in Article 9 of the same Directive, i. e. by a Commission Decision following an opinion from the Standing Committee on Agricultural Statistics; whereas the codes for the Member States and the production areas and their codes were laid down in Annexes I and III to Commission Decision No 77/144/EEC;</p>
+      <p n="9">Whereas, because of the accession of Austria, Finland and Sweden, it is therefore necessary to amend Annexes I and III to Commission Decision No 77/144/EEC;</p>
+      <p n="10">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Agricultural Statistics,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Because of the accession of Austria, Finland and Sweden, Annexes I (specific provisions) and III to Commission Decision No 77/144/EEC shall be expanded in accordance with the Annex to this Decision as from 1 January 1995.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Decision is addressed to the Member States.</p>
+      <p n="16">Done at Brussels, 29 November 1995.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Yves-Thibault DE SILGUY</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 218, 11. 8. 1976, p. 10.</p>
+      <p n="21">(2) OJ No L 107, 27. 4. 1991, p. 11.</p>
+      <p n="22">(3) OJ No L 47, 18. 2. 1977, p. 52.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">1. The following is to be added to Annex I (Specific provisions) of Decision No 77/144/EEC:</p>
+      <p n="25">- under heading '1. Country` after Portugal:</p>
+      <p n="26">&gt;TABLE&gt;</p>
+      <p n="27">- under heading '2. Production area` between Denmark and Greece:</p>
+      <p n="28">&gt;TABLE&gt;</p>
+      <p n="29">2. The following is to be added at the end of Annex III to Decision No 77/144/EEC:</p>
+      <p n="30">&gt;TABLE&gt;</p>
+      <p n="31">.</p>
+    </body>
+  </text>
+</TEI.2>

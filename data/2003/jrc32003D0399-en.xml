@@ -1,0 +1,52 @@
+<TEI.2 id="jrc32003D0399-en" n="32003D0399" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0399 English</title>
+        <title>2003/399/EC: Council Decision of 6 May 2003 on the designation of the European Capital of Culture 2006</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0399:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0399:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1182</classCode>
+        <classCode scheme="eurovoc">6562</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0399-en." lang="en">
+    <body>
+      <head n="1">2003/399/EC: Council Decision of 6 May 2003 on the designation of the European Capital of Culture 2006</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 6 May 2003</p>
+      <p n="4">on the designation of the European Capital of Culture 2006</p>
+      <p n="5">(2003/399/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Decision No 1419/1999/EC of the European Parliament and of the Council of 25 May 1999 establishing a Community action for the European Capital of Culture event for the years 2005 to 2019(1), and in particular Article 2(3) thereof,</p>
+      <p n="9">Having regard to the Selection Panel report received by the European Parliament, the Council and the Commission on 1 October 2002,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The City of Patras shall be designated as the European Capital of Culture 2006.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The City of Patras shall take all necessary measures to ensure the effective implementation of Articles 1 and 5 of Decision No 1419/1999/EC.</p>
+      <p n="15">Done at Brussels, 6 May 2003.</p>
+      <p n="16">For the Council</p>
+      <p n="17">The President</p>
+      <p n="18">P. Efthymiou</p>
+      <p n="19">(1) OJ L 166, 1.7.1999, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

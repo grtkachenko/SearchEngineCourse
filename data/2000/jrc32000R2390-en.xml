@@ -1,0 +1,101 @@
+<TEI.2 id="jrc32000R2390-en" n="32000R2390" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2390 English</title>
+        <title>Commission Regulation (EC) No 2390/2000 of 27 October 2000 amending Regulation (EC) No 1520/2000 laying down common detailed rules for the application of the system of granting export refunds on certain agricultural products exported in the form of goods not covered by Annex I to the Treaty, and the criteria for fixing the amount of such refunds</title>
+      </titleStmt>
+      <extent>65 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2390:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2390:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2748</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">666</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2390-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2390/2000 of 27 October 2000 amending Regulation (EC) No 1520/2000 laying down common detailed rules for the application of the system of granting export refunds on certain agricultural products exported in the form of goods not covered by Annex I to the Treaty, and the criteria for fixing the amount of such refunds</head>
+      <p n="2">Commission Regulation (EC) No 2390/2000</p>
+      <p n="3">of 27 October 2000</p>
+      <p n="4">amending Regulation (EC) No 1520/2000 laying down common detailed rules for the application of the system of granting export refunds on certain agricultural products exported in the form of goods not covered by Annex I to the Treaty, and the criteria for fixing the amount of such refunds</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 3448/93 of 6 December 1993 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products(1), as last amended by Commission Regulation (EC) No 2491/98(2), and in particular the first subparagraph of Article 8(3) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) It is necessary to clarify some of the provisions of Article 8 and of Annex F to Commission Regulation (EC) No 1520/2000(3) of 13 July 2000, laying down common detailed rules for the application of the system of granting export refunds on certain agricultural products exported in the form of goods not covered by Annex I to the Treaty, and the criteria for fixing the amount of such refunds.</p>
+      <p n="10">(2) It is appropriate to postpone the closing dates for the submission of applications for refund certificates in order to facilitate their transmission.</p>
+      <p n="11">(3) To allow operators to obtain certificates under the proper conditions, the rate at which certificates are granted in accordance with Article 8(4) should be adapted.</p>
+      <p n="12">(4) The measures laid down in this Regulation are in accordance with the opinion of the Management Committee on horizontal questions concerning trade in processed agricultural products not listed in Annex I to the Treaty,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EC) No 1520/2000 is amended as follows:</p>
+      <p n="16">1. Paragraphs 1 and 2 of Article 8 are replaced by the following:</p>
+      <p n="17">"1. Refund certificates issued for a single budget period may be applied for separately in six tranches. Applications for certificates may be submitted at the latest on:</p>
+      <p n="18">(a) 7 September for certificates valid from 1 October;</p>
+      <p n="19">(b) 7 November for certificates valid from 1 December;</p>
+      <p n="20">(c) 7 January for certificates valid from 1 February;</p>
+      <p n="21">(d) 7 March for certificates valid from 1 April;</p>
+      <p n="22">(e) 7 May for certificates valid from 1 June;</p>
+      <p n="23">(f) 7 July for certificates valid from 1 August.</p>
+      <p n="24">Operators may submit an application for a refund certificate only for the tranche corresponding to the first closing date, as set out under points (a) to (f), following the date of submission.</p>
+      <p n="25">2. Member States shall notify the Commission not later than:</p>
+      <p n="26">- 14 September of the applications for certificates referred to in paragraph 1(a);</p>
+      <p n="27">- 14 November of the applications for certificates referred to in paragraph 1(b);</p>
+      <p n="28">- 14 January of the applications for certificates referred to in paragraph 1(c);</p>
+      <p n="29">- 14 March of the applications for certificates referred to in paragraph 1(d);</p>
+      <p n="30">- 14 May of the applications for certificates referred to in paragraph 1(e);</p>
+      <p n="31">- 14 July of the applications for certificates referred to in paragraph 1(f)."</p>
+      <p n="32">2. Paragraphs 4 and 5 of Article 8 are replaced by:</p>
+      <p n="33">"4. The total amount for which certificates may be issued for each of the tranches referred to in paragraph 1 shall be:</p>
+      <p n="34">- 30 % of the amount referred to in paragraph 3, determined on 14 September for the tranche referred to in paragraph 1(a),</p>
+      <p n="35">- 27 % of the amount referred to in paragraph 3, determined on 14 November for the tranche referred to in paragraph 1(b),</p>
+      <p n="36">- 32 % of the amount referred to in paragraph 3, determined on 14 January for the tranche referred to in paragraph 1(c),</p>
+      <p n="37">- 44 % of the amount referred to in paragraph 3, determined on 14 March for the tranche referred to in paragraph 1(d),</p>
+      <p n="38">- 67 % of the amount referred to in paragraph 3, determined on 14 May for the tranche referred to in paragraph 1(e),</p>
+      <p n="39">- 100 % of the amount referred to in paragraph 3, determined on 14 July for the tranche referred to in paragraph 1(f).</p>
+      <p n="40">5. Should the total amount of the applications received for each of the periods concerned exceed the maximum referred to in paragraph 4, the Commission shall set a reduction coefficient applicable to all applications lodged before the corresponding date referred to in paragraph 1 so as to comply with the maximum referred to in paragraph 4.</p>
+      <p n="41">The Commission shall publish the coefficient in the Official Journal of the European Communities within five working days of the date referred to in paragraph 2."</p>
+      <p n="42">3. Paragraphs 8 to 10 of Article 8 are replaced by the following:</p>
+      <p n="43">"8. Applications for refund certificates may be lodged outside the periods referred to in paragraph 1, with effect from 1 October of each budget period. Applications submitted in the course of each week shall be notified to the Commission on the following Tuesday. The corresponding certificates may be issued from the Monday following notification, unless the Commission issues instructions to the contrary.</p>
+      <p n="44">Where the Commission considers that there is a danger that the European Union may not meet its international commitments, it may apply a reduction coefficient to applications for refund certificates already lodged, taking account in particular of the calculation method referred to in paragraphs 3 and 4. It may also suspend the issue of certificates.</p>
+      <p n="45">The Commission shall publish the coefficient in the Official Journal of the European Communities within four days of notification of the applications, as mentioned in the first subparagraph.</p>
+      <p n="46">9. The applications for refund certificates referred to in the previous paragraph may be lodged only if no reduction coefficient has been set pursuant to paragraph 5. The certificates thus issued are aimed at using up the amounts calculated in accordance with paragraph 4, plus the amounts for which no certificates were actually issued and the amounts for any certificates returned.</p>
+      <p n="47">10. If amounts determined in accordance with paragraph 3 remain available, the Commission may authorise, by publication in the Official Journal at the latest on 10 August, the lodging of applications for refund certificates from the following Monday for goods to be exported before 1 October under the conditions laid down in paragraph 8."</p>
+      <p n="48">4. Paragraph 2 of Chapter I, Annex F, is replaced by the following:</p>
+      <p n="49">"2. On the title 'Export licence or advance fixing certificate' shall be stamped 'refund certificate non-Annex I'. This information may be computerised.</p>
+      <p n="50">Applicants must complete boxes 4, 8, 17 and 18 and, where appropriate 7. In boxes 17 and 18 the amount shall be entered in euro.</p>
+      <p n="51">Boxes 13 to 16 shall not be completed.</p>
+      <p n="52">In box 20 applicants must state whether they plan to use the refund certificate in the Member State which issued it only or whether they require a refund certificate which is valid throughout the Community.</p>
+      <p n="53">Applicants must enter the place and date of application and sign the application.</p>
+      <p n="54">If the application concerns food aid, they must also enter in box 20 one of the indications mentioned in Article 10 of this Regulation or in Article 3 of Regulation (EC) No 259/98(4)."</p>
+      <p n="55">Article 2</p>
+      <p n="56">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="57">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="58">Done at Brussels, 27 October 2000.</p>
+      <p n="59">For the Commission</p>
+      <p n="60">Erkki Liikanen</p>
+      <p n="61">Member of the Commission</p>
+      <p n="62">(1) OJ L 318, 20.12.1993, p. 18.</p>
+      <p n="63">(2) OJ L 309, 19.11.1998, p. 28.</p>
+      <p n="64">(3) OJ L 177, 15.7.2000, p. 1.</p>
+      <p n="65">(4) OJ L 25, 31.1.1998, p. 39.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32003D0798-en" n="32003D0798" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0798 English</title>
+        <title>2003/798/EC: Council Decision of 5 June 2003 concerning the conclusion of an Agreement aimed at renewing the Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0798:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0798:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">4415</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">5876</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0798-en." lang="en">
+    <body>
+      <head n="1">2003/798/EC: Council Decision of 5 June 2003 concerning the conclusion of an Agreement aimed at renewing the Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 5 June 2003</p>
+      <p n="4">concerning the conclusion of an Agreement aimed at renewing the Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation</p>
+      <p n="5">(2003/798/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular the second paragraph of Article 170, in conjunction with the first sentence of the first subparagraph of Article 300(2), and the first subparagraph of Article 300(3),</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) By its Decision of 16 November 2000(2), the Council approved the conclusion of the Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation (hereinafter "Russia").</p>
+      <p n="12">(2) Article 12(b) of the Agreement provides as follows: "This Agreement shall be concluded for an initial period ending on 31 December 2002 and will be renewable by common agreement between the parties for additional periods of five years".</p>
+      <p n="13">(3) By note verbale dated 19 September 2002, the Ministry of Foreign Affairs of the Russian Federation requested the renewal of the abovementioned Agreement for five more years; the Parties to the Agreement consider that rapid renewal of this Agreement would be in their mutual interest.</p>
+      <p n="14">(4) The material content of the renewed Agreement will be identical to the material content of the Agreement which recently expired.</p>
+      <p n="15">(5) The Agreement aimed at renewing the Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation should be approved on behalf of the Community,</p>
+      <p n="16">HAS DECIDED AS FOLLOWS:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The Agreement aimed at renewing the Agreement on cooperation in science and technology between the European Community and the Government of the Russian Federation for an additional period of five years is hereby approved on behalf of the Community.</p>
+      <p n="19">The text of the Agreement is attached to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The President of the Council is hereby authorised to designate the person(s) empowered to sign the Agreement in order to express the consent of the Community to be bound thereby.</p>
+      <p n="22">Done at Brussels, 5 June 2003.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">M. Stratakis</p>
+      <p n="26">(1) Opinion of 13 May 2003 (not yet published in the Official Journal).</p>
+      <p n="27">(2) OJ L 299, 28.11.2000, p. 14.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,125 @@
+<TEI.2 id="jrc32004R0753-en" n="32004R0753" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0753 English</title>
+        <title>Commission Regulation (EC) No 753/2004 of 22 April 2004 implementing Decision No 1608/2003/EC of the European Parliament and of the Council as regards statistics on science and technology (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>91 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0753:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0753:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3949</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4415</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0753-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 753/2004 of 22 April 2004 implementing Decision No 1608/2003/EC of the European Parliament and of the Council as regards statistics on science and technology (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 753/2004</p>
+      <p n="3">of 22 April 2004</p>
+      <p n="4">implementing Decision No 1608/2003/EC of the European Parliament and of the Council as regards statistics on science and technology</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Decision No 1608/2003/EC of the European Parliament and of the Council of 22 July 2003 concerning the production and development of Community statistics on science and technology(1) and in particular Article 3 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) It is necessary to adopt measures for the implementation of individual statistical actions as determined in Article 2 of Decision No 1608/2003/EC; those actions are necessary in order to establish Community statistics on science, technology and innovation.</p>
+      <p n="11">(2) The Community statistical programme constitutes the framework for the production of all Community statistics, and Decision No 2367/2002/EC of the European Parliament and of the Council of 16 December 2002 on the Community statistical programme 2003 to 2007(2) has specifically determined the work programme for the production and improvement of statistics on science and technology for the period 2003 to 2007.</p>
+      <p n="12">(3) It is necessary to ensure the consistency of Community statistics on science and technology with other international standards, which entails taking into account the work carried out by the Organisation for Economic Co-operation and Development (OECD) and other international organisations.</p>
+      <p n="13">(4) In implementing Decision No 1608/2003/EC, regard should be had to the framework provided by Council Regulation (EC) No 322/97 of 17 February 1997 on Community Statistics(3) when laying down provisions to cover access to administrative sources and statistical confidentiality.</p>
+      <p n="14">(5) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The measures for implementing Decision No 1608/2003/EC with regard to Community statistics on science and technology shall be as set out in this Regulation.</p>
+      <p n="18">Article 2</p>
+      <p n="19">1. This Regulation shall cover the following domains:</p>
+      <p n="20">(a) statistics on research and development;</p>
+      <p n="21">(b) statistics on government budget appropriations or outlays on research and development (GBAORD);</p>
+      <p n="22">(c) statistics on human resources in science and technology, including gender and mobility statistics (HRST), statistics on patents, statistics on high-technology industries and knowledge-based services and other statistics on science and technology.</p>
+      <p n="23">For the domains cited in points (a) and (b), the lists of statistical variables, the activities and sectors covered, the breakdowns of the results, the frequency, the deadlines for data transmission, the pilot studies for developing, inter alia, new variables and other particular activities to be undertaken and the transitional period shall be as specified in sections 1 and 2 of the Annex.</p>
+      <p n="24">For the domains cited in point (c), the necessary data shall mostly be acquired from existing statistical or other data sources, in accordance with section 3 of the Annex.</p>
+      <p n="25">2. On the basis of the conclusions in the reports presented to the European Parliament and to the Council pursuant to Article 5 of Decision No 1608/2003/EC, the lists of statistical variables, the activities and sectors covered, the breakdowns of the results, the frequency, the deadlines for data transmission, the list of pilot studies and other characteristics laid down in the Annex to this Regulation shall, where appropriate, be revised at regular intervals in accordance with the procedure referred to in Article 4 of that Decision.</p>
+      <p n="26">Article 3</p>
+      <p n="27">Member States shall acquire the necessary data using a combination of different sources such as sample surveys, administrative data sources or other data sources. In terms of quality or statistical estimation procedures, the other data sources shall be at least equivalent to sample surveys or administrative data sources.</p>
+      <p n="28">Article 4</p>
+      <p n="29">The statistical domains listed in the Annex shall be based on harmonised concepts and definitions, contained in the most recent versions of the Frascati Manual, the Canberra Manual or other harmonised standards.</p>
+      <p n="30">Member States shall apply these harmonised concepts and definitions to the statistics to be compiled.</p>
+      <p n="31">The reports presented to the European Parliament and to the Council pursuant to Article 5 of Decision No 1608/2003/EC shall make reference to concepts and definitions and their applications.</p>
+      <p n="32">Article 5</p>
+      <p n="33">Member States shall transmit the variables listed in sections 1 and 2 of the Annex to the Commission (Eurostat), using a standard transmission format to be determined by the Commission (Eurostat) in cooperation with them.</p>
+      <p n="34">Article 6</p>
+      <p n="35">Quality evaluation shall be carried out by Member States and the Commission (Eurostat).</p>
+      <p n="36">Member States shall transmit to the Commission (Eurostat), at its request, the information necessary for the evaluation of the quality of the statistics laid down in the Annex which are needed for the fulfilment of the reporting requirements laid down in Article 5 of Decision No 1608/2003/EC.</p>
+      <p n="37">Article 7</p>
+      <p n="38">This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="39">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="40">Done at Brussels, 22 April 2004.</p>
+      <p n="41">For the Commission</p>
+      <p n="42">Pedro Solbes Mira</p>
+      <p n="43">Member of the Commission</p>
+      <p n="44">(1) OJ L 230, 16.9.2003, p. 1.</p>
+      <p n="45">(2) OJ L 358, 31.12.2002, p. 1.</p>
+      <p n="46">(3) OJ L 52, 22.2.1997, p. 1. Regulation amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1).</p>
+      <p n="47">ANNEX</p>
+      <p n="48">STATISTICS ON SCIENCE AND TECHNOLOGY</p>
+      <p n="49">Section 1 Statistics on Research and Development</p>
+      <p n="50">1. The list of statistics (including their breakdowns) to be compiled is set out below.</p>
+      <p n="51">&gt;TABLE&gt;</p>
+      <p n="52">2. All variables shall be reported every second year, except those where a different frequency (yearly or four yearly) is stated in the tables of paragraph 1.</p>
+      <p n="53">3. The first reference year for which the statistics listed in paragraph 1 are to be compiled is the calendar year 2003.</p>
+      <p n="54">In so far as national statistical systems require major adaptations, the Commission may grant derogations to Member States with respect to the statistics compiled for the first reference year. In very exceptional cases, this derogation period may be extended for the regional breakdowns of the variables 1.11, 1.12, 1.13, 1.14 and 1.20.</p>
+      <p n="55">4. The results are to be transmitted within 18 months of the end of the calendar year of the reference period. In addition, preliminary results for the variables with an annual frequency are to be transmitted within 10 months of the end of the calendar year of the reference period.</p>
+      <p n="56">5. Production of results</p>
+      <p n="57">5.1. The results of the statistics by occupation are to be broken down into "researchers", "technicians/equivalent staff" and "other supporting staff".</p>
+      <p n="58">5.2. The results of the statistics by qualification are to be broken down into "PhD holders (ISCED 6)", "other University degrees and other tertiary diplomas (ISCED 5A and 5B)" and "other qualifications".</p>
+      <p n="59">5.3. The results of the statistics by major field of science are to be broken down into "natural sciences", "engineering and technology", "medical sciences", "agricultural sciences", "social sciences" and "humanities".</p>
+      <p n="60">5.4. The results of the statistics by size class are to be broken down into the following size classes: "0 employees", "one to nine employees", "10 to 49 employees", "50 to 249 employees", "250 to 499 employees", "500 and more employees".</p>
+      <p n="61">5.5. The results of the statistics by source of funds are to be broken down into the "business enterprise sector", "government sector", "private non-profit sector", "higher education sector" and "abroad".</p>
+      <p n="62">5.6. The results of the statistics by type of R &amp; D are to be broken down into "basic research", "applied research" and "experimental development".</p>
+      <p n="63">5.7. The results of the statistics by type of costs are to be broken down into "current costs (labour costs and other costs)" and "capital expenditure".</p>
+      <p n="64">5.8. The results of the statistics by socio-economic objective (SEO) are to be broken down in accordance to the nomenclature for the analysis and comparison of scientific programmes and budgets (NABS) at chapter level.</p>
+      <p n="65">5.9. The results of the statistics by age group are to be broken down into the following age classes (in years): "up to 25", "25 to 34", "35 to 44", "45 to 54", "55 to 64", "65 and more".</p>
+      <p n="66">5.10. The results of the statistics by citizenship are to be broken down into the following categories: "national citizenship", "citizenship of other EU Member States", "citizenship of other European countries", "citizenship of North America", "citizenship of Central and South America"; "citizenship of Asia", "citizenship of Africa", "other citizenship".</p>
+      <p n="67">5.11. The results of the statistics by economic activity (NACE Rev. 1.1) are to be broken down into the following NACE Rev. 1.1 divisions, groups, classes and aggregates (as listed in the Frascati manual):</p>
+      <p n="68">"01, 02, 05", "10, 11, 12, 13, 14", "15 to 37", "15 + 16", "15", "16", "17 + 18 + 19", "17", "18", "19", "20 + 21 + 22", "20", "21", "22", "23 + 24 + 25", "23", "23 less 23.2", "23.2", "24", "24 less 24.4", "24.4", "25", "26", "27", "27.1 to 27.3 + 27.51 + 27.52", "27.4 + 27.53 + 27.54", "28 to 35", "28", "29", "29.11", "29.3 + 29.4 + 29.5 + 29.6", "29.4", 29.6", "30", "31", "31.1", "31.2", "31.3", "31.4", "31.5", "31.6", "32", "32.1, "32.2", "32.3", "33", "33,1", "33.2", "33.3", "33.4", "33.5", "34", "35", "35.1", "35.2", "35.3", "35.4 + 35.5", "36", "36.1", "36.2 to 36.5", "37", "40, 41", "45", "50 to 99", "50, 51, 52", "55", "60, 61, 62, 63, 64", "64.2", "60 to 64 less 64.2", "65, 66, 67", "70, 71, 72, 73, 74", "72", "72.2", "73", "74", "74.2 + 74.3", "75 to 99", "01 to 99".</p>
+      <p n="69">6. The concepts and definitions related to the statistics defined in this section are laid down in the Frascati manual.</p>
+      <p n="70">7. On a voluntary basis, pilot studies will be undertaken by the Commission and/or Member States, in particular on the following topics:</p>
+      <p n="71">(a) further breakdowns of researchers in head count in the business enterprise sector;</p>
+      <p n="72">(b) number of spin-offs or similar output indicators generated by researchers in the higher education sector;</p>
+      <p n="73">(c) further breakdown of the category "source of funds abroad" (listed under paragraph 5.5) into "foreign business enterprise", "other national governments", "private non-profit organisations", "higher education", "European Commission", "international organisations", "others";</p>
+      <p n="74">(d) indicators on R &amp; D globalisation.</p>
+      <p n="75">Section 2 Statistics on government budget appropriations or outlays on research and development (GBAORD)</p>
+      <p n="76">1. The following statistics are to be compiled:</p>
+      <p n="77">&gt;TABLE&gt;</p>
+      <p n="78">2. All variables shall be reported annually.</p>
+      <p n="79">3. The first reference year for which the statistics are to be compiled is the calendar year 2004. In so far as national statistical systems require major adaptations, the Commission may grant derogations to Member States in respect of the statistics compiled for the first reference year.</p>
+      <p n="80">4. The results are to be transmitted within six months of the end of the calendar year of the reference period for variable 21.0 (including all breakdowns) and within 12 months for variable 21.1 (including all breakdowns). The transmission of results for the variable 21.1 in accordance with the nomenclature for the analysis and comparison of scientific programmes and budgets (NABS) at subchapter level is optional.</p>
+      <p n="81">5. Production of results</p>
+      <p n="82">5.1. The results of the statistics compiled for the variables 21.0 and 21.1 are to be broken down in accordance to the nomenclature for the analysis and comparison of scientific programmes and budgets (NABS) at chapter level.</p>
+      <p n="83">5.2. The results of the statistics compiled for the variables 21.1 are to be broken down in accordance to the nomenclature for the analysis and comparison of scientific programmes and budgets (NABS) at subchapter level.</p>
+      <p n="84">6. The concepts and definitions related to the statistics defined in this section are laid down in the Frascati manual.</p>
+      <p n="85">Section 3 Other statistics on science and technology</p>
+      <p n="86">The work related to the other areas of statistics on science and technology shall in particular refer to the following domains:</p>
+      <p n="87">(a) statistics on human resources in science and technology (including gender and mobility statistics) (HRST): development and implementation of a comprehensive framework for statistics on HRST principally by better exploiting existing national and international data sources (also within the European statistical system). Particular attention is to be given to gender aspects;</p>
+      <p n="88">(b) statistics on patents: development and implementation of a comprehensive framework for statistics on patents by regularly producing international and national patent statistics and indicators based on the information available at national and international patent offices;</p>
+      <p n="89">(c) statistics on high-technology industries and knowledge-based services: Development and implementation of a comprehensive framework for statistics on high-technology industries and knowledge-based services, principally by better exploiting existing national and international data sources (also within the European statistical system). This work also comprises the identification and classification of activities and products, the measurement of economic performance of these activities and their contribution to performance of the whole economy;</p>
+      <p n="90">(d) other statistics on science and technology: The additional development and implementation work is related, inter alia, to Statistics on biotechnology, nanotechnology, technological balance of payments, further breakdowns of existing statistics into size classes or other areas.</p>
+      <p n="91">For the domains listed in this section, the necessary data will mostly be acquired through existing statistical or other data sources (e.g. in the area of social or economic statistics).</p>
+    </body>
+  </text>
+</TEI.2>

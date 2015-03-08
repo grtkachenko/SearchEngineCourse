@@ -1,0 +1,69 @@
+<TEI.2 id="jrc31998R0846-en" n="31998R0846" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0846 English</title>
+        <title>Commission Regulation (EC) No 846/98 of 22 April 1998 adapting Council Regulation (EC) No 2008/97 and repealing Regulation (EC) No 151/98</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0846:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0846:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1264</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">4078</classCode>
+        <classCode scheme="eurovoc">4580</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0846-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 846/98 of 22 April 1998 adapting Council Regulation (EC) No 2008/97 and repealing Regulation (EC) No 151/98</head>
+      <p n="2">COMMISSION REGULATION (EC) No 846/98 of 22 April 1998 adapting Council Regulation (EC) No 2008/97 and repealing Regulation (EC) No 151/98</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2008/97 of 9 October 1997 laying down certain rules for the application of the special arrangements for imports of olive oil and certain other agricultural products originating in Turkey (1), and in particular Article 8 thereof,</p>
+      <p n="6">Whereas Decision No 1/98 of 25 February 1998 of the EC-Turkey Association Council (2) on the trade arrangements for agricultural products establishes, inter alia, the preferential arrangements for imports of olive oil originating in Turkey applicable from 1 January 1998;</p>
+      <p n="7">Whereas Regulation (EC) No 2008/97 provides that where the conditions of the special arrangements provided for in the Association Agreement are amended, in particular as regards the amounts, or where a new agreement is concluded, the resultant adjustments to that Regulation may be adopted by the Commission in accordance with the procedure laid down in Article 38 of Council Regulation No 136/66/EEC (3), as last amended by Regulation (EC) No 1581/96 (4);</p>
+      <p n="8">Whereas the special arrangements for imports of olive oil from Turkey provided for in Decision No 1/98 of the EC-Turkey Association Council adjust in particular the reductions in the customs duty applicable from 1 January 1998; whereas Regulation (EC) No 2008/97 should accordingly be adapted to incorporate those reductions in place of the amounts provided for pursuant to Decision No 1/77 of the EC-Turkey Association Council (5);</p>
+      <p n="9">Whereas the conditions of the special arrangements for imports of olive oil from Turkey provided for in Decision No 1/98 of the EC-Turkey Association Council make no provision for reductions in the customs duty to be subject to the application in Turkey of any special export charge; whereas Commission Regulation (EC) No 151/98 (6) should therefore be repealed;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Oils and Fats,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Regulation (EC) No 2008/97 is hereby amended as follows:</p>
+      <p n="14">1. In Article 2(1), the phrase 'ECU 0,7245 per 100 kilograms` is replaced by '10 %`.</p>
+      <p n="15">2. Article 2(2) and (3) is deleted.</p>
+      <p n="16">3. In Article 3(1) and (2) respectively, the phrases 'ECU 3,723 per 100 kilograms` and 'ECU 7,003 per 100 kilograms` are replaced by '5 %`.</p>
+      <p n="17">Article 2</p>
+      <p n="18">Regulation (EC) No 151/98 is hereby repealed.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">It shall apply from 1 January 1998.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 22 April 1998.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz FISCHLER</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 284, 16. 10. 1997, p. 17.</p>
+      <p n="28">(2) OJ L 86, 20. 3. 1998, p. 1.</p>
+      <p n="29">(3) OJ 172, 30. 9. 1966, p. 3025/66.</p>
+      <p n="30">(4) OJ L 206, 16. 8. 1996, p. 11.</p>
+      <p n="31">(5) OJ L 278, 29. 10. 1977, p. 13.</p>
+      <p n="32">(6) OJ L 18, 23. 1. 1998, p. 6.</p>
+    </body>
+  </text>
+</TEI.2>

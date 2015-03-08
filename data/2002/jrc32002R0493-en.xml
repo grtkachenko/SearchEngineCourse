@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32002R0493-en" n="32002R0493" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0493 English</title>
+        <title>Commission Regulation (EC) No 493/2002 of 19 March 2002 amending Council Regulation (EEC) No 2771/75 on the common organisation of the market in eggs and Council Regulation (EEC) No 2777/75 on the common organisation of the market in poultrymeat as regards the Combined Nomenclature codes of certain products</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0493:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0493:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2069</classCode>
+        <classCode scheme="eurovoc">2121</classCode>
+        <classCode scheme="eurovoc">4381</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+        <classCode scheme="eurovoc">5751</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0493-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 493/2002 of 19 March 2002 amending Council Regulation (EEC) No 2771/75 on the common organisation of the market in eggs and Council Regulation (EEC) No 2777/75 on the common organisation of the market in poultrymeat as regards the Combined Nomenclature codes of certain products</head>
+      <p n="2">Commission Regulation (EC) No 493/2002</p>
+      <p n="3">of 19 March 2002</p>
+      <p n="4">amending Council Regulation (EEC) No 2771/75 on the common organisation of the market in eggs and Council Regulation (EEC) No 2777/75 on the common organisation of the market in poultrymeat as regards the Combined Nomenclature codes of certain products</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 234/79 of 5 February 1979 on the procedure for adjusting the Common Customs Tariff nomenclature used for agricultural products(1), as last amended by Regulation (EC) No 3290/94(2), and in particular Article 2(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2031/2001 of 6 August 2001 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff(3) amends the Combined Nomenclature for certain products.</p>
+      <p n="10">(2) Annex I to Council Regulation (EEC) No 2771/75 of 29 October 1975 on the common organisation of the market in eggs(4), as last amended by Commission Regulation (EC) No 1516/96(5), and Article 1(1) of Council Regulation (EEC) No 2777/75 of 29 October 1975 on the common organisation of the market in poultrymeat(6), as last amended by Commission Regulation (EC) No 2916/95(7), should consequently be amended.</p>
+      <p n="11">(3) The amendments should apply from the date of application of Regulation (EC) No 2031/2001.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">In Annex I to Regulation (EEC) No 2771/75, the line: "&gt;TABLE&gt;"</p>
+      <p n="16">is replaced by the following: "&gt;TABLE&gt;"</p>
+      <p n="17">and "&gt;TABLE&gt;"</p>
+      <p n="18">Article 2</p>
+      <p n="19">In Article 1(1) of Regulation (EEC) No 2777/75, CN codes " 0210 90 71 and 0210 90 79 " are replaced by CN codes " 0210 99 71 and 0210 99 79 ".</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">It shall apply from 1 January 2002.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 19 March 2002.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 34, 9.2.1979, p. 2.</p>
+      <p n="29">(2) OJ L 349, 31.12.1994, p. 105.</p>
+      <p n="30">(3) OJ L 279, 23.10.2001, p. 1.</p>
+      <p n="31">(4) OJ L 282, 1.11.1975, p. 49.</p>
+      <p n="32">(5) OJ L 189, 30.7.1996, p. 99.</p>
+      <p n="33">(6) OJ L 282, 1.11.1975, p. 77.</p>
+      <p n="34">(7) OJ L 305, 19.12.1995, p. 49.</p>
+    </body>
+  </text>
+</TEI.2>

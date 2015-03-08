@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32003D0106-en" n="32003D0106" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0106 English</title>
+        <title>2003/106/EC: Council Decision of 19 December 2002 concerning the approval, on behalf of the European Community, of the Rotterdam Convention on the Prior Informed Consent Procedure for certain hazardous chemicals and pesticides in international trade</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0106:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0106:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">11</classCode>
+        <classCode scheme="eurovoc">201</classCode>
+        <classCode scheme="eurovoc">2357</classCode>
+        <classCode scheme="eurovoc">2629</classCode>
+        <classCode scheme="eurovoc">2739</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0106-en." lang="en">
+    <body>
+      <head n="1">2003/106/EC: Council Decision of 19 December 2002 concerning the approval, on behalf of the European Community, of the Rotterdam Convention on the Prior Informed Consent Procedure for certain hazardous chemicals and pesticides in international trade</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 19 December 2002</p>
+      <p n="4">concerning the approval, on behalf of the European Community, of the Rotterdam Convention on the Prior Informed Consent Procedure for certain hazardous chemicals and pesticides in international trade</p>
+      <p n="5">(2003/106/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 175(1), in conjunction with Article 300(2), first paragraph, first sentence, and Article 300(3), first subparagraph, thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Commission participated on behalf of the Community in the negotiation of the Rotterdam Convention on the Prior Informed Consent Procedure for certain hazardous chemicals and pesticides in international trade, in accordance with the negotiating mandate given by the Council.</p>
+      <p n="12">(2) Upon the conclusion of the negotiations, the Convention was signed on behalf of the Community in Rotterdam on 11 September 1998.</p>
+      <p n="13">(3) The Convention is an important step in improving the international regulation of trade in certain hazardous chemicals and pesticides in order to protect human health and the environment from potential harm and to promote the environmentally sound use of such substances.</p>
+      <p n="14">(4) The Convention is open to ratification, acceptance or approval by States and by regional economic integration organisations.</p>
+      <p n="15">(5) Under the terms of the Convention, a regional economic integration organisation must declare in its instrument of ratification, acceptance, approval or accession the extent of its competence in respect of the matters governed by the Convention.</p>
+      <p n="16">(6) On 28 January 2003 Regulation (EC) No 304/2003 of the European Parliament and the Council concerning the export and import of dangerous chemicals(3) was adopted.</p>
+      <p n="17">(7) In consequence thereof, the Community can approve the Convention,</p>
+      <p n="18">HAS DECIDED AS FOLLOWS:</p>
+      <p n="19">Article 1</p>
+      <p n="20">The Rotterdam Convention on the Prior Informed Consent Procedure for certain hazardous chemicals and pesticides in international trade, signed on 11 September 1998, is hereby approved on behalf of the European Community.</p>
+      <p n="21">The text of the Convention is set out in Annex A hereto.</p>
+      <p n="22">Article 2</p>
+      <p n="23">1. The President of the Council is hereby authorised to designate the person or persons empowered to deposit the instrument of approval on behalf of the Community with the Secretary-General of the United Nations, in accordance with Article 25(1) of the Convention.</p>
+      <p n="24">2. The person or persons empowered to deposit the instrument of approval shall at the same time deposit the declaration of competence set out in Annex B to this Decision, as required by Article 25(3) of the Convention.</p>
+      <p n="25">Done at Brussels, 19 December 2002.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">L. Espersen</p>
+      <p n="29">(1) OJ C 126 E, 28.5.2002, p. 274.</p>
+      <p n="30">(2) Opinion of 24 October 2002 (not yet published in the Official Journal).</p>
+      <p n="31">(3) See p. 1 of this Journal.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31995L0011-en" n="31995L0011" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995L0011 English</title>
+        <title>Commission Directive 95/11/EC of 4 May 1995 amending Council Directive 87/153/EEC fixing guidelines for the assessment of additives in animal nutrition (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0011:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0011:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1448</classCode>
+        <classCode scheme="eurovoc">181</classCode>
+        <classCode scheme="eurovoc">5300</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995L0011-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 95/11/EC of 4 May 1995 amending Council Directive 87/153/EEC fixing guidelines for the assessment of additives in animal nutrition (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 95/11/EC of 4 May 1995 amending Council Directive 87/153/EEC fixing guidelines for the assessment of additives in animal nutrition (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 9 (2) thereof,</p>
+      <p n="6">Whereas Council Directive 70/524/EEC provides for guidelines for the assessment of additives in animal nutrition subsequently adopted by Council Directive 87/153/EEC of 16 February 1987 fixing guidelines for the assessment of additives in animal nutrition (2), as last amended by Commission Directive 94/40/EC (3), and any amendment thereto in light of advances in scientific and technical knowledge;</p>
+      <p n="7">Whereas in order to have guarantee on the conservation without any change of the microbial strains and consequently of continuity during the industrial use, it is necessary to deposit the reference material in a culture collection recognized as an international depositary Authority in accordance with the Budapest Treaty; whereas this provision permits, moreover, the precise references of the used microbial strains;</p>
+      <p n="8">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Feedingstuffs,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Annex to Directive 87/153/EEC is hereby amended as set out in the Annex to this Directive.</p>
+      <p n="12">Article 2</p>
+      <p n="13">Member States shall bring into force the laws, regulations or administrative provisions necessary to comply with this Directive by 31 December 1995 at the latest. They shall immediately inform the Commission thereof.</p>
+      <p n="14">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by the Member States.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Directive shall enter into force on the twentieth day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">Article 4</p>
+      <p n="18">This Directive is addressed to the Member States.</p>
+      <p n="19">Done at Brussels, 4 May 1995.</p>
+      <p n="20">For the Commission Franz FISCHLER Member of the Commission</p>
+      <p n="21">ANNEX</p>
+      <p n="22">1. In Section II, the text of the point 2.2 is replaced by the following text:</p>
+      <p n="23">'2.2 Formula, empirical and structural, and molecular weight. Qualitative and quantitative composition of the main components, if the active substance is a fermentation product.</p>
+      <p n="24">For micro-organisms: name and place of the culture collection recognized as an International Depositary Authority (1), if possible in the European Union, where the strain is deposited and accession number, genetic modification and all relevant properties for its identification. In addition, origin, appropriate morphological and physiological characteristics, developmental stages, relevant factors that may be involved in its biological activity (as an additive) and other genetic data for identification. Number of colony forming units (CFU) per gram.</p>
+      <p n="25">For enzyme preparations: biological origin (in case of microbial origin: name and place of the culture collection recognized as an International Depositary Authority if possible in the European Union, where the strain is deposited and accession number, genetic modification and all relevant properties for its identification including genetic data), the activities towards relevant chemically pure model substrates and other physico-chemical characteristics.</p>
+      <p n="26">A copy of the receipt of deposit of the micro-organism with an International Depositary Authority, precising the name and the taxonomic description of the micro-organism according to the international Codes of Nomenclature must, in all cases, be provided.` 2. In Section V, the text of the point 2.2 is replaced by the following text:</p>
+      <p n="27">'2.2 Formula, empirical and structural, and molecular weight. Qualitative and quantitative composition of the main components, if the active substance is a fermentation product.</p>
+      <p n="28">For micro-organisms: name and place of the culture collection recognized as an International Depositary Authority, if possible in the European Union, where the strain is deposited and accession number, genetic modification and all relevant properties for its identification.</p>
+      <p n="29">For enyzme preparations: biological origin (in case of microbial origin: name and place of the culture collection recognized as an International Depositary Authority if possible in the European Union, where the strain is deposited and accession number, genetic modification and all relevant properties for its identification including genetic data), the activities towards relevant chemically pure model substrates and other physico-chemical characteristics.`</p>
+    </body>
+  </text>
+</TEI.2>

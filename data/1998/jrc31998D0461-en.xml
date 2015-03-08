@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31998D0461-en" n="31998D0461" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0461 English</title>
+        <title>98/461/EC: Council Decision of 13 July 1998 on financing the fixed costs of the system of managing technical assistance for the African, Caribbean and Pacific (ACP) States and the overseas countries and territories (OCT)</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0461:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0461:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1005</classCode>
+        <classCode scheme="eurovoc">225</classCode>
+        <classCode scheme="eurovoc">2296</classCode>
+        <classCode scheme="eurovoc">5083</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0461-en." lang="en">
+    <body>
+      <head n="1">98/461/EC: Council Decision of 13 July 1998 on financing the fixed costs of the system of managing technical assistance for the African, Caribbean and Pacific (ACP) States and the overseas countries and territories (OCT)</head>
+      <p n="2">COUNCIL DECISION of 13 July 1998 on financing the fixed costs of the system of managing technical assistance for the African, Caribbean and Pacific (ACP) States and the overseas countries and territories (OCT) (98/461/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the fourth ACP-EC Convention, signed at Lomé on 15 December 1989 and amended by the agreement signed in Mauritius on 4 November 1995,</p>
+      <p n="5">Having regard to Council Decision 91/482/EEC of 25 July 1991 on the association of the overseas countries and territories with the European Economic Community (1),</p>
+      <p n="6">Having regard to the Internal Agreement on the financing and administration of Community aid under the second financial protocol of the fourth ACP-EC Convention, hereafter called the 'Internal Agreement`, and in particular Article 9 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas it is necessary to cover, for a period of four years, the fixed costs arising from the replacement of the European Association for Cooperation for the Management of Technical Assistance for the ACP States and the OCT;</p>
+      <p n="9">Whereas the revenue accruing from the interest on the deposited funds referred to in Article 9(2) of the Internal Agreement would cover these fixed costs,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The sum of ECU 5,5 million shall be deducted from the revenue accruing from the interest on the funds deposited with paying agents in Europe referred to in Article 319(4) of the fourth ACP-EC Convention, to finance the fixed costs arising from the replacement of the European Association for Cooperation for the management of technical assistance for the ACP States and the OCT.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision shall enter into force on the day of its adoption.</p>
+      <p n="15">Done at Brussels, 13 July 1998.</p>
+      <p n="16">For the Council</p>
+      <p n="17">The President</p>
+      <p n="18">W. SCHÜSSEL</p>
+      <p n="19">(1) OJ L 263, 19. 9. 1991, p. 1. Decision as last amended by Decision 97/803/EC (OJ L 329, 29. 11. 1997, p. 50).</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31995R0839-en" n="31995R0839" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R0839 English</title>
+        <title>Council Regulation (EC) No 839/95 of 10 April 1995 amending the list of countries mentioned in Annex I to Regulation (EC) No 519/94</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0839:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0839:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1567</classCode>
+        <classCode scheme="eurovoc">1631</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+        <classCode scheme="eurovoc">646</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R0839-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 839/95 of 10 April 1995 amending the list of countries mentioned in Annex I to Regulation (EC) No 519/94</head>
+      <p n="2">COUNCIL REGULATION (EC) No 839/95 of 10 April 1995 amending the list of countries mentioned in Annex I to Regulation (EC) No 519/94</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas Council Regulation (EC) No 519/94 of 7 March 1994 on common rules for imports from certain third countries (1), applies inter alia, to imports originating in Estonia, Latvia and Lithuania;</p>
+      <p n="7">Whereas the Community has signed Free Trade Agreements with Estonia, Latvia and Lithuania, which have moreover embarked on a large-scale programme of economic reform aimed at ensuring their transition towards a market economy;</p>
+      <p n="8">Whereas provision should be made therefore that these countries are removed from the scope of Regulation (EC) No 519/94 with effect from the entry into force of the said Agreements,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Estonia, Latvia and Lithuania shall be removed from Annex I to Regulation (EC) No 519/94.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">It shall apply on the date of entry into force of the Free Trade Agreements concluded respectively between the countries referred to in Article 1 and the Community.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Luxembourg, 10 April 1995.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">A. JUPPÉ</p>
+      <p n="20">(1) OJ No L 67, 10. 3. 1994, p. 89.</p>
+    </body>
+  </text>
+</TEI.2>

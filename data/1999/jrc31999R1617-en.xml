@@ -1,0 +1,96 @@
+<TEI.2 id="jrc31999R1617-en" n="31999R1617" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1617 English</title>
+        <title>Commission Regulation (EC) No 1617/1999 of 23 July 1999 laying down detailed rules for the implementation of Council Regulation (EC) No 2494/95 - as regards minimum standards for the treatment of insurance in the Harmonized Index of Consumer Prices and modifying Commission Regulation (EC) No 2214/96 (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>61 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1617:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1617:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1354</classCode>
+        <classCode scheme="eurovoc">2636</classCode>
+        <classCode scheme="eurovoc">3151</classCode>
+        <classCode scheme="eurovoc">5155</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1617-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1617/1999 of 23 July 1999 laying down detailed rules for the implementation of Council Regulation (EC) No 2494/95 - as regards minimum standards for the treatment of insurance in the Harmonized Index of Consumer Prices and modifying Commission Regulation (EC) No 2214/96 (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1617/1999</p>
+      <p n="3">of 23 July 1999</p>
+      <p n="4">laying down detailed rules for the implementation of Council Regulation (EC) No 2494/95 - as regards minimum standards for the treatment of insurance in the Harmonized Index of Consumer Prices and modifying Commission Regulation (EC) No 2214/96</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC) No 2494/95 of 23 October 1995 concerning harmonised indices of consumer price(1), and in particular Article 4 and Article 5(3) thereof,</p>
+      <p n="9">After consulting the European Central Bank(2),</p>
+      <p n="10">(1) Whereas, by virtue of Article 5(1)(b) of Regulation (EC) No 2494/95, each Member State is required to produce a Harmonised Index of Consumer Prices (HICP) starting with the index for January 1997;</p>
+      <p n="11">(2) Whereas Commission Regulation (EC) No 1749/96(3), as last amended by Regulation (EC) No 1688/98(4), sets down an initial coverage for HICPs that is restricted to those goods and services covered by all or most national Consumer Price Indices (CPIs); whereas Council Regulation (EC) No 1687/98(5), amending Regulation (EC) No 1749/96, defines the coverage of the HICP as those goods and services which are included in household final monetary consumption expenditure; whereas insurances are part of the coverage of the HICP;</p>
+      <p n="12">(3) Whereas there is considerable scope for procedural differences in the treatment of insurance in the HICP; whereas a harmonised methodology for insurance is necessary to ensure that the resulting HICPs meet the comparability requirement of Article 4 of Regulation (EC) No 2494/95; whereas, in practice, it is not possible to observe the service charge for a particular insurance policy on a monthly basis;</p>
+      <p n="13">(4) Whereas the proposed treatment of insurance is consistent with the definitions laid down in the European System of Accounts (ESA) 1995(6);</p>
+      <p n="14">(5) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee (SPC),</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Aim</p>
+      <p n="18">The aim of this Regulation is to set minimum standards for the treatment of insurance(7) in the Harmonised Indices of Consumer Prices (HICPs) to ensure that they are reliable, relevant and meet the comparability requirements as laid down in Article 4 of Regulation (EC) No 2494/95.</p>
+      <p n="19">Article 2</p>
+      <p n="20">Definitions</p>
+      <p n="21">For the purpose of this Regulation the terms given below are defined as follows:</p>
+      <p n="22">1. "gross insurance premiums": the amount paid by the policyholder for a specific insurance policy to obtain insurance cover;</p>
+      <p n="23">2. "claims": the amount which the insurance company pays to the policyholder and other parties in settlement of injuries or damage suffered by persons or goods;</p>
+      <p n="24">3. "premium supplements": the income earned by insurance enterprises by investing their insurance technical provisions, which comprise prepayments for insurance premiums, provisions for outstanding claims, and provisions against outstanding risks;</p>
+      <p n="25">4. "actuarial provisions": allocations by the insurance company to technical provisions against outstanding risks;</p>
+      <p n="26">5. "service charge": gross insurance premiums plus premium supplements minus claims minus changes in the actuarial provisions.</p>
+      <p n="27">Article 3</p>
+      <p n="28">Treatment of insurance weights</p>
+      <p n="29">1. The weights for insurance shall be an estimate of the aggregate expenditure by households on service charges for insurance covered by the HICP expressed as a proportion of the total expenditure on all goods and services covered. The weights shall reflect the average aggregate expenditure during three years.</p>
+      <p n="30">2. Expenditure financed out of claims shall be treated as being incurred by the policy holder or other parties to the claim and not by the insurance company. The weights of the HICP sub-indices shall include such expenditure where it is incurred by or on behalf of the household sector.</p>
+      <p n="31">Article 4</p>
+      <p n="32">Treatment of insurance prices</p>
+      <p n="33">1. The prices used in the HICP for the compilation of insurance-price indices shall be the gross insurance premiums.</p>
+      <p n="34">2. The gross insurance premium shall be taken as the full premium that is payable for the policy and shall not be adjusted, even if the premium or the cover value of the policy is index linked.</p>
+      <p n="35">3. Subject to paragraph 2, for each insurance policy in the target sample the price-determining specifications shall be kept constant. Where those specifications change, prices shall be treated according to the rules applying to quality adjustment laid down in Article 5 of (EC) No 1749/96.</p>
+      <p n="36">Article 5</p>
+      <p n="37">Comparability</p>
+      <p n="38">HICPs constructed following the procedures described in Articles 3 and 4 of this Regulation or following other procedures which do not result in an index which differs systematically by more than one tenth of one percentage point on average over one year against the previous year from an index compiled following those procedures, shall be deemed comparable.</p>
+      <p n="39">Article 6</p>
+      <p n="40">Quality control</p>
+      <p n="41">Member States shall provide the Commission (Eurostat) with information on the procedures developed for the treatment of insurances where these procedures differ from those specified in Articles 3 and 4 of this Regulation, before such procedures are used.</p>
+      <p n="42">Member States shall provide the Commission (Eurostat), on its request, with information on the procedures used for meeting the requirement of minimum standards established in this Regulation.</p>
+      <p n="43">Article 7</p>
+      <p n="44">Repeal</p>
+      <p n="45">Footnote 1 of group 12.4A Insurance (S) in Annex II to Commission Regulation (EC) No 2214/96(8) shall be deleted.</p>
+      <p n="46">Article 8</p>
+      <p n="47">Entry into force</p>
+      <p n="48">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="49">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="50">Done at Brussels, 23 July 1999.</p>
+      <p n="51">For the Commission</p>
+      <p n="52">Yves-Thibault DE SILGUY</p>
+      <p n="53">Member of the Commission</p>
+      <p n="54">(1) OJ L 257, 27.10.1995, p. 1.</p>
+      <p n="55">(2) Opinion delivered on 23 June 1999 (not yet published in the Official Journal).</p>
+      <p n="56">(3) OJ L 229, 10.9.1996, p. 3.</p>
+      <p n="57">(4) OJ L 214, 31.7.1998, p. 23.</p>
+      <p n="58">(5) OJ L 214, 31.7.1998, p. 12.</p>
+      <p n="59">(6) Council Regulation (EC) No 2223/96, OJ L 310, 30.11.1996. As defined in Regulation (EC) No 1687/98.</p>
+      <p n="60">(7) As defined in Regulation (EC) No 1687/98.</p>
+      <p n="61">(8) OJ L 296, 21.11.1996, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

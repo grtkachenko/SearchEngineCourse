@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32004R0730-en" n="32004R0730" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0730 English</title>
+        <title>Commission Regulation (EC) No 730/2004 of 19 April 2004 adapting Regulation (EEC) No 1859/82 concerning the selection of returning holdings for the purpose of determining incomes of agricultural holdings by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0730:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0730:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2497</classCode>
+        <classCode scheme="eurovoc">3682</classCode>
+        <classCode scheme="eurovoc">63</classCode>
+        <classCode scheme="eurovoc">937</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0730-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 730/2004 of 19 April 2004 adapting Regulation (EEC) No 1859/82 concerning the selection of returning holdings for the purpose of determining incomes of agricultural holdings by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union</head>
+      <p n="2">Commission Regulation (EC) No 730/2004</p>
+      <p n="3">of 19 April 2004</p>
+      <p n="4">adapting Regulation (EEC) No 1859/82 concerning the selection of returning holdings for the purpose of determining incomes of agricultural holdings by reason of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular Article 2(3) thereof,</p>
+      <p n="8">Having regard to the Act of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular Article 57(2) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Article 2 of Commission Regulation (EEC) No 1859/82(1) fixes per Member State the threshold of economic size of returning holdings falling within the field of survey of the farm accountancy data network.</p>
+      <p n="11">(2) The number of returning holdings per Member State to be selected by division is fixed in Annex I to Regulation (EEC) No 1859/82.</p>
+      <p n="12">(3) In view of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia (hereinafter "the new Member States") the threshold for the new Member States, as well as the number of returning holdings by division for the new Member States should be fixed.</p>
+      <p n="13">(4) The deadline for the delivery of the first approved selection plan concerning the new Member States should be fixed.</p>
+      <p n="14">(5) Regulation (EEC) No 1859/82 should therefore be amended accordingly,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Regulation (EEC) No 1859/82 is amended as follows:</p>
+      <p n="18">1. Article 2 is replaced by the following:</p>
+      <p n="19">"Article 2</p>
+      <p n="20">For the 2004 accounting year (a period of 12 consecutive months beginning between 1 January 2004 and 1 July 2004) and for subsequent accounting years, the threshold as referred to in Article 4 of Regulation No 79/65/EEC in ESU shall be as follows:</p>
+      <p n="21">&gt;TABLE&gt;"</p>
+      <p n="22">2. In Article 5, the following subparagraph is added:"The Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia shall forward to the Commission their selection plan for the accounting year 2004 before 30 November 2004."</p>
+      <p n="23">3. Annex I is replaced by the text in the Annex to this Regulation.</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Regulation shall enter into force subject to and on the date of the entry into force of the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia.</p>
+      <p n="26">It shall apply from the 2004 accounting year.</p>
+      <p n="27">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="28">Done at Brussels, 19 April 2004.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">Franz Fischler</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ L 205, 13.7.1982, p. 5. Regulation as last amended by Regulation (EC) No 659/2004 (OJ L 104, 8.4.2004, p. 95).</p>
+      <p n="33">ANNEX</p>
+      <p n="34">"ANNEX I</p>
+      <p n="35">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

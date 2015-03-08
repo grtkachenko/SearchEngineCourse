@@ -1,0 +1,48 @@
+<TEI.2 id="jrc31971R2706-en" n="31971R2706" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31971R2706 English</title>
+        <title>Regulation (EEC) No 2706/71 of the Commission of 20 December 1971 on the method of determining the peroxidase activity in certain products processed from cereals</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31971R2706:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31971R2706:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31971R2706-en." lang="en">
+    <body>
+      <head n="1">Regulation (EEC) No 2706/71 of the Commission of 20 December 1971 on the method of determining the peroxidase activity in certain products processed from cereals</head>
+      <p n="2">REGULATION (EEC) No 2706/71 OF THE COMMISSION of 20 December 1971 on the method of determining the peroxidase activity in certain products processed from cereals</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community;</p>
+      <p n="5">Having regard to Council Regulation 120/67/EEC 1 of 13 June 1967 on the common organisation of the market in cereals, as last amended by Regulation (EEC) No 1550/71 2 and in particular Article 16 (6) thereof;</p>
+      <p n="6">Whereas export refunds must take account of the quality of the products processed from cereals which qualify for them, to prevent public funds being used to promote the export of inferior quality products ; whereas, to this end, it is necessary that in certain products processed from cereals the peroxidase should be rendered practically inactive ; whereas to ensure the uniform application of the provisions under which refunds are granted on products which satisfy this requirement, a Community method of determining the peroxidase activity should be laid down;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the Opinion of the Management Committee for Cereals;</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Where, for the purposes of granting export refunds on certain products processed from cereals, it is specified that the peroxidase should be practically inactive, that inactivity shall be checked in accordance with the method described in the Annex.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="14">Done at Brussels, 20 December 1971.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">The President</p>
+      <p n="17">Franco M. MALFATTI 1OJ No 117, 19.6.1967, p. 2269/67. 2OJ No L 164, 22.7.1971, p. 1.</p>
+      <p n="18">ANNEX Method of determining the peroxidase activity</p>
+      <p n="19">Crush 5 g of the sample in a mortar with a little distilled water. Transfer the mixture to a 100 ml calibrated round-bottomed flask and fill to the mark with distilled water. Let the mixture stand for thirty minutes ; then filter through a fluted filter.</p>
+      <p n="20">With a pipette, transfer 5 ml of the clarified solution to a test tube. Add 1 ml of a 10 % solution of crystalline guaiacol and 96 % ethanol and 1 ml of 1 % H2O2 (hydrogen peroxide). The solutions of the two reagents must be freshly prepared. Check the concentration of the hydrogen peroxide solution. After half an hour, there should be no change in colour or only an insignificant change to reddish-brown, as compared with a blank test carried out at the same time.</p>
+      <p n="21">The colour test shall be carried out twice.</p>
+    </body>
+  </text>
+</TEI.2>

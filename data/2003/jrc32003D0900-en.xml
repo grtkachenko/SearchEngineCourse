@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32003D0900-en" n="32003D0900" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0900 English</title>
+        <title>2003/900/EC: Commission Decision of 17 December 2003 amending Decision 2001/574/EC establishing a common fiscal marker for gas oils and kerosene (notified under document number C(2003) 4607)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0900:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0900:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1021</classCode>
+        <classCode scheme="eurovoc">1092</classCode>
+        <classCode scheme="eurovoc">1267</classCode>
+        <classCode scheme="eurovoc">2366</classCode>
+        <classCode scheme="eurovoc">3772</classCode>
+        <classCode scheme="eurovoc">5726</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0900-en." lang="en">
+    <body>
+      <head n="1">2003/900/EC: Commission Decision of 17 December 2003 amending Decision 2001/574/EC establishing a common fiscal marker for gas oils and kerosene (notified under document number C(2003) 4607)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 17 December 2003</p>
+      <p n="4">amending Decision 2001/574/EC establishing a common fiscal marker for gas oils and kerosene</p>
+      <p n="5">(notified under document number C(2003) 4607)</p>
+      <p n="6">(2003/900/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Directive 95/60/EC of 27 November 1995 on fiscal marking of gas oils and kerosene(1), and in particular Article 2(2) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) By Commission Decision 2001/574/EC(2), the product identified by the scientific name N-Ethyl-N-[2-(1-isobutoxyethoxy)ethyl]-4-(phenylazo)aniline (Solvent Yellow 124) was established as the common fiscal marker for gas oils and kerosene, and a marking level of at least 6 mg of marker per litre of mineral oil was fixed. However, a maximum marking level of 9 mg of marker per litre of mineral oil should be established in order to counter a number of fraudulent uses of mineral oils.</p>
+      <p n="12">(2) Decision 2001/574/EC should therefore be amended accordingly.</p>
+      <p n="13">(3) The measure provided for in this Decision is in accordance with the opinion of the Committee on Excise Duties,</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The second paragraph of Article 1 of Decision 2001/574/EC is replaced by the following:"Member States shall fix a marking level of at least 6 mg and not more than 9 mg of marker per litre of mineral oil."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Decision is addressed to the Member States.</p>
+      <p n="19">Done at Brussels, 17 December 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Frederik Bolkestein</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 291, 6.12.1995, p. 46.</p>
+      <p n="24">(2) OJ L 203, 28.7.2001, p. 20. Decision as amended by Decision 2002/269/EC (OJ L 93, 10.4.2002, p. 6).</p>
+    </body>
+  </text>
+</TEI.2>

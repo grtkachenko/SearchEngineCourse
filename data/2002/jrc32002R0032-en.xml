@@ -1,0 +1,74 @@
+<TEI.2 id="jrc32002R0032-en" n="32002R0032" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0032 English</title>
+        <title>Commission Regulation (EC) No 32/2002 of 9 January 2002 correcting Regulation (EC) No 13/2002 amending Regulation (EC) No 713/2001 on the purchase of beef under Regulation (EC) No 690/2001</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0032:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0032:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">20</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">5025</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0032-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 32/2002 of 9 January 2002 correcting Regulation (EC) No 13/2002 amending Regulation (EC) No 713/2001 on the purchase of beef under Regulation (EC) No 690/2001</head>
+      <p n="2">Commission Regulation (EC) No 32/2002</p>
+      <p n="3">of 9 January 2002</p>
+      <p n="4">correcting Regulation (EC) No 13/2002 amending Regulation (EC) No 713/2001 on the purchase of beef under Regulation (EC) No 690/2001</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1254/1999 of 17 May 1999 on the common organisation of the market in beef and veal(1), as last amended by Regulation (EC) No 2345/2001(2),</p>
+      <p n="8">Having regard to Commission Regulation (EC) No 690/2001 of 3 April 2001 on special market support measures in the beef sector(3), as amended by Regulation (EC) No 2595/2001(4), and in particular Article 2(2),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Commission Regulation (EC) No 13/2002(5) opened the purchase of beef under Regulation (EC) No 690/2001 in a number of Member States.</p>
+      <p n="11">(2) An error has been discovered in the Annex to the abovementioned Regulation. The Regulation in question should therefore be corrected,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Annex to Regulation (EC) No 13/2002 is replaced by the Annex to this Regulation.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply from 5 January 2002.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 9 January 2002.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 160, 26.6.1999, p. 21.</p>
+      <p n="24">(2) OJ L 315, 1.12.2001, p. 29.</p>
+      <p n="25">(3) OJ L 95, 5.4.2001, p. 8.</p>
+      <p n="26">(4) OJ L 345, 29.12.2001, p. 33.</p>
+      <p n="27">(5) OJ L 3, 5.1.2002, p. 36.</p>
+      <p n="28">ANEXO/BILAG/ANHANG/ΠΑΡΑΡΤΗΜΑ/ANNEX/ANNEXE/ALLEGATO/BIJLAGE/ANEXO/LIITE/BILAGA</p>
+      <p n="29">Estado miembro/Medlemsstat/Mitgliedstaat/Κράτος μέλος/Member State/État membre/Stati membri/Lidstaat/Estado-Membro/Jäsenvaltiot/Medlemsstat</p>
+      <p n="30">Belgique/België</p>
+      <p n="31">Deutschland</p>
+      <p n="32">Österreich</p>
+      <p n="33">Nederland</p>
+      <p n="34">Ireland</p>
+      <p n="35">España</p>
+      <p n="36">France</p>
+      <p n="37">Portugal</p>
+      <p n="38">Sverige</p>
+      <p n="39">Luxembourg</p>
+    </body>
+  </text>
+</TEI.2>

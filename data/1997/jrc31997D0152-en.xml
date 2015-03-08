@@ -1,0 +1,115 @@
+<TEI.2 id="jrc31997D0152-en" n="31997D0152" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0152 English</title>
+        <title>97/152/EC: Commission Decision of 10 February 1997 concerning the information to be entered in the computerized file of consignments of animals or animal products from third countries which are re-dispatched (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>78 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0152:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0152:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1937</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">2961</classCode>
+        <classCode scheme="eurovoc">4488</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0152-en." lang="en">
+    <body>
+      <head n="1">97/152/EC: Commission Decision of 10 February 1997 concerning the information to be entered in the computerized file of consignments of animals or animal products from third countries which are re-dispatched (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 10 February 1997 concerning the information to be entered in the computerized file of consignments of animals or animal products from third countries which are re-dispatched (Text with EEA relevance) (97/152/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Decision 92/438/EEC of 13 July 1992 on computerization of veterinary import procedures (Shift project), amending Directives 90/675/EEC, 91/496/EEC, 91/628/EEC and Decision 90/424/EEC, and repealing Decision 88/192/EEC (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 12 thereof,</p>
+      <p n="6">Whereas an information system must be established for consignments of animals re-dispatched by veterinary officials at border inspection posts;</p>
+      <p n="7">Whereas each authority concerned must have random access to a computerized file of consignments of animals or products which are re-dispatched;</p>
+      <p n="8">Whereas the information to be entered in the computerized file should be laid down in order to be able accurately to identify re-dispatched consignments and the reasons for re-dispatch;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The information to be entered in the computerized file of consignments of animals or animal products from third countries which are re-dispatched shall be as set out in the Annex.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 10 February 1997.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 243, 25. 8. 1992, p. 27.</p>
+      <p n="20">ANNEX</p>
+      <p n="21">INFORMATION TO BE ENTERED IN THE COMPUTERIZED FILE OF CONSIGNMENTS OF ANIMALS OR ANIMAL PRODUCTS FROM THIRD COUNTRIES WHICH ARE RE-DISPATCHED</p>
+      <p n="22">1. Border inspection post</p>
+      <p n="23">(a) Name and code of inspection post (Animo )</p>
+      <p n="24">(b) Name of veterinarian responsible.</p>
+      <p n="25">2. Consignment</p>
+      <p n="26">(a) Nature and code of goods (Animo )</p>
+      <p n="27">(b) Number/quantity/units</p>
+      <p n="28">(c) Health certificate:</p>
+      <p n="29">(i) serial number,</p>
+      <p n="30">(ii) date,</p>
+      <p n="31">(iii) name and service of veterinarian signing certificate,</p>
+      <p n="32">(iv) service of origin of veterinarian,</p>
+      <p n="33">(v) country of origin</p>
+      <p n="34">(d) Serial number of 'Annex B`</p>
+      <p n="35">3. Traders</p>
+      <p n="36">(a) Name and address of holding and/or establishment of origin (authorization number where appropriate)</p>
+      <p n="37">(b) Name and address of exporter</p>
+      <p n="38">(c) Name and address of importer</p>
+      <p n="39">4. Consignment movements</p>
+      <p n="40">(a) Third country of origin</p>
+      <p n="41">(b) Third country of dispatch</p>
+      <p n="42">(c) Region of origin (where appropriate)</p>
+      <p n="43">(d) Member State of destination/country of destination</p>
+      <p n="44">(e) Consignee and address of destination (authorization number where appropriate)</p>
+      <p n="45">(f) Means of transport:</p>
+      <p n="46">&gt;TABLE&gt;</p>
+      <p n="47">5. Re-dispatch</p>
+      <p n="48">(a) Date and time (if possible) of re-dispatch</p>
+      <p n="49">(b) Departure point (if different from border inspection post of entry)</p>
+      <p n="50">(c) Destination (if possible)</p>
+      <p n="51">(d) Means of transport:</p>
+      <p n="52">&gt;TABLE&gt;</p>
+      <p n="53">6. Reason for re-dispatch</p>
+      <p n="54">(a) Documentary checks:</p>
+      <p n="55">(i) outside competence of inspection post,</p>
+      <p n="56">(ii) absence of certificate/licence,</p>
+      <p n="57">(iii) invalid certificate/licence,</p>
+      <p n="58">- copy rather than original,</p>
+      <p n="59">- other formal errors,</p>
+      <p n="60">(iv) documentary errors,</p>
+      <p n="61">- third country,</p>
+      <p n="62">- region,</p>
+      <p n="63">- establishment,</p>
+      <p n="64">- additional guarantees,</p>
+      <p n="65">- protective clause</p>
+      <p n="66">(b) Indentity checks.</p>
+      <p n="67">(i) discrepancy between certificate/licence and goods.</p>
+      <p n="68">(ii) absence of regulatory mark or brand.</p>
+      <p n="69">(iii) results of visual examination negative,</p>
+      <p n="70">- goods,</p>
+      <p n="71">- means of transport,</p>
+      <p n="72">- animal welfare</p>
+      <p n="73">(c) Physical checks.</p>
+      <p n="74">Goods not complying with rules,</p>
+      <p n="75">- examination by veterinarian,</p>
+      <p n="76">- laboratory tests,</p>
+      <p n="77">- animal welfare</p>
+      <p n="78">7. Comments:</p>
+    </body>
+  </text>
+</TEI.2>

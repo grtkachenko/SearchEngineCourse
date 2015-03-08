@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31996R1000-en" n="31996R1000" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R1000 English</title>
+        <title>Commission Regulation (EC) No 1000/96 of 4 June 1996 amending Regulation (EEC) No 1538/91 introducing detailed rules for implementing Council Regulation (EEC) No 1906/90 on certain marketing standards for poultry</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1000:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1000:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R1000-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1000/96 of 4 June 1996 amending Regulation (EEC) No 1538/91 introducing detailed rules for implementing Council Regulation (EEC) No 1906/90 on certain marketing standards for poultry</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1000/96 of 4 June 1996 amending Regulation (EEC) No 1538/91 introducing detailed rules for implementing Council Regulation (EEC) No 1906/90 on certain marketing standards for poultry</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1906/90 of 26 June 1990 on certain marketing standards for poultry (1), as last amended by Regulation (EC) No 3204/93 (2), and in particular Article 9 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 1538/91 (3), as last amended by Regulation (EC) No 205/96 (4), introduces detailed rules for implementing the marketing standards for poultry;</p>
+      <p n="7">Whereas, in the light of the experience gained, the definition of a capon and the criteria relating to it in Annex IV of Regulation (EEC) No 1538/91 should be amended;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EEC) No 1538/91 is amended as follows:</p>
+      <p n="12">1. In Article 1 (1) (a) the third indent is replaced by the following:</p>
+      <p n="13">'- capon: male fowl castrated surgically before reaching sexual maturity and slaughtered at a minimum age of 140 days: after castration the capons must be fattened for at least 77 days.`</p>
+      <p n="14">2. Annex IV is amended as follows:</p>
+      <p n="15">- the second indent in the second indent of point (c) is replaced by the following:</p>
+      <p n="16">'- 2 m2 per duck or per capon`,</p>
+      <p n="17">- the second indent in the last indent of point (d) is replaced by the following:</p>
+      <p n="18">'- for capons: four weeks`.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 4 June 1996.</p>
+      <p n="23">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

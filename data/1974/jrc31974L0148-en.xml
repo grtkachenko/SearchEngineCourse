@@ -1,0 +1,119 @@
+<TEI.2 id="jrc31974L0148-en" n="31974L0148" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31974L0148 English</title>
+        <title>Council Directive 74/148/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to weights of from 1 mg to 50 kg of above-medium accuracy</title>
+      </titleStmt>
+      <extent>92 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31974L0148:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31974L0148:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31974L0148-en." lang="en">
+    <body>
+      <head n="1">Council Directive 74/148/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to weights of from 1 mg to 50 kg of above-medium accuracy</head>
+      <p n="2">COUNCIL DIRECTIVE of 4 March 1974 on the approximation of the laws of the Member States relating to weights of from 1 mg to 50 kg of above-medium accuracy (74/148/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof;</p>
+      <p n="5">Having regard to the proposal from the Commission;</p>
+      <p n="6">Having regard to the Opinion of the European Parliament;</p>
+      <p n="7">Having regard to the Opinion of the Economic and Social Committee;</p>
+      <p n="8">Whereas the manufacture and the procedures for inspection of weights of above-medium accuracy are subject to strict regulations which differ between Member States and thus hinder trade in these weights ; whereas these regulations must therefore be aligned;</p>
+      <p n="9">Whereas the Council Directive of 26 July 1971 (1) on the approximation of the laws of the Member States relating to common provisions for both measuring instruments and methods of metrological control laid down the EEC pattern approval procedure and the EEC initial verification procedure ; whereas, pursuant to that Directive, the technical specifications which weights of above-medium accuracy must satisfy in order to be put freely on the market and into service, after verifications and affixing of the EEC initial verification mark, must be laid down;</p>
+      <p n="10">Whereas account should be taken of the draft international recommendation, "valeur conventionnelle du résultat des pesées dans l'air", of the International Organization of Legal Metrology, May 1973, in respect of the concept of conventional mass,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">This Directive concerns weights of above-medium accuracy the nominal value of which is equal to 1 mg or more and less than or equal to 50 kg.</p>
+      <p n="14">This Directive does not apply to metric carat weights or to special weights covered by other directives.</p>
+      <p n="15">Article 2</p>
+      <p n="16">Weights which may receive the EEC marks and signs are listed in the Annex. They are not subject to EEC pattern approval ; they must undergo EEC initial verification.</p>
+      <p n="17">Article 3</p>
+      <p n="18">No Member State may prevent, prohibit or restrict the placing on the market or entry into service of weights referred to in Article 1 and bearing the EEC initial verification mark.</p>
+      <p n="19">Article 4</p>
+      <p n="20">1. Member States shall put into force the laws, regulations and administrative provisions needed in order to comply with this Directive within eighteen months of its notification and shall forthwith inform the Commission thereof.</p>
+      <p n="21">2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.</p>
+      <p n="22">Article 5</p>
+      <p n="23">This Directive is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 4 March 1974.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">W. SCHEEL (1)OJ No L 202, 26.7.1971, p. 1.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">1. Definitions 1.1. Weight</p>
+      <p n="30">A physical measure of mass, whose constructional and metrological characteristics are determined by shape, size, material, finish, nominal value and maximum permissible error.</p>
+      <p n="31">1.2. Sets of weights</p>
+      <p n="32">Series of weights generally presented in a box, in such a combination as to allow weighings of all loads from the smallest nominal weight up to the sum of all the weights in the set, in a sequence of which the smallest nominal weight in the set is the unit.</p>
+      <p n="33">The sequence in a set of weights is generally as follows:</p>
+      <p n="34">(1 ; 1 ; 2 ; 5) × 10n kg</p>
+      <p n="35">(1 ; 1 ; 1 ; 2 ; 5) × 10n kg</p>
+      <p n="36">(1 ; 2 ; 2 ; 5) × 10n kg</p>
+      <p n="37">(1 ; 1 ; 2 ; 2 ; 5) × 10n kg</p>
+      <p n="38">In these expressions, n represents either zero, or a positive or negative whole number.</p>
+      <p n="39">1.3. Standard weights</p>
+      <p n="40">Weights used in the inspection of weighing machines and weights are known as standard weights.</p>
+      <p n="41">2. Nominal values of the weights</p>
+      <p n="42">The nominal value of the weights must be equal to 1 × 10n kg, or 2 × 10n kg, or 5 × 10n kg ; in these expressions n represents either zero or a positive or negative whole number.</p>
+      <p n="43">3. Conventional mass 3.1. For a weight taken at 20º C, the conventional mass is the mass of a reference weight of a density of 8 000 kg/m3 which it balances in air of a density of 1 72 kg/m3.</p>
+      <p n="44">3.2 The maximum permissible errors, mentioned in point 4, relate to the conventional mass.</p>
+      <p n="45">4. Maximum permissible errors for EEC initial verification 4.1. The maximum permissible error, plus or minus, for each individual weight is given in milligrammes in the table below: &gt;PIC FILE= "T0005489"&gt;</p>
+      <p n="46">&gt;PIC FILE= "T0005490"&gt;</p>
+      <p n="47">5. General shape of weights</p>
+      <p n="48">A one-gramme weight may have the shape of multiples of one gramme or the shape of the sub-multiples. 5.1. Weights of one gramme and multiple gramme weights. 5.1.1. Grade M1 weights should have the shape of weights of the medium accuracy class.</p>
+      <p n="49">5.1.2. Weights of the other accuracy classes may have the external dimensions of weights of the medium accuracy class. 10 kg to 1 gramme weights may also be cylindrical or in the shape of a slightly truncated cone surmounted by a knob. 5.1.2.1. The height of the body shall be roughly equal to the mean diameter, the permissible difference between the mean diameter and the height being between 3/4 and 5/4 of this diameter.</p>
+      <p n="50">5.1.2.2. On all weights the height of the knob should lie between the mean diameter and the mean half-diameter of the body.</p>
+      <p n="51">5.1.3. Class E1, E2 and F1 weights do not have to have a knob ; they may consist of a single cylindrical body.</p>
+      <p n="52">5.1.4. Class E1 and E2 weights must be cast in one piece ; other weights may have an adjustment cavity closed by the knob or any other suitable device. The volume of the adjustment cavity shall not exceed 1/5 of the total volume of the weights.</p>
+      <p n="53">5.2. Weights of one gramme and sub-multiple weights of the gramme. Weights of one gramme and sub-multiple weights of the gramme shall be polygonal laminated strips or wires suitably shaped to permit easy handling.</p>
+      <p n="54">The shapes of the weights shall give an indication of their nominal value.</p>
+      <p n="55">Polygonal laminated strips, their shape and values:</p>
+      <p n="56">triangle for 1 - 10 - 100 - 1 000 mg</p>
+      <p n="57">quadrilateral for 2 - 20 - 200 mg</p>
+      <p n="58">pentagon for 5 - 50 - 500 mg</p>
+      <p n="59">Polygonal wire segments and their values:</p>
+      <p n="60">1 segment for 1 - 10 - 100 - 1 000 mg</p>
+      <p n="61">2 segments for 2 - 20 - 200 mg</p>
+      <p n="62">5 segments for 5 - 50 - 500 mg</p>
+      <p n="63">Where two or three weights in the set are identical, they shall be distinguished by one or two asterisks or dots respectively in the case of laminated strips and one or two hooks respectively in the case of wires.</p>
+      <p n="64">5.3. Weights of 20 and 50 kg, other than those in class M1, may have a shape suited to their method of handling.</p>
+      <p n="65">6. Constituents of the weights 6.1. Weights shall be made of metal or metal alloy. Such metal or alloy shall be of such quality that under normal conditions of use the deterioriation of the weights shall be negligible in relation to the maximum permissible errors in their accuracy class. 6.1.1. The density of the weight shall be such that a deviation of 10 % of the air density in relation to that specified (1.2 kg/m3) will lead to an error of not more than 1/4 of the maximum permissible error.</p>
+      <p n="66">6.1.2. The metal or alloy of class E1, E2 and F1 weights shall be virtually non-magnetic.</p>
+      <p n="67">6.2. The resistance to corrosion and flaking of the constituent metal or alloy of 5 to 50 kg class M1 weights of parallelepiped shape shall be at least equal to that of grey cast iron.</p>
+      <p n="68">6.3. Class M1 weights of cylindrical, shape having nominal values less than or equal to 10 kg shall be made of brass or of a material at least equal in quality to brass.</p>
+      <p n="69">6.4. The qualities set out in points 6.2. and 6.3 may be obtained by means of a suitable surface treatment.</p>
+      <p n="70">7. Surface state 7.1. The surface of the weights, including their bases and edges, shall be entirely smooth. The surface of class E1, E2, F1 and F2 weights shall show no porosity when examined by the naked eye, and shall be carefully polished.</p>
+      <p n="71">The surface of class M1 10 kg to 1 kg cylindrical weights shall be polished, and shall show no porosity to the naked eye. The surface condition of class M1 50, 20, 10 and 5 kg parallelepiped weights shall be comparable to that of grey cast iron carefully cast in a fine sand mould.</p>
+      <p n="72">7.2. The surface of class E1, E2, F1 and F2 weights of one gramme and multiples of a gramme may be protected by a metal coating.</p>
+      <p n="73">7.3. The surface of class M1 weights of one gramme and multiples of a gramme may be protected by a suitable coating.</p>
+      <p n="74">8. Adjustment material</p>
+      <p n="75">Weights of F1 and F2 accuracy classes with an adjustment cavity shall be adjusted either with the same material as that of which they are constituted, or with pure tin, or with molybdenum.</p>
+      <p n="76">Class M1 weights may be adjusted with lead.</p>
+      <p n="77">9. Inscriptions 9.1. Laminated strip or wire weights having nominal values less than or equal to one gramme shall bear no indication of nominal value.</p>
+      <p n="78">9.2. Weights having nominal values equal to or more than one gramme: - in classes E1 and E2 shall bear no indication of their nominal value;</p>
+      <p n="79">- in class F1 shall bear only the indication of nominal value as laid down in point 9.2.1. ; this indication shall be burnished or engraved;</p>
+      <p n="80">- in class F2 shall bear the inscriptions of class F1 accompanied by the letter F;</p>
+      <p n="81">- in class M1 shall bear the nominal value marked in figures followed by the symbol of the appropriate unit, either recessed or embossed, on the upper face of the body or knob of the weights.</p>
+      <p n="82">Cylindrical weights shall be marked with the letter M, either recessed or embossed ; parallelepiped weights shall be marked with the letter M which need not be recessed or embossed.</p>
+      <p n="83">9.2.1. The nominal values of the weights shall be indicated in: - kilogrammes for weights of 1 kilogramme or more,</p>
+      <p n="84">- grammes for weights of 1 gramme to 500 grammes.</p>
+      <p n="85">9.2.2. Weights appearing two or three times in the sequences shall be distinguished by one or two asterisks or by one or two dots.</p>
+      <p n="86">10. EEC final verification mark</p>
+      <p n="87">Boxes containing E1, E2, and F1 class weights, and all boxes containing the gramme and sub-multiples of the gramme, shall be sealed with the EEC final verification mark.</p>
+      <p n="88">For class F2 weights the EEC final verification mark shall be affixed to the cover of the adjustment cavity, and where there is no adjustment cavity, upon the base of the weight. For class M1 weights of one gramme to 50 kg the EEC final verification mark shall be placed upon the lead sealing the adjustment cavity opening, or upon the base in the case of weights having no adjustment cavity.</p>
+      <p n="89">11. Presentation 11.1. Individual weights and series of weights of classes E1, E2, F1 and F2 shall be contained in boxes.</p>
+      <p n="90">11.2. For class M1 - individual weights or series of weights up to a value of 500 grammes shall be contained in boxes,</p>
+      <p n="91">- weights having a nominal value greater than 500 grammes may be contained in boxes, fitted in a stand or presente d individually, without protection.</p>
+      <p n="92">11.3. The lids of the boxes shall indicate the class of weights which they contain : E1 ; E2 ; F1 ; F2 ; M1.</p>
+    </body>
+  </text>
+</TEI.2>

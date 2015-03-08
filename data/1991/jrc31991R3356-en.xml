@@ -1,0 +1,87 @@
+<TEI.2 id="jrc31991R3356-en" n="31991R3356" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31991R3356 English</title>
+        <title>Council Regulation (EEC) No 3356/91 of 7 November 1991 amending Regulation (EEC) No 4060/89 on the elimination of controls performed at the frontiers of Member States in the field of road and inland waterway transport</title>
+      </titleStmt>
+      <extent>60 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991R3356:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991R3356:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31991R3356-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EEC) No 3356/91 of 7 November 1991 amending Regulation (EEC) No 4060/89 on the elimination of controls performed at the frontiers of Member States in the field of road and inland waterway transport</head>
+      <p n="2">COUNCIL REGULATION (EEC) No 3356/91 of 7 November 1991 amending Regulation (EEC) No 4060/89 on the elimination of controls performed at the frontiers of Member States in the field of road and inland waterway transport</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 75 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas Regulation (EEC) No 4060/89 (4) lays down that controls on means of transport and the related documents in the course of transport between Member States must form part of the normal controls applied in a non-discriminatory fashion throughout the territory of a Member State;</p>
+      <p n="9">Whereas, in accordance with the provisions of the European Agreement concerning the International Carriage of Dangerous Goods by Road ('ADR') and the European Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be used for such Carriage ('ATP'), Member States are free to organize and carry out controls and verifications on means of transport and the documents relating thereto wherever they wish; whereas in practice, under their laws incorporating the provisions of those Agreements into national law or, where they are not contracting parties to either Agreement, under their national law governing these types of international carriage, they normally carry out these controls and verifications at their frontiers;</p>
+      <p n="10">Whereas, with the prospect of the establishment of a single transport market, it is necessary to do more to improve the fluidity of movement of means of transport between Member States;</p>
+      <p n="11">Whereas Part 2, 'National law', of the Annex to Regulation (EEC) No 4060/89 must be amended in order to take account of controls on means of transport and the documents relating thereto intended for the carriage of dangerous goods and perishable foodstuffs,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Regulation (EEC) No 4060/89 is hereby amended as follows:</p>
+      <p n="15">1. The following Article shall be inserted:</p>
+      <p n="16">'Article 3a</p>
+      <p n="17">As and when necessary, the Commission shall propose amendments to the Annex to take account of technological developments in the field covered by this Regulation.'</p>
+      <p n="18">2. Part 2 of the Annex shall be replaced by the text appearing in the Annex hereto.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on 1 January 1992. This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 7 November 1991. For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">P. DANKERT</p>
+      <p n="24">(1) OJ No C 117, 1. 5. 1991, p. 6. (2) OJ No C 267, 14. 10. 1991. (3) OJ No C 269, 14. 10. 1991, p. 34. (4) OJ No L 390, 30. 12. 1989, p. 18.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">'PART 2</p>
+      <p n="27">NATIONAL LAW</p>
+      <p n="28">(a) Controls on the driving licences of persons driving vehicles for the carriage of goods and persons</p>
+      <p n="29">(b) Controls relating to the means of transport for dangerous goods and in particular:</p>
+      <p n="30">(i) Documents</p>
+      <p n="31">- Driver's training certificate</p>
+      <p n="32">- Safety instructions</p>
+      <p n="33">- Approval certificate (ADR or equivalent standards)</p>
+      <p n="34">- Copy of the derogation, if applicable (ADR or equivalent standards)</p>
+      <p n="35">(ii) Identification of the vehicle carrying the dangerous goods</p>
+      <p n="36">- Orange panel</p>
+      <p n="37">- compliance</p>
+      <p n="38">- placing on the vehicle</p>
+      <p n="39">- Danger label on the vehicle</p>
+      <p n="40">- compliance</p>
+      <p n="41">- placing on the vehicle</p>
+      <p n="42">- Tank identification plate (for fixed, demountable or container tanks)</p>
+      <p n="43">- presence and legibility</p>
+      <p n="44">- date of last inspection</p>
+      <p n="45">- stamp of inspecting body</p>
+      <p n="46">(iii) Vehicle equipment (ADR or equivalent standards)</p>
+      <p n="47">- Additional fire extinguisher</p>
+      <p n="48">- Special equipment</p>
+      <p n="49">(iv) Vehicle loading</p>
+      <p n="50">- Overload (according to tank capacity)</p>
+      <p n="51">- Securing of packages</p>
+      <p n="52">- Prohibition of mixed loading</p>
+      <p n="53">(c) Controls relating to the means of transport for perishable foodstuffs and in particular:</p>
+      <p n="54">(i) Documents</p>
+      <p n="55">- Certificate of compliance for the equipment</p>
+      <p n="56">(ii) Special equipment used for the carriage of perishable foodstuffs</p>
+      <p n="57">- Compliance plate</p>
+      <p n="58">- Identification marks</p>
+      <p n="59">(iii) Operation of special equipment</p>
+      <p n="60">- Temperature conditions.'</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,178 @@
+<TEI.2 id="jrc31977L0095-en" n="31977L0095" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31977L0095 English</title>
+        <title>Council Directive 77/95/EEC of 21 December 1976 on the approximation of the laws of the Member States relating to taximeters</title>
+      </titleStmt>
+      <extent>151 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31977L0095:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31977L0095:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31977L0095-en." lang="en">
+    <body>
+      <head n="1">Council Directive 77/95/EEC of 21 December 1976 on the approximation of the laws of the Member States relating to taximeters</head>
+      <p n="2">COUNCIL DIRECTIVE of 21 December 1976 on the approximation of the laws of the Member States relating to taximeters (77/95/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (2),</p>
+      <p n="8">Whereas in the Member States both the construction and the methods of control of taximeters are subject to mandatory provisions which differ from one Member State to another and consequently hinder trade in such instruments ; whereas it is therefore necessary to approximate these provisions;</p>
+      <p n="9">Whereas Council Directive 71/316/EEC of 26 July 1971 on the approximation of the laws of the Member States relating to common provisions for both measuring instruments and methods of metrological control (3), as amended by the Act of Accession (4), has laid down the EEC pattern approval and EEC initial verification procedures ; whereas, in accordance with that Directive, it is necessary to lay down the technical requirements which the fabrication and operation of taximeters must satisfy in order to be freely imported, marketed and used after having undergone the requisite inspections and having been provided with the required marks and signs,</p>
+      <p n="10">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="11">Article 1</p>
+      <p n="12">This Directive applies to time-distance meters called "taximeters".</p>
+      <p n="13">Such meters are defined in 1.1 of the Annex hereto.</p>
+      <p n="14">Article 2</p>
+      <p n="15">Those taximeters which may bear EEC marks and signs are described in the Annex hereto.</p>
+      <p n="16">They shall be subject to EEC pattern approval and to EEC initial verification under the conditions laid down in 1.2.2 of Annex II to Directive 71/316/EEC and under the conditions laid down in the Annex hereto.</p>
+      <p n="17">Article 3</p>
+      <p n="18">No Member State may refuse, prohibit or restrict the placing on the market of taximeters bearing the EEC pattern approval sign and the EEC partial initial verification mark provided for in 3.1.1.2 of Annex II to Directive 71/316/EEC.</p>
+      <p n="19">It shall be the responsibility of the competent authorities of the Member States to ensure that the operations supplementary to EEC initial verification are carried out as provided for in 7.3 of the Annex hereto, before these instruments are put into service, if these operations are prescribed under national regulations and have not been carried out beforehand.</p>
+      <p n="20">Article 4</p>
+      <p n="21">1. Member States shall put into force the laws, regulations and administrative provisions necessary to comply with this Directive within 18 months of its notification, and shall forthwith inform the Commission thereof.</p>
+      <p n="22">2. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt or intend to adopt in the field covered by this Directive.</p>
+      <p n="23">Article 5</p>
+      <p n="24">This Directive is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 21 December 1976.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">A.P.L.M.M. van der STEE (1)OJ No C 7, 12.1.1976, p. 38. (2)OJ No C 35, 16.2.1976, p. 12. (3)OJ No L 202, 6.9.1971, p. 1. (4)OJ No L 73, 27.3.1972, p. 14.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">1. TERMINOLOGY 1.1. Time-distance meters, called "taximeters"</p>
+      <p n="31">Time-distance meters, hereinafter called "taximeters", are instruments which, according to the characteristics of the vehicle in which they are installed and the tariffs for which they have been set, calculate automatically and indicate constantly when in use the amounts to be paid by the users of public vehicles, called taxis, on the basis of the distance covered and, below a certain speed, the time for which the vehicle is occupied, exclusive of various surcharges which may be authorized by local regulations in force in the Member States.</p>
+      <p n="32">This Annex will be adjusted in line with the provisions of Article 17 of Directive 71/316/EEC to cover taximeters containing an electronic device in the measuring sequence. Until then, electronic taximeters cannot obtain EEC pattern approval.</p>
+      <p n="33">1.2. Special terms</p>
+      <p n="34">The indication on a taximeter depends - disregarding the tariff position - on a constant "k" of the instrument and on a characteristic coefficient "w" of the vehicle in which the instrument is installed. This coefficient "w" is a function of the effective circumference "u" of the wheels of the vehicle and of the transmission ratio of the number of revolutions of the wheels to the number of revolutions of the part provided on the vehicle to connect it to the taximeter. 1.2.1. Constant "k" of the taximeter</p>
+      <p n="35">The constant "k" of a taximeter is a characteristic quantity that indicates the type and number of signals that the instrument must receive in order to give correctly an indication corresponding to a given distance travelled.</p>
+      <p n="36">This constant "k" is expressed: (a) in revolutions per indicated kilometre (rev/km), or</p>
+      <p n="37">(b) in pulses per indicated kilometre (pulse/km),</p>
+      <p n="38">depending on whether the information relating to the distance travelled by the vehicle is fed into the taximeter in the form of a number of revolutions of its main shaft (drive shaft at point of entry to the instrument) or in the form of electrical signals.</p>
+      <p n="39">1.2.2. Characteristic coefficient "w" of the vehicle</p>
+      <p n="40">The characteristic coefficient "w" of a vehicle is a quantity indicating the type and number of signals intended for driving the taximeter, and displayed at the appropriate part provided for this purpose on the vehicle, corresponding to a given distance travelled.</p>
+      <p n="41">This coefficient "w" is expressed: (a) in revolutions per kilometre travelled (rev/km), or</p>
+      <p n="42">(b) in pulses per kilometre travelled (pulse/km),</p>
+      <p n="43">depending on whether the information relating to the distance travelled by the vehicle is in the form of the number of revolutions of the part driving the taximeter or in the form of electrical signals.</p>
+      <p n="44">This coefficient varies in relation to several factors, in particular tyre wear and tyre pressure, the load carried by the vehicle and the conditions in which the journey is made. It must be determined under the standard test conditions for the vehicle (1.2.7).</p>
+      <p n="45">1.2.3. Effective circumference "u" of the wheels</p>
+      <p n="46">The effective circumference "u" of the wheel of the vehicle which drives the taximeter directly or indirectly is the distance travelled by the vehicle during one complete revolution of this wheel. When two wheels drive the taximeter jointly, the effective circumference is the mean of the effective circumferences of each of the two wheels, expressed in millimetres.</p>
+      <p n="47">The effective circumference "u" is correlated with the characteristic coefficient "w" of the vehicle (1.2.2), and consequently this circumference, if it is necessary to identify it, must also be determined under the conditions described in 1.2.7.</p>
+      <p n="48">1.2.4. Adapting device</p>
+      <p n="49">The purpose of the adapting device is to adjust the characteristic coefficient "w" of the vehicle to the constant "k" of the taximeter.</p>
+      <p n="50">1.2.5. Range of permissible errors</p>
+      <p n="51">The range of the permissible errors mentioned in Section 5 depends solely on the instrument itself (instrumental errors). The true values (Section 5) used for the determination of errors are calculated from the constant "k" of the taximeter and the tariffs for which the meter has been set.</p>
+      <p n="52">The range of persmissible errors determines the maximum deviation between the highest and the lowest of the indications.</p>
+      <p n="53">1.2.6. Changeover speed</p>
+      <p n="54">The changeover speed is the speed at which the drive of the indicating device of the taximeter changes over from time to distance travelled or vice versa.</p>
+      <p n="55">It is obtained by dividing the "time" tariff by the "distance" tariff.</p>
+      <p n="56">1.2.7. Standard test conditions for the vehicle (for determining its characteristic coefficient)</p>
+      <p n="57">The "standard test conditions for the vehicle" are obtained when: (a) the tyres fitted to the wheel or wheels driving the taximeter are of a type which has the same effective circumference "u" as that of the wheels which were used to determine characteristic coefficient "w".</p>
+      <p n="58">They must be in good condition and be inflated to the correct pressure;</p>
+      <p n="59">(b) the load carried by the vehicle is approximately 150 kg. (This corresponds by convention to the weight of two adult persons, including the driver.);</p>
+      <p n="60">(c) the vehicle is moving under its own power, on flat and level ground, in a straight line, at a speed of 40 ± 5 km/h.</p>
+      <p n="61">If the tests are carried out under different conditions, e.g. at different weights, different speeds, or at walking speed, using bench tests, etc., the results will be corrected by the conversion coefficients required to convert their value to that which would have been obtained under the "standard test conditions" specified above.</p>
+      <p n="62">2. UNITS OF MEASUREMENT</p>
+      <p n="63">The following units of measurement only are authorized for the indications provided or displayed by taximeters: - the metre or kilometre, for distance. However, until expiry of the transitional period during which the use of the imperial units of measurement shown in Chapters C and D of the Annex to Council Directive 71/354/EEC of 18 October 1971 relating to units of measurement (1), as last amended by Directive 76/770/EEC (2), is authorized (1)OJ No L 243, 29.10.1971, p. 29. (2)OJ No L 262, 27.9.1976, p. 204.</p>
+      <p n="64">within the Community, distances may be expressed in yards or miles in the United Kingdom or Ireland if those countries so desire,</p>
+      <p n="65">- the second, minute, or hour, for time.</p>
+      <p n="66">The fare must be expressed in the legal monetary units of the country where the vehicle is registered.</p>
+      <p n="67">3. TECHNICAL CHARACTERISTICS 3.1. Measuring device and calculating device 3.1.1. The taximeter must be constructed in such a way that it calculates and indicates the fare solely on the basis of: (a) the distance travelled (distance-based drive) when the vehicle is moving at a speed greater than the changeover speed;</p>
+      <p n="68">(b) the time (time-based drive) when the vehicle is moving at a speed below the changeover speed or has stopped.</p>
+      <p n="69">3.1.2. The distance-based drive must be effected by the wheels, but reversing the vehicle must not result in a reduction in the fare or distance indicated.</p>
+      <p n="70">The time-based drive must be effected by a timekeeping movement which can be activated only by operating the control device of the taximeter.</p>
+      <p n="71">If the mechanical timekeeping movement is hand-wound, it must function for at least eight hours without rewinding, or for two hours if there is a winding system connected with each manual action which precedes the starting of the taximeter.</p>
+      <p n="72">If the mechanical timekeeping movement is electrically wound, the process must be automatic.</p>
+      <p n="73">The electrical timekeeping movement must be ready to function at all times.</p>
+      <p n="74">3.1.3. With distance-based drive for each of the tariffs, the first change of indication must take place after an initial distance, determined according to the tariff regulations in each Member State, has been covered. The subsequent changes on the indicator must correspond to equal distance intervals.</p>
+      <p n="75">With time-based drive for each of the tariffs, the first change of indication must take place after an initial time lapse determined according to the tariff regulations in each Member State. The subsequent changes on the indicator must correspond to equal time intervals.</p>
+      <p n="76">Without any change in the drive base, the ratio between the initial distance and the subsequent distance intervals must be the same as that between the initial time and the subsequent time intervals, whichever tariff is used.</p>
+      <p n="77">3.1.4. The adapting device must be so constructed that access cannot be gained to other parts of the taximeter by opening the housing.</p>
+      <p n="78">3.1.5. The taximeter must be so designed that any modifications to the calculating device that are necessary to comply with tariff changes imposed by the tariff regulations in each Member State can be easily effected.</p>
+      <p n="79">When the instrument is equipped to deal with a wider range of tariffs than is currently in force, the taximeters must, in all the supernumerary positions, calculate and indicate a fare based on one of the tariffs authorized by the tariff regulations in each Member State.</p>
+      <p n="80">3.2. Control device 3.2.1. It must not be possible to set the mechanism of the taximeter in motion until it has been activated by the control device set in one of the following authorized positions:</p>
+      <p n="81">3.2.2. "FOR HIRE" position</p>
+      <p n="82">In the "FOR HIRE" position: (a) there must be no indication of a fare to be paid, or this indication must be equal to zero. This indication may however be equal to the initial charge in those Member States where such indication is in use at the time of adoption of this Directive;</p>
+      <p n="83">(b) neither the distance-based drive nor the time-based drive must actuate the device indicating the fare to be paid;</p>
+      <p n="84">(c) the device indicating possible supplements (3.3.7) must be blank or bear the indication "zero".</p>
+      <p n="85">3.2.3. Other positions</p>
+      <p n="86">The control device must be so designed that, starting from the "FOR HIRE" position, the taximeter can be set successively in the following operating positions: (a) in the various operating positions at any of the existing tariffs in ascending order of magnitude or in any other order authorized by the tariff regulations in each Member State ; in these positions, the time-based drive, the distance-based drive and supplement indicator, if any, must be engaged;</p>
+      <p n="87">(b) in a "STOPPED" position showing the final amount to be paid exclusive of any supplement. In this position, the time-based drive must be disengaged and the distance-based drive must be engaged at the tariff authorized by the relevant regulations in each Member State.</p>
+      <p n="88">3.2.4. Operation of the control device</p>
+      <p n="89">Operation of the control device is subject to the following restrictions: (a) starting from an operating position at any tariff, it must not be possible to return the taximeter to the "FOR HIRE" position without passing through the "STOPPED" position. However, transition from one tariff to another must still be-possible;</p>
+      <p n="90">(b) starting from the "STOPPED" position, it must not be possible to return the taximeter to the operating position at any tariff without passing through the "FOR HIRE" position;</p>
+      <p n="91">(c) the taximeter must be so designed that changing from one tariff to another by passing through the "FOR HIRE" position is possible only if the conditions specified for this position on the control device (3.2.2) are fully complied with while it passes through this position;</p>
+      <p n="92">(d) it must be impossible to operate the control device in such a way that the taximeter can assume other positions than those specified above.</p>
+      <p n="93">3.2.5. Special provisions</p>
+      <p n="94">Independently of the requirements set out above, the succession of different tariffs may also be effected automatically as a function of a given distance travelled or of a time during which the vehicle was occupied, as specified by the tariff regulations in each Member State.</p>
+      <p n="95">3.3. Indicating device 3.3.1. The dial of the taximeter must be so constructed that the indications of interest to the passenger can be easily read either by day or by night.</p>
+      <p n="96">3.3.2. The fare to be paid, excluding possible supplements, must be evident from simply reading an indication in aligned figures of 10 mm minimum height.</p>
+      <p n="97">When the instrument has been started from the "FOR HIRE" position by operation of the control device, a fixed amount corresponding to the initial charge must be shown on the indicating device.</p>
+      <p n="98">Thereafter, the fare indication must change discontinuously by successive increments of a constant monetary value.</p>
+      <p n="99">3.3.3. The taximeter must be provided with a device which constantly indicates the engaged operating position on the dial in conformity with the national requirements.</p>
+      <p n="100">3.3.4. The taximeter must be designed to enable a repeater control device to indicate on the outside of the vehicle the operating position or the tariff in use.</p>
+      <p n="101">This repeater device must in no case disturb the correct operation of the instrument or enable access to be gained to the mechanism or to the drive of the taximeter.</p>
+      <p n="102">3.3.5. If the mandatory indications are not presented in the form of luminous figures or letters, the taximeter must have incorporated in it a device to illuminate these indications which does not dazzle but is strong enough to ensure easy reading.</p>
+      <p n="103">It must be possible to replace the light source of this device without opening the sealed parts of the instrument.</p>
+      <p n="104">3.3.6. It must be possible to provide the taximeter with totalizers specified or authorized by national regulations, such as recorders indicating: (a) the total distance travelled by the vehicle;</p>
+      <p n="105">(b) the total distance travelled when hired;</p>
+      <p n="106">(c) the total number of "hirings";</p>
+      <p n="107">(d) the number of registered incremental fare units.</p>
+      <p n="108">These recorders must correctly fulfil the function for which they are intended. They must show the information in aligned figures of a minimum apparent height of 4 mm.</p>
+      <p n="109">3.3.7. It must be possible to provide the taximeter with a supplement indicator conforming to national regulations, which is independent of the fare indicator, and which automatically returns to zero in the "FOR HIRE" position.</p>
+      <p n="110">These supplements must be indicated by means of aligned figures of a minimum apparent height of 8 mm and must not exceed the height of the figures showing the fare.</p>
+      <p n="111">3.4. Optional supplementary devices</p>
+      <p n="112">A taximeter may in addition be fitted with supplementary devices such as: (a) recording devices of interest to the vehicle owner;</p>
+      <p n="113">(b) card or tape-printing devices indicating the fares to be paid.</p>
+      <p n="114">The presence of such devices and their operation must not affect the correct operation of the taximeter itself.</p>
+      <p n="115">3.5. Construction 3.5.1. Taximeters must be strongly and soundly constructed.</p>
+      <p n="116">Their essential components must be made of materials guaranteeing adequate strength and stability.</p>
+      <p n="117">3.5.2. The housing of the taximeter itself and that of any adapting device not incorporated in the housing of the taximeter, as well as the sleeves of the transmission members, must be so constructed that the essential components of the mechanism cannot be reached from the outside and are protected against dust and moisture.</p>
+      <p n="118">Access to the components permitting adjustment without damaging the guarantee seals must be impossible (Section 6.).</p>
+      <p n="119">4. MARKINGS 4.1. General markings and identification</p>
+      <p n="120">Each taximeter must bear on the dial or on a sealed plate the following markings, easily visible and legible under normal conditions of installation: (a) the manufacturer's name and address or mark;</p>
+      <p n="121">(b) the type designation of the instrument, its number and year of manufacture;</p>
+      <p n="122">(c) the EEC pattern approval sign;</p>
+      <p n="123">(d) its constant "k" ; (given to a relative accuracy of not less than 0 72 %).</p>
+      <p n="124">Each taximeter must be provided with spaces for the following: (a) additional information, if appropriate, relating to the instrument or the vehicle in conformity with the requirements of the national regulations;</p>
+      <p n="125">(b) apart from the EEC partial initial verification mark, the other marks provided for under national regulations.</p>
+      <p n="126">4.2. Special markings 4.2.1. The meaning of the values indicated must be displayed clearly, legibly and unambiguously, near the windows of all indicating devices.</p>
+      <p n="127">4.2.2. The name or symbol of the monetary unit must be displayed next to the indication of the fare for the journey and the indication of the supplements to be paid.</p>
+      <p n="128">5. RANGE OF PERMISSIBLE ERRORS</p>
+      <p n="129">For the test bench inspection of a time-distance meter which is ready for installation and has been fitted with its accessories, the (conventional) true value of the quantities measured shall be that resulting from the "k" value displayed on the instrument and the tariff(s) for which the instrument has been set.</p>
+      <p n="130">The true value of these quantities must be contained between the highest and the lowest of the permitted indications. 5.1. With distance-based drive, the range of permissible errors for a given distance travelled must not exceed: (a) for the initial distance (3.1.3) : 2 % of the true value ; however, for initial distances of less than 1 000 metres, a range of 20 metres is acceptable;</p>
+      <p n="131">(b) for subsequent distances : 2 % of the true value.</p>
+      <p n="132">5.2. With time-based drive, the range of permissible errors for a given time must not exceed: (a) for the initial time (3.1.3) : 3 % of the true value ; however, for initial times of less than 10 minutes, a range of 18 seconds is acceptable.</p>
+      <p n="133">(b) for subsequent times : 3 % of the true value.</p>
+      <p n="134">5.3. National regulations shall specify whether the whole measuring system (taximeter + vehicle) must be adjusted in such a way that the limits of the range of permissible errors are symmetric or asymmetric in relation to the zero error ; for distance-based drive this is the error which relates to the actual distance travelled by the vehicle.</p>
+      <p n="135">6. SEALING 6.1. The following taximeter components must be so constructed that it is possible to seal them with a seal mark: (a) the housing in which the internal mechanism of the taximeter is enclosed;</p>
+      <p n="136">(b) the housing of the adapting device ;</p>
+      <p n="137">(c) the protective covers of the mechanical or electrical devices which link the entry point on the taximeter with the corresponding component provided on the vehicle to connect it to the instrument, including the detachable parts of the adapting device;</p>
+      <p n="138">(d) when the timekeeping mechanisms are electrically wound and the taximeter control device is electrically driven : the electrical cable connections;</p>
+      <p n="139">(e) any plates for the mandatory markings or for the verification marks;</p>
+      <p n="140">(f) the electrical cable connections of the repeater device, if fitted, referred to in 3.3.4.</p>
+      <p n="141">6.2. Any such seals must be so affixed that all access to the protected components and connections is impossible without damaging a seal mark.</p>
+      <p n="142">6.3. The EEC pattern approval certificate shall specify where the seals are to be placed and, whenever necessary, the nature and form of the sealing devices.</p>
+      <p n="143">7. EEC INITIAL VERIFICATION 7.1. If complete EEC verification is required, the initial verification of a taximeter shall be carried out in several stages.</p>
+      <p n="144">7.2. First stage : the taximeter shall receive the EEC partial initial verification mark when: (a) its pattern has received EEC pattern approval;</p>
+      <p n="145">(b) the instrument conforms to the approved pattern and bears the markings required by 4.1;</p>
+      <p n="146">(c) the range-of these errors complies with the requirements of 5.1 and 5.2.</p>
+      <p n="147">7.3. Subsequent stages : these shall be the responsibility of the authorities in the country where the taximeter is to be used.</p>
+      <p n="148">They include: - prior to installation on the vehicle: (a) checking of the adjustment of the instrument in accordance with 5.3;</p>
+      <p n="149">(b) checking of the tariff adjustment in accordance with national regulations.</p>
+      <p n="150">- after installation on the vehicle:</p>
+      <p n="151">checking of the measuring system thus constructed.</p>
+    </body>
+  </text>
+</TEI.2>

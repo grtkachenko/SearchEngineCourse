@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32004R0253-en" n="32004R0253" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0253 English</title>
+        <title>Commission Regulation (EC) No 253/2004 of 13 February 2004 fixing the ceilings on financing for measures to improve the quality of the olive oil production in the 2004/05 production cycle and derogating from Article 3(3) of Regulation (EC) No 528/1999</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0253:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0253:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1465</classCode>
+        <classCode scheme="eurovoc">2131</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0253-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 253/2004 of 13 February 2004 fixing the ceilings on financing for measures to improve the quality of the olive oil production in the 2004/05 production cycle and derogating from Article 3(3) of Regulation (EC) No 528/1999</head>
+      <p n="2">Commission Regulation (EC) No 253/2004</p>
+      <p n="3">of 13 February 2004</p>
+      <p n="4">fixing the ceilings on financing for measures to improve the quality of the olive oil production in the 2004/05 production cycle and derogating from Article 3(3) of Regulation (EC) No 528/1999</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation No 136/66/EEC of 22 September 1966 on the establishment of a common organisation of the market in oils and fats(1),</p>
+      <p n="8">Having regard to Commission Regulation (EC) No 528/1999 of 10 March 1999 laying down measures to improve the quality of olive oil production(2), and in particular Article 3(2) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Regulation (EC) No 528/1999 lays down, for each Member State and for each 12 month production cycle beginning on 1 May, the financial arrangements for measures to improve the quality of olive oil production and its environmental impact.</p>
+      <p n="11">(2) Commission Regulation (EC) No 1794/2003(3) fixes for the 2002/03 marketing year the estimated production of olive oil, including the estimated production of table olives expressed as olive oil equivalent, at 2148486 tonnes. This corresponds to 458202 tonnes for Greece, 972130 tonnes for Spain, 3357 tonnes for France, 686338 tonnes for Italy and 28459 tonnes for Portugal. The amount withheld from production aid for this olive oil marketing year serves as the basis for financing measures to improve the quality of oil during the production cycle commencing on 1 May 2004.</p>
+      <p n="12">(3) The financial ceilings for the measures that are eligible for reimbursement from the Guarantee Section of the European Agricultural Guidance and Guarantee Fund should be fixed.</p>
+      <p n="13">(4) As the measures have relatively fixed minimum costs, the ceilings on total financing laid down in Article 3(3) of Regulation (EC) No 528/1999 for some Member States may therefore prove to be too low. Appropriate limits should therefore be established in those cases.</p>
+      <p n="14">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Oils and Fats,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">For the production cycle from 1 May 2004 to 30 April 2005, the ceilings on financing for the measures laid down in the first subparagraph of Article 3(2) of Regulation (EC) No 528/1999 shall be:</p>
+      <p n="18">&gt;TABLE&gt;</p>
+      <p n="19">Article 2</p>
+      <p n="20">Notwithstanding Article 3(3) of Regulation (EC) No 528/1999, the additional national financial contribution from Member States whose ceiling on financing laid down in Article 1 is EUR 100000 or less shall be no more than EUR 250000.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 13 February 2004.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ 172, 30.9.1966, p. 3025/66. Regulation as last amended by Regulation (EC) No 1513/2001 (OJ L 201, 16.7.2001, p. 4).</p>
+      <p n="29">(2) OJ L 62, 11.3.1999, p. 8. Regulation as last amended by Regulation (EC) No 629/2003 (OJ L 92, 9.4.2003, p. 3).</p>
+      <p n="30">(3) OJ L 262, 14.10.2003, p. 11.</p>
+    </body>
+  </text>
+</TEI.2>

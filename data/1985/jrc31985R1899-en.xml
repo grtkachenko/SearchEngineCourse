@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31985R1899-en" n="31985R1899" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31985R1899 English</title>
+        <title>Council Regulation (EEC) No 1899/85 of 8 July 1985 establishing a minimum mesh size for nets used when fishing for capelin in that part of the zone of the Convention on future multilateral cooperation in the north-east Atlantic fisheries which extends beyond the maritime waters falling within the fisheries jurisdiction of Contracting Parties to the Convention</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985R1899:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985R1899:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31985R1899-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EEC) No 1899/85 of 8 July 1985 establishing a minimum mesh size for nets used when fishing for capelin in that part of the zone of the Convention on future multilateral cooperation in the north-east Atlantic fisheries which extends beyond the maritime waters falling within the fisheries jurisdiction of Contracting Parties to the Convention</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL REGULATION (EEC) No 1899/85</p>
+      <p n="4">of 8 July 1985</p>
+      <p n="5">establishing a minimum mesh size for nets used when fishing for capelin in that part of the zone of the Convention on future multilateral cooperation in the north-east Atlantic fisheries which extends beyond the maritime waters falling within the fisheries jurisdiction of Contracting Parties to the Convention</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN</p>
+      <p n="7">COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Regulation (EEC) No 170/83 of 25 January 1983 establishing a Community system for the conservation and management of fishery resources (1), and in particular Article 11 thereof,</p>
+      <p n="10">Having regard to the proposal from the Commission,</p>
+      <p n="11">Whereas, under Article 2 of Regulation (EEC) No 170/83, the conservation measures necessary to achieve the aims set out in Article 1 of that Regulation have to be worked out by the Council in the light of the available scientific advice;</p>
+      <p n="12">Whereas the Convention on future multilateral cooperation in the north-east Atlantic fisheries was approved by Decision 81/608/EEC (2); whereas it entered into force on 17 March 1982;</p>
+      <p n="13">Whereas the Commission established under the Convention adopted, on 28 November 1984, a recommendation on the minimum mesh size for fishing capelin in that part of the area of the Convention which extends beyond the zones falling within the fisheries jurisdiction of the Contracting Parties and this recommendation became binding upon the Community on 26 January 1985;</p>
+      <p n="14">Whereas the Community must now take action to implement that recommendation in respect of Community vessels,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Vessels flying the flag of, or registered in, a Member State shall be prohibited from using nets with a mesh size of less than 16 mm when fishing for capelin in that part of the Convention zone which extends beyond the maritime waters falling within the fisheries jurisdiction of the Contracting Parties to this Convention.</p>
+      <p n="18">The definition of the Convention zone is to be found in the Annex.</p>
+      <p n="19">A vessel shall be deemed to be fishing for capelin if it has capelin on board which exceeds 50 % by weight of the total amount of capelin and other species on board.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 8 July 1985.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">J. SANTER</p>
+      <p n="27">(1) OJ No L 24, 27. 1. 1983, p. 1.</p>
+      <p n="28">(2) OJ No L 227, 12. 8. 1981, p. 21.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">Definition of the area covered by the Convention on future multilateral cooperation in north-east Atlantic fisheries</p>
+      <p n="31">(Article 1 (1) of the Convention)</p>
+      <p n="32">The area to which the Convention applies shall be the waters:</p>
+      <p n="33">(a) within those parts of the Atlantic and Arctic Oceans and their dependent seas which lie north of latitude 36° N and between longitude 42° W and longitude 51° E, but excluding:</p>
+      <p n="34">(i) the Baltic Sea and the Belts lying to the south and east of lines drawn from Hasenore Head to Gniben Point, from Korshage to Spodsbjerg and from Gilbierg Head to the Kullen, and</p>
+      <p n="35">(ii) the Mediterranean Sea and its dependent seas as far as the point of intersection of the parallel of latitude 36° N and the meridian of longitude 5°36' W;</p>
+      <p n="36">(b) within that part of the Atlantic Ocean north of latitude 59° N and between longitude 44° W and longitude 42° W.</p>
+    </body>
+  </text>
+</TEI.2>

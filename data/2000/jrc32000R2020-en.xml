@@ -1,0 +1,113 @@
+<TEI.2 id="jrc32000R2020-en" n="32000R2020" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2020 English</title>
+        <title>Commission Regulation (EC) No 2020/2000 of 25 September 2000 amending Regulation (EEC) No 207/93 defining the content of Annex VI to Council Regulation (EEC) No 2092/91 and amending Section C of Annex VI to Regulation (EEC) No 2092/91 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs</title>
+      </titleStmt>
+      <extent>77 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2020:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2020:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1631</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">568</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2020-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2020/2000 of 25 September 2000 amending Regulation (EEC) No 207/93 defining the content of Annex VI to Council Regulation (EEC) No 2092/91 and amending Section C of Annex VI to Regulation (EEC) No 2092/91 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs</head>
+      <p n="2">Commission Regulation (EC) No 2020/2000</p>
+      <p n="3">of 25 September 2000</p>
+      <p n="4">amending Regulation (EEC) No 207/93 defining the content of Annex VI to Council Regulation (EEC) No 2092/91 and amending Section C of Annex VI to Regulation (EEC) No 2092/91 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2092/91 of 24 June 1991 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs(1), as last amended by Commission Regulation (EC) No 1437/2000(2), and in particular Article 5(7) and (8) and Article 13 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EEC) No 207/93(3), as last amended by Regulation (EC) No 345/97(4), has defined the content of Annex VI to Regulation (EEC) No 2092/91 and has laid down detailed rules for implementation of the provisions of Article 5(4) of that Regulation.</p>
+      <p n="10">(2) The detailed rules for the implementation of the regime of Member States' provisional authorisations pursuant to Article 5(3)(b) and 5(5a)(b) of Regulation (EEC) No 2092/91, laid down in Article 3 of Regulation (EEC) No 207/93, have to be reviewed in order to take into account certain difficulties currently experienced by Member States.</p>
+      <p n="11">(3) It has appeared that certain products in Section C of Annex VI are available in sufficient quantities in the Community from organic farming. Therefore those products should be deleted from Section C of Annex VI.</p>
+      <p n="12">(4) A period of grace should be allowed for certain withdrawn conventional products to permit the utilisation of existing stocks and the adaptation of the industry to the new requirements.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Committee referred to in Article 14 of Regulation (EEC) No 2092/91,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Article 3 of Regulation (EEC) No 207/93 is replaced by the following text:</p>
+      <p n="17">"Article 3:</p>
+      <p n="18">1. As long as an ingredient of agricultural origin is not included in Section C of Annex VI to Regulation (EEC) No 2092/91, that ingredient may be used according to the derogation provided for in Article 5(3)(b) and Article 5(5a)(b) of that Regulation on the following conditions:</p>
+      <p n="19">(a) that the operator has notified to the competent authority of the Member State all the requisite evidence showing that the ingredient concerned satisfies the requirements of Article 5(4) of Regulation (EEC) No 2092/91; and</p>
+      <p n="20">(b) that the competent authority of the Member State has provisionally authorised, in accordance with the requirements of Article 5(4) of Regulation (EEC) No 2092/91, the use for a maximum period of three months after having verified that the operator has taken the necessary contacts with the other suppliers in the Community to ensure himself on the unavailability of the ingredients concerned with the required quality requirements; without prejudice of the provisions of paragraph 6, the Member State may prolong this authorisation maximum three times for seven months each; and</p>
+      <p n="21">(c) no decision has been taken, in accordance with the provisions of paragraphs 4 or 6 that a granted authorisation with regard to the ingredient concerned shall be withdrawn.</p>
+      <p n="22">2. Where an authorisation as referred to in paragraph 1 has been granted, the Member State shall immediately notify to the other Member States and to the Commission, the following information:</p>
+      <p n="23">(a) the date of the authorisation and in case of a prolonged authorisation, the date of the first authorisation;</p>
+      <p n="24">(b) the name, address, telephone, and where relevant, fax and e-mail of the holder of the authorisation; the name and address of the contact point of the authority which granted the authorisation;</p>
+      <p n="25">(c) the name and, where necessary, the precise description and quality requirements of the ingredient of agricultural origin concerned;</p>
+      <p n="26">(d) the type of products for the preparation of which the requested ingredient is necessary;</p>
+      <p n="27">(e) the quantities that are required and the justification for those quantities;</p>
+      <p n="28">(f) the reasons for, and expected period of, the shortage;</p>
+      <p n="29">(g) the date on which the Member State sends this notification to the other Member States and the Commission.</p>
+      <p n="30">The Commission and/or Member States may make this information available to the public.</p>
+      <p n="31">3. Where a Member State submits comments to the Commission and to the Member State which granted the authorisation, which show that supplies are available during the period of the shortage, the Member State shall consider withdrawal of the authorisation or reducing the envisaged period of validity, and shall inform the Commission and the other Member States of the measures it has taken or will take, within 15 days days from the date of receipt of the information.</p>
+      <p n="32">4. At the request of a Member State or at the Commission's initiative, the matter shall be submitted for examination to the Committee referred to in Article 14 of Regulation (EEC) No 2092/91. It may be decided, in accordance with the procedure laid down in Article 14, that a granted authorisation shall be withdrawn or its period of validity amended, or where appropriate, that the ingredient concerned be included in Section C of Annex VI.</p>
+      <p n="33">5. In case of a prolongation as referred to in paragraph 1(b), the procedures of paragraphs 2 and 3, will apply.</p>
+      <p n="34">6. Where a Member State wants to ensure that an ingredient from conventional production can still be used after the third prolongation of the authorisation referred to in paragraph 1(b), this Member State shall, together with the notification for the third prolongation of a granted authorisation notify a request for inclusion of the ingredient in Annex VI, Section C. As long as no decision has entered into force in accordance with the procedure referred to in Article 14, in order to include the ingredient in Annex VI, Section C or to withdraw the authorisation, the Member State may continue to prolong the authorisation for successive periods of seven months in due respect of the conditions of paragraphs 1, 2 and 3."</p>
+      <p n="35">Article 2</p>
+      <p n="36">Section C of Annex VI to Regulation (EEC) No 2092/91 is replaced by the Annex to this Regulation.</p>
+      <p n="37">Article 3</p>
+      <p n="38">The following crop products may be used under the same conditions as products listed in Section C of Annex VI to Regulation (EEC) No 2092/91 until six months from entry into force of this Regulation:</p>
+      <p n="39">Acerola (Malphigia punicifolia), cashew nuts (Anacardium occidentale), fenugreek (Trigonella foenum-graecum), papayas (Carica papaya), pine kernels (Pinus pinea), allspice (Pimenta dioica), cardamom (Fructus cardamomi (minoris) (malabariensis) Elettaria cardamomum), cinnamon (Cinnamomum zeylanicum), clove (Syzygium aromaticum), ginger (Zingiber officinale), curry composed of: coriander (Coriandrum sativum), mustard (Sinapis alba), fennel (Foeniculum vulgare), ginger (Zingiber officinale), as well as fats and oils, whether or not refined but not chemically modified from palm, rape, safflower, sesame and soya.</p>
+      <p n="40">Article 4</p>
+      <p n="41">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="42">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="43">Done at Brussels, 25 September 2000.</p>
+      <p n="44">For the Commission</p>
+      <p n="45">Franz Fischler</p>
+      <p n="46">Member of the Commission</p>
+      <p n="47">(1) OJ L 198, 22.7.1991, p. 1.</p>
+      <p n="48">(2) OJ L 161, 1.7.2000, p. 62.</p>
+      <p n="49">(3) OJ L 25, 2.2.1993, p. 5.</p>
+      <p n="50">(4) OJ L 58, 27.2.1997, p. 38.</p>
+      <p n="51">ANNEX</p>
+      <p n="52">"SECTION C. INGREDIENTS OF AGRICULTURAL ORIGIN WHICH HAVE NOT BEEN PRODUCED ORGANICALLY, REFERRED TO IN ARTICLE 5(4) OF REGULATION (EEC) No 2092/91</p>
+      <p n="53">C.1. Unprocessed vegetable products as well as products derived therefrom by processes referred to under definition 2(a) of the introduction of this Annex:</p>
+      <p n="54">C.1.1. Edible fruits, nuts and seeds:</p>
+      <p n="55">&gt;TABLE&gt;</p>
+      <p n="56">C.1.2. Edible spices and herbs:</p>
+      <p n="57">&gt;TABLE&gt;</p>
+      <p n="58">C.1.3. Miscellaneous:</p>
+      <p n="59">algae, including seaweed, permitted in conventional foodstuffs preparation</p>
+      <p n="60">C.2. Vegetable products, processed by processes as referred to under definition 2(b) of the introduction of this Annex</p>
+      <p n="61">C.2.1. Fats and oils whether or not refined, but not chemically modified, derived from plants other than:</p>
+      <p n="62">&gt;TABLE&gt;</p>
+      <p n="63">C.2.2. The following sugars, starches and other products from cereals and tubers:</p>
+      <p n="64">beet sugar, until 1.4.2003 only</p>
+      <p n="65">fructose</p>
+      <p n="66">rice paper</p>
+      <p n="67">unleavened bread paper</p>
+      <p n="68">starch from rice and waxy maize, not chemically modified</p>
+      <p n="69">C.2.3. Miscellaneous:</p>
+      <p n="70">&gt;TABLE&gt;</p>
+      <p n="71">rum, only obtained from cane sugar juice</p>
+      <p n="72">kirsch prepared on the basis of fruits and flavourings as referred to in section A.2 of this Annex</p>
+      <p n="73">mixtures of crops permitted in conventional foodstuffs preparation, and giving colouring and tasting qualities to confectionary, only for preparation of 'Gummi Bärchen', until 30.9.2000 only</p>
+      <p n="74">mixtures of the following peppers: Piper nigrum, Schinus molle and Schinus terebinthifolium, until 31.12.2000 only</p>
+      <p n="75">C.3. Animal products:</p>
+      <p n="76">aquatic organisms, not originating from aquaculture, and permitted in conventional foodstuffs preparation</p>
+      <p n="77">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

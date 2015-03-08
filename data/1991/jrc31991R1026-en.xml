@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31991R1026-en" n="31991R1026" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31991R1026 English</title>
+        <title>Council Regulation (EEC) No 1026/91 of 22 April 1991 amending Regulation (EEC) No 1208/81 determining the Community scale for the classification of carcases of adult bovine animals</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991R1026:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991R1026:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31991R1026-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EEC) No 1026/91 of 22 April 1991 amending Regulation (EEC) No 1208/81 determining the Community scale for the classification of carcases of adult bovine animals</head>
+      <p n="2">COUNCIL REGULATION (EEC) No 1026/91 of 22 April 1991 amending Regulation (EEC) No 1208/81 determining the Community scale for the classification of carcases of adult bovine animals</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1358/80 of 5 June 1980 fixing the guide price and intervention price for adult bovine animals for the 1980/81 marketing year and introducing a Community grading scale for carcases of adult bovine animals (1), and in particular Article 4 (1) thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas Regulation (EEC) No 1208/81 (2) established the Community scale for the classification of carcases of adult bovine animals;</p>
+      <p n="8">Whereas, in view of the genetic improvements resulting from cattle breeding, the Community scale for the classification of carcases of adult bovine animals should be adjusted so as to take account of the existence of animals of the double-muscled type; whereas, to that end, provision should be made for the optional introduction of a conformation class above the existing ones,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION: Article 1</p>
+      <p n="10">Regulation (EEC) No 1208/81 is hereby amended as follows:</p>
+      <p n="11">1. Article 3 is replaced by the following:</p>
+      <p n="12">'Article 3</p>
+      <p n="13">1. The carcases of adult bovine animals shall be divided into the following categories:</p>
+      <p n="14">A. carcases of uncastrated young male animals of less than two years of age;</p>
+      <p n="15">B. carcases of other uncastrated male animals;</p>
+      <p n="16">C. carcases of castrated male animals;</p>
+      <p n="17">D. carcases of female animals that have calved;</p>
+      <p n="18">E. carcases of other female animals.</p>
+      <p n="19">Without prejudice to the intervention rules applying, the letters A, B, C, D and E shall be used to identify carcases as from 1 January 1992.</p>
+      <p n="20">Criteria shall be laid down for differentiating between categories of carcases in accordance with the procedure laid down in Article 27 of Regulation (EEC) No 805/68.</p>
+      <p n="21">2. The carcases of adult bovine animals shall be classified by successive assessment of:</p>
+      <p n="22">(a) conformation;</p>
+      <p n="23">(b) fat cover,</p>
+      <p n="24">as defined in Annexes I and II respectively.</p>
+      <p n="25">The conformation class designated in Annex I by the letter S may be used by Member States to take account, through the optional introduction of a conformation class superior to the existing classes (double-muscled carcases), of the characteristics or expected development of a particular form of production.</p>
+      <p n="26">Member States which intend to make use of this possibility shall notify the Commission and the other Member States accordingly.</p>
+      <p n="27">3. Member States shall be authorized to subdivide each of the classes provided for in Annexes I and II into a maximum of three sub-classes.';</p>
+      <p n="28">2. Annex I is replaced by the Annex appearing in the Annex hereto. Article 2</p>
+      <p n="29">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities. This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="30">Done at Luxembourg, 22 April 1991. For the Council</p>
+      <p n="31">The President</p>
+      <p n="32">R. STEICHEN (1) OJ No L 140, 5. 6. 1980, p. 4. (2) OJ No L 123, 7. 5. 1981, p. 3.</p>
+      <p n="33">ANNEX</p>
+      <p n="34">'ANNEX I</p>
+      <p n="35">CONFORMATION</p>
+      <p n="36">Development of carcase profiles, in particular the essential parts (round, back, shoulder)</p>
+      <p n="37">Conformation class Description S Superior All profiles extremely convex; exceptional muscle development (double-muscled carcase type) E Excellent All profiles convex to super-convex; exceptional muscle development U Very good Profiles on the whole convex; very good muscle development R Good Profiles on the whole straight; good muscle development O Fair Profiles straight to concave; average muscle development P Poor All profiles concave to very concave; poor muscle development'</p>
+    </body>
+  </text>
+</TEI.2>

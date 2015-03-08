@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31991D0637-en" n="31991D0637" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31991D0637 English</title>
+        <title>91/637/EEC: Commission Decision of 3 December 1991 establishing the model for the message to be transmitted by means of the computerized network Animo'</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991D0637:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991D0637:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31991D0637-en." lang="en">
+    <body>
+      <head n="1">91/637/EEC: Commission Decision of 3 December 1991 establishing the model for the message to be transmitted by means of the computerized network Animo'</head>
+      <p n="2">COMMISSION DECISION of 3 December 1991 establishing the model for the message to be transmitted by means of the computerized network 'Animo' (91/637/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Regulation (EEC) No 91/496/EEC (2), and in particular Article 20 (3) thereof,</p>
+      <p n="6">Whereas on 19 July 1991 the Commission adopted Decision 91/398/EEC on a computerized network linking veterinary authorities (Animo) (3);</p>
+      <p n="7">Whereas, in order to ensure the smooth functioning of the network, a model should be established for the message to be transmitted by the competent veterinary authorities;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The message to be transmitted by means of the computerized network Animo shall be in accordance with the model in the Annex.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Decision shall be reviewed before 31 December 1992 in the light of the development of the veterinary rules and in particular those concerning certification requirements.</p>
+      <p n="14">Article 3</p>
+      <p n="15">This Decision is addressed to the Member States. Done at Brussels, 3 December 1991. For the Commission</p>
+      <p n="16">Ray MAC SHARRY</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ No L 224, 18. 8. 1990, p. 29. (2) OJ No L 268, 24. 9. 1991, p. 56. (3) OJ No L 221, 9. 8. 1991, p. 30.</p>
+      <p n="19">ANNEX</p>
+      <p n="20">MODEL FOR THE MESSAGE</p>
+      <p n="21">1. Date of transmissin</p>
+      <p n="22">2. Origin</p>
+      <p n="23">- Country code - unit code</p>
+      <p n="24">- Health certificate</p>
+      <p n="25">- Number</p>
+      <p n="26">- Date</p>
+      <p n="27">- Name of veterinarian signing the certificate</p>
+      <p n="28">3. Destination</p>
+      <p n="29">- Country code - unit code</p>
+      <p n="30">- Receiver and address of place of destination</p>
+      <p n="31">4. Merchandise</p>
+      <p n="32">- Type - code</p>
+      <p n="33">- Number/quantity</p>
+      <p n="34">5. Means of transport</p>
+      <p n="35">- Type of transport (lorry, train, plane, ship, etc.)</p>
+      <p n="36">- Identification of means of transport (registration of lorry, wagon number, flight number, name of vessel, container number, etc.)</p>
+      <p n="37">6. Observations</p>
+      <p n="38">[In particular, for frontier inspection posts: origin of animals and products.]</p>
+    </body>
+  </text>
+</TEI.2>

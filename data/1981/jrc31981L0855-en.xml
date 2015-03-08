@@ -1,0 +1,47 @@
+<TEI.2 id="jrc31981L0855-en" n="31981L0855" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31981L0855 English</title>
+        <title>Council Directive 81/855/EEC of 19 October 1981 adapting, consequent upon the accession of Greece, Directive 79/869/EEC concerning the methods of measurement and frequencies of sampling and analysis of surface water intended for the abstraction of drinking water in the Member States</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981L0855:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981L0855:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31981L0855-en." lang="en">
+    <body>
+      <head n="1">Council Directive 81/855/EEC of 19 October 1981 adapting, consequent upon the accession of Greece, Directive 79/869/EEC concerning the methods of measurement and frequencies of sampling and analysis of surface water intended for the abstraction of drinking water in the Member States</head>
+      <p n="2">COUNCIL DIRECTIVE of 19 October 1981 adapting, consequent upon the accession of Greece, Directive 79/869/EEC concerning the methods of measurement and frequencies of sampling and analysis of surface water intended for the abstraction of drinking water in the Member States (81/855/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Articles 100 and 235 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Whereas, to take account of the accession of Greece to the European Communities, Article 11 (2) of Council Directive 79/869/EEC of 9 October 1979 concerning the methods of measurement and frequencies of sampling and analysis of surface water intended for the abstraction of drinking water in the Member States (2) should be adapted;</p>
+      <p n="8">Whereas, pursuant to the first paragraph of Article 198 of the Treaty, the Council consulted the Economic and Social Committee on the proposal from the Commission ; whereas the Committee was not in a position to submit its opinion within the time limit set by the Council ; whereas under the second paragraph of Article 198 of the Treaty the absence of an opinion shall not prevent the Council from taking further action ; whereas, having regard to the desirability of the rapid adoption of the required amendments, the Council considers it necessary to avail itself of this possibility,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">In Article 11 (2) of Directive 79/869/EEC, "41" shall be replaced by "45".</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Directive shall take effect on 1 January 1981.</p>
+      <p n="14">Article 3</p>
+      <p n="15">This Directive is addressed to the Member States.</p>
+      <p n="16">Done at Luxembourg, 19 October 1981.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">P. WALKER</p>
+      <p n="20">(1) OJ No C 144, 15.6.1981, p. 36. (2) OJ No L 271, 29.10.1979, p. 44.</p>
+    </body>
+  </text>
+</TEI.2>

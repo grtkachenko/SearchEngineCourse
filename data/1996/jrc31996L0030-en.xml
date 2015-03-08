@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31996L0030-en" n="31996L0030" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996L0030 English</title>
+        <title>Council Directive 96/30/EC of 13 May 1996 amending Directive 94/80/EC laying down detailed arrangements for the exercise of the right to vote and to stand as a candidate in municipal elections by citizens of the Union residing in a Member State of which they are not nationals</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996L0030:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996L0030:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1019</classCode>
+        <classCode scheme="eurovoc">3526</classCode>
+        <classCode scheme="eurovoc">4320</classCode>
+        <classCode scheme="eurovoc">4353</classCode>
+        <classCode scheme="eurovoc">548</classCode>
+        <classCode scheme="eurovoc">699</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996L0030-en." lang="en">
+    <body>
+      <head n="1">Council Directive 96/30/EC of 13 May 1996 amending Directive 94/80/EC laying down detailed arrangements for the exercise of the right to vote and to stand as a candidate in municipal elections by citizens of the Union residing in a Member State of which they are not nationals</head>
+      <p n="2">COUNCIL DIRECTIVE 96/30/EC of 13 May 1996 amending Directive 94/80/EC laying down detailed arrangements for the exercise of the right to vote and to stand as a candidate in municipal elections by citizens of the Union residing in a Member State of which they are not nationals</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 8b (1) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (2),</p>
+      <p n="8">Whereas the Annex to Council Directive 94/80/EC of 19 December 1994 laying down detailed arrangements for the exercise of the right to vote and to stand as a candidate in municipal elections by citizens of the Union residing in a Member State of which they are not nationals (3), lists the basic local government units in each Member State;</p>
+      <p n="9">Whereas, pursuant to the accession of Austria, Finland and Sweden, the Annex to Directive 94/80/EC should be so amended as to provide a reference to the basic local government units of these three countries;</p>
+      <p n="10">Whereas, pursuant to the Act of Accession of those countries, Directive 94/80/EC is applicable to the Åland islands, where Finnish nationals who do not enjoy regional citizenship of those islands and nationals of the other Member States of the Union are subject to the same condition relating to the period of residence for the exercise of the right to vote and to stand as candidates in municipal elections,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">In the Annex to Directive 94/80/EC the following shall be added:</p>
+      <p n="14">'in Austria:</p>
+      <p n="15">Gemeinden, Bezirke in der Stadt Wien</p>
+      <p n="16">in Finland:</p>
+      <p n="17">kunta, kommun, kommun på Åland</p>
+      <p n="18">in Sweden:</p>
+      <p n="19">kommuner, landsting.`</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Directive is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 13 May 1996.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">S. AGNELLI</p>
+      <p n="28">(1) OJ No C 65, 4. 3. 1996, p. 201.</p>
+      <p n="29">(2) Opinion delivered on 29 February 1996 (not yet published in the Official Journal).</p>
+      <p n="30">(3) OJ No L 368, 30. 12. 1994, p. 38.</p>
+    </body>
+  </text>
+</TEI.2>

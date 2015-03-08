@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31997R0630-en" n="31997R0630" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R0630 English</title>
+        <title>Commission Regulation (EC) No 630/97 of 10 April 1997 amending Commission Regulation (EC) No 2369/96 opening and providing for the administration of a Community tariff quota for 10 000 tonnes of oat grains otherwise worked falling within CN codes 1104 22 92 and 1104 22 99</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0630:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0630:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+        <classCode scheme="eurovoc">4497</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R0630-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 630/97 of 10 April 1997 amending Commission Regulation (EC) No 2369/96 opening and providing for the administration of a Community tariff quota for 10 000 tonnes of oat grains otherwise worked falling within CN codes 1104 22 92 and 1104 22 99</head>
+      <p n="2">COMMISSION REGULATION (EC) No 630/97 of 10 April 1997 amending Commission Regulation (EC) No 2369/96 opening and providing for the administration of a Community tariff quota for 10 000 tonnes of oat grains otherwise worked falling within CN codes 1104 22 92 and 1104 22 99</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations (1), and in particular Article 1 thereof,</p>
+      <p n="6">Whereas the Community, for the purposes of the World Trade Organization, undertook to establish, per marketing year and from 1 January 1996, a tariff quota at zero duty for 10 000 tonnes of oat grains otherwise worked falling within CN codes 1104 22 92 and 1104 22 99;</p>
+      <p n="7">Whereas the detailed rules for imports under the quota are laid down by Commission Regulation (EC) No 2369/96 (2); whereas Commission Regulation (EC) No 1734/96 (3) replaces, with effect from 1 January 1997, the CN codes for oat grains otherwise worked by the single CN code 1104 22 98; whereas, following this change of CN code, there is a risk of misunderstanding with regard to the product covered by the quota; whereas other amendments, to the provisions on the validity of import licences, are required; whereas, in the interests of simplification, references to the 1995/96 marketing year should be deleted and the time of the Commission notification to the Member States regarding the issue of import licences should be clearly specified; whereas, therefore, Regulation (EC) No 2369/96 should be amended;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EC) No 2369/96 is hereby amended as follows:</p>
+      <p n="12">1. in the title, Article 1, Article 3 (1) and the fifth indent of Article 4, the words 'CN codes 1104 22 92 and 1104 22 99` are replaced by 'CN code 1104 22 98`;</p>
+      <p n="13">2. the second subparagraphs of Article 1 and Article 2 (1) are deleted;</p>
+      <p n="14">3. Article 3 (3) is replaced by the following:</p>
+      <p n="15">'3. Where the total quantity for which import licence applications are submitted exceeds the quantity of product which may be imported during the period in question, the Commission shall notify Member States, within three working days of expiry of the time limit for notification referred to in paragraph 2, of the percentage reduction they must apply, when issuing licences, to the quantities for which applications were submitted.`;</p>
+      <p n="16">4. The following subparagraph is added after the second subparagraph of Article 3 (4):</p>
+      <p n="17">'Notwithstanding Article 21 (1) of Regulation (EEC) No 3719/88 (*), for the purposes of determining their period of validity, licences shall be considered to have been issued on the day of their actual issue.</p>
+      <p n="18">(*) OJ No L 331, 2. 12. 1988, p. 1.`</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 10 April 1997.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ No L 146, 20. 6. 1996, p. 1.</p>
+      <p n="27">(2) OJ No L 323, 13. 12. 1996, p. 8.</p>
+      <p n="28">(3) OJ No L 238, 19. 9. 1996, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

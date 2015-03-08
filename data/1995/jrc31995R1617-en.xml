@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31995R1617-en" n="31995R1617" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1617 English</title>
+        <title>Commission Regulation (EC) No 1617/95 of 4 July 1995 amending Regulation (EC) No 1162/95 laying down special detailed rules for the application of the system of import and export licences for cereals and rice</title>
+      </titleStmt>
+      <extent>17 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1617:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1617:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">1772</classCode>
+        <classCode scheme="eurovoc">2729</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1617-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1617/95 of 4 July 1995 amending Regulation (EC) No 1162/95 laying down special detailed rules for the application of the system of import and export licences for cereals and rice</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1617/95 of 4 July 1995 amending Regulation (EC) No 1162/95 laying down special detailed rules for the application of the system of import and export licences for cereals and rice</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the market in cereals (1), as last amended by the Act of Accession of Austria, Finland and Sweden and by Regulation (EC) No 1528/95 (2), and in particular Articles 9 (2), 12 (4) and 13 (11) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 1162/95 (3) lays down special detailed rules for the application of the system of import and export licences for cereals and rice; whereas the period of validity of import licences for malt is not laid down in Annex I to that Regulation; whereas, as a result, a period should be fixed to take account of market requirements and to rectify this omission;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Part A of Annex I to Regulation (EC) No 1162/95 is hereby replaced by the Annex hereto.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="14">Done at Brussels, 4 July 1995.</p>
+      <p n="15">For the Commission Franz FISCHLER Member of the Commission</p>
+      <p n="16">ANNEX</p>
+      <p n="17">'ANNEX I A. For cereals &gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32003R1158-en" n="32003R1158" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1158 English</title>
+        <title>Commission Regulation (EC) No 1158/2003 of 30 June 2003 fixing the derived intervention prices for white sugar for the 2003/04 marketing year</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1158:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1158:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">2644</classCode>
+        <classCode scheme="eurovoc">4315</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1158-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1158/2003 of 30 June 2003 fixing the derived intervention prices for white sugar for the 2003/04 marketing year</head>
+      <p n="2">Commission Regulation (EC) No 1158/2003</p>
+      <p n="3">of 30 June 2003</p>
+      <p n="4">fixing the derived intervention prices for white sugar for the 2003/04 marketing year</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1260/2001 of 19 June 2001 on the common organisation of the markets in the sugar sector(1), as amended by Commission Regulation (EC) No 680/2002(2), and in particular Article 2(4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Council Regulation (EC) No 1260/2001 fixes the intervention price for white sugar for non-deficit areas at EUR 63,19/100 kilograms for the 2001/02 to 2005/06 marketing years.</p>
+      <p n="10">(2) Article 2(1)(b) of Regulation (EC) No 1260/2001 provides that derived intervention prices for white sugar are to be fixed for each deficit area each year. When those prices are fixed, account is to be taken of the regional variations in the price of sugar, which, given a normal harvest and free movement of sugar, may be expected to occur under natural conditions of price formation on the market and in view of experience gained and the costs of transporting sugar from surplus areas to deficit areas.</p>
+      <p n="11">(3) To establish whether an area is a deficit area, projections should be made based on the data returned by the Member States relating both to the current marketing year as regards consumption trends, and to the prospects for the coming marketing year as regards developments in available production. As a result, areas should be recognised as deficit areas only where the projections clearly indicate that a deficit is likely to occur.</p>
+      <p n="12">(4) On this basis, the areas of production in Spain, Ireland and the United Kingdom, Italy, Portugal and Finland are likely to be deficit areas.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Sugar,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The derived intervention prices for white sugar in the deficit areas of the Community for the 2003/04 marketing year shall be:</p>
+      <p n="17">(a) EUR 64,88 per 100 kilograms for all areas in Spain;</p>
+      <p n="18">(b) EUR 64,65 per 100 kilograms for all areas in Ireland and the United Kingdom;</p>
+      <p n="19">(c) EUR 65,53 per 100 kilograms for all areas in Italy;</p>
+      <p n="20">(d) EUR 64,65 per 100 kilograms for all areas in Portugal;</p>
+      <p n="21">(e) EUR 64,65 per 100 kilograms for all areas in Finland.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on 1 July 2003.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 30 June 2003.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz Fischler</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 178, 30.6.2001, p. 1.</p>
+      <p n="30">(2) OJ L 104, 20.4.2002, p. 26.</p>
+    </body>
+  </text>
+</TEI.2>

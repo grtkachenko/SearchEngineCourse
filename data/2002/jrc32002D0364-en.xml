@@ -1,0 +1,173 @@
+<TEI.2 id="jrc32002D0364-en" n="32002D0364" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0364 English</title>
+        <title>2002/364/EC: Commission Decision of 7 May 2002 on common technical specifications for in vitro-diagnostic medical devices (Text with EEA relevance) (notified under document number C(2002) 1344)</title>
+      </titleStmt>
+      <extent>137 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0364:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0364:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">3645</classCode>
+        <classCode scheme="eurovoc">3648</classCode>
+        <classCode scheme="eurovoc">3844</classCode>
+        <classCode scheme="eurovoc">5305</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0364-en." lang="en">
+    <body>
+      <head n="1">2002/364/EC: Commission Decision of 7 May 2002 on common technical specifications for in vitro-diagnostic medical devices (Text with EEA relevance) (notified under document number C(2002) 1344)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 7 May 2002</p>
+      <p n="4">on common technical specifications for in vitro-diagnostic medical devices</p>
+      <p n="5">(notified under document number C(2002) 1344)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/364/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices(1), and in particular the second subparagraph of Article 5(3) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Directive 98/79/EC sets out the essential requirements that in vitro diagnostic medical devices must meet when they are placed on the market and conformity with harmonised standards provides a presumption of conformity with the relevant essential requirements.</p>
+      <p n="13">(2) By way of exception to these general principles, the drawing up of common technical specifications takes account of a current practice in some Member States whereby for selected devices mainly used for the evaluation of the safety of blood supply and of organ donation, such specifications are adopted by the public authorities. These common technical specifications can be used for performance evaluation and re-evaluation.</p>
+      <p n="14">(3) Scientific experts from various interested parties have been involved in the drafting of the common technical specifications.</p>
+      <p n="15">(4) Directive 98/79/EC provides that Member States are to presume compliance with the essential requirements in respect of devices designed and manufactured in conformity with common technical specifications drawn up for certain devices in the highest risk category. These specifications are to establish appropriate performance evaluation and re-evaluation criteria, batch release criteria, reference methods and reference materials.</p>
+      <p n="16">(5) Manufacturers are, as a general rule, to be required to comply with the common technical specifications. If, for duly justified reasons, manufacturers do not comply with those specifications they must adopt solutions of a level at least equivalent thereto.</p>
+      <p n="17">(6) The measures provided for in this Decision are in accordance with the opinion of the committee set up by Article 6(2) of Council Directive 90/385/EEC(2),</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">The technical specifications set out in the Annex to this Decision are adopted as common technical specifications for in vitro diagnostic medical devices in list A of Annex II to Directive 98/79/EC.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 7 May 2002.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Erkki Liikanen</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 331, 7.12.1998, p. 1.</p>
+      <p n="28">(2) OJ L 189, 20.7.1990, p. 17.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">CTS - COMMON TECHNICAL SPECIFICATIONS FOR IN VITRO-DIAGNOSTIC MEDICAL DEVICES</p>
+      <p n="31">1. SCOPE</p>
+      <p n="32">These Common Technical Specifications are for the list of devices referred to in Annex II, list A:</p>
+      <p n="33">- reagents and reagent products, including related calibrators and control materials, for determining the following blood groups: ABO system, Rhesus (C, c, D, E, e) anti-Kell,</p>
+      <p n="34">- reagents and reagent products, including related calibrators and control materials, for the detection, confirmation and quantification in human specimens of markers of HIV infection (HIV 1 and 2), HTLV I and II, and hepatitis B, C and D.</p>
+      <p n="35">2. DEFINITIONS</p>
+      <p n="36">(Diagnostic) sensitivity</p>
+      <p n="37">The probability that the device gives a positive result in the presence of the target marker.</p>
+      <p n="38">True positive</p>
+      <p n="39">A specimen known to be positive for the target marker and correctly classified by the device.</p>
+      <p n="40">False negative</p>
+      <p n="41">A specimen known to be positive for the target marker and misclassified by the device.</p>
+      <p n="42">(Diagnostic) specificity</p>
+      <p n="43">The probability that the device gives a negative result in the absence of the target marker.</p>
+      <p n="44">False positive</p>
+      <p n="45">A specimen known to be negative for the target marker and misclassified by the device.</p>
+      <p n="46">True negative</p>
+      <p n="47">A specimen known to be negative for the target marker and correctly classified by the device.</p>
+      <p n="48">Analytical sensitivity</p>
+      <p n="49">In the context of the CTS it may be expressed as the limit of detection: i.e. the smallest amount of the target marker that can be precisely detected.</p>
+      <p n="50">Analytical specificity</p>
+      <p n="51">The ability of the method to determine solely the target marker.</p>
+      <p n="52">Nucleic acid ampification techniques (NAT)</p>
+      <p n="53">In the context of this document the term "NAT" is used for tests for the detection and/or quantification of nucleic acids by either amplification of a target sequence, by amplification of a signal or by hybridisation.</p>
+      <p n="54">Rapid test</p>
+      <p n="55">In this context the term "rapid test" is understood to mean those tests which can only be used singly or in a small series and which have been designed to give a rapid result for near patient testing.</p>
+      <p n="56">Robustness</p>
+      <p n="57">The robustness of an analytical procedure is a measure of its capacity to remain unaffected by small but deliberate variations in method parameters and provides an indication of its reliability during normal usage.</p>
+      <p n="58">Whole system failure rate</p>
+      <p n="59">The whole system failure rate is the frequency of failures when the entire process is performed as prescribed by the manufacturer.</p>
+      <p n="60">3. COMMON TECHNICAL SPECIFICATIONS (CTS) FOR PRODUCTS DEFINED IN ANNEX II, LIST A OF DIRECTIVE 98/79/EC.</p>
+      <p n="61">3.1. CTS for performance evaluation of reagents and reagent products for the detection, confirmation and quantification in human specimens of markers of HIV infection (HIV 1 and 2), HTLV I and II, and hepatitis B, C, D:</p>
+      <p n="62">GENERAL PRINCIPLES</p>
+      <p n="63">3.1.1. Devices which detect virus infections placed on the market for use as either screening and/or diagnostic tests, shall meet the same requirements for sensitivity and specificity (see Table 1).</p>
+      <p n="64">3.1.2. Devices intended by the manufacturer for testing body fluids other than serum or plasma, e.g. urine, saliva, etc. shall meet the same CTS requirements for sensitivity and specificity as serum or plasma tests. The performance evaluation shall test samples from the same individuals in both the tests to be approved and in a respective serum or plasma assay.</p>
+      <p n="65">3.1.3. Devices intended by the manufacturer for self-test, i.e. home use, shall meet the same CTS requirements for sensitivity and specificity as respective devices for professional use. Relevant parts of the performance evaluation shall be carried out (or repeated) by appropriate lay users to validate the operation of the device and the instructions for use.</p>
+      <p n="66">3.1.4. All performance evaluations shall be carried out in direct comparison with an established device with acceptable performance. Once the CE marking of IVDs is established, the device used for comparison shall be CE marked, if on the market at the time of the performance evaluation.</p>
+      <p n="67">3.1.5. If discrepant test results are identified as part of an evaluation, these results shall be resolved as far as possible, for example:</p>
+      <p n="68">- by evaluation of the discrepant sample in further test systems,</p>
+      <p n="69">- by use of an alternative method or marker,</p>
+      <p n="70">- by a review of the clinical status and diagnosis of the patient, and</p>
+      <p n="71">- by the testing of follow-up-samples.</p>
+      <p n="72">3.1.6. Performance evaluations shall be performed on a population equivalent to the European population.</p>
+      <p n="73">3.1.7. Positive specimens used in the performance evaluation shall be selected to reflect different stages of the respective disease(s), different antibody patterns, different genotypes, different subtypes etc.</p>
+      <p n="74">3.1.8. For blood screening devices (with the exception of HBsAg tests), all true positive samples shall be identified as positive by the device to be CE marked (Table 1). For HbsAg tests the new device shall have an overall performance at least equivalent to that of the established device (see principle 3.1.4). Diagnostic test sensitivity during the early infection phase (sero-conversion) has to represent the state of the art. Whether further testing of the same or additional sero-conversion panels is conducted by the notified body or by the manufacturer the results shall confirm the initial performance evaluation data (see Table 1).</p>
+      <p n="75">3.1.9. Negative specimens used in a performance evaluation shall be defined so as to reflect the target population for which the test is intended, for example blood donors, hospitalised patients, pregnant women etc.</p>
+      <p n="76">3.1.10. For performance evaluations for screening assays (Table 1), blood donor populations shall be investigated from at least two blood donation centres and consist of consecutive blood donations, which have not been selected to exclude first time donors.</p>
+      <p n="77">3.1.11. Devices shall have a specificity of at least 99,5 % on blood donations, unless otherwise indicated in the accompanying tables. Specificity shall be calculated using the frequency of repeatedly reactive (i.e. false positive) results in blood donors negative for the target marker.</p>
+      <p n="78">3.1.12. Devices shall be evaluated to establish the effect of potential interfering substances, as part of the performance evaluation. The potential interfering substances to be evaluated will depend to some extent on the composition of the reagent and configuration of the assay. Potential interfering substances shall be identified as part of the risk analysis required by the essential requirements for each new device but may include, for example:</p>
+      <p n="79">- specimens representing "related" infections;</p>
+      <p n="80">- specimens from multipara, i.e. women who have had more than one pregnancy, or rheumatoid factor positive patients,</p>
+      <p n="81">- for recombinant antigens, human antibodies to components of the expression system, for example anti-E. coli, or anti-yeast.</p>
+      <p n="82">3.1.13. For devices intended by the manufacturer to be used with serum and plasma the performance evaluation must demonstrate serum to plasma equivalency. This shall be demonstrated for at least 50 donations.</p>
+      <p n="83">3.1.14. For devices intended for use with plasma the performance evaluation shall verify the performance of the device using all anticoagulants which the manufacturer indicates for use with the device. This shall be demonstrated for at least 50 donations.</p>
+      <p n="84">3.1.15. As part of the required risk analysis the whole system failure rate leading to false-negative results shall be determined in repeat assays on low-positive specimens.</p>
+      <p n="85">3.2. Additional requirements for nucleic acid amplification techniques (NAT)</p>
+      <p n="86">The performance evaluation criteria for NAT assays can be found in Table 2.</p>
+      <p n="87">3.2.1. For target sequence amplification assays, a functionality control for each test sample (internal control) shall reflect the state of the art. This control shall as far as possible be used throughout the whole process, i.e. extraction, amplification/hybridisation, detection.</p>
+      <p n="88">3.2.2. The analytical sensitivity or detection limit for NAT assays shall be expressed by the 95 % positive cut-off value. This is the analyte concentration where 95 % of test runs give positive results following serial dilutions of an international reference material for example a WHO standard or calibrated reference materials.</p>
+      <p n="89">3.2.3. Genotype detection shall be demonstrated by appropriate primer or probe design validation and shall also be validated by testing characterised genotyped samples.</p>
+      <p n="90">3.2.4. Results of quantitative NAT assays shall be traceable to international standards or calibrated reference materials, if available, and be expressed in international units utilised in the specific field of application.</p>
+      <p n="91">3.2.5. NAT assays may be used to detect virus in antibody negative samples, i.e. pre-sero-conversion samples. Viruses within immune -complexes may behave differently in comparison to free viruses, for example during a centrifugation step. It is therefore important that during robustness studies, antibody-negative (pre-sero-conversion) samples are included.</p>
+      <p n="92">3.2.6. For investigation of potential carry-over, at least five runs with alternating high-positive and negative specimens shall be performed during robustness studies. The high positive samples shall comprise of samples with naturally occurring high virus titres.</p>
+      <p n="93">3.2.7. The whole system failure rate leading to false-negative results shall be determined by testing low-positive specimens. Low positive specimens shall contain a virus concentration equivalent to 3 x the 95 % positive cut-off virus concentration.</p>
+      <p n="94">3.3. CTS for the manufacturer's release testing of reagents and reagent products for the detection, confirmation and quantification in human specimens of markers of HIV infection (HIV 1 and 2), HTLV I and II, and hepatitis B, C, D (immunological assays only)</p>
+      <p n="95">3.3.1. The manufacturer's release testing criteria shall ensure that every batch consistently identifies the relevant antigens, epitopes, and antibodies.</p>
+      <p n="96">3.3.2. The manufacturer's batch release testing shall include at least 100 specimens negative for the relevant analyte.</p>
+      <p n="97">3.4. CTS for performance evaluation of reagents and reagent products for determining the blood group antigens: ABO system (A, B), Rhesus (C, c, D, E, e) and Kell (K)</p>
+      <p n="98">Criteria for performance evaluation of reagents and reagent products for determining the blood groups: ABO system (A,B), Rhesus (C, c, D, E, e) and Kell (K) can be found in Table 9.</p>
+      <p n="99">3.4.1. All performance evaluations shall be carried out in direct comparison with an established device with acceptable performance. Once the CE marking of IVDs is established, the device used for comparison shall be CE marked, if on the market at the time of the performance evaluation.</p>
+      <p n="100">3.4.2. If discrepant test results are identified as part of an evaluation, these results shall be resolved as far as possible, for example:</p>
+      <p n="101">- by evaluation of the discrepant sample in further test systems,</p>
+      <p n="102">- by use of an alternative method.</p>
+      <p n="103">3.4.3. Performance evaluations shall be performed on a population equivalent to the European population.</p>
+      <p n="104">3.4.4. Positive specimens used in the performance evaluation shall be selected to reflect variant and weak antigen expression.</p>
+      <p n="105">3.4.5. Devices shall be evaluated to establish the effect of potential interfering substances, as part of the performance evaluation. The potential interfering substances to be evaluated will depend to some extent on the composition of the reagent and configuration of the assay. Potential interfering substances shall be identified as part of the risk analysis required by the essential requirements for each new device.</p>
+      <p n="106">3.4.6. For devices intended for use with plasma the performance evaluation shall verify the performance of the device using all anticoagulants which the manufacturer indicates for use with the device. This shall be demonstrated for at least 50 donations.</p>
+      <p n="107">3.5. CTS for the manufacturer's release testing of reagents and reagent products for determining the blood group antigens: ABO system (A, B), Rhesus (C, c, D, E, e), and Kell (K)</p>
+      <p n="108">3.5.1. The manufacturer's release testing criteria shall ensure that every batch consistently identifies the relevant antigens, epitopes, and antibodies.</p>
+      <p n="109">3.5.2. Requirements for manufacturer's batch release testing are outlined in Table 10.</p>
+      <p n="110">Table 1: "Screening" assays: anti-HIV 1 and 2, anti-HTLV I and II, anti-HCV, HBsAg, anti-HBc</p>
+      <p n="111">&gt;TABLE&gt;</p>
+      <p n="112">Table 2: NAT assays for HIV1, HCV, HBV, HTLV I/II (qualitative and quantitative; not molecular typing)</p>
+      <p n="113">&gt;TABLE&gt;</p>
+      <p n="114">Nota:</p>
+      <p n="115">Acceptance criteria for "whole system failure rate leading to false-neg results" is 99/100 assays positive.</p>
+      <p n="116">Table 3: Rapid tests: anti HIV 1 and 2, anti HCV, HBsAg, anti HBc, anti HTLV I and II</p>
+      <p n="117">&gt;TABLE&gt;</p>
+      <p n="118">Table 4: Confirmatory/supplementary assays for anti-HIV 1 and 2, anti-HTLV I and II, anti-HCV, HBsAg</p>
+      <p n="119">&gt;TABLE&gt;</p>
+      <p n="120">Table 5: HIV 1 Antigen</p>
+      <p n="121">&gt;TABLE&gt;</p>
+      <p n="122">Table 6: Serotyping Assay: HCV</p>
+      <p n="123">&gt;TABLE&gt;</p>
+      <p n="124">Table 7: HBV markers: anti-HBs, anti-HBc IgM, anti-HBe, HBeAg</p>
+      <p n="125">&gt;TABLE&gt;</p>
+      <p n="126">Table 8: HDV markers: anti-HDV, anti-HDV IgM, Delta Antigen</p>
+      <p n="127">&gt;TABLE&gt;</p>
+      <p n="128">Table 9: Blood Groups ABO, Rhesus (C, c, D, E, e) and Kell</p>
+      <p n="129">&gt;TABLE&gt;</p>
+      <p n="130">Table 10: Batch release criteria for Blood Groups ABO, Rhesus (C, c, D, E, e), and Kell</p>
+      <p n="131">Specificity Testing Requirements on each reagent</p>
+      <p n="132">1. Test reagents</p>
+      <p n="133">&gt;PIC FILE= "L_2002131EN.003001.TIF"&gt;</p>
+      <p n="134">Acceptance Criteria:</p>
+      <p n="135">Each batch of reagent must exhibit unequivocal positive or negative results by all recommended techniques in accordance with the results obtained from the performance evaluation data.</p>
+      <p n="136">2. Control Materials (red Cells)</p>
+      <p n="137">The phenotype of red cells used in the control of blood typing reagents listed above should be confirmed using established device.</p>
+    </body>
+  </text>
+</TEI.2>

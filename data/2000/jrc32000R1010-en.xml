@@ -1,0 +1,80 @@
+<TEI.2 id="jrc32000R1010-en" n="32000R1010" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1010 English</title>
+        <title>Council Regulation (EC) No 1010/2000 of 8 May 2000 concerning further calls of foreign reserve assets by the European Central Bank</title>
+      </titleStmt>
+      <extent>43 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1010:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1010:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1505</classCode>
+        <classCode scheme="eurovoc">3449</classCode>
+        <classCode scheme="eurovoc">3774</classCode>
+        <classCode scheme="eurovoc">408</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+        <classCode scheme="eurovoc">5883</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1010-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1010/2000 of 8 May 2000 concerning further calls of foreign reserve assets by the European Central Bank</head>
+      <p n="2">Council Regulation (EC) No 1010/2000</p>
+      <p n="3">of 8 May 2000</p>
+      <p n="4">concerning further calls of foreign reserve assets by the European Central Bank</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Protocol on the Statute of the European System of Central Banks and of the European Central Bank (hereinafter referred to as the "Statute") and in particular Article 30(4) thereof,</p>
+      <p n="7">Having regard to the recommendation of the European Central Bank (ECB)(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Having regard to the opinion of the Commission of the European Communities(3),</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 107(6) of the Treaty establishing the European Community ("the Treaty") and Article 42 of the Statute and under the conditions set out in Article 122(5) of the Treaty and paragraph 7 of the Protocol on certain provisions relating to the United Kingdom of Great Britain and Northern Ireland,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Article 30(1) of the Statute requires that the ECB be provided by the national central banks of participating Member States with foreign reserve assets, other than Member States' currencies, euro, IMF reserve positions and SDRs, up to an amount equivalent to EUR 50000 million.</p>
+      <p n="13">(2) Article 30(4) of the Statute provides that further calls of foreign reserve assets beyond the limit set in Article 30(1) of the Statute may be effected by the ECB within the limits and under the conditions set by the Council.</p>
+      <p n="14">(3) Article 123(1), in conjunction with Article 107(6), of the Treaty provides that immediately after 1 July 1998 the Council shall adopt the provision referred to in Article 30(4) of the Statute.</p>
+      <p n="15">(4) This Regulation establishes a limit for further calls of foreign reserve assets, thereby enabling the Governing Council of the ECB to decide on actual calls at some point in the future in order to replenish already depleted holdings of foreign reserve assets and not to increase the ECB's holdings beyond the maximum amount equivalent to EUR 50000 million set for the initial transfers of foreign reserve assets by the national central banks to the ECB.</p>
+      <p n="16">(5) Any replenishment of foreign reserves is not to entail an increase in the subscribed capital of the ECB.</p>
+      <p n="17">(6) Article 30(4) of the Statute requires that further calls of foreign reserve assets be effected in accordance with Article 30(2) of the Statute; Article 30(2) in conjunction with Article 43(6) of the Statute and paragraph 10(b) of the Protocol on certain provisions relating to the United Kingdom of Great Britain and Northern Ireland requires that the contributions of each national central bank shall be fixed in proportion to its share of the capital of the ECB subscribed by the national central banks of participating Member States.</p>
+      <p n="18">(7) Article 10(3) in conjunction with Article 43(4) of the Statute requires that for any decisions to be taken under Article 30 of the Statute, the votes in the Governing Council of the ECB shall be weighted according to the shares of the national central banks of participating Member States in the subscribed capital of the ECB.</p>
+      <p n="19">(8) Article 30(4) of the Statute, in conjunction with Articles 43(4) and 43(6) of the Statute and paragraph 8 of the Protocol on certain provisions relating to the United Kingdom of Great Britain and Northern Ireland and paragraph 2 of the Protocol on certain provisions relating to Denmark, does not confer any rights or impose any obligations on the non-participating Member States.</p>
+      <p n="20">(9) Article 49(1) of the Statute in conjunction with paragraph 10(b) of the Protocol on certain provisions relating to the United Kingdom of Great Britain and Northern Ireland requires that the central bank of a Member State whose derogation has been abrogated, or who is treated on the same basis as the central bank of a Member State whose derogation has been abrogated, is to transfer to the ECB foreign reserve assets in accordance with Article 30(1) of the Statute. Article 49(1) of the Statute requires that the sum to be transfered is to be determined by multiplying the euro value at current exchange rates of the foreign reserve assets which have already been transferred to the ECB in accordance with Article 30(1), by the ratio between the number of shares subscribed by the national central bank concerned and the number of shares already paid up by the other national central banks.</p>
+      <p n="21">(10) All references to amounts in euro in the aforementioned provisions of the Treaty, in this Regulation and in any call of or request by the ECB for foreign reserve assets are references to nominal amounts in euro at the time a call of such foreign reserve assets by the ECB is effected,</p>
+      <p n="22">HAS ADOPTED THIS REGULATION:</p>
+      <p n="23">Article 1</p>
+      <p n="24">Definitions</p>
+      <p n="25">For the purposes of this Regulation:</p>
+      <p n="26">- "foreign reserve assets" mean any official foreign reserve assets of the participating Member States held by national central banks that are denominated in, or comprise, currencies, units of account or gold other than Member States' currencies, euro, IMF reserve positions and SDRs,</p>
+      <p n="27">- "national central bank" means the central bank of a participating Member State, and</p>
+      <p n="28">- "participating Member State" means a Member State which has adopted the single currency in accordance with the Treaty.</p>
+      <p n="29">Article 2</p>
+      <p n="30">Further calls of foreign reserve assets</p>
+      <p n="31">1. The ECB may effect further calls of foreign reserve assets from the national central banks beyond the limit set in Article 30(1) of the Statute, up to an amount equivalent to an additional EUR 50000 million, in case of need for such foreign reserve assets.</p>
+      <p n="32">2. The central bank of a Member State whose derogation has been abrogated, or who is treated on the same basis as the central bank of a Member State whose derogation has been abrogated, shall transfer to the ECB a sum of foreign reserve assets determined by multiplying the euro value at current exchange rates of the foreign reserve assets which have already been transferred to the ECB in accordance with paragraph 1, by the ratio between the number of shares subscribed by the central bank concerned and the number of shares already paid up by the other national central banks.</p>
+      <p n="33">Article 3</p>
+      <p n="34">Final provisions</p>
+      <p n="35">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="36">This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaty establishing the European Community.</p>
+      <p n="37">Done at Brussels, 8 May 2000.</p>
+      <p n="38">For the Council</p>
+      <p n="39">The President</p>
+      <p n="40">J. Pina Moura</p>
+      <p n="41">(1) OJ C 269, 23.9.1999, p. 9.</p>
+      <p n="42">(2) Opinion delivered on 17 March 2000 (not yet published in the Official Journal).</p>
+      <p n="43">(3) Opinion delivered on 8 March 2000 (not yet published in the Official Journal).</p>
+    </body>
+  </text>
+</TEI.2>

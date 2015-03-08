@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31988R3914-en" n="31988R3914" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31988R3914 English</title>
+        <title>Commission Regulation (EEC) No 3914/88 of 14 December 1988 on the analytical procedures to be used in determining the dry matter, fatty matter and sugar content of products falling within CN code 1905 90 30</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31988R3914:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31988R3914:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31988R3914-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 3914/88 of 14 December 1988 on the analytical procedures to be used in determining the dry matter, fatty matter and sugar content of products falling within CN code 1905 90 30</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 3914/88</p>
+      <p n="4">of 14 December 1988</p>
+      <p n="5">on the analytical procedures to be used in determining the dry matter, fatty matter and sugar content of products falling within CN code 1905 90 30</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as last amended by Regulation (EEC) No 3174/88 (2), and in particular Article 9 thereof,</p>
+      <p n="9">Whereas, in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the analytical procedures to be used in determining the sugars content (sum of sucrose, fructose, glucose, lactose and maltose content), fat content and dry matter content of products falling within CN code 1905 90 30;</p>
+      <p n="10">Whereas the studies carried out and research done indicate that the analytical procedures set out in Article 1 of this Regulation are appropriate;</p>
+      <p n="11">Whereas the entry into force of this Regulation involves the repeal of Commission Regulation (EEC) No 2093/84 of 19 July 1984 on the analytical procedure to be used in determining the dry matter, fatty matter and sugar content of certain ordinary bakers' wares falling within heading No 19.07 of the Common Customs Tariff (3);</p>
+      <p n="12">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Nomenclature Committee,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The sugars content (sum of sucrose, fructose, glucose, lactose and maltose content), fat content and dry matter content of products falling within CN code 1905 90 30 shall be determined by means of the procedures set out below:</p>
+      <p n="16">- sugars content (sum of sucrose, fructose, glucose, lactose and maltose content): to be determined by HPLC,</p>
+      <p n="17">- fatty matter content: to be determined after hydrolysis by hydrochloric acid; substances which can be extracted with petroleum ether after that hydrolysis shall be regarded as fatty matter,</p>
+      <p n="18">- dry matter content: to be determined by drying a representative sample to constant mass at 103 ± 2 °C.</p>
+      <p n="19">Article 2</p>
+      <p n="20">Regulation (EEC) No 2093/84 is hereby repealed.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 14 December 1988.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">COCKFIELD</p>
+      <p n="27">Vice-President</p>
+      <p n="28">(1) OJ No L 256, 7. 9. 1987, p. 1.</p>
+      <p n="29">(2) OJ No L 298, 31. 10. 1988, p. 1.</p>
+      <p n="30">(3) OJ No L 193, 21. 7. 1984, p. 15.</p>
+    </body>
+  </text>
+</TEI.2>

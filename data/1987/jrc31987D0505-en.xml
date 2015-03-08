@@ -1,0 +1,49 @@
+<TEI.2 id="jrc31987D0505-en" n="31987D0505" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31987D0505 English</title>
+        <title>87/505/EEC: Council Decision of 13 July 1987 concerning the conclusion of an Agreement in the form of an Exchange of Letters amending the Agreement between the European Economic Community and the Swiss Confederation concerning certain cheeses</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987D0505:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987D0505:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31987D0505-en." lang="en">
+    <body>
+      <head n="1">87/505/EEC: Council Decision of 13 July 1987 concerning the conclusion of an Agreement in the form of an Exchange of Letters amending the Agreement between the European Economic Community and the Swiss Confederation concerning certain cheeses</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL DECISION</p>
+      <p n="4">of 13 July 1987</p>
+      <p n="5">concerning the conclusion of an Agreement in the form of an Exchange of Letters amending the Agreement between the European Economic Community and the Swiss Confederation concerning certain cheeses</p>
+      <p n="6">(87/505/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community, and in particular Article 113 thereof,</p>
+      <p n="9">Having regard to the recommendation from the Commission,</p>
+      <p n="10">Whereas the Agreement between the European Economic Community and the Swiss Confederation concerning certain cheeses, negotiated under Article XXVIII of the General Agreement on Tariffs and Trade (GATT) and approved by the Council by Decision 69/352/EEC (1), establishes, amongst other things, weight limits for the whole cheeses concerned; whereas, during bilateral consultations, it was decided that it would be advisable, in the light of experience, to amend the weight limits for Sbrinz cheese, as they have proved too restrictive;</p>
+      <p n="11">Whereas the Agreement in the form of an Exchange of Letters amending the aforesaid Agreement should be approved,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Agreement in the form of an Exchange of Letters amending the Agreement between the European Economic Community and the Swiss Confederation for certain cheeses is hereby approved on behalf of the Community.</p>
+      <p n="15">The text of the Agreement is attached to this Decision.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The President of the Council is hereby authorized to designate the person empowered to sign the Agreement in order to bind the Community.</p>
+      <p n="18">Done at Brussels, 13 July 1987.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">P. SIMONSEN</p>
+      <p n="22">(1) OJ No L 257, 13. 10. 1969, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32001R1451-en" n="32001R1451" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1451 English</title>
+        <title>Council Regulation (EC) No 1451/2001 of 28 June 2001 amending Regulation (EC) No 2792/1999 laying down the detailed rules and arrangements regarding Community structural assistance in the fisheries sector</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1451:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1451:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1035</classCode>
+        <classCode scheme="eurovoc">1372</classCode>
+        <classCode scheme="eurovoc">2518</classCode>
+        <classCode scheme="eurovoc">5138</classCode>
+        <classCode scheme="eurovoc">5228</classCode>
+        <classCode scheme="eurovoc">5668</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1451-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1451/2001 of 28 June 2001 amending Regulation (EC) No 2792/1999 laying down the detailed rules and arrangements regarding Community structural assistance in the fisheries sector</head>
+      <p n="2">Council Regulation (EC) No 1451/2001</p>
+      <p n="3">of 28 June 2001</p>
+      <p n="4">amending Regulation (EC) No 2792/1999 laying down the detailed rules and arrangements regarding Community structural assistance in the fisheries sector</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Articles 37 and 299(2) thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the Opinion of the European Parliament(2),</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee(3),</p>
+      <p n="10">Having regard to the opinion of the Committee of the Regions,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Regulation (EC) No 2792/1999(4) fixes maximum rates of assistance from the Financial Instrument for Fisheries Guidance (FIFG) in accordance with the ceilings laid down in Council Regulation (EC) No 1260/1999 of 21 June 1999 laying down general provisions on the Structural Funds(5).</p>
+      <p n="13">(2) However, the limits which apply to the FIFG remain below the special provisions laid down in Regulation (EC) No 1260/1999 for certain categories of Objective 1 regions. The limits applicable to the FIFG should therefore be adjusted according to the specific difficulties of each of these categories of region. With regard to the outermost regions in particular, it is necessary to take into account the factors indicated in Article 299(2) of the Treaty as these could be very damaging to their development.</p>
+      <p n="14">(3) Regulation (EC) No 2792/1999 should therefore be amended.</p>
+      <p n="15">(4) Pursuant to Article 14 of Regulation (EC) No 1260/1999, each plan, Community support framework, operational programme and single programming document shall cover a period of seven years, and the programming period shall begin on 1 January 2000. In the interests of cohesiveness and to avoid discrimination between beneficiaries of the same programme, the derogations provided for in this Regulation must, exceptionally, be applicable to the whole programming period,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Table 3 of Annex IV to Regulation (EC) No 2792/1999 shall be replaced by the following table:</p>
+      <p n="19">"TABLE 3</p>
+      <p n="20">&gt;TABLE&gt;</p>
+      <p n="21">In the case of investment in small and medium-sized businesses within the meaning of Commission Recommendation 96/280/EC(6) the (A) rates for groups 2 and 3 may be increased by an amount for forms of finance other than direct assistance, provided that this increase does not exceed 10 % of the total eligible cost. The contribution of the private beneficiary shall be reduced accordingly.</p>
+      <p n="22">A summary description of the derogations provided for under the first subparagraph shall be included in the operational programmes or single programming documents for the areas concerned referred to in Articles 18 and 19 of Regulation (EC) No 1260/1999."</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="25">This Regulation shall apply as from 1 January 2000.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Luxembourg, 28 June 2001.</p>
+      <p n="28">For the Council</p>
+      <p n="29">The President</p>
+      <p n="30">B. Rosengren</p>
+      <p n="31">(1) OJ C 96 E, 27.2.2001, p. 277.</p>
+      <p n="32">(2) Opinion delivered on 14 June 2001 (not yet published in the Official Journal).</p>
+      <p n="33">(3) OJ C 139, 11.5.2001, p. 29.</p>
+      <p n="34">(4) OJ L 337, 30.12.1999, p. 10.</p>
+      <p n="35">(5) OJ L 161, 26.6.1999, p. 1. Regulation as amended by Regulation (EC) No 1447/2001 (see p. 1 of this Official Journal).</p>
+      <p n="36">(6) OJ L 107, 30.4.1996, p. 4.</p>
+    </body>
+  </text>
+</TEI.2>

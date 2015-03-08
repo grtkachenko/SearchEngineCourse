@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32003R0254-en" n="32003R0254" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0254 English</title>
+        <title>Council Regulation (EC) No 254/2003 of 11 February 2003 amending Regulation (EC) No 2368/2002 implementing the Kimberley Process certification scheme for the international trade in rough diamonds</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0254:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0254:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">11</classCode>
+        <classCode scheme="eurovoc">2381</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">3584</classCode>
+        <classCode scheme="eurovoc">4125</classCode>
+        <classCode scheme="eurovoc">5481</classCode>
+        <classCode scheme="eurovoc">6609</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0254-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 254/2003 of 11 February 2003 amending Regulation (EC) No 2368/2002 implementing the Kimberley Process certification scheme for the international trade in rough diamonds</head>
+      <p n="2">Council Regulation (EC) No 254/2003</p>
+      <p n="3">of 11 February 2003</p>
+      <p n="4">amending Regulation (EC) No 2368/2002 implementing the Kimberley Process certification scheme for the international trade in rough diamonds</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) It is appropriate to ensure that the provisions established by Council Regulation (EC) No 2368/2002 of 20 December 2002 implementing the Kimberley Process certification scheme for the international trade in rough diamonds(1) enable all WTO-members fulfilling the requirements of the Kimberley Process certification scheme to participate in the scheme. Therefore, the definition of participant set out in Article 2 of that Regulation and the conditions governing the insertion into the list of participants contained in Annex II to that Regulation should be amended.</p>
+      <p n="10">(2) The Community and all other participants listed in Annex II to Regulation (EC) No 2368/2002 have fulfilled the requirements of the Kimberley Process certification scheme in such a manner that the full application of all provisions of that Regulation will not lead to a serious disturbance of international trade in rough diamonds.</p>
+      <p n="11">(3) Sufficient evidence has been submitted that those requirements will be fulfilled by 1 February 2003. The suspension of the applicability of those provisions should, therefore, be lifted from that date,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Regulation (EC) No 2368/2002 is amended as follows:</p>
+      <p n="15">1. Article 2(c) is replaced by the following:</p>
+      <p n="16">"(c) 'Participant' means any State, regional economic integration organisation, WTO-member or separate customs territory that fulfils the requirements of the KP certification scheme, has notified that fact to the Chair of the KP certification scheme and is listed in Annex II;"</p>
+      <p n="17">2. Article 20 is replaced by the following:</p>
+      <p n="18">"Article 20</p>
+      <p n="19">On the basis of relevant Information provided to the Chair of the KP certification scheme and/or by participants, the Commission may amend the list of participants and their competent authorities."</p>
+      <p n="20">3. Article 29(3) is replaced by the following:</p>
+      <p n="21">"3. Articles 3, 4, 5, 10, 11, 12, 13, 14, 15 and 18 shall apply from 1 February 2003."</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 11 February 2003.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">G. Papandreou</p>
+      <p n="29">(1) OJ L 358, 31.12.2002, p. 28. Regulation amended by Commission Regulation (EC) No 257/2003.</p>
+    </body>
+  </text>
+</TEI.2>

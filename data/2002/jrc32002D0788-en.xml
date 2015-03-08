@@ -1,0 +1,115 @@
+<TEI.2 id="jrc32002D0788-en" n="32002D0788" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0788 English</title>
+        <title>2002/788/EC: Commission Decision of 10 October 2002 amending Council Directive 82/894/EEC on the notification of animal diseases within the Community (Text with EEA relevance) (notified under document number C(2002) 3670)</title>
+      </titleStmt>
+      <extent>81 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0788:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0788:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">5334</classCode>
+        <classCode scheme="eurovoc">837</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0788-en." lang="en">
+    <body>
+      <head n="1">2002/788/EC: Commission Decision of 10 October 2002 amending Council Directive 82/894/EEC on the notification of animal diseases within the Community (Text with EEA relevance) (notified under document number C(2002) 3670)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 10 October 2002</p>
+      <p n="4">amending Council Directive 82/894/EEC on the notification of animal diseases within the Community</p>
+      <p n="5">(notified under document number C(2002) 3670)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/788/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 82/894/EEC of 21 December 1982 on the notification of animal diseases within the Community(1), as last amended by Commission Decision 2000/556/EC(2) and in particular the first indent of Article 5 (2) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Infectious salmon anaemia and viral haemorrhagic septicaemia should be included in the list of notifiable diseases so that prompt action can be taken at Community level when outbreaks occur on farms and areas approved as being free of these diseases,</p>
+      <p n="13">(2) The Annexes to Directive 82/894/EEC should therefore be amended accordingly.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Annexes I and II to Directive 82/894/EEC are replaced by the text in the Annex to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Decision is addressed to the Member States.</p>
+      <p n="20">Done at Brussels, 10 October 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">David Byrne</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 37, 31.12.1982, p. 58.</p>
+      <p n="25">(2) OJ L 235, 19.9.2000, p. 27.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">"ANNEX I</p>
+      <p n="28">Diseases which are subject to notification:</p>
+      <p n="29">African horse sickness</p>
+      <p n="30">African swine fever</p>
+      <p n="31">Avian infuenza (was fowl plague)</p>
+      <p n="32">Bluetongue</p>
+      <p n="33">Bovine spongiform encephalopathy</p>
+      <p n="34">Classical swine fever</p>
+      <p n="35">Contagious bovine pleuropneumonia</p>
+      <p n="36">Foot and mouth disease</p>
+      <p n="37">Newcastle disease</p>
+      <p n="38">Infectious salmon anaemia</p>
+      <p n="39">Infectious haematopoietic necrosis</p>
+      <p n="40">Lumpy skin disease</p>
+      <p n="41">Rift valley fever</p>
+      <p n="42">Rinderpest (cattle plague)</p>
+      <p n="43">Peste des petits ruminants</p>
+      <p n="44">Porcine enterovirus encephalomyelitis (was Teschen disease)</p>
+      <p n="45">Sheep and goat pox (Capripox)</p>
+      <p n="46">Swine vesicular disease</p>
+      <p n="47">Vesicular stomatitis</p>
+      <p n="48">Viral haemorrhagic septicaemia</p>
+      <p n="49">ANNEX II</p>
+      <p n="50">Information to be given under the notification required by Articles 3 and 4 in relation to primary and secondary outbreaks of the diseases listed in Annex I:</p>
+      <p n="51">1. Date of dispatch;</p>
+      <p n="52">2. Time of dispatch;</p>
+      <p n="53">3. Country of origin;</p>
+      <p n="54">4. Name of disease and type of virus, where appropriate;</p>
+      <p n="55">5. Serial number of outbreak;</p>
+      <p n="56">6. Type of outbreak;</p>
+      <p n="57">7. Reference number of outbreak linked to this outbreak;</p>
+      <p n="58">8. Region and geographical location of the holding;</p>
+      <p n="59">9. Other region affected by restrictions;</p>
+      <p n="60">10. Date of confirmation;</p>
+      <p n="61">11. Date of suspicion;</p>
+      <p n="62">12. Date of estimation of first infection;</p>
+      <p n="63">13. Origin of disease;</p>
+      <p n="64">14. Control measures taken;</p>
+      <p n="65">15. Number of susceptible animals on premises (a) cattle, (b) pigs, (c) sheep, (d) goats, (e) poultry, (f) equidae, (g) fish, (h) wild species;</p>
+      <p n="66">16. Number of animals clinically affected on premises (a) cattle, (b) pigs, (c) sheep, (d) goats, (e) poultry, (f) equidae, (g) fish, (h) wild species;</p>
+      <p n="67">17. Number of animals that have died on premises (a) cattle, (b) pigs, (c) sheep, (d) goats, (e) poultry, (f) equidae, (g) fish, (h) wild species;</p>
+      <p n="68">18. Number of stock slaughtered (a) cattle, (b) pigs, (c) sheep, (d) goats,(e) poultry, (f) equidae, (g) fish, (h) wild species;</p>
+      <p n="69">19. Number of carcasses destroyed (a) cattle, (b) pigs, (c) sheep, (d) goats, (e) poultry, (f) equidae, (g) fish, (h) wild species.</p>
+      <p n="70">In the case of swine fever the additional information:</p>
+      <p n="71">1. Distance from nearest pig holding;</p>
+      <p n="72">2. Number and type (breeding, fattening and piglets(1) of pigs on the infected premises;</p>
+      <p n="73">3. Number and type of pigs (breeding, fattening and piglets(2) clinically affected on the infected premises;</p>
+      <p n="74">4. Method of diagnosis;</p>
+      <p n="75">5. If not on premises then whether confirmed in a slaughterhouse or in a means of transport;</p>
+      <p n="76">6. Confirmation of primary cases(3) in feral pigs.</p>
+      <p n="77">In the case of fish diseases:</p>
+      <p n="78">Infections with infectious haematopoietic necrosis, infectious salmon anaemia, and viral haemorrhagic septicaemia, when confirmed in farms or zones approved or free, must be notified as primary outbreaks. The name and description of the approved farm or zone must be included in the free text.</p>
+      <p n="79">(1) Animals under approximately 3 months old.</p>
+      <p n="80">(2) Animals under approximately 3 months old.</p>
+      <p n="81">(3) Primary case in feral pigs means those cases occurring in free areas i.e. outside of restricted areas for classical swine fever in feral pigs."</p>
+    </body>
+  </text>
+</TEI.2>

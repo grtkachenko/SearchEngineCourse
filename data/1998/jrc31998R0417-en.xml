@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31998R0417-en" n="31998R0417" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0417 English</title>
+        <title>Commission Regulation (EC) No 417/98 of 20 February 1998 amending Regulation (EEC) No 429/90 on the granting by invitation to tender of an aid for concentrated butter intended for direct consumption in the Community</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0417:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0417:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">20</classCode>
+        <classCode scheme="eurovoc">2741</classCode>
+        <classCode scheme="eurovoc">4860</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0417-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 417/98 of 20 February 1998 amending Regulation (EEC) No 429/90 on the granting by invitation to tender of an aid for concentrated butter intended for direct consumption in the Community</head>
+      <p n="2">COMMISSION REGULATION (EC) No 417/98 of 20 February 1998 amending Regulation (EEC) No 429/90 on the granting by invitation to tender of an aid for concentrated butter intended for direct consumption in the Community</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organisation of the market in milk and milk products (1), as last amended by Regulation (EC) No 1587/96 (2), and in particular Article 7a(3) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 429/90 (3), as last amended by Regulation (EC) No 1802/95 (4), provided, until its suspension by Commission Regulation (EC) No 19/98 (5), for the granting by invitation to tender of an aid for concentrated butter produced from butter or cream from the market and intended for direct consumption in the Community; whereas, in order to be eligible for aid, the manufacture of the concentrated butter, the addition of tracers and packaging must take place within 90 days of the closing date for the submission of tenders;</p>
+      <p n="7">Whereas fixing of the maximum aid for the 180th invitation to tender, for which the closing date for the submission of tenders was 9 December 1997, was delayed; whereas the Member States were only notified of the Decision on 9 January 1998; whereas the deadline for manufacture of the concentrated butter concerned should therefore be extended until 31 March 1998;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The following subparagraph is hereby added to Article 9(1) of Regulation (EEC) No 429/90:</p>
+      <p n="12">'However, for the quantities of concentrated butter awarded under the 180th invitation to tender, for which the closing date for the submission of tenders was 9 December 1997, the deadline referred to in the first indent shall be 31 March 1998.`</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 20 February 1998.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 148, 28. 6. 1968, p. 13.</p>
+      <p n="21">(2) OJ L 206, 16. 8. 1996, p. 21.</p>
+      <p n="22">(3) OJ L 45, 21. 2. 1990, p. 8.</p>
+      <p n="23">(4) OJ L 174, 26. 7. 1995, p. 27.</p>
+      <p n="24">(5) OJ L 4, 8. 1. 1998, p. 39.</p>
+    </body>
+  </text>
+</TEI.2>

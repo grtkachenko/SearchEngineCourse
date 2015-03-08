@@ -1,0 +1,53 @@
+<TEI.2 id="jrc31990D0420-en" n="31990D0420" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31990D0420 English</title>
+        <title>90/420/EEC: Commission Decision of 25 July 1990 on the classification and labelling of Di(2- ethylhexyl)phthalate in accordance with Article 23 of Council Directive 67/548/EEC</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990D0420:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990D0420:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31990D0420-en." lang="en">
+    <body>
+      <head n="1">90/420/EEC: Commission Decision of 25 July 1990 on the classification and labelling of Di(2- ethylhexyl)phthalate in accordance with Article 23 of Council Directive 67/548/EEC</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION DECISION</p>
+      <p n="4">of 25 July 1990</p>
+      <p n="5">on the classification and labelling of Di(2-ethylhexyl)phthalate in accordance with Article 23 of Council Directive 67/548/EEC</p>
+      <p n="6">(90/420/EEC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (1), as last amended by Directive 79/831/EEC (2) and in particular Article 23 thereof,</p>
+      <p n="10">Whereas the Kingdom of Denmark on the 13 August 1987 informed the Commission of its intention to lay down specific conditions on the marketing of 23 substances with reference to Article 23 of Directive 67/548/EEC on the grounds that these substances are not classified and labelled appropriately and therefore present a serious risk hazard for health;</p>
+      <p n="11">Whereas the Commission has consulted with the Member States in accordance with the provisions of Article 23;</p>
+      <p n="12">Whereas the Commission has examined the evidence for the carcinogenicity of di(2-ethylhexyl)phthalate, and has consulted the appropriate experts designated by Member States and having special qualifications with respect to either carcinogenicity, mutagenicity and teratogenicity;</p>
+      <p n="13">Whereas the advice of the majority of experts was that the evidence at the present time is inadequate to justify the classification and labelling of this substance as a carcinogen or as an irritant,</p>
+      <p n="14">HAS ADOPTED THE FOLLOWING DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Di(2-ethylhexyl)phthalate shall not be classified or labelled as a carcinogenic or an irritant substance.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The Kingdom of Denmark shall take the measures necessary to comply with this Decision not later than 1 January 1991.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 25 July 1990.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Carlo RIPA DI MEANA</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ No 196, 16. 8. 1967, p. 1.</p>
+      <p n="26">(2) OJ No L 259, 15. 10. 1979, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

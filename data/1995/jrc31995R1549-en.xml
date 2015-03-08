@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31995R1549-en" n="31995R1549" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1549 English</title>
+        <title>Council Regulation (EC) No 1549/95 of 29 June 1995 amending Regulation (EEC) No 2392/86 establishing a Community vineyard register</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1549:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1549:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3342</classCode>
+        <classCode scheme="eurovoc">4057</classCode>
+        <classCode scheme="eurovoc">4708</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1549-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1549/95 of 29 June 1995 amending Regulation (EEC) No 2392/86 establishing a Community vineyard register</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1549/95 of 29 June 1995 amending Regulation (EEC) No 2392/86 establishing a Community vineyard register</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2392/86 of 24 July 1986 establishing a Community vineyard register (1) and in particular Article 4 thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission (2),</p>
+      <p n="7">Whereas trends on the wine market have shown that the establishment of the Community vineyard register is a vital instrument in ensuring the proper functioning of the common organization of the market in wine and in particular the monitoring of areas under vines;</p>
+      <p n="8">Whereas some Member States have encountered technical difficulties which have delayed their undertaking to establish this instrument within the time limit laid down in Regulation (EEC) No 2392/86;</p>
+      <p n="9">Whereas those difficulties should be taken into account and the time limit laid down in Article 4 (1) of the abovementioned Regulation should therefore be extended;</p>
+      <p n="10">Whereas the Act of Accession of Austria, Finland and Sweden obliges Austria to establish a vineyard register by 31 December 1996 at the latest; whereas all the time limits for the establishment of vineyard registers should be harmonized on that laid down in the Act of Accession;</p>
+      <p n="11">Whereas the measures provided for in this Regulation must be sufficiently flexible to allow them to be adjusted to developments in the common organization of the market in wine; whereas taking account of current discussions by the Council concerning reform of that market organization, the Commission should be asked to ensure that measures are not taken which risk becoming quickly obsolete,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Regulation (EEC) No 2392/86 is hereby amended as follows:</p>
+      <p n="15">1. In Article 4, paragraph 1 shall be replaced by the following:</p>
+      <p n="16">'1. The register shall be established in its entirety by 31 December 1996 at the latest.` 2. In Article 4, the following paragraph shall be added:</p>
+      <p n="17">'4. Member States which, on 1 July 1995, have not yet established a vineyard register or which have only established a partial register shall, before 31 December 1996 establish reference charts covering the entire area under vines.</p>
+      <p n="18">Member States shall forward to the Commission, before 1 November 1995, programmes relating to the progress of work on their register and, where appropriate, the status of work already carried out.</p>
+      <p n="19">The Commission shall study the programmes and shall authorize measures in line with forecast requirements engendered by the development of the common organization of the market in wine.</p>
+      <p n="20">The Community shall contribute to the financing of this measure at a rate of 50 % of the actual cost. However, those Member states which have only drawn up partial vineyard registers by 1 July 1995, but where work is well advanced shall be authorized to finish those registers. In such cases Community funding is limited to the funding corresponding to that of the simplified register for the areas in question.</p>
+      <p n="21">The cost of the present vineyard register in the Douro region Portugal shall be co-financed up to 31 December 1996, without prejudice to the possibility of deciding, in the context of the reform of the Common organization of the wine market, the same financing as that for the simplified register, if necessary for the purpose of continuing this work after that date.`</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Luxembourg, 29 June 1995.</p>
+      <p n="26">For the Council The President J. BARROT</p>
+      <p n="27">(1) OJ No L 208, 31. 7. 1986, p. 1. Regulation as last amended by the 1994 Act of Accession.</p>
+      <p n="28">(2) OJ No C 99, 21. 4. 1995, p. 43.</p>
+    </body>
+  </text>
+</TEI.2>

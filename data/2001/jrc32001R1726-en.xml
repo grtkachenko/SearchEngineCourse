@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32001R1726-en" n="32001R1726" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1726 English</title>
+        <title>Regulation (EC) No 1726/2001 of the European Parliament and of the Council of 23 July 2001 amending Article 21 of Council Regulation (EC) No 1292/96 on food-aid policy and food-aid management and special operations in support of food security</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1726:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1726:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2295</classCode>
+        <classCode scheme="eurovoc">3472</classCode>
+        <classCode scheme="eurovoc">3489</classCode>
+        <classCode scheme="eurovoc">4025</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">807</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1726-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 1726/2001 of the European Parliament and of the Council of 23 July 2001 amending Article 21 of Council Regulation (EC) No 1292/96 on food-aid policy and food-aid management and special operations in support of food security</head>
+      <p n="2">Regulation (EC) No 1726/2001 of the European Parliament and of the Council</p>
+      <p n="3">of 23 July 2001</p>
+      <p n="4">amending Article 21 of Council Regulation (EC) No 1292/96 on food-aid policy and food-aid management and special operations in support of food security</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 179 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Acting in accordance with the procedure laid down in Article 251 of the Treaty(2),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The Community and its Member States take part in a number of international agreements relating to food-aid policy, food-aid management and special operations in support of food security, among them the Food Aid Convention 1999.</p>
+      <p n="11">(2) That Convention was approved by Council Decision 2000/421/EC of 13 June 2000 on the conclusion, on behalf of the European Community, of the Food Aid Convention 1999(3).</p>
+      <p n="12">(3) It is necessary that Article 21 of Council Regulation (EC) No 1292/96(4) be adapted substantively in line with Articles III and IV of the Food Aid Convention 1999,</p>
+      <p n="13">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Article 21 of Regulation (EC) No 1292/96 is amended as follows: "Article 21</p>
+      <p n="16">1. The Council, acting by a qualified majority on a proposal from the Commission and after consulting the European Parliament, shall determine the Community share of the overall amount of aid, either in tonnes of wheat equivalent or in value or in a combination of tonnage and value, laid down in the Food Aid Convention as the total contribution of both the Community and its Member States.</p>
+      <p n="17">2. The Commission shall coordinate the operations of the Community and the Member States as regards the supply of aid under the Food Aid Convention and shall ensure that the total contribution by the Community and its Member States is at least as high as the commitment provided for in the said Convention."</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 23 July 2001.</p>
+      <p n="22">For the European Parliament</p>
+      <p n="23">The President</p>
+      <p n="24">N. Fontaine</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">A. Neyts-Uyttebroeck</p>
+      <p n="28">(1) OJ C 154 E, 29.5.2001, p. 108.</p>
+      <p n="29">(2) Opinion of the European Parliament of 16 May 2001 (not yet published in the Official Journal) and Council Decision of 10 July 2001.</p>
+      <p n="30">(3) OJ L 163, 4.7.2000, p. 37.</p>
+      <p n="31">(4) OJ L 166, 5.7.1996, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

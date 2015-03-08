@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31997R1495-en" n="31997R1495" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1495 English</title>
+        <title>Commission Regulation (EC) No 1495/97 of 29 July 1997 laying down special measures derogating from Regulation (EEC) No 3719/88 as regards beef and veal</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1495:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1495:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1504</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">3577</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">690</classCode>
+        <classCode scheme="eurovoc">946</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1495-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1495/97 of 29 July 1997 laying down special measures derogating from Regulation (EEC) No 3719/88 as regards beef and veal</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1495/97 of 29 July 1997 laying down special measures derogating from Regulation (EEC) No 3719/88 as regards beef and veal</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organisation of the market in beef and veal (1), as last amended by Regulation (EC) No 2222/96 (2), and in particular Article 13 (12) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 3719/88 (3), as last amended by Regulation (EC) No 1404/97 (4), lays down common detailed rules for the application of the system of import and export licences and advance-fixing certificates for agricultural products;</p>
+      <p n="7">Whereas Commission Regulation (EC) No 1445/95 (5), as last amended by Regulation (EC) No 266/97 (6), lays down rules of application for import and export licences in the beef and veal sector;</p>
+      <p n="8">Whereas, following cases of bovine spongiform encephalopathy in Ireland, health measures taken by the Egyptian authorities in respect of exports of Irish beef and veal have seriously damaged the economic interests of exporters and whereas the situation thus created has adversely affected export possibilities provided for in Regulation (EEC) No 3719/88;</p>
+      <p n="9">Whereas it is therefore necessary to limit such damaging consequences by adopting special measures so that export operations which have not been completed on account of the abovementioned circumstances can be regularised;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">1. This Regulation shall apply to the products falling within Category 3 listed in Annex III to Regulation (EC) No 1445/95 for which export licences indicating 'Egypt` in Section 7 were issued in Ireland in the period 30 October 1996 to 31 December 1996.</p>
+      <p n="14">2. This Regulation shall apply only where the exporters concerned provide proof to the satisfaction of the competent authorities that they have been unable to carry out export operations as a result of the health measures adopted by the authorities of the third country of destination.</p>
+      <p n="15">Article 2</p>
+      <p n="16">On application by the holder, export licences issued pursuant to Regulation (EC) No 1445/95 in the period 30 October 1996 to 31 December 1996 shall be cancelled and the securities released.</p>
+      <p n="17">Article 3</p>
+      <p n="18">Each Thursday Ireland shall notify the quantities of products covered during the preceding week by the measure provided for in Article 2, specifying the date of issue of the licences.</p>
+      <p n="19">Article 4</p>
+      <p n="20">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 29 July 1997.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ No L 148, 28. 6. 1968, p. 24.</p>
+      <p n="27">(2) OJ No L 296, 21. 11. 1996, p. 50.</p>
+      <p n="28">(3) OJ No L 331, 2. 12. 1988, p. 1.</p>
+      <p n="29">(4) OJ No L 194, 23. 7. 1997, p. 5.</p>
+      <p n="30">(5) OJ No L 143, 27. 6. 1995, p. 35.</p>
+      <p n="31">(6) OJ No L 45, 15. 2. 1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

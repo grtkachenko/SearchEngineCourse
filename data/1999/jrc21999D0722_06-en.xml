@@ -1,0 +1,59 @@
+<TEI.2 id="jrc21999D0722_06-en" n="21999D0722(06)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 21999D0722(06) English</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21999D0722(06):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21999D0722(06):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1267</classCode>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">1662</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">5618</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc21999D0722_06-en." lang="en">
+    <body>
+      <p n="2">DECISION OF THE EEA JOINT COMMITTEE</p>
+      <p n="3">No 87/98</p>
+      <p n="4">of 25 September 1998</p>
+      <p n="5">amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as adjusted by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas Annex II to the Agreement was amended by Decision of the EEA Joint Committee No 72/98 of 31 July 1998(1);</p>
+      <p n="9">Whereas Commission Directive No 97/64/EC of 10 November 1997 adapting to technical progress for the fourth time Annex I to Council Directive 76/769/EEC on the approximation of laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparations (lamp oils)(2) is to be incorporated into the Agreement,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The following indent shall be added in point 4 (Council Directive 76/769/EEC) of Chapter XV of Annex II to the Agreement: "- 397 L 0064: Commission Directive 97/64/EC of 10 November 1997 (OJ L 315, 19.11.1997, p. 13)."</p>
+      <p n="13">Article 2</p>
+      <p n="14">The texts of Directive 97/64/EC in the Icelandic and Norwegian languages, which are annexed to the respective language versions of this Decision, are authentic.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Decision shall enter into force on 26 September 1998, provided that all the notifications under Article 103(1) of the Agreement have been made to the EEA Joint Committee.</p>
+      <p n="17">Article 4</p>
+      <p n="18">This Decision shall be published in the EEA section of, and in the EEA Supplement to, the Official Journal of the European Communities.</p>
+      <p n="19">Done at Brussels, 25 September 1998.</p>
+      <p n="20">For the EEA Joint Committee</p>
+      <p n="21">The President</p>
+      <p n="22">N. v. LIECHTENSTEIN</p>
+      <p n="23">(1) OJ L 172, 8.7.1999, p. 51.</p>
+      <p n="24">(2) OJ L 315, 19.11.1997, p. 13.</p>
+    </body>
+  </text>
+</TEI.2>

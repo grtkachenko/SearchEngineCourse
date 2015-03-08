@@ -1,0 +1,82 @@
+<TEI.2 id="jrc31996D0134-en" n="31996D0134" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0134 English</title>
+        <title>96/134/EC: Commission Decision of 16 January 1996 amending Decision 91/448/EEC concerning guidelines for classification referred to in Article 4 of Council Directive 90/219/EEC on the contained use of genetically modified micro-organisms (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>45 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0134:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0134:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3796</classCode>
+        <classCode scheme="eurovoc">3797</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">4036</classCode>
+        <classCode scheme="eurovoc">4111</classCode>
+        <classCode scheme="eurovoc">5768</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0134-en." lang="en">
+    <body>
+      <head n="1">96/134/EC: Commission Decision of 16 January 1996 amending Decision 91/448/EEC concerning guidelines for classification referred to in Article 4 of Council Directive 90/219/EEC on the contained use of genetically modified micro-organisms (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 16 January 1996 amending Decision 91/448/EEC concerning guidelines for classification referred to in Article 4 of Council Directive 90/219/EEC on the contained use of genetically modified micro-organisms (Text with EEA relevance) (96/134/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/219/EEC of 23 April 1990 (1) on the contained use of genetically modified micro-organisms, as amended by Directive 94/51/EC (2), and in particular Article 4 thereof,</p>
+      <p n="6">Whereas, for the purposes of Directive 90/219/EEC, genetically modified micro-organisms are classified into two groups using the criteria of Annex II; whereas it is further provided that guidelines shall be drawn up for such classification;</p>
+      <p n="7">Whereas, in consequence, the Commission established by Decision 91/448/EEC (3), the guidelines for further interpretation of Annex II of Directive 90/219/EEC;</p>
+      <p n="8">Whereas, given that as a result of experience, it has been considered appropriate to adapt to technical progress the criteria for classification set out in Annex II; it is therefore necessary to revise the guidelines for such classification;</p>
+      <p n="9">Whereas the provisions of this Decision have received the favourable opinion of the Committee of Member States' representatives in accordance with the procedure laid down in Article 21 of Directive 90/219/EEC,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Annex to Decision 91/448/EEC is replaced by the Annex hereto.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 16 January 1996.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Ritt BJERREGAARD</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 117, 8. 5. 1990, p. 1.</p>
+      <p n="20">(2) OJ No L 217, 18. 11. 1994, p. 29.</p>
+      <p n="21">(3) OJ No L 239, 28. 8. 1991, p. 23.</p>
+      <p n="22">ANNEX</p>
+      <p n="23">Guidelines for the classification of genetically modified micro-organisms into Group I according to Article 4 (3) of Directive 90/219/EEC</p>
+      <p n="24">For classification of GMMs into Group I, the following guidelines should be used for the further interpretation of the criteria established by Annex II of Directive 90/219/EEC, and for the further development by competent authorities of more detailed guidelines aimed at specific cases:</p>
+      <p n="25">1. Criteria (i) - (iii) refer to immunocompetent humans and healthy animals or plants.</p>
+      <p n="26">2. As regards criterion (i) of Annex II, the following guidelines are given:</p>
+      <p n="27">(a) in deciding whether the recipient or parental micro-organism is likely to cause disease to animals or plants consideration should be given to the environment likely to be exposed to the recipient or parental micro-organism;</p>
+      <p n="28">(b) non-virulent strains of acknowledged pathogenic species could be considered as unlikely to cause disease and as satisfying criterion (i) in Annex II, provided that:</p>
+      <p n="29">(i) the non-virulent strain has an established record of safety in the laboratory and/or industry with no adverse effects on human, animal or plant health;</p>
+      <p n="30">and/or</p>
+      <p n="31">(ii) the strain is stably deficient in genetic material that determines virulence, or has stable mutations known to sufficiently reduce virulence.</p>
+      <p n="32">When it is not essential to remove all virulence determinants from a pathogen, particular attention should be paid to any toxin genes, plasmid- or phageborne virulence determinants and harmful adventitious agents. On such occasions a case by case evaluation will be needed.</p>
+      <p n="33">3. As regards criterion (ii) of Annex II, the following guidelines are given:</p>
+      <p n="34">(a) The vector/insert should not contain genes expressing an active protein or transcript (e. g. virulence determinants, toxins, etc.) at a level and in a form which endow the genetically modified micro-organism with a phenotype likely to cause disease to humans, animals or plants.</p>
+      <p n="35">In any case, when the vector/insert contains sequences which are involved in the expression of harmful traits in certain micro-organisms, but which do not endow the GMM with a phenotype likely to cause disease to humans, animals or plants, or likely to cause adverse effects on the environment, then the vector/insert should not be self-transmissible and should be poorly mobilizable.</p>
+      <p n="36">(b) In the case of Type B operations, special consideration should be given to the following:</p>
+      <p n="37">- vectors should not be self-transmissible or contain functional transposing sequences; and should be poorly mobilizable,</p>
+      <p n="38">- in deciding whether the vector/insert is likely to endow the genetically modified micro-organism with a phenotype likely to cause disease to humans, animals or plants or to cause adverse effects in the environment, it is important to ensure that the vector/insert is well characterized or limited in size as much as possible to the genetic sequences required to perform the intended function.</p>
+      <p n="39">4. As regards criterion (iii) of Annex II, the following guidelines are given:</p>
+      <p n="40">(a) in deciding whether the gentically modified micro-organism is likely to cause adverse effects on the environment or disease to animals or plants, consideration should be given to the environment likely to be exposed to the GMMs.</p>
+      <p n="41">(b) in the case of type B operations, in addition to criterion (iii), consideration should be given to the following:</p>
+      <p n="42">- the genetically modified micro-organism should not transfer any resistance markers to micro-organisms, if such transfer compromise disease treatment;</p>
+      <p n="43">- the genetically modified micro-organism should be as safe in the industrial setting as the recipient or parental micro-organism, or have characteristics that limit survival and gene transfer.</p>
+      <p n="44">(c) other GMMs which could be included in Group I if they are without adverse effects on the environment and meet the conditions in Annex II (i) are those that are constructed entirely from a single prokaryotic recipient (including its indigenous plasmids, transposons and viruses), or from a single eukaryotic recipient (including its chloroplasts, mitochondria, plasmids, but excluding viruses), or consist entirely of genetic sequences from different species that exchange these sequences by known physiological processes.</p>
+      <p n="45">Before deciding if these GMMs are to be included in Group I it should be considered whether they are excluded from the Directive under the provisions of Annex I B (4), taking into account that self-cloning means the removal of nucleic acid from a cell of an organism, followed by reinsertion of all or part of that nucleic acid - with or without further enzymic chemical or mechanical steps - into the same cell type (or cell-line) or into cells of phylogenetically closely related species which can naturally exchange genetic material with the donor species.</p>
+    </body>
+  </text>
+</TEI.2>

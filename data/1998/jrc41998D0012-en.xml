@@ -1,0 +1,56 @@
+<TEI.2 id="jrc41998D0012-en" n="41998D0012" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41998D0012 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 21 April 1998 on the exchange of statistics on issued visas (SCH/Com-ex (98) 12)</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0012:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0012:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3485</classCode>
+        <classCode scheme="eurovoc">4256</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+        <classCode scheme="eurovoc">5796</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41998D0012-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 21 April 1998 on the exchange of statistics on issued visas (SCH/Com-ex (98) 12)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 21 April 1998</p>
+      <p n="4">on the exchange of statistics on issued visas</p>
+      <p n="5">(SCH/Com-ex (98)12)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 9 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Article 16 of the abovementioned Convention,</p>
+      <p n="9">Whereas the exchange of statistics at local level on visas which have been issued and officially refused will enable the various representations to gain an insight into the overall trends in visa applications from countries within their jurisdiction and any possible shifts in applications from one Schengen Partner mission on post to another;</p>
+      <p n="10">Whereas the above overview will enable local consular cooperation to examine the reasons for any trends observed, in particular relating to visa shopping, to draw practical conclusions and, where appropriate, to make the necessary recommendations to their respective national authorities;</p>
+      <p n="11">Having regard to the heavy administrative burden on the diplomatic missions and consular posts as a result of having to exchange monthly statistics on short-stay visas which have been issued and officially refused, requested in note SCH/II (95)50 rev. 2 from Working Group II to the Central Group,</p>
+      <p n="12">Whereas on the other hand, given that LTV's should only be issued in exceptional cases, the monthly exchange at local level of statistics on the issue of such visas should continue on a monthly basis,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">1. Statistics on short-stay visas which have been issued and officially refused, transit visas and airport transit visas shall be exchanged every quarter.</p>
+      <p n="15">2. Without prejudice to the obligations arising from Article 16 of the Schengen Convention and explained in Annex 14 to the Common Consular Instructions, according to which the Schengen States shall communicate any data relating to the issuing of LTV's within a period of 72 hours, the Schengen diplomatic missions and consular posts are hereby earnestly reminded of their obligation (SCH/Com-ex decl. 4) to exchange on a monthly basis statistics on LTV's issued the previous month and to pass on these statistics to their respective central authorities.</p>
+      <p n="16">3. Chapter VIII of the Common Consular Instructions shall be completed accordingly(1).</p>
+      <p n="17">Brussels, 21 April 1998.</p>
+      <p n="18">The Chairman</p>
+      <p n="19">J. Vande Lanotte</p>
+      <p n="20">(1) See document SCH/Com-ex(99)13.</p>
+    </body>
+  </text>
+</TEI.2>

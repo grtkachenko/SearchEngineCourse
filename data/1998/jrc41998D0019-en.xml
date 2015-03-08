@@ -1,0 +1,54 @@
+<TEI.2 id="jrc41998D0019-en" n="41998D0019" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41998D0019 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 23 June 1998 on Monegasque residence permits (SCH/Com-ex (98) 19)</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0019:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0019:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3367</classCode>
+        <classCode scheme="eurovoc">4005</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41998D0019-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 23 June 1998 on Monegasque residence permits (SCH/Com-ex (98) 19)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 23 June 1998</p>
+      <p n="4">on Monegasque residence permits</p>
+      <p n="5">(SCH/Com-ex (98)19)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE:</p>
+      <p n="7">Whereas freedom of movement between France and Monaco was instituted prior to the entry into force of the Convention implementing the Schengen Agreement;</p>
+      <p n="8">Whereas the Contracting Parties to the Convention implementing the Schengen Agreement have not called into question these rules on freedom of movement;</p>
+      <p n="9">Whereas on the basis of the Agreement on Good Neighbourly Relations between France and Monaco of 18 May 1963, as revised and supplemented by an exchange of letters between France and Monaco of 15 December 1997, the French authorities apply the rules and checks laid down in the Convention implementing the Schengen Agreement when carrying out checks on the entry, stay and establishment of foreign nationals in the Principality of Monaco,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">- Monegasque residence permits shall be included in the French section of Annex IV to the Common Consular Instructions(1) set aside for the French authorities,</p>
+      <p n="12">- Monaco-Héliport and Monaco Port de la Condamine shall be added to the authorised external border crossing points in Annex 1 to the Common Manual(2),</p>
+      <p n="13">- Monegasque residence permits shall be included in the section of Annex XI to the Common Manual set aside for the French authorities,</p>
+      <p n="14">- that the issue or renewal of a Monegasque residence permit shall not oblige a Contracting Party to withdraw an alert for the purposes of refusal of entry from the SIS.</p>
+      <p n="15">Ostend, 23 June 1998.</p>
+      <p n="16">The Chairman</p>
+      <p n="17">L. Tobback</p>
+      <p n="18">(1) See document SCH/Com-ex (99)13.</p>
+      <p n="19">(2) Confidential document. See document SCH/Com-ex (98)17.</p>
+    </body>
+  </text>
+</TEI.2>

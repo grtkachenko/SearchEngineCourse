@@ -1,0 +1,67 @@
+<TEI.2 id="jrc21999D0722_18-en" n="21999D0722(18)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 21999D0722(18) English</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21999D0722(18):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21999D0722(18):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">3584</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+        <classCode scheme="eurovoc">5618</classCode>
+        <classCode scheme="eurovoc">811</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc21999D0722_18-en." lang="en">
+    <body>
+      <p n="2">DECISION OF THE EEA JOINT COMMITTEE</p>
+      <p n="3">No 99/98</p>
+      <p n="4">of 25 September 1998</p>
+      <p n="5">amending Protocol 47 to the EEA Agreement, on the abolition of technical barriers to trade in wine</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as adjusted by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas Protocol 47 to the Agreement was amended by Decision of the EEA Joint Committee No 81/98 of 31 July 1998(1),</p>
+      <p n="9">Whereas Council Regulation (EC) No 2087/97 of 20 October 1997 amending Regulation (EEC) No 822/87 on the common organisation of the market in wine(2), Commission Regulation (EC) No 2053/97 of 20 October 1997 amending Regulation (EEC) No 3220/90 laying down conditions for the use of certain oenological pratices provided for in Council Regulation (EEC) No 822/87(3), and Commission Regulation (EC) No 2543/97 of 15 December 1997 amending Regulation (EEC) No 3201/90 laying down detailed rules for the description and presentation of wines and grape musts(4) are to be incorporated into the Agreement,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Appendix 1 to Protocol 47 to the Agreement shall be amended as specifified in the Annex to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The texts of Regulation (EC) No 2087/97 and Regulations (EC) No 2053/97 and (EC) No 2543/97 in the Icelandic an Norwegian languages, which are annexed to the respective language versions of this Decision, are authentic.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Decision shall enter into force on 26 September 1998, provided that all the notifications under Article 103(1) of the Agreement have been made to the EEA Joint Committee.</p>
+      <p n="17">Article 4</p>
+      <p n="18">This Decision shall be published in the EEA section of, and in the EEA Supplement to, the Official Journal of the European Communities.</p>
+      <p n="19">Done at Brussels, 25 September 1998.</p>
+      <p n="20">For the EEA Joint Committee</p>
+      <p n="21">The President</p>
+      <p n="22">N. v. LIECHTENSTEIN</p>
+      <p n="23">(1) OJ L 172, 8.7.1999, p. 60.</p>
+      <p n="24">(2) OJ L 292, 25.10.1997, p. 1.</p>
+      <p n="25">(3) OJ L 287, 21.10.1997, p. 15.</p>
+      <p n="26">(4) OJ L 347, 18.12.1997, p. 24.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">to Decision No 99/98 of the EEA Joint Committee</p>
+      <p n="29">Appendix 1 to Protocol 47 on the abolition of technical barriers to trade in wine to the EEA Agreement shall be amended as specified below:</p>
+      <p n="30">1. The following indent shall be added in point 15 (Council Regulation (EEC) No 822/87): "- 397 R 2087: Council Regulation (EC) No 2087/97 of 20 October 1997 (OJ L 292, 25.10.1997, p. 1)."</p>
+      <p n="31">2. The following indent shall be added in point 26 (Commission Regulation (EEC) No 3201/90): "- 397 R 2543: Commission Regulation (EC) No 2543/97 of 15 December 1997 (OJ L 347, 18.12.1997, p. 24)."</p>
+      <p n="32">3. The following shall be added in point 27 (Commission Regulation (EEC) No 3220/90): "as amended by:</p>
+      <p n="33">- 397 R 2053: Commission Regulation (EC) No 2053/97 of 20 October 1997 (OJ L 287, 21.10.1997, p. 15)."</p>
+    </body>
+  </text>
+</TEI.2>

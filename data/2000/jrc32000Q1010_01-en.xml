@@ -1,0 +1,41 @@
+<TEI.2 id="jrc32000Q1010_01-en" n="32000Q1010(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000Q1010(01) English</title>
+      </titleStmt>
+      <extent>16 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000Q1010(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000Q1010(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc32000Q1010_01-en." lang="en">
+    <body>
+      <p n="2">Agreement between the European Parliament and the Commission</p>
+      <p n="3">on procedures for implementing Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission</p>
+      <p n="4">1. Pursuant to Article 7(3) of Decision 1999/468/EC(1), the European Parliament is to be informed by the Commission on a regular basis of the proceedings of the committees involved in committee procedures. To that end, it is to receive, at the same time as the members of the committees and on the same terms, the draft agendas for committee meetings, the draft implementing measures submitted to the committees under basic instruments adopted by the procedure provided for by Article 251 of the EC Treaty, and the results of voting and summary records of the meetings and lists of the authorities to which the persons designated by the Member States to represent them belong.</p>
+      <p n="5">2. Furthermore, the Commission agrees to forward to the European Parliament, for information, at the request of the parliamentary committee responsible, specific draft measures for implementing basic instruments which, although not adopted under the codecision procedure, are of particular importance to the European Parliament. Pursuant to the judgment of the Court of First Instance of the European Communities of 19 July 1999 (Case T-188/97, Rothmans v Commission)(2), the European Parliament may request access to minutes of committee meetings.</p>
+      <p n="6">3. The European Parliament and the Commission consider the following agreements superseded and thus of no effect in so far as they themselves are concerned: the 1988 Plumb/Delors agreement, the 1996 Samland/Williamson agreement and the 1994 modus vivendi(3).</p>
+      <p n="7">4. Once the appropriate technical arrangements have been made, the documents referred to in Article 7(3) of Decision 1999/468/EC will be forwarded electronically. Confidential documents will be processed in accordance with internal administrative procedures drawn up by each institution with a view to providing all the requisite guarantees.</p>
+      <p n="8">5. Pursuant to Article 8 of Decision 1999/468/EC, the European Parliament may indicate, in a resolution setting out the grounds on which it is based, that draft measures for implementing a basic instrument adopted by the procedure provided for by Article 251 of the Treaty exceed the implementing powers provided for in that basic instrument.</p>
+      <p n="9">6. The European Parliament is to adopt such resolutions in plenary; it is to have a period of one month in which to do so, beginning on the date of receipt of the final draft of the implementing measures in the language versions submitted to the Commission.</p>
+      <p n="10">7. In urgent cases, and in the case of measures relating to day-to-day administrative matters and/or having a limited period of validity, the time limit will be shorter. That time limit may be very short in extremely urgent cases, and in particular on public health grounds. The Member of the Commission responsible is to set the appropriate time limit and to state the reason for that time limit. The European Parliament may then use a procedure whereby application of Article 8 of Decision 1999/468/EC, within the relevant time limit, may be delegated to the parliamentary committee responsible.</p>
+      <p n="11">8. Following adoption by the European Parliament of a resolution setting out the grounds on which it is based, the Member of the Commission responsible is to inform the European Parliament or, where appropriate, the parliamentary committee responsible, of the action the Commission intends to take thereon.</p>
+      <p n="12">9. The European Parliament supports the aim and the procedures set out in Declaration No 2 of the Council and the Commission(4). That Declaration is aimed at simplifying Community implementing arrangements by bringing the committee procedures currently in force into line with those contained in Decision 1999/468/EC.</p>
+      <p n="13">(1) OJ L 184, 17.7.1999, p. 23.</p>
+      <p n="14">(2) (1999)ECR II-2463.</p>
+      <p n="15">(3) OJ C 102, 4.4.1996, p. 1.</p>
+      <p n="16">(4) OJ C 203, 17.7.1999, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

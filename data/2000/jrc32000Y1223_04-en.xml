@@ -1,0 +1,44 @@
+<TEI.2 id="jrc32000Y1223_04-en" n="32000Y1223(04)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000Y1223(04) English</title>
+      </titleStmt>
+      <extent>10 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000Y1223(04):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000Y1223(04):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1504</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">2286</classCode>
+        <classCode scheme="eurovoc">5541</classCode>
+        <classCode scheme="eurovoc">889</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000Y1223_04-en." lang="en">
+    <body>
+      <p n="2">Commission communication</p>
+      <p n="3">concerning the guidelines on State aid for employment</p>
+      <p n="4">(2000/C 371/05)</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">The Commission will continue to assess employment aid schemes against the criteria set out in the existing guidelines(1), which will therefore remain in force, until the entry into force of revised guidelines on aid for employment or of an exemption regulation on aid for employment under Council Regulation (EC) No 994/98 of 7 May 1998(2) on the application of Articles 92 and 93 (now 87 and 88) of the Treaty to certain categories of horizontal State aid.</p>
+      <p n="7">The report foreseen in paragraph 30 of the existing guidelines, including an invitation to comment on any issues raised in it, is available on the Internet at:</p>
+      <p n="8">http://europa.eu.int/comm/competition/</p>
+      <p n="9">(1) OJ C 334, 12.12.1995.</p>
+      <p n="10">(2) OJ L 142, 14.5.1998.</p>
+    </body>
+  </text>
+</TEI.2>

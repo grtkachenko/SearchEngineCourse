@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31996R1075-en" n="31996R1075" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R1075 English</title>
+        <title>Council Regulation (EC) No 1075/96 of 10 June 1996 amending Regulation (EC) No 1626/94 laying down certain technical measures for the conservation of fishery resources in the Mediterranean</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1075:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1075:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">133</classCode>
+        <classCode scheme="eurovoc">1879</classCode>
+        <classCode scheme="eurovoc">3544</classCode>
+        <classCode scheme="eurovoc">4829</classCode>
+        <classCode scheme="eurovoc">5228</classCode>
+        <classCode scheme="eurovoc">997</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R1075-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1075/96 of 10 June 1996 amending Regulation (EC) No 1626/94 laying down certain technical measures for the conservation of fishery resources in the Mediterranean</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1075/96 of 10 June 1996 amending Regulation (EC) No 1626/94 laying down certain technical measures for the conservation of fishery resources in the Mediterranean</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas the General Fisheries Council for the Mediterranean (GFCM) adopted at its 21st ordinary session held in Alicante, Spain, from 22 to 26 May 1995 a recommendation concerning the management of bluefin tuna in the Mediterranean; whereas the recommendation introduces for certain fishing vessels a prohibition on the taking of this species during the period from 1 June to 31 July each year;</p>
+      <p n="9">Whereas, under Article V (2), (3) and (4) of the Agreement establishing the GFCM, members of the organizations undertake to apply recommendations adopted by the GFCM from the end of the period set for the presentation of objections;</p>
+      <p n="10">Whereas Regulation (EC) No 1626/94 of 27 June 1994 (4) should consequently be amended in order to introduce the provisions contained in the recommendation,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Regulation (EC) No 1626/94 is hereby amended as follows:</p>
+      <p n="14">1. The following Article shall be inserted:</p>
+      <p n="15">'Article 5a</p>
+      <p n="16">1. It shall be prohibited to fish for bluefin tuna using surface-set longlines from vessels greater than 24 m in length during the period from 1 June to 31 July each year.</p>
+      <p n="17">2. For the purposes of this Article, the applicable length shall be that defined by ICCAT, given in Annex V.`</p>
+      <p n="18">2. The following Annex shall be added:</p>
+      <p n="19">'ANNEX V</p>
+      <p n="20">ICCAT definition of length of vessels:</p>
+      <p n="21">- For any fishing vessel built after 18 July 1982, 96 % of the total length on a waterline at 85 % of the least moulded depth measured from the top of the keel, or the length from the foreside of the stem to the axis of the rudder stock on that waterline, if that be greater. In ships designed with a rake of keel, the waterline on which this length is measured shall be parallel to the designed waterline;</p>
+      <p n="22">- For any fishing vessel built before 18 July 1982, registered length as entered on the national registers or other record of vessels.`</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Luxembourg, 10 June 1996.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">M. PINTO</p>
+      <p n="30">(1) OJ No C 41, 13. 2. 1996, p. 17.</p>
+      <p n="31">(2) Opinion delivered on 24 May 1996 (not yet published in the Official Journal).</p>
+      <p n="32">(3) OJ No C 174, 17. 6. 1996.</p>
+      <p n="33">(4) OJ No L 171, 6. 7. 1994, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31995D0399-en" n="31995D0399" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0399 English</title>
+        <title>95/399/EC: Council Decision of 18 September 1995 on the accession of the Community to the Agreement for the establishment of the Indian Ocean Tuna Commission</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0399:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0399:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1160</classCode>
+        <classCode scheme="eurovoc">201</classCode>
+        <classCode scheme="eurovoc">2111</classCode>
+        <classCode scheme="eurovoc">2437</classCode>
+        <classCode scheme="eurovoc">3461</classCode>
+        <classCode scheme="eurovoc">3544</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0399-en." lang="en">
+    <body>
+      <head n="1">95/399/EC: Council Decision of 18 September 1995 on the accession of the Community to the Agreement for the establishment of the Indian Ocean Tuna Commission</head>
+      <p n="2">COUNCIL DECISION of 18 September 1995 on the accession of the Community to the Agreement for the establishment of the Indian Ocean Tuna Commission (95/399/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 in conjunction with Article 228 (2), first sentence and (3), first subparagraph, thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Whereas the Community signed the United Nations Convention on the Law of the Sea which requires all members of the international community to cooperate in conserving and managing the sea's biological resources;</p>
+      <p n="8">Whereas, in the case of sea fishing, the Community has responsibility for adopting measures to conserve and manage fishery resources and to enter into contractual arrangements in this regard with third countries and international organizations;</p>
+      <p n="9">Whereas the Community participated to this end in the international negotiations which culminated in the approval of an Agreement by the Food and Agriculture Organization of the United Nations to set up the Indian Ocean Tuna Commission;</p>
+      <p n="10">Whereas this Agreement constitutes a useful framework for strengthening international cooperation for the purpose of conserving and making rational use of Indian Ocean tuna and related species;</p>
+      <p n="11">Whereas Community fishermen are engaged in fishing for these species in the Indian Ocean; whereas it is in the Community's interest to accede to the said Agreement,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Agreement for the establishment of the Indian Ocean Tuna Commission is hereby approved on behalf of the Community.</p>
+      <p n="15">The text of the Agreement is attached to this Decision.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The President of the Council shall, on behalf of the Community, deposit the instrument of acceptance in accordance with Article XVII (1) of the Agreement.</p>
+      <p n="18">Done at Brussels, 18 September 1995.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">P. SOLBES MIRA</p>
+      <p n="22">(1) OJ No C 109, 1. 5. 1995, p. 277.</p>
+    </body>
+  </text>
+</TEI.2>

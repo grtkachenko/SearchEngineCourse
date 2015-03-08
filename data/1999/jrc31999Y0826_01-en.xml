@@ -1,0 +1,44 @@
+<TEI.2 id="jrc31999Y0826_01-en" n="31999Y0826(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999Y0826(01) English</title>
+      </titleStmt>
+      <extent>11 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999Y0826(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999Y0826(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4390</classCode>
+        <classCode scheme="eurovoc">4395</classCode>
+        <classCode scheme="eurovoc">4608</classCode>
+        <classCode scheme="eurovoc">665</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999Y0826_01-en." lang="en">
+    <body>
+      <p n="2">Commission notice on technical adaptations to the method for setting the reference and discount rates</p>
+      <p n="3">(1999/C 241/09)</p>
+      <p n="4">(Text with EEA relevance)</p>
+      <p n="5">On 2 July 1997 the Commission decided to adopt, with effect from 1 August 1997, a new method for setting and updating the reference and discount rates. Member States were informed by letter (dated 18 August 1997) and a notice was published in the Official Journal of the European Communities (C 273 of 9 September 1997).</p>
+      <p n="6">This method sets the reference rate for each Member State on the basis of indicative rates defined as the monthly average of the five-year interbank swap rates, plus an adjustment premium.</p>
+      <p n="7">Following entry into the third stage of economic and monetary union on 1 January 1999 and in view of the use of the euro by the financial markets, the Commission has decided to make the following technical adaptations:</p>
+      <p n="8">1. From 1 August 1999 the reference rate will be identical for the eleven Member States which have adopted the euro;</p>
+      <p n="9">2. For those countries, the indicative rate will be defined as the average of the five-year interbank swap rates, plus a premium of 75 basis points.</p>
+      <p n="10">All the other aspects of the method outlined in the Commission notice of 9 September 1997 continue to apply.</p>
+      <p n="11">For Member States which have not adopted the euro, the method for setting the reference rates is unchanged.</p>
+    </body>
+  </text>
+</TEI.2>

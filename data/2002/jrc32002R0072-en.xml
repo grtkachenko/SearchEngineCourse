@@ -1,0 +1,206 @@
+<TEI.2 id="jrc32002R0072-en" n="32002R0072" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0072 English</title>
+        <title>Commission Regulation (EC) No 72/2002 of 16 January 2002 implementing Council Regulation (EC) No 530/1999 as regards quality evaluation of structural statistics on earnings (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>169 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0072:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0072:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2198</classCode>
+        <classCode scheme="eurovoc">279</classCode>
+        <classCode scheme="eurovoc">2891</classCode>
+        <classCode scheme="eurovoc">3843</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">6030</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0072-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 72/2002 of 16 January 2002 implementing Council Regulation (EC) No 530/1999 as regards quality evaluation of structural statistics on earnings (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 72/2002</p>
+      <p n="3">of 16 January 2002</p>
+      <p n="4">implementing Council Regulation (EC) No 530/1999 as regards quality evaluation of structural statistics on earnings</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC) No 530/1999 of 9 March 1999 concerning structural statistics on earnings and labour costs(1), and in particular Article 11 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Implementing measures for Regulation (EC) No 530/1999 are necessary concerning the content and evaluation criteria of the report on quality to be forwarded to the European Commission (Eurostat) after each reference period.</p>
+      <p n="11">(2) The information delivered in that report should refer to the variables defined in Commission Regulation (EC) No 1916/2000 of 8 September 2000 on implementing Council Regulation (EC) No 530/1999 concerning structural statistics on earnings and on labour costs as regards the definition and transmission of information on the structure of earnings(2).</p>
+      <p n="12">(3) The feasibility and the relevance of some optional items provided for the first quality report should be reviewed by Eurostat and the national statistics institutes in the light of the information delivered by the Member States.</p>
+      <p n="13">(4) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">1. The content and evaluation criteria of the report on quality referred to in Article 10(2) of Regulation (EC) No 530/1999 are laid down in the Annex to the present Regulation, Parts A and B.</p>
+      <p n="17">The variables specified are those defined in Annex II to Regulation (EC) No 1916/2000.</p>
+      <p n="18">2. The information and the optional characteristics or breakdowns, laid down in the Annex, are requested, in so far as that is made possible by the derogations in Community legislation concerning structural statistics on labour costs and earnings, the labour force survey, the structural business statistics and national accounts.</p>
+      <p n="19">Article 2</p>
+      <p n="20">The first quality report shall be delivered for the reference year 2002 structure of earnings survey.</p>
+      <p n="21">It shall be transmitted to Eurostat together with the data delivery and at the latest 24 months after the end of the reference period for which the data was collected.</p>
+      <p n="22">Article 3</p>
+      <p n="23">The feasibility and relevance of the optional items laid down in the Annex, Part B, shall be reviewed in the light of the information actually delivered by the Member States.</p>
+      <p n="24">This review shall be carried out by Eurostat and the national statistics institutes.</p>
+      <p n="25">Article 4</p>
+      <p n="26">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="27">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="28">Done at Brussels, 16 January 2002.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">Pedro Solbes Mira</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ L 63, 12.3.1999, p. 6.</p>
+      <p n="33">(2) OJ L 229, 9.9.2000, p. 3.</p>
+      <p n="34">ANNEX</p>
+      <p n="35">CONTENT AND EVALUATION CRITERIA OF THE REPORT ON QUALITY FOR STRUCTURAL STATISTICS ON EARNINGS</p>
+      <p n="36">PART A</p>
+      <p n="37">Structure of earnings survey: grossed up results: tabular analyses</p>
+      <p n="38">Frequency distributions and the associated arithmetic means and medians(1) should be provided for at least:</p>
+      <p n="39">(a) The number of full-time employees, and</p>
+      <p n="40">(b) the number of part-time employees,</p>
+      <p n="41">broken down for each of the following variables:</p>
+      <p n="42">- band of hourly gross earnings and by sex,</p>
+      <p n="43">- band of monthly gross earnings and by sex,</p>
+      <p n="44">- band of annual gross earnings and by sex;</p>
+      <p n="45">- band of annual holidays (&lt; 10, 10-19, 20-24, 25-29, 30-34, &gt;= 35 days) and by sex,</p>
+      <p n="46">- band of monthly hours paid or worked (&lt; 130, 130-139, 140-149, 150-159, 160-169, 170-179, &gt;= 180 hours) and by sex,</p>
+      <p n="47">- NACE Rev.1 section and by NUTS level 1,</p>
+      <p n="48">- NACE Rev.1 section and by sex,</p>
+      <p n="49">- occupation (ISCO-88 at the 1-digit level) and by sex,</p>
+      <p n="50">- education (ISCED 0 to 6) and by sex,</p>
+      <p n="51">- age band (15-24, 25-54, 55-64, &gt;= 65 years old) and by sex,</p>
+      <p n="52">- length of service (&lt; 10 years, 10-19, 20-29, 30-39, &gt;= 40 years) and by sex,</p>
+      <p n="53">- size of enterprise in terms of the number of employees(2).</p>
+      <p n="54">For example, for hourly gross earnings and by sex:</p>
+      <p n="55">(a) number of full-time employees</p>
+      <p n="56">&gt;TABLE&gt;</p>
+      <p n="57">PART B</p>
+      <p n="58">1. Relevance (optional item)</p>
+      <p n="59">A summary including users' description, a description of users' needs (by main groups of users), and an assessment of the satisfaction of users' needs.</p>
+      <p n="60">2. Accuracy</p>
+      <p n="61">2.1. Sampling errors</p>
+      <p n="62">2.1.1. Probability sampling</p>
+      <p n="63">2.1.1.1. Bias (optional item)</p>
+      <p n="64">Estimation of the biases due to the estimation method, if any.</p>
+      <p n="65">2.1.1.2. Variance</p>
+      <p n="66">- Coefficients of variation(3) concerning total gross earnings, giving separate data for at least monthly earnings (data for hourly and annual earnings are optional), for:</p>
+      <p n="67">(a) full-time employees, and</p>
+      <p n="68">(b) part-time employees,</p>
+      <p n="69">broken down by:</p>
+      <p n="70">- NACE Rev.1 section and by sex,</p>
+      <p n="71">- occupation (ISCO-88 at the 1-digit level) and by sex,</p>
+      <p n="72">- age band (15-24, 25-54, 55-64, &gt;= 65 years old) and by sex,</p>
+      <p n="73">- NACE Rev.1 section and by NUTS level 1 (optional item),</p>
+      <p n="74">- education (ISCED 0 to 6) and by sex (optional item).</p>
+      <p n="75">- Coefficients of variation, giving data for monthly hours, for:</p>
+      <p n="76">full-time employees, broken down by:</p>
+      <p n="77">- NACE Rev.1 section and by sex,</p>
+      <p n="78">- occupation (ISCO-88 at the 1-digit level) and by sex,</p>
+      <p n="79">- age band (15-24, 25-54, 55-64, &gt;= 65 years old) and by sex,</p>
+      <p n="80">- NACE Rev.1 section and by NUTS level 1 (optional item),</p>
+      <p n="81">- education (ISCED 0 to 6) and by sex (optional item).</p>
+      <p n="82">2.1.2. Non-probability sampling</p>
+      <p n="83">If non-probability sampling is used, a description of the possible sources of a lack of precision should be provided.</p>
+      <p n="84">2.2. Non-sampling errors</p>
+      <p n="85">2.2.1. Coverage errors</p>
+      <p n="86">- Description of the main misclassification, under and over coverage problems(4) encountered in collecting the data.</p>
+      <p n="87">- Description of the methods used to process these errors.</p>
+      <p n="88">- Rates of misclassification, under- and over-coverage (optional item).</p>
+      <p n="89">Note:</p>
+      <p n="90">Where individual administrative data are used, a similar analysis has to be reported based on the administrative reference file.</p>
+      <p n="91">2.2.2. Measurement errors</p>
+      <p n="92">- Description of the methods used to assess measurement errors(5).</p>
+      <p n="93">- Assessment of the bias and a description of the estimators used to correct the bias for a main variable, for instance, monthly earnings.</p>
+      <p n="94">2.2.3. Processing errors (optional items)</p>
+      <p n="95">Processing errors are errors in post-data-collection processes such as data entry, coding, keying, editing, weighting and tabulating.</p>
+      <p n="96">- The error rates of data entry or coding for the main variables, for instance:</p>
+      <p n="97">- total gross earnings for the reference year,</p>
+      <p n="98">- total gross earnings for the representative month,</p>
+      <p n="99">- number of hours paid or worked in the representative month.</p>
+      <p n="100">- Methodological notes on the estimation of these rates(6).</p>
+      <p n="101">- Assessment of the bias and variance due to processing errors.</p>
+      <p n="102">2.2.4. Non-response errors</p>
+      <p n="103">- Unit response rate(7).</p>
+      <p n="104">- Item response rates for the main variables (for instance, monthly and annual earnings and hours worked). The rate is the ratio of the number of item responses to the number of in-scope respondents.</p>
+      <p n="105">- A description of the methods used for imputation and/or re-weighting for non-response.</p>
+      <p n="106">Note:</p>
+      <p n="107">Where individual administrative data are used, non-availability of the administrative record or item of data replaces non-response.</p>
+      <p n="108">- A description of the reasons for non-response and an assessment of non-response biases for one of the major questions in the questionnaire, for example, concerning monthly or annual earnings, or for hours worked.</p>
+      <p n="109">2.2.5. Model assumption errors</p>
+      <p n="110">Report(8) on the use of the following models:</p>
+      <p n="111">- to ensure that a representative month is selected,</p>
+      <p n="112">- to adjust the accounting or fiscal year to the calendar year,</p>
+      <p n="113">- to ensure that NACE Rev.1 Sections C to K are fully covered for all enterprises (as a minimum, for enterprises with 10 or more employees),</p>
+      <p n="114">- to combine data from administrative sources and surveys.</p>
+      <p n="115">Note:</p>
+      <p n="116">Where individual administrative data are used, there should be comments on the correspondence between the administrative concepts and the theoretical statistical concepts.</p>
+      <p n="117">3. Timeliness and punctuality</p>
+      <p n="118">- Key data-collection dates: e.g. the deadline imposed on respondents in the Member State, when the questionnaires and recalls and follow-ups were sent out and when the field work took place.</p>
+      <p n="119">- Key dates for the post-collection phase: e.g. starting and finishing dates for completeness, coding and plausibility checks, date of the quality check (congruency of results) and non-disclosure measures.</p>
+      <p n="120">- Key publication dates: e.g. when the advance and detailed results were calculated and disseminated.</p>
+      <p n="121">Note:</p>
+      <p n="122">Punctuality of data transmission to Eurostat will be evaluated according to the regulation specifying periodicity and delays for data transmission.</p>
+      <p n="123">4. Accessibility and clarity</p>
+      <p n="124">- A copy of the publication(s), or a reference to where it can be located.</p>
+      <p n="125">- Information on what results, if any, are sent to reporting units included in the sample.</p>
+      <p n="126">- Information on the dissemination scheme for the results (e.g. to whom the results are sent).</p>
+      <p n="127">- A copy of, or references for, any methodological documents relating to the statistics provided.</p>
+      <p n="128">5. Comparability</p>
+      <p n="129">5.1. Geographical comparability</p>
+      <p n="130">A comparison between national concepts and European concepts has to be reported if there are differences especially on the definition of statistical units, the reference population, classifications and definitions of variables in the transferred results. The differences should be quantified.</p>
+      <p n="131">Note:</p>
+      <p n="132">When classifications and units come from the register, the quality of this information should come from the report on the quality of the register.</p>
+      <p n="133">5.2. Comparability over time</p>
+      <p n="134">Details of changes in definitions, coverage or methods compared with the previous structure of earnings survey and an evaluation of the consequences of non-negligible changes.</p>
+      <p n="135">6. Coherence</p>
+      <p n="136">Note:</p>
+      <p n="137">This item has two objectives. The first aim is to inform the users about the conceptual differences that exists between several sources for variables that are very similar and which usually have the same name in statistical publications, and to provide them with information on how to move from one concept to the other. The second objective is to check that statistics, which are in principle coherent conceptually, give comparable results for the same year and reference population. With these aims, statistics on the structure of earnings should be compared with other statistics sent to Eurostat taking into account, for example, that the structure of earnings survey (SES) is based on local units belonging to enterprises with 10 or more employees.</p>
+      <p n="138">6.1. Coherence with the structure employees in the labour force survey for the same reference period</p>
+      <p n="139">The structure of the SES should be compared with the structure of the labour force survey (LFS) as both surveys have several variables in common. In particular, cross-analyses of the distribution of employees in the SES and LFS should be expressed in percentages and made separately for full-time and part-time employees. The cross-tabulations should use the following variables:</p>
+      <p n="140">- sex, age and economic activity (NACE Rev.1, at the section level),</p>
+      <p n="141">- sex, age and educational level (ISCED 0 to 6),</p>
+      <p n="142">- sex, age and occupation (ISCO-88 at the 1-digit level).</p>
+      <p n="143">The following bands should be used for age (15-24, 25-54, 55-64, 65 or more years old).</p>
+      <p n="144">6.2. Coherence with absolute figures from the labour force survey data for the same reference period (optional item for the 2002 structural earnings survey)</p>
+      <p n="145">The following table summarises what is common to both sources.</p>
+      <p n="146">&gt;TABLE&gt;</p>
+      <p n="147">The variable "number of employees" (separately distinguishing full-time and part-time employees and by sex) and the variable "number of hours worked" should each be broken down by occupation, by region and by NACE activity (it is recognised that NACE Sections M-O are optional for the 2002 SES). Cross-tabulations between occupation, region and economic activity are not required.</p>
+      <p n="148">6.3. Coherence with structural business statistics for the same year: regional data (optional item for the 2002 structural earnings survey)</p>
+      <p n="149">The structural business statistics regulation(9) covers all market activities in Sections C to K of NACE Rev.1, except Section J. The following table summarises what is common to both sources.</p>
+      <p n="150">&gt;TABLE&gt;</p>
+      <p n="151">The variables "number of local units" and "total gross annual earnings/wages and salaries" should each be broken down by NACE activity and by region. Explanations of the main differences for these variables should take account of the differences in concepts, definitions, accuracy and coverage for each source. Cross-tabulations should be attempted by NACE activity and by region.</p>
+      <p n="152">6.4. Coherence with structural business statistics for the same year: national data by size class of enterprise (optional item for the 2002 structural earnings survey)</p>
+      <p n="153">&gt;TABLE&gt;</p>
+      <p n="154">The variables "number of enterprises", "number of employees" and "total gross annual earnings/wages and salaries" should each be simultaneously broken down by NACE activity and by size of enterprise. Explanations of the main differences for these variables should take account of the differences in concepts, definitions, accuracy and coverage for each source. For example, for the SBS, the number of enterprises (11 11 0), the number of employees (variable 16 13 0), and wages and salaries (variable 13 32 0) are not available for all NACE Sections C to K.</p>
+      <p n="155">6.5. Coherence with national accounts for the same year: national data (optional item for the 2002 structural earnings survey)</p>
+      <p n="156">The following table summarises what is common to both sources.</p>
+      <p n="157">&gt;TABLE&gt;</p>
+      <p n="158">The variables "number of employees" and "total gross annual earnings/wages and salaries" should each be broken down by NACE activity. Explanations of the main differences in the variables between the two sources should take into account differences in concepts and coverage and, if available, the accuracy of each statistic. For the 2002 SES, NACE Rev.1 Sections M to O are optional.</p>
+      <p n="159">7. Completeness</p>
+      <p n="160">A list of variables and/or breakdowns required in the Regulation that are not available and the improvements envisaged in order to rectify these deficiencies.</p>
+      <p n="161">(1) For each specified distribution, the following should be provided: the total number of employees, the relative frequencies (%) for each band, the overall mean and the median value. (Arithmetic means and medians are not relevant for the variables NACE Rev.1, NUTS 1, occupation or educational level.)</p>
+      <p n="162">(2) Six bands in terms of the total numbers of employees: 1-9, 10-49, 50-249, 250-499, 500-999, 1000 and over. The first of these six bands is optional for the 2002 structural earnings.</p>
+      <p n="163">(3) The "coefficient of variation" is the ratio of the square root of the variance of the estimator to the expected value. It is estimated by the ratio of the square root of the estimate of the sampling variance to the estimated value. Both numerator and denominator should be provided, together with the resulting coefficient of variation. The estimation of the sampling variance must take into account the sampling design.</p>
+      <p n="164">(4) "Misclassification" refers to incorrect classification of units that belong to the target population. "Under-coverage" refers to (new) units not included in the frame, either through real birth or demergers, and to wrongly classified units. The black economy is not concerned here. "Over-coverage" relates either to wrongly classified units that are in fact out of scope (e.g. actual local unit activity not in C-K NACE Rev.1) or to units that do not exist in practice.</p>
+      <p n="165">(5) Measurement errors are errors that occur at the time of data collection. There are a number of sources of measurement errors, including the survey instrument (the form or questionnaire), the respondent, the information system, the mode of data collection and the interviewer.</p>
+      <p n="166">(6) The measures of the error rates can be achieved through standard techniques of quality control, for instance by verifying the quality of a subsample of the processed questionnaires (to check the level of errors either during the keying phase or during the processing of edits by National Statistics Institutes (NSI) staff).</p>
+      <p n="167">(7) The rate is the ratio of the number of in-scope respondents to the number of questionnaires sent to the population selected.</p>
+      <p n="168">(8) Comments, for example, should cover: the selection procedure of these models (i.e. why a given model has been chosen in preference to alternative ones); if relevant, the associated estimation error of the corresponding estimates; elements on the verification of the assumptions underlying the model; the test of the predictive power of the model by using historical data; the comparison of the results generated by the model with other related sources of date; the use of screening and cross-validation studies; the tests of sensitivity of the model to parameters' estimation; and the validation of the data inputs to the model.</p>
+      <p n="169">(9) OJ L 14, 17.1.1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

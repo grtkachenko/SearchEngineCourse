@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31995R0879-en" n="31995R0879" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R0879 English</title>
+        <title>Commission Regulation (EC) No 879/95 of 21 April 1995 amending Commission Regulation (EEC) No 3447/90 on special conditions for the granting of private storage aid for sheepmeat and goatmeat</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0879:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0879:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">3170</classCode>
+        <classCode scheme="eurovoc">4057</classCode>
+        <classCode scheme="eurovoc">4288</classCode>
+        <classCode scheme="eurovoc">4683</classCode>
+        <classCode scheme="eurovoc">4691</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R0879-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 879/95 of 21 April 1995 amending Commission Regulation (EEC) No 3447/90 on special conditions for the granting of private storage aid for sheepmeat and goatmeat</head>
+      <p n="2">COMMISSION REGULATION (EC) No 879/95 of 21 April 1995 amending Commission Regulation (EEC) No 3447/90 on special conditions for the granting of private storage aid for sheepmeat and goatmeat</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 3013/89 of 25 September 1989 on the common organization of the market in sheepmeat and goatmeat (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 7 (5) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 3447/90 of 28 November 1990 on special conditions for the granting of private storage aid for sheepmeat and goatmeat (2), as last amended by Regulation (EEC) No 1258/91 (3), provides that applications in the context of private storage aid be submitted to the intervention agencies in each Member State; whereas as a result of the accession of Austria, Finland and Sweden the intervention agencies of these new Member States should be included in the Annex to this Regulation and the opportunity should be taken to correct the addresses of other intervention agencies;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Sheep and Goats,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Annex to Regulation (EEC) No 3447/90 is hereby replaced by the Annex to this Regulation.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="14">Done at Brussels, 21 April 1995.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Franz FISCHLER</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ No L 289, 7. 10. 1989, p. 1.</p>
+      <p n="19">(2) OJ No L 333, 30. 11. 1990, p. 46.</p>
+      <p n="20">(3) OJ No L 120, 15. 5. 1991, p. 15.</p>
+      <p n="21">ANEXO - BILAG - ANHANG - ÐÁÑÁÑÔÇÌÁ - ANNEX - ANNEXE - ALLEGATO - BIJLAGE - ANEXO - LIITE - BILAGA</p>
+      <p n="22">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

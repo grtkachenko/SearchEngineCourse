@@ -1,0 +1,49 @@
+<TEI.2 id="jrc31994L0072-en" n="31994L0072" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994L0072 English</title>
+        <title>Council Directive 94/72/EC of 19 December 1994 amending Directive 91/439/EEC on driving licences</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994L0072:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994L0072:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994L0072-en." lang="en">
+    <body>
+      <head n="1">Council Directive 94/72/EC of 19 December 1994 amending Directive 91/439/EEC on driving licences</head>
+      <p n="2">COUNCIL DIRECTIVE 94/72/EC of 19 December 1994 amending Directive 91/439/EEC on driving licences</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the Act concerning the conditions of accession of the Kingdom of Norway, the Repubic of Austria, the Republic of Finland, the Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded (1), hereafter referred to as the '1994 Act of Accession', and in particular Article 169 thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas driving licences in Finland and Sweden consist of plastified cards; whereas, pending consideration of another Community model driving licence, the Republic of Finland and the Kingdom of Sweden should also be authorized to continue issuing driving licences based on their present model until 31 December 1997; whereas Directive 91/439/EEC (2) should be amended in consequence;</p>
+      <p n="8">Whereas by virtue of Article 2 (3) of the 1994 Treaty of Accession, the institutions of the European Community may adopt, before accession, the measures referred to in Article 169 of the Act of Accession, such measures entering into force subject to, and as from the date of entry into force of, the said Treaty,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">In Article 1 (1) of Directive 91/439/EEC, the following phrase shall be added:</p>
+      <p n="12">'However, the Republic of Finland and the Kingdom of Sweden may continue to issue driving licences based on their present model until 31 December 1997.'</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Directive shall enter into force subject to, and as from the date of, the entry into force of the 1994 Treaty of Accession.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Directive is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 19 December 1994.</p>
+      <p n="18">For the Council</p>
+      <p n="19">The President</p>
+      <p n="20">K. KINKEL</p>
+      <p n="21">(1) OJ No C 241, 29. 8. 1994, p. 21.</p>
+      <p n="22">(2) OJ No L 237, 24. 8. 1991, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

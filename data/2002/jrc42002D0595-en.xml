@@ -1,0 +1,55 @@
+<TEI.2 id="jrc42002D0595-en" n="42002D0595" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 42002D0595 English</title>
+        <title>2002/595/EC: Decision of the Representatives of the Governments of the Member States, meeting within the Council, of 19 July 2002 on the consequences of the expiry of the European Coal and Steel Community (ECSC) Treaty on international agreements concluded by the ECSC</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:42002D0595:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:42002D0595:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3461</classCode>
+        <classCode scheme="eurovoc">4480</classCode>
+        <classCode scheme="eurovoc">5343</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc42002D0595-en." lang="en">
+    <body>
+      <head n="1">2002/595/EC: Decision of the Representatives of the Governments of the Member States, meeting within the Council, of 19 July 2002 on the consequences of the expiry of the European Coal and Steel Community (ECSC) Treaty on international agreements concluded by the ECSC</head>
+      <p n="2">Decision of the Representatives of the Governments of the Member States, meeting within the Council</p>
+      <p n="3">of 19 July 2002</p>
+      <p n="4">on the consequences of the expiry of the European Coal and Steel Community (ECSC) Treaty on international agreements concluded by the ECSC</p>
+      <p n="5">(2002/595/EC)</p>
+      <p n="6">THE REPRESENTATIVES OF THE GOVERNMENTS OF THE MEMBER STATES OF THE EUROPEAN COAL AND STEEL COMMUNITY, MEETING WITHIN THE COUNCIL,</p>
+      <p n="7">Whereas:</p>
+      <p n="8">(1) By virtue of Article 97 thereof, the ECSC Treaty will expire on 23 July 2002.</p>
+      <p n="9">(2) A number of international agreements with third countries have been concluded by the ECSC.</p>
+      <p n="10">(3) Those agreements do not provide for the eventuality of the expiry of the ECSC Treaty.</p>
+      <p n="11">(4) The subject matter covered by the ECSC Treaty will, upon its expiry, be covered by the Treaty establishing the European Community.</p>
+      <p n="12">(5) It is in the interests of the ECSC and the sectors concerned that those international agreements should remain in force beyond the expiry of the ECSC Treaty and should therefore devolve on the European Community,</p>
+      <p n="13">HAVE DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">As from 24 July 2002, the rights and obligations arising under the international agreements concluded by the ECSC shall be taken over by the European Community.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Decision shall apply from 24 July 2002.</p>
+      <p n="19">Done at Brussels, 19 July 2002.</p>
+      <p n="20">The President</p>
+      <p n="21">T. Pedersen</p>
+    </body>
+  </text>
+</TEI.2>

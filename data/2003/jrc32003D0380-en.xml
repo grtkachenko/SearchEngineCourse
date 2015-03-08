@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32003D0380-en" n="32003D0380" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0380 English</title>
+        <title>2003/380/EC: Commission Decision of 22 May 2003 granting to Sweden a derogation from Council Directive 64/433/EEC and fixing the equivalent health conditions to be respected in relation to cutting of fresh meat (Text with EEA relevance) (notified under document number C(2003) 1635)</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0380:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0380:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">4320</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">4692</classCode>
+        <classCode scheme="eurovoc">5263</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0380-en." lang="en">
+    <body>
+      <head n="1">2003/380/EC: Commission Decision of 22 May 2003 granting to Sweden a derogation from Council Directive 64/433/EEC and fixing the equivalent health conditions to be respected in relation to cutting of fresh meat (Text with EEA relevance) (notified under document number C(2003) 1635)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 22 May 2003</p>
+      <p n="4">granting to Sweden a derogation from Council Directive 64/433/EEC and fixing the equivalent health conditions to be respected in relation to cutting of fresh meat</p>
+      <p n="5">(notified under document number C(2003) 1635)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/380/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 64/433/EEC of 26 June 1964 on health conditions for the production and marketing of fresh meat(1), as last amended by Directive 95/23/EC(2), and in particular Article 13 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) In accordance with Article 18(3) of Council Directive 72/462/EEC(3), as last amended by Regulation (EC) No 1452/2001(4), a decision was adopted on 28 January 1991 permitting warm-cutting of bovine and pig carcases under special conditions in certain establishments in Sweden.</p>
+      <p n="13">(2) Sweden acceded to the Community with effect as from 1 January 1995. For this reason Directive 72/462/EEC is no longer the appropriate legal basis for a decision allowing for warm-cutting. A new decision should therefore be adopted under Directive 64/433/EEC.</p>
+      <p n="14">(3) The authorities of Sweden, by letter of 15 July 2002, have presented to the Commission a request for a derogation from point 46(d) of Annex I to Directive 64/433/EEC for cutting fresh beef and pigmeat. This request proposes health conditions which are equivalent to those laid down in that paragraph.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee of the Food Chain and Animal Health,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Notwithstanding point 46(d) of Annex I to Directive 64/433/EEC, Sweden may authorise cutting of fresh beef and pigmeat under the conditions laid down in the Annex to this Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 22 May 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">David Byrne</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ 121, 29.7.1964, p. 2012/64.</p>
+      <p n="26">(2) OJ L 243, 11.10.1995, p. 7.</p>
+      <p n="27">(3) OJ L 302, 31.12.1972, p. 28.</p>
+      <p n="28">(4) OJ L 198, 21.7.2001, p. 11.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">Special conditions for cutting of bovine and pig carcases</p>
+      <p n="31">1. The carcases, originating from the slaughter floor, after chilling in refrigerating rooms operating with an air temperature at the outlet from the evaporators such that carcases can be cooled to an internal temperature of 7 °C within 48 hours for bovine carcases and 20 hours for pig carcases, are transported to the cutting premises, the temperature of which does not exceed 12 °C, located in the same group of buildings as the chillers.</p>
+      <p n="32">2. The meat is transferred in a single operation.</p>
+      <p n="33">3. The carcases are introduced into the cutting room and boned before an internal temperature of 7 °C has been achieved if the cutting is performed within 48 hours from the end of the slaughtering operations for bovine carcases and 20 hours for pig carcases.</p>
+      <p n="34">4. The time between meat entering the cutting room and being subjected to further refrigeration does not exceed 60 minutes.</p>
+      <p n="35">5. As soon as it is cut and packaged, the meat is transported to appropriate refrigerating rooms.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31998L0066-en" n="31998L0066" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998L0066 English</title>
+        <title>Commission Directive 98/66/EC of 4 September 1998 amending Directive 95/31/EC laying down specific criteria of purity concerning sweeteners for use in foodstuffs (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0066:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0066:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1284</classCode>
+        <classCode scheme="eurovoc">1442</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">181</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+        <classCode scheme="eurovoc">683</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998L0066-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 98/66/EC of 4 September 1998 amending Directive 95/31/EC laying down specific criteria of purity concerning sweeteners for use in foodstuffs (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 98/66/EC of 4 September 1998 amending Directive 95/31/EC laying down specific criteria of purity concerning sweeteners for use in foodstuffs (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 89/107/EEC of 21 December 1988 on the approximation of the laws of the Member States concerning food additives authorised for use in foodstuffs intended for human consumption (1), as amended by European Parliament and Council Directive 94/34/EC (2), and in particular Article 3(3)(a) thereof,</p>
+      <p n="6">After consulting the Scientific Committee on Food,</p>
+      <p n="7">Whereas European Parliament and Council Directive 94/35/EC of 30 June 1994 on sweeteners for use in foodstuffs (3), as amended by Directive 96/83/EC (4), lists those substances which may be used as sweeteners in foodstuffs;</p>
+      <p n="8">Whereas Commission Directive 95/31/EC of 5 July 1995 laying down specific criteria of purity concerning sweeteners for use in foodstuffs (5) sets out the purity criteria for the sweeteners mentioned in Directive 94/35/EC;</p>
+      <p n="9">Whereas it is necessary, in the light of technical progress, to amend the purity criteria set out in Directive 95/31/EC for isomalt (E 953); whereas it is consequently necessary to adapt that Directive;</p>
+      <p n="10">Whereas it is necessary to take into account the specifications and analytical techniques for sweeteners as set out in the Codex Alimentarius by the Joint FAO/WHO Expert Committee on Food Additives (JECFA);</p>
+      <p n="11">Whereas food additives, prepared by production methods or starting materials significantly different from those included in the evaluation of the Scientific Committee for Food, or different from those mentioned in this Directive, shall be submitted for evaluation by the Scientific Committee on Food with a view to full evaluation with emphasis on the purity criteria;</p>
+      <p n="12">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee for Foodstuffs,</p>
+      <p n="13">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="14">Article 1</p>
+      <p n="15">In the Annex to Directive 95/31/EC, the text concerning E 953 - isomalt is replaced by the text in the Annex to this Directive.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with the Directive before 1 July 1999. They shall immediately inform the Commission thereof.</p>
+      <p n="18">When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Directive is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 4 September 1998.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Martin BANGEMANN</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 40, 11. 2. 1989, p. 27.</p>
+      <p n="28">(2) OJ L 237, 10. 9. 1994, p. 1.</p>
+      <p n="29">(3) OJ L 237, 10. 9. 1994, p. 3.</p>
+      <p n="30">(4) OJ L 48, 19. 2. 1997, p. 16.</p>
+      <p n="31">(5) OJ L 178, 28. 7. 1995, p. 1.</p>
+      <p n="32">ANNEX</p>
+      <p n="33">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

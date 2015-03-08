@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31993R3513-en" n="31993R3513" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993R3513 English</title>
+        <title>Council Regulation (EC) No 3513/93 of 14 December 1993 amending Regulation (EEC) No 3220/84 determining the Community scale for grading pig carcases</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R3513:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R3513:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993R3513-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 3513/93 of 14 December 1993 amending Regulation (EEC) No 3220/84 determining the Community scale for grading pig carcases</head>
+      <p n="2">COUNCIL REGULATION (EC) No 3513/93 of 14 December 1993 amending Regulation (EEC) No 3220/84 determining the Community scale for grading pig carcases</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2759/75 of 29 October 1975 on the common organization of the market in pigmeat (1), and in particular Articles 2 and 4 (5) thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas Article 2 of Regulation (EEC) No 3220/84 (2) defined the presentation of a 'pig carcase' to be used to establish its weight and its lean meat content; whereas a recent Community study has shown that the trade in several Member States derogates from this presentation regarding flare fat, kidneys and diaphragm; whereas this practice leads to a difference in the lean-meat content of the carcases from one Member State to another, jeopardizing the uniform application of the Community grading scale and complicating the comparability of the assessment results; whereas it is therefore necessary to define more precisely the pig carcase presentation by excluding the three parts referred to above;</p>
+      <p n="8">Whereas, for commercial reasons, several slaughterhouses are producing dehided pig carcases; whereas Member States should be authorized to provide for such a presentation on their territory;</p>
+      <p n="9">Whereas total dissection as a means to calculate the total weight of the red striated muscles amounts to a long and costly process; whereas it is therefore justified to permit the use of partial dissection as well allowing Member States to adapt more rapidly their grading methods to technical progress,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Regulation (EEC) No 3220/84 is hereby amended as follows:</p>
+      <p n="13">1. Article 2 (1) shall be replaced by the following:</p>
+      <p n="14">'1. For the purposes of this Regulation, "pig carcase" shall mean the body of a slaughtered pig, bled and eviscerated, whole or divided down the mid-line, without tongue, bristles, hooves, genital organs, flare fat, kidneys and diaphragm.</p>
+      <p n="15">With regard to pigs slaughtered in their territory, the Member States may be authorized to provide for a different presentation of pig carcases if one of the following conditions is fulfilled:</p>
+      <p n="16">- if normal commercial practice in their territory differs from the standard presentation defined in the first subparagraph,</p>
+      <p n="17">- if technical requirements warrant it,</p>
+      <p n="18">- if pig carcases are dehided in a uniform manner.';</p>
+      <p n="19">2. in Article 2 (3), the first subparagraph shall be replaced by the following:</p>
+      <p n="20">'3. For the purposes of this Regulation, the lean-meat content of a pig carcase shall be the relationship between:</p>
+      <p n="21">- the total weight of the red striated muscles provided that they are separable by knife, and</p>
+      <p n="22">- the weight of the carcase.</p>
+      <p n="23">The total weight of the red striated muscles is obtained either by total dissection of the carcase or by partial dissection of the carcase or by a combination of total or partial dissection based on proven statistical methods adopted in accordance with the procedure laid down in Article 24 of Regulation (EEC) No 2759/75.';</p>
+      <p n="24">3. the following shall be added after Article 3 (1), first subparagraph:</p>
+      <p n="25">'In respect of pigs slaughtered in their territory, Member States may be authorized to allow classification before weighing, in accordance with the procedure laid down in Article 24 of Regulation (EEC) No 2795/75.'</p>
+      <p n="26">Article 2</p>
+      <p n="27">This Regulation shall enter into force on 1 July 1994.</p>
+      <p n="28">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="29">Done at Brussels, 14 December 1993.</p>
+      <p n="30">For the Council</p>
+      <p n="31">The President</p>
+      <p n="32">A. BOURGEOIS</p>
+      <p n="33">(1) OJ No L 282, 1. 11. 1975, p. 1. Regulation as last amended by Regulation (EEC) No 1249/89 (OJ No L 129, 11. 5. 1989, p. 12).</p>
+      <p n="34">(2) OJ No L 301, 20. 11. 1984, p. 1. Regulation as last amended by Regulation (EEC) No 3577/90 (OJ No L 353, 17. 12. 1990, p. 23).</p>
+    </body>
+  </text>
+</TEI.2>

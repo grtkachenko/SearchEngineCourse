@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31999R0858-en" n="31999R0858" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0858 English</title>
+        <title>Council Regulation (EC) No 858/1999 of 22 April 1999 amending Regulation (EC) No 2202/96 introducing a Community aid scheme for producers of certain citrus fruits</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0858:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0858:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">666</classCode>
+        <classCode scheme="eurovoc">693</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0858-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 858/1999 of 22 April 1999 amending Regulation (EC) No 2202/96 introducing a Community aid scheme for producers of certain citrus fruits</head>
+      <p n="2">COUNCIL REGULATION (EC) No 858/1999</p>
+      <p n="3">of 22 April 1999</p>
+      <p n="4">amending Regulation (EC) No 2202/96 introducing a Community aid scheme for producers of certain citrus fruits</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee(3),</p>
+      <p n="10">Whereas Article 5 of Regulation (EC) No 2202/96(4) introduces processing thresholds; whereas an overrun of these tresholds is assessed using the average of the quantities processed under the aid scheme in the last three marketing years, including the current one; whereas the aid fixed for the current marketing year is reduced where an overrun has been established; whereas this system of calculation means that the amount of aid for a given marketing year cannot be known until after the marketing year in question; whereas this situation causes problems for the management of producer organisations; whereas the effects of an overrun should therefore be postponed to the following marketing year;</p>
+      <p n="11">Whereas account needs to be taken of the fact that certain products are processed during the whole of the marketing year for those products; whereas, in that case, observance of the processing threshold should be assessed over a period equivalent to three marketing years;</p>
+      <p n="12">Whereas this amendment to Regulation (EC) No 2202/96 should apply from the 1999/2000 marketing year,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EC) No 2202/96 is hereby amended as follows:</p>
+      <p n="16">1. Article 5(2) and (3) shall be replaced by the following: "2. The aid fixed in accordance with Article 3(2) for a given marketing year for the products in question shall be reduced by 1 % per tranche of the overrun referred to in paragraph 1 of this Article where the average of the quantities processed under the aid scheme during the three marketing years proceeding the marketing year in question, or during an equivalent period, exceeds the said threshold.</p>
+      <p n="17">The overrun tranches shall be equal to 1 % of each of the thresholds referred to in paragraph 1."</p>
+      <p n="18">2. Article 6 shall be replaced by the following: "Article 6</p>
+      <p n="19">Detailed rules for the application of this Regulation, in particular on the payment of aid, monitoring measures and penalties, the marketing years, the minimum characteristics of the raw materials delivered for processing, the equivalent period referred to in Article 5(2) and the financial consequences of exceeding the thresholds shall be adopted in accordance with the procedure laid down in Article 46 of Regulation (EC) No 2200/96."</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">It shall apply from the 1999/2000 marketing year.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Luxembourg, 22 April 1999.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">W. MÜLLER</p>
+      <p n="28">(1) OJ C 381, 8.12.1998, p. 9.</p>
+      <p n="29">(2) Opinion delivered on 24 February 1999 (not yet published in the Official Journal).</p>
+      <p n="30">(3) Opinion delivered on 24 February 1999 (not yet published in the Official Journal).</p>
+      <p n="31">(4) OJ L 297, 21.11.1996, p. 49.</p>
+    </body>
+  </text>
+</TEI.2>

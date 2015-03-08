@@ -1,0 +1,54 @@
+<TEI.2 id="jrc32001R1543-en" n="32001R1543" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1543 English</title>
+        <title>Commission Regulation (EC) No 1543/2001 of 27 July 2001 laying down the marketing standard for lettuces and curled-leaved and broad-leaved (Batavian) endives</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1543:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1543:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1604</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1543-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1543/2001 of 27 July 2001 laying down the marketing standard for lettuces and curled-leaved and broad-leaved (Batavian) endives</head>
+      <p n="2">Commission Regulation (EC) No 1543/2004 of 30 August 2004 establishing the standard import values for determining the entry price of certain fruit and vegetables</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Commission Regulation (EC) No 3223/94 of 21 December 1994 on detailed rules for the application of the import arrangements for fruit and vegetables(1), and in particular Article 4(1) thereof,</p>
+      <p n="6">Whereas:</p>
+      <p n="7">(1) Regulation (EC) No 3223/94 lays down, pursuant to the outcome of the Uruguay Round multilateral trade negotiations, the criteria whereby the Commission fixes the standard values for imports from third countries, in respect of the products and periods stipulated in the Annex thereto.</p>
+      <p n="8">(2) In compliance with the above criteria, the standard import values must be fixed at the levels set out in the Annex to this Regulation,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The standard import values referred to in Article 4 of Regulation (EC) No 3223/94 shall be fixed as indicated in the Annex hereto.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on 31 August 2004 .</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 30 August 2004 .</p>
+      <p n="16">For the Commission</p>
+      <p n="17">J. M. Silva Rodríguez</p>
+      <p n="18">Agriculture Director-General</p>
+      <p n="19">(1) OJ L 337, 24.12.1994, p. 66. Regulation as last amended by Regulation (EC) No 1947/2002 (OJ L 299, 1.11.2002, p. 17).</p>
+      <p n="20">ANNEX</p>
+      <p n="21">to Commission Regulation of 30 August 2004 establishing the standard import values for determining the entry price of certain fruit and vegetables</p>
+    </body>
+  </text>
+</TEI.2>

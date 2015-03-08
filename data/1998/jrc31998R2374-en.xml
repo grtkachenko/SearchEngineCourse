@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31998R2374-en" n="31998R2374" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2374 English</title>
+        <title>Commission Regulation (EC) No 2374/98 of 3 November 1998 concerning the authorisation of new additives in feedingstuffs (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2374:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2374:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">3795</classCode>
+        <classCode scheme="eurovoc">5967</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2374-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2374/98 of 3 November 1998 concerning the authorisation of new additives in feedingstuffs (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2374/98 of 3 November 1998 concerning the authorisation of new additives in feedingstuffs (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs (1), as last amended by Commission Directive 98/19/EC (2), and in particular Articles 9j and 3 thereof,</p>
+      <p n="6">Whereas Directive 70/524/EEC lays down that new additives or new additive uses may be authorised in line with advances in scientific and technical knowledge;</p>
+      <p n="7">Whereas Council Directive 93/113/EC (3), as last amended by Directive 97/40/EC (4), by derogation from Directive 70/524/EEC, authorised Member States to permit provisionally the use and marketing of enzymes, micro-organisms and their preparations in animal nutrition;</p>
+      <p n="8">Whereas examination of the dossiers, submitted by the Member States in accordance with Article 3 of Directive 93/113/EC, indicates that a certain number of substances in the groups of enzymes and micro-organisms can be provisionally authorised;</p>
+      <p n="9">Whereas the Scientific Committee for Animal Nutrition has delivered a favourable opinion with regard to the harmlessness of these substances;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Feedingstuffs,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The substances belonging to the group 'Enzymes` and listed in the Annex to this Regulation may be authorised according to Directive 70/524/EEC as additives in animal nutrition under the conditions laid down in that Annex.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">It shall apply from 1 July 1999.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 3 November 1998.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz FISCHLER</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 270, 14. 12. 1970, p. 1.</p>
+      <p n="23">(2) OJ L 96, 28. 3. 1998, p. 39.</p>
+      <p n="24">(3) OJ L 334, 31. 12. 1993, p. 17.</p>
+      <p n="25">(4) OJ L 180, 9. 7. 1997, p. 21.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

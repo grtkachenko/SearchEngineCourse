@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31999D0531-en" n="31999D0531" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0531 English</title>
+        <title>1999/531/EC: Commission Decision of 14 July 1999 amending Decision 97/427/EC laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating in Australia (notified under document number C(1999) 2064) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0531:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0531:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">1961</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">3544</classCode>
+        <classCode scheme="eurovoc">4160</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0531-en." lang="en">
+    <body>
+      <head n="1">1999/531/EC: Commission Decision of 14 July 1999 amending Decision 97/427/EC laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating in Australia (notified under document number C(1999) 2064) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 14 July 1999</p>
+      <p n="4">amending Decision 97/427/EC laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating in Australia</p>
+      <p n="5">(notified under document number C(1999) 2064)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(1999/531/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to council Directive 91/492/EEC of 15 July 1991 laying down the health conditions for the production and the placing on the market of live bivalve molluscs(1), as last amended by Directive 97/79/EC(2), and in particular Article 9 thereof,</p>
+      <p n="11">(1) Whereas Article 1 of Commission Decision 97/427/EC of 25 June 1997 laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating in Australia(3), states that the Department of Primary Industries and Energy - Australian Quarantine and Inspection Service (AQIS) shall be the competent authority in Australia for verifying and certifying compliance of fishery and aquaculture products with the requirements of Directive 91/492/EEC;</p>
+      <p n="12">(2) Whereas, following a restructuring of the Australian administration, the competent authority for health certificates for fishery products (AQIS) has changed from the Department of Primary Industries and Energy to the Department of Agriculture, Fisheries and Forestry and this new authority is capable of effectively verifying the application of the laws in force; whereas it is, therefore, necessary to modify the nomination of the competent authority named by Decision 97/427/EC;</p>
+      <p n="13">(3) Whereas it is convenient to harmonise the wording of the title of Decision 97/427/EC with the wording of the Articles of this Decision, and in particular to clarify that this Decision lays down the import conditions of frozen or processed bivalve molluscs, echinoderm, tunicates and marine gastropods originating in Australia;</p>
+      <p n="14">(4) Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Decision 97/427/EC shall be modified as follows:</p>
+      <p n="18">1. the title shall be replaced by the following: "Commision Decision of 25 June 1997 laying special conditions for the import of bivalve molluscs, echinoderms, tunicates and marine gastropods originating in Australia";</p>
+      <p n="19">2. Article 1 shall be replaced by the following: "Article 1</p>
+      <p n="20">The 'Australian Quarantine and Inspection Service (AQIS) of the Departement of Agriculture, Fisheries and Forestry' shall be the competent authority in Australia for verifyng and certifying that bivalve molluscs, echinoderms, tunicates and gastropods fulfil the requirements of Directive 91/492/EEC";</p>
+      <p n="21">3. Article 2 shall be replaced by the following: "Article 2</p>
+      <p n="22">Bivalve molluscs, echinoderms, tunicates and marine gastropods originating in Australia and intended for human consumption must originate in the authorised production areas listed in the Annex hereto."</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 14 July 1999.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz FISCHLER</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 268, 24.9.1991, p. 1.</p>
+      <p n="30">(2) OJ L 24, 30.1.1998, p. 31.</p>
+      <p n="31">(3) OJ L 183, 11.7.1997, p. 38.</p>
+    </body>
+  </text>
+</TEI.2>

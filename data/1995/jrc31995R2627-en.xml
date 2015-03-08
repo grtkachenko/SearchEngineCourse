@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31995R2627-en" n="31995R2627" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R2627 English</title>
+        <title>Commission Regulation (EC) No 2627/95 of 10 November 1995 amending Regulation (EEC) No 2273/93 determining the intervention centres for cereals</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2627:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2627:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1318</classCode>
+        <classCode scheme="eurovoc">3170</classCode>
+        <classCode scheme="eurovoc">4353</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R2627-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2627/95 of 10 November 1995 amending Regulation (EEC) No 2273/93 determining the intervention centres for cereals</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2627/95 of 10 November 1995 amending Regulation (EEC) No 2273/93 determining the intervention centres for cereals</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the market in cereals (1), as last amended by Regulation (EC) No 1863/95 (2), and in particular Article 5 thereof,</p>
+      <p n="6">Whereas the intervention centres are listed in the Annex to Commission Regulation (EEC) No 2273/93 (3), as last amended by Regulation (EC) No 1307/95 (4); whereas certain Member States have requested the amendment of that Annex; whereas those requests should be granted;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Annex to Regulation (EEC) No 2273/93 is hereby amended as follows:</p>
+      <p n="11">1. Under 'BUNDESREPUBLIK DEUTSCHLAND`:</p>
+      <p n="12">- under 'Land Baden-Wuerttemberg`, Ilshofen is deleted for common wheat, barley and rye;</p>
+      <p n="13">- under 'Land Sachsen-Anhalt`, Coswig is deleted for rye, Rosslau is added as an intervention centre for common wheat and rye and Vahldorf is added as an intervention centre for common wheat, barley and rye;</p>
+      <p n="14">- under 'Land Nordrhein-Westfalen`, Siegen is deleted for common wheat;</p>
+      <p n="15">- under 'Land Bayern`, Straubing is deleted for rye and Neustadt/Saale is added as an intervention centre for rye.</p>
+      <p n="16">2. Under 'OESTERREICH`:</p>
+      <p n="17">- 'Absdorf` becomes 'Absdorf-Hippersdorf`;</p>
+      <p n="18">- Geinberg is deleted for barley but becomes an intervention centre for common wheat;</p>
+      <p n="19">- 'Wien-Albern` becomes 'Wien`;</p>
+      <p n="20">- 'Dobermannsdorf` becomes 'Palterndorf-Dobermannsdorf`;</p>
+      <p n="21">- 'Untersiebenbrunn` becomes 'Siebenbrunn-Leopoldsdorf`.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 10 November 1995.</p>
+      <p n="26">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,55 @@
+<TEI.2 id="jrc32002D0804-en" n="32002D0804" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0804 English</title>
+        <title>2002/804/EC: Council Decision of 8 October 2002 amending Decision 2001/747/EC concerning the conclusion of the Agreement on Mutual Recognition between the European Community and Japan</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0804:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0804:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">1524</classCode>
+        <classCode scheme="eurovoc">5811</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0804-en." lang="en">
+    <body>
+      <head n="1">2002/804/EC: Council Decision of 8 October 2002 amending Decision 2001/747/EC concerning the conclusion of the Agreement on Mutual Recognition between the European Community and Japan</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 8 October 2002</p>
+      <p n="4">amending Decision 2001/747/EC concerning the conclusion of the Agreement on Mutual Recognition between the European Community and Japan</p>
+      <p n="5">(2002/804/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 in conjunction with Article 300(2), first subparagraph, first sentence, and Article 300(3), first subparagraph, first sentence, and (4) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">In order to ensure the efficient operation of the Agreement on mutual recognition between the European Community and Japan(1) (hereinafter referred to as the "Agreement") it is necessary to amend Decision 2001/747/EC(2) in order to empower the Commission to take all necessary measures for the operation of the Agreement,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Sole Article</p>
+      <p n="13">Article 3 of Decision 2001/747/EC shall be replaced by the following: "Article 3</p>
+      <p n="14">1. The Commission shall represent the Community in the Joint Committee or in any subcommittee provided for in Article 8 of the Agreement, assisted by the special Committee designated by the Council. The Commission shall proceed, after consultation with this special Committee, to the actions required for the implementation of the Agreement.</p>
+      <p n="15">2. The position of the Community in the Joint Committee or in any subcommittee shall be determined by the Commission, following consultation of the special Committee referred to in paragraph 1."</p>
+      <p n="16">Done at Luxembourg, 8 October 2002.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">T. Pedersen</p>
+      <p n="20">(1) OJ L 284, 29.10.2001, p. 3.</p>
+      <p n="21">(2) OJ L 284, 29.10.2001, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

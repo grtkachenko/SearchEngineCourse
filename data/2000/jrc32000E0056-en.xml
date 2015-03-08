@@ -1,0 +1,75 @@
+<TEI.2 id="jrc32000E0056-en" n="32000E0056" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000E0056 English</title>
+        <title>2000/56/CFSP: Council Common Position of 24 January 2000 amending and supplementing Common Position 1999/318/CFSP concerning additional restrictive measures against the Federal Republic of Yugoslavia (FRY)</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000E0056:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000E0056:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3450</classCode>
+        <classCode scheme="eurovoc">3483</classCode>
+        <classCode scheme="eurovoc">3588</classCode>
+        <classCode scheme="eurovoc">5796</classCode>
+        <classCode scheme="eurovoc">5892</classCode>
+        <classCode scheme="eurovoc">5931</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000E0056-en." lang="en">
+    <body>
+      <head n="1">2000/56/CFSP: Council Common Position of 24 January 2000 amending and supplementing Common Position 1999/318/CFSP concerning additional restrictive measures against the Federal Republic of Yugoslavia (FRY)</head>
+      <p n="2">COUNCIL COMMON POSITION</p>
+      <p n="3">of 24 January 2000</p>
+      <p n="4">amending and supplementing Common Position 1999/318/CFSP concerning additional restrictive measures against the Federal Republic of Yugoslavia (FRY)</p>
+      <p n="5">(2000/56/CFSP)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty on European Union, and in particular Article 15 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Common Position 1999/318/CFSP(1) needs to be amended and supplemented in the light of developments since the date of its adoption;</p>
+      <p n="10">(2) The same criteria should apply in respect of the visa ban measures decided by Common Positions 1998/240/CFSP(2) and 1998/725/CFSP(3),</p>
+      <p n="11">HAS ADOPTED THIS COMMON POSITION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Common Position 1999/318/CFSP shall be amended as follows:</p>
+      <p n="14">1. Recital 2 shall be replaced by the following: "(2) Whereas the Council has expressed its support for the maintenance or strengthening of the sanctions targeted at the regime, without penalising the Serbian people,";</p>
+      <p n="15">2. Article 1 shall be replaced by the following: "Article 1</p>
+      <p n="16">1. No visas shall be issued for President Milosevic, his family, all Ministers and senior officials of the Federal and Serbian Governments, and for persons whose activities support President Milosevic.</p>
+      <p n="17">2. For the purposes of paragraph 1, the Council shall identify, in an implementing Decision, the persons to be reported for the purposes of non-admission in the Member States in accordance with any or all of the following criteria:</p>
+      <p n="18">- persons indicted for crimes as defined in Articles 1 to 5 of the International Criminal Tribunal on Yugoslavia statute;</p>
+      <p n="19">- the following persons: President Milosevic, his family and all Ministers and senior officials of the Federal and Serbian Governments;</p>
+      <p n="20">- persons whose activities support President Milosevic politically and/or financially (including publishers, editors-in-chief and SPS party members);</p>
+      <p n="21">- leaders of the military and police forces and those responsible for intelligence or security services;</p>
+      <p n="22">- persons involved in repression activities.</p>
+      <p n="23">3. Persons to whom the criteria referred to in paragraph 2 are no longer applicable shall be deleted from the list of persons reported for the purposes of non-admission.</p>
+      <p n="24">4. Implementing Decisions taken by the Council shall be updated as the need arises and, at the latest, every two months.</p>
+      <p n="25">5. The Presidency shall ensure that appropriate procedures are put in place for the purposes of implementing paragraphs 1 to 4.</p>
+      <p n="26">6. Paragraphs 2 to 5 above shall also apply in respect of the visa ban measures decided under Article 4 of Common Position 1998/240/CFSP and Article 1 of Common Position 1998/725/CFSP.</p>
+      <p n="27">7. In exceptional cases, exemptions may be made if this would further vital Union objectives and be conducive to political settlement, subject to prior notification by the Member State granting the exception to the other Member States."</p>
+      <p n="28">Article 2</p>
+      <p n="29">This Common Position shall take effect on the date of its adoption.</p>
+      <p n="30">Article 3</p>
+      <p n="31">This Common Position shall be published in the Official Journal.</p>
+      <p n="32">Done at Brussels, 24 January 2000.</p>
+      <p n="33">For the Council</p>
+      <p n="34">The President</p>
+      <p n="35">J. GAMA</p>
+      <p n="36">(1) OJ L 123, 13.5.1999, p. 1.</p>
+      <p n="37">(2) OJ L 95, 27.3.1998, p. 1.</p>
+      <p n="38">(3) OJ L 345, 19.12.1998, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

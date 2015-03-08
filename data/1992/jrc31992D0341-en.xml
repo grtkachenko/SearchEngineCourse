@@ -1,0 +1,52 @@
+<TEI.2 id="jrc31992D0341-en" n="31992D0341" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992D0341 English</title>
+        <title>92/341/EEC: Commission Decision of 3 June 1992 relating to the computer retrieval of local Animo units</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0341:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0341:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992D0341-en." lang="en">
+    <body>
+      <head n="1">92/341/EEC: Commission Decision of 3 June 1992 relating to the computer retrieval of local Animo units</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 3 June 1992</p>
+      <p n="4">relating to the computer retrieval of local Animo units</p>
+      <p n="5">(92/341/EEC)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="8">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Directive 91/628/EEC (2), and in particular Article 20 (3) thereof,</p>
+      <p n="9">Whereas on 19 July 1991 the Commission adopted Decision 91/398/EEC on a computerized network linking veterinary authorities (Animo) (3) and on 21 February 1992, Decision 92/175/EEC establishing the list and identity of the units of the Animo computerized network (4);</p>
+      <p n="10">Whereas, in order to ensure the smooth operation of the Animo network, provision should be made for a computerized system allowing the unit of destination to be identified via the postal destinations;</p>
+      <p n="11">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="12">HAS ADOPTED THIS DECISION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">1. Each Member State shall, before 15 June 1992, transmit to the Commission, in computerized form as shown in the Annex, a list of postal destinations in alphabetical order. Each postal destination shall be accompanied by the identification number of the local unit corresponding to it.</p>
+      <p n="15">2. On the basis of the data transmitted by the Member States in accordance with paragraph 1, the Commission shall establish, in computerized form to be integrated in the application software as defined in the fourth indent of Article 2 (2) of Decision 91/398/EEC, a repertory showing, for the Community as a whole, the postal destinations accompanied by the identification number of the local units and shall transmit this repertory to the Member States.</p>
+      <p n="16">3. The repertory referred to in paragraph 2 shall be regularly updated by the Commission in the light of data transmitted by the Member States.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Decision is addressed to the Member States.</p>
+      <p n="19">Done at Brussels, 3 June 1992. For the Commission</p>
+      <p n="20">Ray MAC SHARRY</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">ANNEX</p>
+      <p n="23">Description of the format of the record on which the information required for computer retrieval of local Animo units is to be entered &gt;TABLE&gt;</p>
+      <p n="24">Support characteristics: Diskette in 3,5 inch format with a capacity of 720 K or 1,44 MB.</p>
+      <p n="25">File in ASCII format.</p>
+    </body>
+  </text>
+</TEI.2>

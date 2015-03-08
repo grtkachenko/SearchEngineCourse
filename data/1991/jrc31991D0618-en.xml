@@ -1,0 +1,173 @@
+<TEI.2 id="jrc31991D0618-en" n="31991D0618" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31991D0618 English</title>
+        <title>91/618/EEC: Commission Decision of 18 November 1991 amending Decision 77/144/EEC laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees and laying down the boundaries of the production areas for these surveys</title>
+      </titleStmt>
+      <extent>146 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991D0618:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991D0618:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31991D0618-en." lang="en">
+    <body>
+      <head n="1">91/618/EEC: Commission Decision of 18 November 1991 amending Decision 77/144/EEC laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees and laying down the boundaries of the production areas for these surveys</head>
+      <p n="2">COMMISSION DECISION of 18 November 1991 amending Decision 77/144/EEC laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees and laying down the boundaries of the production areas for these surveys (91/618/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 76/625/EEC of 20 July 1976, concerning the statistical surveys to be carried out by the Member States in order to determine the production potential of plantations of certain species of fruit trees (1), as last amended by Regulation (EEC) No 1057/91 (2), and in particular Article 4 (2) and (4) thereof,</p>
+      <p n="6">Whereas the experience gained in conducting the latest basic survey calls for certain amendments to the regional breakdown to be used in the communication of data to the Commission and in the common list of varieties to be surveyed and consequently it is necessary to amend the Annexes to Commission Decision 77/144/EEC (3), as last amended by Decision 87/228/EEC (4);</p>
+      <p n="7">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Agricultural Statistics,</p>
+      <p n="8">HAS ADOPTED THIS DECISION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Annexes to Decision 77/144/EEC are hereby replaced by the Annexes to this Decision.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Decision is addressed to the Member States. Done at Brussels, 18 November 1991. For the Commission</p>
+      <p n="13">Henning CHRISTOPHERSEN</p>
+      <p n="14">Vice-President</p>
+      <p n="15">(1) OJ No L 218, 11. 8. 1976, p. 10. (2) OJ No L 107, 27. 4. 1991, p. 11. (3) OJ No L 47, 18. 2. 1977, p. 52. (4) OJ No L 94, 8. 4. 1987, p. 32.</p>
+      <p n="16">ANNEX I</p>
+      <p n="17">Tape specification for the delivery to the SOEC of the results of the statistical surveys of plantations of certain species of fruit trees to be carried out in Member States</p>
+      <p n="18">(Directive 76/625/EEC)</p>
+      <p n="19">GENERAL PROVISIONS</p>
+      <p n="20">I. The information recorded in accordance with the characteristics referred to in Article 2 of Directive 76/625/EEC is to be delivered to the SOEC in the following form by those Member States which process their survey information electronically:</p>
+      <p n="21">1. On nine-track magnetic tape 1600 BPI (630 bytes/cm) IBM standard label or no label.</p>
+      <p n="22">2. The information shall refer to summaries of holdings if the survey is exhaustive (or to raised summaries of holdings if the survey is based on random sampling), and not to individual holdings.</p>
+      <p n="23">3. The information shall be of fixed record length and shall be recorded in the following FORTRAN format:</p>
+      <p n="24">I2, I2, I2, I3, I1, 6F7.0 (beginning in position 1).</p>
+      <p n="25">4. The first five fields of each record shall contain information to permit identification (country, production area, variety and density class). The codes for these fields are specified in the detailed provisions and in Annex II. The following six fields, each of seven digits, shall contain the information about the area in ares within each of the six age classes of the record. The age classes are defined in the detailed provisions. The information shall be entered right justified in each field.</p>
+      <p n="26">5. Member States shall have a choice as to blocking factor; the SOEC must be told which blocking factor has been used.</p>
+      <p n="27">6. Member States shall specify on the documents accompanying the transmission the number of species and the number of varieties within each species.</p>
+      <p n="28">7. The records shall be sorted according to species, variety, area or territory and density of plantation.</p>
+      <p n="29">II. The following pages give for the various items of a record:</p>
+      <p n="30">(a) the codes which are to be used;</p>
+      <p n="31">(b) the number of digits required for the item of question;</p>
+      <p n="32">(c) the consecutive numbering of the positions for the various items.</p>
+      <p n="33">DETAILED PROVISIONS</p>
+      <p n="34">Code Digits Byte number</p>
+      <p n="35">on tape 1. Country 2 1,2 Germany 01 France 02 Italy 03 Netherlands 04 Belgium 05 Luxembourg 06 United Kingdom 07 Ireland 08 Denmark 09 Greece 10 Spain 11 Portugal 12 2. Production area 2 3,4 Germany Norden 01 Mitte 02 Sueden 03 Ost 04 France Sud-ouest 01 Sud-est 02 Loire 03 Reste 04 Italy (Apples, pears) Val Padana 11 Trentino-Alto Adige 21 Piemonte and Valle d'Aosta 02 Centrale 03 Meridionale 04 (Peaches and apricots) Val Padana and Trentino-Alto Adige 01 Piemonte and Valle d'Aosta 02 Centrale 03 Meridionale 04 (Oranges, lemons and small-fruited citrus) Sicilia 14 Calabria 24 Puglia and Basilicata 34 Altre zone 05 Netherlands 00 Belgium 00 Luxembourg 00 United Kingdom 00 Ireland 00 Denmark 00 Greece (Apples) Peloponnesus 01 Macedonia 02 Thessaly 03 Other areas 96 (Pears) Peloponnesus 01 Macedonia 02 Thessaly 03 Crete 04 Other areas 97 (Peaches) Macedonia 02 Thessaly 03 Other areas 92 (Apricots) Peloponnesus 01 Macedonia 02 Other areas 95 (Oranges) Peloponnesus 01 Crete 04 Epirus 05 Other areas 99 (Lemons) Peloponnesus 01 Central Greece and Euboea 06 Other areas 94 (Small-fruited citrus) Peloponnesus 01 Crete 04 Aegean Islands 07 Other areas 93 Spain Galicia 01 Principado de Asturias 02 Cantabria 03 País Vasco 04 Navarra 05 La Rioja 06 Aragón 07 Cataluña 08 Baleares 09 Castilla y León 10 Madrid 11 Castilla-La Mancha 12 Comunidad Valenciana 13 Región de Murcia 14 Extremadura 15 Andalucía 16 Canarias 17 Portugal Norte 01 Centro 02 Lisboa and Vale do Tejo 03 Alentejo 04 Algarve 05 Regiao Autónoma dos Açores 06 Regiao Autónoma da Madeira 07 3. Species 2 5-6 Apples: dessert</p>
+      <p n="36">others 01</p>
+      <p n="37">02 Pears: dessert</p>
+      <p n="38">others 03</p>
+      <p n="39">04 Peaches: white flesh</p>
+      <p n="40">yellow flesh</p>
+      <p n="41">colour not specified 05</p>
+      <p n="42">06</p>
+      <p n="43">07 Apricots 08 Oranges 09 Lemons 10 Small-fruited citrus 11 4. Variety 3 7-9 Codes for specified varieties of each species are given in Annex II. 5. Density of plantation 1 10 (Trees per hectare) Apples and pears: Under 400 1 400 - 799 2 800 - 1 599 3 1 600 and over 4 Total 9 Peaches and apricots: Under 300 1 300 - 399 2 400 - 599 3 600 - 799 4 800 and over 5 Total 9 Oranges, lemons and small-fruited citrus: Under 250 1 250 - 374 2 375 - 499 3 500 - 624 4 625 - 749 5 750 and over 6 Total 9 6. Age of trees (1) Age class 1</p>
+      <p n="44">2</p>
+      <p n="45">3</p>
+      <p n="46">4</p>
+      <p n="47">5</p>
+      <p n="48">6 7</p>
+      <p n="49">7</p>
+      <p n="50">7</p>
+      <p n="51">7</p>
+      <p n="52">7</p>
+      <p n="53">7 11-17</p>
+      <p n="54">18-24</p>
+      <p n="55">25-31</p>
+      <p n="56">32-38</p>
+      <p n="57">39-45</p>
+      <p n="58">46-52</p>
+      <p n="59">(1) The area for each age class is given in ares.</p>
+      <p n="60">Age classes are defined as follows:</p>
+      <p n="61">(years)</p>
+      <p n="62">Apples and pears Peaches and apricots Oranges, lemons</p>
+      <p n="63">and small-fruited citrus 1 0- 4 0- 4 0- 4 2 5- 9 5- 9 5- 9 3 10-14 10-14 10-14 4 15-24 15-19 15-24 5 25 and over 20 and over 25-39 6 (1) - - 40 and over</p>
+      <p n="64">(1) In the case of apples, pears, peaches and apricots, the information for class 6 is seven zeros.</p>
+      <p n="65">ANNEX II</p>
+      <p n="66">Codes for specified varieties of each species for delivery to the SOEC of the results of the statistical surveys of plantations of certain species of fruit trees to be carried out in Member States</p>
+      <p n="67">(Directive 76/625/EEC)</p>
+      <p n="68">Varieties Code 1. Apples trees Dessert apple trees Cardinal 001 Discovery 002 Gravenstein/Graasten 003 Tydeman's Early Worcester 004 James Grieve 005 Worcester Pearmain 006 Reine des Reinettes/Goldparmaene 007 Ingrid Marie 008 McIntosh 009 Jonathan 010 Red Delicious, etc. (group) and Starking Delicious 011 Golden Delicious and Golden Spur 012 Spartan 013 Reinette du Canada 014 Cox's Orange Pippin 015 Boskoop 016 Morgenduft (Imperatore) and Rome Beauty 017 Rambour d'hiver 018 Granny Smith 019 Reinette du Mans 020 Annurca 021 Stayman 022 Glockenapfel 023 Laxton's Superb 024 Winston 025 Abbondanza 026 Holsteiner Cox 027 Reinette Clochard 028 Horneburger Pfannkuchen 029 Lombartscalville 030 Gloster 031 Crispin/Mutzu 033 Melrose 034 Egremont Russet 035 Lobo 036 Cortland 037 Luxembourg Triumpf 038 Luxembourg Reinette 039 Lord Lambourne 040 George Cave 041 Fyriki 042 Delicious Pilafa 043 Jonagold 044 Katy 045 Idared 046 Elstar 047 Suntan 048 Queen Cox and Cox clones 049 Reinette Parda 050 Starkimson and clones (Coopers) 051 Verde doncella 052 Fiesta 053 Other varieties (to be specified by the Member State), must be included the 'Other Reinettes' 900-998 Varieties not specified elsewhere 999 Apple trees exclusively producing apples intended for uses other than as dessert apples (optional) Bramley's Seedling 001 Other varieties (to be specified by the Member State) 900-998 Varieties not specified elsewhere 999 2. Pears trees Dessert pear trees Gentile Bianca 001 Coscia 002 Butirra Precoce Morettini 003 Spadoncina 004 Jules Guyot/Limonera 005 Santa Maria Morettini 006 Spadona d'Estate 007 William's 008 Clara Frijs 009 Clapp's Favourite 010 Grev Moltke 011 Triomphe de Vienne 012 Alexandrine Douillard 013 Beurré Hardy 014 Durondeau 015 Légipont/Charneu 016 Louise Bonne d'Avranches 017 Abate Fetel 018 Conférence 019 Clairgeau 020 Kaiser Alexander 021 Doyenné du Comice 022 Passe Crassane 023 Alexandra Lucas 024 Decana d'Inverno 025 Packam's Triumph 026 Épine du Mas 027 Madernassa 028 Butirra d'Estate 029 Curé 030 William's rouge 031 Précoce de Trévoux 032 Pierre Corneille 033 Krystalli 034 Blanquilla 035 M. P. Morettini 036 Ercolini 037 Rocha 038 Kontoula 039 Général Leclerc 040 Roma 041 Concorde 042 Other varieties (to be specified by the Member State) 900-998 Varieties not specified elsewhere 999 Pears trees exclusively producing pears for uses other than as dessert pears (optional) Saint Rémy 001 Gieser Wildman 002 Other varieties (to be specified by the Member State) 900-998 Varieties not specified elsewhere 999 3. Peach trees Peach trees giving fruits with white flesh Springtime group: Springtime</p>
+      <p n="69">Mayflower</p>
+      <p n="70">Others 011</p>
+      <p n="71">012</p>
+      <p n="72">019 Morettini 1 and 5/14 020 Amsden group 030 Redwing group 040 Bella di Cesena and Sant'Anna Balducci 050 Pieri 81 060 Michelini and Impero 070 Paraguya 080 Honey dew Hale 090 Maria Bianca 100 Nectarines and brugnons (to be specified by the Member State) 201-298 Other nectarines and brugnons not specified 299 Other white-fleshed varieties (to be specified by the Member State) 901-998 White-fleshed varieties not specified elsewhere 999 Peach trees giving fruits with yellow flesh Armgold 010 Spring Crest 011 Blazing Gold and Collins 020 Dixired group: Dixired</p>
+      <p n="73">Cardinal</p>
+      <p n="74">June Gold</p>
+      <p n="75">Others 031</p>
+      <p n="76">032</p>
+      <p n="77">033</p>
+      <p n="78">034 Redhaven group 040 Fairhaven group: Fairhaven</p>
+      <p n="79">Southland</p>
+      <p n="80">Other 061</p>
+      <p n="81">062</p>
+      <p n="82">063 Merril Franciscan group: Merril Franciscan</p>
+      <p n="83">Loring</p>
+      <p n="84">Suncrest</p>
+      <p n="85">Loadel</p>
+      <p n="86">Vivian</p>
+      <p n="87">Andros</p>
+      <p n="88">Halford</p>
+      <p n="89">Dixon</p>
+      <p n="90">Others 071</p>
+      <p n="91">072</p>
+      <p n="92">073</p>
+      <p n="93">074</p>
+      <p n="94">075</p>
+      <p n="95">076</p>
+      <p n="96">077</p>
+      <p n="97">078</p>
+      <p n="98">079 J. H. Hale group: J. H. Hale</p>
+      <p n="99">Elberta</p>
+      <p n="100">Others</p>
+      <p n="101">Cresthaven</p>
+      <p n="102">Glohaven 081</p>
+      <p n="103">082</p>
+      <p n="104">083</p>
+      <p n="105">091</p>
+      <p n="106">092 Pavie/Percoche group: Fortuna</p>
+      <p n="107">Klamt</p>
+      <p n="108">Caroline</p>
+      <p n="109">Di Francia</p>
+      <p n="110">Vesuvio</p>
+      <p n="111">Others 101</p>
+      <p n="112">102</p>
+      <p n="113">103</p>
+      <p n="114">104</p>
+      <p n="115">105</p>
+      <p n="116">199 Nectarines and brugnons: Armking-Mayred group</p>
+      <p n="117">Grimson-Maygrand group</p>
+      <p n="118">Independence</p>
+      <p n="119">Stark Red Gold</p>
+      <p n="120">Nectared</p>
+      <p n="121">Others 201</p>
+      <p n="122">202</p>
+      <p n="123">203</p>
+      <p n="124">204</p>
+      <p n="125">205</p>
+      <p n="126">299 Bowen 301 Fayette 302 Katherina 303 Meriam 304 Other yellow-fleshed varieties (to be specified by the Member State) 900-998 Varieties not specified elsewhere 999 Peach trees giving fruits with flesh other than white or yellow or of unspecified colour Other varieties to be specified by the Member State 900-998 Varieties not specified elsewhere 999 4. Apricot trees Polonais 001 Rouge du Roussillon 002 Bergeron 003 Cafona 004 Boccucia 005 Monaco Bello 006 Bebecou 007 Diamantopoulou 008 Précoce de Tyrinthe 009 Bulida 010 Canino 011 Moniqui 012 Borida 013 Currot 014 Paviot 015 Real Fino 016 Pellecchiella 017 Précoce d'Imola 018 S. Castrese 019 Other varieties (to be specified by the Member State) 900-998 Varieties not specified elsewhere 999 5. Orange trees Orange trees giving blood oranges Sanguinello 001 Moro 002 Tarocco 004 Sanguinello 'Cuscuna' 011 Sanguina Comune 042 Other blood oranges (to be specified by the Member State) 900-998 Varieties not specified elsewhere 999 Orange trees giving sweet oranges other than blood oranges Ovale/Calabrese 003 Belladonna 006 Shamottti (Jaffa) 008 Salustiana 009 De Setúbal 010 Valencia Late 015 Bionda Comune 016 D. Joao 023 Do Tua 025 Spera da Vidigueira 026 D. Maria 027 De Vale de Besteiros 028 Bionda Apirena 029 Vaniglia Apirena 030 Cadenera 031 Vema 033 Navels (group) Total</p>
+      <p n="127">Merlin or Washinton Navel</p>
+      <p n="128">Navelina or Dalmau 050</p>
+      <p n="129">051</p>
+      <p n="130">052 Navel New Hall</p>
+      <p n="131">Thonson Navel</p>
+      <p n="132">Navelate</p>
+      <p n="133">Lane Late</p>
+      <p n="134">Other Navels 053</p>
+      <p n="135">054</p>
+      <p n="136">055</p>
+      <p n="137">056</p>
+      <p n="138">059 Other sweet oranges (to be specified by the Member State) 950-998 Varieties not specified elsewhere 999 6. Lemon trees Femminello Ovale 001 Femminello di S. Teresa 002 Monachello 003 Inter Donato 004 Lunario Tondo (Arancino) 005 Lunario Sfusato (Palermo) 006 Maglini 007 Karystini 008 Adamopoulou 009 Lisbon 010 Eureka 011 Berna (group) 012 Mesero (group) 013 Lunero (four seasons) 014 Real 015 Comune 016 Siagara bianca 017 Other varieties (to be specified by the Member State) 900-998 Varieties not specified elsewhere 999 7. Small citrus fruit trees Small citrus fruit trees giving mandarins Avana 101 Tardivo o Di Ciaculli 102 Common 103 Wilking 104 Kara 105 Kina 106 Encore 107 Palazzeli 108 Setubalense 109 Carvalhais 110 Other varieties (to be specified by the Member State) 190-198 Varieties not specified elsewhere 199 Small citrus fruit trees giving clementines Clémentine de Corse 201 Montreal 202 Comune 203 Fina 204 Oroval 205 Clemenules or Clémentine Di Nules 206 Tomatera 207 Clémentine Porou 208 Other varieties (to be specified by the Member State) 290-298 Varieties not specified elsewhere 299 Small citrus trees giving satsumas Satsuma 301 Clausellina 302 Salzara 303 Mineola 304 Temple 305 Owari 306 Wase 307 Other varieties (to be specified by the Member State) 390-398 Varieties not specified elsewhere 399 Other small citrus fruit trees Tangero 401 Mandarine clementine o nova 501 Other varieties (to be specified by the Member State) 900-998 Varieties not specified elsewhere 999</p>
+      <p n="139">ANNEX III</p>
+      <p n="140">Boundaries of the production areas (where appropriate by species) referred to in Article 3</p>
+      <p n="141">BELGIUM: Forms a single production area DENMARK: Forms a single production area FEDERAL REPUBLIC</p>
+      <p n="142">OF GERMANY: 1. Nord: Schleswig-Holstein, Niedersachsen,</p>
+      <p n="143">Hamburg, Bremen 2. Mitte: Nordrhein-Westfalen, Hessen,</p>
+      <p n="144">Rheinland-Pfalz, Saarland 3. Sued: Baden-Wuerttemberg, Bayern 4. Ost: Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt, Thueringen GREECE: (Apples) 1. Peloponnesus 2. Macedonia 3. Thessaly 4. Other areas (Pears) 1. Peloponnesus 2. Macedonia 3. Thessaly 4. Crete 5. Other areas (Peaches) 1. Macedonia 2. Thessaly 3. Other areas (Apricots) 1. Peloponnesus 2. Macedonia 3. Other areas (Oranges) 1. Peloponnesus 2. Crete 3. Epirus 4. Other areas (Lemons) 1. Peloponnesus 2. Central Greece and Euboea 3. Other areas (Small-fruited citrus) 1. Peloponnesus 2. Crete 3. Aegean Islands 4. Other areas SPAIN: 1. Galicia 2. Principado de Asturias 3. Cantabria 4. País Vasco 5. Navarra 6. La Rioja 7. Aragón 8. Cataluña 9. Baleares 10. Castilla y León 11. Madrid 12. Castilla-La Mancha 13. Comunidad Valenciana 14. Región de Murcia 15. Extremadura 16. Andalucía 17. Canarias FRANCE: 1. Sud-ouest: Limousin, Auvergne, Aquitaine, Midi-Pyrénées 2. Sud-est: Rhône-Alpes, Languedoc-Roussillon, Provence-Alpes, Côte d'Azur, Corse 3. Loire: Pays de Loire, Poitou-Charentes, Centre, Ile de France 4. Remainder of France IRELAND: Forms a single production area ITALY: (Apples, pears) 1. Val Padana: Lombardia, Veneto, Friuli-Venezia Giulia, Emilia-Romagna 2. Trentino-Alto Adige 3. Piemonte, Valle d'Aosta 4. Centrale: Liguria, Toscana, Umbria, Marche, Lazio, Abruzzo 5. Meridionale: Campania, Calabria, Molise, Puglia, Basilicata, Sicilia, Sardegna. (Peaches, apricots) 1. Val Padana and Trentino-Alto Adige: Lombardia, Veneto, Friuli-Venezia Giulia, Emilia-Romagna, Trentino-Alto Adige 2. Piemonte, Valle d'Aosta 3. Centrale: Liguria, Toscana, Umbria, Marche, Lazio, Abruzzo 4. Meridionale: Campania, Calabria, Molise, Puglia, Basilicata, Sicilia, Sardegna (Oranges, lemons,</p>
+      <p n="145">small-fruited citrus) 1. Sicilia</p>
+      <p n="146">2. Calabria 3. Puglia, Basilicata 4. Remainder of Italy LUXEMBOURG: Forms a single production area NETHERLANDS: Forms a single production area PORTUGAL: 1. Norte 2. Centro 3. Lisboa and Vale do Tejo 4. Alentejo 5. Algarve 6. Regiâo autonomas Açores 7. Regiâo autonomas Madeira UNITED KINGDOM: Forms a single production area</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,242 @@
+<TEI.2 id="jrc31993D0070-en" n="31993D0070" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993D0070 English</title>
+        <title>93/70/EEC: Commission Decision of 21 December 1992 on codification for the message 'Animo'</title>
+      </titleStmt>
+      <extent>215 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0070:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0070:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993D0070-en." lang="en">
+    <body>
+      <head n="1">93/70/EEC: Commission Decision of 21 December 1992 on codification for the message 'Animo'</head>
+      <p n="2">COMMISSION DECISION of 21 December 1992 on codification for the message 'Animo'</p>
+      <p n="3">(93/70/EEC)THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning the veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Directive 92/65/EEC (2), and in particular Article 20 (3) thereof,</p>
+      <p n="6">Whereas in order to ensure functioning of the network on 3 December 1991 the Commission adopted Decision 91/637/EEC establishing the model for the message to be transmitted by means of the computerized network 'Animo' (3);</p>
+      <p n="7">Whereas it is necessary to ensure the rapid understanding of 'Animo' message and effectively protect animal health, to define the code to be used for merchandise referred to in point 4 of the Annex to the Decision 91/637/EEC;</p>
+      <p n="8">Whereas the presence of certain types of live animals and products in the codification foreseen by this decision does not imply as such that a message must be sent by means of the 'Animo' computerized network;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The codes to be used for merchandise referred to in point 4 first indent of the Annex to the Decision 91/637/EEC, are defined by the Annex to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 21 December 1992.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Ray MAC SHARRY</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 224, 18. 8. 1990, p. 29.</p>
+      <p n="20">(2) OJ No L 268, 14. 9. 1992, p. 54.</p>
+      <p n="21">(3) OJ No L 343, 13. 12. 1991, p. 46.</p>
+      <p n="22">ANNEX</p>
+      <p n="23">NAMES AND NUMBERS OF THE GOODS TO BE USED FOR THE ANIMO MESSAGE EQUIDAE (1) (CN code: 0101)</p>
+      <p n="24">- registered horses 21.01.01.09</p>
+      <p n="25">- horses for breeding and production 21.01.01.01</p>
+      <p n="26">- horses for slaughter 21.01.01.02</p>
+      <p n="27">- horses in temporary admission 21.01.01.10</p>
+      <p n="28">- other equidae 21.01.09</p>
+      <p n="29">BOVINE ANIMALS (CN code: 0102)</p>
+      <p n="30">- calves under 15 days 21.02.01</p>
+      <p n="31">- bovine animals for breeding 21.02.02</p>
+      <p n="32">- bovine animals for production 21.02.04</p>
+      <p n="33">- bovine animals for slaughter 21.02.03</p>
+      <p n="34">- other bovines 21.02.09</p>
+      <p n="35">OVINE AND CAPRINE ANIMALS (CN code: 0104)</p>
+      <p n="36">- ovine animals for breeding 21.03.02</p>
+      <p n="37">- ovine animals for fattening 21.03.01</p>
+      <p n="38">- ovine animals for slaughter 21.03.03</p>
+      <p n="39">- caprine animals for breeding 21.04.02</p>
+      <p n="40">- caprine animals for fattening 21.04.01</p>
+      <p n="41">- caprine animals for slaughter 21.04.03</p>
+      <p n="42">PORCINE ANIMALS (CN code: 0103)</p>
+      <p n="43">- porcine animals for breeding 21.05.02</p>
+      <p n="44">- porcine animals for production 21.05.01</p>
+      <p n="45">- porcine animals for slaughter 21.05.03</p>
+      <p n="46">POULTRY (2) (CN code: 0105 or 0106)</p>
+      <p n="47">- day old poultry (20 or more units) 22.01.09</p>
+      <p n="48">- breeding and productive poultry (20 or more unites) 22.02.09</p>
+      <p n="49">- poultry for re-stocking supplies of game (20 or more units) 22.04.09</p>
+      <p n="50">- poultry in lots of under 20 units 22.09.09</p>
+      <p n="51">- slaughter poultry 22.03.09</p>
+      <p n="52">LIVE FISH (3) (CN code: 0301)</p>
+      <p n="53">- susceptible species of fish 23.04.01.09</p>
+      <p n="54">- other species of fish 23.04.02</p>
+      <p n="55">CRUSTACEANS (3) (CN code: 0306)</p>
+      <p n="56">- susceptible species of crustaceans 23.04.03.09</p>
+      <p n="57">- other species of crustaceans 23.04.04</p>
+      <p n="58">MOLLUSCS (3) (CN code: 0307)</p>
+      <p n="59">- susceptible species of molluscs 23.04.05.09</p>
+      <p n="60">- other species of molluscs 23.04.06</p>
+      <p n="61">EGGS AND GAMETES OF LIVE FISH (3) (CN code: 0301)</p>
+      <p n="62">- eggs and gametes of susceptible species 23.06.01</p>
+      <p n="63">- eggs and gametes of other species 23.06.09</p>
+      <p n="64">HATCHING EGGS (CN code: 0407 00 11 or 0407 00 19)</p>
+      <p n="65">- hatching eggs in lots of under 20 units 41.01.01</p>
+      <p n="66">- hatching eggs in lots of under 20 units 41.01.02</p>
+      <p n="67">SEMEN-OVA-EMBRYOS (CN code: 0511)</p>
+      <p n="68">- semen of the bovine species 46.01.01</p>
+      <p n="69">- semen of the porcine species 46.01.02</p>
+      <p n="70">- semen of other species:</p>
+      <p n="71">- equine 46.01.09.01</p>
+      <p n="72">- ovine 46.01.09.02</p>
+      <p n="73">- caprine 46.01.09.03</p>
+      <p n="74">- other (4) 46.01.09.99</p>
+      <p n="75">- ova of the bovine species 46.02.01</p>
+      <p n="76">- ova of other species:</p>
+      <p n="77">- porcine 46.02.09.01</p>
+      <p n="78">- equine 46.02.09.02</p>
+      <p n="79">- ovine 46.02.09.03</p>
+      <p n="80">- caprine 46.02.09.04</p>
+      <p n="81">- others (1) 46.02.09.99</p>
+      <p n="82">- embryos of the bovine species 46.03.01</p>
+      <p n="83">- embryos of other species:</p>
+      <p n="84">- porcine 46.03.09.01</p>
+      <p n="85">- equine 46.03.09.02</p>
+      <p n="86">- ovine 46.03.09.03</p>
+      <p n="87">- caprine 46.03.09.04</p>
+      <p n="88">- others (1) 46.03.09.99</p>
+      <p n="89">OTHER MAMMALS (5) (CN code: 0106)</p>
+      <p n="90">- Primates 11.01</p>
+      <p n="91">- Artiodactyla:</p>
+      <p n="92">Ruminants</p>
+      <p n="93">- Bovidae 11.03.01.01</p>
+      <p n="94">- Pronghorns 11.03.01.02</p>
+      <p n="95">- Giraffes 11.03.01.03</p>
+      <p n="96">- True deer 11.03.01.04</p>
+      <p n="97">- other ruminants 11.03.01.05</p>
+      <p n="98">Camélidae</p>
+      <p n="99">- Camels and lamas 11.03.02</p>
+      <p n="100">Suina</p>
+      <p n="101">- Hippopotamuse 11.03.03.01</p>
+      <p n="102">- Old world pigs or ovine 11.03.03.03</p>
+      <p n="103">- Other suina 11.03.03.02</p>
+      <p n="104">- Perissodactyla:</p>
+      <p n="105">- Rhinocerotidae 11.04.01</p>
+      <p n="106">- Tapiridae 11.04.02</p>
+      <p n="107">- Sirenia 11.05</p>
+      <p n="108">- Hyracoidae 11.06</p>
+      <p n="109">- Proboscidea:</p>
+      <p n="110">- African elephant 11.07.01</p>
+      <p n="111">- Asian elephant 11.07.02</p>
+      <p n="112">- Tubulidentata:</p>
+      <p n="113">- Aardvarks 11.08.01</p>
+      <p n="114">- Carnivora:</p>
+      <p n="115">Felidae</p>
+      <p n="116">- Cats (6) 11.09.01</p>
+      <p n="117">- Other felidae 11.09.02</p>
+      <p n="118">Canidae</p>
+      <p n="119">- Dogs (1) 11.09.03</p>
+      <p n="120">- Other canidae 11.09.04</p>
+      <p n="121">Other carnivora</p>
+      <p n="122">- Hyaenas 11.09.05</p>
+      <p n="123">- Viverridae 11.09.06</p>
+      <p n="124">- Mustelidae 11.09.07</p>
+      <p n="125">- Racoons 11.09.08</p>
+      <p n="126">- Bears 11.09.09</p>
+      <p n="127">- Pinnipedia:</p>
+      <p n="128">- True seals 11.10.01</p>
+      <p n="129">- Eared seals 11.10.03</p>
+      <p n="130">- Walruses 11.10.02</p>
+      <p n="131">- Cetacea 11.11</p>
+      <p n="132">- Rodentia:</p>
+      <p n="133">- Caviidae 11.12.01.01</p>
+      <p n="134">- Hystricomoropha 11.12.01.99</p>
+      <p n="135">- Rats and mice 11.12.02</p>
+      <p n="136">- Other Myomorpha 11.12.02.99</p>
+      <p n="137">- Sciuromorpha 11.12.03</p>
+      <p n="138">- Lagomorpha:</p>
+      <p n="139">- Hares for restocking 11.12.04.01</p>
+      <p n="140">- Other hares 11.12.04.02</p>
+      <p n="141">- Wild rabbit 11.12.04.03</p>
+      <p n="142">- Ochotonidae 11.12.04.04</p>
+      <p n="143">- Pholidota 11.13</p>
+      <p n="144">- Edentata 11.14</p>
+      <p n="145">- Chiroptera 11.15</p>
+      <p n="146">- Insectivora 11.16</p>
+      <p n="147">- Dermoptera 11.17</p>
+      <p n="148">- Marsupiala 11.18</p>
+      <p n="149">- Monotrema 11.19</p>
+      <p n="150">OTHER BIRDS (7) (CN code: 0106)</p>
+      <p n="151">- Anseriformes 12.16</p>
+      <p n="152">- Apodiformes 12.06</p>
+      <p n="153">- Apterygiformes 12.23</p>
+      <p n="154">- Caprimulgiformes 12.07</p>
+      <p n="155">- Caslariiformes 12.24</p>
+      <p n="156">- Charadriiformes 12.13</p>
+      <p n="157">- Ciconiiformes 12.17</p>
+      <p n="158">- Coliiformes 12.05</p>
+      <p n="159">- Columbiformes 12.11</p>
+      <p n="160">- Coraciiformes 12.03</p>
+      <p n="161">- Cuculiformes 12.09</p>
+      <p n="162">- Falconiformes 12.15</p>
+      <p n="163">- Galliformes 12.14</p>
+      <p n="164">- Gaviiformes 12.21</p>
+      <p n="165">- Grisiformes 12.12</p>
+      <p n="166">- Passeriformes 12.01</p>
+      <p n="167">- Pelecaniformes 12.18</p>
+      <p n="168">- Piciformes 12.02</p>
+      <p n="169">- Podicipediformes 12.20</p>
+      <p n="170">- Procellariiformes 12.19</p>
+      <p n="171">- Psittaciformes 12.10</p>
+      <p n="172">- Rheiformes 12.25</p>
+      <p n="173">- Sphenisciformes 12.27</p>
+      <p n="174">- Strigiformes 12.08</p>
+      <p n="175">- Struthioniformes 12.26</p>
+      <p n="176">- Tinamiformes 12.22</p>
+      <p n="177">- Trogoniformes 12.04</p>
+      <p n="178">REPTILES (8) (CN code: 0106)</p>
+      <p n="179">- Squamata 13.01</p>
+      <p n="180">- Snakes 13.02</p>
+      <p n="181">- Crocodylia 13.04</p>
+      <p n="182">- Testudines:</p>
+      <p n="183">- Cheloniidae 13.03.01</p>
+      <p n="184">- Other cheloniidae 13.03.99</p>
+      <p n="185">AMPHIBIANS (1) (CN code: 0106)</p>
+      <p n="186">- Anura:</p>
+      <p n="187">- Ranidae 14.01.01</p>
+      <p n="188">- Other ranidae 14.01.99</p>
+      <p n="189">- Urodela-Cryptobranchidae 14.02</p>
+      <p n="190">- Other urodela 14.03</p>
+      <p n="191">OTHER VERTEBRATES (1) (CN code: 0106) 19.01</p>
+      <p n="192">INVERTEBRATES (1) (CN code: 0106)</p>
+      <p n="193">- Insects:</p>
+      <p n="194">- Queen bee 24.01.01</p>
+      <p n="195">- Bees 24.01.02</p>
+      <p n="196">- Silk worms 24.01.03</p>
+      <p n="197">- Other insects 24.01.99</p>
+      <p n="198">- Other invertebrates 24.02</p>
+      <p n="199">ANIMAL WASTE (9) (CN code: 0511)</p>
+      <p n="200">- Non-treated high risk material 49.01</p>
+      <p n="201">- Treated high risk material 49.02</p>
+      <p n="202">- Non-treated low risk material 49.03</p>
+      <p n="203">- Treated low risk material 49.04</p>
+      <p n="204">GLANDS AND ORGANS (10) (CN code: 0510)</p>
+      <p n="205">- For the pharmaceutical processing industry 48.07.01</p>
+      <p n="206">(1) Equidae (including zebras) or asinine species or the offspring of crossings of those species.</p>
+      <p n="207">(2) Fowl, turkeys, guinea fowl, ducks, geese, quails, pigeons, pheasants and partridges.</p>
+      <p n="208">(3) In relation to the diseases of the lists I and II of the Annex of the Council Directive 91/67/EEC.</p>
+      <p n="209">(4) Specify if the goods are consigned: (a) from and to a body, institute or centre approved by the competent authority; (b) to a zoo.</p>
+      <p n="210">(5) Specify if the animals are consigned: (a) for breeding; (b) from and to a body, institute or centre approved by the competent authority; (c) to a zoo; (d) for the movement of circus and fairground animals.</p>
+      <p n="211">(6) Specify if the animals are consignd: (a) less than three months; (b) three months or more.</p>
+      <p n="212">(7) Specify if the animals are consigned: (a) for breeding; (b) from and to a body, institute or centre approved by the competent authority; (c) to a zoo; (d) for the movement of circus and fairground animals.</p>
+      <p n="213">(8) Specify if the animals are consigned: (a) for breeding (b) from and to a body, institue or centre approved by the competent authority; (c) to a zoo; (d) for the movement of circus and fairground animals.</p>
+      <p n="214">(9) According to the definition of Article 2 paragraph 1 of Council Directive 90/667/EEC.</p>
+      <p n="215">(10) Aimed at in Commission Decision 92/183/EEC Article 1 paragraph (a).</p>
+    </body>
+  </text>
+</TEI.2>

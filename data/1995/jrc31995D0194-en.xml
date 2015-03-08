@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31995D0194-en" n="31995D0194" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0194 English</title>
+        <title>95/194/EC: Commission Decision of 30 May 1995 amending Decision 93/455/EEC approving certain contingency plans for the control of foot-and-mouth disease</title>
+      </titleStmt>
+      <extent>17 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0194:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0194:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2286</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">4692</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+        <classCode scheme="eurovoc">994</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0194-en." lang="en">
+    <body>
+      <head n="1">95/194/EC: Commission Decision of 30 May 1995 amending Decision 93/455/EEC approving certain contingency plans for the control of foot-and-mouth disease</head>
+      <p n="2">COMMISSION DECISION of 30 May 1995 amending Decision 93/455/EEC approving certain contingency plans for the control of foot-and-mouth disease (Text with EEA relevance) (95/194/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/423/EEC of 26 June 1990 amending Directive 85/511/EEC introducing Community measures for the control of foot-and-mouth disease, Directive 64/432/EEC on animal health problems affecting intra-Community trade in bovine animals and swine and Directive 72/462/EEC on health and veterinary inspection problems upon importation of bovine animals and swine and fresh meat or meat products from third countries (1), and in particular Article 5 (4) thereof,</p>
+      <p n="6">Whereas the Commission has already laid down criteria to be applied when drawing up contingency plans for the control of foot-and-mouth disease by Commission Decision 91/42/EEC of 8 January 1991 laying down the criteria to be applied when drawing up the contingency plans for the control of foot-and-mouth disease, in application of Article 5 of Council Directive 90/423/EEC (2);</p>
+      <p n="7">Whereas the Netherlands has submitted for approval national contingency plans; whereas, after examination these plans permit the desired objective to be attained and fulfil all the criteria laid down in Decision 91/42/EEC;</p>
+      <p n="8">Whereas contingency plans for certain Member States have been approved by Commission Decision 93/455/EEC of 23 July 1993 approving certain contingency plans for the control of foot-and-mouth disease (3); whereas, therefore, it is necessary to amend the said Decision;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Decision 93/455/EEC is hereby amended as follows:</p>
+      <p n="13">'The Netherlands` is added to the Annex.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Decision is addressed to the Member States.</p>
+      <p n="16">Done at Brussels, 30 May 1995.</p>
+      <p n="17">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

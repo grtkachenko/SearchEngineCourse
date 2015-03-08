@@ -1,0 +1,46 @@
+<TEI.2 id="jrc31980R3245-en" n="31980R3245" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31980R3245 English</title>
+        <title>Commission Regulation (EEC) No 3245/80 of 15 December 1980 amending Regulation (EEC) No 2237/77 on the form of farm return to be used for the purpose of determining incomes of agricultural holdings</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31980R3245:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31980R3245:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31980R3245-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 3245/80 of 15 December 1980 amending Regulation (EEC) No 2237/77 on the form of farm return to be used for the purpose of determining incomes of agricultural holdings</head>
+      <p n="2">COMMISSION REGULATION (EEC) No 3245/80 of 15 December 1980 amending Regulation (EEC) No 2237/77 on the form of farm return to be used for the purpose of determining incomes of agricultural holdings</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to the Treaty concerning the accession of the Hellenic Republic to the European Community and to the European Atomic Energy Community (1), signed on 28 May 1979, and in particular Article 146 of the Act annexed thereto,</p>
+      <p n="6">Whereas under Article 22 of the Act, Commission Regulation (EEC) No 2237/77 (2), as last amended by Regulation (EEC) No 600/79 (3) is to be amended in conformity with the guidelines set out in Annex II and under the conditions laid down in Article 146 of that Act ; consequently, Regulation (EEC) No 2237/77 should be completed accordingly,</p>
+      <p n="7">HAS ADOPTED THIS REGULATION:</p>
+      <p n="8">Article 1</p>
+      <p n="9">To Annex II, Title II of Regulation (EEC) No 2237/77 should therefore be added as follows: 1. under "G. Land and buildings, deadstock and circulating capital", heading "Depreciation of machinery and equipment", to footnote 1 should be added:</p>
+      <p n="10">"Dr 6 000";</p>
+      <p n="11">2. under "I. Value Added Tax (VAT)", heading 107 "VAT system" should be added: &gt;PIC FILE= "T0017429"&gt;</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on 1 January 1981.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 15 December 1980.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Finn GUNDELACH</p>
+      <p n="18">Vice-President</p>
+      <p n="19">(1) OJ No L 291, 19.11.1979, p. 9. (2) OJ No L 263, 17.10.1977, p. 1. (3) OJ No L 78, 30.3.1979, p. 22.</p>
+    </body>
+  </text>
+</TEI.2>

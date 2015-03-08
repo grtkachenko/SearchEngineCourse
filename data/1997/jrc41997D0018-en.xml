@@ -1,0 +1,54 @@
+<TEI.2 id="jrc41997D0018-en" n="41997D0018" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41997D0018 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 7 October 1997 on contributions from Norway and Iceland to the costs of installing and operating of the C.SIS (SCH/Com-ex (97) 18)</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0018:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0018:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">397</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">560</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41997D0018-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 7 October 1997 on contributions from Norway and Iceland to the costs of installing and operating of the C.SIS (SCH/Com-ex (97) 18)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 7 October 1997</p>
+      <p n="4">on contributions from Iceland and Norway to the costs of installing and operating of the C.SIS</p>
+      <p n="5">(SCH/Com-ex (97) 18)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Articles 92 and 119 of the abovementioned Convention,</p>
+      <p n="9">Having regard to Articles 2 and 3 of the Cooperation Agreement between the Contracting Parties to the Schengen Agreement and the Schengen Convention and the Republic of Iceland and the Kingdom of Norway,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">1. The contributions of Iceland and Norway, hereinafter referred to as the States of the Cooperation Agreement, to the costs of installing and operating the C.SIS:</p>
+      <p n="12">The contributions of the States of the Cooperation Agreement shall correspond to their share in the total of the gross domestic products of the Contracting Parties and the States of the Cooperation Agreement.</p>
+      <p n="13">The contributions of the Contracting Parties shall be calculated pursuant to Article 119 (1) of the Schengen Convention.</p>
+      <p n="14">2. Method of calculation:</p>
+      <p n="15">- The contributions from Iceland and Norway shall be calculated by means of a comparison of the gross domestic products of all Contracting Parties and the States of the Cooperation Agreement.</p>
+      <p n="16">- The contributions from the Contracting Parties which are Member States of the EU shall be calculated on the basis of the value added tax assessment base pursuant to the second sentence of Article 119(1) of the Schengen Convention after deducting the contributions from Iceland and Norway.</p>
+      <p n="17">3. The deadline for payment of contributions by the Nordic States shall be fixed for 1 January 1997.</p>
+      <p n="18">Vienna, 7 October 1997.</p>
+      <p n="19">The Chairman</p>
+      <p n="20">K. Schlögl</p>
+    </body>
+  </text>
+</TEI.2>

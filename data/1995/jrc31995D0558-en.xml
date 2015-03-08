@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31995D0558-en" n="31995D0558" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0558 English</title>
+        <title>95/558/EC, Euratom: Council and Commission Decision of 4 December 1995 concluding the Additional Protocol to the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0558:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0558:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1464</classCode>
+        <classCode scheme="eurovoc">211</classCode>
+        <classCode scheme="eurovoc">4048</classCode>
+        <classCode scheme="eurovoc">5063</classCode>
+        <classCode scheme="eurovoc">5315</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0558-en." lang="en">
+    <body>
+      <head n="1">95/558/EC, Euratom: Council and Commission Decision of 4 December 1995 concluding the Additional Protocol to the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part</head>
+      <p n="2">COUNCIL AND COMMISSION DECISION of 4 December 1995 concluding the Additional Protocol to the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part (95/558/EC, Euratom)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="5">Having regard to the Treaty establishing the European Community, and in particular Article 238 thereof, in conjunction with Article 228 (2), second sentence, and (3), second subparagraph thereof,</p>
+      <p n="6">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular the second subparagraph of Article 101 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to the assent of the European Parliament (1),</p>
+      <p n="9">Having regard to the approval given by the Council pursuant to Article 101 of the Treaty establishing the European Atomic Energy Community,</p>
+      <p n="10">Whereas, at its meeting in Copenhagen on 21 and 22 June 1993, the European Council called for further Community programmes to be opened up to the associated countries of central and eastern Europe, taking as a starting point programmes which are already open to EFTA countries;</p>
+      <p n="11">Whereas the Commission has negotiated, on behalf of the European Community and the European Atomic Energy Community, an Additional Protocol to the Europe Agreement with the Republic of Bulgaria,</p>
+      <p n="12">HAVE DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Additional Protocol to the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part, signed on 20 July 1995 is hereby approved on behalf of the European Community and on behalf of the European Atomic Energy Community.</p>
+      <p n="15">The text of the Additional Protocol is attached to this Decision.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The position to be taken by the Community within the Association Council shall be decided by the Council, acting on a proposal from the Commission, in accordance with the relevant provisions of the Treaties establishing the European Community and the European Atomic Energy Community.</p>
+      <p n="18">Article 3</p>
+      <p n="19">The President of the Council shall undertake the notification provided for in Article 4 of the Additional Protocol on behalf of the European Community (2). The President of the Commission shall undertake the same notification for the European Atomic Energy Community.</p>
+      <p n="20">Done at Brussels, 4 December 1995.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">J. SOLANA</p>
+      <p n="24">For the Commission</p>
+      <p n="25">The President</p>
+      <p n="26">J. SANTER</p>
+      <p n="27">(1) OJ No C 323, 4. 12. 1995.</p>
+      <p n="28">(2) The date of entry into force of the Additional Protocol will be published in the Official Journal of the European Communities by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

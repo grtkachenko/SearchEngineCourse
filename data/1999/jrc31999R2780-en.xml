@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31999R2780-en" n="31999R2780" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2780 English</title>
+        <title>Commission Regulation (EC) No 2780/1999 of 27 December 1999 amending Regulation (EC) No 2449/96 opening and providing for the administration of certain annual tariff quotas for products covered by CN codes 0714 10 91, 0714 10 99, 0714 90 11 and 0714 90 19 originating in certain third countries other than Thailand</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2780:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2780:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1355</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">1781</classCode>
+        <classCode scheme="eurovoc">5969</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2780-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2780/1999 of 27 December 1999 amending Regulation (EC) No 2449/96 opening and providing for the administration of certain annual tariff quotas for products covered by CN codes 0714 10 91, 0714 10 99, 0714 90 11 and 0714 90 19 originating in certain third countries other than Thailand</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2780/1999</p>
+      <p n="3">of 27 December 1999</p>
+      <p n="4">amending Regulation (EC) No 2449/96 opening and providing for the administration of certain annual tariff quotas for products covered by CN codes 0714 10 91, 0714 10 99, 0714 90 11 and 0714 90 19 originating in certain third countries other than Thailand</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations(1), and in particular Article 1(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2449/96(2) lays down the detailed rules of application for certain annual tariff quotas under which products falling within CN codes 0714 10 91, 0714 10 99, 0714 90 11 and 0714 90 19 and originating in certain third countries other than Thailand can be imported into the Community at a reduced rate of duty;</p>
+      <p n="10">(2) the detailed rules of application provide for the issue of import licences by the competent authorities of the Member States only if the Commission agrees in advance to their issue;</p>
+      <p n="11">(3) while this provision arose out of a desire for orderly management of the quotas, experience shows that it is unnecessary and complicates administration;</p>
+      <p n="12">(4) it should therefore be deleted, while making provision so that the Commission has sufficient time when import licences are being issued to intervene with the national authorities where problems arise;</p>
+      <p n="13">(5) the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Paragraphs 4 and 5 of Article 8 of Regulation (EC) No 2449/96 are replaced by the following: "4. Import licences shall be issued on the fourth working day following the date of their lodgement, except where the Commission has informed the authorities of the Member State by fax or telex that the conditions for issuing the licences in question have not been met.</p>
+      <p n="17">In such cases the Commission, having consulted the authorities in the third country of origin where necessary, shall take the appropriate measures.</p>
+      <p n="18">5. Import licences for products originating in Indonesia or China in respect of which applications are lodged in December for the following year shall not be issued before the first working day in January of the year in question."</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on 1 January 2000.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 27 December 1999.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Margot WALLSTRÖM</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 146, 20.6.1996, p. 1.</p>
+      <p n="27">(2) OJ L 333, 21.12.1996, p. 14.</p>
+    </body>
+  </text>
+</TEI.2>

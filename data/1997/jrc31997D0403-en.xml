@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31997D0403-en" n="31997D0403" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0403 English</title>
+        <title>97/403/EC: Council Decision of 2 June 1997 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Swiss Confederation adding to the Agreement between the European Economic Community and the Swiss Confederation a protocol on mutual administrative assistance in customs matters</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0403:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0403:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">206</classCode>
+        <classCode scheme="eurovoc">2850</classCode>
+        <classCode scheme="eurovoc">4324</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">5545</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0403-en." lang="en">
+    <body>
+      <head n="1">97/403/EC: Council Decision of 2 June 1997 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Swiss Confederation adding to the Agreement between the European Economic Community and the Swiss Confederation a protocol on mutual administrative assistance in customs matters</head>
+      <p n="2">COUNCIL DECISION of 2 June 1997 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the Swiss Confederation adding to the Agreement between the European Economic Community and the Swiss Confederation a protocol on mutual administrative assistance in customs matters (97/403/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 in conjunction with the first sentence of Article 228 (2) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas, for mutual administrative assistance in customs matters to take place between the two parties, it appears necessary to add a protocol to the Agreement between the European Economic Community and the Swiss Confederation (1);</p>
+      <p n="7">Whereas negotiations to that effect have taken place with the Swiss Confederation and have led to an Agreement in the form of an Exchange of Letters which it is in the Community's interest to approve,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Agreement in the form of an Exchange of Letters between the European Community and the Swiss Confederation, adding to the Agreement between the European Economic Community and the Swiss Confederation a protocol on mutual administrative assistance in customs matters is hereby approved on behalf of the Community.</p>
+      <p n="11">The text of the Agreement in the form of an Exchange of Letters is attached to this Decision.</p>
+      <p n="12">If the Agreement in the form of an Exchange of Letters has not entered into force on 1 July 1997, it will be applied provisionally as from that date.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The President of the Council is hereby authorized to designate the persons authorized to sign the Agreement in the form of an Exchange of Letters referred to in Article 1.</p>
+      <p n="15">Article 3</p>
+      <p n="16">The President of the Council shall, on behalf of the Community, give the notification provided for by the Agreement in the form of an Exchange of Letters (2).</p>
+      <p n="17">Article 4</p>
+      <p n="18">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="19">Done at Luxembourg, 2 June 1997.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">H. VAN MIERLO</p>
+      <p n="23">(1) OJ No L 300, 31. 12. 1972, p. 189.</p>
+      <p n="24">(2) The date of entry into force of the Protocol will be published in the Official Journal of the European Communities.</p>
+    </body>
+  </text>
+</TEI.2>

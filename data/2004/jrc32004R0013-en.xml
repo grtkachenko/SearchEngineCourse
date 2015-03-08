@@ -1,0 +1,107 @@
+<TEI.2 id="jrc32004R0013-en" n="32004R0013" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0013 English</title>
+        <title>Commission Regulation (EC) No 13/2004 of 8 December 2003 determining the composition of the list of waterways of a maritime character provided for in Article 3(d) of Council Regulation (EEC) No 1108/70 (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>72 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0013:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0013:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1433</classCode>
+        <classCode scheme="eurovoc">3160</classCode>
+        <classCode scheme="eurovoc">3435</classCode>
+        <classCode scheme="eurovoc">4515</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0013-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 13/2004 of 8 December 2003 determining the composition of the list of waterways of a maritime character provided for in Article 3(d) of Council Regulation (EEC) No 1108/70 (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 13/2004</p>
+      <p n="3">of 8 December 2003</p>
+      <p n="4">determining the composition of the list of waterways of a maritime character provided for in Article 3(d) of Council Regulation (EEC) No 1108/70</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 1108/70 of 4 June 1970 introducing an accounting system for expenditure on infrastructure in respect of transport by rail, road and inland waterway(1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 3(d),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Commission Regulation (EEC) No 281/71 of 9 February 1971 determining the composition of the list of waterways of a maritime character provided for in Article 3(e) of Council Regulation (EEC) No 1108/70 of 4 June 1970(2) has been substantially amended several times(3). In the interests of clarity and rationality the said Regulation should be codified.</p>
+      <p n="11">(2) Regulation (EEC) No 1108/70 provides that infrastructure expenditure accounts are not required for various categories of infrastructure. This provision applies, inter alia, to certain waterways of a maritime character, a list of which is to be drawn up by the Commission.</p>
+      <p n="12">(3) In drawing up this list account must be taken of the proportion of the traffic on waterways of maritime character accounted for by inland waterway traffic, or of the desirability of introducing an accounting system for infrastructure expenditure in respect of such waterways in the light of the institution of a system of charging for the use of infrastructure,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The list of waterways of a maritime character provided for in Article 3(d) of Regulation (EEC) No 1108/70 shall be as given in Annex I to this Regulation.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Regulation (EEC) No 281/71 is repealed.</p>
+      <p n="18">References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex III.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 8 December 2003.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Loyola De Palacio</p>
+      <p n="25">Vice-President</p>
+      <p n="26">(1) OJ L 130, 15.6.1970, p. 4.</p>
+      <p n="27">(2) OJ L 33, 10.2.1971, p. 11.</p>
+      <p n="28">(3) See Annex II.</p>
+      <p n="29">ANNEX I</p>
+      <p n="30">List of waterways of a maritime character</p>
+      <p n="31">Kingdom of Belgium</p>
+      <p n="32">- Lower Scheldt</p>
+      <p n="33">- Ghent-Terneuzen Maritime Canal, downstream from the northern branch of the Ghent Circular Canal</p>
+      <p n="34">Federal Republic of Germany</p>
+      <p n="35">- Kiel Canal</p>
+      <p n="36">- Lower Ems</p>
+      <p n="37">- Lower Weser</p>
+      <p n="38">- Lower Elbe</p>
+      <p n="39">French Republic</p>
+      <p n="40">- Seine, downstream from Jeanne-d'Arc bridge in Rouen</p>
+      <p n="41">- Loire, downstream from Nantes (confluence with the Erdre)</p>
+      <p n="42">- Garonne, downstream from Pierre bridge in Bordeaux, and Gironde</p>
+      <p n="43">Kingdom of the Netherlands</p>
+      <p n="44">- North Sea Canal</p>
+      <p n="45">- Rotterdamse Waterweg and the Nieuwe Maas</p>
+      <p n="46">- Westerschelde</p>
+      <p n="47">- Ghent-Terneuzen Canal</p>
+      <p n="48">Portuguese Republic</p>
+      <p n="49">- Douro, a jusante da ponte D. Luís, da cidade do Porto</p>
+      <p n="50">- Tejo, a jusante do Carregado</p>
+      <p n="51">- Sado, a jusante do esteiro da Marateca</p>
+      <p n="52">- Guadiana, a jusante do Pomarão</p>
+      <p n="53">Republic of Finland</p>
+      <p n="54">- Saimaan kanava/Saima kanal</p>
+      <p n="55">- Saimaan vesistö/Saimens vattendrag</p>
+      <p n="56">Kingdom of Sweden</p>
+      <p n="57">- Trollhätte kanal and Göta älv</p>
+      <p n="58">- Lake Vänern</p>
+      <p n="59">- Södertälje kanal</p>
+      <p n="60">- Lake Mälaren</p>
+      <p n="61">United Kingdom of Great Britain and Northern Ireland</p>
+      <p n="62">- Weaver Navigation (Northwich to the junction with the Manchester Ship Canal)</p>
+      <p n="63">- Gloucester and Sharpness Canal.</p>
+      <p n="64">ANNEX II</p>
+      <p n="65">Repealed Regulation and its successive amendments that have not been repealed</p>
+      <p n="66">Regulation (EEC) No 281/71 (OJ L 33, 10.2.1971, p. 11)</p>
+      <p n="67">- Act of Accession of the Kingdom of Denmark, Ireland and the United Kingdom of Great Britain and Northern Ireland (OJ L 73, 27.3.1972, p. 92)</p>
+      <p n="68">- Act of Accession of the Kingdom of Spain and the Portuguese Republic (OJ L 302, 15.11.1985, p. 162)</p>
+      <p n="69">- Act of Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden (OJ C 241, 29.8.1994, p. 165)</p>
+      <p n="70">ANNEX III</p>
+      <p n="71">CORRELATION TABLE</p>
+      <p n="72">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

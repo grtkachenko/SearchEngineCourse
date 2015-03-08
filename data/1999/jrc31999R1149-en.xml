@@ -1,0 +1,74 @@
+<TEI.2 id="jrc31999R1149-en" n="31999R1149" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1149 English</title>
+        <title>Council Regulation (EC, Euratom) No 1149/1999 of 25 May 1999 amending Regulation (EC, Euratom) No 2728/94 establishing a Guarantee Fund for external actions</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1149:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1149:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1052</classCode>
+        <classCode scheme="eurovoc">1130</classCode>
+        <classCode scheme="eurovoc">1132</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2609</classCode>
+        <classCode scheme="eurovoc">5866</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1149-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC, Euratom) No 1149/1999 of 25 May 1999 amending Regulation (EC, Euratom) No 2728/94 establishing a Guarantee Fund for external actions</head>
+      <p n="2">COUNCIL REGULATION (EC, EURATOM) No 1149/1999</p>
+      <p n="3">of 25 May 1999</p>
+      <p n="4">amending Regulation (EC, Euratom) No 2728/94 establishing a Guarantee Fund for external actions</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 308 thereof,</p>
+      <p n="7">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 203 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Having regard to the opinion of the Court of Auditors(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) the Guarantee Fund is endowed by payments from the general budget of the European Communities, by the interest on its invested resources and by the amounts recovered from defaulting debtors where the Fund has already honoured the guarantee;</p>
+      <p n="13">(2) experience of the functioning of the Guarantee Fund indicates that a ratio of 9 % between the Fund's resources and guaranteed liabilities in principal, increased by unpaid interest due, would be adequate;</p>
+      <p n="14">(3) payments to the Guarantee Fund equal to 9 % of the amount of each operation would seem sufficient to attain the target amount;</p>
+      <p n="15">(4) the Guarantee Fund attained its target amount on 31 December 1997 and therefore the provisioning rate should be reviewed;</p>
+      <p n="16">(5) if the Guarantee Fund exceeds the target amount the surplus is paid back to the general budget of the European Communities;</p>
+      <p n="17">(6) the Commission should report to the European Parliament and the Council on the functioning of the Fund and take into account possible changes of risks to which the Guarantee Fund is exposed following enlargement of the Community;</p>
+      <p n="18">(7) Regulation (EC, Euratom) No 2728/94(4) should be amended accordingly;</p>
+      <p n="19">(8) the Treaties do not provide any powers other than those pursuant to Article 308 of the EC Treaty and Article 203 of the Euratom Treaty for the adoption of this Regulation,</p>
+      <p n="20">HAS ADOPTED THIS REGULATION:</p>
+      <p n="21">Article 1</p>
+      <p n="22">Regulation (EC, Euratom) No 2728/94 is hereby amended as follows:</p>
+      <p n="23">1. in Article 3 the second paragraph shall be replaced by the following: "The target amount shall be 9 % of the Community total outstanding capital liabilities arising from each operation, increased by unpaid interest due.";</p>
+      <p n="24">2. Article 4(1) shall be replaced by the following: "The payments provided for under the first indent of Article 2 shall be equivalent to 9 % of the capital value of the operations.";</p>
+      <p n="25">3. in Article 5 the first paragraph shall be replaced by the following: "If, as a result of the activation of guarantees following default, resources in the Fund stand below 75 % of the target amount, the rate of provisioning on new operations shall be raised to 10 % until the target amount has once more been reached.";</p>
+      <p n="26">4. Article 9 shall be replaced by the following: "The Commission shall submit to the European Parliament and the Council comprehensive reports on the functioning of the Fund, both at the time of the conclusion of the first accession agreement with the applicant States, and before 31 December 2006. The Commission shall, if necessary, submit to the Council appropriate proposals for modification of the parameters of the Fund."</p>
+      <p n="27">Article 2</p>
+      <p n="28">This Regulation shall enter into force on 1 January 2000.</p>
+      <p n="29">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="30">Done at Brussels, 25 May 1999.</p>
+      <p n="31">For the Council</p>
+      <p n="32">The President</p>
+      <p n="33">H. EICHEL</p>
+      <p n="34">(1) OJ C 32, 6.2.1999, p. 11.</p>
+      <p n="35">(2) OJ C 379, 7.12.1998, p. 155.</p>
+      <p n="36">(3) Opinion delivered on 30 October 1998.</p>
+      <p n="37">(4) OJ L 293, 12.11.1994, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

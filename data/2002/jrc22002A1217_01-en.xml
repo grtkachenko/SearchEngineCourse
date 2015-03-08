@@ -1,0 +1,68 @@
+<TEI.2 id="jrc22002A1217_01-en" n="22002A1217(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22002A1217(01) English</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22002A1217(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22002A1217(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">2275</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">3462</classCode>
+        <classCode scheme="eurovoc">614</classCode>
+        <classCode scheme="eurovoc">666</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22002A1217_01-en." lang="en">
+    <body>
+      <p n="2">Agreement in the form of an Exchange of Letters</p>
+      <p n="3">between the European Community, of the one part, and the Kingdom of Norway, of the other part, on Protocol 2 to the bilateral Free Trade Agreement between the European Economic Community and the Kingdom of Norway</p>
+      <p n="4">A. Letter from the Community</p>
+      <p n="5">Brussels, 27 November 2002</p>
+      <p n="6">Sir,</p>
+      <p n="7">I have the honour to confirm that the European Community is in agreement with the "Agreed minutes" attached to this letter concerning a number of changes to the import arrangements applied by the Community and the Kingdom of Norway respectively to certain processed agricultural products which are covered by Protocol 2 to the bilateral Free Trade Agreement.</p>
+      <p n="8">I should be obliged if you would confirm that the Government of the Kingdom of Norway is in agreement with the content of this letter.</p>
+      <p n="9">Please accept, Sir, the assurance of my highest consideration.</p>
+      <p n="10">For the European Community</p>
+      <p n="11">&gt;PIC FILE= "L_2002341EN.006402.TIF"&gt;</p>
+      <p n="12">B. Letter from Norway</p>
+      <p n="13">Brussels, 27 November 2002</p>
+      <p n="14">Sir,</p>
+      <p n="15">I have the honour to acknowledge receipt of your letter of today's date which reads as follows:</p>
+      <p n="16">"I have the honour to confirm that the European Community is in agreement with the 'agreed minutes' attached to this letter concerning a number of changes to the import arrangements applied by the Community and the Kingdom of Norway respectively to certain processed agricultural products which are covered by Protocol 2 to the bilateral Free Trade Agreement."</p>
+      <p n="17">I have the honour to confirm that my Government is in agreement with the content of your letter and the proposed date of entry into force of the amendments.</p>
+      <p n="18">Please accept, Sir, the assurance of my highest consideration.</p>
+      <p n="19">For the Government of the Kingdom of Norway</p>
+      <p n="20">&gt;PIC FILE= "L_2002341EN.006501.TIF"&gt;</p>
+      <p n="21">AGREED MINUTES</p>
+      <p n="22">I. Introduction</p>
+      <p n="23">A number of meetings were held between European Commission officials and officials of the Kingdom of Norway on the autonomous measures adopted following the accession of Austria, Finland and Sweden to the EU in 1995.</p>
+      <p n="24">After these meetings, it was agreed to submit for approval to their respective authorities a number of changes to the import arrangements applied by the Community and the Kingdom of Norway respectively to certain processed agricultural products, which are covered by Protocol 2 to the bilateral Free Trade Agreement.</p>
+      <p n="25">These changes will apply from 1 January 2003.</p>
+      <p n="26">II. Norwegian import arrangements</p>
+      <p n="27">1. The Kingdom of Norway will open the following annual tariff quotas for the European Community:</p>
+      <p n="28">&gt;TABLE&gt;</p>
+      <p n="29">III. Community import arrangements</p>
+      <p n="30">1. The Community will open the following annual quotas for Norway:</p>
+      <p n="31">&gt;TABLE&gt;</p>
+      <p n="32">The tariff quotas specified under II and III shall be granted to originating products in accordance with the rules of origin laid down in Protocol 3 to the EC/Norway Free Trade Agreement.</p>
+    </body>
+  </text>
+</TEI.2>

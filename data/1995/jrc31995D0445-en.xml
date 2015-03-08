@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31995D0445-en" n="31995D0445" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0445 English</title>
+        <title>95/445/EC: Council Decision of 30 October 1995 concerning the conclusion of the Framework Agreement for cooperation between the European Economic Community and the Federative Republic of Brazil</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0445:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0445:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">209</classCode>
+        <classCode scheme="eurovoc">2281</classCode>
+        <classCode scheme="eurovoc">3219</classCode>
+        <classCode scheme="eurovoc">427</classCode>
+        <classCode scheme="eurovoc">5040</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0445-en." lang="en">
+    <body>
+      <head n="1">95/445/EC: Council Decision of 30 October 1995 concerning the conclusion of the Framework Agreement for cooperation between the European Economic Community and the Federative Republic of Brazil</head>
+      <p n="2">COUNCIL DECISION of 30 October 1995 concerning the conclusion of the Framework Agreement for cooperation between the European Economic Community and the Federative Republic of Brazil (95/445/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Articles 113 and 130y, in conjunction with the first sentence of Article 228 (2) and the first subparagraph of Article 228 (3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas, pursuant to Article 130u of the Treaty, Community policy in the sphere of development cooperation should foster the sustainable economic and social development of the developing countries, their smooth and gradual integration into the world economy and the campaign against poverty in those countries;</p>
+      <p n="8">Whereas the Community should approve, for the attainment of its aims in the sphere of external relations, the Framework Agreement for trade and economic cooperation with the Federative Republic of Brazil,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Framework Agreement for cooperation between the European Economic Community and the Federative Republic of Brazil is hereby approved on behalf of the Community.</p>
+      <p n="12">The text of the Agreement is attached to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The President of the Council shall, on behalf of the Community, give the notification provided for in Article 33 of the Agreement (3).</p>
+      <p n="15">Article 3</p>
+      <p n="16">The Commission, assisted by representatives of the Member States, shall represent the Community in the Joint Committee set up by Article 29 of the Agreement.</p>
+      <p n="17">Article 4</p>
+      <p n="18">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="19">Done at Brussels, 30 October 1995.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">J. SOLANA</p>
+      <p n="23">(1) OJ No C 163, 30. 6. 1992, p. 11.</p>
+      <p n="24">(2) OJ No C 337, 21. 12. 1992, p. 237.</p>
+      <p n="25">(3) The date of entry into force of the Agreement will be published in the Official Journal of the European Communities by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

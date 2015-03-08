@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32000D0015-en" n="32000D0015" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0015 English</title>
+        <title>2000/15/EC: Council Decision of 2 December 1999 concerning the conclusion of the Agreement for scientific and technological cooperation between the European Community and the Argentine Republic</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0015:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0015:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">225</classCode>
+        <classCode scheme="eurovoc">2525</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0015-en." lang="en">
+    <body>
+      <head n="1">2000/15/EC: Council Decision of 2 December 1999 concerning the conclusion of the Agreement for scientific and technological cooperation between the European Community and the Argentine Republic</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 2 December 1999</p>
+      <p n="4">concerning the conclusion of the Agreement for scientific and technological cooperation between the European Community and the Argentine Republic</p>
+      <p n="5">(2000/15/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 170, in conjunction with Article 300(2), first sentence of the first subparagraph, and Article 300(3), first subparagraph, thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) A Framework Agreement for trade and economic cooperation between the European Economic Community and the Argentine Republic(3) was concluded on 2 April 1990;</p>
+      <p n="12">(2) The European Community and the Argentine Republic are pursuing specific RTD programmes in areas of common interest;</p>
+      <p n="13">(3) On the basis of past experience, both sides have expressed a desire to establish a deeper and broader framework for the conduct of collaboration in science and technology;</p>
+      <p n="14">(4) This Cooperation Agreement in the field of science and technology forms part of the global cooperation between the European Community and the Argentine Republic;</p>
+      <p n="15">(5) By its Decision of 25 January 1999, the Council authorised the Commission to negotiate an Agreement for scientific and technological cooperation between the European Community and the Argentine Republic;</p>
+      <p n="16">(6) By its Decision of 29 July 1999, the Council decided that the Agreement for scientific and technological cooperation was to be signed on behalf of the European Community;</p>
+      <p n="17">(7) The Agreement for scientific and technological cooperation was signed on 20 September 1999;</p>
+      <p n="18">(8) The Agreement for scientific and technological cooperation between the European Community and the Argentine Republic should be approved,</p>
+      <p n="19">HAS DECIDED AS FOLLOWS:</p>
+      <p n="20">Article 1</p>
+      <p n="21">The Agreement for scientific and technological cooperation between the European Community and the Argentine Republic is hereby approved on behalf of the Community.</p>
+      <p n="22">The text of the Agreement is attached to this Decision.</p>
+      <p n="23">Article 2</p>
+      <p n="24">Pursuant to Article 11 of the Agreement, the President of the Council shall give notification that the procedures necessary for the entry into force of the Agreement have been completed on the part of the Community.</p>
+      <p n="25">Done at Brussels, 2 December 1999.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">E. TUOMIOJA</p>
+      <p n="29">(1) OJ C 274 E, 28.9.1999, p. 1.</p>
+      <p n="30">(2) Opinion delivered on 4 November 1999 (not yet published in the Official Journal).</p>
+      <p n="31">(3) OJ L 295, 26.10.1990, p. 67.</p>
+    </body>
+  </text>
+</TEI.2>

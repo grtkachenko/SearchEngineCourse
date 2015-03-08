@@ -1,0 +1,93 @@
+<TEI.2 id="jrc31998F0700-en" n="31998F0700" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998F0700 English</title>
+        <title>98/700/JHA: Joint Action of 3 December 1998 adopted by the Council on the basis of Article K.3 of the Treaty on European Union concerning the setting up of a European Image Archiving System (FADO)</title>
+      </titleStmt>
+      <extent>56 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998F0700:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998F0700:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2492</classCode>
+        <classCode scheme="eurovoc">3017</classCode>
+        <classCode scheme="eurovoc">4066</classCode>
+        <classCode scheme="eurovoc">4366</classCode>
+        <classCode scheme="eurovoc">4488</classCode>
+        <classCode scheme="eurovoc">5544</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998F0700-en." lang="en">
+    <body>
+      <head n="1">98/700/JHA: Joint Action of 3 December 1998 adopted by the Council on the basis of Article K.3 of the Treaty on European Union concerning the setting up of a European Image Archiving System (FADO)</head>
+      <p n="2">JOINT ACTION of 3 December 1998 adopted by the Council on the basis of Article K.3 of the Treaty on European Union concerning the setting up of a European Image Archiving System (FADO) (98/700/JHA)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty on European Union, and in particular Article K.3(2)(b) thereof,</p>
+      <p n="5">Whereas Article K.1(3) of the Treaty provides that immigration policy and policy regarding nationals of third countries are matters of common interest;</p>
+      <p n="6">Whereas the fight against false documents is an area covered by immigration policy and police cooperation; whereas the proliferation of genuine and false documents necessitates frequent updating; whereas the fact that the techniques used to produce genuine documents and their counterfeits are increasingly sophisticated also necessitates a high-quality medium;</p>
+      <p n="7">Whereas the European Fraud Bulletin and the Handbook of Genuine Documents do not fully meet the requirements of speed and accuracy of reproduction, which is why the use of a computerised image archiving system, with proper training for the staff concerned, is a key element in any overall strategy designed to meet the needs of the Member States;</p>
+      <p n="8">Whereas several Member States have computerised image archiving systems which they are in the process of putting into operation;</p>
+      <p n="9">Whereas, in order to ensure a high level of control by the Member States, it would be useful to introduce a computerised image archiving system providing access to document checkers in the Member States; whereas this system should enable users to have at their disposal information on any new forgery methods that are detected and on the new genuine documents that are in circulation;</p>
+      <p n="10">Whereas, in order to ensure that the information in the system is compatible and uniform, it is necessary to draw up procedures for the preparation of Member States' contributions for inclusion in the system and procedures for controlling and verifying such contributions;</p>
+      <p n="11">Whereas this Joint Action does not affect the competence of the Member States relating to the recognition of passports, travel documents, visas, or other identity documents,</p>
+      <p n="12">HAS ADOPTED THIS JOINT ACTION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">1. A European image archiving system shall be set up for the purpose of exchanging, by computerised means and within very short periods of time, information which the Member States possess concerning genuine and false documents that have been recorded in accordance with the procedures set out in the Annex to this Joint Action.</p>
+      <p n="15">2. This system shall not replace or eliminate ordinary exchanges on paper until all the Member States are in a position to use the computerised system.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The database of the system shall contain, among other things, the following information:</p>
+      <p n="18">(a) images of false and forged documents;</p>
+      <p n="19">(b) images of genuine documents;</p>
+      <p n="20">(c) summary information on forgery techniques;</p>
+      <p n="21">(d) summary information on security techniques.</p>
+      <p n="22">Article 3</p>
+      <p n="23">The setting up of the European system shall not prevent each Member State from developing and using its own national system corresponding to the requirements of the national border services and the internal services responsible for the verification of documents.</p>
+      <p n="24">Article 4</p>
+      <p n="25">The Council shall adopt without delay the technical specifications relating to compatibility with existing systems, to the entering of information in the system and to the procedures for controlling and verifying such information.</p>
+      <p n="26">Article 5</p>
+      <p n="27">This Joint Action shall be published in the Official Journal and enter into force on the day following that of its publication.</p>
+      <p n="28">Article 1 shall apply no later than 12 months after the measures referred to in Article 4 are adopted.</p>
+      <p n="29">Done at Brussels, 3 December 1998.</p>
+      <p n="30">For the Council</p>
+      <p n="31">The President</p>
+      <p n="32">K. SCHLÖGL</p>
+      <p n="33">ANNEX</p>
+      <p n="34">EUROPEAN IMAGE ARCHIVING SYSTEM</p>
+      <p n="35">A computerised system shall be created within the General Secretariat of the Council, which shall contain genuine documents, together with false and forged documents.</p>
+      <p n="36">The name of the European system is FADO (False and Authentic Documents).</p>
+      <p n="37">1. Description of the system</p>
+      <p n="38">- the system shall be read from one central service located in each Member State,</p>
+      <p n="39">- the system shall be based on the Internet technology. The system shall ensure that the information can be transmitted quickly to the national central services. As soon as the information has been given to the General Secretariat of the Council, it shall be entered as quickly as possible into the FADO system. Each Member State shall be responsible for adding these data to its own national system or copy of the FADO system,</p>
+      <p n="40">- the system shall be multilingual,</p>
+      <p n="41">- the system shall be 'user-friendly`,</p>
+      <p n="42">- the system shall be based on a very strict codification. The security of the information contained in the computerised system shall be guaranteed. The system shall use special data lines between the General Secretariat of the Council and the central services located in the Member States,</p>
+      <p n="43">- within each Member State, the system shall be read through a secure internet from a central service. The Member State may use the same system internally on its own territory (which means connecting different stations at its various border control posts or other competent authorities). There shall be no direct link between a workstation, other than a national central service, and the central point in the General Secretariat. A mechanism shall be created to duplicate and update the system located in the Member States from the FADO system (tape, removable discs, CD-ROM etc.),</p>
+      <p n="44">- each Member State shall be free to develop its own national secure system for internal data transmission,</p>
+      <p n="45">- the FADO system shall work through a network between the central point within the General Secretariat and the central services located in each Member State, which will allow for the rapid exchange of information,</p>
+      <p n="46">- as documents will be sent electronically to enable them to be entered in the existing national systems, the format used for the images shall be a standard one (JPEG, TIFF, BMP, etc.). The image quality shall be the best one possible, but there shall also be a proper balance between the image quality, the size and the compression,</p>
+      <p n="47">- zoomed images shall, if necessary, be available for the important parts of the image,</p>
+      <p n="48">- the system shall allow for a comparison on the screen between the original document and a false or forged document,</p>
+      <p n="49">- the system shall provide explanations on different forgery techniques and on security techniques,</p>
+      <p n="50">- cross-references shall be necessary in order to enable the users to find all the information about a document very quickly,</p>
+      <p n="51">- first priority shall be given to the documents of the Member States, as well as to the documents of third countries from where there are regular immigration flows to the Member States. The information in the system shall be extended and updated to include all other documents, making it as complete as possible,</p>
+      <p n="52">- the system shall introduce a 'flash` which would entail sending a warning to all Member States about a particular false document via e-mail,</p>
+      <p n="53">- the system shall have more than one level. The possibility of developing an additional level of query, in order to include more detailed information for experts, shall be borne in mind from the outset,</p>
+      <p n="54">- the system shall contain a special zone for the inclusion of documents which are not recognised by one or more Member States.</p>
+      <p n="55">2. Costs of the system</p>
+      <p n="56">The costs relating to the setting up and running of the FADO system will consist of the acquisition of technical equipment and staffing costs. Since the FADO system is designed purely for the electronic archiving and transmission of documents, which is currently done in hard-copy form, such costs will constitute administrative expenditure for the Council, within the meaning of Article K.8(2), first sentence of the Treaty on European Union.</p>
+    </body>
+  </text>
+</TEI.2>

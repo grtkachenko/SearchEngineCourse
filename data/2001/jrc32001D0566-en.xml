@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32001D0566-en" n="32001D0566" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0566 English</title>
+        <title>2001/566/EC: Decision of the European Central Bank of 5 July 2001 amending Decision ECB/1998/4 on the adoption of the conditions of employment of staff of the European Central Bank (ECB/2001/6)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0566:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0566:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">414</classCode>
+        <classCode scheme="eurovoc">453</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+        <classCode scheme="eurovoc">6088</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0566-en." lang="en">
+    <body>
+      <head n="1">2001/566/EC: Decision of the European Central Bank of 5 July 2001 amending Decision ECB/1998/4 on the adoption of the conditions of employment of staff of the European Central Bank (ECB/2001/6)</head>
+      <p n="2">Decision of the European Central Bank</p>
+      <p n="3">of 5 July 2001</p>
+      <p n="4">amending Decision ECB/1998/4 on the adoption of the conditions of employment of staff of the European Central Bank</p>
+      <p n="5">(ECB/2001/6)</p>
+      <p n="6">(2001/566/EC)</p>
+      <p n="7">THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK,</p>
+      <p n="8">Having regard to the Statute of the European system of central banks and of the European Central Bank (hereinafter referred to as the "Statute") and in particular Article 36.1 thereof,</p>
+      <p n="9">Having regard to the proposal of the Executive Board of the European Central Bank (ECB),</p>
+      <p n="10">Having regard to the contribution of the General Council of the ECB,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The Statute attributes to the Governing Council of the ECB, acting on a proposal from the Executive Board of the ECB, the task of laying down and, where necessary, amending the conditions of employment of Staff of the ECB (hereinafter referred to as the "conditions of employment").</p>
+      <p n="13">(2) Decision ECB/1998/4 of 9 June 1998 on the adoption of the conditions of employment of staff of the European Central Bank as amended on 31 March 1999(1) (hereinafter referred to as "Decision ECB/1998/4"), contains rules governing the employment relations between the ECB and its staff.</p>
+      <p n="14">(3) In accordance with the policy of transparency followed by the ECB, the conditions of employment of staff of the ECB shall be made available to all interested parties.</p>
+      <p n="15">(4) Public access to the conditions of employment would be facilitated significantly by making them available on the website of the ECB (http://www.ecb.int),</p>
+      <p n="16">HAS DECIDED AS FOLLOWS:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Article 2 of Decision ECB/1998/4 shall be repealed. A new Article 2 shall be inserted, reading as follows: "For information to all interested parties, the conditions of employment of Staff of the ECB shall be accessible to the public on the website of the ECB (http://www.ecb.int)."</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="21">Done at Frankfurt am Main, 5 July 2001.</p>
+      <p n="22">The President of the ECB</p>
+      <p n="23">Willem F. Duisenberg</p>
+      <p n="24">(1) OJ L 125, 19.5.1999, p. 32.</p>
+    </body>
+  </text>
+</TEI.2>

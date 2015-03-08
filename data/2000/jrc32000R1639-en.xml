@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32000R1639-en" n="32000R1639" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1639 English</title>
+        <title>Commission Regulation (EC) No 1639/2000 of 25 July 2000 amending Annex I to Regulation (EC) No 2636/1999 on the communication of information on tobacco from the 2000 harvest</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1639:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1639:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4373</classCode>
+        <classCode scheme="eurovoc">5334</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1639-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1639/2000 of 25 July 2000 amending Annex I to Regulation (EC) No 2636/1999 on the communication of information on tobacco from the 2000 harvest</head>
+      <p n="2">Commission Regulation (EC) No 1639/2000</p>
+      <p n="3">of 25 July 2000</p>
+      <p n="4">amending Annex I to Regulation (EC) No 2636/1999 on the communication of information on tobacco from the 2000 harvest</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2075/92 of 30 June 1992 on the common organisation of the market in raw tobacco(1), as last amended by Regulation (EC) No 1336/2000(2), and in particular Article 21 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Annex I to Commission Regulation (EC) No 2636/1999 of 14 December 1999 on the communication of information on tobacco from the 2000 harvest onwards and repealing Regulation (EEC) No 1771/93(3) lays down the information to be communicated to the Commission by the Member States by 31 July of the year of harvest concerned at the latest. This includes, under point 1.2 of that Annex, the quantity of tobacco (in tonnes) of the moisture content referred to in Annex IV to Commission Regulation (EC) No 2848/98 of 22 December 1998 laying down detailed rules for the application of Council Regulation (EEC) No 2075/92 as regards the premium scheme, production quotas and the specific aid to be granted to producer groups in the raw tobacco sector(4), as last amended by Regulation (EC) No 1249/2000(5), covered by the contracts.</p>
+      <p n="10">(2) Article 9(5) of Regulation (EC) No 2848/98 lays down that, pursuant to Article 10(2) of Regulation (EEC) No 2075/92, the parties to a cultivation contract may, by means of a written amendment, increase the quantities initially specified in the contract. Under the Community rules currently in force, this may take place well beyond 31 July of the year of harvest. The Member States should therefore be allowed to amend the information requested up to 30 June of the year following that of harvest, in order to take account of the quantities of raw tobacco covered by amendments of contracts.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Tobacco,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Annex I to Regulation (EC) No 2636/1999 is replaced by the Annex to this Regulation.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 25 July 2000.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 215, 30.7.1992, p. 70.</p>
+      <p n="23">(2) OJ L 154, 27.6.2000, p. 2.</p>
+      <p n="24">(3) OJ L 323, 15.12.1999, p. 4.</p>
+      <p n="25">(4) OJ L 358, 31.12.1998, p. 17.</p>
+      <p n="26">(5) OJ L 142, 16.6.2000, p. 3.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">"ANNEX I</p>
+      <p n="29">&gt;PIC FILE= "L_2000187EN.004003.EPS"&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

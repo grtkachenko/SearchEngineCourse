@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31997R0738-en" n="31997R0738" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R0738 English</title>
+        <title>Commission Regulation (EC) No 738/97 of 24 April 1997 derogating temporarily from Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0738:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0738:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R0738-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 738/97 of 24 April 1997 derogating temporarily from Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 738/97 of 24 April 1997 derogating temporarily from Regulation (EC) No 1445/95 on rules of application for import and export licences in the beef and veal sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 805/68 of 27 June 1968 on the common organization of the market in beef and veal (1), as last amended by Regulation (EC) No 2222/96 (2), and in particular Articles 9 and 13 thereof,</p>
+      <p n="6">Whereas Article 10 (1) of Commission Regulation (EC) No 1445/95 of 26 June 1995 on rules of application for import and export licences in the beef and veal sector and repealing Regulation (EEC) No 2377/80 (3), as last amended by Regulation (EC) No 266/97 (4), provides that export licences are to be issued on the fifth working day following that on which the application is lodged, provided that no specific action is taken by the Commission in the meantime;</p>
+      <p n="7">Whereas, in view of the small quantity still available until 30 June 1997 for which licences can be issued and the small number of days on which the Official Journal is to be published in the first 10 days of May 1997, that period for reflection of five days is too short to ensure sound management of the market and should be increased temporarily to six days;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Notwithstanding Article 10 (1) of Regulation (EC) No 1445/95, applications for licences lodged from 28 April to 7 May 1997 shall be issued on the sixth working day following that on which the application is lodged, provided that no specific action as referred to in paragraph 2 of that Article is taken by the Commission in the meantime.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 24 April 1997.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 148, 28. 6. 1968, p. 24.</p>
+      <p n="20">(2) OJ No L 296, 21. 11. 1996, p. 50.</p>
+      <p n="21">(3) OJ No L 143, 27. 6. 1995, p. 35.</p>
+      <p n="22">(4) OJ No L 45, 15. 2. 1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

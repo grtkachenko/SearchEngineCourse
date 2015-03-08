@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31996L0089-en" n="31996L0089" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996L0089 English</title>
+        <title>Commission Directive 96/89/EC of 17 December 1996 amending Directive 95/12/EC implementing Council Directive 92/75/EEC with regard to energy labelling of household washing machines (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996L0089:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996L0089:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">141</classCode>
+        <classCode scheme="eurovoc">142</classCode>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">3648</classCode>
+        <classCode scheme="eurovoc">3861</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996L0089-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 96/89/EC of 17 December 1996 amending Directive 95/12/EC implementing Council Directive 92/75/EEC with regard to energy labelling of household washing machines (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 96/89/EC of 17 December 1996 amending Directive 95/12/EC implementing Council Directive 92/75/EEC with regard to energy labelling of household washing machines (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 92/75/EEC of 22 September 1992 on the indication by labelling and standard product information of the consumption of energy and other resources of household appliances (1) and in particular Articles 9 and 12 thereof,</p>
+      <p n="6">Having regard to Commission Directive 95/12/EC of 23 May 1995 implementing Council Directive 92/75/EEC with regard to energy labelling of household washing machines (2),</p>
+      <p n="7">Whereas current measurement methods and information do not allow for the appropriate labelling of washing machines without an integral method of heating hot water; whereas such appliances must therefore be excluded from the scope of Directive 95/12/EC;</p>
+      <p n="8">Whereas the measures provided for in this Directive are in accordance with the opinion of the committee set up under Article 10 of Directive 92/75/EEC,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">In Article 1 (1) of Directive 95/12/EC, in the list of types of household washing machine excluded from the scope of that Directive, the following item is added:</p>
+      <p n="12">'- Until 30 June 1998 machines with no internal means to heat water.`</p>
+      <p n="13">Article 2</p>
+      <p n="14">1. Member States shall adopt and publish the laws, regulations and administrative provisions to comply with this Directive by 15 April 1997. They shall immediately notify the Commission of these measures. They shall apply those provisions from 15 May 1997.</p>
+      <p n="15">When Member States adopt these provisions either they shall contain a reference to this Directive, or shall be accompanied by such a reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="16">2. Member States shall communicate to the Commission any measures which they take in the field covered by this Directive.</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">Article 4</p>
+      <p n="20">This Directive is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 17 December 1996.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Christos PAPOUTSIS</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ No L 297, 13. 10. 1992, p. 16.</p>
+      <p n="26">(2) OJ No L 136, 21. 6. 1995, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

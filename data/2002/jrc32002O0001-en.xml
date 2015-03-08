@@ -1,0 +1,76 @@
+<TEI.2 id="jrc32002O0001-en" n="32002O0001" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002O0001 English</title>
+        <title>Guideline of the European Central Bank of 27 February 2002 amending Guideline ECB/2001/3 on a Trans-European Automated Real-time Gross Settlement Express Transfer system (Target) (ECB/2002/1)</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002O0001:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002O0001:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3547</classCode>
+        <classCode scheme="eurovoc">4493</classCode>
+        <classCode scheme="eurovoc">4763</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+        <classCode scheme="eurovoc">5864</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002O0001-en." lang="en">
+    <body>
+      <head n="1">Guideline of the European Central Bank of 27 February 2002 amending Guideline ECB/2001/3 on a Trans-European Automated Real-time Gross Settlement Express Transfer system (Target) (ECB/2002/1)</head>
+      <p n="2">Guideline of the European Central Bank</p>
+      <p n="3">of 27 February 2002</p>
+      <p n="4">amending Guideline ECB/2001/3 on a Trans-European Automated Real-time Gross Settlement Express Transfer system (Target)</p>
+      <p n="5">(ECB/2002/1)</p>
+      <p n="6">(2002/202/EC)</p>
+      <p n="7">THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK,</p>
+      <p n="8">Having regard to the Statute of the European System of Central Banks and of the European Central Bank (hereinafter referred to as the "Statute"), and in particular to Article 3.1, Article 12.1, Article 14.3 and Articles 17, 18 and 22 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The fourth indent of Article 105(2) of the Treaty establishing the European Community (hereinafter referred to as the "Treaty") and the fourth indent of Article 3.1 of the Statute empower the European Central Bank (ECB) and the national central banks (NCBs) to promote the smooth operation of payment systems.</p>
+      <p n="11">(2) Under Article 22 of the Statute, the ECB and the NCBs may provide facilities to ensure efficient and sound clearing and payment systems within the Community and with other countries.</p>
+      <p n="12">(3) On 14 December 2000, the Governing Council adopted a long-term calendar of Target operating days to be applied from the beginning of 2002 until further notice, according to which Target should be closed not only on Saturdays and Sundays but also on New Year's Day, Good Friday and Easter Monday (according to the calendar applicable at the seat of the ECB), Labour Day (1 May), Christmas Day and 26 December. In order to ensure a level playing field for all participants, the Governing Council also decided that Target as a whole, including domestic real-time gross settlement (RTGS) systems, would be closed, implying that neither cross-border nor domestic transactions would be processed through Target on these days. The principle of equal treatment should not prevent any differentiation objectively justified by specific national situations. The complete closure of Hermes (the Greek RTGS system), including for domestic transactions, creates disturbances for the Greek general public and banking industry since the Orthodox Easter seldom coincides with the Protestant/Catholic Easter covered by the calendar applicable at the seat of the ECB, which de facto implies several extra days when the Greek domestic markets are closed. Furthermore, the number of consecutive closed days is greater when the Protestant/Catholic and Orthodox Easter public holidays are only one week apart, as is the case in the year 2003, when the Greek credit institutions will operate on only three days over an 11 day period. For this reason, an extraordinary and limited derogation from the Target operating days during the Easter public holidays should be made for a three year period, after which the Greek situation will be re-evaluated on the basis of experience.</p>
+      <p n="13">(4) In addition, Annex V to Guideline ECB/2001/3 of 26 April 2001 on a Trans-European Automated Real-time Gross Settlement Express Transfer system (Target)(1), concerning the list of "out" collateral which can be applied to collateralise intra-day credit in Target, should be amended in order to allow three national central banks of Member States which have adopted the single currency in accordance with the Treaty to accept bonds issued by Damaras Skibskreditfond and KommuneKredit as collateral for intra-day credit.</p>
+      <p n="14">(5) In accordance with Article 12.1 and Article 14.3 of the Statute, ECB guidelines form an integral part of Community law,</p>
+      <p n="15">HAS ADOPTED THIS GUIDELINE:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Guideline ECB/2001/3 is amended as follows:</p>
+      <p n="18">1. Article 2(1) is replaced by the following: "1. The Trans-European Automated Real-time Gross Settlement Express Transfer system is a real-time gross settlement system for the euro. Target is composed of the national RTGS systems, the ECB payment mechanism and interlinking."</p>
+      <p n="19">2. Article 3(d)(1) is replaced by the following: "1. Operating days</p>
+      <p n="20">From 2002, Target as a whole shall be closed on Saturdays, Sundays, New Year's Day, Good Friday and Easter Monday (according to the calendar applicable at the seat of the ECB), 1 May (Labour Day), Christmas Day and 26 December.</p>
+      <p n="21">Without prejudice to the above, only the following limited settlement services may, extraordinarily, during the years 2002 to 2004, be undertaken in Hermes, the Greek RTGS system, on Good Friday and Easter Monday (according to the calendar applicable at the seat of the ECB), when these days do not coincide with the Orthodox Easter:</p>
+      <p n="22">(a) settlement of domestic customer payments, and</p>
+      <p n="23">(b) settlement of payments related to the delivery of cash from and return of cash to the Bank of Greece, and</p>
+      <p n="24">(c) settlement operations of the Athens Clearing Office and the DIAS retail payment systems."</p>
+      <p n="25">3. Annex V is replaced by the text in the Annex to this Guideline.</p>
+      <p n="26">Article 2</p>
+      <p n="27">Final provisions</p>
+      <p n="28">This Guideline is addressed to the national central banks of participating Member States.</p>
+      <p n="29">This Guideline shall enter into force on 22 March 2002.</p>
+      <p n="30">Each NCB shall inform the ECB of the laws, regulations and administrative provisions necessary to comply with this Guideline no later than 15 March 2002.</p>
+      <p n="31">This Guideline shall be published in the Official Journal of the European Communities.</p>
+      <p n="32">Done at Frankfurt am Main, 27 February 2002.</p>
+      <p n="33">On behalf of the Governing Council of the ECB</p>
+      <p n="34">Christian Noyer</p>
+      <p n="35">(1) OJ L 140, 24.5.2001, p. 72.</p>
+      <p n="36">ANNEX</p>
+      <p n="37">"ANNEX V</p>
+      <p n="38">LIST OF "OUT" COLLATERAL</p>
+      <p n="39">which can be used to collateralise intra-day credit for each NCB of a participating Member State that has declared its intention to use certain collateral located in the country of a national central bank of a Member State which has not adopted the euro and whose intention has been approved by the ECB pursuant to Article 3(f)(3) and Article 3(g) of the TARGET Guideline:</p>
+      <p n="40">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

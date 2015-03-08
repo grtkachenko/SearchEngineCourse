@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32002R1313-en" n="32002R1313" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1313 English</title>
+        <title>Commission Regulation (EC) No 1313/2002 of 19 July 2002 implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community concerning the specification of the 2003 ad hoc module on lifelong learning</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1313:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1313:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2550</classCode>
+        <classCode scheme="eurovoc">4213</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">6030</classCode>
+        <classCode scheme="eurovoc">623</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1313-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1313/2002 of 19 July 2002 implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community concerning the specification of the 2003 ad hoc module on lifelong learning</head>
+      <p n="2">Commission Regulation (EC) No 1313/2002</p>
+      <p n="3">of 19 July 2002</p>
+      <p n="4">implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community concerning the specification of the 2003 ad hoc module on lifelong learning</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community(1), and in particular Article 4(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 1626/2000(2) implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community has drawn up a programme of ad hoc modules to the labour force survey covering years 2001 to 2004, which includes an ad hoc module on lifelong learning.</p>
+      <p n="10">(2) In accordance with Article 4(2) of Regulation (EC) No 577/98 the detailed list of information to be collected in an ad hoc module shall be drawn at least 12 months before the beginning of the reference period for that module.</p>
+      <p n="11">(3) Commission Communication COM(2001) 678 on "Making a European Area of Lifelong Learning a Reality" underlines in paragraph 4(3) that comparable information and statistical measures are essential to the development and implementation of coherent and comprehensive lifelong learning strategies and that statistics and indicators already form an essential part of existing initiatives in the field of lifelong learning with a view to monitoring progress both in achieving identified targets and in implementing policy objectives.</p>
+      <p n="12">(4) In accordance with Employment Guideline C for 2002, Member States should set national targets for an increase in investment in human resources as well as in participation in further education and training (whether formal or informal) and monitor regularly progress towards such targets.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion delivered by the Statistical Programme Committee established by Council Decision 89/382/EEC, Euratom(3),</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The detailed list of information to be collected in 2003 by the ad hoc module on lifelong learning is laid down in the Annex to the present Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 19 July 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Pedro Solbes Mira</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 77, 14.3.1998, p. 3.</p>
+      <p n="25">(2) OJ L 187, 26.7.2000, p. 5.</p>
+      <p n="26">(3) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">Labour Force Survey Specification of the 2003 ad hoc module on lifelong learning</p>
+      <p n="29">1. Member States and regions concerned: all</p>
+      <p n="30">2. The reference period is 2003. All variables will be provided either:</p>
+      <p n="31">- for at least 15 % of the sample that is necessary to fulfil the conditions in Article 3 of Regulation (EC) No 577/98. The weeks of reference for this subsample are equally distributed throughout the year, or</p>
+      <p n="32">- for 100 % of the sample of the 2nd quarter 2003.</p>
+      <p n="33">3. The variables will be coded as follows:</p>
+      <p n="34">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

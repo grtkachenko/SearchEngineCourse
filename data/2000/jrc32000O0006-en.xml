@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32000O0006-en" n="32000O0006" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000O0006 English</title>
+        <title>Consolidated version of Guideline ECB/2000/6 of 20 July 2000 on the implementation of Article 52 of the Statute of the European System of Central Banks and of the European Central Bank after the end of the transitional period, as amended by Guideline ECB/2001/10</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000O0006:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000O0006:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1972</classCode>
+        <classCode scheme="eurovoc">2151</classCode>
+        <classCode scheme="eurovoc">4763</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+        <classCode scheme="eurovoc">665</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000O0006-en." lang="en">
+    <body>
+      <head n="1">Consolidated version of Guideline ECB/2000/6 of 20 July 2000 on the implementation of Article 52 of the Statute of the European System of Central Banks and of the European Central Bank after the end of the transitional period, as amended by Guideline ECB/2001/10</head>
+      <p n="2">Consolidated version of Guideline ECB/2000/6 of 20 July 2000 on the implementation of Article 52 of the Statute of the European System of Central Banks and of the European Central Bank after the end of the transitional period, as amended by Guideline ECB/2001/10</p>
+      <p n="3">(2001/C 325/12)</p>
+      <p n="4">THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK,</p>
+      <p n="5">Having regard to the Treaty establishing the European Community (hereinafter referred to as the "Treaty") and in particular to Article 106(1) thereof and to Articles 12.1, 14.3 and 52 of the Statute of the European System of Central Banks and of the European Central Bank (hereinafter referred to as the "Statute"),</p>
+      <p n="6">Whereas</p>
+      <p n="7">(1) Article 52 of the Statute empowers the Governing Council of the European Central Bank (ECB) to take the necessary measures to ensure that banknotes denominated in currencies with irrevocably fixed exchange rates are exchanged by the national central banks (NCBs) at their respective par values.</p>
+      <p n="8">(2) The objective of Articel 52 of the Statute is to ensure a high degree of substitutability between the national currency units after the adoption of the conversion rates referred to in Article 123(4) of the Treaty and between the national curreny units and the euro. To that end, the Governing Council of the ECB is to ensure that each national central bank is ready to exchange, at the conversion rates, any banknote issued by the NCB of another Member State without a derogation into euro banknotes.</p>
+      <p n="9">(3) The NCBs shall ensure that banknotes of other participating Member States can be either exchanged against euro banknotes and coins or, according to national legislation, credited to an account. National central banks shall ensure that the exchange of banknotes of other participating Member States against euro banknotes and coins can be performed at par value. NCBs are obliged to provide such service themselves or to appoint an agent to perform this service on their behalf.</p>
+      <p n="10">(4) The Governing Council of the ECB is determined to ensure that each NCB is ready to exchange, at the conversion rates, any banknote issued by the NCB of another Member State without a derogation into euro banknotes.</p>
+      <p n="11">(4a) Whereas it is acknowledged that, as a general rule, badly mutilated banknotes do not qualify for exchange, and specific reference will be made to certain categories of banknotes that will be excluded from the exchange rules; whereas marking schemes will be implemented by some NCBs of participating Member States with the aim of facilitating and protecting the withdrawal of the national banknotes, and therefore marked banknotes will be explicitly mentioned among the banknotes that do not qualify for exchange; whereas it is deemed necessary to make information on the marking procedures in the different Member States available on the ECB website.</p>
+      <p n="12">(5) In accordance with Articles 12.1 and 14.3 of the Statute, ECB Guidelines form an integral part of Community law,</p>
+      <p n="13">HAS ADOPTED THIS GUIDELINE:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Definitions</p>
+      <p n="16">For the purposes of this Guideline:</p>
+      <p n="17">- "NCBs" shall mean the national central banks of Member States that have adopted the single currency in accordance with the Treaty,</p>
+      <p n="18">- "participating Member States" shall mean all Member States which have adopted the single currency in accordance with the Treaty,</p>
+      <p n="19">- "banknotes of other participating Member States" shall mean banknotes issued by an NCB which were legal tender on 31 December 2001 that are presented to another national central bank or to its appointed agent for exchange,</p>
+      <p n="20">- "exchange of banknotes of other participating Member States" shall mean the exchange of banknotes issued by a national central bank and presented to another national central bank or to its appointed agent to be exchanged against euro banknotes and coins or against the crediting of funds to an account,</p>
+      <p n="21">- "marking" shall mean the identification of the national banknotes with a distinctive and specific symbol, e.g. holes punched by perforators, which will be carried out by authorised institutions in implementation of legal measures taken at the level of each participating Member State, with the aim of facilitating the withdrawal of the national banknotes from circulation,</p>
+      <p n="22">- "par value" shall mean the value resulting from the conversion rates adopted by the EU Council under Article 123(4) of the Treaty without any spread between buying and selling rates.</p>
+      <p n="23">Article 2</p>
+      <p n="24">Obligation to exchange at par value</p>
+      <p n="25">1. The NCBs shall, in at least one location in the national territory, by themselves or through their appointed agent, ensure that banknotes of other participating Member States can be either exchanged against euro banknotes and coins or, upon request, credited to an account with the institution effecting the exchange, if the national legislation provides for such possibility, in both cases at their respective par value.</p>
+      <p n="26">2. NCBs may limit the member and/or the total value of banknotes of other participating Member States that they are prepared to accept for any given transaction or on any one day.</p>
+      <p n="27">Article 3</p>
+      <p n="28">Banknotes which qualify for exchange</p>
+      <p n="29">Banknotes of other participating Member States that qualify for exchange under this Guideline shall not be badly multilated. In particular, the banknotes shall not consist of more than two parts of the same banknote joined together or have been damaged by anti-theft devices. In addition they shall not have been marked or have been damaged in a manner that makes it impossible to check the presence of marking.</p>
+      <p n="30">Article 4</p>
+      <p n="31">Final provision</p>
+      <p n="32">This Guideline is applicable to all banknotes of other participating Member States presented for exchange between 1 January 2002 and 31 March 2002.</p>
+      <p n="33">This Guideline is addressed to the NCBs of participating Member States.</p>
+      <p n="34">This Guideline shall be published in the Official Journal of the European Communities.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32000R0848-en" n="32000R0848" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R0848 English</title>
+        <title>Commission Regulation (EC) No 848/2000 of 27 April 2000 amending Regulation (EC) No 1168/1999 laying down marketing standards for plums</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0848:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0848:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1117</classCode>
+        <classCode scheme="eurovoc">1119</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R0848-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 848/2000 of 27 April 2000 amending Regulation (EC) No 1168/1999 laying down marketing standards for plums</head>
+      <p n="2">Commission Regulation (EC) No 848/2000</p>
+      <p n="3">of 27 April 2000</p>
+      <p n="4">amending Regulation (EC) No 1168/1999 laying down marketing standards for plums</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Regulation (EC) No 1257/1999(2), and in particular Article 2(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Annex to Commission Regulation (EC) No 1168/1999 of 3 June 1999 laying down marketing standards for plums(3) contains a non-exhaustive list of large-fruited varietes.</p>
+      <p n="10">(2) The non-exhaustive list of large-fruited varieties contained in the standards for plums recommended by the United Nations Economic Commission for Europe distinguishes between varieties of Prunus domestica and those of Prunus salicina. In the interest of transparency on the world market, the non-exhaustive list of large-fruited varieties contained in the Annex to Regulation (EC) No 1168/1999 should be amended.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The non-exhaustive list of large-fruited varieties following Title VI (Provisions concerning marking) of the Annex to Regulation (EC) No 1168/1999 is replaced by the list given in the Annex hereto.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply from the first day of the third month following its entry into force.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 27 April 2000.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="24">(2) OJ L 160, 26.6.1999, p. 80.</p>
+      <p n="25">(3) OJ L 141, 4.6.1999, p. 5.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">"APPENDIX</p>
+      <p n="28">1. Non-exhaustive list of large-fruited varieties of Prunus domestica</p>
+      <p n="29">&gt;TABLE&gt;</p>
+      <p n="30">2. Non-exhaustive list of large-fruited varieties of Prunus salicina</p>
+      <p n="31">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

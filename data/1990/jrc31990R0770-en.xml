@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31990R0770-en" n="31990R0770" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31990R0770 English</title>
+        <title>Commission Regulation (Euratom) No 770/90 of 29 March 1990 laying down maximum permitted levels of radioactive contamination of feedingstuffs following a nuclear accident or any other case of radiological emergency</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990R0770:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990R0770:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31990R0770-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (Euratom) No 770/90 of 29 March 1990 laying down maximum permitted levels of radioactive contamination of feedingstuffs following a nuclear accident or any other case of radiological emergency</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EURATOM) No 770/90</p>
+      <p n="4">of 29 March 1990</p>
+      <p n="5">laying down maximum permitted levels of radioactive contamination of feedingstuffs following a nuclear accident or any other case of radiological emergency</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="8">Having regard to Council Regulation (Euratom) No 3954/87 of 22nd December 1987 laying down maximum permitted levels of radioactive contamination of foodstuffs and of feedingstuffs following a nuclear accident or any other case of radiological emergency (1), as amended by Regulation (Euratom) No 2218/89 (2), and in particular Article 7 thereof,</p>
+      <p n="9">Whereas, in accordance with Regulation (Euratom) No 3954/87, the Commission shall adopt maximum levels of radioactive contamination to be applied to feedingstuffs;</p>
+      <p n="10">Whereas the group of experts appointed by the Scientific and Technical Committee pursuant to Article 31 of the Euratom Treaty, has been consulted;</p>
+      <p n="11">Whereas consideration of the relative quantities of individual radionuclides liable to be released in the event of a nuclear accident in conjunction with their half-lives and transfer from feedingstuffs to animal produce leads to the conclusion that maximum permitted levels of radioactive contamination of feedingstuffs are needed only for the caesium isotopes;</p>
+      <p n="12">Whereas the measures provided for in this Regulation are in accordance with the opinion of the ad hoc Committe instituted by Regulation (Euratom) No 3954/87,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Maximum permitted levels of radioactive contamination of feedingstuffs are set out in the Annex.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 29 March 1990.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Carlo RIPA DI MEANA</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ No L 371, 30. 12. 1987, p. 11.</p>
+      <p n="24">(2) OJ No L 211, 22. 7. 1989, p. 1.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">Maximum permitted levels of radiactive contamination (caesium-134 and caesium-137) of feedingstuffs</p>
+      <p n="27">1.2 // // // Animal // Bq/kg (1) (2) // // // Pigs // 1 250 // Poultry, lambs, calves // 2 500 // Other // 5 000 // //</p>
+      <p n="28">(1) These levels are intended to contribute to the observance of the maximum permitted levels for foodstuffs; they do not alone guarantee such observance in all circumstances and do not lessen the requirement for monitoring contamination levels in animal products destined for human consumption.</p>
+      <p n="29">(2) These levels apply to feedingstuffs as ready for consumption.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31999L0008-en" n="31999L0008" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999L0008 English</title>
+        <title>Commission Directive 1999/8/EC of 18 February 1999 amending Council Directive 66/402/EEC on the marketing of cereal seed</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0008:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0008:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">4081</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999L0008-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 1999/8/EC of 18 February 1999 amending Council Directive 66/402/EEC on the marketing of cereal seed</head>
+      <p n="2">COMMISSION DIRECTIVE 1999/8/EC of 18 February 1999 amending Council Directive 66/402/EEC on the marketing of cereal seed</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 66/402/EEC of 14 June 1966 on the marketing of cereal seed (1), as last amended by Council Directive 98/96/EC (2), and in particular Article 21(a) thereof,</p>
+      <p n="6">Whereas, in the case of triticale seed intended for marketing in their own territory, Member States may reduce to 80 % the minimum germination required under Annex II;</p>
+      <p n="7">Whereas this possibility will be no longer granted from 1 February 2000, pursuant to the abovementioned Directive;</p>
+      <p n="8">Whereas, according to present scientific and technical knowledge, it appears difficult to produce in the Community seed of triticale with a germination capacity equal to that required under Annex II;</p>
+      <p n="9">Whereas, in the light of the development of scientific and technical knowledge it is appropriate to reduce the minimum germination capacity of pure seed to 80 %;</p>
+      <p n="10">Whereas the measures provided in this Directive are in accordance with the opinion of the Standing Committee on seeds and propagating material for agriculture, horticulture and forestry,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Section (2)(A) of Annex II to Directive 66/402/EEC is amended as follows: In the case of triticosecale the figures '85` in the column 2 shall be replaced by '80`.</p>
+      <p n="14">Article 2</p>
+      <p n="15">1. Member States shall bring into force the laws, regulations or administrative provisions necessary to comply with the provisions of this Directive by 1 February 2000 at the latest. They shall forthwith inform the Commission thereof.</p>
+      <p n="16">When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="17">2. Member States shall communicate to the Commission the provisions of national law which they adopt in the field covered by this Directive.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Directive is addressed to the Member States.</p>
+      <p n="20">Done at Brussels, 18 February 1999.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ 125, 11. 7. 1966, p. 2039/66.</p>
+      <p n="25">(2) OJ L 25, 1. 2. 1999, p. 27.</p>
+    </body>
+  </text>
+</TEI.2>

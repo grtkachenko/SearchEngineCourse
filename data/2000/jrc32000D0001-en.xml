@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32000D0001-en" n="32000D0001" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0001 English</title>
+        <title>2000/1/EC: Council Decision of 17 December 1999 on the signing, on behalf of the European Community, of the Memorandum of Understanding between the European Community and the Government of Vietnam on the prevention of fraud in trade in footwear products, and authorising its provisional application</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0001:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0001:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1092</classCode>
+        <classCode scheme="eurovoc">1368</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2850</classCode>
+        <classCode scheme="eurovoc">4707</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0001-en." lang="en">
+    <body>
+      <head n="1">2000/1/EC: Council Decision of 17 December 1999 on the signing, on behalf of the European Community, of the Memorandum of Understanding between the European Community and the Government of Vietnam on the prevention of fraud in trade in footwear products, and authorising its provisional application</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 17 December 1999</p>
+      <p n="4">on the signing, on behalf of the European Community, of the Memorandum of Understanding between the European Community and the Government of Vietnam on the prevention of fraud in trade in footwear products, and authorising its provisional application</p>
+      <p n="5">(2000/1/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The Commission has negotiated, on behalf of the European Community, a Memorandum of Understanding between the European Community and the Government of Vietnam on the prevention of fraud in trade in footwear products;</p>
+      <p n="11">(2) The Memorandum of Understanding was initialled on 4 August 1999;</p>
+      <p n="12">(3) The Memorandum of Understanding should be signed on behalf of the Community;</p>
+      <p n="13">(4) It is necessary to apply the Memorandum of Understanding on a provisional basis from 1 January 2000, pending the completion of the relevant procedures for its formal conclusion, subject to reciprocity,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Subject to the conclusion thereof, the Memorandum of Understanding between the European Community and the Government of Vietnam on the prevention of fraud in trade in footwear products, shall be signed on behalf of the Community.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is hereby authorised to designate the persons empowered to sign the Memorandum of Understanding, on behalf of the Community.</p>
+      <p n="19">The text of the Memorandum of Understanding is attached to this Decision.</p>
+      <p n="20">Article 3</p>
+      <p n="21">The Memorandum of Understanding shall be applied on a provisional basis from 1 January 2000, subject to reciprocity(1).</p>
+      <p n="22">Done at Brussels, 17 December 1999.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">K. HEMILÄ</p>
+      <p n="26">(1) The Commission will publish in the Official Journal of the European Communities, C Series, the date from which the Memorandum of Understanding will be applied pursuant to this Article.</p>
+    </body>
+  </text>
+</TEI.2>

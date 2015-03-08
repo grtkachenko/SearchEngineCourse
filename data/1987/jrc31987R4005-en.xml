@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31987R4005-en" n="31987R4005" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31987R4005 English</title>
+        <title>Commission Regulation (EEC) No 4005/87 of 23 December 1987 amending Regulation (EEC) No 845/72 laying down special measures to encourage silkworm rearing</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987R4005:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987R4005:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31987R4005-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 4005/87 of 23 December 1987 amending Regulation (EEC) No 845/72 laying down special measures to encourage silkworm rearing</head>
+      <p n="2">COMMISSION REGULATION (EEC) N° 4005/87</p>
+      <p n="3">of 23 December 1987</p>
+      <p n="4">amending Regulation (EEC) N° 845/72 laying down special measures to encourage silkworm rearing</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) N° 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as amended by Regulation (EEC) N° 3985/87 (2), and in particular Article 15 thereof,</p>
+      <p n="8">Whereas Council Regulation (EEC) N° 2658/87 establishes, with effect from 1 January 1988, a combined goods nomenclature based on the Harmonized System which will meet the requirements both of the Common Customs Tariff and the nomenclature of goods for the external trade statistics of the Community;</p>
+      <p n="9">Whereas, as a consequence, it is necessary to express the descriptions of goods and tariff heading numbers which appear in Council Regulation (EEC) N° 845/72 (3),</p>
+      <p n="10">according to the terms of the combined nomenclature; whereas these adaptations do not call for any amendment of substance,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Article 1 (1) of Regulation (EEC) N° 845/72 is replaced by the following:</p>
+      <p n="14">'1. In order to encourage action by trade and joint trade organizations to facilitate the adjustment of supply to market requirements, Community measures to improve quality may be taken in respect of silkworms falling within subheading 0106 00 99 of the combined nomenclature and in respect of silkworm eggs falling within subheading 0511 99 90 of the combined nomenclature.'</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on 1 January 1988.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 23 December 1987.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Frans ANDRIESSEN</p>
+      <p n="21">Vice-President</p>
+      <p n="22">SPA:L377UMBE24.96</p>
+      <p n="23">FF: 5UEN; SETUP: 01; Hoehe: 421 mm; 48 Zeilen; 2016 Zeichen;</p>
+      <p n="24">Bediener: JUTT Pr.: B;</p>
+      <p n="25">Kunde: ................................</p>
+      <p n="26">(1) OJ N° L 256, 7. 9. 1987, p. 1.</p>
+      <p n="27">(2) OJ N° L 376, 31. 12. 1987, p. 1.</p>
+      <p n="28">(3) OJ N° L 100, 27. 4. 1972, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

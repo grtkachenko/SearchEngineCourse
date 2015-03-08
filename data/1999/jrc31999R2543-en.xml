@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31999R2543-en" n="31999R2543" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2543 English</title>
+        <title>Commission Regulation (EC) No 2543/1999 of 1 December 1999 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2543:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2543:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2066</classCode>
+        <classCode scheme="eurovoc">4262</classCode>
+        <classCode scheme="eurovoc">4265</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+        <classCode scheme="eurovoc">9</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2543-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2543/1999 of 1 December 1999 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2543/1999</p>
+      <p n="3">of 1 December 1999</p>
+      <p n="4">on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC) No 1172/95 of 22 May 1995 on the statistics relating to the trading of goods by the Community and its Member States with non-member coutries(1), as last amended by Regulation (EC) No 374/98(2),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) in accordance with Article 9 of Regulation (EC) No 1172/95 the introduction of the nomenclature of countries and territories is the responsibility of the Commission;</p>
+      <p n="11">(2) the version thereof valid on 1 January 1999 was set out in the Annex to Commission Regulation (EC) No 2645/98(3);</p>
+      <p n="12">(3) from 1 January 1999 the nomenclature of countries and territories is based on the ISO alpha-2 standard; it is preferable for there to be a transition period allowing Member States to adapt to the amendments made; whereas it is essential for purposes of simplification for this transition period to end when the provisions revising the rules on the single administrative document come into force;</p>
+      <p n="13">(4) the measures provided for in this Regulation are in accordance with the opinion of the Committee on Statistics relating to the Trading of Goods with Non-Member Countries,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The version valid on 1 January 2000 of the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States is set out in the Annex hereto.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on 1 January 2000.</p>
+      <p n="19">However, the Member States may use the three-digit numeric codes also shown in the Annex to this Regulation until the provisions revising Annexes 37 and 38 to Commission Regulation (EEC) No 2454/93(4) come into force.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 1 December 1999.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Pedro SOLBES MIRA</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 118, 25.5.1995, p. 10.</p>
+      <p n="26">(2) OJ L 48, 19.2.1998, p. 6.</p>
+      <p n="27">(3) OJ L 335, 10.12.1998, p. 22.</p>
+      <p n="28">(4) OJ L 253, 11.10.1993, p. 1.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">NOMENCLATURE OF COUNTRIES AND TERRITORIES FOR THE EXTERNAL TRADE STATISTICS OF THE COMMUNITY AND STATISTICS OF TRADE BETWEEN MEMBER STATES</p>
+      <p n="31">(Version valid with effect from 1 January 2000)</p>
+      <p n="32">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32000D0605-en" n="32000D0605" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0605 English</title>
+        <title>2000/605/EC: Commission Decision of 26 September 2000 amending Decision 96/603/EC establishing the list of products belonging to Classes A 'No contribution to fire' provided for in Decision 94/611/EC implementing Article 20 of Council Directive 89/106/EEC on construction products (notified under document number C(2000) 2640) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0605:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0605:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1706</classCode>
+        <classCode scheme="eurovoc">1826</classCode>
+        <classCode scheme="eurovoc">4036</classCode>
+        <classCode scheme="eurovoc">4039</classCode>
+        <classCode scheme="eurovoc">5234</classCode>
+        <classCode scheme="eurovoc">5309</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0605-en." lang="en">
+    <body>
+      <head n="1">2000/605/EC: Commission Decision of 26 September 2000 amending Decision 96/603/EC establishing the list of products belonging to Classes A 'No contribution to fire' provided for in Decision 94/611/EC implementing Article 20 of Council Directive 89/106/EEC on construction products (notified under document number C(2000) 2640) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 26 September 2000</p>
+      <p n="4">amending Decision 96/603/EC establishing the list of products belonging to Classes A "No contribution to fire" provided for in Decision 94/611/EC implementing Article 20 of Council Directive 89/106/EEC on construction products</p>
+      <p n="5">(notified under document number C(2000) 2640)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/605/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 89/106/EEC of 21 December 1988 on the approximation of laws, regulations and administrative provisions of the Member States relating to construction products(1), as amended by Directive 93/68/EEC(2), and in particular Article 20 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 96/603/EC(3) established a list of products belonging to Classes A "No contribution to fire" provided for in Tables 1 and 2 of the Annex to Commission Decision 94/611/EC(4), which described the European classification system for expressing the reaction-to-fire performance of construction products.</p>
+      <p n="13">(2) Decision 94/611/EC has been replaced by Commission Decision 2000/147/EC(5), which does not refer to Classes A, thus necessitating an amendment to Decision 96/603/EC.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Construction,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Decision 96/603/EC is hereby amended as follows:</p>
+      <p n="18">1. in Article 1, the first paragraph is replaced by the following:"The materials, and products made from them, that are listed in the Annex to this Decision, shall, on account of their low level of combustibility and subject to the conditions also set out in the Annex, be classified in Classes A1 and Class A1FL as provided for in Tables 1 and 2 of the Annex to Decision 2000/147/EC.";</p>
+      <p n="19">2. the Annex is amended as follows:</p>
+      <p n="20">(a) the title is replaced by the following:</p>
+      <p n="21">"Materials to be considered as reaction to fire Classes A1 and A1FL as provided for in Decision 2000/147/EC without the need for testing.";</p>
+      <p n="22">(b) the general notes are amended as follows:</p>
+      <p n="23">(i) in the first and third paragraphs, "Classes A" is replaced by "Class A1 and Class A1FL".</p>
+      <p n="24">(ii) in the first and fourth paragraphs "(whichever is the lower)" is replaced by "(whichever is the more onerous)".</p>
+      <p n="25">Article 2</p>
+      <p n="26">This Decision is addressed to the Member States.</p>
+      <p n="27">Done at Brussels, 26 September 2000.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">Erkki Liikanen</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 40, 11.2.1989, p. 12.</p>
+      <p n="32">(2) OJ L 220, 30.8.1993, p. 1.</p>
+      <p n="33">(3) OJ L 267, 19.10.1996, p. 23.</p>
+      <p n="34">(4) OJ L 241, 16.9.1994, p. 25.</p>
+      <p n="35">(5) OJ L 50, 23.2.2000, p. 14.</p>
+    </body>
+  </text>
+</TEI.2>

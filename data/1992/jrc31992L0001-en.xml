@@ -1,0 +1,52 @@
+<TEI.2 id="jrc31992L0001-en" n="31992L0001" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992L0001 English</title>
+        <title>Commission Directive 92/1/EEC of 13 January 1992 on the monitoring of temperatures in the means of transport, warehousing and storage of quick-frozen foodstuffs intended for human consumption</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992L0001:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992L0001:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992L0001-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 92/1/EEC of 13 January 1992 on the monitoring of temperatures in the means of transport, warehousing and storage of quick-frozen foodstuffs intended for human consumption</head>
+      <p n="2">COMMISSION DIRECTIVE 92/1/EEC of 13 January 1992 on the monitoring of temperatures in the means of transport, warehousing and storage of quick-frozen foodstuffs intended for human consumption</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 89/108/EEC of 21 December 1988 on the approximation of the laws of the Member States relating to quick-frozen foods intended for human consumption (1), and in particular Article 11 thereof,</p>
+      <p n="6">Whereas the legal provisions must, in this case, be restricted solely to the requirements that are necessary in order to meet essential and imperative needs regarding the monitoring of temperatures in means of transport, warehousing and storage in such a way as to ensure that the temperatures required by Article 5 of Directive 89/108/EEC are fully maintained;</p>
+      <p n="7">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Foodstuffs,</p>
+      <p n="8">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="9">Article 1</p>
+      <p n="10">This Directive concerns the monitoring of temperatures in the means of transport, warehousing and storage for quick-frozen foods.</p>
+      <p n="11">Article 2</p>
+      <p n="12">1. The means of transport, warehousing and storage must be fitted with suitable recording instruments to monitor, at frequent and regular intervals, the air temperatures to which quick-frozen foods intended for human consumption are subjected.</p>
+      <p n="13">In the case of transport, the measuring instruments must be approved by the competent authorities of the country in which means of transport is registered.</p>
+      <p n="14">Temperature recordings obtained in this manner must be dated and stored by the operator for at least one year or longer according to the nature of food.</p>
+      <p n="15">2. The air temperature during storage in retail display cabinets, and in the course of local distribution, shall be measured by at least one easily visible thermometer which, in the case of open retail display cabinets, shall indicate the temperature at the air return side at the level of the clearly marked maximum load line.</p>
+      <p n="16">3. Member States may permit a derogation from paragraph 1 in the case of cold chambers of less than 10 cubic metres for storing stock in retail outlets, so as to permit the air temperature to be measured by an easily visible thermometer.</p>
+      <p n="17">Article 3</p>
+      <p n="18">Member States shall bring into force the laws, regulations and administrative provisions needed in order to comply with this Directive by 31 July 1993, except for railways for which the date of implementation will be decided later.</p>
+      <p n="19">They shall immediately inform the Commission thereof.</p>
+      <p n="20">When Member States adopt these measures, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Directive is addressed to the Member States. Done at Brussels, 13 January 1992. For the Commission</p>
+      <p n="23">Martin BANGEMANN</p>
+      <p n="24">Vice-President</p>
+      <p n="25">(1) OJ No L 40, 11. 2. 1989, p. 34.</p>
+    </body>
+  </text>
+</TEI.2>

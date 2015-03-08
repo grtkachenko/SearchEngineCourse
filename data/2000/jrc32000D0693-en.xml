@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32000D0693-en" n="32000D0693" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0693 English</title>
+        <title>2000/693/EC: Commission Decision of 25 October 2000 on withdrawing the references of standard EN 703 'Agricultural machinery - Silage cutters - Safety' from the list of references of standards in the framework of implementing Directive 98/37/EC (notified under document number C(2000) 3104) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0693:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0693:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1719</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">3641</classCode>
+        <classCode scheme="eurovoc">3646</classCode>
+        <classCode scheme="eurovoc">4036</classCode>
+        <classCode scheme="eurovoc">5234</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0693-en." lang="en">
+    <body>
+      <head n="1">2000/693/EC: Commission Decision of 25 October 2000 on withdrawing the references of standard EN 703 'Agricultural machinery - Silage cutters - Safety' from the list of references of standards in the framework of implementing Directive 98/37/EC (notified under document number C(2000) 3104) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 25 October 2000</p>
+      <p n="4">on withdrawing the references of standard EN 703 "Agricultural machinery - Silage cutters - Safety" from the list of references of standards in the framework of implementing Directive 98/37/EC</p>
+      <p n="5">(notified under document number C(2000) 3104)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/693/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Directive 98/37/EC of the European Parliament and of the Council of 22 June 1998 on the approximation of the laws of the Member States relating to machinery(1), as amended by Directive 98/79/EC(2), and in particular Article 6(1) thereof,</p>
+      <p n="11">Having regard to the opinion of the Committee set up by Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations(3),</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) Article 2 of Directive 98/37/EC, as amended, provides that machinery may be placed on the market and put into service only if it does not endanger the health or safety of persons and, where appropriate, domestic animals or property, when properly installed and maintained and used for its intended purpose.</p>
+      <p n="14">(2) Machinery which conforms to harmonised standards, the references of which have been published in the Official Journal of the European Communities, is presumed to satisfy the essential health and safety requirements referred to in Article 3 of Directive 98/37/EC, as amended.</p>
+      <p n="15">(3) Member States are required to publish the references of the national standards which transpose the harmonised standards.</p>
+      <p n="16">(4) The references of harmonised standard EN 703:1995 "Agricultural Machinery - Silage cutters - Safety" were published in the Official Journal of the European Communities C 229 of 8 August 1996 in the framework of implementing Directive 98/37/EC, as amended.</p>
+      <p n="17">(5) At present, this standard still gives a presumption of conformity.</p>
+      <p n="18">(6) Italy has noted that many fatal accidents have occurred in its territory following the use of silage cutters manufactured in accordance with standard EN 703. Consequently, Italy has taken the view that this standard did not satisfy the essential health and safety requirements of the Directive and that its references should be withdrawn from publication in the Official Journal of the European Communities in order to no longer give a presumption of conformity with the Directive.</p>
+      <p n="19">(7) Technical Committee CEN/TC 144 examined this problem and started work on revising this standard. In view of the significant difficulties it encountered in this revision, it has concluded that it will be several years before the revised standard can be ratified.</p>
+      <p n="20">(8) Given the anticipated delay, it is proposed that the references of this standard be withdrawn immediately in order to avoid it being used as a harmonised standard in the future,</p>
+      <p n="21">HAS ADOPTED THIS DECISION:</p>
+      <p n="22">Article 1</p>
+      <p n="23">The references of standard EN 703 "Agricultural machinery - Silage cutters - Safety" are withdrawn from publication in the Official Journal of the European Communities. Consequently, the use of this standard no longer gives a presumption of conformity with the essential health and safety requirements of Directive 98/37/EC, as amended.</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Decision is adressed to the Members States.</p>
+      <p n="26">Done at Brussels, 25 October 2000.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Erkki Liikanen</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 207, 23.7.1998, p. 1.</p>
+      <p n="31">(2) OJ L 331, 7.12.1998, p. 1.</p>
+      <p n="32">(3) OJ L 204, 21.7.1998, p. 37.</p>
+    </body>
+  </text>
+</TEI.2>

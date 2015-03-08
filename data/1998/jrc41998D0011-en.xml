@@ -1,0 +1,50 @@
+<TEI.2 id="jrc41998D0011-en" n="41998D0011" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41998D0011 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 21 April 1998 on C.SIS with 15/18 connections (SCH/Com-ex (98) 11)</title>
+      </titleStmt>
+      <extent>15 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0011:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0011:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1509</classCode>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">560</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41998D0011-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 21 April 1998 on C.SIS with 15/18 connections (SCH/Com-ex (98) 11)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 21 April 1998</p>
+      <p n="4">on C.SIS with 15/18 connections</p>
+      <p n="5">(SCH/Com-ex (98) 11)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Article (92)3 of the abovementioned Convention,</p>
+      <p n="9">Having regard to the Decision of the Executive Committee on the revision and extension of the C.SIS (SCH/Com-ex (97) 24),</p>
+      <p n="10">Having regard to the opinions of the technical groups, approved by the Central Group at its meeting on 30 March 1998,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">The revised C.SIS shall provide eighteen connections - fifteen connections for the Signatory States and three reserve technical connections.</p>
+      <p n="13">Brussels, 21 April 1998.</p>
+      <p n="14">The Chairman</p>
+      <p n="15">J. Vande Lanotte</p>
+    </body>
+  </text>
+</TEI.2>

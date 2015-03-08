@@ -1,0 +1,53 @@
+<TEI.2 id="jrc31993R1793-en" n="31993R1793" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993R1793 English</title>
+        <title>Commission Regulation (EEC) No 1793/93 of 30 June 1993 regarding the operative event for the agricultural conversion rates used in the hops sector</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R1793:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R1793:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993R1793-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 1793/93 of 30 June 1993 regarding the operative event for the agricultural conversion rates used in the hops sector</head>
+      <p n="2">COMMISSION REGULATION (EEC) No 1793/93 of 30 June 1993 regarding the operative event for the agricultural conversion rates used in the hops sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 3813/92 of 28 December 1992 on the unit of account and the conversion rates to be applied for the purposes of the common agricultural policy (1), and in particular Article 6 (2) thereof,</p>
+      <p n="6">Whereas the said introduced by Article 12 of Council Regulation (EEC) No 1696/71 of 26 July 1971 on the common organization of the market in hops (2), as last amended by Regulation (EEC) No 3124/92 (3), may be granted in respect of hops products in the Community;</p>
+      <p n="7">Whereas there is no marketing year for hops; whereas, therefore, a derogation should be provided from Article 11 (1) of Commission Regulation (EEC) No 1068/93 of 30 April 1993 on detailed rules for determining and applying the agricultural conversion rates (4);</p>
+      <p n="8">Whereas Commission Regulation (EEC) No 2540/75 of 6 October 1975 defining the event in which the payment of aid to hop growers becomes due and payable (5) defines the operative event for the agricultural conversion rate to be used for the payment of the aid as the date of adoption by the Council of the Regulation fixing the amount of aid to growers in respect of the previous year's harvest; whereas the date of the operative event for the agricultural conversion rate applicable to the aid to hop growers should be 1 July of the year of entry into force of the Council Regulation fixing the amount of the aid; whereas, therefore, Regulation (EEC) No 2540/75 should be repealed;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Hops,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The agricultural conversion rate to be applied for the purposes of the aid provided for in Article 12 of Regulation (EEC) No 1696/71 shall be the rate in force on 1 July of the year in which the Regulation fixing the amount of the aid to growers enters into force.</p>
+      <p n="13">Article 2</p>
+      <p n="14">Regulation (EEC) No 2540/75 is hereby repealed.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 30 June 1993.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">René STEICHEN</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ No L 387, 31. 12. 1992, p. 1.</p>
+      <p n="23">(2) OJ No L 175, 4. 8. 1971, p. 1.</p>
+      <p n="24">(3) OJ No L 313, 30. 10. 1992, p. 1.</p>
+      <p n="25">(4) OJ No L 108, 1. 5. 1993, p. 106.</p>
+      <p n="26">(5) OJ No L 259, 7. 10. 1975, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

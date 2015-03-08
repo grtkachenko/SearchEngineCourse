@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32001R1496-en" n="32001R1496" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1496 English</title>
+        <title>Commission Regulation (EC) No 1496/2001 of 20 July 2001 amending Regulation (EC) No 1209/2001 and derogating from Regulation (EC) No 562/2000 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 as regards the buying-in of beef</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1496:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1496:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2642</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">5025</classCode>
+        <classCode scheme="eurovoc">5263</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1496-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1496/2001 of 20 July 2001 amending Regulation (EC) No 1209/2001 and derogating from Regulation (EC) No 562/2000 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 as regards the buying-in of beef</head>
+      <p n="2">Commission Regulation (EC) No 1496/2001</p>
+      <p n="3">of 20 July 2001</p>
+      <p n="4">amending Regulation (EC) No 1209/2001 and derogating from Regulation (EC) No 562/2000 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 as regards the buying-in of beef</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1254/1999 of 17 May 1999 on the common organisation of the market in beef and veal(1), and in particular Article 47(8) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 1209/2001(2) introduces a number of derogations to Commission Regulation (EC) No 562/2000(3), in order to deal with the exceptional market situation resulting from the recent events linked to bovine spongiform encephalopathy (BSE). The subsequent epidemic of foot-and-mouth disease (FMD) has made certain further amendments necessary.</p>
+      <p n="10">(2) It is convenient to introduce the possibility of buying-in carcasses weighing more than the maximum weight while restricting in that case the buying-in price to that of the maximum authorised weight. With regard to the purchase of forequarters, this restriction should be applied by limiting their buying-in price to 40 % of the maximum payable weight for carcasses.</p>
+      <p n="11">(3) Regulation (EC) No 1209/2001 should therefore be amended.</p>
+      <p n="12">(4) In view of the development of events this Regulation must enter into force immediately.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Article 1(3) of Regulation (EC) No 1209/2001 is replaced by the following: "3. Notwithstanding Article 4(2)(g) of Regulation (EC) No 562/2000, for the third quarter of 2001 the maximum weight of the carcasses referred to therein shall be 390 kg; however, carcasses weighing more than 390 kg may be bought into intervention but in that case the buying-in price paid shall not exceed the price for that maximum weight or, in the case of forequarters, the buying-in price paid shall not exceed the price for 40 % of the maximum payable weight."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 20 July 2001.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 160, 26.6.1999, p. 21.</p>
+      <p n="25">(2) OJ L 165, 22.6.2001, p. 15.</p>
+      <p n="26">(3) OJ L 68, 16.3.2000, p. 22.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31998R0624-en" n="31998R0624" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0624 English</title>
+        <title>Commission Regulation (EC) No 624/98 of 19 March 1998 amending Regulation (EC) No 1423/95 laying down detailed implementing rules for the import of products in the sugar sector other than molasses</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0624:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0624:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2733</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">4314</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0624-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 624/98 of 19 March 1998 amending Regulation (EC) No 1423/95 laying down detailed implementing rules for the import of products in the sugar sector other than molasses</head>
+      <p n="2">COMMISSION REGULATION (EC) No 624/98 of 19 March 1998 amending Regulation (EC) No 1423/95 laying down detailed implementing rules for the import of products in the sugar sector other than molasses</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1785/81 of 30 June 1981 on the common organisation of the markets in the sugar sector (1), as last amended by Regulation (EC) No 1599/96 (2), and in particular Article 15(4) thereof,</p>
+      <p n="6">Whereas, pursuant to Article 1(2) of Commission Regulation (EC) No 1423/95 (3), as last amended by Regulation (EC) No 1143/97 (4), representative price on the world market, on the basis of which additional duties are fixed, are fixed for each marketing year in accordance with the procedure laid down in Article 41 of Regulation (EEC) No 1785/81 and may be amended if the fluctuation in the elements of the calculation produces a rise or fall of ECU 0,5 per 100 kilograms or more;</p>
+      <p n="7">Whereas, as a result of continued variations in representative prices on the world market, the system currently in force involves frequent adaptation of additional duties; whereas these frequent fluctuations in representative prices and additional duties, taking place often for very small amounts, complicate the system; whereas, for purposes of simplification, legal certainty for traders and rationalisation of the procedure for the Commission, the threshold for the amendment of representative prices on the world market from which additional duties must be adapted should be increased to ECU 1,20 per kilogram;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Sugar,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">In the second subparagraph of Article 1(2) of Regulation (EC) No 1423/95, 'ECU 0,5 per 100 kilograms` is replaced by 'ECU 1,20 per 100 kilograms`.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 19 March 1998.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ L 177, 1. 7. 1981, p. 4.</p>
+      <p n="20">(2) OJ L 206, 16. 8. 1996, p. 43.</p>
+      <p n="21">(3) OJ L 141, 24. 6. 1995, p. 16.</p>
+      <p n="22">(4) OJ L 165, 24. 6. 1997, p. 11.</p>
+    </body>
+  </text>
+</TEI.2>

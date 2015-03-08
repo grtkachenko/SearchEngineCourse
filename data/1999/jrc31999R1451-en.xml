@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31999R1451-en" n="31999R1451" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1451 English</title>
+        <title>Commission Regulation (EC) No 1451/1999 of 1 July 1999 amending Regulation (EC) No 1209/98 on the sale, at prices fixed in advance, of beef held by the United Kingdom to the armed forces</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1451:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1451:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2628</classCode>
+        <classCode scheme="eurovoc">2670</classCode>
+        <classCode scheme="eurovoc">3170</classCode>
+        <classCode scheme="eurovoc">3774</classCode>
+        <classCode scheme="eurovoc">4663</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1451-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1451/1999 of 1 July 1999 amending Regulation (EC) No 1209/98 on the sale, at prices fixed in advance, of beef held by the United Kingdom to the armed forces</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1451/1999</p>
+      <p n="3">of 1 July 1999</p>
+      <p n="4">amending Regulation (EC) No 1209/98 on the sale, at prices fixed in advance, of beef held by the United Kingdom to the armed forces</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organisation of the market in beef and veal(1), as last amended by Regulation (EC) No 1633/98(2), and in particular Article 7(3) thereof,</p>
+      <p n="8">(1) Whereas Commission Regulation (EC) No 1209/98(3) as amended by Regulation (EC) No 2515/98(4) provides for a sale of intervention stocks held by the United Kingdom; whereas the quantities and prices stated in that Regulation should be amended to take account of the stocks already sold;</p>
+      <p n="9">(2) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Annex I to Regulation (EC) No 1209/98 is replaced by the Annex to this Regulation.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 1 July 1999.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 148, 28.6.1968, p. 24.</p>
+      <p n="21">(2) OJ L 210, 28.7.1998, p. 17.</p>
+      <p n="22">(3) OJ L 166, 11.6.1998, p. 39.</p>
+      <p n="23">(4) OJ L 314, 24.11.1998, p. 3.</p>
+      <p n="24">ANEXO/BILAG/ANHANG/ΠΑΡΑΡΤΗΜΑ/ANNEX/ANNEXE/ALLEGATO/BIJLAGE/ANEXO/LIITE/BILAGA</p>
+      <p n="25">"ANEXO I/BILAG I/ANHANG I/ΠΑΡΑΡΤΗΜΑ Ι/ANNEX I/ANNEXE I/ALLEGATO I/BIJLAGE I/ANEXO I/LIITE I/BILAGA I</p>
+      <p n="26">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

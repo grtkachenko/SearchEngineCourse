@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32000D0084-en" n="32000D0084" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0084 English</title>
+        <title>2000/84/EC: Commission Decision of 21 December 1999 amending Decision 1999/276/EC laying down special conditions governing imports of fishery and aquaculture products originating in Mauritius (notified under document number C(1999) 4755) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0084:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0084:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1841</classCode>
+        <classCode scheme="eurovoc">2320</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0084-en." lang="en">
+    <body>
+      <head n="1">2000/84/EC: Commission Decision of 21 December 1999 amending Decision 1999/276/EC laying down special conditions governing imports of fishery and aquaculture products originating in Mauritius (notified under document number C(1999) 4755) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 21 December 1999</p>
+      <p n="4">amending Decision 1999/276/EC laying down special conditions governing imports of fishery and aquaculture products originating in Mauritius</p>
+      <p n="5">(notified under document number C(1999) 4755)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/84/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/493/EEC of 22 July 1991 laying down the health conditions for the production and the placing on the market of fishery products(1), as last amended by Directive 97/79/EC(2), and in particular Article 11 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Article 1 of Commission Decision 1999/276/EC of 23 April 1999 laying down special conditions governing imports of fishery and aquaculture products originating in Mauritius(3), states that the "Official Veterinary Services (OVS) of the Ministry of Agriculture, Fisheries and Cooperatives" shall be the competent authority in Mauritius for verifying and certifying compliance of fishery and aquaculture products with the requirements of Directive 91/493/EEC;</p>
+      <p n="13">(2) following a restructuring of the Mauritius administration, the competent authority for health certificates for fishery products (OVS) has changed to the Divison of Veterinary Services (DVS) of the Ministry of Agriculture, Food Technology and Natural Resources. This new authority is capable of effectively verifying the application of the laws in force. It is, therefore, necessary to modify the nomination of the competent authority in Decision 1999/276/EC and the model of the health certificate included in Annex A to this Decision;</p>
+      <p n="14">(3) the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Decision 1999/276/EC shall be modified as follows:</p>
+      <p n="18">1. Article 1 shall be replaced by the following:</p>
+      <p n="19">"Article 1</p>
+      <p n="20">The Division of Veterinary Services (DVS) of the Ministry of Agriculture, Food Technology and Natural Resources shall be the competent authority in Mauritius for verifying and certifying compliance of fishery and aquaculture products with the requirements of Directive 91/493/EEC."</p>
+      <p n="21">2. Point 2 of Article 3 shall be replaced by the following:</p>
+      <p n="22">"2. Certificates must bear the name, capacity and signature of the representative of the DVS and the latter's official stamp in a colour different from that of other endorsements."</p>
+      <p n="23">3. Annex A shall be replaced by the Annex hereto.</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 21 December 1999.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">David BYRNE</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 268, 24.9.1991, p. 15.</p>
+      <p n="31">(2) OJ L 24, 30.1.1998, p. 31.</p>
+      <p n="32">(3) OJ L 108, 27.4.1999, p. 52.</p>
+      <p n="33">ANNEX</p>
+      <p n="34">"ANNEX A</p>
+      <p n="35">&gt;PIC FILE= "L_2000026EN.001903.EPS"&gt;</p>
+      <p n="36">&gt;PIC FILE= "L_2000026EN.002001.EPS"&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32003R0224-en" n="32003R0224" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0224 English</title>
+        <title>Commission Regulation (EC) No 224/2003 of 5 February 2003 determining the aid referred to in Council Regulation (EC) No 1255/1999 for the private storage of butter and cream and derogating from Article 29 of Regulation (EC) No 2771/1999 laying down detailed rules for the application of Regulation (EC) No 1255/1999 as regards intervention on the market in butter and cream</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0224:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0224:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1486</classCode>
+        <classCode scheme="eurovoc">2644</classCode>
+        <classCode scheme="eurovoc">276</classCode>
+        <classCode scheme="eurovoc">301</classCode>
+        <classCode scheme="eurovoc">4288</classCode>
+        <classCode scheme="eurovoc">4860</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0224-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 224/2003 of 5 February 2003 determining the aid referred to in Council Regulation (EC) No 1255/1999 for the private storage of butter and cream and derogating from Article 29 of Regulation (EC) No 2771/1999 laying down detailed rules for the application of Regulation (EC) No 1255/1999 as regards intervention on the market in butter and cream</head>
+      <p n="2">Commission Regulation (EC) No 224/2003</p>
+      <p n="3">of 5 February 2003</p>
+      <p n="4">determining the aid referred to in Council Regulation (EC) No 1255/1999 for the private storage of butter and cream and derogating from Article 29 of Regulation (EC) No 2771/1999 laying down detailed rules for the application of Regulation (EC) No 1255/1999 as regards intervention on the market in butter and cream</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), as last amended by Commission Regulation (EC) No 509/2002(2), and in particular Article 10 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 34(2) of Commission Regulation (EC) No 2771/1999(3), as last amended by Regulation (EC) No 1614/2001(4), stipulates that, without prejudice to Article 38 of that Regulation, the amount of the aid referred to in Article 6(3) of Regulation (EC) No 1255/1999 for private storage is to be fixed each year. To this end, account should be taken of the fixed, daily and financial costs of storage, and of the movements in the European Central Bank's interest rate in the case of the financial costs.</p>
+      <p n="10">(2) Article 29(1) of Regulation (EC) No 2771/1999 stipulates the period in which entry into store must take place. The current situation on the butter market justifies bringing the entry date of 15 March for butter and cream storage operations in 2003 forward to 1 March, as an exceptional measure.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The aid referred to in Article 6(3) of Regulation (EC) No 1255/1999 shall be calculated per tonne of butter or butter equivalent for contracts concluded in 2003 on the following basis:</p>
+      <p n="15">(a) EUR 24 for the fixed costs,</p>
+      <p n="16">(b) EUR 0,35 for the costs of cold storage for each day of contractual storage, and</p>
+      <p n="17">(c) an amount per day of contractual storage, calculated on the basis of 91 % of the intervention price for butter in force on the day the contractual storage begins and on the basis of an annual interest rate of 2,75 %.</p>
+      <p n="18">Article 2</p>
+      <p n="19">Article 29(1) of Regulation (EC) No 2771/1999 notwithstanding, entry into store in 2003 may take place from 1 March.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 5 February 2003.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz Fischler</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 160, 26.6.1999, p. 48.</p>
+      <p n="28">(2) OJ L 79, 22.3.2002, p. 15.</p>
+      <p n="29">(3) OJ L 333, 24.12.1999, p. 11.</p>
+      <p n="30">(4) OJ L 214, 8.8.2001, p. 20.</p>
+    </body>
+  </text>
+</TEI.2>

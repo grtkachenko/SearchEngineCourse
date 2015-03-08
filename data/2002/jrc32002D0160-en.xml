@@ -1,0 +1,173 @@
+<TEI.2 id="jrc32002D0160-en" n="32002D0160" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0160 English</title>
+        <title>2002/160/EC: Commission Decision of 21 February 2002 amending Annex D to Council Directive 90/426/EEC with regard to diagnostic tests for African horse sickness (Text with EEA relevance) (notified under document number C(2002) 556)</title>
+      </titleStmt>
+      <extent>137 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0160:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0160:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2356</classCode>
+        <classCode scheme="eurovoc">5305</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0160-en." lang="en">
+    <body>
+      <head n="1">2002/160/EC: Commission Decision of 21 February 2002 amending Annex D to Council Directive 90/426/EEC with regard to diagnostic tests for African horse sickness (Text with EEA relevance) (notified under document number C(2002) 556)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 21 February 2002</p>
+      <p n="4">amending Annex D to Council Directive 90/426/EEC with regard to diagnostic tests for African horse sickness</p>
+      <p n="5">(notified under document number C(2002) 556)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/160/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/426/EEC of 26 June 1990 on animal health conditions governing the movement and import from third countries of equidae(1), as last amended by Decision 2001/298/EC(2), and in particular Article 23 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Annex D to Directive 90/426/EEC describes the complement fixation test to be carried out for the diagnosis of African horse sickness.</p>
+      <p n="13">(2) In November 2000 the Community reference laboratory in Algete, Spain, hosted the annual meeting of the national reference laboratories for African horse sickness of EU Member States. During this meeting scientific evidence was presented that the complement fixation test currently described in Annex D to Directive 90/426/EEC has serious limitations in particular because it is only suitable for detecting antibodies after a recent infection or vaccination. Furthermore, the test is in practice replaced by modern ELISA tests in almost all laboratories in the Community and also in major exporting countries.</p>
+      <p n="14">(3) The internationally accepted laboratory tests for the detection of antibodies against the African horse sickness virus are described in the Manual of Standards for Diagnostic Tests and Vaccines(3) of the Office International des Epizooties (OIE); however, the current edition mentions only one of the ELISA tests available.</p>
+      <p n="15">(4) Therefore, it appears appropriate to modify Annex D to Directive 90/426/EEC so as to take into account technical developments and internationally approved standards.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Annex D to Directive 90/426/EEC is replaced by the Annex to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 21 February 2002.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">David Byrne</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 224, 18.8.1990, p. 42.</p>
+      <p n="27">(2) OJ L 102, 12.4.2001, p. 63.</p>
+      <p n="28">(3) Chapter 2.1.11., fourth edition 2000.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">"ANNEX D</p>
+      <p n="31">AFRICAN HORSE SICKNESS</p>
+      <p n="32">DIAGNOSIS</p>
+      <p n="33">Reagents for the enzyme-linked immunosorbent assays (ELISA) described below may be obtained from the European Community Reference Laboratory or the OIE Reference Laboratories for African horse sickness.</p>
+      <p n="34">1. COMPETITIVE ELISA FOR THE DETECTION OF ANTIBODIES TO AFRICAN HORSE SICKNESS VIRUS (AHSV) (PRESCRIBED TEST)</p>
+      <p n="35">Competitive ELISA is used to detect specific AHSV antibodies in sera from any species of equidae. The broad spectrum, polyclonal, immune anti-AHSV guinea-pig serum (hereinafter "guinea-pig antiserum") is serogroup specific and is able to detect all known serotypes of AHS virus.</p>
+      <p n="36">The principle of the test is the interruption of the reaction between AHSV antigen and a guinea-pig antiserum by a test serum sample. AHSV antibodies in the test serum sample will compete with those in the guinea-pig antiserum resulting in a reduction in the expected colour (following the addition of enzyme labelled anti-guinea-pig antibody and substrate). Sera can be tested at a single dilution of 1 in 5 (spot test method) or may be titrated (serum titration method) to give dilution end-points. Inhibition values higher than 50 % may be regarded as positive.</p>
+      <p n="37">The test protocol described hereinafter is used in the Regional Reference Laboratory for African horse sickness in Pirbright, United Kingdom.</p>
+      <p n="38">1.1. Test procedure</p>
+      <p n="39">1.1.1. Preparation of plates</p>
+      <p n="40">1.1.1.1. Coat ELISA plates with AHSV antigen extracted from infected cell cultures and diluted in carbonate/bicarbonate buffer, pH 9,6. Incubate the ELISA plates overnight at 4 °C.</p>
+      <p n="41">1.1.1.2. Wash plates three times by flooding and emptying the wells with phosphate buffered saline (PBS), pH 7,2 to 7,4 pH, and blot dry on adsorbent paper.</p>
+      <p n="42">1.1.2. Control wells</p>
+      <p n="43">1.1.2.1. Titrate the positive control sera in a twofold dilution series, from 1 in 5 to 1 in 640, across column 1 in blocking buffer (PBS containing 0,05 % (v/v) Tween-20, 5,0 % (w/v) skimmed-milk powder (Cadbury's MarvelTM) and 1 % (v/v) adult bovine serum) to give a final volume of 50 μl/well.</p>
+      <p n="44">1.1.2.2. Add 50 μl of the negative control serum at a dilution of 1 in 5 (10 μl serum + 40 μl blocking buffer) to wells A and B of column 2.</p>
+      <p n="45">1.1.2.3. Add 100 μl/well of blocking buffer to wells C and D of column 2 (blank).</p>
+      <p n="46">1.1.2.4. Add 50 μl of blocking buffer to wells E, F, G and H of column 2 (guinea pig control).</p>
+      <p n="47">1.1.3. Spot test method</p>
+      <p n="48">1.1.3.1. Add a 1 in 5 dilution of each test serum in blocking buffer to duplicate wells of columns 3 to 12 (10 μl sera + 40 μl blocking buffer).</p>
+      <p n="49">or</p>
+      <p n="50">1.1.4. Serum titration method</p>
+      <p n="51">1.1.4.1. Prepare a twofold dilution series of each test sample (1 in 5 to 1 in 640) in blocking buffer across eight wells of single columns (3 to 12).</p>
+      <p n="52">then</p>
+      <p n="53">1.1.5. Add 50 μl of guinea pig antisera, pre-diluted in blocking buffer, to all wells except the blank wells of the ELISA plate (all wells now contain a final volume of 100 μl).</p>
+      <p n="54">1.1.5.1. Incubate for 1 hour at 37 °C on an orbital shaker.</p>
+      <p n="55">1.1.5.2. Wash plates three times and blot dry as before.</p>
+      <p n="56">1.1.5.3. Add 50 μl of rabbit anti-guinea-pig horseradish peroxidase (HRP) conjugate pre-diluted in blocking buffer to each well.</p>
+      <p n="57">1.1.5.4. Incubate for 1 hour at 37 °C on an orbital shaker.</p>
+      <p n="58">1.1.5.5. Wash plates three times and blot dry as before.</p>
+      <p n="59">1.1.6. Chromogen</p>
+      <p n="60">Prepare the chromogen OPD (OPD = ortho-phenyldiamine) solution according to the manufacturers instructions (0,4 mg/ml in sterile distilled water) just before use. Add substrate (hydrogen peroxide = H2O2) to give a final concentration of 0,05 % (v/v) (1 in 2000 of a 30 % solution of H2O2). Add 50 μl of the OPD solution to each well and leave plates on the bench for 10 minutes at ambient temperature. Stop the reaction by the addition of 50 μl/well of 1M sulphuric acid (H2SO4).</p>
+      <p n="61">1.1.7. Reading</p>
+      <p n="62">Read spectrophotometrically at 492 nm.</p>
+      <p n="63">1.2. Expression of results</p>
+      <p n="64">1.2.1. Using a software package print out the optical density (OD) values, and the percentage inhibition (PI) for test and control sera based on the mean value recorded in the four guinea pig control wells. The data expressed as OD and PI values are used to determine whether the test has performed within acceptable limits. The upper control limits (UCL) and lower control limits (LCL) for the guinea pig control are between OD values 1,4 and 0,4 respectively. The end-point titre for the positive control based on 50 % PI should be 1 in 240 (within a range from 1 in 120 to 1 in 480). Any plate that fails to conform to the above criteria must be rejected. However, if the positive control serum titre is greater than 1 in 480 and the test samples are still negative then the negative test samples can be accepted.</p>
+      <p n="65">The duplicate negative control serum wells and the duplicate blank wells should record PI values between + 25 % and - 25 %, and between + 95 % and + 105 %, respectively. Failure to be within these limits does not invalidate the plate but does suggest that background colour is developing.</p>
+      <p n="66">1.2.2. The diagnostic threshold (cut-off value) for test sera is 50 % (PI 50 %). Samples recording PI values greater than 50 % are recorded as positive. Samples recording PI values lower than 50 % are recorded as negative.</p>
+      <p n="67">Samples that record PI values above and below the threshold for the duplicate wells are considered doubtful. Such samples may be re-tested in the spot test and by titration. Positive samples may also be titrated to provide an indication of the degree of positivity.</p>
+      <p n="68">Spot test layout</p>
+      <p n="69">&gt;TABLE&gt;</p>
+      <p n="70">-ve cont= negative control.</p>
+      <p n="71">+ve cont= positive control.</p>
+      <p n="72">GP cont= guinea pig control.</p>
+      <p n="73">Test sera</p>
+      <p n="74">&gt;TABLE&gt;</p>
+      <p n="75">-ve cont= negative control.</p>
+      <p n="76">+ve cont= positive control.</p>
+      <p n="77">GP cont= guinea pig control.</p>
+      <p n="78">2. INDIRECT ELISA FOR THE DETECTION OF ANTIBODIES TO AFRICAN HORSE SICKNESS VIRUS (AHSV) (PRESCRIBED TEST)</p>
+      <p n="79">The test described hereinafter is in accordance with the test description in Chapter 2.1.11 of the OIE Manual of Standards for Diagnostic Tests and Vaccines, fourth edition, 2000.</p>
+      <p n="80">The recombinant VP7 protein has been used as antigen for AHS virus antibody determination with a high index of sensitivity and specificity. Other advantages are that it is stable and not infective.</p>
+      <p n="81">2.1. Test procedure</p>
+      <p n="82">2.1.1. Solid phase</p>
+      <p n="83">2.1.1.1. ELISA plates are coated with recombinant AHSV-4 VP7 diluted in carbonate/bicarbonate buffer, pH 9,6. Incubate plates overnight at 4 °C.</p>
+      <p n="84">2.1.1.2. Wash the plates five times with distilled water containing 0,01 % (v/v) Tween 20 (washing solution). Gently tap the plates onto absorbent material to remove any residual wash.</p>
+      <p n="85">2.1.1.3. Block the plates with phosphate buffered saline (PBS) + 5 % (w/v) skimmed milk (Nestlé Dry Skim MilkTM), 200 μl/well, for 1 hour at 37 °C.</p>
+      <p n="86">2.1.1.4. Remove the blocking solution and gently tap the plates onto absorbent material.</p>
+      <p n="87">2.1.2. Test samples</p>
+      <p n="88">2.1.2.1. Serum samples to be tested, and positive and negative control sera, are diluted 1 in 25 in PBS + 5 % (w/v) skimmed milk + 0,05 % (v/v) Tween 20, 100 μl per well. Incubate for 1 hour at 37 °C.</p>
+      <p n="89">For titration, make a twofold dilution series from 1 in 25 (100 μl/well), one serum per plate column, and do the same with positive and negative controls. Incubate for 1 hour at 37 °C.</p>
+      <p n="90">2.1.2.2. Wash the plates as described in step 2.1.1.2.</p>
+      <p n="91">2.1.3. Conjugate</p>
+      <p n="92">2.1.3.1. Dispense 100 μl/well of horseradish-peroxidase (HRP) -conjugated anti-horse gamma-globulin diluted in PBS + 5 % milk + 0,05 % Tween 20, pH 7,2. Incubate for 1 hour at 37 °C.</p>
+      <p n="93">2.1.3.2. Wash the plates as described in step 2.1.1.2.</p>
+      <p n="94">2.1.4. Cromogen/Substrate</p>
+      <p n="95">2.1.4.1. Add 200 μl/well of chromogen/substrate solution (10 ml of 80,6 mM DMAB (dimethyl aminobenzaldehyde) + 10 ml of 1,56 mM MBTH (3-methyl-2-benzo-thiazoline hydrazone hydrochlorid) + 5 μl H2O2)</p>
+      <p n="96">Colour development is stopped by adding 50 μl of 3N H2SO4 after approximately 5 to 10 minutes (before the negative control begins to be coloured).</p>
+      <p n="97">Other chromogens such as ABTS (2,2'-Azino-bis-[3-ethylbenzothiazoline-6-sulphonic acid]), TMB (tetramethyl benzidine), or OPD (ortho-phenyldiamine) can also be used.</p>
+      <p n="98">2.1.4.2. Read the plates at 600 nm (or 620 nm).</p>
+      <p n="99">2.2. Interpretation of the results</p>
+      <p n="100">2.2.1. Calculate the cut-off value by adding 0,6 to the value of the negative control (0,6 is the standard deviation derived with a group of 30 negative sera).</p>
+      <p n="101">2.2.2. Test samples giving absorbance values lower than the cut-off are regarded as negative.</p>
+      <p n="102">2.2.3. Test samples giving absorbance values greater than the cut-off + 0,15 are regarded as positive.</p>
+      <p n="103">2.2.4. Test samples giving intermediate absorbance values are doubtful and a second technique must be employed to confirm the result.</p>
+      <p n="104">3. BLOCKING ELISA FOR THE DETECTION OF ANTIBODIES TO AFRICAN HORSE SICKNESS VIRUS (AHSV) (PRESCRIBED TEST)</p>
+      <p n="105">The blocking ELISA is designed to detect specific AHSV antibodies in sera from any susceptible species. VP7 is the major, antigenic, viral protein of AHSV, and is conserved within the nine serotypes. Because the monoclonal antibody (Mab) is also directed against the VP7, the assay will give a high level of sensitivity and specificity. Further, the recombinant VP7 antigen is completely innocuous and therefore guarantees a high degree of safety.</p>
+      <p n="106">The principal of the test is the interruption of the reaction between the recombinant VP7, as the antigen bound to the ELISA plate and the conjugated Mab specific for the VP7. Antibody in the test sera will block the reaction between the antigen and the Mab resulting in a reduction in colour.</p>
+      <p n="107">The test described hereinafter is carried out in the European Community Reference Laboratory for African horse sickness in Algete, Spain.</p>
+      <p n="108">3.1. Test procedure</p>
+      <p n="109">3.1.1. ELISA plates</p>
+      <p n="110">3.1.1.1. Coat ELISA plates with recombinant AHSV-4 VP7 diluted in carbonate/bicarbonate buffer, pH 9,6. Incubate overnight at 4 °C.</p>
+      <p n="111">3.1.1.2. Wash the plates five times with phosphate buffered saline (PBS) containing 0,05 % (v/v) Tween 20 (PBST).</p>
+      <p n="112">3.1.1.3. Stabilise the plate by treatment with a stabilising solution (in order to allow long term storage at 4 °C without loss of activity) and blot dry onto adsorbent material.</p>
+      <p n="113">3.1.2. Test samples and controls</p>
+      <p n="114">3.1.2.1.</p>
+      <p n="115">&gt;TABLE&gt;</p>
+      <p n="116">3.1.2.2.</p>
+      <p n="117">&gt;TABLE&gt;</p>
+      <p n="118">3.1.3. Conjugate</p>
+      <p n="119">Add 50 μl/well of pre-diluted horseradish-peroxidase (HRP) -conjugated Mab (monoclonal antibodies specific for VP7) to each well and mix gently to ensure homogeneity. Incubate for 30 minutes at 37 °C.</p>
+      <p n="120">3.1.4. Wash the plates five times with PBST and blot dry as above.</p>
+      <p n="121">3.1.5. Chromogen/Substrate</p>
+      <p n="122">Add 100 μl/well of chromogen/substrate solution (1 ml of ABTS (2,2'-Azino-bis-[3-ethylbenzothiazoline-6-sulphonic acid]) 5 mg/ml + 9 ml of substrate buffer (0,1 M Phosphate-Citrate buffer of pH 4 containing 0,03 % H2O2] and incubate for 10 minutes at room temperature. Colour development is stopped by adding 100 μl/well of 2 % (w/v) SDS (sodium dodecyl sulphate).</p>
+      <p n="123">3.1.6. Reading</p>
+      <p n="124">Read at 405 nm in an ELISA reader.</p>
+      <p n="125">3.2. Interpretation of the results</p>
+      <p n="126">3.2.1. Assay validation</p>
+      <p n="127">The test is valid when the optical density (OD) of negative control (NC) is higher than 1,0 and the OD of positive control (PC) is lower than 0,2.</p>
+      <p n="128">3.2.2. Cut-off calculation</p>
+      <p n="129">Positive cut-off=</p>
+      <p n="130">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="131">Negative cut-off=</p>
+      <p n="132">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="133">Where, NC is the OD of the negative control and PC the OD of positive control.</p>
+      <p n="134">3.2.3. Interpretation of results</p>
+      <p n="135">Samples with OD lower than positive cut-off should be considered as positives to AHSV antibodies.</p>
+      <p n="136">Samples with OD higher than negative cut-off should be considered negatives for AHSV antibodies.</p>
+      <p n="137">Samples with OD between these two values should be considered doubtful and the animals re-sampled after two to three weeks."</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32002D0853-en" n="32002D0853" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0853 English</title>
+        <title>2002/853/EC: Commission Decision of 29 October 2002 on the position of the European Community regarding the adaptation to technical progress of Regulations 3, 7, 14, 16, 23, 34, 37, 38, 43, 48, 50, 67, 75, 77, 87, 91, 105 and 113 of the United Nations Economic Commission for Europe</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0853:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0853:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2179</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">3641</classCode>
+        <classCode scheme="eurovoc">4654</classCode>
+        <classCode scheme="eurovoc">4658</classCode>
+        <classCode scheme="eurovoc">848</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0853-en." lang="en">
+    <body>
+      <head n="1">2002/853/EC: Commission Decision of 29 October 2002 on the position of the European Community regarding the adaptation to technical progress of Regulations 3, 7, 14, 16, 23, 34, 37, 38, 43, 48, 50, 67, 75, 77, 87, 91, 105 and 113 of the United Nations Economic Commission for Europe</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 29 October 2002</p>
+      <p n="4">on the position of the European Community regarding the adaptation to technical progress of Regulations 3, 7, 14, 16, 23, 34, 37, 38, 43, 48, 50, 67, 75, 77, 87, 91, 105 and 113 of the United Nations Economic Commission for Europe</p>
+      <p n="5">(2002/853/EC)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Decision 97/836/EC of 27 November 1997 with a view to accession by the European Community to the Agreement of the United Nations Economic Commission for Europe concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions(1), and in particular the first indent of Article 4(2) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Where a proposal to adapt a Regulation of the United Nations Economic Commission for Europe annexed to the revised 1958 Agreement, a Regulation which binds the Community by virtue of the provisions of Annex II to Decision 97/836/EC, is put to the vote in the Administrative Committee set up pursuant to Article 1(2) of the said Agreement, the vote which the Commission is to cast may be adopted in accordance with the procedure applicable to technical adaptations to directives relating to the type-approval of motor vehicles.</p>
+      <p n="11">(2) In the light of experience and technical developments, the requirements relating to certain elements or features covered by UN/ECE 3, 7, 14, 16, 23, 34, 37, 38, 43, 48, 50, 67, 75, 77, 87, 91, 105 and 113 need to be adapted.</p>
+      <p n="12">(3) The measures laid down in this Decision are in accordance with the opinion delivered by the Committee on Adaptation to Technical Progress set up by Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers(2), as last amended by Directive 2001/116/EC of the European Parliament and of the Council(3),</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Sole Article</p>
+      <p n="15">The European Community shall vote in favour of the documents listed in annex in the vote held at the meeting of the Administrative Committee on 12 November 2002 during the 128th meeting of the "World Forum for Harmonisation of Vehicle Regulations" of the United Nations Economic Commission for Europe or, as appropriate, when they are put to the vote at a later meeting.</p>
+      <p n="16">Done at Brussels, 29 October 2002.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Erkki Liikanen</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 346, 17.12.1997, p. 78.</p>
+      <p n="21">(2) OJ L 42, 23.2.1970, p. 1.</p>
+      <p n="22">(3) OJ L 18, 21.1.2002, p. 1.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

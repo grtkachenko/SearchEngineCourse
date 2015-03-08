@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32003D0019-en" n="32003D0019" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0019 English</title>
+        <title>2003/19/EC: Council Decision of 14 October 2002 on declassifying certain parts of the Sirene Manual adopted by the Executive Committee established by the Convention implementing the Schengen Agreement of 14 June 1985</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0019:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0019:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1589</classCode>
+        <classCode scheme="eurovoc">4479</classCode>
+        <classCode scheme="eurovoc">5311</classCode>
+        <classCode scheme="eurovoc">5405</classCode>
+        <classCode scheme="eurovoc">5456</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0019-en." lang="en">
+    <body>
+      <head n="1">2003/19/EC: Council Decision of 14 October 2002 on declassifying certain parts of the Sirene Manual adopted by the Executive Committee established by the Convention implementing the Schengen Agreement of 14 June 1985</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 14 October 2002</p>
+      <p n="4">on declassifying certain parts of the Sirene Manual adopted by the Executive Committee established by the Convention implementing the Schengen Agreement of 14 June 1985</p>
+      <p n="5">(2003/19/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 207 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) By its Decision of 14 December 1993 (SCH/Com-ex (93) 22 rev) and 23 June 1998 (SCH/Com-ex (98) 17), the Executive Committee established by the Convention implementing the Schengen Agreement of 14 June 1985, which was replaced by the Council pursuant to Article 2 of the Schengen Protocol, classified as "Confidential" the Sirene Manual, the final version of which was adopted by the Decision of the said Executive Committee on 28 April 1999 (SCH/Com-ex (99) 5).</p>
+      <p n="10">(2) The Sirene Manual and the Decisions of the Executive Committee on its classification form part of the Schengen acquis as defined by the Council in its Decision 1999/435/EC of 20 May 1999.</p>
+      <p n="11">(3) Certain parts of the Sirene Manual should be declassified.</p>
+      <p n="12">(4) Certain parts of the Sirene Manual should have their classification downgraded to "Restreint UE".</p>
+      <p n="13">(5) It is appropriate to repeal the Executive Committee decisions (SCH/Com-ex (93) 22 rev) and (SCH/Com-ex (98) 17) insofar as they relate to the classification of the Sirene Manual, so that future decisions on its classification may be taken in accordance with the normal rules on the classification of documents, as set out in Council Decision 2001/264/EC of 19 March 2001 adopting the Council's security regulations(1),</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Sirene Manual shall be declassified, with the exception of section 2.3 and Annexes 1, 2, 3, 4, 5 and 6.</p>
+      <p n="17">Article 2</p>
+      <p n="18">Section 2.3 of the Sirene Manual, as well as Annexes 1, 2, 3, 4, 5 and 6 shall be classified "Restreint UE".</p>
+      <p n="19">Article 3</p>
+      <p n="20">The declassified parts of the Sirene Manual shall be published in the Official Journal of the European Communities.</p>
+      <p n="21">Article 4</p>
+      <p n="22">1. The decisions of the Schengen Executive Committee of 14 December 1993 (SCH/Com-ex (93)22 rev.) and of 23 June 1998 (SCH/Com-ex (98) 17) shall be repealed insofar as they relate to the Sirene Manual.</p>
+      <p n="23">2. Future decisions on the classification of the Sirene Manual shall be taken in accordance with the provisions of Decision 2001/264/EC.</p>
+      <p n="24">Article 5</p>
+      <p n="25">This Decision shall take effect on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="26">Done at Luxembourg, 14 October 2002.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">L. Espersen</p>
+      <p n="30">(1) OJ L 101, 11.4.2001, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

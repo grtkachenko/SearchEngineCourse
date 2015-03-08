@@ -1,0 +1,88 @@
+<TEI.2 id="jrc32000D0479-en" n="32000D0479" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0479 English</title>
+        <title>2000/479/EC: Commission Decision of 17 July 2000 on the implementation of a European pollutant emission register (EPER) according to Article 15 of Council Directive 96/61/EC concerning integrated pollution prevention and control (IPPC) (notified under document number C(2000) 2004) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>51 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0479:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0479:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1707</classCode>
+        <classCode scheme="eurovoc">2527</classCode>
+        <classCode scheme="eurovoc">2626</classCode>
+        <classCode scheme="eurovoc">3164</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">5794</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0479-en." lang="en">
+    <body>
+      <head n="1">2000/479/EC: Commission Decision of 17 July 2000 on the implementation of a European pollutant emission register (EPER) according to Article 15 of Council Directive 96/61/EC concerning integrated pollution prevention and control (IPPC) (notified under document number C(2000) 2004) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 17 July 2000</p>
+      <p n="4">on the implementation of a European pollutant emission register (EPER) according to Article 15 of Council Directive 96/61/EC concerning integrated pollution prevention and control (IPPC)</p>
+      <p n="5">(notified under document number C(2000) 2004)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/479/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control(1), and in particular Article 15(3) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Article 15(3) of Directive 96/61/EC requires Member States to inventory and supply data on principal emissions and responsible sources.</p>
+      <p n="13">(2) The Commission will publish the results of the inventory every three years and shall establish the formats and particulars for the transmission of information provided by the Member States in accordance with the procedure of Article 19 of Directive 96/61/EC.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Committee referred to in Article 19 of Directive 96/61/EC,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">1. Member States shall report to the Commission on emissions from all individual facilities with one or more activities as mentioned in Annex I to Directive 96/61/EC.</p>
+      <p n="18">2. The report must include the emissions to air and water for all pollutants for which the threshold values are exceeded; both pollutants and threshold values are specified in Annex A1.</p>
+      <p n="19">3. The emission data shall be reported for each facility according to the format of Annex A2, noting a description of all activities as mentioned in Annex I to Directive 96/61/EC with corresponding source categories and NOSE-P codes as specified in Annex A3.</p>
+      <p n="20">4. Member States shall provide the Commission with an overview report, which includes the national totals of all reported emissions for each of the source categories with the main Annex I activity and the corresponding NOSE-P code as specified in Annex A3.</p>
+      <p n="21">Article 2</p>
+      <p n="22">1. Member States shall report to the Commission every three years.</p>
+      <p n="23">2. The first report by Member States shall be sent to the Commission in June 2003 providing data on emissions in 2001 (or optionally 2000 or 2002, when data for 2001 are not available).</p>
+      <p n="24">3. The second report by Membr States shall be sent to the Commission in June 2006 providing data on emissions in 2004.</p>
+      <p n="25">4. From the year T=2008 onwards and dependent on the results of the second reporting cycle, Member States are encouraged to send annually the next reports to the Commission in December of the year T providing data on emissions in the year T-1.</p>
+      <p n="26">Article 3</p>
+      <p n="27">1. The Commission will facilitate preparatory national workshops organised by the Member States and prepare a guidance document for EPER implementation by December 2000 with the involvement of industrial representatives and in consultation with the Committee referred to in Article 19 of Directive 96/61/EC.</p>
+      <p n="28">2. The guidance document for EPER implementation will address details on reporting formats and particulars, including interpretation of definitions, data quality and data management, reference to emission estimation methods and sector-specific sublists of pollutants for the source categories as specified in annex A3.</p>
+      <p n="29">3. After each reporting cycle the Commission will publish the results of the reporting by Member States and review the reporting process within six months the delivery dates for Member States as mentioned in Article 2.</p>
+      <p n="30">Article 4</p>
+      <p n="31">1. Member States shall provide all reported data by electronic data transfer.</p>
+      <p n="32">2. The Commission assisted by the European Environment Agency will make the reported data publicly accessible by dissemination on the Internet.</p>
+      <p n="33">3. Specific definitions used in relation to the emission reporting are given in Annex A4.</p>
+      <p n="34">Article 5</p>
+      <p n="35">This Decision is addressed to the Member States.</p>
+      <p n="36">Done at Brussels, 17 July 2000.</p>
+      <p n="37">For the Commission</p>
+      <p n="38">Margot Wallström</p>
+      <p n="39">Member of the Commission</p>
+      <p n="40">(1) OJ L 257, 10.10.1996, p. 26.</p>
+      <p n="41">ANNEX A1</p>
+      <p n="42">List of pollutants to be reported if threshold value is exceeded</p>
+      <p n="43">&gt;TABLE&gt;</p>
+      <p n="44">ANNEX A2</p>
+      <p n="45">&gt;PIC FILE= "L_2000192EN.004002.EPS"&gt;</p>
+      <p n="46">ANNEX A3</p>
+      <p n="47">Source categories and NOSE-P codes to be reported</p>
+      <p n="48">&gt;TABLE&gt;</p>
+      <p n="49">ANNEX A4</p>
+      <p n="50">Definitions used in relation to EPER</p>
+      <p n="51">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

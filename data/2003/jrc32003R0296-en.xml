@@ -1,0 +1,95 @@
+<TEI.2 id="jrc32003R0296-en" n="32003R0296" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0296 English</title>
+        <title>Commission Regulation (EC) No 296/2003 of 17 February 2003 amending Council Regulation (EEC) No 959/93 concerning statistical information to be supplied by Member States on crop products other than cereals</title>
+      </titleStmt>
+      <extent>59 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0296:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0296:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2198</classCode>
+        <classCode scheme="eurovoc">2723</classCode>
+        <classCode scheme="eurovoc">4257</classCode>
+        <classCode scheme="eurovoc">4337</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0296-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 296/2003 of 17 February 2003 amending Council Regulation (EEC) No 959/93 concerning statistical information to be supplied by Member States on crop products other than cereals</head>
+      <p n="2">Commission Regulation (EC) No 296/2003</p>
+      <p n="3">of 17 February 2003</p>
+      <p n="4">amending Council Regulation (EEC) No 959/93 concerning statistical information to be supplied by Member States on crop products other than cereals</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 959/93 of 5 April 1993 concerning statistical information to be supplied by Member States on crop products other than cereals(1), at last amended by Commission Regulation (EC) No 2197/95(2) and in particular Article 10 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) To maintain the sum of two areas allocated to the two uses of cotton leads to a lack of data or to estimated data, or to a double count. Therefore, it is necessary to select only one area.</p>
+      <p n="10">(2) It is appropriate to know in a more precise manner the nature and the areas of industrial crops.</p>
+      <p n="11">(3) A clarification of the fodder statistics and updating of the classification are necessary to obtain quality statistics.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee for Agricultural Statistics, established by Council Decision 72/279/CE(3),</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Annexes II, III, IV, V and VIII to Regulation (EEC) No 959/93 are replaced by Annexes I, II, III, IV and V to this Regulation.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 17 February 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Pedro Solbes Mira</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 98, 24.4.1993, p. 1.</p>
+      <p n="24">(2) OJ L 221, 19.9.1995, p. 2.</p>
+      <p n="25">(3) OJ L 179, 7.8.1972, p. 1.</p>
+      <p n="26">ANNEX I</p>
+      <p n="27">"ANNEX II</p>
+      <p n="28">SPECIFICATION OF AREAS REFERRED TO IN ARTICLE 2(1) AND (2)</p>
+      <p n="29">&gt;TABLE&gt;"</p>
+      <p n="30">ANNEX II</p>
+      <p n="31">"ANNEX III</p>
+      <p n="32">SPECIFICATION OF PRODUCTS REFERRED TO IN ARTICLE 2(3)</p>
+      <p n="33">&gt;TABLE&gt;</p>
+      <p n="34">&gt;PIC FILE= "L_2003043EN.002103.TIF"&gt;</p>
+      <p n="35">= Yield figures are not required."</p>
+      <p n="36">ANNEX III</p>
+      <p n="37">"ANNEX IV</p>
+      <p n="38">SPECIFICATION OF THE REQUIRED ACCURACY IN EACH MEMBER STATE FOR GROUPS OF AREAS REFERRED TO IN ARTICLE 4(3)</p>
+      <p n="39">&gt;TABLE&gt;</p>
+      <p n="40">NB:</p>
+      <p n="41">The accuracy for cereals and rice is already fixed in Council Regulation (EEC) No 837/90 of 26 March 1990. The capital letters B, C, D, E, F and I refer to the headings in Annex II."</p>
+      <p n="42">ANNEX IV</p>
+      <p n="43">"ANNEX V</p>
+      <p n="44">SPECIFICATION OF AREAS AND PRODUCTS REFERRED TO IN ARTICLE 6</p>
+      <p n="45">&gt;TABLE&gt;</p>
+      <p n="46">&gt;PIC FILE= "L_2003043EN.002303.TIF"&gt;</p>
+      <p n="47">= No information asked for.</p>
+      <p n="48">[bull ]= Information has to be submitted.</p>
+      <p n="49">NB:</p>
+      <p n="50">The capital letters B, C, D, I, J, K, L and O refer to headings in Annex II."</p>
+      <p n="51">ANNEX V</p>
+      <p n="52">"ANNEX VIII</p>
+      <p n="53">AREAS OF MARGINAL IMPORTANCE AND AREAS TO BE INCLUDED IN THE REGULAR STATISTICAL SURVEY</p>
+      <p n="54">&gt;TABLE&gt;</p>
+      <p n="55">"[bull ]": To be included in the regular statistical survey mentioned in Article 3(1).</p>
+      <p n="56">"m": Areas of marginal importance (i.e. less than 5000 ha and 1 % of arable land in each Member State).</p>
+      <p n="57">"-": crop not grown.</p>
+      <p n="58">NB:</p>
+      <p n="59">The capital letters B, C, D, E, F, G, H and I refer to the headings in Annex II."</p>
+    </body>
+  </text>
+</TEI.2>

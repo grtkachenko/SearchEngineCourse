@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31998R1340-en" n="31998R1340" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1340 English</title>
+        <title>Council Regulation (EC) No 1340/98 of 24 June 1998 amending Regulation (EC) No 3290/94 on the adjustments and transitional arrangements required in the agriculture sector in order to implement the agreements concluded during the Uruguay Round of multilateral trade negotiations</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1340:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1340:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1136</classCode>
+        <classCode scheme="eurovoc">1567</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">3299</classCode>
+        <classCode scheme="eurovoc">6007</classCode>
+        <classCode scheme="eurovoc">635</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1340-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1340/98 of 24 June 1998 amending Regulation (EC) No 3290/94 on the adjustments and transitional arrangements required in the agriculture sector in order to implement the agreements concluded during the Uruguay Round of multilateral trade negotiations</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1340/98 of 24 June 1998 amending Regulation (EC) No 3290/94 on the adjustments and transitional arrangements required in the agriculture sector in order to implement the agreements concluded during the Uruguay Round of multilateral trade negotiations</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 3290/94 of 22 December 1994 on the adjustments and transitional arrangements required in the agriculture sector in order to implement the agreements concluded during the Uruguay Round of multilateral trade negotiations (1), and in particular Article 3(2) thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas Article 3 of Regulation (EC) No 3290/94 authorises the Commission to adopt the measures required to facilitate the switch-over from the arrangements existing before implementation of the results of the Uruguay Round negotiations to those resulting from the adjustments to agricultural legislation provided for in the abovementioned Regulation; whereas such transitional measures may be adopted only up to 30 June 1998 and may not apply beyond that date; whereas it transpires that certain matters which are currently regulated by transitional measures cannot be settled definitively before the above date; whereas these matters concern in particular certain arrangements entered into with third countries; whereas it is therefore necessary to extend by one year the period during which the Commission may adopt transitional measures,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">In Article 3(2) of Regulation (EC) No 3290/94, the date '30 June 1998` shall be replaced by '30 June 1999`.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="13">It shall apply from 1 July 1998.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Luxembourg, 24 June 1998.</p>
+      <p n="16">For the Council</p>
+      <p n="17">The President</p>
+      <p n="18">J. CUNNINGHAM</p>
+      <p n="19">(1) OJ L 349, 31. 12. 1994, p. 105. Regulation as amended by Regulation (EC) No 1161/97 (OJ L 169, 27. 6. 1997, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

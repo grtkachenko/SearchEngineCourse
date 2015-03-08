@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32003R1494-en" n="32003R1494" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1494 English</title>
+        <title>Commission Regulation (EC) No 1494/2003 of 25 August 2003 setting, for the 2003/04 marketing year, the buying-in price to be applied by storage agencies for unprocessed dried grapes and unprocessed dried figs</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1494:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1494:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2624</classCode>
+        <classCode scheme="eurovoc">2642</classCode>
+        <classCode scheme="eurovoc">2962</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1494-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1494/2003 of 25 August 2003 setting, for the 2003/04 marketing year, the buying-in price to be applied by storage agencies for unprocessed dried grapes and unprocessed dried figs</head>
+      <p n="2">Commission Regulation (EC) No 1494/2003</p>
+      <p n="3">of 25 August 2003</p>
+      <p n="4">setting, for the 2003/04 marketing year, the buying-in price to be applied by storage agencies for unprocessed dried grapes and unprocessed dried figs</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2201/96 of 28 October 1996 on the common organisation of the markets in processed fruit and vegetable products(1), as last amended by Commission Regulation (EC) No 453/2002(2), and in particular Article 9(8) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The criteria for setting the price at which storage agencies buy in unprocessed dried figs and unprocessed dried grapes are laid down in Article 9(2) of Regulation (EC) No 2201/96 and the conditions on which the storage agencies buy in and manage the products are laid down in Commission Regulation (EC) No 1622/1999 of 23 July 1999 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the scheme for the storage of unprocessed dried grapes and unprocessed dried figs(3). The buying-in price should therefore be set for the 2003/04 marketing year on the basis, for dried grapes, of the evolution in world prices and, for dried figs, of the minimum price laid down in Commission Regulation (EC) No 1459/2003 of 18 August 2003 fixing, for the marketing year 2003/2004, the minimum price to be paid to producers for unprocessed dried figs and the amount of production aid for dried figs(4).</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Products Processed from Fruit and Vegetables,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">For the 2003/04 marketing year, the buying-in price referred to in Article 9(2) of Regulation (EC) No 2201/96 shall be:</p>
+      <p n="14">- EUR 378,54 per tonne net for unprocessed dried grapes,</p>
+      <p n="15">- EUR 542,70 per tonne net for unprocessed dried figs.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 25 August 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 297, 21.11.1996, p. 29.</p>
+      <p n="24">(2) OJ L 72, 14.3.2002, p. 9.</p>
+      <p n="25">(3) OJ L 192, 24.7.1999, p. 33.</p>
+      <p n="26">(4) OJ L 208, 19.8.2003, p. 11.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,73 @@
+<TEI.2 id="jrc31998R0395-en" n="31998R0395" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0395 English</title>
+        <title>Commission Regulation (EC) No 395/98 of 19 February 1998 amending Regulation (EEC) No 2807/83 laying down detailed rules for recording information on Member States' catches of fish</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0395:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0395:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2891</classCode>
+        <classCode scheme="eurovoc">5229</classCode>
+        <classCode scheme="eurovoc">5255</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0395-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 395/98 of 19 February 1998 amending Regulation (EEC) No 2807/83 laying down detailed rules for recording information on Member States' catches of fish</head>
+      <p n="2">COMMISSION REGULATION (EC) No 395/98 of 19 February 1998 amending Regulation (EEC) No 2807/83 laying down detailed rules for recording information on Member States' catches of fish</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2847/93 of 12 October 1993 establishing a control system applicable to the common fisheries policy (1), as last amended by Regulation (EC) No 2635/97 (2), and in particular Article 19e(5) thereof,</p>
+      <p n="6">Whereas Council Regulation (EC) No 779/97 (3) introduces arrangements for the management of fishing effort in the Baltic Sea with effect from 1 January 1998;</p>
+      <p n="7">Whereas Regulation (EC) No 2635/97 amended Regulation (EEC) No 2847/93 to ensure compliance with the arrangements for the management of fishing effort in the Baltic Sea;</p>
+      <p n="8">Whereas the amendments relate to, inter alia, the provisions for recording data on fishing effort in the logbook;</p>
+      <p n="9">Whereas Commission Regulation (EEC) No 2807/83 (4), as last amended by Regulation (EC) No 2945/95 (5), lays down rules for recording information on Member States' catches of fish;</p>
+      <p n="10">Whereas pursuant to Article 19e(5) of Regulation (EEC) No 2847/93 detailed rules for recording information on fishing effort in the logbook should be laid down in order to implement the arrangements for the management of fishing effort referred to in Regulation (EC) No 779/97;</p>
+      <p n="11">Whereas Regulation (EEC) No 2807/83 should be amended accordingly;</p>
+      <p n="12">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EEC) No 2807/83 is hereby amended as follows:</p>
+      <p n="16">1. in Article 1a(1) the following is added after 'Council Regulation (EC) No 685/95`: 'and in Article 1 of Council Regulation (EC) No 779/97 (*),</p>
+      <p n="17">(*) OJ L 113, 30.4.1997, p. 1.`;</p>
+      <p n="18">2. in Annex VIa:</p>
+      <p n="19">- in the column 'Group of target species`, the following is added:</p>
+      <p n="20">&gt;TABLE&gt;</p>
+      <p n="21">- in the column 'Effort zones`, the following is added:</p>
+      <p n="22">'T: IBSFC areas (subdivisions 22 to 32)</p>
+      <p n="23">U: Management Unit 3 (*)</p>
+      <p n="24">(*) Comprising subdivisions 29, 30 and 31 north of latitude 59°30' N.`</p>
+      <p n="25">Article 2</p>
+      <p n="26">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="27">It shall apply from 1 July 1998.</p>
+      <p n="28">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="29">Done at Brussels, 19 February 1998.</p>
+      <p n="30">For the Commission</p>
+      <p n="31">Emma BONINO</p>
+      <p n="32">Member of the Commission</p>
+      <p n="33">(1) OJ L 261, 20. 10. 1993, p. 1.</p>
+      <p n="34">(2) OJ L 356, 31. 12. 1997, p. 14.</p>
+      <p n="35">(3) OJ L 113, 30. 4. 1997, p. 1.</p>
+      <p n="36">(4) OJ L 276, 10. 10. 1983, p. 1.</p>
+      <p n="37">(5) OJ L 308, 21. 12. 1995, p. 18.</p>
+    </body>
+  </text>
+</TEI.2>

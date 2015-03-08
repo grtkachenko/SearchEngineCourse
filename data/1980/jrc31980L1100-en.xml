@@ -1,0 +1,53 @@
+<TEI.2 id="jrc31980L1100-en" n="31980L1100" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31980L1100 English</title>
+        <title>Council Directive 80/1100/EEC of 11 November 1980 amending Directive 80/215/EEC with regard to swine vesicular disease and classical swine fever</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31980L1100:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31980L1100:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31980L1100-en." lang="en">
+    <body>
+      <head n="1">Council Directive 80/1100/EEC of 11 November 1980 amending Directive 80/215/EEC with regard to swine vesicular disease and classical swine fever</head>
+      <p n="2">COUNCIL DIRECTIVE of 11 November 1980 amending Directive 80/215/EEC with regard to swine vesicular disease and classical swine fever (80/1100/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Articles 43 and 100 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas Directive 80/215/EEC (4) laid down the animal health requirements which must be fulfilled by meat products intended for intra-Community trade;</p>
+      <p n="9">Whereas the existence of swine vesicular disease in the Community represents a danger for the Community stock of pigs ; whereas, accordingly, steps should be taken to ensure that the disease is not spread in the course of trade in certain pigmeat products;</p>
+      <p n="10">Whereas the persistence of classical swine fever in certain parts of the Community represents a danger for the stock of pigs of the Member States which are free from the disease ; whereas until such time as classical swine fever has been eliminated in the parts where it still exists, such Member States should be authorized to take additional measures with a view to preventing any contamination in the course of trade,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">With effect from 1 November 1980, Directive 80/215/EEC is hereby amended as follows: (a) in Article 4 (1) (b), the following phrase shall be inserted in (ii) before the word "treatment" : "provided that, in addition, the disease in question is not swine vesicular disease";</p>
+      <p n="14">(b) in Article 7 (1) (a), the words "swine vesicular disease" shall be inserted between the words "classical swine fever" and "or Teschen disease";</p>
+      <p n="15">(c) Article 10 shall be replaced by the following:</p>
+      <p n="16">"Article 10</p>
+      <p n="17">With regard to swine fever, Member States which have availed themselves of the authorization laid down in Directive 80/218/EEC and which are officially classical swine fever-free may not oppose the introduction into their territory of meat products which, although they have not undergone one of the forms of treatment referred to in Article 4 (1), have been prepared in whole or in part from fresh pigmeat which satisfies the requirements laid down in Article 13 a of Directive 72/461/EEC, or from fresh pigmeat obtained from pigs vaccinated against swine fever more than three months prior to slaughter."</p>
+      <p n="18">Article 2</p>
+      <p n="19">The Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 1 July 1981 and shall forthwith inform the Commission thereof.</p>
+      <p n="20">Until the date on which the Member States are able to comply, and until 1 July 1981 at the latest, Denmark, Ireland and the United Kingdom are authorized to retain their national rules relating to protection against swine fever upon introduction into their territory of pigmeat products, subject to compliance with the general provisions of the Treaty.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Directive is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 11 November 1980.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">C. NEY (1)OJ No C 130, 31.5.1980, p. 9. (2)OJ No C 175, 14.7.1980, p. 79. (3)OJ No C 300, 18.11.1980, p. 20. (4)OJ No L 47, 21.2.1980, p. 4.</p>
+    </body>
+  </text>
+</TEI.2>

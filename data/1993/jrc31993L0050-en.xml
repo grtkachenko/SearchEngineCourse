@@ -1,0 +1,53 @@
+<TEI.2 id="jrc31993L0050-en" n="31993L0050" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993L0050 English</title>
+        <title>Commission Directive 93/50/EEC of 24 June 1993 specifying certain plants not listed in Annex V, part A to Council Directive 77/93/EEC, the producers of which, or the warehouses, dispatching centres in the production zones of such plants, shall be listed in an official register</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993L0050:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993L0050:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993L0050-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 93/50/EEC of 24 June 1993 specifying certain plants not listed in Annex V, part A to Council Directive 77/93/EEC, the producers of which, or the warehouses, dispatching centres in the production zones of such plants, shall be listed in an official register</head>
+      <p n="2">COMMISSION DIRECTIVE 93/50/EEC of 24 June 1993 specifying certain plants not listed in Annex V, part A to Council Directive 77/93/EEC, the producers of which, or the warehouses, dispatching centres in the production zones of such plants, shall be listed in an official register</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 77/93/EEC of 21 December 1976 on protective measures against the introduction into the Community of organisms harmful to plants or to plant products and against their spread within the Community (1), as last amended by Directive 93/19/EEC (2), and in particular Article 6 (5), and Article 6 (7), fifth indent,</p>
+      <p n="6">Whereas, with a view to the production of certain products not listed in Annex V, part A to the said Directive, such as potatoes other than seed potatoes, or fruits of Citrus L., Fortunella Swingle, Poncirus Raf. and their hybrids, which are not infested or infected by harmful organisms referred to in Directive 77/93/EEC, and to adequate monitoring by Member States of that production, it is necessary to list the producers of the abovementioned products or where it is more convenient, the collective warehouses or dispatching centres in the production zones of these products in an official local, regional or national register;</p>
+      <p n="7">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Plant Health,</p>
+      <p n="8">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Member States shall ensure that producers, or collective warehouses, or dispatching centres in the production zones of the products listed in the Annex to this Directive shall be listed in an official local, regional or national register.</p>
+      <p n="11">Article 2</p>
+      <p n="12">1. Member States shall bring into force the laws, regulations or administrative provisions necessary to comply with this Directive on the date referred to in Article 3 (1) of Council Directive 91/683/EEC (3). They shall forthwith inform the Commission thereof.</p>
+      <p n="13">When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="14">2. Member States shall immediately communicate to the Commission all provisions of domestic law which they adopt in the field covered by this Directive. The Commission shall inform the other Member States thereof.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Directive is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 24 June 1993.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">René STEICHEN</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 26, 31. 1. 1977, p. 20.</p>
+      <p n="22">(2) OJ No L 96, 22. 4. 1993, p. 33.</p>
+      <p n="23">(3) OJ No L 376, 31. 12. 1991, p. 29.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">1. Tubers of Solanum tuberosum L., other than seed potatoes.</p>
+      <p n="26">2. Fruits of Citrus L., Fortunella Swingle, Poncirus Raf., and their hybrids.</p>
+    </body>
+  </text>
+</TEI.2>

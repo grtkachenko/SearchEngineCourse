@@ -1,0 +1,69 @@
+<TEI.2 id="jrc31995D0076-en" n="31995D0076" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0076 English</title>
+        <title>95/76/EC: Commission Decision of 10 March 1995 amending Decision 93/231/EEC, authorizing, in respect of the marketing of seed potatoes in all or part of the territory of certain Member States, more stringent measures against certain diseases than are provided for in Annexes I and II to Council Directive 66/403/EEC</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0076:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0076:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1019</classCode>
+        <classCode scheme="eurovoc">1763</classCode>
+        <classCode scheme="eurovoc">191</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2409</classCode>
+        <classCode scheme="eurovoc">2548</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0076-en." lang="en">
+    <body>
+      <head n="1">95/76/EC: Commission Decision of 10 March 1995 amending Decision 93/231/EEC, authorizing, in respect of the marketing of seed potatoes in all or part of the territory of certain Member States, more stringent measures against certain diseases than are provided for in Annexes I and II to Council Directive 66/403/EEC</head>
+      <p n="2">COMMISSION DECISION of 10 March 1995 amending Decision 93/231/EEC, authorizing, in respect of the marketing of seed potatoes in all or part of the territory of certain Member States, more stringent measures against certain diseases than are provided for in Annexes I and II to Council Directive 66/403/EEC (95/76/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 66/403/EEC of 14 June 1966 on the marketing of seed potatoes (1), as last amended by Directive 93/3/EEC (2), and in particular Article 13 (2) thereof,</p>
+      <p n="6">Having regard to the request made by Finland,</p>
+      <p n="7">Whereas the Commission, by Decision 93/231/EEC (3), as amended by Decision 95/21/EC (4) has authorized, in respect of the marketing of seed potatoes in all or part of the territory of certain Member States, more stringent measures against certain diseases than are provided for in Annexes I and II to Directive 66/403/EEC;</p>
+      <p n="8">Whereas, from a comparison of the measures taken by Finland in relation to certain areas in respect of their home production of seed potatoes and the Community grades of basic seed potatoes, it can be assumed that:</p>
+      <p n="9">- 'EC grade 1` satisfies more stringent conditions,</p>
+      <p n="10">- 'EC grade 2` is equivalent to home production intended for seed potatoes,</p>
+      <p n="11">and</p>
+      <p n="12">- 'EC grade 3` is equivalent to home production intended for potato production;</p>
+      <p n="13">Whereas Finland, for certain parts of its territory, should therefore be authorized to restrict the marketing of seed potatoes only to the Community's basic potato grades established by Commission Directive 93/17/EEC (5);</p>
+      <p n="14">Whereas such authorization is in accordance with Member States obligations under the common rules on plant health laid down by Council Directive 77/93/EEC (6), as last amended by Directive 94/13/EC (7);</p>
+      <p n="15">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The following entry is inserted before the entry relating to Germany in the Annex to Decision 93/231/EEC:</p>
+      <p n="19">&gt;TABLE&gt;</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 10 March 1995.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ No 125, 11. 7. 1966, p. 2320/66.</p>
+      <p n="27">(2) OJ No L 54, 5. 3. 1993, p. 21.</p>
+      <p n="28">(3) OJ No L 106, 30. 4. 1993, p. 11.</p>
+      <p n="29">(4) OJ No L 28, 7. 2. 1995, p. 13.</p>
+      <p n="30">(5) OJ No L 106, 30. 4. 1993, p. 7.</p>
+      <p n="31">(6) OJ No L 26, 31. 1. 1977, p. 5.</p>
+      <p n="32">(7) OJ No L 92, 9. 4. 1994, p. 27.</p>
+    </body>
+  </text>
+</TEI.2>

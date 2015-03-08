@@ -1,0 +1,208 @@
+<TEI.2 id="jrc31998L0053-en" n="31998L0053" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998L0053 English</title>
+        <title>Commission Directive 98/53/EC of 16 July 1998 laying down the sampling methods and the methods of analysis for the official control of the levels for certain contaminants in foodstuffs (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>171 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0053:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0053:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1284</classCode>
+        <classCode scheme="eurovoc">1442</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">181</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">3135</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998L0053-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 98/53/EC of 16 July 1998 laying down the sampling methods and the methods of analysis for the official control of the levels for certain contaminants in foodstuffs (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 98/53/EC of 16 July 1998 laying down the sampling methods and the methods of analysis for the official control of the levels for certain contaminants in foodstuffs (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 85/591/EEC of 20 December 1985 concerning the introduction of Community methods of sampling and analysis for the monitoring of foodstuffs intended for human consumption (1), and in particular Article 1 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 1525/98 of 16 July 1998, amending Commission Regulation (EC) No 194/97 setting maximum levels for certain contaminants in foodstuffs (2) fixes maximum limits for aflatoxins in certain foodstuffs;</p>
+      <p n="7">Whereas Council Directive 93/99/EEC of 29 October 1993 on the subject of additional measures concerning the official control of foodstuffs (3) introduces a system of quality standards for laboratories entrusted by the Member States with the official control of foodstuffs;</p>
+      <p n="8">Whereas sampling plays a crucial part in the precision of the determination of the levels of the aflatoxins which are very heterogeneously distributed in a lot;</p>
+      <p n="9">Whereas it seems necessary to fix general criteria which the method of analysis has to comply with in order to ensure that laboratories, in charge of the control, use methods of analysis with comparable levels of performance;</p>
+      <p n="10">Whereas the provisions for the sampling and methods of analysis have been drawn up on the basis of present knowledge and they may be adapted to take account of advances in scientific and technological knowledge;</p>
+      <p n="11">Whereas the methods of sampling used currently by the competent authorities largely differ in the Member States; whereas the competent authorities in certain Member States are not in a position to apply all the provisions of this Directive in a short time; whereas it is, therefore, necessary to provide a suitable period to apply these provisions;</p>
+      <p n="12">Whereas Member States will have to modify their methods of sampling gradually in order to comply with the provisions laid down in the Annexes to this Directive by the time the Directive has to be applied; whereas it is, therefore, appropriate to examine regularly with the Member States the application of these provisions;</p>
+      <p n="13">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Foodstuffs,</p>
+      <p n="14">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Member States shall take all measures necessary to ensure that the sampling for the official control of the levels of aflatoxins in foodstuffs is carried out in accordance with the methods described in Annex I of this Directive.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The Member States shall take all measures necessary to ensure that sample preparation and methods of analyses used for the official control of the levels of aflatoxins in foodstuffs comply with the criteria described in Annex II of this Directive.</p>
+      <p n="19">Article 3</p>
+      <p n="20">The Member States shall, not later than 31 December 2000, bring into force the laws, regulations or administrative provisions necessary to comply with the provisions of this Directive. They shall forthwith notify the Commission thereof.</p>
+      <p n="21">When Member States adopt these provisions, the provisions shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="22">Article 4</p>
+      <p n="23">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="24">This Directive is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 16 July 1998.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz FISCHLER</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 372, 31. 12. 1985, p. 50.</p>
+      <p n="30">(2) See page 43 of this Official Journal.</p>
+      <p n="31">(3) OJ L 290, 24. 11. 1993, p. 14.</p>
+      <p n="32">ANNEX I</p>
+      <p n="33">Methods of sampling for official checking control of the levels of aflatoxins in certain foodstuffs</p>
+      <p n="34">1. Purpose and scope</p>
+      <p n="35">Samples intended for official checking of the levels of aflatoxin content in foodstuffs shall be taken according to the methods described below. Aggregate samples thus obtained shall be considered as representative of the lots. Compliance with maximum limits laid down in Commission Regulation (EC) No 1525/98 shall be established on the basis of the levels determined in the laboratory samples.</p>
+      <p n="36">2. Definitions</p>
+      <p n="37">&gt;TABLE&gt;</p>
+      <p n="38">3. General provisions</p>
+      <p n="39">3.1. Personnel</p>
+      <p n="40">Sampling shall be performed by an authorised person as specified by the Member States.</p>
+      <p n="41">3.2. Material to be sampled</p>
+      <p n="42">Each lot which is to be examined must be sampled separately. In accordance with the specific provisions in point 5 of this Annex, large lots should be subdivided into sublots to be sampled separately.</p>
+      <p n="43">3.3. Precautions to be taken</p>
+      <p n="44">In the course of sampling and preparation of the laboratory samples precautions must be taken to avoid any changes which would affect the aflatoxin content, adversely affect the analytical determination or make the aggregate samples unrepresentative.</p>
+      <p n="45">3.4. Incremental samples</p>
+      <p n="46">As far as possible incremental samples should be taken at various places distributed throughout the lot or sublot. Departure from this procedure must be recorded in the record provided for in 3.8.</p>
+      <p n="47">3.5. Preparation of the aggregate sample and the laboratory samples (subsamples)</p>
+      <p n="48">The aggregate sample is made up by uniting and sufficiently mixing the incremental samples. After mixing, the aggregate sample must be divided into equal subsamples in accordance with the specific provisions of point 5 of this Annex.</p>
+      <p n="49">The mixing is necessary to ensure that each subsample contains portions of the whole lot or sublot.</p>
+      <p n="50">3.6. Replicate samples</p>
+      <p n="51">The replicate samples for enforcement, trade (defence) and referee purposes are to be taken from the homogenised laboratory sample, unless this conflicts with Member States' rules on sampling.</p>
+      <p n="52">3.7. Packaging and transmission of laboratory samples</p>
+      <p n="53">Each laboratory sample shall be placed in a clean, inert container offering adequate protection from contamination and against damage in transit. All necessary precautions shall be taken to avoid any change in composition of the laboratory sample which might arise during transportation or storage.</p>
+      <p n="54">3.8. Sealing and labelling of laboratory samples</p>
+      <p n="55">Each sample taken for official use shall be sealed at the place of sampling and identified following the Member State's regulations. A record must be kept of each sampling, permitting each lot to be identified unambiguously and giving the date and place of sampling together with any additional information likely to be of assistance to the analyst.</p>
+      <p n="56">4. Explanatory provisions</p>
+      <p n="57">4.1. Different types of lots</p>
+      <p n="58">Food commodities may be traded in bulk, containers, or individual packings (sacks, bags, retail packings, etc.). The sampling procedure can be applied to all the different forms in which the commodities are put on the market.</p>
+      <p n="59">Without prejudice to the specific provisions as laid down in point 5 of this Annex, the following formula can be used as a guide for the sampling of lots traded in individual packings (sacks, bags, retail packings, etc.):</p>
+      <p n="60">Sampling frequency (SF) = &gt;NUM&gt;Weight of the lot × weight of the incremental sample</p>
+      <p n="61">&gt;DEN&gt;Weight of the aggregate sample × weight of individual packing</p>
+      <p n="62">- Weight: in kg</p>
+      <p n="63">Sampling frequency (SF): every nth sack or bag from which an incremental sample must be taken (decimal figures should be rounded to the nearest whole number).</p>
+      <p n="64">4.2. Weight of the incremental sample</p>
+      <p n="65">The weight of the incremental sample should be about 300 grams, unless otherwise defined in point 5 of this Annex. In the case of lots in retail packings, the weight of the incremental sample depends on the weight of the retail packing.</p>
+      <p n="66">4.3. Number of incremental samples for lots of less than 15 tonnes</p>
+      <p n="67">The number of incremental samples to be taken depends on the weight of the lot, with a minimum of 10 and a maximum of 100, unless otherwise defined in point 5 of this Annex. The figures in the following table may be used to determine the number of incremental samples to be taken.</p>
+      <p n="68">&gt;TABLE&gt;</p>
+      <p n="69">5. Specific provisions</p>
+      <p n="70">5.1. General survey of the sampling procedure for groundnuts, nuts, dried fruit and cereals</p>
+      <p n="71">&gt;TABLE&gt;</p>
+      <p n="72">5.2. Groundnuts, pistachios and Brazil nuts</p>
+      <p n="73">Dried figs</p>
+      <p n="74">Cereals (lots &amp;ge; 50 tonnes)</p>
+      <p n="75">5.2.1. Sampling procedure</p>
+      <p n="76">- On condition that the sublot can be separated physically, each lot must be subdivided into sublots following Table 2 at point 5.1. Taking into account that the weight of the lot is not always an exact multiple of the weight of the sublots, the weight of the sublot may exceed the mentioned weight by a maximum of 20 %,</p>
+      <p n="77">- each sublot must be sampled separately,</p>
+      <p n="78">- number of incremental samples: 100. In the case of lots under 15 tonnes, the number of incremental samples to be taken depends on the weight of the lot, with a minimum of 10 and a maximum of 100 (see point 4.3),</p>
+      <p n="79">- weight of the aggregate sample = 30 kg which has to be mixed and to be divided into three equal subsamples of 10 kg before grinding (this division into three subsamples is not necessary in the case of groundnuts, nuts and dried fruit intended for further sorting or other physical treatment, however, this will depend upon the availability of equipment which is able to homogenise a 30 kg sample). In cases where the aggregate sample weights are under 10 kg, the aggregate sample must not be divided into three subsamples,</p>
+      <p n="80">- laboratory sample: a subsample of 10 kg (each subsample must be separately ground finely and mixed thoroughly to achieve complete homogenisation, in accordance with the provisions laid down in Annex II),</p>
+      <p n="81">- if it is not possible to carry out the method of sampling described above because of the commercial consequences resulting from damage to the lot (because of packaging forms, means of transport, etc.) an alternative method of sampling may be applied provided that it is as representative as possible and is fully described and documented.</p>
+      <p n="82">5.2.2. Acceptance of a lot or sublot</p>
+      <p n="83">- For groundnuts, nuts and dried fruit subjected to a sorting or other physical treatment:</p>
+      <p n="84">- acceptance if the aggregate sample or the average of the subsamples conforms to the maximum limit,</p>
+      <p n="85">- rejection if the aggregate sample or the average of the subsamples exceeds the maximum limit,</p>
+      <p n="86">- for groundnuts, nuts, dried fruit and cereals intended for direct human consumption:</p>
+      <p n="87">- acceptance if none of the subsamples exceeds the maximum limit,</p>
+      <p n="88">- rejection if one or more of the subsamples exceeds the maximum limit,</p>
+      <p n="89">- where the aggregate sample is under 10 kg:</p>
+      <p n="90">- acceptance if the aggregate sample conforms to the maximum limit,</p>
+      <p n="91">- rejection if the aggregate sample exceeds the maximum limit.</p>
+      <p n="92">5.3. Nuts other than groundnuts, pistachios and Brazil nuts</p>
+      <p n="93">Dried fruit other than figs</p>
+      <p n="94">Cereals (lots under 50 tonnes)</p>
+      <p n="95">5.3.1. Sampling procedure</p>
+      <p n="96">For these products, the sampling procedure laid down in point 5.2.1 may be applied. However, taking into account the low incidence of contamination for these products and/or the newer forms of packaging in which products can be traded, simpler sampling methods may be applied.</p>
+      <p n="97">For cereal lots under 50 tonnes, a sampling plan consisting of, depending on the lot weight, 10 to 100 incremental samples each of 100 grams, resulting in an aggregate sample of 1 to 10 kg may be used. The figures in the following table can be used to determine the number of incremental samples to be taken.</p>
+      <p n="98">&gt;TABLE&gt;</p>
+      <p n="99">5.3.2. Acceptance of a lot or sublot</p>
+      <p n="100">See point 5.2.2.</p>
+      <p n="101">5.4. Milk</p>
+      <p n="102">5.4.1. Sampling procedure</p>
+      <p n="103">Sampling in accordance with Commission Decision 91/180/EEC of 14 February 1991 laying down certain methods of analysis and testing of raw milk and heat-treated milk (1):</p>
+      <p n="104">- number of incremental samples: minimum 5,</p>
+      <p n="105">- weight of aggregate sample: minimum 0,5 kg or litres.</p>
+      <p n="106">5.4.2. Acceptance of a lot or sublot</p>
+      <p n="107">- Acceptance if the aggregate sample conforms to the maximum limit,</p>
+      <p n="108">- rejection if the aggregate sample exceeds the maximum limit.</p>
+      <p n="109">5.5. Derived products and compound foods</p>
+      <p n="110">5.5.1. Milk products</p>
+      <p n="111">5.5.1.1. Sampling procedure</p>
+      <p n="112">Sampling in accordance with Commission Directive 87/524/EEC of 6 October 1987 laying down Community methods of sampling for chemical analysis for the monitoring of preserved milk products (2).</p>
+      <p n="113">Number of incremental samples: minimum 5.</p>
+      <p n="114">For the other milk products an equivalent method of sampling is used.</p>
+      <p n="115">5.5.1.2. Acceptance of a lot or sublot</p>
+      <p n="116">- Acceptance if the aggregate sample conforms to the maximum limit,</p>
+      <p n="117">- rejection if the aggregate sample exceeds the maximum limit.</p>
+      <p n="118">5.5.2. Other derived products with very small particle weight, i.e. flour, fig paste, peanut butter (homogeneous distribution of aflatoxin contamination)</p>
+      <p n="119">5.5.2.1. Sampling procedure</p>
+      <p n="120">- Number of incremental samples: 100. For lots of under 50 tonnes the number of incremental samples should be 10 to 100, depending on the lot weight (see Table 3 at point 5.3.1 of this Annex),</p>
+      <p n="121">- the weight of the incremental sample should be about 100 grams. In the case of lots in retail packing, the weight of the incremental sample depends on the weight of the retail packing,</p>
+      <p n="122">- weight of aggregate sample = 1-10 kg sufficiently mixed.</p>
+      <p n="123">5.5.2.2. Number of samples to be taken</p>
+      <p n="124">- The number of aggregate samples to be taken depends on the lot weight. The division of large lots into sublots must be done as defined for cereals under point 5.2,</p>
+      <p n="125">- each sublot must be sampled separately.</p>
+      <p n="126">5.5.2.3 Acceptance of a lot or sublot</p>
+      <p n="127">- Acceptance if the aggregate sample conforms to the maximum limit,</p>
+      <p n="128">- rejection if the aggregate sample exceeds the maximum limit.</p>
+      <p n="129">5.6. Other derived products with a relatively large particle size (heterogeneous distribution of aflatoxin contamination)</p>
+      <p n="130">Sampling procedure and acceptance as defined at points 5.2 and 5.3 of this Annex for the raw agricultural product.</p>
+      <p n="131">(1) OJ L 93, 13. 4. 1991, p. 1.</p>
+      <p n="132">(2) OJ L 306, 28. 10. 1987, p. 24.</p>
+      <p n="133">ANNEX II</p>
+      <p n="134">Sample preparation and criteria for methods of analysis used in official checking of the levels of aflatoxins in certain foodstuffs</p>
+      <p n="135">1. Introduction</p>
+      <p n="136">1.1. Precautions</p>
+      <p n="137">Daylight should be excluded as much as possible during the procedure, since aflatoxin gradually breaks down under the influence of ultra-violet light. As the distribution of aflatoxin is extremely non-homogeneous, samples should be prepared - and especially homogenised - with extreme care.</p>
+      <p n="138">All the material received by the laboratory is to be used for the preparation of test material.</p>
+      <p n="139">1.2. Calculation of proportion of shell/kernel of whole nuts</p>
+      <p n="140">The limits fixed for aflatoxins in Commission Regulation (EC) No 1525/98 apply to the edible part.</p>
+      <p n="141">The level of aflatoxins in the edible part can be determined by:</p>
+      <p n="142">- shelling samples of nuts 'in shell` and the level of aflatoxins is directly determined in the edible part,</p>
+      <p n="143">- homogenise the nuts 'in shell` by taking them through the sample preparation procedure. The sampling and analytical procedure must estimate the weight of nut kernel in the aggregate sample. The weight of nut kernel in the aggregate sample is estimated after establishing a suitable factor for the proportion of nut shell to nut kernel in whole nuts. This proportion is used to ascertain the amount of kernel in the bulk sample taken through the sample preparation and analysis procedure. Approximately 100 whole nuts are taken at random separately from the lot or are to be put aside from each aggregate sample. The ratio may, for each laboratory sample, be obtained by weighing the whole nuts, shelling and re-weighing the shell and kernel portions. However, the proportion of shell to kernel may be established by the laboratory from a number of samples and so can be assumed for future analytical work. But if a particular laboratory sample is found to be in contravention of any limit, the proportion should be determined for that sample using the approximately 100 nuts that have been set aside.</p>
+      <p n="144">2. Treatment of the sample as received in the laboratory</p>
+      <p n="145">Finely grind and mix thoroughly each laboratory sample using a process that has been demonstrated to achieve complete homogenisation.</p>
+      <p n="146">3. Subdivision of samples for enforcement and defence purposes</p>
+      <p n="147">The replicate samples for enforcement, trade (defence) and referee purposes shall be taken from the homogenised material unless this conflicts with Member States' rules on sampling.</p>
+      <p n="148">4. Method of analysis to be used by the laboratory and laboratory control requirements</p>
+      <p n="149">4.1. Definitions</p>
+      <p n="150">A number of the most commonly used definitions that the laboratory will be required to use are given below:</p>
+      <p n="151">The most commonly quoted precision parameters are repeatability and reproducibility.</p>
+      <p n="152">&gt;TABLE&gt;</p>
+      <p n="153">4.2. General requirements</p>
+      <p n="154">Methods of analysis used for food control purposes must comply whenever possible with the provisions of points 1 and 2 of the Annex to Council Directive 85/591/EEC.</p>
+      <p n="155">4.3. Specific requirements</p>
+      <p n="156">Where no specific methods for the determination of aflatoxin levels in foodstuffs are prescribed at Community level, laboratories may select any method provided the selected method meets the following criteria:</p>
+      <p n="157">&gt;TABLE&gt;</p>
+      <p n="158">Notes:</p>
+      <p n="159">- Values to apply to both B1 and sum of B1+B2+G1+G2,</p>
+      <p n="160">- if sum of individual aflatoxins B1+B2+G1+G2 are to be reported, then response of each to the analytical system must be either known or equivalent,</p>
+      <p n="161">- the detection limits of the methods used are not stated as the precision values are given at the concentrations of interest,</p>
+      <p n="162">- the precision values are calculated from the Horwitz equation, i. e.:</p>
+      <p n="163">RSDR = 2 (1-0,5 logC)</p>
+      <p n="164">where:</p>
+      <p n="165">- RSDR is the relative standard deviation calculated from results generated under reproducibility conditions [(SR/x) × 100]</p>
+      <p n="166">- C is the concentration ratio (i. e. 1 = 100 g/100 g, 0,001 = 1 000 mg/kg).</p>
+      <p n="167">This is a generalised precision equation which has been found to be independant of analyse and matrix but solely dependent on concentration for most routine methods of analysis.</p>
+      <p n="168">4.4. Recovery calculation</p>
+      <p n="169">The analytical result is to be reported corrected or uncorrected for recovery. The manner of reporting and the level of recovery must be reported.</p>
+      <p n="170">4.5. Laboratory quality standards</p>
+      <p n="171">Laboratories must comply with Council Directive 93/99/EEC.</p>
+    </body>
+  </text>
+</TEI.2>

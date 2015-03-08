@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31999R0921-en" n="31999R0921" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0921 English</title>
+        <title>Commission Regulation (EC) No 921/1999 of 30 April 1999 providing for special measures to distribute fruit and vegetables withdrawn from the market to refugees from Kosovo</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0921:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0921:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1115</classCode>
+        <classCode scheme="eurovoc">1602</classCode>
+        <classCode scheme="eurovoc">2986</classCode>
+        <classCode scheme="eurovoc">3618</classCode>
+        <classCode scheme="eurovoc">5695</classCode>
+        <classCode scheme="eurovoc">926</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0921-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 921/1999 of 30 April 1999 providing for special measures to distribute fruit and vegetables withdrawn from the market to refugees from Kosovo</head>
+      <p n="2">COMMISSION REGULATION (EC) No 921/1999</p>
+      <p n="3">of 30 April 1999</p>
+      <p n="4">providing for special measures to distribute fruit and vegetables withdrawn from the market to refugees from Kosovo</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Regulation (EC) No 857/1999(2), and in particular Article 30(7) thereof,</p>
+      <p n="8">(1) Whereas Commission Regulation (EC) No 659/97(3), as last amended by Regulation (EC) No 729/1999(4), lays down detailed rules for applying Regulation (EC) No 2200/96 as regards intervention arrangements in the fruit and vegetables sector and especially the free distribution of products withdrawn from the market as humanitarian aid outside the Community;</p>
+      <p n="9">(2) Whereas Article 14(3) and Article 16(2) of that Regulation lay down a number of conditions and require a Commission Decision before each free distribution operation outside the Community;</p>
+      <p n="10">(3) Whereas the urgent need to get food aid to the refugee victims of the Kosovo crisis and to their host families is well known;</p>
+      <p n="11">(4) Whereas, to facilitate aid to these people, some provisions of Article 14(3) and Article 16(2) of Regulation (EC) No 659/97 should be derogated from, until further notice;</p>
+      <p n="12">(5) Whereas the areas to which this derogation applies should be demarcated;</p>
+      <p n="13">(6) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Article 14(3) and Article 16(2) of Regulation (EC) No 659/97 shall not apply to free distribution operations involving Kosovo refugees and their host families in the territory of the Federal Republic of Yugoslavia (Serbia and Montenegro), Albania, the former Yugoslav Republic of Macedonia, Bosnia and Herzegovina, Bulgaria and Romania.</p>
+      <p n="17">For these operations, the Member States shall send to the Commission:</p>
+      <p n="18">- on the first working day of each month, the information stipulated in Annex VI to Regulation (EC) No 659/97 on the operations completed,</p>
+      <p n="19">- a copy of the notification sent to the FAO Subcommittee on Surplus Disposal.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 30 April 1999.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz FISCHLER</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="28">(2) OJ L 108, 27.4.1999, p. 7.</p>
+      <p n="29">(3) OJ L 100, 17.4.1997, p. 22.</p>
+      <p n="30">(4) OJ L 93, 8.4.1999, p. 11.</p>
+    </body>
+  </text>
+</TEI.2>

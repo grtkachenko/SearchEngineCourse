@@ -1,0 +1,78 @@
+<TEI.2 id="jrc32000D0807-en" n="32000D0807" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0807 English</title>
+        <title>2000/807/EC: Commission Decision of 11 December 2000 laying down the codified form and the codes for the notification of animal diseases pursuant to Council Directive 82/894/EEC and repealing Decisions 84/90/EEC and 90/442/EEC (notified under document number C(2000) 3701) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>42 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0807:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0807:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0807-en." lang="en">
+    <body>
+      <head n="1">2000/807/EC: Commission Decision of 11 December 2000 laying down the codified form and the codes for the notification of animal diseases pursuant to Council Directive 82/894/EEC and repealing Decisions 84/90/EEC and 90/442/EEC (notified under document number C(2000) 3701) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 11 December 2000</p>
+      <p n="4">laying down the codified form and the codes for the notification of animal diseases pursuant to Council Directive 82/894/EEC and repealing Decisions 84/90/EEC and 90/442/EEC</p>
+      <p n="5">(notified under document number C(2000) 3701)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/807/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 82/894/EEC of 21 December 1982 on the notification of animal diseases within the Community(1), as last amended by Commission Decision 2000/556/EC(2), and in particular Article 5 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 84/90/EEC(3), as last amended by Decision 89/163/EEC(4), lays down the codified form in which animal diseases are to be notified pursuant to Directive 82/894/EEC.</p>
+      <p n="13">(2) Commission Decision 90/442/EEC(5), as last amended by the Decision of 17 December 1996(6), lays down the codes for the notification of animal diseases.</p>
+      <p n="14">(3) It is necessary to consolidate and update these Decisions. It is more transparent to repeal these Decisions and lay down one new decision accordingly.</p>
+      <p n="15">(4) Decision No 2/1999 of the EC-Andorra Joint Committee of 22 December 1999 on the arrangements for implementing the Protocol signed in Brussels on 15 May 1997 on veterinary matters supplementary to the Agreement in the form of an Exchange of Letters between the European Economic Community and the Principality of Andorra(7) requires that Andorra be added to the Animal Disease Notification System.</p>
+      <p n="16">(5) A new web-based computer system is being introduced to allow for transfer of disease information as required by Directive 82/894/EEC.</p>
+      <p n="17">(6) Belgium, Finland, Germany, Greece, the Netherlands, Norway, Portugal and Spain have changed the numbering system of the regions used in the notification system.</p>
+      <p n="18">(7) In order to improve the system it is necessary to allow provision for the more precise localisation of outbreaks by reference to longitude and latitude.</p>
+      <p n="19">(8) In order to protect confidentiality of the transmitted information, the Annexes to this Decision should not be published.</p>
+      <p n="20">(9) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="21">HAS ADOPTED THIS DECISION:</p>
+      <p n="22">Article 1</p>
+      <p n="23">For the purpose of animal disease notification procedures the information shall be transmitted in the codified version laid down in Annexes I, II and III to this Decision.</p>
+      <p n="24">Article 2</p>
+      <p n="25">For the purpose of animal disease notification procedures the information shall be transmitted utilising the codes laid down in Annexes IV to X to this Decision.</p>
+      <p n="26">Article 3</p>
+      <p n="27">This Decision shall apply from 1 January 2001.</p>
+      <p n="28">Article 4</p>
+      <p n="29">Decisions 84/90/EEC and 90/442/EEC are repealed on the date referred to in Article 3.</p>
+      <p n="30">Article 5</p>
+      <p n="31">This Decision is addressed to the Member States.</p>
+      <p n="32">Done at Brussels, 11 December 2000.</p>
+      <p n="33">For the Commission</p>
+      <p n="34">David Byrne</p>
+      <p n="35">Member of the Commission</p>
+      <p n="36">(1) OJ L 378, 31.12.1982, p. 58.</p>
+      <p n="37">(2) OJ L 235, 19.9.2000, p. 27.</p>
+      <p n="38">(3) OJ L 50, 21.2.1984, p. 10.</p>
+      <p n="39">(4) OJ L 61, 4.3.1989, p. 49.</p>
+      <p n="40">(5) OJ L 227, 21.8.1990, p. 39.</p>
+      <p n="41">(6) C(1996) 4032 final.</p>
+      <p n="42">(7) OJ L 31, 5.2.2000, p. 84.</p>
+    </body>
+  </text>
+</TEI.2>

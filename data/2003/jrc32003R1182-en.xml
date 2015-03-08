@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32003R1182-en" n="32003R1182" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1182 English</title>
+        <title>Commission Regulation (EC) No 1182/2003 of 2 July 2003 correcting Regulation (EC) No 315/2003 amending Regulation (EC) No 1227/2000 laying down detailed rules for the application of Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine, as regards production potential</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1182:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1182:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2410</classCode>
+        <classCode scheme="eurovoc">2621</classCode>
+        <classCode scheme="eurovoc">2707</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1182-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1182/2003 of 2 July 2003 correcting Regulation (EC) No 315/2003 amending Regulation (EC) No 1227/2000 laying down detailed rules for the application of Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine, as regards production potential</head>
+      <p n="2">Commission Regulation (EC) No 1182/2003</p>
+      <p n="3">of 2 July 2003</p>
+      <p n="4">correcting Regulation (EC) No 315/2003 amending Regulation (EC) No 1227/2000 laying down detailed rules for the application of Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine, as regards production potential</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Articles 10 and 15 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) There is an error in Commission Regulation (EC) No 315/2003(3). In order to prevent incorrect interpretation and ensure correct application of the measures provided for in that Regulation, the error should be rectified.</p>
+      <p n="10">(2) Regulation (EC) No 315/2003 should be corrected accordingly.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Regulation (EC) No 315/2003 is hereby corrected as follows:</p>
+      <p n="15">1. the following point is added to Article 1:</p>
+      <p n="16">"5. The Annex is amended in accordance with the Annex hereto.";</p>
+      <p n="17">2. in the Annex, the following is inserted after "ANNEX":</p>
+      <p n="18">"Tables 4.1, 4.2 and 4.3 are replaced by the following:".</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="21">It shall apply from 24 February 2003.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 2 July 2003.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz Fischler</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="28">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="29">(3) OJ L 46, 20.2.2003, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

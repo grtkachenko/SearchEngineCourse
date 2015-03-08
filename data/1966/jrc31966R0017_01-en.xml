@@ -1,0 +1,51 @@
+<TEI.2 id="jrc31966R0017_01-en" n="31966R0017(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31966R0017(01) English</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31966R0017(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31966R0017(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31966R0017_01-en." lang="en">
+    <body>
+      <p n="2">COMMISSION REGULATION No 17/66/EURATOM of 29 November 1966 exempting the transfer of small quantities of ores, source materials and special fissile materials from the Rules of the Chapter on Supplies</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN ATOMIC ENERGY COMMUNITY,</p>
+      <p n="4">Having regard to the provisions of the Treaty establishing the European Atomic Energy Community, and in particular Articles 2 (d), 74, 77, 124 and 161 thereof;</p>
+      <p n="5">Whereas the volume of nuclear materials currently used in research has increased since Commission Regulation No 10 of 19 December 1961 entered into force;</p>
+      <p n="6">Whereas the Community supply position in regard to nuclear materials makes it possible for the exemption provided for in Article 74 to be authorised in such a manner as to ensure that all users may receive a regular and equitable supply of ores, source materials and special fissile materials.</p>
+      <p n="7">HAS ADOPTED THIS REGULATION:</p>
+      <p n="8">Article 1</p>
+      <p n="9">The following shall be exempt from the provisions of Chapter VI of the Treaty, as regards ores and uranium and thorium source materials: - transfers within and imports into the Community of quantities not exceeding, per transaction, one ton of uranium and thorium (or uranium or thorium) content, within a limit of 5 tons per year per user in respect of each of these materials;</p>
+      <p n="10">- exports from the Community of quantities not exceeding one ton of uranium and thorium (or uranium or thorium) content, within a limit of 5 tons per year per exporter in respect of each of these materials.</p>
+      <p n="11">Article 2</p>
+      <p n="12">With regard to special fissile materials, transfers within and imports into the Community of quantities not exceeding 200 grammes of uranium-235, of uranium-233 or of plutonium per transaction shall be exempt from the provisions of Chapter VI of the Treaty, within a limit of 1000 grammes per year per user, subject, as regards imported materials, to the provisions of co-operation agreements concluded by the Community with third countries.</p>
+      <p n="13">Article 3</p>
+      <p n="14">Any person who effects an import or an export and any supplier who effects a transfer within the Community under the exemption provided for in Articles 1 and 2 of this Regulation shall be required to submit to the Supply Agency a quarterly statement of the transactions thus effected, giving the following informations: (a) date of conclusion of the supply contract;</p>
+      <p n="15">(b) names of the contracting parties;</p>
+      <p n="16">(c) place where the material was produced;</p>
+      <p n="17">(d) chemical and physical (or chemical or physical) nature of the products;</p>
+      <p n="18">(e) quantities in metric units 1;</p>
+      <p n="19">(f) use made or to be made of these ores, source materials and special fissile materials.</p>
+      <p n="20">1 The above-mentioned statements shall be expressed in kilogrammes of uranium or thorium contained in respect of ores and source materials, and in grammes in respect of uranium-233, uranium-235 or plutonium contained in respect of special fissile materials. Numbers containing a decimal fraction shall be rounded off to the next lower or higher whole number according to whether the decimal fraction is greater or less than 0 75. Where the decimal fraction is 0 75, the number shall be rounded off to the next higher or lower whole number according to whether the digit preceding the decimal point is an even or an odd number. The monthly statements must be submitted to the Agency within one month from the end of each quarter during which the transactions referred to in this Regulation were effected.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Regulation shall enter into force on the date of its publication in the Official Journal of the European Communities. It repeals and replaces the Regulation adopted by the Commission on 29 November 1961, published in the Official Journal of the European Communities of 19 December 1961, the amended version of which was published in the Official Journal of 20 January 1962.</p>
+      <p n="23">Done at Brussels, 29 November 1966.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">The President</p>
+      <p n="26">P. CHATENET</p>
+    </body>
+  </text>
+</TEI.2>

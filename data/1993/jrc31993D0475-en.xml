@@ -1,0 +1,51 @@
+<TEI.2 id="jrc31993D0475-en" n="31993D0475" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993D0475 English</title>
+        <title>93/475/EEC, Euratom: Commission Decision of 22 July 1993 defining production and import subsidies for the purpose of the implementation of Article 1 of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0475:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0475:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993D0475-en." lang="en">
+    <body>
+      <head n="1">93/475/EEC, Euratom: Commission Decision of 22 July 1993 defining production and import subsidies for the purpose of the implementation of Article 1 of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices</head>
+      <p n="2">COMMISSION DECISION of 22 July 1993 defining production and import subsidies for the purpose of the implementation of Article 1 of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices</p>
+      <p n="3">(93/475/EEC, Euratom)THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to the Treaty establishing the European Atomic Energy Community,</p>
+      <p n="6">Having regard to Council Directive 89/130/EEC, Euratom of 13 February 1989 (1) on the harmonization of the compilation of gross national product at market prices and in particular Article 1 thereof,</p>
+      <p n="7">Whereas for the purpose of the definition of gross national product at market prices (GNPmp) pursuant to Article 1 of Directive 89/130/EEC, Euratom it is necessary to clarify the definition of production and import subsidies as used for the purpose of the European system of integrated economic accounts;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Committee established by Article 6 of Directive 89/130/EEC, Euratom,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">For the purpose of the implementation of Article 1 of Directive 89/130/EEC, Euratom, the precisions concerning the definition of production and import subsidies shall be as defined in the Annex hereto.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Decision is addressed to the Member States.</p>
+      <p n="14">Done at Brussels, 22 July 1993.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Henning CHRISTOPHERSEN</p>
+      <p n="17">Vice-President</p>
+      <p n="18">(1) OJ No L 49, 21. 2. 1989, p. 26.</p>
+      <p n="19">ANNEX</p>
+      <p n="20">For the purpose of the implementation of Article 1 of Directive 89/130/EEC, Euratom, the following points aim to clarify Article 2 of this Directive regarding the valuation of output of goods and services (P 10).</p>
+      <p n="21">The following are excluded from 'Production and import subisides' (R 30):</p>
+      <p n="22">- payments by general government for specific groups of households previously defined, and which, for administrative reasons, are made to market units to enable them to reduce the price of products for these households. These payments are specifically calculated so as to compensate for the price reductions granted to those households,</p>
+      <p n="23">- payments made by general government to market producer units to pay entirely, or in part, for goods and services that those market producer units provide directly and individually to households and to which households have a legally established right.</p>
+      <p n="24">These payments are treated either as social benefits (R 64), as miscellaneous current transfers (R 69) or as collective consumption (P 30).</p>
+    </body>
+  </text>
+</TEI.2>

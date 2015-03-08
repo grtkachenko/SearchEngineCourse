@@ -1,0 +1,85 @@
+<TEI.2 id="jrc31999R1228-en" n="31999R1228" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1228 English</title>
+        <title>Commission Regulation (EC) No 1228/1999 of 28 May 1999 concerning the series of data to be produced for insurance services statistics (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>48 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1228:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1228:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2469</classCode>
+        <classCode scheme="eurovoc">34</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4262</classCode>
+        <classCode scheme="eurovoc">5334</classCode>
+        <classCode scheme="eurovoc">6030</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1228-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1228/1999 of 28 May 1999 concerning the series of data to be produced for insurance services statistics (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1228/1999</p>
+      <p n="3">of 28 May 1999</p>
+      <p n="4">concerning the series of data to be produced for insurance services statistics</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC, Euratom) No 58/97 of 20 December 1996 concerning structural business statistics(1), as last amended by Regulation (EC, Euratom) No 410/98(2), and in particular Articles 12(ii), (v) and (vii) thereof,</p>
+      <p n="9">(1) Whereas Regulation (EC, Euratom) No 58/97 established a common framework for the production of Community statistics on the structure, activity, performance and competitiveness of the insurance sector in the Community;</p>
+      <p n="10">(2) Whereas it is necessary to specify the frequency for the compilation of the multi-yearly insurance services statistics; whereas it is necessary to specify the first reference year for the compilation of the results laid down in the Annex 5 to Regulation (EC, Euratom) No 58/98; whereas it is necessary to specify the breakdown of the results for the production of insurance services statistics;</p>
+      <p n="11">(3) Whereas the measures provided for in this Regulation are in accordance with the Statistical Programme Committee,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The frequency for the compilation of multi-yearly characteristics, the breakdowns of results and the first reference year for the compilation of the results referred to in Articles 4, 8 and 9 of Regulation (EC, Euratom) No 58/97 are specified in the series of data in the Annex to this Regulation.</p>
+      <p n="15">Article 2</p>
+      <p n="16">1. Member States shall produce these series for the data concerning the 1999 reference year and subsequent years for List A characteristics listed in paragraph 3, Section 4 of Annex 5 to Regulation (EC, Euratom) No 58/97 and for the data concerning the 2003 reference year and subsequent years for List B characteristics listed in paragraph 4, Section 4 of Annex 5 to the said Regulation.</p>
+      <p n="17">2. Member States shall also produce these series for List A characteristics for the 1996, 1997 and 1998 reference years where this corresponds to existing national practices and for List B characteristics for the 2000, 2001 and 2002 reference years where this corresponds to existing national practices.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 28 May 1999.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Yves-Thibault de SILGUY</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 14, 17.1.1997, p. 1.</p>
+      <p n="26">(2) OJ L 52, 21.2.1998, p. 1.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">Series of Data</p>
+      <p n="29">Summary table</p>
+      <p n="30">&gt;TABLE&gt;</p>
+      <p n="31">Annual enterprise statistics listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics</p>
+      <p n="32">Series 5A</p>
+      <p n="33">&gt;TABLE&gt;</p>
+      <p n="34">Annual enterprise statistics broken down by legal status listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics</p>
+      <p n="35">Series 5B</p>
+      <p n="36">&gt;TABLE&gt;</p>
+      <p n="37">Annual enterprise statistics broken down according to the country of residence of the parent enterprise listed in Annex 5 Section 4 paragraph 3 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics</p>
+      <p n="38">Series 5C</p>
+      <p n="39">&gt;TABLE&gt;</p>
+      <p n="40">Annual enterprise statistics broken down by size class listed in Annex 5 Section 4 paragraph 3 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics</p>
+      <p n="41">Series 5D</p>
+      <p n="42">&gt;TABLE&gt;</p>
+      <p n="43">Annual enterprise statistics broken down by products listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics</p>
+      <p n="44">Series 5E</p>
+      <p n="45">&gt;TABLE&gt;</p>
+      <p n="46">Annual enterprise statistics by geographical breakdown listed in Annex 5 Section 4 paragraphs 3 and 4 of Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics</p>
+      <p n="47">Series 5F</p>
+      <p n="48">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

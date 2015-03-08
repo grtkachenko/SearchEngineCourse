@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32000R2357-en" n="32000R2357" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2357 English</title>
+        <title>Commission Regulation (EC) No 2357/2000 of 24 October 2000 amending Regulation (EC) No 174/1999 laying down special detailed rules for the application of Council Regulation (EEC) No 804/68 as regards export licences and export refunds in the case of milk and milk products</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2357:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2357:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2357-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2357/2000 of 24 October 2000 amending Regulation (EC) No 174/1999 laying down special detailed rules for the application of Council Regulation (EEC) No 804/68 as regards export licences and export refunds in the case of milk and milk products</head>
+      <p n="2">Commission Regulation (EC) No 2357/2000</p>
+      <p n="3">of 24 October 2000</p>
+      <p n="4">amending Regulation (EC) No 174/1999 laying down special detailed rules for the application of Council Regulation (EEC) No 804/68 as regards export licences and export refunds in the case of milk and milk products</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), as last amended by Regulation (EC) No 1670/2000(2), and in particular Article 31(14) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Under Article 5(1) of Commission Regulation (EC) No 1291/2000(3), which is to apply from 1 October 2000, the possibility of using export licences with advance fixing of the refund for supplies to armed forces as referred to in Article 36(1)(c) of Commission Regulation (EC) No 800/1999(4), as amended by Regulation (EC) No 1557/2000(5), will cease. In view of the economic significance of such supplies for the milk sector, a derogation should be granted from Article 5(1) of Regulation (EC) No 1291/2000 so as to re-establish without delay the possibility of fixing the refund for such supplies of milk products in advance.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">In Article 2 of Commission Regulation (EC) No 174/1999(6), the following paragraph is added after the first paragraph:"However, by derogation from the first paragraph, an export licence with advance fixing of the refund may be used to grant a refund for exports of milk products as referred to in Article 36(1)(c) of Regulation (EC) No 800/1999."</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 24 October 2000.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz Fischler</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 160, 26.6.1999, p. 48.</p>
+      <p n="22">(2) OJ L 193, 29.7.2000, p. 10.</p>
+      <p n="23">(3) OJ L 152, 24.6.2000, p. 1.</p>
+      <p n="24">(4) OJ L 102, 17.4.1999, p. 11.</p>
+      <p n="25">(5) OJ L 179, 18.7.2000, p. 6.</p>
+      <p n="26">(6) OJ L 20, 27.1.1999, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

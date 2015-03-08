@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31997R2048-en" n="31997R2048" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R2048 English</title>
+        <title>Commission Regulation (EC) No 2048/97 of 20 October 1997 amending Regulations (EC) No 936/97 opening and providing for the administration of tariff quotas for high-quality fresh, chilled and frozen beef and for frozen buffalo meat and (EC) No 996/97 on the opening and administration of an import tariff quota for frozen thin skirt of bovine animals falling within CN code 0206 29 91</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2048:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2048:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2743</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">4685</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R2048-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2048/97 of 20 October 1997 amending Regulations (EC) No 936/97 opening and providing for the administration of tariff quotas for high-quality fresh, chilled and frozen beef and for frozen buffalo meat and (EC) No 996/97 on the opening and administration of an import tariff quota for frozen thin skirt of bovine animals falling within CN code 0206 29 91</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2048/97 of 20 October 1997 amending Regulations (EC) No 936/97 opening and providing for the administration of tariff quotas for high-quality fresh, chilled and frozen beef and for frozen buffalo meat and (EC) No 996/97 on the opening and administration of an import tariff quota for frozen thin skirt of bovine animals falling within CN code 0206 29 91</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Commission Regulation (EC) No 936/97 of 27 May 1997 opening and providing for the administration of tariff quotas for high-quality fresh, chilled and frozen beef and for frozen buffalo meat (1), and in particular Article 7 (2) thereof,</p>
+      <p n="6">Having regard to Commission Regulation (EC) No 996/97 of 3 June 1997 on the opening and administration of an import tariff quota for frozen thin skirt of bovine animals falling within CN code 0206 29 91 (2), and in particular Article 6 (2) thereof,</p>
+      <p n="7">Whereas Argentina has renamed the authority empowered to issue certificates of authenticity; whereas Annex II to Regulations (EC) No 936/97 and (EC) No 996/97 should therefore be amended,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">In Annex II to Regulations (EC) No 936/97 and (EC) No 996/97, 'Secretaría de agricultura, ganadería y pesca` is replaced by 'Secretaría de agricultura, ganadería, pesca y alimentación`.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">It shall apply with effect from 17 July 1997.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 20 October 1997.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ L 137, 28. 5. 1997, p. 10.</p>
+      <p n="20">(2) OJ L 144, 4. 6. 1997, p. 6.</p>
+    </body>
+  </text>
+</TEI.2>

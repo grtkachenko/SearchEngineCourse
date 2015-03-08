@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31999R0132-en" n="31999R0132" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0132 English</title>
+        <title>Commission Regulation (EC) No 132/1999 of 21 January 1999 amending Regulation (EC) No 2630/97 as regards the minimum level of controls to be carried out in the framework of the system for the identification and registration of bovine animals (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0132:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0132:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2738</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">4821</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0132-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 132/1999 of 21 January 1999 amending Regulation (EC) No 2630/97 as regards the minimum level of controls to be carried out in the framework of the system for the identification and registration of bovine animals (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 132/1999 of 21 January 1999 amending Regulation (EC) No 2630/97 as regards the minimum level of controls to be carried out in the framework of the system for the identification and registration of bovine animals (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 820/97 of 21 April 1997 establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products (1), and in particular point (d) of Article 10 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 2630/97 (2) has laid down detailed rules for the implementation of Regulation (EC) No 820/97 as regards the minimum level of controls to be carried out in the framework of the system for the identification and registration of bovine animals;</p>
+      <p n="7">Whereas Commission Regulation (EEC) No 3887/92 (3), as last amended by Regulation (EC) No 1678/98 (4), has laid down detailed rules for applying the integrated administration and control system for certain Community aid schemes;</p>
+      <p n="8">Whereas with a view to securing efficient cooperation between competent authorities for controls in the bovine sector, it is important to provide for the transmission of copies of the reports following an inspection pursuant to Regulation (EC) No 2630/97, where they reveal infringements of Regulation (EC) No 820/97, to the competent authorities responsible for the implementation of Regulation (EEC) No 3887/92;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Committee for the European Agricultural Guidance and Guarantee Fund,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The following paragraph 6 is hereby added to Article 2 of Regulation (EC) No 2630/97.</p>
+      <p n="13">'6. Copies of the reports, referred to in paragraph 5 shall, where they reveal infringements of Regulation (EC) No 820/97, be sent without delay to the competent authorities responsible for the implementation of Regulation (EEC) No 3887/92.`</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 21 January 1999.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 117, 7. 5. 1997, p. 1.</p>
+      <p n="22">(2) OJ L 354, 30. 12. 1997, p. 23.</p>
+      <p n="23">(3) OJ L 391, 31. 12. 1992, p. 36.</p>
+      <p n="24">(4) OJ L 212, 30. 7. 1998, p. 23.</p>
+    </body>
+  </text>
+</TEI.2>

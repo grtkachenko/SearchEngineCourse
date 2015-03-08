@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32004D0144-en" n="32004D0144" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0144 English</title>
+        <title>2004/144/EC: Commission Decision of 12 February 2004 amending Decision 97/467/EC as regards the inclusion of establishments in Bulgaria and Hungary in provisional lists of third country establishments from which Member States authorise imports of ratite meat (Text with EEA relevance) (notified under document number C(2004) 346)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0144:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0144:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1255</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+        <classCode scheme="eurovoc">5063</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0144-en." lang="en">
+    <body>
+      <head n="1">2004/144/EC: Commission Decision of 12 February 2004 amending Decision 97/467/EC as regards the inclusion of establishments in Bulgaria and Hungary in provisional lists of third country establishments from which Member States authorise imports of ratite meat (Text with EEA relevance) (notified under document number C(2004) 346)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 12 February 2004</p>
+      <p n="4">amending Decision 97/467/EC as regards the inclusion of establishments in Bulgaria and Hungary in provisional lists of third country establishments from which Member States authorise imports of ratite meat</p>
+      <p n="5">(notified under document number C(2004) 346)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/144/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Decision 95/408/EC of 22 June 1995 on the conditions for drawing up, for an interim period, provisional lists of third country establishments from which Member States are authorised to import certain products of animal origin, fishery products or live bivalve molluscs(1), and in particular Article 2(1) and (4) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Provisional lists of establishments in third countries from which the Member States authorise imports of ratite meat have been drawn up by Commission Decision 97/467/EC(2).</p>
+      <p n="13">(2) Bulgaria and Hungary have sent lists of establishments producing ratite meat for which the responsible authorities certify that the establishments comply with the Community rules.</p>
+      <p n="14">(3) Those establishments should be included in the lists drawn up by Decision 1997/467/EC.</p>
+      <p n="15">(4) As on-the-spot inspections have not yet been carried out, imports from such establishments are not eligible for reduced physical checks in accordance with Article 2(4) of Decision 95/408/EC.</p>
+      <p n="16">(5) Decision 97/467/EC should therefore be amended accordingly.</p>
+      <p n="17">(6) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">Annex II to Decision 97/467/EC is amended in accordance with the Annex to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision shall apply from 25 February 2004.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 12 February 2004.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">David Byrne</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 243, 11.10.1995, p. 17. Decision as last amended by Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1).</p>
+      <p n="30">(2) OJ L 199, 26.7.1997, p. 57. Decision as last amended by Decision 2002/797/EC (OJ L 277, 15.10.2002, p. 23).</p>
+      <p n="31">ANNEX</p>
+      <p n="32">Annex II is amended as follows:</p>
+      <p n="33">1. The following text is inserted in Annex II in the part concerning Bulgaria in accordance with the national reference:</p>
+      <p n="34">"&gt;TABLE&gt;"</p>
+      <p n="35">2. The following text is inserted in Annex II in the part concerning Hungary in accordance with the national reference:</p>
+      <p n="36">"&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

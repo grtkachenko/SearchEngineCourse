@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32004D0444-en" n="32004D0444" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0444 English</title>
+        <title>2004/444/Euratom: Council Decision of 26 April 2004 amending Decision 2002/668/Euratom to adapt the financial reference amount in order to take account of the enlargement of the European Union</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0444:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0444:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2795</classCode>
+        <classCode scheme="eurovoc">3656</classCode>
+        <classCode scheme="eurovoc">4057</classCode>
+        <classCode scheme="eurovoc">5315</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0444-en." lang="en">
+    <body>
+      <head n="1">2004/444/Euratom: Council Decision of 26 April 2004 amending Decision 2002/668/Euratom to adapt the financial reference amount in order to take account of the enlargement of the European Union</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 26 April 2004</p>
+      <p n="4">amending Decision 2002/668/Euratom to adapt the financial reference amount in order to take account of the enlargement of the European Union</p>
+      <p n="5">(2004/444/Euratom)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 7 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) In order to take account of the enlargement of the European Union, the financial reference amount set out in Council Decision 2002/668/Euratom of 3 June 2002 concerning the sixth framework programme of the European Atomic Energy Community (Euratom) for nuclear research and training activities, also contributing to the creation of the European Research Area (2002 to 2006)(2) should be adapted.</p>
+      <p n="12">(2) The financial reference amount of the framework programme should be increased and the additional appropriations should be distributed in a linear fashion between the activities of the framework programme; the principle of linearity should also be applied to the implementation of all the activities of the framework programme in compliance with Article 4 of Decision 2002/668/Euratom,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Sole Article</p>
+      <p n="15">Decision 2002/668/Euratom is hereby amended as follows:</p>
+      <p n="16">1. Article 2(1) shall be replaced by the following:</p>
+      <p n="17">"1. The financial reference amount for the implementation of the sixth framework programme for the period 2002 to 2006 shall be EUR 1352 million. The proportion assigned to each of the activities is fixed in Annex II."</p>
+      <p n="18">2. Annex II shall be replaced by the text set out in the Annex to this Decision.</p>
+      <p n="19">Done at Luxembourg, 26 April 2004.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">J. Walsh</p>
+      <p n="23">(1) Opinion delivered on 9 March 2004 (not yet published in the Official Journal).</p>
+      <p n="24">(2) OJ L 232, 29.8.2002, p. 34.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">"ANNEX II</p>
+      <p n="27">MAXIMUM OVERALL AMOUNT, RESPECTIVE SHARES AND INDICATIVE BREAKDOWN</p>
+      <p n="28">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

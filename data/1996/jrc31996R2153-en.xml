@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31996R2153-en" n="31996R2153" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2153 English</title>
+        <title>Council Regulation (EC) No 2153/96 of 25 October 1996 amending Commission Regulation (EEC) No 2454/93 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2153:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2153:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">3178</classCode>
+        <classCode scheme="eurovoc">3181</classCode>
+        <classCode scheme="eurovoc">4600</classCode>
+        <classCode scheme="eurovoc">525</classCode>
+        <classCode scheme="eurovoc">6023</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2153-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2153/96 of 25 October 1996 amending Commission Regulation (EEC) No 2454/93 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2153/96 of 25 October 1996 amending Commission Regulation (EEC) No 2454/93 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2913/92 of 12 October 1992, establishing the Community Customs Code (1), and in particular Article 249 thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas, on the basis of Article 361, the level of the comprehensive guarantee in external Community transit fixed at least at 30 % of the duties and other charges payable does not in all cases ensure the recovery of own resources in the case of fraud; whereas consequently it is advisable to increase this level, as a general rule, to 100 % except in specified cases.</p>
+      <p n="8">Whereas Commission Regulation (EEC) No 2454/93 (2) should be amended,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Article 361 of Regulation (EEC) No 2454/93 is hereby amended as follows:</p>
+      <p n="12">1. paragraph 1 shall be replaced by the following:</p>
+      <p n="13">'1. The amount of the comprehensive guarantee is fixed at 100 % of the duties and other charges payable, with a minimum of ECU 7 000, under the provisions of paragraph 4, except in the cases referred to in paragraph 2.</p>
+      <p n="14">2. The customs authority may fix the amount of the comprehensive guarantee at 30 % at least of the duties and other charges payable, with a minimum of ECU 7 000, under the provisions of paragraph 4, as long as:</p>
+      <p n="15">- the operator has during the period of two years regularly carried out Community transit operations under the comprehensive guarantee system,</p>
+      <p n="16">- he has not committed breaches of his obligations during that period,</p>
+      <p n="17">- that reduced guarantee covers at least the amount of the customs debt,</p>
+      <p n="18">- the goods are not listed in Annex 52 and are not excluded from the comprehensive guarantee.</p>
+      <p n="19">3. The exception provided for in paragraph 2 shall not apply if the conditions referred to therein no longer obtain.`</p>
+      <p n="20">2. paragraphs 2 and 3 shall become paragraphs 4 and 5 respectively.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Luxembourg, 25 October 1996.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">E. KENNY</p>
+      <p n="28">(1) OJ No L 302, 19. 10. 1992, p. 1. Regulation as amended by the 1994 Act of Accession.</p>
+      <p n="29">(2) OJ No L 253, 11. 10. 1993, p. 1. Regulation as last amended by Commission Regulation (EC) No 1676/96 (OJ No L 218, 28. 8. 1996, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

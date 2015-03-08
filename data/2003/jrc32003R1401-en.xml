@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R1401-en" n="32003R1401" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1401 English</title>
+        <title>Commission Regulation (EC) No 1401/2003 of 6 August 2003 amending Regulation (EC) No 245/2001 laying down detailed rules for the application of Council Regulation (EC) No 1673/2000 on the common organisation of the markets in flax and hemp grown for fibre</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1401:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1401:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1667</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">5384</classCode>
+        <classCode scheme="eurovoc">990</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1401-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1401/2003 of 6 August 2003 amending Regulation (EC) No 245/2001 laying down detailed rules for the application of Council Regulation (EC) No 1673/2000 on the common organisation of the markets in flax and hemp grown for fibre</head>
+      <p n="2">Commission Regulation (EC) No 1401/2003</p>
+      <p n="3">of 6 August 2003</p>
+      <p n="4">amending Regulation (EC) No 245/2001 laying down detailed rules for the application of Council Regulation (EC) No 1673/2000 on the common organisation of the markets in flax and hemp grown for fibre</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1673/2000 of 27 July 2000 on the common organisation of the markets in flax and hemp grown for fibre(1), as amended by Commission Regulation (EC) No 651/2002(2), and in particular Article 9 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Under the second indent of Article 7(1) of Commission Regulation (EC) No 245/2001(3), as last amended by Regulation (EC) No 651/2002, aid for processing flax and hemp straw shall be payable on flax and hemp fibre only where it is obtained before 1 May following the end of the marketing year in question. Under Article 12(2) of that Regulation, processing aid and, where appropriate, additional aid shall be paid by the Member State on whose territory the flax or hemp straw has been harvested before 1 August following the time limit above.</p>
+      <p n="10">(2) Given the time required to complete the administrative formalities and checks prior to the granting and final payment of the aid, the time limit for payment of the aid by the Member States should be extended. In order to ensure continuity, it is necessary to provide for retroactive application of the measure as from 1 August 2003.</p>
+      <p n="11">(3) The deadline by which the Member States notify information on the marketing year to the Commission should therefore be amended.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Flax and Hemp,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EC) No 245/2001 is hereby amended as follows:</p>
+      <p n="16">1. in Article 12(2), "1 August" is replaced by "15 October";</p>
+      <p n="17">2. in Article 15(3), "30 September" is replaced by "15 December".</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="20">It is applicable as from 1 August 2003.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 6 August 2003.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz Fischler</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 193, 29.7.2000, p. 16.</p>
+      <p n="27">(2) OJ L 101, 17.4.2002, p. 3.</p>
+      <p n="28">(3) OJ L 35, 6.2.2001, p. 18.</p>
+    </body>
+  </text>
+</TEI.2>

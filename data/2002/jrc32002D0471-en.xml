@@ -1,0 +1,75 @@
+<TEI.2 id="jrc32002D0471-en" n="32002D0471" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0471 English</title>
+        <title>2002/471/EC: Commission Decision of 20 June 2002 amending Decision 95/538/EC laying down special conditions governing the import of fishery and aquaculture products originating in Japan (Text with EEA relevance) (notified under document number C(2002) 2205)</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0471:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0471:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1258</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1524</classCode>
+        <classCode scheme="eurovoc">1961</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">2743</classCode>
+        <classCode scheme="eurovoc">3579</classCode>
+        <classCode scheme="eurovoc">3730</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0471-en." lang="en">
+    <body>
+      <head n="1">2002/471/EC: Commission Decision of 20 June 2002 amending Decision 95/538/EC laying down special conditions governing the import of fishery and aquaculture products originating in Japan (Text with EEA relevance) (notified under document number C(2002) 2205)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 20 June 2002</p>
+      <p n="4">amending Decision 95/538/EC laying down special conditions governing the import of fishery and aquaculture products originating in Japan</p>
+      <p n="5">(notified under document number C(2002) 2205)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/471/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/493/EEC of 22 July 1991 laying down the health conditions for the production and the placing on the market of fishery products(1), as last amended by Directive 97/79/EC(2), and in particular Article 11(5) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Annex A of Decision 95/538/EC of 6 December 1995 laying down special conditions governing the import of fishery and aquaculture products originating in Japan(3), as last amended by Decision 2001/253/EC(4), lays down the model of health certificate for fishery and aquaculture products originating in Japan and intended for export to the European Community.</p>
+      <p n="13">(2) Commission Decision 2002/470/EC laying down special conditions for the import of bivalve molluscs, echinoderms, tunicates and marine gastropods from Japan(5), authorises the imports of frozen and processed bivalve molluscs, echinoderms, tunicates and marine gastropods from Japan. It is, therefore, necessary to modify the health certificate laid down in Decision 95/538/EC to include the relevant mentions to the requirements for bivalve molluscs.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Decision 95/538/EC is modified as follows:</p>
+      <p n="18">Annex A shall be replaced by the Annex hereto.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision shall apply from 24 June 2002.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 20 June 2002.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 268, 24.9.1991, p. 15.</p>
+      <p n="28">(2) OJ L 24, 30.1.1998, p. 31.</p>
+      <p n="29">(3) OJ L 304, 16.12.1995, p. 52.</p>
+      <p n="30">(4) OJ L 91, 31.3.2001, p. 81.</p>
+      <p n="31">(5) See page 19 of this Official Journal.</p>
+      <p n="32">ANNEX</p>
+      <p n="33">"ANNEX A</p>
+      <p n="34">&gt;PIC FILE= "L_2002163EN.002203.TIF"&gt;</p>
+      <p n="35">&gt;PIC FILE= "L_2002163EN.002301.TIF"&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

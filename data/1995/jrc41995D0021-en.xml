@@ -1,0 +1,62 @@
+<TEI.2 id="jrc41995D0021-en" n="41995D0021" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41995D0021 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 20 December 1995 on the swift exchange between the Schengen States of statistical and specific data on possible malfunctions at the external borders (SCH/Com-ex (95) 21)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41995D0021:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41995D0021:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1909</classCode>
+        <classCode scheme="eurovoc">4256</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41995D0021-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 20 December 1995 on the swift exchange between the Schengen States of statistical and specific data on possible malfunctions at the external borders (SCH/Com-ex (95) 21)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 20 December 1995</p>
+      <p n="4">on the swift exchange between the Schengen States of statistical and specific data on possible malfunctions at the external borders</p>
+      <p n="5">(SCH/Com-ex (95)21)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Articles 7 and 131 of the abovementioned Convention,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">The Schengen States shall exchange as quickly as possible statistical and specific data which reveal any possible malfunctions at the external borders.</p>
+      <p n="11">The Schengen States shall communicate any specific data they might have to the Presidency via the General Secretariat.</p>
+      <p n="12">The Subgroup on Borders shall examine this data at every meeting and put forward practical solutions.</p>
+      <p n="13">Ostend, 20 December 1995.</p>
+      <p n="14">The Chairman</p>
+      <p n="15">J. vande Lanotte</p>
+      <p n="16">NOTE TO THE CENTRAL GROUP</p>
+      <p n="17">SCH/I-Front (95)45 rev. 2 corr.</p>
+      <p n="18">Following the mandate given to the Central Group by the Executive Committee on 24 October 1995, the Subgroup on Frontiers was instructed to look into the problems encountered with regard to checks at external frontiers.</p>
+      <p n="19">For this purpose, in implementation of Article 7 of the Schengen Convention and in order to give a factual content to the provisions of point 4.1 of the Common Manual, a statistical tool has been devised, based on the work of CIREFI.</p>
+      <p n="20">Each State undertakes to forward to the Schengen Secretariat, within 30 days of its being gathered, statistical information permitting better monitoring and knowledge of migration phenomena, in the form of the attached tables.</p>
+      <p n="21">The Schengen Secretariat is instructed to forward that information to all the Schengen States immediately.</p>
+      <p n="22">The Schengen Secretariat, in liaison with the FMAD (seconded officials), will collate the information. The FMAD may undertake on the Presidency's behalf an initial analysis of problems which might appear on examination of such information. Each Member State also retains the right to raise questions which it thinks should be looked into.</p>
+      <p n="23">Parallel to the forwarding of statistical information each Member State must communicate information on current difficulties in carrying out controls at external frontiers; that information may also be analysed in accordance with the arrangements referred to in the preceding paragraph.</p>
+      <p n="24">For this purpose the national authorities of the Schengen States, acting through their departments responsible for external frontiers controls and through liaison officers, in so far as bilateral agreements on the secondment of officials make provision for such duties, are to collect all information on specific problems arising at external frontiers which suggest a dysfunctioning at frontier control level. National authorities are to compile and analyse this information and inform the Presidency through the Secretariat.</p>
+      <p n="25">Each meeting of the Subgroup on Frontiers must devote an item on its agenda to any observations made on those statistics and on these problems.</p>
+      <p n="26">&gt;PIC FILE= "L_2000239EN.017801.EPS"&gt;</p>
+      <p n="27">&gt;PIC FILE= "L_2000239EN.017901.EPS"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

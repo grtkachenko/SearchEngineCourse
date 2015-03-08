@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32001R1613-en" n="32001R1613" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1613 English</title>
+        <title>Commission Regulation (EC) No 1613/2001 of 7 August 2001 amending Regulation (EC) No 896/2001 laying down detailed rules for applying Council Regulation (EEC) No 404/93 as regards the arrangements for importing bananas into the Community</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1613:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1613:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1120</classCode>
+        <classCode scheme="eurovoc">1136</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">3115</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1613-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1613/2001 of 7 August 2001 amending Regulation (EC) No 896/2001 laying down detailed rules for applying Council Regulation (EEC) No 404/93 as regards the arrangements for importing bananas into the Community</head>
+      <p n="2">Commission Regulation (EC) No 1613/2001</p>
+      <p n="3">of 7 August 2001</p>
+      <p n="4">amending Regulation (EC) No 896/2001 laying down detailed rules for applying Council Regulation (EEC) No 404/93 as regards the arrangements for importing bananas into the Community</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 404/93 of 13 February 1993 on the common organisation of the market in bananas(1), as last amended by Regulation (EC) No 216/2001(2), and in particular Article 20 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 896/2001(3) lays down the new detailed rules for applying Regulation (EEC) No 404/93 as regards the management of the tariff import quotas provided for in Article 18(1) of that Regulation, applicable from 1 July 2001.</p>
+      <p n="10">(2) The second subparagraph of Article 8(2) of Regulation (EC) No 896/2001 lays down that proof of dispatch in the case of non-traditional operators is furnished by producing copies of the bill of lading and the ship's manifest or, where applicable, the road or air transport document, drawn up in the name of the operator, for the quantities actually imported. In order to ensure that this provision is uniformly applied, it should be specified that the requisite proof must cover dispatch from the goods' country of origin, regardless of the means of transport used. This amendment should apply, for the first time, to the dispatches linked to import operations effected in respect of the fourth quarter of 2001.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Bananas,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The second subparagraph of Article 8(2) of Regulation (EC) No 896/2001 is replaced by the following: "Proof of dispatch shall be furnished by producing copies of the bill of lading and the ship's manifest or, where applicable, the road or air transport document, covering dispatch from the country of origin, drawn up in the name of the operator, for the quantities actually imported."</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply, for the first time, to dispatches linked to import operations effected in respect of the fourth quarter of 2001.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 7 August 2001.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 47, 25.2.1993, p. 1.</p>
+      <p n="24">(2) OJ L 31, 2.2.2001, p. 2.</p>
+      <p n="25">(3) OJ L 126, 8.5.2001, p. 6.</p>
+    </body>
+  </text>
+</TEI.2>

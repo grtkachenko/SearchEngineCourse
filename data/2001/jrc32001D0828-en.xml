@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32001D0828-en" n="32001D0828" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0828 English</title>
+        <title>2001/828/EC: Commission Decision of 23 November 2001 amending Decisions 92/260/EEC and 93/197/EEC with regard to imports of equidae vaccinated against West Nile Fever (Text with EEA relevance) (notified under document number C(2001) 3709)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0828:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0828:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">4636</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0828-en." lang="en">
+    <body>
+      <head n="1">2001/828/EC: Commission Decision of 23 November 2001 amending Decisions 92/260/EEC and 93/197/EEC with regard to imports of equidae vaccinated against West Nile Fever (Text with EEA relevance) (notified under document number C(2001) 3709)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 23 November 2001</p>
+      <p n="4">amending Decisions 92/260/EEC and 93/197/EEC with regard to imports of equidae vaccinated against West Nile Fever</p>
+      <p n="5">(notified under document number C(2001) 3709)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/828/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/426/EEC of 26 June 1990 on animal health conditions governing the movement and import from third countries of equidae(1), as last amended by Decision 2001/298/EC(2), and in particular Article 13(2)(a) and Article 19(i) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 92/260/EEC(3), as last amended by Decision 2001/619/EC(4), laid down the animal health conditions and veterinary certification for temporary admission of registered horses.</p>
+      <p n="13">(2) Commission Decision 93/197/EEC(5), as last amended by Decision 2001/619/EC, laid down the animal health conditions and veterinary certification for imports of registered equidae and equidae for breeding and production.</p>
+      <p n="14">(3) The United States of America have recorded cases of West Nile Fever in equidae during the past two years. Recently a formaline-inactivated vaccine has received conditional approval by the competent authorities. Because equidae vaccinated against West Nile Virus infection do not present an animal or public health risk, imports into the Community of such equidae should be permitted, subject to certain conditions.</p>
+      <p n="15">(4) In order to allow imports of equidae vaccinated against West Nile Virus from countries included in Group C of the relevant animal health requirements it is necessary to adapt the animal health conditions by modifying Decisions 92/260/EEC and 93/197/EEC accordingly.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">A new paragraph is inserted in Annex II(C)(III) to Decision 92/260/EEC:</p>
+      <p n="20">&gt;PIC FILE= "L_2001308EN.004102.TIF"&gt;</p>
+      <p n="21">Article 2</p>
+      <p n="22">A new paragraph is inserted in Annex II(C)(III) to Decision 93/197/EEC:</p>
+      <p n="23">&gt;PIC FILE= "L_2001308EN.004201.TIF"&gt;</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 23 November 2001.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">David Byrne</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 224, 18.8.1990, p. 42.</p>
+      <p n="31">(2) OJ L 102, 12.4.2001, p. 63.</p>
+      <p n="32">(3) OJ L 130, 15.5.1992, p. 67.</p>
+      <p n="33">(4) OJ L 215, 9.8.2001, p. 55.</p>
+      <p n="34">(5) OJ L 86, 6.4.1993, p. 16.</p>
+    </body>
+  </text>
+</TEI.2>

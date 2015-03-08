@@ -1,0 +1,58 @@
+<TEI.2 id="jrc32002R1185-en" n="32002R1185" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1185 English</title>
+        <title>Commission Regulation (EC) No 1185/2002 of 1 July 2002 amending the list of competent courts in Annex I to Council Regulation (EC) No 1347/2000 of 29 May 2000 on jurisdiction and the recognition and enforcement of judgments in matrimonial matters and in matters of parental responsibility for children of both spouses</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1185:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1185:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">217</classCode>
+        <classCode scheme="eurovoc">3299</classCode>
+        <classCode scheme="eurovoc">3316</classCode>
+        <classCode scheme="eurovoc">42</classCode>
+        <classCode scheme="eurovoc">570</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1185-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1185/2002 of 1 July 2002 amending the list of competent courts in Annex I to Council Regulation (EC) No 1347/2000 of 29 May 2000 on jurisdiction and the recognition and enforcement of judgments in matrimonial matters and in matters of parental responsibility for children of both spouses</head>
+      <p n="2">Commission Regulation (EC) No 1185/2002</p>
+      <p n="3">of 1 July 2002</p>
+      <p n="4">amending the list of competent courts in Annex I to Council Regulation (EC) No 1347/2000 of 29 May 2000 on jurisdiction and the recognition and enforcement of judgments in matrimonial matters and in matters of parental responsibility for children of both spouses</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1347/2000 of 29 May 2000 on jurisdiction and the recognition and enforcement of judgments in matrimonial matters and in matters of parental responsibility for children of both spouses(1), and in particular Article 44 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) An application for a declaration of enforceability of a judgment on the exercise of parental responsibility for children of both spouses should be submitted to the courts listed in Annex I of Regulation (EC) No 1347/2000.</p>
+      <p n="10">(2) Article 44 of Regulation (EC) No 1347/2000 provides that Member States should notify the Commission of texts amending the list of courts set out in Annex I.</p>
+      <p n="11">(3) The Netherlands has notified the Commission of an amendment to the list of courts set out in Annex I. Therefore, Council Regulation (EC) No 1347/2000 should be amended accordingly,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The eleventh indent of Annex I to Regulation (EC) No 1347/2000 shall be replaced by the following: "- in the Netherlands, the 'voorzieningenrechter van de rechtbank'."</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 1 July 2002.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">António Vitorino</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 160, 30.6.2000, p. 19.</p>
+    </body>
+  </text>
+</TEI.2>

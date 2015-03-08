@@ -1,0 +1,90 @@
+<TEI.2 id="jrc31989L0682-en" n="31989L0682" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989L0682 English</title>
+        <title>Council Directive 89/682/EEC of 21 December 1989 amending directive 86/298/EEC on rear-mounted roll-over protection structures of narrow-track wheeled agricultural and forestry tractors</title>
+      </titleStmt>
+      <extent>63 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0682:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0682:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989L0682-en." lang="en">
+    <body>
+      <head n="1">Council Directive 89/682/EEC of 21 December 1989 amending directive 86/298/EEC on rear-mounted roll-over protection structures of narrow-track wheeled agricultural and forestry tractors</head>
+      <p n="2">COUNCIL DIRECTIVE</p>
+      <p n="3">of 21 December 1989</p>
+      <p n="4">amending Directive 86/298/EEC on rear-mounted roll-over protection structures of</p>
+      <p n="5">narrow-track wheeled agricultural and forestry tractors</p>
+      <p n="6">(89/682/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100a thereof,</p>
+      <p n="9">Having regard to the proposal from the Commission (1),</p>
+      <p n="10">In cooperation with the European Parliament (2),</p>
+      <p n="11">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="12">Whereas it is necessary to adopt measures with the aim of progressively establishing the internal market over a period expiring on 31 December 1992; whereas the internal market comprises an area without internal frontiers in which the</p>
+      <p n="13">free movement of goods, persons, services and capital is ensured;</p>
+      <p n="14">Whereas Article 13 of Directive 86/298/EEC (4) lays down that the provisions at present in force shall be supplemented by provisions introducing additional impact tests into the dynamic test procedure;</p>
+      <p n="15">Whereas, since provision is already made for an additional test in the case of the static test procedure, it is necessary also in that of the dynamic test procedure to provide for an additional test which more accurately reflects the situation in the event of tractor roll-over in order that these two test procedures may be rendered equivalent and the present imbalance between them eliminated;</p>
+      <p n="16">Whereas the purely theoretical parameters and calculations on which the additional dynamic impact test was initially based have been the subject of practical experiments that leave no doubt as to their reliability;</p>
+      <p n="17">Whereas it is also necessary to amend the scope of Directive 86/298/EEC so as to clarify the wording of the second indent of Article 1 concerning the tyres fitted to the front and rear axles, and thus eliminate any possibility of differing interpretations,</p>
+      <p n="18">OJ N° C 256, 9. 10. 1989, p. 77.</p>
+      <p n="19">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Directive 86/298/EEC is hereby amended as follows:</p>
+      <p n="22">1.</p>
+      <p n="23">the second indent of Article 1 is replaced by the following:</p>
+      <p n="24">'- fixed or adjustable minimum track width of less than 1 150 mm for the axles fitted with the widest tyres; since the axle fitted with the widest tyres is assumed to be adjusted to a maximum track width of 1 150 mm, the other axle must be capable of being adjusted in such a way that the outer edges of the narrowest tyres do not project beyond the outer edges of the tyres on the axle with the widest tyres. Where both axles are equipped with wheels and tyres of the same size, the fixed or adjustable track width of both axles must be less than 1 150 mm;'</p>
+      <p n="25">2.</p>
+      <p n="26">in Annex II, point 3.1.1 is replaced by the following:</p>
+      <p n="27">'3.1.1.</p>
+      <p n="28">After each partial test in the dynamic test procedure, it shall be free from tears or cracks as described in point 3.1 of Annex III (A).</p>
+      <p n="29">If, during the dynamic test, significant tears or cracks appear, an additional impact test or crushing test as defined in point 1.6 of Annex III (A) must be performed immediately after the test which caused these tears or cracks to appear.';</p>
+      <p n="30">3.</p>
+      <p n="31">in Annex III (A), point 1.6 is replaced by the following:</p>
+      <p n="32">'1.6.</p>
+      <p n="33">Additional tests</p>
+      <p n="34">'1.6.1.</p>
+      <p n="35">If cracks or tears which cannot be considered negligible appear during an impact test, a second, similar test, but with a height of fall of:</p>
+      <p n="36">Hm = 10 × 12 + 4a</p>
+      <p n="37">Hm =</p>
+      <p n="38">H</p>
+      <p n="39">10</p>
+      <p n="40">×</p>
+      <p n="41">12 + 4a</p>
+      <p n="42">1 + 2a</p>
+      <p n="43">shall be performed immediately after the impact test causing these tears or cracks to appear, ''a'' being the ratio of the permanent deformation</p>
+      <p n="44">to the elastic deformation (a = Dp/De) as measured at the point of impact.</p>
+      <p n="45">The additional permanent deformation due to the second impact must not exceed 30 % of the permanent deformation due to the first impact.</p>
+      <p n="46">In order to be able to carry out the additional test, it is necessary to measure the elastic deformation during all of the impact tests.</p>
+      <p n="47">,1.6.2.</p>
+      <p n="48">If, during a crushing test, significant tears or cracks appear, a second, similar crushing test, but with a force equal to 1,2 Fv, shall be performed immediately after the crushing test which caused these tears and cracks to appear.';</p>
+      <p n="49">4.</p>
+      <p n="50">in Annex VI, the following point is inserted:</p>
+      <p n="51">'7.3.</p>
+      <p n="52">Indication and results of any additional dynamic test.'</p>
+      <p n="53">Article 2</p>
+      <p n="54">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 12 months from 3 January 1990. They shall forthwith inform the Commission thereof.</p>
+      <p n="55">Article 3</p>
+      <p n="56">This Directive is addressed to the Member States.</p>
+      <p n="57">Done at Brussels, 21 December 1989.</p>
+      <p n="58">For the Council</p>
+      <p n="59">The President</p>
+      <p n="60">E. CRESSON</p>
+      <p n="61">(1) OJ N° C 311, 6. 12. 1988, p. 9.</p>
+      <p n="62">(2) OJ N° C 120, 16. 5. 1989, p. 70, and (3) OJ N° C 102, 24. 4. 1989, p. 5.</p>
+      <p n="63">(4) OJ N° L 186, 8. 7. 1986, p. 26.</p>
+    </body>
+  </text>
+</TEI.2>

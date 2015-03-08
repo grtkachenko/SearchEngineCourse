@@ -1,0 +1,102 @@
+<TEI.2 id="jrc31970L0157-en" n="31970L0157" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31970L0157 English</title>
+        <title>Council Directive 70/157/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the permissible sound level and the exhaust system of motor vehicles</title>
+      </titleStmt>
+      <extent>75 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31970L0157:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31970L0157:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31970L0157-en." lang="en">
+    <body>
+      <head n="1">Council Directive 70/157/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the permissible sound level and the exhaust system of motor vehicles</head>
+      <p n="2">COUNCIL DIRECTIVE of 6 February 1970 on the approximation of the laws of the Member States relating to the permissible sound level and the exhaust system of motor vehicles (70/157/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof;</p>
+      <p n="5">Having regard to the proposal from the Commission;</p>
+      <p n="6">Having regard to the Opinion of the European Parliament (1);</p>
+      <p n="7">Having regard to the Opinion of the Economic and Social Committee (2);</p>
+      <p n="8">Whereas the technical requirements which motor vehicles must satisfy pursuant to national laws relate, inter alia, to the permissible sound level and the exhaust system;</p>
+      <p n="9">Whereas those requirements differ from one Member State to another ; whereas it is therefore necessary that all Member States adopt the same requirements either in addition to or in place of their existing rules, in order, in particular, to allow the EEC type approval procedure which was the subject of the Council Directive (3) of 6 February 1970 on the approximation of the laws of the Member States relating to the type approval of motor vehicles and their trailers to be applied in respect of each type of vehicle;</p>
+      <p n="10">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="11">Article 1</p>
+      <p n="12">For the purposes of this Directive, "vehicle" means any motor vehicle intended for use on the road, with or without bodywork, having at least four wheels and a maximum design speed exceeding 25 kilometres per hour, with the exception of vehicles which run on rails, agricultural tractors and machinery and public works vehicles.</p>
+      <p n="13">Article 2</p>
+      <p n="14">No Member State may refuse to grant EEC type approval or national type approval of a vehicle on grounds relating to the permissible sound level or the exhaust system if its sound level and exhaust system satisfy the requirements set out in the Annex.</p>
+      <p n="15">Article 3</p>
+      <p n="16">The amendments necessary for adjusting the requirements of the Annex so as to take account of technical progress, with the exception of the requirements set out under items 1.1 and 1.4.1.4, shall be adopted in accordance with the procedure laid down in Article 13 of the Council Directive on the type approval of motor vehicles and their trailers.</p>
+      <p n="17">Article 4</p>
+      <p n="18">1. Member States shall put into force the provisions containing the requirements needed in order to comply with this Directive within eighteen months of its notification and shall forthwith inform the Commission thereof.</p>
+      <p n="19">2. Member States shall ensure that the texts of the main provisions of national law which they adopt in the field covered by this Directive are communicated to the Commission.</p>
+      <p n="20">Article 5</p>
+      <p n="21">This Directive is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 6 February 1970.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">P. HARMEL (1)OJ No C 160, 18.12.1969, p. 7. (2)OJ No C 48, 16.4.1969, p. 16. (3)OJ No L 42, 23.2.1970, p. 1.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">I. PERMISSIBLE SOUND LEVELS I.1. Limits</p>
+      <p n="28">The sound level of the vehicles referred to in Article 1 of this Directive, when measured under the conditions set out in this Annex, may not exceed the following levels: &gt;PIC FILE= "T0002112"&gt;</p>
+      <p n="29">I.2. Measuring instruments</p>
+      <p n="30">The noise emitted by vehicles shall be measured by means of a sound-level meter of the type described in Publications 179,1st edition (1965), of the International Electrotechnical Commission.</p>
+      <p n="31">I.3. Conditions of measurement</p>
+      <p n="32">Measurements shall be made on unladen vehicles in a sufficiently silent and open area (ambient noise and wind noise at least 10 dB (A) below the noise being measured).</p>
+      <p n="33">That area may take the form, for instance, of an open space of 50-metre radius having a central part of at least 20-metre radius which is practically level, surfaced with concrete, asphalt or similar material, and not covered with powdery snow, tall grass, loose soil or ashes.</p>
+      <p n="34">The surface of the test track shall be such as not to cause excessive tyre noise. This condition applies only to measurement of the noise made by vehicles in motion.</p>
+      <p n="35">Measurement shall be carried out in fine weather with little wind. No person other than the observer taking the readings from the apparatus may remain near the vehicle or the microphone, as the presence of spectators near either the vehicle or the microphone may considerably affect the readings from the apparatus. Marked fluctuations of the pointer which appear to be unrelated to the characteristics of the general sound level shall be ignored in taking readings.</p>
+      <p n="36">I.4. Method of measurement I.4.1. Measurement of noise of vehicles in motion (for type approval)</p>
+      <p n="37">At least two measurements shall be made on each side of the vehicle. Preliminary measurements may be made for adjustment purposes but shall be disregarded.</p>
+      <p n="38">The microphone shall be situated 1.2 metres above ground level at a distance of 7.5 metres from the path of the vehicle's centre line, CC, measured along the perpendicular PP" to that line (Figure 1).</p>
+      <p n="39">Two lines AA" and BB", parallel to line PP" and situated respectively 10 metres forward and 10 metres rearward of that line, shall be marked out on the test track. Vehicles shall approach line AA" at a steady speed, as specified below. The throttle shall then be fully-opened as rapidly as practicable and held in the fully-opened position until the rear of the vehicle (1) crosses line BB" ; the throttle shall then be closed again as rapidly as possible.</p>
+      <p n="40">The maximum sound level recorded shall constitute the result of the measurement. I.4.1.1. Vehicles with no gearbox</p>
+      <p n="41">The vehicle shall approach line AA" at a steady speed corresponding to the lowest of the three following speeds: - an engine speed equal to three-quarters of the engine speed at which the engine develops its maximum power;</p>
+      <p n="42">- an engine speed equal to three-quarters of the maximum engine speed permitted by the governor;</p>
+      <p n="43">- 50 kilometres per hour.</p>
+      <p n="44">I.4.1.2. Vehicles with a manually operated gearbox I.4.1.2.1.- The second gear in the gearbox must be engaged if the vehicle is fitted with a two-speed, three-speed or four-speed gearbox;</p>
+      <p n="45">I.4.1.2.2.- The third gear in the gearbox must be engaged if the box has more than four gears;</p>
+      <p n="46">I.4.1.2.2.- if the transmission has a double gear ratio (transfer gearbox or two-speed rear axle assembly), the gearbox must be engaged in the ratio allowing the highest vehicle speed.</p>
+      <p n="47">The vehicle shall approach line AA" at a steady speed corresponding to the lowest of the following three speeds: - an engine speed equal to three-quarters of the engine speed at which the engine develops its maximum power;</p>
+      <p n="48">- an engine speed equal to three-quarters of the maximum engine speed permitted by the governor;</p>
+      <p n="49">- 50 kilometres per hour.</p>
+      <p n="50">I.4.1.3. Vehicles with an automatic gearbox</p>
+      <p n="51">The vehicle shall approach line AA" at a steady speed equal to the lowest of the following two speeds: - 50 kilometres per hour;</p>
+      <p n="52">- three quarters of the maximum speed.</p>
+      <p n="53">Where there is a choice, the "normal" selector position for town driving is to be used.</p>
+      <p n="54">I.4.1.4. Interpretation of results I.4.1.4.1. To take account of inaccuracies in the measuring instruments, the result obtained from each measurement shall be determined by deducting 1 dB (A) from the meter reading.</p>
+      <p n="55">I.4.1.4.2. The measurements shall be considered valid if the difference between two consecutive measurements on the same side of the vehicle does not exceed 2 dB (A). (1)If the vehicle includes a trailer or semi-trailer, these shall not be taken into account in determining when line BB" is crossed.</p>
+      <p n="56">I.4.1.4.3. The highest sound level measured shall constitute the test result. Should that result exceed by 1 dB (A) the maximum permissible sound level for the category of vehicle tested, two further measurements shall be made. Three of the four measurements thus obtained must fall within the prescribed limits. &gt;PIC FILE= "T0002113"&gt;</p>
+      <p n="57">I.4.2. Measurement of noise of stationary vehicles I.4.2.1. Position of sound-level meter</p>
+      <p n="58">Measurements shall be made at point X (shown in Figure 2) at a distance of 7 metres from the nearest surface of the vehicle.</p>
+      <p n="59">The microphone shall be situated 1.2 metres above ground level.</p>
+      <p n="60">I.4.2.2. Number of measurements</p>
+      <p n="61">At least two measurements shall be made.</p>
+      <p n="62">I.4.2.3. Vehicle test conditions</p>
+      <p n="63">The engine of a vehicle without a speed governor shall be run at three-quarters of the rpm speed at which, according to the vehicle manufacturer, it develops its maximum power. The rpm speed of the engine shall be measured by means of an independent instrument, e.g. a roller bed and a tachometer. If the engine is fitted with a governor preventing the engine from exceeding the speed at which it develops its maximum power, it shall be run at the maximum speed permitted by the governor.</p>
+      <p n="64">Before taking any measurements, the engine shall be brought to its normal running temperature.</p>
+      <p n="65">I.4.2.4. Interpretation of results</p>
+      <p n="66">All sound-level readings recorded shall be given in the report.</p>
+      <p n="67">The method used to calculate the engine power shall also be shown, where possible. The state of loading of the vehicle must also be given.</p>
+      <p n="68">The measurements shall be considered valid if the difference between two consecutive measurements on the same side of the vehicle does not exceed 2 dB (A).</p>
+      <p n="69">The maximum figure recorded shall constitute the result of the measurement. &gt;PIC FILE= "T0002114"&gt;</p>
+      <p n="70">II. EXHAUST SYSTEM (SILENCER) II.1. If the vehicle is fitted with a device designed to reduce the exhaust noise (silencer), the requirements of item II shall apply. If the inlet of the engine is fitted with an air filter which is necessary in order to ensure compliance with the permissible sound level, the filter shall be considered to be part of the silencer, and the requirements of item II shall also apply to that filter.</p>
+      <p n="71">II.2. A drawing of the exhaust system shall be annexed to the vehicle type approval certificate.</p>
+      <p n="72">II.3. The silencer must be marked with a reference to its make and type which is clearly legible and indelible.</p>
+      <p n="73">II.4. The use of fibrous absorbent material is permitted in the construction of silencers only if the following conditions are fulfilled: II.4.1. The fibrous absorbent material may not be placed in those parts of the silencer through which the gases pass.</p>
+      <p n="74">II.4.2. Suitable devices must ensure that the fibrous absorbent material is kept in place for the whole time that the silencer is being used.</p>
+      <p n="75">II.4.3. The fibrous absorbent material must be resistent to a temperature at least 20 % higher than the operating temperature which may occur in the region of the silencer where these fibrous absorbent materials are situated.</p>
+    </body>
+  </text>
+</TEI.2>

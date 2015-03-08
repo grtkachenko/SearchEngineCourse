@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31990R3314-en" n="31990R3314" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31990R3314 English</title>
+        <title>Commission Regulation (EEC) No 3314/90 of 16 November 1990 adapting to technical progress Council Regulation (EEC) No 3821/85 on recording equipment in road transport</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990R3314:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990R3314:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31990R3314-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 3314/90 of 16 November 1990 adapting to technical progress Council Regulation (EEC) No 3821/85 on recording equipment in road transport</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 3314/90</p>
+      <p n="4">of 16 November 1990</p>
+      <p n="5">Commission Regulation adapting to technical progress Council Regulation (EEC) No 3821/85 on recording equipment in road transport</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport (1), and in particular Articles 17 and 18 thereof,</p>
+      <p n="9">Whereas it is necessary to eliminate the possibilities of fraud in the use of electronic recording equipment in road transport in particular those caused by the interruption of the power supply or of the distance and speed sensor;</p>
+      <p n="10">Whereas in the light of experience and in view of the current state of the art it is possible to indicate such interruptions clearly on the record sheets in order to facilitate application of the Regulation and to discourage this kind of fraudulent use;</p>
+      <p n="11">Whereas it is appropriate to implement this new technology in the Community construction and installation standards for electronic recording equipment;</p>
+      <p n="12">Whereas in order to ensure effective checking and correct registration of driving time in particular, driving time should be recorded automatically and the other periods, when the driver is not driving the vehicle, should be recorded according to the sign indicated on the switch mechanism;</p>
+      <p n="13">Whereas current recording equipment already provides for this automatic recording of driving time and therefore in the light of experience and current state of the art the construction standards for the recording equipment should be adapted accordingly;</p>
+      <p n="14">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Committee for adaptation of Regulation (EEC) No 3821/85 to technical progress,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Annex I of Regulation (EEC) No 3821/85 is hereby amended as follows;</p>
+      <p n="18">1. In Chapter II, the following point is inserted:</p>
+      <p n="19">'7. For electronic recording equipment which is equipment operating by signals transmitted electrically from the distance and speed sensor, any interruption exceeding 100 milliseconds in the power supply of the recording equipment (except lighting), in the power supply of the distance and speed sensor and any interruption in the signal lead to the distance and speed sensor.'</p>
+      <p n="20">2. In Chapter III under '(a) General points', point 1.3 is replaced by the following:</p>
+      <p n="21">'1.3 A means of marking showing on the record sheet individually:</p>
+      <p n="22">- each opening of the case containing that sheet,</p>
+      <p n="23">- for electronic recording equipment, as defined in point 7 of Chapter II, any interruption exceeding 100 milliseconds in the power supply of the recording equipment (except lighting), not later than at switching-on the power supply again,</p>
+      <p n="24">- for electronic recording equipment, as defined in point 7 of Chapter II, any interruption exceeding 100 milliseconds in the power supply of the distance and speed sensor and any interruption in the signal lead to the distance and speed sensor.'</p>
+      <p n="25">3. In Chapter III under '(c) Recording instruments', point 4.1 is replaced by the following:</p>
+      <p n="26">'4.1 Recording equipment must be so constructed that the period of driving time is always recorded automatically and that it is possible, through the operation where necessary of a switch device to record separately the other periods of time as indicated in Article 15 (3), second indent (b), (c) and (d) of the Regulation.'</p>
+      <p n="27">Article 2</p>
+      <p n="28">As from 1 July 1991 Member States shall no longer grant EEC approval to any type of recording equipment which does not comply with the provisions of Regulation (EEC) No 3821/85, as amended by this Regulation.</p>
+      <p n="29">Article 3</p>
+      <p n="30">As from 1 January 1996 the recording equipment of any new vehicle brought into service for the first time shall comply with Regulation (EEC) No 3821/85, as amended by this Regulation.</p>
+      <p n="31">Article 4</p>
+      <p n="32">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="33">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="34">Done at Brussels, 16 November 1990.</p>
+      <p n="35">For the Commission</p>
+      <p n="36">Karel VAN MIERT</p>
+      <p n="37">Member of the Commission</p>
+      <p n="38">(1) OJ No L 370, 31. 12. 1985, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

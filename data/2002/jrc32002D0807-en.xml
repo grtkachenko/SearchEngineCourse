@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32002D0807-en" n="32002D0807" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0807 English</title>
+        <title>2002/807/EC: Commission Decision of 15 October 2002 amending Decision 2000/807/EC laying down the codified form and the codes for the notification of animal diseases pursuant to Council Directive 82/894/EEC (Text with EEA relevance) (notified under document number C(2002) 3786)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0807:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0807:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0807-en." lang="en">
+    <body>
+      <head n="1">2002/807/EC: Commission Decision of 15 October 2002 amending Decision 2000/807/EC laying down the codified form and the codes for the notification of animal diseases pursuant to Council Directive 82/894/EEC (Text with EEA relevance) (notified under document number C(2002) 3786)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 15 October 2002</p>
+      <p n="4">amending Decision 2000/807/EC laying down the codified form and the codes for the notification of animal diseases pursuant to Council Directive 82/894/EEC</p>
+      <p n="5">(notified under document number C(2002) 3786)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/807/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 82/894/EEC of 21 December 1982 on the notification of animal diseases within the Community(1), as last amended by Commission Decision 2000/556/EC(2), and in particular the first indent of Article 5 (2) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 2000/807/EC(3) lays down the codified form and the codes for the notification of animal diseases pursuant to Directive 82/894/EEC.</p>
+      <p n="13">(2) Decision 2002/309/EC, Euratom of the Council, and of the Commission as regards the Agreement on Scientific and Technological Cooperation, of 4 April 2002 on the conclusion of seven Agreements with the Swiss Confederation(4), provides for the approval of the Agreement between the European Community and the Swiss Confederation on Trade in Agricultural Products and requires that Switzerland be added to the Animal Disease Notification System (ADNS).</p>
+      <p n="14">(3) Further infectious salmon anaemia and viral haemorrhagic septicaemia should be included in the list of notifiable diseases in ADNS as these diseases are respectively in list I and list II of Annex A to Council Directive 91/67/EEC of 28 January 1991, concerning the animal health conditions governing the placing on the market of aquaculture animals and their products(5), as last amended by Directive 98/45/EC(6).</p>
+      <p n="15">(4) To permit the notification of outbreaks of classical swine fever in feral pigs to be separated from those in domestic pigs and for different subtypes of classical swine fever to be notified separately, different codes should be given for those diseases.</p>
+      <p n="16">(5) In order to protect confidentiality of the transmitted information, the Annexes to this Decision should not be published.</p>
+      <p n="17">(6) Decision 2000/807/EC should therefore be amended accordingly.</p>
+      <p n="18">(7) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="19">HAS ADOPTED THIS DECISION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Annexes IV to VII to Decision 2000/807/EC are amended in accordance with the Annexes to this Decision.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 15 October 2002.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">David Byrne</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 378, 31.12.1982, p. 58.</p>
+      <p n="29">(2) OJ L 235, 19.9.2000, p. 27.</p>
+      <p n="30">(3) OJ L 326, 22.12.2000, p. 80.</p>
+      <p n="31">(4) OJ L 114, 30.4.2002, p. 1.</p>
+      <p n="32">(5) OJ L 46, 19.2.1991, p. 1.</p>
+      <p n="33">(6) OJ L 189, 3.7.1998, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

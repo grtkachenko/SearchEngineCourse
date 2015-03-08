@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32002R2384-en" n="32002R2384" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2384 English</title>
+        <title>Commission Regulation (EC) No 2384/2002 of 30 December 2002 amending Regulation (EEC) No 2837/93 laying down detailed rules for the application of Council Regulation (EEC) No 2019/93 with regard to the maintenance of olive groves in traditional olive-growing areas</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2384:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2384:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2131</classCode>
+        <classCode scheme="eurovoc">2292</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">4171</classCode>
+        <classCode scheme="eurovoc">4885</classCode>
+        <classCode scheme="eurovoc">755</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2384-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2384/2002 of 30 December 2002 amending Regulation (EEC) No 2837/93 laying down detailed rules for the application of Council Regulation (EEC) No 2019/93 with regard to the maintenance of olive groves in traditional olive-growing areas</head>
+      <p n="2">Commission Regulation (EC) No 2384/2002</p>
+      <p n="3">of 30 December 2002</p>
+      <p n="4">amending Regulation (EEC) No 2837/93 laying down detailed rules for the application of Council Regulation (EEC) No 2019/93 with regard to the maintenance of olive groves in traditional olive-growing areas</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2019/93 of 19 July 1993 introducing specific measures for the smaller Aegean islands concerning certain agricultural products(1), as last amended by Regulation (EC) No 442/2002(2), and in particular Article 11(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EEC) No 2837/93(3), as last amended by Regulation (EC) No 2813/94(4), lays down the conditions for the grant of the flat-rate aid per hectare for the maintenance of olive groves in traditional olive growing-areas of the smaller Aegean islands.</p>
+      <p n="10">(2) There are grounds for adding to the eligibility criteria laid down in Article 1 of Regulation (EEC) No 2837/93 a condition corresponding to Article 24(1) of Commission Regulation (EC) No 2366/98 of 30 October 1998 laying down detailed rules for the application of the system of production aid for olive oil for the 1998/99, 1999/2000, 2000/01, 2001/02, 2002/03 and 2003/04 marketing years(5), as last amended by Regulation (EC) No 1249/2002(6), which establishes the minimum size of the olive-growing parcel that can qualify for the aid for the production of olive oil.</p>
+      <p n="11">(3) Regulation (EEC) No 2837/93 must therefore be amended.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Oils and Fats,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The following point is added to Article 1 of Regulation (EEC) No 2837/93:</p>
+      <p n="16">"(e) that are of a minimum size as established by the second subparagraph of Article 24(1) of Commission Regulation (EC) No 2366/98(7)."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 30 December 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 184, 27.7.1993, p. 1.</p>
+      <p n="25">(2) OJ L 68, 12.3.2002, p. 4.</p>
+      <p n="26">(3) OJ L 260, 19.10.1993, p. 5.</p>
+      <p n="27">(4) OJ L 298, 19.11.1994, p. 24.</p>
+      <p n="28">(5) OJ L 293, 31.10.1998, p. 50.</p>
+      <p n="29">(6) OJ L 183, 12.7.2002, p. 5.</p>
+      <p n="30">(7) OJ L 293, 31.10.1998, p. 50.</p>
+    </body>
+  </text>
+</TEI.2>

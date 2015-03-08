@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31999D0661-en" n="31999D0661" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0661 English</title>
+        <title>99/661/EC: Commission Decision of 9 September 1999 amending Decisions 79/491/EEC and 80/765/EEC laying down a code and standard rules for the transcription into a machine-readable form of the data of the basic surveys and the data relating to intermediate statistical surveys of areas under vines (notified under document number C(1999) 2703)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0661:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0661:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4257</classCode>
+        <classCode scheme="eurovoc">4327</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0661-en." lang="en">
+    <body>
+      <head n="1">99/661/EC: Commission Decision of 9 September 1999 amending Decisions 79/491/EEC and 80/765/EEC laying down a code and standard rules for the transcription into a machine-readable form of the data of the basic surveys and the data relating to intermediate statistical surveys of areas under vines (notified under document number C(1999) 2703)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 9 September 1999</p>
+      <p n="4">amending Decisions 79/491/EEC and 80/765/EEC laying down a code and standard rules for the transcription into a machine-readable form of the data of the basic surveys and the data relating to intermediate statistical surveys of areas under vines</p>
+      <p n="5">(notified under document number C(1999) 2703)</p>
+      <p n="6">(1999/661/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Regulation (EEC) No 357/79 of 5 February 1979 on statistical surveys of areas under vines(1), last amended by Council Regulation (EC) No 2329/98(2), and in particular Article 4(2) and (4), Article 5(5) and (6) and Article 6(4) thereof,</p>
+      <p n="10">(1) Whereas Council Regulation (EEC) No 357/79 provides that the Member States shall submit to the Commission the results of the basic and intermediate surveys of areas under vines by geographical unit in the form of a schedule of tables;</p>
+      <p n="11">(2) Whereas Council Regulation (EEC) No 357/79 provides that those Member States which process the results of surveys of areas under vines electronically shall submit the results to the Commission in a machine-readable form;</p>
+      <p n="12">(3) Whereas the Commission, in Decision 79/491/EEC(3) relating to the basic surveys and Decision 80/765/EEC(4) relating to the intermediate surveys has fixed and coded the geographical units into which the results of the surveys of areas under vines shall be broken down;</p>
+      <p n="13">(4) Whereas, owing to certain changes in the geographical units within the Member States, it has proved necessary to replace Annex II of Decision 79/491/EEC and Annex II of Decision 80/765/EEC for the transmission by the Member States of the results of the basic and intermediate surveys of areas under vines;</p>
+      <p n="14">(5) Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee for Agricultural Statistics,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Owing to changes in the geographical units within the Member States, Annex II of Decision 79/491/EEC and Annex II of Decision 80/765/EEC shall be replaced by the Annex to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Decision is addressed to the Member States.</p>
+      <p n="20">Done at Brussels, 9 September 1999.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Yves-Thibault de SILGUY</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 54, 5.3.1979, p. 124.</p>
+      <p n="25">(2) OJ L 291, 30.10.1998, p. 2.</p>
+      <p n="26">(3) OJ L 129, 28.5.1979, p. 9.</p>
+      <p n="27">(4) OJ L 213, 16.8.1980, p. 34.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">"ANNEX II</p>
+      <p n="30">GEOGRAPHICAL UNITS LAID DOWN BY ARTICLE 4(3) OF COUNCIL REGULATION (EEC) No 357/79</p>
+      <p n="31">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

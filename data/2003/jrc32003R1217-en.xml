@@ -1,0 +1,150 @@
+<TEI.2 id="jrc32003R1217-en" n="32003R1217" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1217 English</title>
+        <title>Commission Regulation (EC) No 1217/2003 of 4 July 2003 laying down common specifications for national civil aviation security quality control programmes (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>114 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1217:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1217:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">4033</classCode>
+        <classCode scheme="eurovoc">4408</classCode>
+        <classCode scheme="eurovoc">6263</classCode>
+        <classCode scheme="eurovoc">6271</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1217-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1217/2003 of 4 July 2003 laying down common specifications for national civil aviation security quality control programmes (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 1217/2003</p>
+      <p n="3">of 4 July 2003</p>
+      <p n="4">laying down common specifications for national civil aviation security quality control programmes</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Regulation (EC) No 2320/2002 of the European Parliament and of the Council of 16 December 2002 establishing common rules in the field of civil aviation security(1), and in particular Article 7(1) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The development and implementation of a national civil aviation security quality control programme by each Member State is essential to ensure the effectiveness of its national civil aviation security programme in accordance with Article 5(3) of Regulation (EC) No 2320/2002.</p>
+      <p n="11">(2) Specifications for the national civil aviation security quality control programme to be implemented by the Member States should ensure a harmonised approach in this respect. Therefore a Regulation is the most suitable instrument for this purpose.</p>
+      <p n="12">(3) The monitoring of national civil aviation security quality control programmes at Community level requires a harmonised approach to the assessment of compliance at national level.</p>
+      <p n="13">(4) To be effective, audits to be undertaken under the responsibility of the appropriate authority should be carried out regularly. They should not be restricted as to the subject, stage or moment at which they are carried out. They should take the most suitable forms to ensure their effectiveness.</p>
+      <p n="14">(5) Priority should be given to the development of a detailed common methodology for audits.</p>
+      <p n="15">(6) It is necessary to develop a harmonised way of reporting on the measures taken to fulfil the obligations under this Regulation and on the aviation security situation at the airports in the territories of the Member States.</p>
+      <p n="16">(7) National civil aviation security quality control programmes should be based on best practices. Such best practices should be shared between Member States.</p>
+      <p n="17">(8) The measures provided for in this Regulation are in accordance with the opinion of the Committee for Civil Aviation Security,</p>
+      <p n="18">HAS ADOPTED THIS REGULATION:</p>
+      <p n="19">CHAPTER I OBJECTIVE AND DEFINITIONS</p>
+      <p n="20">Article 1</p>
+      <p n="21">Objective</p>
+      <p n="22">This Regulation lays down the common specifications for the national civil aviation security quality control programme to be implemented by each Member State. This includes establishing common requirements for quality control programmes, a common methodology for the audits to be undertaken and common requirements for auditors.</p>
+      <p n="23">Article 2</p>
+      <p n="24">Definitions</p>
+      <p n="25">For the purpose of this Regulation the following definitions shall apply:</p>
+      <p n="26">1. "appropriate authority" shall mean the national authority designated by a Member State pursuant to Article 5(2) of Regulation (EC) No 2320/2002 to be responsible for the coordination and monitoring of the implementation of its national civil aviation security programme;</p>
+      <p n="27">2. "audit" shall mean any procedure or process used for compliance monitoring undertaken at national level. It covers security audits, inspections, surveys, tests and investigations;</p>
+      <p n="28">3. "auditor" shall mean any person conducting audits at national level;</p>
+      <p n="29">4. "deficiency" shall mean failure to comply with aviation security requirements;</p>
+      <p n="30">5. "inspection" shall mean an examination of the implementation of one or more aspects of security measures and procedures in order to determine how effectively they are being carried out;</p>
+      <p n="31">6. "investigation" shall mean an examination of a security incident and an explanation of its cause in order to avoid recurrence and to consider legal action;</p>
+      <p n="32">7. "quality control programme" shall mean the national civil aviation security quality control programme;</p>
+      <p n="33">8. "security audit" shall mean an in-depth examination of all aspects of security measures and procedures in order to determine if they are being implemented on a continual basis and to a constant standard;</p>
+      <p n="34">9. "security incident" shall mean an occurrence with negative implications for the security and safety of persons and property;</p>
+      <p n="35">10. "survey" shall mean an evaluation of operations in order to determine security needs. This includes the identification of vulnerabilities which could be exploited to carry out an act of unlawful interference, despite the implementation of security measures and procedures, and the recommendation of compensatory protective measures commensurate with the threat to address any identified risk;</p>
+      <p n="36">11. "test" shall mean a trial of aviation security measures, where the appropriate authority introduces or simulates intent to commit an unlawful act for the purpose of examining the efficiency and implementation of existing security measures.</p>
+      <p n="37">CHAPTER II COMMON REQUIREMENTS FOR QUALITY CONTROL PROGRAMMES</p>
+      <p n="38">Article 3</p>
+      <p n="39">Powers of the appropriate authority</p>
+      <p n="40">In order to ensure the effectiveness of its national civil aviation security programme, Member States shall provide the appropriate authority with necessary enforcement powers.</p>
+      <p n="41">Article 4</p>
+      <p n="42">Content of the quality control programme</p>
+      <p n="43">1. The quality control programme shall contain all necessary quality control monitoring measures taken to assess on a regular basis the implementation of the national civil aviation security programme, including the policies on which they are based.</p>
+      <p n="44">2. The quality control programme shall include and address the following elements:</p>
+      <p n="45">(a) organisational structure, responsibilities and resources;</p>
+      <p n="46">(b) job descriptions and qualifications of all auditors responsible for carrying out the quality control programme;</p>
+      <p n="47">(c) operational monitoring activities, including types, aim, content, frequency and focus of security audits, inspections, surveys and tests as well as classification of compliance and the scope and responsibilities of investigations whenever applicable;</p>
+      <p n="48">(d) deficiency rectification activities providing details concerning deficiency reporting, follow-up and rectification in order to effectively ensure aviation security requirements compliance;</p>
+      <p n="49">(e) enforcement measures; and</p>
+      <p n="50">(f) communications and reporting of undertaken activities and the level of aviation security requirements compliance.</p>
+      <p n="51">Article 5</p>
+      <p n="52">Compliance monitoring</p>
+      <p n="53">1. The implementation of the national civil aviation security programme shall be monitored.</p>
+      <p n="54">2. Monitoring shall be undertaken in accordance with the quality control programme, taking into consideration the threat level, type and nature of the operations, standard of implementation, and other factors and assessments which will demand for more frequent monitoring.</p>
+      <p n="55">3. The management, setting of priorities and organisation of the quality control programme shall be undertaken independently from the operational implementation of the measures taken under the national civil aviation security programme.</p>
+      <p n="56">Article 6</p>
+      <p n="57">Reporting</p>
+      <p n="58">1. Member States shall annually submit a report to the Commission on the measures taken to fulfil their obligations under this Regulation and on the aviation security situation at the airports located in their territory. Guidelines for reporting are set out in Annex I.</p>
+      <p n="59">2. The reference period for the report shall be 1 January - 31 December. The report shall be due two months after completion of the reference period. Exceptionally, a report shall be submitted by the end of February 2004 for the period 19 July 2003 to 31 December 2003.</p>
+      <p n="60">CHAPTER III COMMON METHODOLOGY FOR AUDITS</p>
+      <p n="61">Article 7</p>
+      <p n="62">Conduct of audits</p>
+      <p n="63">Compliance monitoring activities shall include both announced and unannounced activities.</p>
+      <p n="64">Article 8</p>
+      <p n="65">Classification of compliance</p>
+      <p n="66">Security audits, inspections and tests shall assess the implementation of the national civil aviation security programme using the harmonised classification system of compliance set out in Annex II.</p>
+      <p n="67">CHAPTER IV COMMON REQUIREMENTS FOR AUDITORS</p>
+      <p n="68">Article 9</p>
+      <p n="69">Availability of auditors</p>
+      <p n="70">Each Member State shall take the appropriate steps to ensure that a sufficient number of auditors are available for performing all compliance monitoring activities.</p>
+      <p n="71">Article 10</p>
+      <p n="72">Qualification criteria for auditors</p>
+      <p n="73">1. Each Member State shall ensure that auditors performing functions on behalf of the appropriate authority shall have appropriate qualifications, which shall include sufficient theoretical and practical experience in the relevant field.</p>
+      <p n="74">2. The auditors shall have:</p>
+      <p n="75">(a) a good understanding of the national civil aviation security programme and how it is applied to the operations being examined;</p>
+      <p n="76">(b) where appropriate, knowledge of the more stringent measures as applicable in the Member State concerned and the location being examined;</p>
+      <p n="77">(c) a good working knowledge of security technologies and techniques;</p>
+      <p n="78">(d) a knowledge of audit principles, procedures and techniques;</p>
+      <p n="79">(e) a working knowledge of the operations being examined.</p>
+      <p n="80">CHAPTER V COMMON PROVISIONS</p>
+      <p n="81">Article 11</p>
+      <p n="82">Sharing of best practices</p>
+      <p n="83">Member States shall inform the Commission of best practices with regard to quality control programmes, audit methodologies and auditors. The Commission shall share this information with the Member States.</p>
+      <p n="84">Article 12</p>
+      <p n="85">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="86">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="87">Done at Brussels, 4 July 2003.</p>
+      <p n="88">For the Commission</p>
+      <p n="89">Loyola De Palacio</p>
+      <p n="90">Vice-President</p>
+      <p n="91">(1) OJ L 355, 30.12.2002, p. 1.</p>
+      <p n="92">ANNEX I</p>
+      <p n="93">GUIDELINES FOR REPORTING TO THE COMMISSION</p>
+      <p n="94">Organisational structure, responsibilities and resources</p>
+      <p n="95">- Modalities of the quality control organisation, responsibilities and resources, including planned future amendments (see Article 4(2)(a))</p>
+      <p n="96">- Number of auditors - present and planned (see Article 9)</p>
+      <p n="97">- Qualification of auditors - training facilities used and resources (see Articles 4(2)(b) and 10)</p>
+      <p n="98">- Explanation if the quality control programme for this part is not being applied in full.</p>
+      <p n="99">Operational monitoring activities</p>
+      <p n="100">- Status of the implementation of the operational activities: types, aim, content, frequency and focus of all monitoring activities (see Article 4(2)(c)), including number of audits per airport and per area of security measure requirements (e.g. access control, aircraft protection, hold baggage screening) where appropriate and possible</p>
+      <p n="101">- Proportionality of operational monitoring activities in relation to field activities (see Article 5(2))</p>
+      <p n="102">- Level of compliance per area of aviation security requirements (e.g. access control, aircraft protection, hold baggage screening) (see Article 8)</p>
+      <p n="103">- Explanation if the operational activities are not being applied in full.</p>
+      <p n="104">Deficiency rectification activities</p>
+      <p n="105">- Status of the implementation of the deficiency rectification activities (see Article 4(2)(d))</p>
+      <p n="106">- Main areas of concern with regard to the implementation of aviation security requirements (e.g. access control, aircraft protection, hold baggage screening)</p>
+      <p n="107">- Main activities undertaken or planned aimed at rectification (e.g. security awareness trainings, workshops, incentive programmes)</p>
+      <p n="108">- Enforcement measures used (see Article 4(2)(e)).</p>
+      <p n="109">Aviation security situation at airports</p>
+      <p n="110">- General context of the aviation security situation at the airports in the Member State.</p>
+      <p n="111">ANNEX II</p>
+      <p n="112">Harmonised classification system of compliance</p>
+      <p n="113">The following classification of compliance shall apply to assess the implementation of the national civil aviation security programme.</p>
+      <p n="114">&gt;PIC FILE= "L_2003169EN.004802.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

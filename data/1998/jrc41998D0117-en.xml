@@ -1,0 +1,47 @@
+<TEI.2 id="jrc41998D0117-en" n="41998D0117" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41998D0117 English</title>
+        <title>The Schengen acquis - Decision of the Central Group of 27 October 1998 on the adoption of measures to fight illegal immigration (SCH/C (98) 117)</title>
+      </titleStmt>
+      <extent>12 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0117:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0117:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">185</classCode>
+        <classCode scheme="eurovoc">1915</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41998D0117-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Central Group of 27 October 1998 on the adoption of measures to fight illegal immigration (SCH/C (98) 117)</head>
+      <p n="2">DECISION OF THE CENTRAL GROUP</p>
+      <p n="3">of 27 October 1998</p>
+      <p n="4">on the adoption of measures to fight illegal immigration</p>
+      <p n="5">(SCH/C (98)117)</p>
+      <p n="6">THE CENTRAL GROUP,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement in conjunction with the Executive Committee Decision of 16 September 1998,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">The revised and finalised version of the action plan annexed hereto concerning measures to combat illegal immigration (SCH/Com-ex (98) 37def.) shall be brought into force pursuant to the mandate from the Executive Committee of 16 September 1998.</p>
+      <p n="10">Brussels, 27 October 1998.</p>
+      <p n="11">The Chairman</p>
+      <p n="12">B. Schattenberg</p>
+    </body>
+  </text>
+</TEI.2>

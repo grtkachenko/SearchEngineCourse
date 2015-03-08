@@ -1,0 +1,132 @@
+<TEI.2 id="jrc31985L0146-en" n="31985L0146" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31985L0146 English</title>
+        <title>Commission Directive 85/146/EEC of 31 January 1985 adapting to technical progress Council Directive 73/362/EEC on the approximation of the laws of the Member States relating to material measures of length</title>
+      </titleStmt>
+      <extent>105 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985L0146:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985L0146:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31985L0146-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 85/146/EEC of 31 January 1985 adapting to technical progress Council Directive 73/362/EEC on the approximation of the laws of the Member States relating to material measures of length</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION DIRECTIVE</p>
+      <p n="4">of 31 January 1985</p>
+      <p n="5">adapting to technical progress Council Directive 73/362/EEC on the approximation of the laws of the Member States relating to material measures of length</p>
+      <p n="6">(85/146/EEC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN</p>
+      <p n="8">COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="10">Having regard to Council Directive 71/316/EEC of 26 July 1971 on the approximation of the laws of the Member States relating to common provisions for both measuring instruments and methods of metrological control (1), as last amended by Directive 83/575/EEC (2), and in particular Article 17 thereof,</p>
+      <p n="11">Whereas Council Directive 73/362/EEC (3), as amended by Directive 78/629/EEC (4), should be amended to take account of technical developments in the field concerned;</p>
+      <p n="12">Whereas the framework Directive 71/316/EEC has been adapted to technical progress in the manufacture of measuring instruments and accordingly permits statistical checks to be carried out for the purposes of EEC initial verification in accordance with the procedure laid down in the separate Directives; whereas, therefore, certain additions have to be made to the Annex to the specific Directive 73/362/EEC in order to determine the procedure for those checks;</p>
+      <p n="13">Whereas, pursuant to those additions, it is necessary to state more specifically the conditions for the granting of EEC pattern approval and initial verification relating to material measures of length;</p>
+      <p n="14">Whereas the provisions of this Directive are in accordance with the opinion of the Commission on the adaptation to technical progress of the Directives for the removal of technical barriers to trade in measuring instruments,</p>
+      <p n="15">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="16">Article 1</p>
+      <p n="17">In the Annex to Directive 73/362/EEC:</p>
+      <p n="18">1. Points 2.1, 7, 7.1, 7.4 and 8 are hereby amended in accordance with the corresponding points in the Annex hereto.</p>
+      <p n="19">2. Points 10, 11 and 12 in the Annex hereto are hereby added.</p>
+      <p n="20">Article 2</p>
+      <p n="21">Member States shall bring into force the laws, regulations and administrative provisions needed in order to comply with this Directive on 1 January 1986. They shall forthwith inform the Commission thereof.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Directive is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 31 January 1985.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">COCKFIELD</p>
+      <p n="27">Vice-President</p>
+      <p n="28">(1) OJ No L 202, 6. 9. 1971, p. 1.</p>
+      <p n="29">(2) OJ No L 332, 28. 11. 1983, p. 43.</p>
+      <p n="30">(3) OJ No L 335, 5. 12. 1973, p. 56.</p>
+      <p n="31">(4) OJ No L 206, 29. 7. 1978, p. 8.</p>
+      <p n="32">ANNEX</p>
+      <p n="33">2.1. In normal use at temperatures 8 °C above or below the reference temperature, variations in length are not greater than the maximum permissible errors.</p>
+      <p n="34">7. Maximum permissible errors</p>
+      <p n="35">The measures of length defined in this Directive shall be divided into three classes, designated I, II and III, according to their degree of precision.</p>
+      <p n="36">7.1. The maximum permissible positive or negative error,</p>
+      <p n="37">(a) on the nominal length, or</p>
+      <p n="38">(b) on any other distance between any two non-consecutive scale marks,</p>
+      <p n="39">shall be expressed in millimetres as a function of the length in question by the formula (a + bL), in which:</p>
+      <p n="40">- L is the length in question, rounded up to the next whole metre above,</p>
+      <p n="41">- a and b are coefficients fixed for each precision class according to the following table:</p>
+      <p n="42">1.2.3 // // // // Precision class // a // b // // // // I // 0,1 // 0,1 // II // 0,3 // 0,2 // III // 0,6 // 0,4 // // //</p>
+      <p n="43">7.4. The maximum permissible error in service shall be equal to twice the maximum permissible error in the EEC initial verification.</p>
+      <p n="44">8. EEC initial verification marks</p>
+      <p n="45">8.1. A place must be provided near the beginning of the measure of length itself or on an additional fixture to permit the EEC initial verification marks to be affixed.</p>
+      <p n="46">8.2. The marks must be affixed in accordance with the provisions of point 3.1 in Annex II to Council Directive 71/316/EEC of 26 July 1971, as last amended by Council Directive 83/575/EEC of 25 October 1983.</p>
+      <p n="47">8.3. However, by derogations from point 3.1, the EEC initial verification mark may consist of the lower-case letter 'e' in a hexagon, the letter 'e' containing in its upper half the upper-case letter or letters identifying the Member State in which the EEC initial verification took place and in its lower half the year of verification. An example of the mark is shown at point 12.</p>
+      <p n="48">8.4. The choice of one or the other form of mark is left to the discretion of the department responsible for EEC initial verification.</p>
+      <p n="49">10. EEC pattern approval and EEC initial verification</p>
+      <p n="50">EEC pattern approval and EEC initial verification of material measures of length shall be carried out in accordance with the procedure laid down in Directive 71/316/EEC.</p>
+      <p n="51">10.1. EEC pattern-approval examination</p>
+      <p n="52">Apart from the study documents, the examination shall consist of a check to ensure that the pattern submitted is in conformity with points 2, 3, 4, 5, 6 (except for point 6.4), 7, 8 and 9.</p>
+      <p n="53">10.2. EEC initial verification checks</p>
+      <p n="54">10.2.1. The EEC initial verification checks shall be carried out either on all the measures of length submitted or on lots composed of measures in accordance with point 11.</p>
+      <p n="55">10.2.2. The EEC initial verification checks shall consist of a visual inspection of the measure of length to ensure its conformity with the approved pattern; this concerns in particular the provisions of points 3.6, 4.1 and 4.3. 10.2.3. It also has to be verified that the measure of length complies with the requirements concerning the maximum permissible errors for the nominal length with due regard, where appropriate, to the provisions of point 9.5.</p>
+      <p n="56">10.2.4. In addition, at five different places randomly distributed over the measure of length, a check shall be made of:</p>
+      <p n="57">- the distance between two non-consecutive scale marks,</p>
+      <p n="58">- the length of the interval,</p>
+      <p n="59">- the difference between the length of two consecutive intervals,</p>
+      <p n="60">in order to verify their compliance with the provisions of points 7.1 (b), 7.2.1 and 7.2.2, with due regard, where appropriate, to the provisions of points 7.3 and 9.3.</p>
+      <p n="61">Where the results of the inspection justify, the competent department may reduce or increase the number of checks.</p>
+      <p n="62">10.2.5. All the checks mentioned above shall be carried out under the reference conditions specified at point 7.5.</p>
+      <p n="63">11. Statistical check applied as an EEC initial verification check</p>
+      <p n="64">When the measures of length are manufactured in series and the person responsible for submitting them for EEC initial verification states that they have already been adequately inspected, at his request the lots submitted shall undergo a statistical check by attributes under the following conditions.</p>
+      <p n="65">11.1. General</p>
+      <p n="66">11.1.1. Lot</p>
+      <p n="67">Lots are made up of measures of length which:</p>
+      <p n="68">- are of the same pattern,</p>
+      <p n="69">- belong to the same precision class,</p>
+      <p n="70">- are manufactured by the same process.</p>
+      <p n="71">The size of the lot is the number of measures of length it contains. The maximum lot size for EEC initial verification is 10 000 units.</p>
+      <p n="72">11.1.2. Sample</p>
+      <p n="73">A sample is made up of measures of length selected at random from a lot. The number of measures of length in the sample is termed the sample size.</p>
+      <p n="74">11.1.3. Statistical check by attributes</p>
+      <p n="75">A statistical check by attributes is an inspection in which the measures of length in the sample are classed as defective or not defective in accordance with the provisions of this Directive.</p>
+      <p n="76">11.1.4. Limiting quality level (LQ 5)</p>
+      <p n="77">The limiting quality is the quality level of the lot submitted that corresponds in a sampling plan to a 5 % probability of acceptance.</p>
+      <p n="78">11.1.5. Acceptable quality level (SQL)</p>
+      <p n="79">The standard quality level is the quality level of the lot submitted that corresponds in a sampling plan to a 95 % probability of acceptance.</p>
+      <p n="80">11.1.6. Acceptance number</p>
+      <p n="81">In a statistical check by attributes, the acceptance number is the greatest number of defective measures found in the sample inspected which, if attained, still entails acceptance of the lot under examination.</p>
+      <p n="82">11.1.7. Rejection number</p>
+      <p n="83">In a statistical check by attributes, the rejection number is the number of defective measures found in the sample inspected which, if exceeded, entails rejection of the lot under examination.</p>
+      <p n="84">11.1.8. Simple sampling plan</p>
+      <p n="85">The number of individual measures inspected must be equal to the size of the sample as specified by the plan. If the number of defective measures found in the sample is less than or equal to the acceptance number, the lot must be accepted. If the number of defective measures is greater than or equal to the rejection number, the lot must be rejected. 11.1.9. Double sampling plan</p>
+      <p n="86">The number of individual measures inspected must be equal to the size of the first sample as specified by the plan. If the number of defective measures found in the first sample is less than or equal to the first acceptance number, the lot must be accepted. If the number of defective measures found in the first sample is equal to or greater than the first rejection number, the lot must be rejected. If the number of defective measures found in the first sample falls between the first acceptance number and the first rejection number, a second sample must be inspected whose size is specified by the plan. The numbers of defective measures found in the first and second samples must then be added together. If the total number of defective measures is less than or equal to the second acceptance number, the lot must be accepted. If the total number of defective measures is greater than or equal to the second rejection number, the lot must be rejected.</p>
+      <p n="87">11.2. Inspection procedures</p>
+      <p n="88">One of the two inspection methods described below must be used, the choice being left to the body responsible.</p>
+      <p n="89">The first method, hereinafter called method 'A', involves single submission schemes, whilst the second, method 'B', involves a multiple submission scheme. The check consists in counting the number of defective measures in the sample taken.</p>
+      <p n="90">11.2.1. If method 'A' is chosen, the body responsible applies, for acceptance or rejection of the lot submitted, a sampling plan with the following characteristics:</p>
+      <p n="91">- a standard quality level (SQL) between 0,40 and 0,90 %,</p>
+      <p n="92">- a limiting quality (LQ 5) between 4,0 and 6,5 %.</p>
+      <p n="93">Examples of sampling plans:</p>
+      <p n="94">Single sampling plan</p>
+      <p n="95">1.2.3.4.5.6 // // // // // // // // Sample size // Acceptance number // Rejection number // LQ 5 // SQL // // // // // // // a // 80 // 1 // 2 // 5,8 // 0,44 // // // // // // // b // 125 // 2 // 3 // 5,0 // 0,65 // // // // // //</p>
+      <p n="96">Double sampling plan</p>
+      <p n="97">1.2.3.4.5.6.7.8 // // // // // // // // // // // Sample size // Total size // Acceptance number // Rejection number // LQ 5 // SQL // // // // // // // // // a // First sample // 50 // 50 // 0 // 2 // 5,8 // 0,44 // // Second sample // 50 // 100 // 1 // 2 // // // // // // // // // // // b // First sample // 80 // 80 // 0 // 3 // 5,0 // 0,65 // // Second sample // 80 // 160 // 3 // 4 // // // // // // // // // //</p>
+      <p n="98">If a lot is rejected, the body responsible carries out a 100 % inspection of that lot or takes the necessary precautions to prevent the rejected lot from being marketed in that condition.</p>
+      <p n="99">11.2.2. If the method 'B' is used, the body responsible applies, for acceptance or rejection of the lot submitted, sampling plans in accordance with the following table: Sampling plans</p>
+      <p n="100">1.2.3.4 // // // // // Order of submission // Size // Acceptance number // Rejection number // // // // // 1 // 70 // 0 // 1 // 2 // 85 // 0 // 1 // 3 // 105 // 0 // 1 // 4 // 120 // 0 // 1 // // // //</p>
+      <p n="101">After a lot has been accepted, the lot submitted next shall be subjected to the inspection appearing under No 1 in the order of submission.</p>
+      <p n="102">After a lot has been rejected, the body responsible takes the necessary precautions to prevent the rejected lot from being marketed in that condition and the person responsible for submiting the measures for EEC initial verification may submit either the same lot or another one. The lot is then subjected to the inspection appearing immediately above in the order of submission. However, if the lot is not accepted after an inspection under No 4 in the order of submission, the body responsible must carry out a 100 % inspection of the lot</p>
+      <p n="103">11.3. Consequences of frequent rejection of lots</p>
+      <p n="104">In the event of frequent rejection of lots, the body responsible may suspend the statistical check. If no improvement of the quality level is found once the shortcoming has been brought to the attention of the holder of the EEC pattern approval, the procedure for revoking EEC pattern approval in accordance with Article 7 of Directive 71/316/EEC may be started.</p>
+      <p n="105">12. Example of the EEC initial verification mark described in point 8.3:</p>
+    </body>
+  </text>
+</TEI.2>

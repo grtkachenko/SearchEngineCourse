@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31997D0820-en" n="31997D0820" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0820 English</title>
+        <title>97/820/CFSP: Council Decision of 28 November 1997 on the implementation of Common Position 95/544/CFSP on Nigeria</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0820:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0820:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">185</classCode>
+        <classCode scheme="eurovoc">2058</classCode>
+        <classCode scheme="eurovoc">4065</classCode>
+        <classCode scheme="eurovoc">5525</classCode>
+        <classCode scheme="eurovoc">5723</classCode>
+        <classCode scheme="eurovoc">584</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0820-en." lang="en">
+    <body>
+      <head n="1">97/820/CFSP: Council Decision of 28 November 1997 on the implementation of Common Position 95/544/CFSP on Nigeria</head>
+      <p n="2">COUNCIL DECISION of 28 November 1997 on the implementation of Common Position 95/544/CFSP on Nigeria (97/820/CFSP)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty on European Union, and in particular Article J.2 thereof,</p>
+      <p n="5">Whereas on 4 December 1995 the Council defined, on the basis of Article J.2 of the Treaty on European Union, Common Position 95/544/CFSP on Nigeria (1);</p>
+      <p n="6">Whereas Common Position 95/544/CFSP was extended until 1 November 1998 by Council Decision 97/821/CFSP (2);</p>
+      <p n="7">Whereas certain guidelines should be provided for the implementation of the aforementioned common position,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">1. The Member States of the Union may grant visas to any Nigerian nationals participating in an international conference in their territory, in particular for meetings in the framework of the Fourth ACP-EC Convention, signed at Lomé on 15 December 1989.</p>
+      <p n="11">2. The Member States, desirous of honouring their international undertakings, may allow exceptions to paragraph 1 of Common Position 95/544/CFSP:</p>
+      <p n="12">- pursuant to the provisions of a headquarters agreement,</p>
+      <p n="13">- in order to follow up undertakings already into prior to the adoption of the common position in 1995, particularly in respect of sporting events organized by international sports federations, that is to say the 1998 Football World Cup and matches already organized in preparation therefor, and also the 1998 World Basketball Championship.</p>
+      <p n="14">The Member States shall inform the sports federations of the provisions of this Decision.</p>
+      <p n="15">3. Exceptions to paragraph 1 of Common Position 95/544/CFSP may also be allowed on urgent humanitarian grounds.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Visas shall be granted on an individual basis only, following prior notification to all Member States.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Decision shall be published in the Official Journal.</p>
+      <p n="20">Done at Brussels, 28 November 1997.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">G. WOHLFART</p>
+      <p n="24">(1) OJ L 309, 21. 12. 1995, p. 1.</p>
+      <p n="25">(2) See page 8 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

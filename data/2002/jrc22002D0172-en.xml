@@ -1,0 +1,66 @@
+<TEI.2 id="jrc22002D0172-en" n="22002D0172" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22002D0172 English</title>
+        <title>Decision of the EEA Joint Committee No 172/2002 of 6 December 2002 amending Annex XVIII (Health and safety at work, labour law, and equal treatment for men and women) to the EEA Agreement</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22002D0172:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22002D0172:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1424</classCode>
+        <classCode scheme="eurovoc">157</classCode>
+        <classCode scheme="eurovoc">1647</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">4492</classCode>
+        <classCode scheme="eurovoc">5136</classCode>
+        <classCode scheme="eurovoc">557</classCode>
+        <classCode scheme="eurovoc">5587</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22002D0172-en." lang="en">
+    <body>
+      <head n="1">Decision of the EEA Joint Committee No 172/2002 of 6 December 2002 amending Annex XVIII (Health and safety at work, labour law, and equal treatment for men and women) to the EEA Agreement</head>
+      <p n="2">Decision of the EEA Joint Committee</p>
+      <p n="3">No 172/2002</p>
+      <p n="4">of 6 December 2002</p>
+      <p n="5">amending Annex XVIII (Health and safety at work, labour law, and equal treatment for men and women) to the EEA Agreement</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as amended by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Annex XVIII to the Agreement was amended by Decision of the EEA Joint Committee No 89/2002 of 25 June 2002(1).</p>
+      <p n="10">(2) Directive 2002/14/EC of the European Parliament and of the Council of 11 March 2002 establishing a general framework for informing and consulting employees in the European Community(2) is to be incorporated into the Agreement,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The following point shall be inserted after point 32e (Council Directive 2001/86/EC) of Annex XVIII to the Agreement:</p>
+      <p n="14">"32f. 32002 L 0014: Directive 2002/14/EC of the European Parliament and of the Council of 11 March 2002 establishing a general framework for informing and consulting employees in the European Community (OJ L 80, 23.3.2002, p. 29)."</p>
+      <p n="15">Article 2</p>
+      <p n="16">The text of Directive 2002/14/EC in the Icelandic and Norwegian languages, to be published in the EEA Supplement to the Official Journal of the European Communities, shall be authentic.</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Decision shall enter into force on 7 December 2002, provided that all the notifications under Article 103(1) of the Agreement have been made to the EEA Joint Committee(3).</p>
+      <p n="19">Article 4</p>
+      <p n="20">This Decision shall be published in the EEA section of, and in the EEA Supplement to, the Official Journal of the European Union.</p>
+      <p n="21">Done at Brussels, 6 December 2002.</p>
+      <p n="22">For the EEA Joint Committee</p>
+      <p n="23">The President</p>
+      <p n="24">Kjartan Jóhannsson</p>
+      <p n="25">(1) OJ L 266, 3.10.2002, p. 61.</p>
+      <p n="26">(2) OJ L 80, 23.3.2002, p. 29.</p>
+      <p n="27">(3) Constitutional requirements indicated.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32001R0544-en" n="32001R0544" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R0544 English</title>
+        <title>Commission Regulation (EC) No 544/2001 of 20 March 2001 laying down rules for the application of Council Regulation (EC) No 2200/96 as regards additional financial assistance to operational funds</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0544:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0544:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1115</classCode>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">1602</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">922</classCode>
+        <classCode scheme="eurovoc">979</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R0544-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 544/2001 of 20 March 2001 laying down rules for the application of Council Regulation (EC) No 2200/96 as regards additional financial assistance to operational funds</head>
+      <p n="2">Commission Regulation (EC) No 544/2001</p>
+      <p n="3">of 20 March 2001</p>
+      <p n="4">laying down rules for the application of Council Regulation (EC) No 2200/96 as regards additional financial assistance to operational funds</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Regulation (EC) No 2826/2000(2), and in particular Article 48 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 15(6) of Regulation (EC) No 2200/96 provides for Member States to be authorised to pay producer organisations national financial assistance in addition to the operational fund. Member States may request partial reimbursement by the Community of this additional assistance.</p>
+      <p n="10">(2) The way that aid is to be financed, as set out in Article 52 of Regulation (EC) No 2200/96, was amended with effect on 1 January 2000 by Council Regulation (EC) No 1257/1999 of 17 May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations(3). That aid is to be regarded in future as intervention intended to stabilise the agricultural market within the meaning of Article 1(2)(b) of Council Regulation (EC) No 1258/1999 of 17 May 1999 on the financing of the common agricultural policy(4).</p>
+      <p n="11">(3) Under the circumstances, detailed rules should be laid down to bring the way of financing into line with this new situation. The provisions should relate in particular to setting the level of Community assistance available at a comparative level to that previously available via the Community support framework.</p>
+      <p n="12">(4) As the provision of Article 56 of Regulation (EC) No 1257/1999 has been applied as from 1 January 2000, it is appropriate to apply the provisions of this Regulation to assistance paid for annual periods starting from said date.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Expenditure referred to in the second subparagraph of Article 15(6) of Regulation (EC) No 2200/96 is financed by EAGGF Guarantee at a level of 50 % of the financial assistance granted to the producer organisation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">It shall apply to aid paid in respect of annual periods commencing after 1 January 2000.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 20 March 2001.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="26">(2) OJ L 328, 23.12.2000, p. 2.</p>
+      <p n="27">(3) OJ L 160, 26.6.1999, p. 80.</p>
+      <p n="28">(4) OJ L 160, 26.6.1999, p. 103.</p>
+    </body>
+  </text>
+</TEI.2>

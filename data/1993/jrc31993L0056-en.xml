@@ -1,0 +1,53 @@
+<TEI.2 id="jrc31993L0056-en" n="31993L0056" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993L0056 English</title>
+        <title>Commission Directive 93/56/EEC of 29 June 1993 amending Council Directive 82/471/EEC concerning certain products used in animal nutrition</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993L0056:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993L0056:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993L0056-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 93/56/EEC of 29 June 1993 amending Council Directive 82/471/EEC concerning certain products used in animal nutrition</head>
+      <p n="2">COMMISSION DIRECTIVE 93/56/EEC of 29 June 1993 amending Council Directive 82/471/EEC concerning certain products used in animal nutrition</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 82/471/EEC of 30 June 1982 concerning certain products used in animal nutrition (1), as last amended by Commission Directive 93/26/EEC (2), and in particular Article 6 thereof,</p>
+      <p n="6">Whereas Directive 82/471/EEC provides for the content of the Annexes to be regularly adapted to take account of advances in scientific and technical knowledge;</p>
+      <p n="7">Whereas the study of the non-protein nitrogenous compound 'ammonium sulfate' and of hydroxyanalogue of methionine and its calcium salt has permitted a beneficial effect in ruminants to be established; whereas authorization for the use of the products in question should therefore be extended to this category of animal;</p>
+      <p n="8">Whereas the measures provided for in this Directive are in accordance with the Standing Committee on Feedingstuffs,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Annex to Directive 82/471/EEC is hereby amended as set out in the Annex to this Directive.</p>
+      <p n="12">Article 2</p>
+      <p n="13">Member States shall bring into force the laws, regulations or administrative provisions necessary to comply with Article 1 by 30 June 1994 at the latest. They shall immediately inform the Commission thereof.</p>
+      <p n="14">When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Directive is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 29 June 1993.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">René STEICHEN</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 213, 21. 7. 1982, p. 8.</p>
+      <p n="22">(2) OJ No L 179, 22. 7. 1993, p. 2.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">1. In group 2, 'Non-protein nitrogenous compounds', under point 2.2, 'Ammonium salts', the following product is added:</p>
+      <p n="25">/* Tables: see OJ */</p>
+      <p n="26">'Hydroxy analogue of methionine' and 4.1.2, 'Calcium salt of hydroxyanalogue of methionine'.</p>
+    </body>
+  </text>
+</TEI.2>

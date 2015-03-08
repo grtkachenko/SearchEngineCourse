@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32003R2322-en" n="32003R2322" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2322 English</title>
+        <title>Council Regulation (EC) No 2322/2003 of 17 December 2003 derogating from Regulation (EC) No 1251/1999 as regards the set-aside requirement for the 2004/05 marketing year</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2322:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2322:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1144</classCode>
+        <classCode scheme="eurovoc">3988</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+        <classCode scheme="eurovoc">755</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2322-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2322/2003 of 17 December 2003 derogating from Regulation (EC) No 1251/1999 as regards the set-aside requirement for the 2004/05 marketing year</head>
+      <p n="2">Council Regulation (EC) No 2322/2003</p>
+      <p n="3">of 17 December 2003</p>
+      <p n="4">derogating from Regulation (EC) No 1251/1999 as regards the set-aside requirement for the 2004/05 marketing year</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Articles 36 and 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to the opinion of the European Parliament,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The support system for producers of certain arable crops introduced by Regulation (EC) No 1251/1999(1), provides that, in order to qualify for area payments, producers are to set aside a certain proportion of their arable land.</p>
+      <p n="11">(2) The cereals market in the Community during the 2003/04 marketing year is characterised by low production due to severe drought in main production regions of the Community. This situation is expected to cause a significant reduction in closing stocks for 2003/04 on the Community market. A normal 2004 harvest would not be expected to lead to a significant increase in stocks. A poor harvest would expose the internal market to potentially serious risks.</p>
+      <p n="12">(3) For the 2004/05 marketing year, the rate for set-aside should therefore be fixed at a lower level than that set out in the second subparagraph of Article 6(1) of Regulation (EC) No 1251/1999,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">By way of derogation from the second subparagraph of Article 6(1) of Regulation (EC) No 1251/1999, the basic rate of compulsory set-aside shall be 5 % for the 2004/05 marketing year.</p>
+      <p n="16">Article 2</p>
+      <p n="17">1. This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="18">2. It shall apply to set-aside for the 2004/05 marketing year.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 17 December 2003.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">G. Alemanno</p>
+      <p n="24">(1) OJ L 160, 26.6.1999, p. 1. Regulation last amended by Regulation (EC) No 1782/2003 (OJ L 270, 21.10.2003, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

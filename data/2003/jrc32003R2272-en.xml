@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32003R2272-en" n="32003R2272" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2272 English</title>
+        <title>Commission Regulation (EC) No 2272/2003 of 22 December 2003 opening a tariff quota for the year 2004 for imports into the European Community of certain goods from Turkey</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2272:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2272:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2274</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">4580</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2272-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2272/2003 of 22 December 2003 opening a tariff quota for the year 2004 for imports into the European Community of certain goods from Turkey</head>
+      <p n="2">Commission Regulation (EC) No 2272/2003</p>
+      <p n="3">of 22 December 2003</p>
+      <p n="4">opening a tariff quota for the year 2004 for imports into the European Community of certain goods from Turkey</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 3448/93 of 6 December 1993 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products(1), as last amended by Regulation (EC) No 2580/2000(2) and, in particular, Article 7(2) thereof,</p>
+      <p n="8">Having regard to Decision No 1/97 of the EC-Turkey Association Council of 29 April 1997 on the arrangements applicable to certain processed agricultural products(3) and, in particular, Article 1 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Decision No 1/97 of the EC-Turkey Association Council establishes, in order to encourage the development of trade in accordance with the objectives of the Customs Union, an annual quota in terms of value in respect of certain pasta products imported into the Community from Turkey. This quota should be opened for 2004 and the admission to its benefit should be subject to the A.TR movement certificate provided for in Decision No 1/2001 of the EC-Turkey Customs Cooperation Committee of 28 March 2001 amending Decision No 1/96 laying down detailed rules for the application of Decision No 1/95 of the EC-Turkey Association Council(4).</p>
+      <p n="11">(2) Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Common Customs Code(5), as last amended by Regulation (EC) No 1335/2003(6), lays down rules for the management of tariff quotas. It is appropriate to provide that the tariff quota opened by this Regulation is to be managed in accordance with those rules.</p>
+      <p n="12">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for horizontal questions concerning trade in processed agricultural products not listed in Annex I,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Community tariff quota specified in the Annex shall be open from 1 January to 31 December 2004 for the goods imported from Turkey mentioned in that Annex.</p>
+      <p n="16">Admission to the benefit of this tariff quota shall be subject to the presentation of an A.TR movement certificate in accordance with Decision No 1/2001 of the EC-Turkey Customs Cooperation Committee.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The Community tariff quota referred to in Article 1 shall be managed by the Commission in accordance with Articles 308a, 308b and 308c of Regulation (EEC) No 2454/93.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="21">It shall be applicable from 1 January 2004.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 22 December 2003.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Erkki Liikanen</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 318, 20.12.1993, p. 18.</p>
+      <p n="28">(2) OJ L 298, 25.11.2000, p. 5.</p>
+      <p n="29">(3) OJ L 126, 17.5.1997, p. 26.</p>
+      <p n="30">(4) OJ L 98, 7.4.2001, p. 31.</p>
+      <p n="31">(5) OJ L 253, 11.10.1993, p. 1.</p>
+      <p n="32">(6) OJ L 187, 26.7.2003, p. 16.</p>
+      <p n="33">ANNEX</p>
+      <p n="34">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

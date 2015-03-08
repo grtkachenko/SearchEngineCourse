@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32000E0696-en" n="32000E0696" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000E0696 English</title>
+        <title>Council Common Position of 10 November 2000 on the maintenance of specific restrictive measures directed against Mr Milosevic and persons associated with him</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000E0696:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000E0696:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1939</classCode>
+        <classCode scheme="eurovoc">3483</classCode>
+        <classCode scheme="eurovoc">3588</classCode>
+        <classCode scheme="eurovoc">5796</classCode>
+        <classCode scheme="eurovoc">5805</classCode>
+        <classCode scheme="eurovoc">5931</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000E0696-en." lang="en">
+    <body>
+      <head n="1">Council Common Position of 10 November 2000 on the maintenance of specific restrictive measures directed against Mr Milosevic and persons associated with him</head>
+      <p n="2">Council Common Position</p>
+      <p n="3">of 10 November 2000</p>
+      <p n="4">on the maintenance of specific restrictive measures directed against Mr Milosevic and persons associated with him</p>
+      <p n="5">(2000/696/CFSP)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty on European Union, and in particular Article 15 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In the Declaration which it adopted in Luxembourg on 9 October 2000 the Council indicated that the Union had decided to lift all the sanctions against the FRY since 1998 with the exception of the provisions directed against the former President of the FRY, Mr Slobodan Milosevic and persons associated with him as they continue to represent a threat to the consolidation of democracy in the FRY.</p>
+      <p n="10">(2) Article 3 of Common Position 2000/599/CFSP(1) stipulates that Common Positions 1998/240/CFSP(2), with the exception of Articles 1 and 2 thereof, 1998/326/CFSP(3), 1998/374/CFSP(4) and 1999/318/CFSP(5) will be revised in order to maintain only those restrictive provisions directed against Mr Milosevic and the natural persons associated with him.</p>
+      <p n="11">(3) For reasons of transparency and clarity, the provisions relating to Mr Milosevic and the natural persons associated with him should be incorporated into a single text.</p>
+      <p n="12">(4) Community level action is necessary in order to apply some of the measures listed below,</p>
+      <p n="13">HAS ADOPTED THIS COMMON POSITION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">1. The ban on the issue of visas referred to in Article 4 of Common Position 1998/240/CFSP, Article 1 of Common Position 1998/725/CFSP(6) and Article 1 of Common Position 1999/318/CFSP shall be confined to the former President of the FRY, Mr Slobodan Milosevic and the natural persons associated with him.</p>
+      <p n="16">2. The list of persons identified or falling within the scope of paragraph 1 shall be drawn up and updated by means of a Council implementing decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The freezing of funds held abroad referred to in Article 1 of Common Position 1998/326/CFSP and Article 2 of Common Position 1999/318/CFSP shall be confined to Mr Milosevic and the natural persons associated with him.</p>
+      <p n="19">Article 3</p>
+      <p n="20">Common Position 1998/374/CFSP, Article 3 of Common Position 1998/240/CFSP as well as Articles 3 and 5 of Common Position 1999/318/CFSP shall be repealed.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Common Position shall take effect on the day of its adoption.</p>
+      <p n="23">Article 5</p>
+      <p n="24">This Common Position shall be published in the Official Journal.</p>
+      <p n="25">Done at Brussels, 10 November 2000.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">C. Josselin</p>
+      <p n="29">(1) OJ L 255, 9.10.2000, p. 1.</p>
+      <p n="30">(2) OJ L 95, 27.3.1998, p. 1.</p>
+      <p n="31">(3) OJ L 143, 14.5.1998, p. 1.</p>
+      <p n="32">(4) OJ L 165, 10.6.1998, p. 1.</p>
+      <p n="33">(5) OJ L 123, 13.5.1999, p. 1. Common Position as last amended and supplemented by Common Position 2000/56/CFSP (OJ L 21, 26.1.2000, p. 4).</p>
+      <p n="34">(6) OJ L 345, 19.12.1998, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32003R2232-en" n="32003R2232" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2232 English</title>
+        <title>Commission Regulation (EC) No 2232/2003 of 23 December 2003 concerning the opening of tariff quotas applicable to the importation into the European Community of certain processed agricultural products originating in Switzerland</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2232:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2232:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">4324</classCode>
+        <classCode scheme="eurovoc">666</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2232-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2232/2003 of 23 December 2003 concerning the opening of tariff quotas applicable to the importation into the European Community of certain processed agricultural products originating in Switzerland</head>
+      <p n="2">Commission Regulation (EC) No 2232/2003</p>
+      <p n="3">of 23 December 2003</p>
+      <p n="4">concerning the opening of tariff quotas applicable to the importation into the European Community of certain processed agricultural products originating in Switzerland</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 3448/93 of 6 December 1993 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products(1), and in particular Article 7(2) thereof,</p>
+      <p n="8">Having regard to Council Decision 2000/239/EC of 13 March 2000 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Swiss Confederation, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Swiss Confederation(2), and in particular Article 2 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The annual tariff quotas for certain processed agricultural products provided for in the Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Swiss Confederation, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Swiss Confederation, hereinafter "the Agreement", should be opened for 2004.</p>
+      <p n="11">(2) The annual quota for goods classified under CN codes 2202 10 00 and ex 2202 90 10, laid down in the Agreement, has been exhausted. In accordance with the Agreement it should in consequence be increased by 10 % for 2004.</p>
+      <p n="12">(3) Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code(3), lays down rules for the management of tariff quotas. It is appropriate to provide that the tariff quotas opened by this Regulation are to be managed in accordance with those rules.</p>
+      <p n="13">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee on horizontal questions concerning trade in processed agricultural products not listed in Annex I to the Treaty,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Community tariff quotas for imports of the processed agricultural products originating in Switzerland listed in the Annex shall be open duty-exempt from 1 January to 31 December 2004.</p>
+      <p n="17">For imports of goods listed in table 2 of the Annex which exceed the duty-exempt quota, a duty of 9,1 % shall be applied.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The Community tariff quotas referred to in Article 1 shall be managed by the Commission in accordance with Articles 308a, 308b and 308c of Regulation (EEC) No 2454/93.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="22">It shall apply with effect from 1 January 2004.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 23 December 2003.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Erkki Liikanen</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 318, 20.12.1993, p. 18. Regulation as last amended by Regulation (EC) No 2580/2000 (OJ L 298, 25.11.2000, p. 5).</p>
+      <p n="29">(2) OJ L 76, 25.3.2000, p. 11.</p>
+      <p n="30">(3) OJ L 253, 11.10.1993, p. 1. Regulation as last amended by Regulation (EC) No 1335/2003 (OJ L 187, 26.7.2003, p. 16).</p>
+      <p n="31">ANNEX</p>
+      <p n="32">Table 1</p>
+      <p n="33">&gt;TABLE&gt;</p>
+      <p n="34">Table 2</p>
+      <p n="35">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

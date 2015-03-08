@@ -1,0 +1,48 @@
+<TEI.2 id="jrc31994D0330-en" n="31994D0330" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994D0330 English</title>
+        <title>94/330/EC: Commission Decision of 25 May 1994 amending Article 5 (9) of Council Directive 92/46/EEC with regard to the freezing point</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0330:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0330:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994D0330-en." lang="en">
+    <body>
+      <head n="1">94/330/EC: Commission Decision of 25 May 1994 amending Article 5 (9) of Council Directive 92/46/EEC with regard to the freezing point</head>
+      <p n="2">COMMISSION DECISION of 25 May 1994 amending Article 5 (9) of Council Directive 92/46/EEC with regard to the freezing point (94/330/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 92/46/EEC of 16 June 1992 laying down the health rules for the production and placing on the market of raw milk, heat-treated milk and milk-based products (1), and in particular the second subparagraph of Article 5 (9) thereof,</p>
+      <p n="6">Whereas, pursuant to the second subparagraph of Article 5 (9) of Directive 92/46/EEC, a Member State has requested that the requirements set out in the first subparagraph of Article 5 (9) be re-examined, in particular with regard to the freezing point of heat-treated drinking milk;</p>
+      <p n="7">Whereas, according to the statistical studies available, the value of the freezing point of cow's milk measures immediately after milking may vary from one Member State to another in the light of the following: season, feed or breed of dairy cow, reproduction or lactation period, geographical or climatic factors;</p>
+      <p n="8">Whereas, provision should be made to allow the placing on the market of heat-treated cow's milk, the freezing point of which, in certain circumstances, exceeds the value fixed in the first subparagraph of Article 5 (9) of Directive 92/46/EEC; whereas this possibility should be limited, in order that all the necessary guarantees be provided, to cases where the results of the tests as provided for in Annex C, Chapter 1.A.3 (b) show that there is no extraneous water present;</p>
+      <p n="9">Whereas the other requirements of the first subparagraph of Article 5 (9) of Directive 92/46/EEC are still the subject of scientific and statistical studies;</p>
+      <p n="10">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The following sentence is added to the first subparagraph of Article 5 (9) of Directive 92/46/EEC:</p>
+      <p n="14">'However, a freezing point higher than 0,52 °C shall be acceptable subject to the checks provided for in Annex C, Chapter 1.A.3 (b) showing that there is no extraneous water present'.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Decision is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 25 May 1994.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">René STEICHEN</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 268, 14. 9. 1992, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

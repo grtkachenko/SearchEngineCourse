@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31997R1119-en" n="31997R1119" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1119 English</title>
+        <title>Commission Regulation (EC) No 1119/97 of 19 June 1997 amending Regulations (EC) No 411/97 and (EC) No 412/97 laying down detailed rules for the application of Council Regulation (EC) No 2200/96 as regards fixing a transitional time limit for 1997</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1119:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1119:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1005</classCode>
+        <classCode scheme="eurovoc">1115</classCode>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">1602</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">5823</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1119-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1119/97 of 19 June 1997 amending Regulations (EC) No 411/97 and (EC) No 412/97 laying down detailed rules for the application of Council Regulation (EC) No 2200/96 as regards fixing a transitional time limit for 1997</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1119/97 of 19 June 1997 amending Regulations (EC) No 411/97 and (EC) No 412/97 laying down detailed rules for the application of Council Regulation (EC) No 2200/96 as regards fixing a transitional time limit for 1997</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organization of the market in fruit and vegetables (1), and in particular Article 57 thereof,</p>
+      <p n="6">Whereas Article 15 of Commission Regulation (EC) No 411/97 of 3 March 1997 laying down detailed rules for the application of Council Regulation (EC) No 2200/96 as regards operational programmes, operational funds and Community financial assistance (2) lays down the transitional provisions applicable to 1997 with regard to the submission and approval of proposed operational programmes; whereas paragraph 2 of that Article stipulates that the competent national authority must take a decision on proposals submitted within three months; whereas, in certain exceptional cases, that time limit may prove insufficient and put interested producer organizations at a disadvantage; whereas, therefore, in the interests of the latter, Member States should be given the opportunity to extend that time limit by two months in duly justified cases;</p>
+      <p n="7">Whereas Article 12 (1) (a) of Regulation (EC) No 2200/96 fixes at three months the time limit for a decision by the Member States on applications for recognition presented by producer organizations; whereas, in certain exceptional cases likely to occur during the first year of application of that provision, the time limit may prove insufficient and put interested producer organizations at a disadvantage; whereas it is in the interests of the latter to allow Member States, in duly justified cases, to extend, as an exceptional measure for 1997, that time limit by two months; whereas, therefore, it is necessary to introduce a transitional measure into Commission Regulation (EC) No 412/97 of 3 March 1997 laying down detailed rules for the application of Council Regulation (EC) No 2200/96 as regards the recognition of producer organizations (3);</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Article 15 (2) of Regulation (EC) No 411/97 is hereby replaced by the following:</p>
+      <p n="12">'2. Within three months the competent national authority shall take a decision on proposals submitted. Member States, acting in the interests of the producer organizations concerned, may extend that time limit by two months in duly justified cases. Proposals for operational programmes submitted by producer organizations which do not receive recognition shall be rejected automatically.`</p>
+      <p n="13">Article 2</p>
+      <p n="14">The following Article 9a is inserted after Article 9 in Regulation (EC) No 412/97:</p>
+      <p n="15">'Article 9a</p>
+      <p n="16">As a transitional measure for 1997, Member States, acting in the interests of the producer organizations concerned, may, in duly justified cases, extend by two months the time limit referred to in Article 12 (1) (a) of Regulation (EC) No 2200/96.`</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 19 June 1997.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ No L 297, 21. 11. 1996, p. 1.</p>
+      <p n="25">(2) OJ No L 62, 4. 3. 1997, p. 9.</p>
+      <p n="26">(3) OJ No L 62, 4. 3. 1997, p. 16.</p>
+    </body>
+  </text>
+</TEI.2>

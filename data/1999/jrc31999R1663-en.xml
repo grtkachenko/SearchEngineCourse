@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31999R1663-en" n="31999R1663" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1663 English</title>
+        <title>Commission Regulation (EC) No 1663/1999 of 28 July 1999 amending Regulation (EC) No 2629/97 as regards eartags in the framework of the system for the identification and registration of bovine animals (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1663:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1663:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4821</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1663-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1663/1999 of 28 July 1999 amending Regulation (EC) No 2629/97 as regards eartags in the framework of the system for the identification and registration of bovine animals (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1663/1999</p>
+      <p n="3">of 28 July 1999</p>
+      <p n="4">amending Regulation (EC) No 2629/97 as regards eartags in the framework of the system for the identification and registration of bovine animals</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC) No 820/97 of 21 April 1997 establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products(1) and in particular Article 10(a) thereof,</p>
+      <p n="9">(1) Whereas Commission Regulation (EC) No 2629/97(2), as last amended by Regulation (EC) No 331/1999(3) lays down detailed rules regarding eartags, holding registers and passports in the framework of the identification and registration system of bovine animals;</p>
+      <p n="10">(2) Whereas it is appropriate to provide for the information contained in the replacement eartags used in the event of eartag losses;</p>
+      <p n="11">(3) Whereas Regulation (EC) No 2629/97 should be amended accordingly;</p>
+      <p n="12">(4) Whereas the measures provided for in this Regulation are in accordance with the opinion of the European Agricultural Guidance and Guarantee Fund Committee,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The following paragraphs 6 and 7 are hereby added to Article 1 of Regulation (EC) No 2629/97: "6. In addition to the information provided for in paragraph l and distinct from it, the replacement eartags used in the event of eartag losses may contain a mark with the version number of the replacement eartag expressed in Roman numerals. In such an event, the identification code provided for in paragraph 2 shall remain unchanged.</p>
+      <p n="16">7. In case of an eartag loss, the replacement eartag used by a Member State for animals born in another Member State shall bear at least the same information as is provided for in paragraph 2, and also the code or the logo of the competent authority issuing it."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 28 July 1999.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 117, 7.5.1997, p. 1.</p>
+      <p n="25">(2) OJ L 354, 30.12.1997, p. 19.</p>
+      <p n="26">(3) OJ L 40, 13.2.1999, p. 27.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32002D0215-en" n="32002D0215" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0215 English</title>
+        <title>2002/215/EC: Council Decision of 4 March 2002 concerning the conclusion of the Fourth Amendment to the Montreal Protocol on substances that deplete the ozone layer</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0215:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0215:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2215</classCode>
+        <classCode scheme="eurovoc">2540</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">3584</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">5798</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0215-en." lang="en">
+    <body>
+      <head n="1">2002/215/EC: Council Decision of 4 March 2002 concerning the conclusion of the Fourth Amendment to the Montreal Protocol on substances that deplete the ozone layer</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 4 March 2002</p>
+      <p n="4">concerning the conclusion of the Fourth Amendment to the Montreal Protocol on substances that deplete the ozone layer</p>
+      <p n="5">(2002/215/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 175(1) in conjunction with the first sentence of Article 300(2) and first subparagraph of Article 300(3) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Community, by reason of its responsibilities for the environment, by Decision 88/540/EEC(3) became a party to the Vienna Convention for the protection of the ozone layer and the Montreal Protocol on substances that deplete the ozone layer, and by Decision 91/690/EEC(4) approved the First Amendment to the said Protocol, by Decision 94/68/EC(5) approved the Second Amendment to the said Protocol and by Decision 2000/646/EC(6) approved the Third Amendment to the said Protocol.</p>
+      <p n="12">(2) Recent evidence indicates that for the adequate protection of the ozone layer a higher degree of control of trade in ozone depleting substances is required than is provided by the Montreal Protocol, as amended in 1997. The same evidence indicates that there should be additional measures to control production of ozone-depleting substances and in particular on hydrochlorofluorcarbons and new substances.</p>
+      <p n="13">(3) A Fourth Amendment to the Montreal Protocol introducing these controls was adopted by the Parties in December 1999 in Beijing.</p>
+      <p n="14">(4) The Commission, on behalf of the Community, took part in the negotiation and adoption of that amendment.</p>
+      <p n="15">(5) The Community has adopted measures in the area covered by the amendment, in particular in Regulation (EC) No 2037/2000 of the European Parliament and of the Council of 29 June 2000 on substances that deplete the ozone layer(7), and it should, therefore, undertake international commitments in that area.</p>
+      <p n="16">(6) It is necessary for the Community to approve the Fourth Amendment to the Montreal Protocol because its provisions relate to production and trade in controlled substances between the Community and other Parties, the implementation of which is the responsibility of the Community,</p>
+      <p n="17">HAS DECIDED AS FOLLOWS:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The Fourth Amendment to the Montreal Protocol on substances that deplete the ozone layer is hereby approved on behalf of the Community.</p>
+      <p n="20">The text of this Amendment is attached to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">The President of the Council is hereby authorised to designate the person or persons empowered to deposit the instrument of approval of this Fourth Amendment on behalf of the Community with the Secretary-General of the United Nations in accordance with Article 13 of the Vienna Convention for the Protection of the Ozone Layer as read in conjunction with Article 3 of the Fourth Amendment to the Montreal Protocol.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="25">Done at Brussels, 4 March 2002.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">J. Matas i Palou</p>
+      <p n="29">(1) OJ C 213 E, 31.7.2001, p. 251.</p>
+      <p n="30">(2) Opinion delivered on 2.10.2001 (not yet published in the Official Journal).</p>
+      <p n="31">(3) OJ L 297, 31.10.1988, p. 8.</p>
+      <p n="32">(4) OJ L 377, 31.12.1991, p. 28.</p>
+      <p n="33">(5) OJ L 33, 7.2.1994, p. 1.</p>
+      <p n="34">(6) OJ L 272, 25.10.2000, p. 26.</p>
+      <p n="35">(7) OJ L 244, 29.9.2000, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

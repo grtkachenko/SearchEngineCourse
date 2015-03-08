@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32002R0507-en" n="32002R0507" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0507 English</title>
+        <title>Commission Regulation (EC) No 507/2002 of 21 March 2002 amending Regulation (EC) No 2331/97 on special conditions for granting export refunds on certain pigmeat products</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0507:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0507:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2738</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4692</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0507-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 507/2002 of 21 March 2002 amending Regulation (EC) No 2331/97 on special conditions for granting export refunds on certain pigmeat products</head>
+      <p n="2">Commission Regulation (EC) No 507/2002</p>
+      <p n="3">of 21 March 2002</p>
+      <p n="4">amending Regulation (EC) No 2331/97 on special conditions for granting export refunds on certain pigmeat products</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2759/75 of 29 October 1975 on the common organisation of the market in pigmeat(1), as last amended by Regulation (EC) No 1365/2000(2), and in particular Article 13(12) and Article 22 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2331/97(3), as last amended by Regulation (EC) No 2882/2000(4), lays down quality criteria to be met for the granting of export refunds on certain pigmeat products.</p>
+      <p n="10">(2) Commission Regulation (EEC) No 3846/87 of 17 December 1987 establishing an agricultural product nomenclature for export refunds(5), as last amended by Regulation (EC) No 488/2002(6), lists the pigmeat products on which export refunds may be granted.</p>
+      <p n="11">(3) The product codes listed in Annex I to Regulation (EC) No 2331/97 must be brought into line with recent amendments to Regulation (EEC) No 3846/87 and quality criteria must be set for products covered by CN codes 1602 41 10, 1602 42 10 and 1602 49 19.</p>
+      <p n="12">(4) The Management Committee for pigmeat has not delivered an opinion within the time limit set by its chairman,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The entries relating to CN codes 1602 41 10, 1602 42 10 and 1602 49 19 in Annex I to Regulation (EC) No 2331/97 are hereby replaced by those set out in the Annex hereto.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">It shall apply to export licences applied as from 8 April 2002.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 21 March 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 282, 1.11.1975, p. 1.</p>
+      <p n="25">(2) OJ L 156, 29.6.2000, p. 5.</p>
+      <p n="26">(3) OJ L 323, 26.11.1997, p. 19.</p>
+      <p n="27">(4) OJ L 333, 29.12.2000, p. 72.</p>
+      <p n="28">(5) OJ L 366, 24.12.1987, p. 1.</p>
+      <p n="29">(6) OJ L 76, 19.3.2002, p. 11.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32000R2438-en" n="32000R2438" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2438 English</title>
+        <title>Commission Regulation (EC) No 2438/2000 of 3 November 2000 amending Regulation (EC) No 908/2000 laying down detailed rules for calculating aid granted by Member States to producer organisations in the fisheries and aquaculture sector</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2438:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2438:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">1372</classCode>
+        <classCode scheme="eurovoc">2320</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+        <classCode scheme="eurovoc">80</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2438-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2438/2000 of 3 November 2000 amending Regulation (EC) No 908/2000 laying down detailed rules for calculating aid granted by Member States to producer organisations in the fisheries and aquaculture sector</head>
+      <p n="2">Commission Regulation (EC) No 2438/2000</p>
+      <p n="3">of 3 November 2000</p>
+      <p n="4">amending Regulation (EC) No 908/2000 laying down detailed rules for calculating aid granted by Member States to producer organisations in the fisheries and aquaculture sector</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2792/1999 of 17 December 1999 laying down the detailed rules and arrangements regarding Community structural assistance in the fisheries sector(1), and in particular Article 15(4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 6 of Commission Regulation (EC) No 908/2000 of 2 May 2000 laying down detailed rules for calculating aid granted by Member States to producer organisations in the fisheries and aquaculture sector(2), lays down detailed rules for the transition from the provisions in force until 31 December 1999 to those in force from 1 January 2000.</p>
+      <p n="10">(2) The provisions of Article 6(3) of Regulation (EC) No 908/2000 are not consistent with those of Article 30(2) of Council Regulation (EC) No 1260/1999 of 21 June 1999 laying down general provisions on the Structural Funds(3). The situation should therefore be rectified by amending Regulation (EC) No 908/2000.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The third paragraph of Article 6 of Regulation (EC) No 908/2000 is deleted and replaced by the following:"In the case of aid decided on by Member States after 1 January 2000 on the basis of Articles 7 and 7b of Regulation (EEC) No 3759/92, reimbursement shall be made in the context of the programming of the Structural Funds for the Member State concerned for the period 2000 to 2006."</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply from 1 January 2000.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 3 November 2000.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 337, 30.12.1999, p. 10.</p>
+      <p n="24">(2) OJ L 105, 3.5.2000, p. 15.</p>
+      <p n="25">(3) OJ L 161, 26.6.1999, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

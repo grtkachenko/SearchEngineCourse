@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31999R2197-en" n="31999R2197" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2197 English</title>
+        <title>Commission Regulation (EC) No 2197/1999 of 15 October 1999 amending Regulations (EEC) No 548/89 and (EEC) No 812/89 concerning the classification of certain goods in the Combined Nomenclature</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2197:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2197:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4680</classCode>
+        <classCode scheme="eurovoc">5751</classCode>
+        <classCode scheme="eurovoc">6004</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2197-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2197/1999 of 15 October 1999 amending Regulations (EEC) No 548/89 and (EEC) No 812/89 concerning the classification of certain goods in the Combined Nomenclature</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2197/1999</p>
+      <p n="3">of 15 October 1999</p>
+      <p n="4">amending Regulations (EEC) No 548/89 and (EEC) No 812/89 concerning the classification of certain goods in the Combined Nomenclature</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(1), as last amended by Commission Regulation (EC) No 1835/1999(2), and in particular Article 9 thereof,</p>
+      <p n="8">(1) Whereas Commission Regulation (EEC) No 548/89(3), and Regulation (EEC) No 812/89(4), lay down measures concerning the classification in the Combined Nomenclature of, inter alia, knitted garments;</p>
+      <p n="9">(2) Whereas the judgment of the Court C-338/95 of 20 November 1997(5) has dealt with classification of dresses and nightdresses;</p>
+      <p n="10">(3) Whereas there is therefore a need to specify the reasons for the classification of the products mentioned under points 1, 2 and 3 in the Annex to Regulation (EEC) No 548/89, and for the products mentioned under points 1, 2 and 3 in the Annex to Regulation (EEC) No 812/89;</p>
+      <p n="11">(4) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">In column 3 (reason) the second paragraph of points 1, 2 and 3 of the Annex to Regulation (EEC) No 548/89, and the second paragraph of points 1, 2 and 3 of the Annex to Regulation (EEC) No 812/89 are replaced by the following paragraph:</p>
+      <p n="15">"Classification as a nightdress is excluded, because the garment in question, by reason of its objective characteristics, may be worn equally in bed and elsewhere and, therefore, is not intended to be worn exclusively or essentially as night-wear."</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 15 October 1999.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Frederik BOLKESTEIN</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 256, 7.9.1987, p. 1.</p>
+      <p n="24">(2) OJ L 224, 25.8.1999, p. 5.</p>
+      <p n="25">(3) OJ L 60, 3.3.1989, p. 31.</p>
+      <p n="26">(4) OJ L 86, 31.3.1989, p. 25.</p>
+      <p n="27">(5) Wiener S.I. GmbH v. Hauptzollamt Emmerich, [1997] ECR I-6495.</p>
+    </body>
+  </text>
+</TEI.2>

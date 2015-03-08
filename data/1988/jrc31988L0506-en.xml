@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31988L0506-en" n="31988L0506" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31988L0506 English</title>
+        <title>Commission Directive 88/506/EEC of 13 September 1988 amending Annex II to Council Directive 66/402/EEC on the marketing of cereal seed</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31988L0506:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31988L0506:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31988L0506-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 88/506/EEC of 13 September 1988 amending Annex II to Council Directive 66/402/EEC on the marketing of cereal seed</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION DIRECTIVE</p>
+      <p n="4">of 13 September 1988</p>
+      <p n="5">amending Annex II to Council Directive 66/402/EEC on the marketing of cereal seed</p>
+      <p n="6">(88/506/EEC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Directive 66/402/EEC of 14 June 1966 on the marketing of cereal seed (1), as last amended by Directive 88/380/EEC (2), and in particular Article 21a thereof,</p>
+      <p n="10">Whereas, according to present scientific and technical knowledge, it appears that certain varieties of oat (Avena sativa) of the 'naked oat' type have a potential value as fodder;</p>
+      <p n="11">Whereas, however, it is difficult to produce seed of these varieties with a germination capacity equal to that normally achieved by seed of other oat varieties;</p>
+      <p n="12">Whereas, in the light of the development of scientific and technical knowledge, it is therefore appropriate to reduce, for varieties of oat of the 'naked oat' type, the minimum germination capacity of 85 % of pure seed laid down for oats in Annex II to Directive 66/402/EEC;</p>
+      <p n="13">Whereas this reduction should apply, in the first instance, for a limited period only, so that further technical data about these varieties can be collected and assessed;</p>
+      <p n="14">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="15">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Annex II to Directive 66/402/EEC is hereby amended as follows:</p>
+      <p n="18">1. In the Table in section (2) (A), in column 2 ('Minimum germination'), after the figure 85 given for certified seed, 1st and 2nd generation of (inter alia) Avena sativa, the reference '(d)' is added.</p>
+      <p n="19">2. In section (2) (B), the following condition is added:</p>
+      <p n="20">'(d) In the case of varieties of Avena sativa which are officially classified as of the 'naked oat' type, Member States may, until 30 June 1990, reduce the minimum germination capacity to 75 % of pure seed. In such a case, the official label shall be endorsed "minimum germination capacity 75 %".'</p>
+      <p n="21">Article 2</p>
+      <p n="22">Member States which make use of the possibility added by Article 1 (2) shall inform the Commission and the other Member States of the measures they take for this purpose.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Directive is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 13 September 1988.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Frans ANDRIESSEN</p>
+      <p n="28">Vice-President</p>
+      <p n="29">(1) OJ No 125, 11. 7. 1966, p. 2309/66.</p>
+      <p n="30">(2) OJ No L 187, 16. 7. 1988, p. 31.</p>
+    </body>
+  </text>
+</TEI.2>

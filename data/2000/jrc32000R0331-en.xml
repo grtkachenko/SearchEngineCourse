@@ -1,0 +1,164 @@
+<TEI.2 id="jrc32000R0331-en" n="32000R0331" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R0331 English</title>
+        <title>Commission Regulation (EC) No 331/2000 of 17 December 1999 amending Annex V to Council Regulation (EEC) No 2092/91 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs</title>
+      </titleStmt>
+      <extent>127 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0331:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0331:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">568</classCode>
+        <classCode scheme="eurovoc">5696</classCode>
+        <classCode scheme="eurovoc">87</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R0331-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 331/2000 of 17 December 1999 amending Annex V to Council Regulation (EEC) No 2092/91 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs</head>
+      <p n="2">COMMISSION REGULATION (EC) No 331/2000</p>
+      <p n="3">of 17 December 1999</p>
+      <p n="4">amending Annex V to Council Regulation (EEC) No 2092/91 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2092/91 of 24 June 1991 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs(1), as last amended by Regulation (EC) No 1804/1999(2) and, in particular, Article 13, third indent,</p>
+      <p n="8">(1) Whereas Article 10 of Regulation (EEC) No 2092/91 establishes the possibility to use a logo when it has been defined in Annex V to Regulation (EEC) No 2092/91; whereas the operators can use the logo on voluntary basis under the conditions laid down in this Article;</p>
+      <p n="9">(2) Whereas the Community logo can accompany the indication laid down in Article 10 and Annex V that products have been subject to the inspection scheme;</p>
+      <p n="10">(3) Whereas it is important for the consumers' perception to ensure an informative labelling by including minimum standardised information; whereas the logo should only be used according to the well-defined technical requirements laid down in the graphic manual;</p>
+      <p n="11">(4) Whereas the logo allows operators to increase the credibility of their products among the consumers in the European Union as well as a better identification of these products;</p>
+      <p n="12">(5) Whereas the use of the logo implies that products bearing this logo are submitted through all the stages of production, preparation and marketing to an inspection system under the responsibility of the Member States. This inspection system guarantees the respect of the authenticity of the products and the compliance of the specifications related to the organic production method;</p>
+      <p n="13">(6) Whereas the logo provides the operators a useful aid which they may use in the labelling of their products when all the conditions for such use are satisfied;</p>
+      <p n="14">(7) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Committee referred to in Article 14 of Regulation (EEC) No 2092/91,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Annex V to Regulation (EEC) No 2092/91 shall be replaced by the Annex to this Regulation.</p>
+      <p n="18">Article 2</p>
+      <p n="19">For the presentation of the Community logo referred to in part B of the Annex in the labelling, the provisions laid down in Article 10 of Regulation (EEC) No 2092/91 and parts B1, B2, B3 and B4 of the Annex to the present regulation must be applied.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Regulation shall enter into force 60 days from the date of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">The indications in Annex V, established before the entry into force of this Regulation, may continue to be used until existing stocks are exhausted.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all the Member States.</p>
+      <p n="24">Done at Brussels, 17 December 1999.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz FISCHLER</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 198, 22.7.1991, p. 1.</p>
+      <p n="29">(2) OJ L 222, 24.8.1999, p. 1.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">"ANNEX V</p>
+      <p n="32">PART A: INDICATION THAT PRODUCTS ARE COVERED BY THE INSPECTION SCHEME</p>
+      <p n="33">The indication that a product is covered by the inspection scheme must be shown in the same language or languages as used for the labelling.</p>
+      <p n="34">ES: Agricultura Ecológica - Sistema de control CE</p>
+      <p n="35">DA: Økologisk Jordbrug - EF-kontrolordning</p>
+      <p n="36">DE: Ökologischer Landbau - EG-Kontrollsystem or /Biologische Landwirtschaft - EG-Kontrollsystem</p>
+      <p n="37">EL: Βιολογική γεωργία - Σύστημα ελέγχου ΕΚ</p>
+      <p n="38">EN: Organic Farming - EC Control System</p>
+      <p n="39">FR: Agriculture biologique - Système de contrôle CE</p>
+      <p n="40">IT: Agricoltura Biologica - Regime di controllo CE</p>
+      <p n="41">NL: Biologische landbouw - EG-controlesysteem</p>
+      <p n="42">PT: Agricultura Biológica - Sistema de Controlo CE</p>
+      <p n="43">FI: Luonnonmukainen maataloustuotanto - EY:n valvontajärjestelmä</p>
+      <p n="44">SV: Ekologiskt jordbruk - EG-kontrollsystem</p>
+      <p n="45">PART B: COMMUNITY LOGO</p>
+      <p n="46">B.1. Conditions with regard to the presentation and use of the Community logo</p>
+      <p n="47">B.1.1. The Community logo referred to above shall comprise of the models in part B.2 of this Annex.</p>
+      <p n="48">B.1.2. The indications that must be included in the logo are listed in part B.3 of this Annex. It is possible to combine the logo with the indication mentioned in part A to this Annex.</p>
+      <p n="49">B.1.3. To use the Community logo and the indications referred to in part B.3 of this Annex, the technical reproduction rules laid down in the graphic manual in part B.4 of this Annex must be complied with.</p>
+      <p n="50">B.2. Models</p>
+      <p n="51">&gt;PIC FILE= "L_2000048EN.000401.EPS"&gt;</p>
+      <p n="52">&gt;PIC FILE= "L_2000048EN.000501.EPS"&gt;</p>
+      <p n="53">B.3. Indications to be inserted in the Community logo</p>
+      <p n="54">B.3.1. Single indications:</p>
+      <p n="55">ES: AGRICULTURA ECOLÓGICA</p>
+      <p n="56">DA: ØKOLOGISK JORDBRUG</p>
+      <p n="57">DE: BIOLOGISCHE LANDWIRTSCHAFT or /ÖKOLOGISCHER LANDBAU</p>
+      <p n="58">EL: ΒΙΟΛΟΓΙΚΗ ΓΕΩΡΓΙΑ</p>
+      <p n="59">EN: ORGANIC FARMING</p>
+      <p n="60">FR: AGRICULTURE BIOLOGIQUE</p>
+      <p n="61">IT: AGRICOLTURA BIOLOGICA</p>
+      <p n="62">NL: BIOLOGISCHE LANDBOUW</p>
+      <p n="63">PT: AGRICULTURA BIOLÓGICA</p>
+      <p n="64">FI: LUONNONMUKAINEN MAATALOUSTUOTANTO</p>
+      <p n="65">SV: EKOLOGISKT JORDBRUK</p>
+      <p n="66">B.3.2. Combination of two indications:</p>
+      <p n="67">Combinations of two indications referring to the languages mentioned under B.3.1. are authorised, subject of being developed in accordance with the following examples:</p>
+      <p n="68">NL/FR: BIOLOGISCHE LANDBOUW - /AGRICULTURE BIOLOGIQUE</p>
+      <p n="69">FI/SV: LUONNONMUKAINEN MAATALOUSTUOTANTO - /EKOLOGISKT JORDBRUK</p>
+      <p n="70">FR/DE: AGRICULTURE BIOLOGIQUE - /BIOLOGISCHE LANDWIRTSCHAFT</p>
+      <p n="71">B.4. Graphic manual</p>
+      <p n="72">CONTENTS</p>
+      <p n="73">&gt;TABLE&gt;</p>
+      <p n="74">1. INTRODUCTION</p>
+      <p n="75">The graphic manual is an instrument for the operators to reproduce the logo.</p>
+      <p n="76">2. GENERAL USE OF THE LOGO</p>
+      <p n="77">2.1. COLOURED LOGO (reference colours)</p>
+      <p n="78">When the coloured logo is used, this logo must appear in colour by using direct colours (Pantone) or a four-colour process. The reference colours are indicated hereunder.</p>
+      <p n="79">&gt;PIC FILE= "L_2000048EN.000801.EPS"&gt;</p>
+      <p n="80">2.2. SINGLE-COLOUR LOGO: LOGO IN BLACK AND WHITE</p>
+      <p n="81">The logo in black and white can be used as shown:</p>
+      <p n="82">&gt;PIC FILE= "L_2000048EN.000901.EPS"&gt;</p>
+      <p n="83">2.3. CONTRAST WITH BACKGROUND COLOURS</p>
+      <p n="84">If the logo is used in colour on coloured backgrounds which makes it difficult to read, use a delimiting outer circle around the logo to improve its contrast with the background colours as shown:</p>
+      <p n="85">LOGO IN COLOURED BACKGROUND</p>
+      <p n="86">&gt;PIC FILE= "L_2000048EN.001001.EPS"&gt;</p>
+      <p n="87">2.4. TYPOGRAPHY</p>
+      <p n="88">Use Frutiger bold condensed in capitals for the wording. The letter size of the wording shall be reduced according to the norms set down in Section 2.6.</p>
+      <p n="89">2.5. LANGUAGE</p>
+      <p n="90">You are free to use the language version or versions of your choice according to the specifications indicated in B.3.</p>
+      <p n="91">2.6. REDUCTION SIZES</p>
+      <p n="92">If the application of the logo on different types of labelling makes reduction necessary, the minimum size shall be:</p>
+      <p n="93">(a) For a logo with a single indication: minimum size 20 mm diameter.</p>
+      <p n="94">&gt;PIC FILE= "L_2000048EN.001101.EPS"&gt;</p>
+      <p n="95">(b) For a logo with a combination of two indications: minimum size 40 mm diameter.</p>
+      <p n="96">&gt;PIC FILE= "L_2000048EN.001102.EPS"&gt;</p>
+      <p n="97">2.7. PARTICULAR CONDITIONS TO USE THE LOGO</p>
+      <p n="98">The use of the logo serves to confer specific value to the products. The most effective application of the logo is therefore in colour, since it will thus have a greater presence and be recognised more easily and quickly by the consumer.</p>
+      <p n="99">The use of the logo using a single colour (black and white) as established in Section 2.2 is only recommended in cases where its application in colour is not practical.</p>
+      <p n="100">3. ORIGINAL BROMIDES</p>
+      <p n="101">3.1. TWO-COLOUR SELECTION</p>
+      <p n="102">- Single indication in all the languages</p>
+      <p n="103">&gt;PIC FILE= "L_2000048EN.001201.EPS"&gt;</p>
+      <p n="104">&gt;PIC FILE= "L_2000048EN.001301.EPS"&gt;</p>
+      <p n="105">&gt;PIC FILE= "L_2000048EN.001401.EPS"&gt;</p>
+      <p n="106">&gt;PIC FILE= "L_2000048EN.001501.EPS"&gt;</p>
+      <p n="107">&gt;PIC FILE= "L_2000048EN.001601.EPS"&gt;</p>
+      <p n="108">&gt;PIC FILE= "L_2000048EN.001701.EPS"&gt;</p>
+      <p n="109">&gt;PIC FILE= "L_2000048EN.001801.EPS"&gt;</p>
+      <p n="110">&gt;PIC FILE= "L_2000048EN.001901.EPS"&gt;</p>
+      <p n="111">&gt;PIC FILE= "L_2000048EN.002001.EPS"&gt;</p>
+      <p n="112">&gt;PIC FILE= "L_2000048EN.002101.EPS"&gt;</p>
+      <p n="113">&gt;PIC FILE= "L_2000048EN.002201.EPS"&gt;</p>
+      <p n="114">&gt;PIC FILE= "L_2000048EN.002301.EPS"&gt;</p>
+      <p n="115">- The examples of the language combinations referred to in B.3.2</p>
+      <p n="116">&gt;PIC FILE= "L_2000048EN.002401.EPS"&gt;</p>
+      <p n="117">&gt;PIC FILE= "L_2000048EN.002501.EPS"&gt;</p>
+      <p n="118">&gt;PIC FILE= "L_2000048EN.002601.EPS"&gt;</p>
+      <p n="119">3.2. OUTLINES</p>
+      <p n="120">&gt;PIC FILE= "L_2000048EN.002701.EPS"&gt;</p>
+      <p n="121">3.3. SINGLE-COLOUR: LOGO IN BLACK AND WHITE</p>
+      <p n="122">&gt;PIC FILE= "L_2000048EN.002702.EPS"&gt;</p>
+      <p n="123">3.4. COLOUR SAMPLE SHEETS</p>
+      <p n="124">PANTONE REFLEX BLUE</p>
+      <p n="125">&gt;PIC FILE= "L_2000048EN.002801.EPS"&gt;</p>
+      <p n="126">PANTONE 367</p>
+      <p n="127">&gt;PIC FILE= "L_2000048EN.002802.EPS"&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

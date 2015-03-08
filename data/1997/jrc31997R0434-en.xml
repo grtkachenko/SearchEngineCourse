@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31997R0434-en" n="31997R0434" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R0434 English</title>
+        <title>Council Regulation (EC) No 434/97 of 3 March 1997 amending Regulation (EEC) No 2377/90 laying down a Community procedure for the establishment of maximum residue limits of veterinary medicinal products in foodstuffs of animal origin</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0434:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0434:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">181</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">2785</classCode>
+        <classCode scheme="eurovoc">343</classCode>
+        <classCode scheme="eurovoc">5734</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R0434-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 434/97 of 3 March 1997 amending Regulation (EEC) No 2377/90 laying down a Community procedure for the establishment of maximum residue limits of veterinary medicinal products in foodstuffs of animal origin</head>
+      <p n="2">COUNCIL REGULATION (EC) No 434/97 of 3 March 1997 amending Regulation (EEC) No 2377/90 laying down a Community procedure for the establishment of maximum residue limits of veterinary medicinal products in foodstuffs of animal origin</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas Regulation (EEC) No 2377/90 (4) provides for the gradual evaluation of substances the use of which was authorized on the date of entry into force of that Regulation and whereas Article 14 thereof lays down that, with effect from 1 January 1997, 'the administration to food producing animals of veterinary medicinal products containing pharmacologically active substances which are not mentioned in Annexes I, II or III shall be prohibited within the Community`;</p>
+      <p n="9">Whereas, in order to allow this Community procedure to continue on a sound scientific basis and not to deprive veterinary surgeons and users of substances needed to protect animal health, this time limit should be extended for substances for which documented applications for the establishment of maximum residue limits have been lodged with the Commission or with the European Agency for the Evaluation of Medicinal Products before 1 January 1996, or the period of extension differing according to the nature of the substance,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The following subparagraphs shall be added to Article 14 of Regulation (EEC) No 2377/90:</p>
+      <p n="13">'However, the date referred to in the previous subparagraph shall be deferred for substances the use of which was authorized on the date of entry into force of this Regulation and in respect of which documented applications for the establishment of maximum residue limits have been lodged with the Commission or with the European Agency for the Evaluation of Medicinal Products before 1 January 1996:</p>
+      <p n="14">- until 1 January 1998 in the case of products derived from pyrasolidon, nitroimidazoles, arsanilic acid and phenylbutazone, and</p>
+      <p n="15">- until 1 January 2000 in the case of other substances.</p>
+      <p n="16">The Agency shall publish a list of these substances before 7 June 1997.`</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">It shall apply from 1 January 1997.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 3 March 1997.</p>
+      <p n="22">For the Council</p>
+      <p n="23">The President</p>
+      <p n="24">M. DE BOER</p>
+      <p n="25">(1) OJ No C 381, 17. 12. 1996, p. 9.</p>
+      <p n="26">(2) Opinion delivered on 20 February 1997 (not yet published in the Official Journal).</p>
+      <p n="27">(3) Opinion delivered on 27 February 1997 (not yet published in the Official Journal).</p>
+      <p n="28">(4) OJ No L 224, 18. 8. 1990, p. 1. Regulation as last amended by Commission Regulation (EC) No 17/97 (OJ No L 5, 9. 1. 1997, p. 12).</p>
+    </body>
+  </text>
+</TEI.2>

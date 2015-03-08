@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31995D0129-en" n="31995D0129" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0129 English</title>
+        <title>95/129/EC: Council Decision of 27 March 1995 concerning the conclusion of the Cooperation Agreement between the European Community and the Democratic Socialist Republic of Sri Lanka on Partnership and Development</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0129:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0129:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">207</classCode>
+        <classCode scheme="eurovoc">209</classCode>
+        <classCode scheme="eurovoc">4246</classCode>
+        <classCode scheme="eurovoc">435</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0129-en." lang="en">
+    <body>
+      <head n="1">95/129/EC: Council Decision of 27 March 1995 concerning the conclusion of the Cooperation Agreement between the European Community and the Democratic Socialist Republic of Sri Lanka on Partnership and Development</head>
+      <p n="2">COUNCIL DECISION of 27 March 1995 concerning the conclusion of the Cooperation Agreement between the European Community and the Democratic Socialist Republic of Sri Lanka on Partnership and Development (95/129/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Articles 113 and 130y, in conjunction with the first sentence of Article 228 (2) and the first subparagraph of paragraph 3 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas, under Article 130u of the Treaty, Community policy in the sphere of development cooperation should foster the sustainable economic and social development of the developing countries, their smooth and gradual integration into the world economy and the campaign against poverty in those countries;</p>
+      <p n="8">Whereas the Community should approve, for the attainment of its aims in the sphere of external relations, the Agreement referred to in this Decision,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Cooperation Agreement between the European Community and the Democratic Socialist Republic of Sri Lanka on Partnership and Development is hereby approved on behalf of the Community.</p>
+      <p n="12">The text of the Agreement is attached to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The President of the Council shall, on behalf of the Community, give the notification provided for in Article 26 of the Agreement.</p>
+      <p n="15">Article 3</p>
+      <p n="16">The Commission, assisted by representatives of the Member States, shall represent the Community in the Joint Commission provided for in Article 20 of the Agreement.</p>
+      <p n="17">Article 4</p>
+      <p n="18">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="19">Done at Brussels, 27 March 1995.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">M. GIRAUD</p>
+      <p n="23">(1) OJ No C 86, 23. 3. 1994, p. 5.</p>
+      <p n="24">(2) OJ No C 18, 23. 1. 1995.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31997D0255-en" n="31997D0255" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0255 English</title>
+        <title>97/255/EC: Council Decision of 14 April 1997 amending Decision 91/116/EEC setting up the European Advisory Committee on statistical information in the economic and social spheres</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0255:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0255:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2497</classCode>
+        <classCode scheme="eurovoc">2517</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">6050</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0255-en." lang="en">
+    <body>
+      <head n="1">97/255/EC: Council Decision of 14 April 1997 amending Decision 91/116/EEC setting up the European Advisory Committee on statistical information in the economic and social spheres</head>
+      <p n="2">COUNCIL DECISION of 14 April 1997 amending Decision 91/116/EEC setting up the European Advisory Committee on statistical information in the economic and social spheres (97/255/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the draft decision submitted by the Commission,</p>
+      <p n="6">Whereas Article 4 of Decision 91/116/EEC (1) specifies the number of members of which the Committee shall consist;</p>
+      <p n="7">Whereas by reason of the accession of Austria, Finland and Sweden it is necessary to adjust the number of members of the Committee accordingly,</p>
+      <p n="8">HAS ADOPTED THIS DECISION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Article 4 of Decision 91/116/EEC shall be replaced by the following:</p>
+      <p n="11">'Article 4</p>
+      <p n="12">The Committee shall consist of</p>
+      <p n="13">- four members representing the Commission, one of whom shall be the Member of the Commission responsible for statistical information policy,</p>
+      <p n="14">- the Chairman of the Committee on Monetary, Financial and Balance of Payments Statistics,</p>
+      <p n="15">- the Presidents or Directors-General of the national statistical institutes of the Member States,</p>
+      <p n="16">- two representatives per Member State appointed by the Council, after consulting the Commission, from among leading representatives of the various economic and social categories and scientific circles. With a view to the appointment of these members, each Member State shall provide the Council with a list comprising four candidates. The Council shall take account of the need for the various economic and social categories and the scientific field to be adequately represented.`</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="19">Done at Luxembourg, 14 April 1997.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">J. VAN AARTSEN</p>
+      <p n="23">(1) OJ No L 59, 6. 3. 1991, p. 21.</p>
+    </body>
+  </text>
+</TEI.2>

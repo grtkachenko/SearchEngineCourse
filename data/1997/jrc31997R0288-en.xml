@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31997R0288-en" n="31997R0288" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R0288 English</title>
+        <title>Commission Regulation (EC) No 288/97 of 17 February 1997 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff and repealing a number of regulations on classification</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0288:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R0288:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1250</classCode>
+        <classCode scheme="eurovoc">2069</classCode>
+        <classCode scheme="eurovoc">2731</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">4381</classCode>
+        <classCode scheme="eurovoc">5751</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R0288-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 288/97 of 17 February 1997 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff and repealing a number of regulations on classification</head>
+      <p n="2">COMMISSION REGULATION (EC) No 288/97 of 17 February 1997 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff and repealing a number of regulations on classification</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as last amended by Commission Regulation (EC) No 2493/96 (2), and in particular Article 9 thereof,</p>
+      <p n="6">Whereas it can be difficult to distinguish between some vegetable-based sauces falling within heading 2103 and prepared or preserved vegetables falling within Chapter 20; whereas, to ensure the uniform application of the combined nomenclature, provision should be made to distinguish between the two groups of products; whereas the said sauces usually take the form of liquids, emulsions or suspensions containing very little visible solid matter; whereas a suitable distinguishing criterion would be to pass them through a sieve of a given aperture;</p>
+      <p n="7">Whereas an additional note should be inserted in Chapter 21 of the combined nomenclature and the corresponding amendments made to Annex I to Regulation (EEC) No 2658/87;</p>
+      <p n="8">Whereas the regulations or parts of regulations that previously served to classify such products on the basis of criteria other than passage through a metal wire sieve, namely Commission Regulations (EEC) No 314/90 (3), (EEC) No 3044/90 (4) and (EC) No 3055/94 (5), should be repealed;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Tariff and Statistical Nomenclature Section of the Customs Code Committee,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Chapter 21 of the combined nomenclature annexed to Regulation (EEC) No 2658/87 is hereby amended as follows:</p>
+      <p n="13">1. the following additional note shall be inserted:</p>
+      <p n="14">'1. For the purposes of subheadings 2103 20 00 and 2103 90 90, the expression "sauces" does not cover a preparation of vegetables, fruit or other edible parts of plants if the percentage of these ingredients passing through a metal wire sieve, with an aperature of 5 mm, is, after rinsing with water of a temperature of 20 °C, less than 80 % by weight, calculated on the original preparation.`;</p>
+      <p n="15">2. Additional notes 1 to 4 shall be renumbered 2 to 5.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Point 2 of the Annex to Regulation (EEC) No 314/90, point 1 of the Annex to Regulation (EEC) No 3044/90 and Regulation (EC) No 3055/94 are hereby repealed.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 17 February 1997.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Mario MONTI</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ No L 256, 7. 9. 1987, p. 1.</p>
+      <p n="26">(2) OJ No L 338, 28. 12. 1996, p. 27.</p>
+      <p n="27">(3) OJ No L 35, 7. 2. 1990, p. 9.</p>
+      <p n="28">(4) OJ No L 292, 24. 10. 1990, p. 5.</p>
+      <p n="29">(5) OJ No L 323, 16. 12. 1994, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

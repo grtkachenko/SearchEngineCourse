@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31999R0087-en" n="31999R0087" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0087 English</title>
+        <title>Commission Regulation (EC) No 87/1999 of 14 January 1999 amending Regulation (EEC) No 1722/93 laying down detailed rules for the application of Council Regulations (EEC) No 1766/92 and (EEC) No 1418/76 concerning production refunds in the cereals and rice sectors respectively</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0087:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0087:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3576</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0087-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 87/1999 of 14 January 1999 amending Regulation (EEC) No 1722/93 laying down detailed rules for the application of Council Regulations (EEC) No 1766/92 and (EEC) No 1418/76 concerning production refunds in the cereals and rice sectors respectively</head>
+      <p n="2">COMMISSION REGULATION (EC) No 87/1999 of 14 January 1999 amending Regulation (EEC) No 1722/93 laying down detailed rules for the application of Council Regulations (EEC) No 1766/92 and (EEC) No 1418/76 concerning production refunds in the cereals and rice sectors respectively</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organisation of the market in cereals (1), as last amended by Commission Regulation (EC) No 923/96 (2), and in particular Article 7(3) thereof,</p>
+      <p n="6">Having regard to Council Regulation (EC) No 3072/95 of 22 December 1995 on the common organisation of the market in rice (3), as last amended by Regulation (EC) No 2072/98 (4), and in particular Article 7 thereof,</p>
+      <p n="7">Whereas Annexes I and II to Commission Regulation (EEC) No 1722/93 (5), as last amended by Regulation (EC) No 1011/98 (6), list the products for which starch attracting production refunds is used and the basic starches and/or their derivatives which can be used; whereas certain CN codes and the relevant descriptions in those Annexes no longer correspond to Annex I to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (7), as last amended by Commission Regulation (EC) No 2261/98 (8);</p>
+      <p n="8">Whereas the Annexes to Regulation (EEC) No 1722/93 should be amended accordingly;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Annexes I and II to Regulation (EEC) No 1722/93 are hereby replaced by the text in the Annex to this Regulation.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 14 January 1999.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 181, 1. 7. 1992, p. 21.</p>
+      <p n="21">(2) OJ L 126, 24. 5. 1996, p. 37.</p>
+      <p n="22">(3) OJ L 329, 30. 12. 1995, p. 18.</p>
+      <p n="23">(4) OJ L 265, 30. 9. 1998, p. 4.</p>
+      <p n="24">(5) OJ L 159, 1. 7. 1993, p. 112.</p>
+      <p n="25">(6) OJ L 145, 15. 5. 1998, p. 11.</p>
+      <p n="26">(7) OJ L 256, 7. 9. 1987, p. 1.</p>
+      <p n="27">(8) OJ L 292, 30. 10. 1998, p. 1.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">'ANNEX I</p>
+      <p n="30">&gt;TABLE&gt;</p>
+      <p n="31">ANNEX II</p>
+      <p n="32">&gt;TABLE&gt;</p>
+      <p n="33">`</p>
+    </body>
+  </text>
+</TEI.2>

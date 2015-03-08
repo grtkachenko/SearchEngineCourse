@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31996R0859-en" n="31996R0859" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0859 English</title>
+        <title>Commission Regulation (EC) No 859/96 of 10 May 1996 on the partial refund of import duties paid on certain imports from Norway in 1995 under the agreements in the form of exchanges of letters between the European Community, of the one part, and the Republic of Iceland, the Kingdom of Norway and the Swiss Confederation, of the other part, concerning certain agricultural products</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0859:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0859:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1102</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">3167</classCode>
+        <classCode scheme="eurovoc">3176</classCode>
+        <classCode scheme="eurovoc">4080</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0859-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 859/96 of 10 May 1996 on the partial refund of import duties paid on certain imports from Norway in 1995 under the agreements in the form of exchanges of letters between the European Community, of the one part, and the Republic of Iceland, the Kingdom of Norway and the Swiss Confederation, of the other part, concerning certain agricultural products</head>
+      <p n="2">COMMISSION REGULATION (EC) No 859/96 of 10 May 1996 on the partial refund of import duties paid on certain imports from Norway in 1995 under the agreements in the form of exchanges of letters between the European Community, of the one part, and the Republic of Iceland, the Kingdom of Norway and the Swiss Confederation, of the other part, concerning certain agricultural products</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Decision 95/582/EC of 20 December 1995 on the conclusion of the agreements in the form of exchanges of letters between the European Community, of the one part, and the Republic of Iceland, the Kingdom of Norway and the Swiss Confederation, of the other part, concerning certain agricultural products (1), and in particular Article 2 thereof,</p>
+      <p n="6">Whereas on 20 December 1995 a tariff quota was fixed with effect from 1 January 1995 for whey cheese from Norway; whereas full import duties or levies were applied in 1995 to imports of this cheese into the Community; whereas the maximum limit of the tariff quota has been complied with; whereas a procedure should accordingly be established enabling the operators concerned to obtain a refund of the difference between the levies and duties actually paid and the duty fixed in Annex III to Commission Regulation (EC) No 1600/95 of 30 June 1995 laying down detailed rules for the application of the import arrangements and opening tariff quotas for milk and milk products (2), as last amended by Regulation (EC) No 694/96 (3);</p>
+      <p n="7">Whereas the arrangements for calculating the refunds should be established taking account of the fact that from 1 February 1995 the value of the ecu applied to the common agricultural policy has been adjusted and from 1 July 1995 levies were converted into import duties;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">1. The difference between the import duty fixed in Annex III to Regulation (EC) No 1600/95 and the levy or import duty actually paid at the moment of importation shall be refunded on imports of whey cheese from Norway effected between 1 January and 31 December 1995 on presentation of the import certificate and the declaration of release for free circulation for the importation in question.</p>
+      <p n="12">2. Refund applications must be submitted within 30 days of the entry into force of this Regulation.</p>
+      <p n="13">Article 2</p>
+      <p n="14">1. The difference referred to in Article 1 shall be calculated on the basis of the import duty actually paid in national currency and the import duty fixed in Annex III to Regulation (EC) No 1600/95 converted into national currency using the applicable conversion rate on the day the declaration of release for free circulation was accepted.</p>
+      <p n="15">2. In the case of imports effected between 1 and 31 January 1995 the import duty fixed in Annex III to Regulation (EC) No 1600/95 shall be divided by 1,207509.</p>
+      <p n="16">Article 3</p>
+      <p n="17">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 10 May 1996.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz FISCHLER</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ No L 327, 30. 12. 1995, p. 17.</p>
+      <p n="24">(2) OJ No L 151, 1. 7. 1995, p. 12.</p>
+      <p n="25">(3) OJ No L 97, 18. 4. 1996, p. 18.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32000R0739-en" n="32000R0739" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R0739 English</title>
+        <title>Commission Regulation (EC) No 739/2000 of 7 April 2000 amending Regulation (EC) No 2439/1999 on the conditions for the authorisation of additives belonging to the group 'binders, anti-caking agents and coagulants' in feedingstuffs (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0739:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0739:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">2963</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R0739-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 739/2000 of 7 April 2000 amending Regulation (EC) No 2439/1999 on the conditions for the authorisation of additives belonging to the group 'binders, anti-caking agents and coagulants' in feedingstuffs (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 739/2000</p>
+      <p n="3">of 7 April 2000</p>
+      <p n="4">amending Regulation (EC) No 2439/1999 on the conditions for the authorisation of additives belonging to the group "binders, anti-caking agents and coagulants" in feedingstuffs</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs(1), as last amended by Regulation (EC) No 2690/1999(2), and in particular Article 11 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Commission Regulation (EC) No 2439/1999 of 17 November 1999 on the conditions for the authorisation of additives belonging to the group "binders, anti-caking agents and coagulants" in feedingstuffs(3) establishes a provisional maximum limit of dioxins in kaolinitic clay and provides for an obligation to monitor the presence of dioxins in the other authorised additives, belonging to the group "binders, anti-caking agents and coagulants".</p>
+      <p n="11">(2) It is foreseen in the abovementioned Regulation to re-examine the provisions of this Regulation before 1 March 2000 in the light of any investigations carried out, of the results of the monitoring programme and of a complete risk assessment. The investigations and monitoring programme are still ongoing and a complete risk assessment is not yet available. It is therefore appropriate to prolong the measures, as laid down in Regulation No 2439/2000, until 15 October 2000.</p>
+      <p n="12">(3) Sufficient monitoring data on the presence of dioxins have been provided for natural mixtures of steatites and chlorites (E 560), sepiolite (E 562) and sepiolitic clay (E 563). These data, originating from different Member States and/or origins, indicate that these additives are not contaminated with dioxins or contain levels below the analytical limit of determination.</p>
+      <p n="13">(4) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Feedingstuffs,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EC) No 2439/1999 is hereby amended as follows:</p>
+      <p n="17">1. The date of "1 March 2000" in Article 1 shall be replaced by "15 October 2000".</p>
+      <p n="18">2. The Annex is replaced by the Annex hereto.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">It shall apply from 29 February 2000.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 7 April 2000.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 270, 14.12.1970, p. 1.</p>
+      <p n="28">(2) OJ L 326, 18.12.1999, p. 33.</p>
+      <p n="29">(3) OJ L 297, 18.11.1999, p. 8.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">"ANNEX</p>
+      <p n="32">&gt;TABLE&gt;</p>
+      <p n="33">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

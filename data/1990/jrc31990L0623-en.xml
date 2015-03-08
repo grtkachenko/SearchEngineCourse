@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31990L0623-en" n="31990L0623" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31990L0623 English</title>
+        <title>Commission Directive 90/623/EEC of 7 November 1990 amending Annex II to Council Directive 66/402/EEC on the marketing of cereal seed</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990L0623:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990L0623:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31990L0623-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 90/623/EEC of 7 November 1990 amending Annex II to Council Directive 66/402/EEC on the marketing of cereal seed</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION DIRECTIVE</p>
+      <p n="4">of 7 November 1990</p>
+      <p n="5">amending Annex II to Council Directive 66/402/EEC on the marketing of cereal seed</p>
+      <p n="6">( 90/623/EEC )</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Directive 66/402/EEC of 14 June 1966 on the marketing of cereal seed ( 1 ), as last amended by Commission Directive 89/2/EEC ( 2 ),</p>
+      <p n="10">Whereas, according to present scientific and technical knowledge, it appears that certain varieties of oat ( Avena sativa ) of the 'naked oat' type have a potential value as fodder;</p>
+      <p n="11">Whereas, however, it is difficult to produce seed of these varieties with a germination capacity equal to that normally achieved by seed of the oat varieties;</p>
+      <p n="12">Whereas by Directive 88/506/EEC ( 3 ) the Commission declared that, in the light of the development of scientific and technical knowledge it was appropriate to reduce, for varieties of oats of the "naked oat' type, the minimum germination capacity of 85 % of pure seed laid down for oats in Annex II to Directive 66/402/EEC to 75 %;</p>
+      <p n="13">Whereas that reduction applied only until 30 June 1990 so that further technical data about those varieties could be collected and assessed;</p>
+      <p n="14">Whereas further technical data has shown that it is appropriate for the reduction to continue for a further limited period so that yet further technical data about these varieties can be collected and assessed;</p>
+      <p n="15">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="16">HAS ADOPTED THIS DIRECTIVE :</p>
+      <p n="17">Article 1</p>
+      <p n="18">In section ( 2 ) ( B ) ( d ) of Annex II to Directive 66/402/EEC, "30 June 1990' is replaced by "31 December 1992 '.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Directive is addressed to the Member States .</p>
+      <p n="21">Done at Brussels, 7 November 1990 .</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Ray MAC SHARRY</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">( 1 ) OJ No 125, 11 . 7 . 1966, p . 2309/66 .</p>
+      <p n="26">( 2 ) OJ No L 5, 7 . 1 . 1989, p . 31 .</p>
+      <p n="27">( 3 ) OJ No L 274, 6 . 10 . 1988, p . 44 .</p>
+    </body>
+  </text>
+</TEI.2>

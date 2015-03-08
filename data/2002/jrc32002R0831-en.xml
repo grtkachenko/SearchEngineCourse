@@ -1,0 +1,129 @@
+<TEI.2 id="jrc32002R0831-en" n="32002R0831" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0831 English</title>
+        <title>Commission Regulation (EC) No 831/2002 of 17 May 2002 implementing Council Regulation (EC) No 322/97 on Community Statistics, concerning access to confidential data for scientific purposes (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>93 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0831:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0831:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">5589</classCode>
+        <classCode scheme="eurovoc">92</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0831-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 831/2002 of 17 May 2002 implementing Council Regulation (EC) No 322/97 on Community Statistics, concerning access to confidential data for scientific purposes (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 831/2002</p>
+      <p n="3">of 17 May 2002</p>
+      <p n="4">implementing Council Regulation (EC) No 322/97 on Community Statistics, concerning access to confidential data for scientific purposes</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC) No 322/97 of 17 February 1997 on Community Statistics(1), and in particular Article 17(2) and Article 20(1) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) There is a growing demand by researchers and the scientific community in general to have access for scientific purposes to confidential data transmitted to the Community authority.</p>
+      <p n="11">(2) Access for scientific purposes to confidential data may be granted either by granting access on the premises of the Community authority or by releasing anonymised data to researchers under specific conditions (controlled access).</p>
+      <p n="12">(3) This Regulation respects the fundamental rights and observes the principles recognised in particular by the Charter of Fundamental Rights of the European Union.</p>
+      <p n="13">(4) This Regulation ensures, in particular, full respect for the right for private life and for the protection of personal data (Articles 7 and 8 of the Charter of Fundamental Rights of the European Union).</p>
+      <p n="14">(5) This Regulation shall apply without prejudice to Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data(2) and to Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data(3).</p>
+      <p n="15">(6) The measures laid down in this Regulation are in accordance with the opinion of the Committee on Statistical Confidentiality,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Aim</p>
+      <p n="19">The aim of this Regulation is to establish, for the purpose of enabling statistical conclusions to be drawn for scientific purposes, the conditions under which access to confidential data transmitted to the Community authority may be granted and the rules of cooperation between the Community and national authorities in order to facilitate such access.</p>
+      <p n="20">Article 2</p>
+      <p n="21">Definitions</p>
+      <p n="22">For the purposes of this Regulation:</p>
+      <p n="23">- "Community authority", as defined in Article 2 of Regulation (EC) No 322/97, shall mean the Commission department responsible for carrying out the tasks devolving on the Commission as regards the production of Community statistics (Eurostat),</p>
+      <p n="24">- "Community statistics", as defined in Article 2 of Regulation (EC) No 322/97, shall mean quantitative, aggregated and representative information taken from the collection and systematic processing of data, produced by the national authorities and the Community authority in the framework of implementation of the Community statistical programme,</p>
+      <p n="25">- "Confidential data" shall mean data which allow only indirect identification of the statistical units concerned,</p>
+      <p n="26">- "access to confidential data" shall mean either access on the premises of the Community authority or release of anonymised microdata,</p>
+      <p n="27">- "anonymised microdata" shall mean individual statistical records which have been modified in order to minimise, in accordance with current best practice, the risk of identification of the statistical units to which they relate,</p>
+      <p n="28">- "national authorities", as defined in Article 2 of Regulation (EC) No 322/97, shall mean national statistical institutes and other bodies responsible in each Member State for producing Community statistics.</p>
+      <p n="29">Article 3</p>
+      <p n="30">Admissibility of requests "ratione personae"</p>
+      <p n="31">1. Access to confidential data may be granted by the Community authority to researchers of bodies falling within any of the following categories:</p>
+      <p n="32">(a) universities and other higher education organisations established by Community law or by the law of a Member State;</p>
+      <p n="33">(b) organisations or institutions for scientific research established under Community law or under the law of a Member State;</p>
+      <p n="34">(c) other agencies, organisations and institutions, after having received the opinion of the Committee on statistical confidentiality, in accordance with the procedure laid down in Article 20(2) of Regulation (EC) No 322/97.</p>
+      <p n="35">2. Access to confidential data may also be granted by the Community authority to researchers of bodies commissioned to carry out research for scientific purposes. The commissioning and commissioned bodies shall fall within any of the categories of bodies specified in paragraph 1. The commissioned bodies may also be organisations or institutions which have been commissioned by departments of the Commission or of the administrations of the Member States to undertake specific research. Such organisations or institutions shall have legal personality.</p>
+      <p n="36">Article 4</p>
+      <p n="37">General Conditions</p>
+      <p n="38">1. Subject to the fulfilment of the specific requirements laid down in Articles 5 and 6, as the case may be, the Community authority may grant access to confidential data provided that the following conditions are satisfied:</p>
+      <p n="39">(a) an appropriate request together with a detailed research proposal in conformity with current scientific standards have been submitted;</p>
+      <p n="40">(b) the research proposal shall indicate in sufficient detail the set of data to be accessed, the methods of analysing them and an indication of the time needed;</p>
+      <p n="41">(c) a contract specifying the conditions for access, the obligations of the researchers, the measures for respecting the confidentiality of statistical data and the sanctions in case of breach of these obligations has been signed by the individual researcher, by his/her institution, or by the organisation commissioning the research, as the case may be, and by the Community authority;</p>
+      <p n="42">(d) the national authority, which provided the data, has been informed before access is granted.</p>
+      <p n="43">2. In addition to the conditions laid down in paragraph 1, the Community authority may grant access to confidential data on its premises as set out in Article 5 provided that the following conditions are also satisfied:</p>
+      <p n="44">(a) the research will be carried out exclusively within the premises of the Community authority and under the supervision of a designated official of that authority;</p>
+      <p n="45">(b) the results of the research shall not leave the premises of the Community authority without prior checking to ensure that they do not include confidential data;</p>
+      <p n="46">(c) prospective results to be published or otherwise released, shall be checked by the Community authority to avoid disclosure of confidential data.</p>
+      <p n="47">Article 5</p>
+      <p n="48">Access on the premises of the Community authority</p>
+      <p n="49">1. The Community authority may grant access on its premises to confidential data obtained from the following surveys or statistical data sources:</p>
+      <p n="50">- European Community Household Panel,</p>
+      <p n="51">- Labour Force Survey,</p>
+      <p n="52">- Community Innovation Survey,</p>
+      <p n="53">- continuing vocational training survey.</p>
+      <p n="54">However, on the request of the national authority which provided the data, access to data from that national authority shall not be granted for a specific research project.</p>
+      <p n="55">2. Subject to the prior explicit approval of the relevant national authority, the Community authority may grant access on its premises to confidential data other than those referred to in paragraph 1.</p>
+      <p n="56">Article 6</p>
+      <p n="57">Release of anonymised microdata</p>
+      <p n="58">1. The Community authority may release sets of anonymised microdata obtained from the following surveys or statistical data sources:</p>
+      <p n="59">- European Community Household Panel;</p>
+      <p n="60">- Labour Force Survey;</p>
+      <p n="61">- Community Innovation Survey;</p>
+      <p n="62">- continuing vocational training survey.</p>
+      <p n="63">However, on the request of the national authority which provided the data, release of data from that national authority shall not be granted for a specific research project.</p>
+      <p n="64">2. Prior to such release, the Community authority shall ensure in cooperation with the national authorities, that the methods of anonymisation applied to these microdata sets minimise in accordance with current best practice the risk of identification of the statistical units concerned, in accordance with Regulation (EC) No 322/97.</p>
+      <p n="65">Article 7</p>
+      <p n="66">Bilateral agreements</p>
+      <p n="67">Each national authority and the Community authority shall bilaterally agree in writing on the practical arrangements and conditions referred to in Articles 5 and 6. The bilateral agreements, and any changes to them, shall be reported to the Committee on Statistical Confidentiality.</p>
+      <p n="68">Article 8</p>
+      <p n="69">Organisation matters</p>
+      <p n="70">1. The necessary administrative, technical and organisational measures shall be taken by the Community authority to ensure that access to confidential data neither impairs the physical and logical protection of confidential data nor allows unlawful disclosure or use outside the purposes for which access had been granted.</p>
+      <p n="71">2. Wherever the position of national authorities is required, technical and organisational measures shall be taken by national authorities and the Community authority to ensure that appropriate cooperation is conducted in an efficient manner without undue delays and taking into account the needs of the research project. Every effort shall be made to ensure that the position of the national authority as required by Article 5 or Article 6 will be provided not more than six weeks from the date that the relevant request has been received by the national authority.</p>
+      <p n="72">3. Provided that appropriate facilities are in place to protect the confidentiality of data, and that the approval of the national authorities which transmitted the data to the Community authority has been granted, access to confidential data may also be permitted in a secure area on the premises of a national authority. In such cases, the measures in place to ensure the physical and logical protection of the data will be comparable with those in place on the premises of the Community authority.</p>
+      <p n="73">Article 9</p>
+      <p n="74">Costs</p>
+      <p n="75">The costs related to the access to confidential data in accordance with this Regulation, and in particular, the use of the Commission facilities, shall be borne by the applicants. In determining the costs, the Community authority will ensure that they do not lead to unfair competition with the national authorities.</p>
+      <p n="76">Article 10</p>
+      <p n="77">Safeguard measures</p>
+      <p n="78">1. The Community authority shall ensure that the data accessed do not contain information allowing the direct identification of the statistical units concerned.</p>
+      <p n="79">2. The Community authority shall keep a public register containing all relevant information.</p>
+      <p n="80">Article 11</p>
+      <p n="81">Reports</p>
+      <p n="82">The Commission will report annually to the Committee on Statistical Confidentiality, on the implementation of this Regulation. The report will contain information such as the names and addresses of researchers and their institutions, the data accessed, the costs charged, the description of the research projects and resulting publications.</p>
+      <p n="83">Article 12</p>
+      <p n="84">Entry into force</p>
+      <p n="85">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="86">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="87">Done at Brussels, 17 May 2002.</p>
+      <p n="88">For the Commission</p>
+      <p n="89">Pedro Solbes Mira</p>
+      <p n="90">Member of the Commission</p>
+      <p n="91">(1) OJ L 52, 22.2.1997, p. 1.</p>
+      <p n="92">(2) OJ L 281, 23.11.1995, p. 31.</p>
+      <p n="93">(3) OJ L 8, 12.1.2001, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

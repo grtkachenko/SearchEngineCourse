@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31996R0241-en" n="31996R0241" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0241 English</title>
+        <title>Commission Regulation (EC) No 241/96 of 7 February 1996 concerning the classification of certain goods in the combined nomenclature</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0241:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0241:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">162</classCode>
+        <classCode scheme="eurovoc">2069</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">4381</classCode>
+        <classCode scheme="eurovoc">5751</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0241-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 241/96 of 7 February 1996 concerning the classification of certain goods in the combined nomenclature</head>
+      <p n="2">COMMISSION REGULATION (EC) No 241/96 of 7 February 1996 concerning the classification of certain goods in the combined nomenclature</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2658/87 of 23 June 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as last amended by Commission Regulation (EC) No 3009/95 (2), and in particular Article 9, thereof,</p>
+      <p n="6">Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;</p>
+      <p n="7">Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and those rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific Community provisions, with a view to the application of tariff and other measures relating to trade in goods;</p>
+      <p n="8">Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;</p>
+      <p n="9">Whereas it is accepted that binding tariff information issued by the customs authorities of Member States in respect of the classification of goods in the combined nomenclature and which do not conform to the rights established by this Regulation, can continue to be invoked, under the provisions in Article 12 (6) of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (3), as last amended by Commission Regulation (EEC) No 2454/93 (4), for a period of three months by the holder;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Tariff and Statistical Nomenclature Section of the Customs Code Committee,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.</p>
+      <p n="14">Article 2</p>
+      <p n="15">Binding tariff information issued by the customs authorities of Member States which does not conform to the rights established by this Regulation can continue to be invoked under the provisions of Article 12 (6) of Regulation (EEC) No 2913/92 for a period of three months.</p>
+      <p n="16">Article 3</p>
+      <p n="17">This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 7 February 1996.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Mario MONTI</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ No L 256, 7. 9. 1987, p. 1.</p>
+      <p n="24">(2) OJ No L 319, 30. 12. 1995, p. 1.</p>
+      <p n="25">(3) OJ No L 302, 19. 10. 1992, p. 1.</p>
+      <p n="26">(4) OJ No L 253, 11. 10. 1993, p. 1.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

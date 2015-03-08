@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31996R1127-en" n="31996R1127" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R1127 English</title>
+        <title>Commission Regulation (EC) No 1127/96 of 24 June 1996 amending Regulation (EC) No 1423/95 laying down detailed implementing rules for the import of products in the sugar sector other than molasses</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1127:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1127:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">4080</classCode>
+        <classCode scheme="eurovoc">4316</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R1127-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1127/96 of 24 June 1996 amending Regulation (EC) No 1423/95 laying down detailed implementing rules for the import of products in the sugar sector other than molasses</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1127/96 of 24 June 1996 amending Regulation (EC) No 1423/95 laying down detailed implementing rules for the import of products in the sugar sector other than molasses</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1785/81 of 30 June 1981 on the common organization of the markets in the sugar sector (1), as last amended by Regulation (EC) No 1101/95 (2), and in particular Articles 14 (2) and 15 (4) thereof,</p>
+      <p n="6">Whereas the customs tariff rates and additional import duties for raw sugar are fixed, where such sugar is intended for refining, with reference to sugars with a yield of 92 % of that of the standard quality defined by the Community; whereas it is laid down that where the yield of such sugars differs from the yield fixed for the standard quality, an adjustment should be made; whereas, in the interests of clarity, it should therefore be laid down that the corresponding provisions of Commission Regulation (EC) No 1423/95 (3), as amended by Regulation (EC) No 2528/95 (4), only apply to raw sugars;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Sugar,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Article 5 (1) of Regulation (EC) No 1423/95 is replaced by the following:</p>
+      <p n="11">'1. If the yield of imported raw sugar as determined in accordance with Article 1 of Regulation (EEC) No 431/68, differs from the yield fixed for the standard quality, the customs tariff duty for products falling within CN codes 1701 11 10 and 1701 12 10, and the additional duty for products falling within CN codes 1701 11 10, 1701 11 90, 1701 12 10 and 1701 12 90 to be levied per 100 kilograms of the said raw sugar shall be calculated by multiplying the corresponding duty fixed for raw sugar of the standard quality by a correcting coefficient. The correcting coefficient shall be obtained by dividing the percentage of the yield of the imported raw sugar by 92.`</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 24 June 1996.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 177, 1. 7. 1981, p. 4.</p>
+      <p n="20">(2) OJ No L 110, 17. 5. 1995, p. 1.</p>
+      <p n="21">(3) OJ No L 141, 24. 6. 1995, p. 16.</p>
+      <p n="22">(4) OJ No L 258, 28. 10. 1995, p. 50.</p>
+    </body>
+  </text>
+</TEI.2>

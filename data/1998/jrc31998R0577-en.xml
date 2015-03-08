@@ -1,0 +1,220 @@
+<TEI.2 id="jrc31998R0577-en" n="31998R0577" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0577 English</title>
+        <title>Council Regulation (EC) No 577/98 of 9 March 1998 on the organisation of a labour force sample survey in the Community</title>
+      </titleStmt>
+      <extent>183 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0577:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0577:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2550</classCode>
+        <classCode scheme="eurovoc">2891</classCode>
+        <classCode scheme="eurovoc">4213</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">623</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0577-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 577/98 of 9 March 1998 on the organisation of a labour force sample survey in the Community</head>
+      <p n="2">COUNCIL REGULATION (EC) No 577/98 of 9 March 1998 on the organisation of a labour force sample survey in the Community</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 213 thereof,</p>
+      <p n="5">Having regard to the draft Regulation presented by the Commission,</p>
+      <p n="6">Whereas, in order to carry out the tasks assigned to it, the Commission needs comparable statistical information on the level and pattern of and trends in employment and unemployment in the Member States;</p>
+      <p n="7">Whereas the best method of obtaining such information at Community level is to conduct harmonised labour force surveys;</p>
+      <p n="8">Whereas Council Regulation (EEC) No 3711/91 of 16 December 1991 on the organisation of an annual labour force sample survey in the Community (1) laid down that, starting in 1992, a survey was to be conducted in the spring of each year;</p>
+      <p n="9">Whereas, although a continuous survey is preferable to an annual spring survey for ensuring the availability and harmonisation of data and measuring the volume of work, it is difficult to implement a continuous survey on the same dates in all the Member States;</p>
+      <p n="10">Whereas the use of existing administrative sources should be encouraged insofar as they can usefully supplement the information obtained through interviews or serve as a sampling basis;</p>
+      <p n="11">Whereas the data in the survey, as fixed by this Regulation, may be extended to include a further set of variables forming part of a programme of ad hoc modules which covers several years, and which will be drawn up under an appropriate procedure as part of the implementation arrangements;</p>
+      <p n="12">Whereas the principles of relevance and cost-effectiveness, as these are defined in Council Regulation (EC) No 322/97 of 17 February 1997 on Community statistics (2), which constitutes the legislative framework for the production of Community statistics, will also apply to this Regulation;</p>
+      <p n="13">Whereas statistical confidentiality is governed by the rules set out in Regulation (EC) No 322/97 and in Council Regulation (Euratom, EEC) No 1588/90 of 11 June 1990 on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities (3);</p>
+      <p n="14">Whereas the Statistical Programme Committee established by Decision 89/382/EEC, Euratom (4) has been consulted by the Commission in accordance with Article 3 of the aforesaid Decision,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Frequency of the survey</p>
+      <p n="18">A labour force sample survey, hereinafter referred to as 'the survey`, shall be conducted by the Member States each year.</p>
+      <p n="19">The survey is a continuous survey providing quarterly and annual results; however, those Member States which are not in a position to implement a continuous survey may carry out an annual survey only, to take place in the spring.</p>
+      <p n="20">The information collected during the survey relates generally to the situation during the course of the week (taken to run from Monday to Sunday) preceding the interview, known as the reference week.</p>
+      <p n="21">In the case of a continuous survey:</p>
+      <p n="22">- the reference weeks are spread uniformly throughout the whole year;</p>
+      <p n="23">- the interview normally takes place during the week immediately following the reference week. The reference week and the date of the interview may not be more than five weeks apart, except in the third quarter,</p>
+      <p n="24">- the reference quarters and years are respectively groups of 13 or 52 consecutive weeks. A list of the weeks making up a given quarter or year is drawn up according to the procedure laid down in Article 8.</p>
+      <p n="25">Article 2</p>
+      <p n="26">Units and scope of the survey, observation methods</p>
+      <p n="27">1. The survey shall be carried out in each Member State in a sample of households or of persons residing in the economic territory of that State at the time of the survey.</p>
+      <p n="28">2. The principal scope of the survey consists of persons residing in private households on the economic territory of each Member State. If possible, this main population of persons living in private households, is supplemented by persons living in collective households.</p>
+      <p n="29">Wherever possible, collective households are covered by means of samples specially drawn to permit direct observation of the persons concerned. If this is not possible, then persons in these groups who continue to have an association with a private household are included in connection with that household.</p>
+      <p n="30">3. The variables used to determine labour status and underemployment must be obtained by interviewing the person concerned, or, if this is not possible, another member of the household. Other information may be obtained from alternative sources, including administrative records, provided that the data obtained are of equivalent quality.</p>
+      <p n="31">4. Regardless of whether the sampling unit is an individual or a household, information is usually collected for all individuals of the household. However, if the sampling unit is an individual, the information concerning the other members of the household</p>
+      <p n="32">- may exclude the characteristics listed under Article 4(1)(g), (h), (i) and (j),</p>
+      <p n="33">- and may be collected from a sub-sample defined in such a way that:</p>
+      <p n="34">- the reference weeks are uniformly distributed throughout the whole year,</p>
+      <p n="35">- the number of observations (individuals sampled plus the members of their household) satisfies, for the annual estimates of levels, the reliability criteria defined in Article 3.</p>
+      <p n="36">Article 3</p>
+      <p n="37">Representativeness of the sample</p>
+      <p n="38">1. For a group of unemployed people representing 5 % of the working age population the relative standard error for the estimation of annual averages (or for the spring estimates in the case of an annual survey in the spring) at NUTS II level shall not exceed 8 % of the sub-population in question.</p>
+      <p n="39">Regions with less than 300 000 inhabitants shall be exempt from this requirement.</p>
+      <p n="40">2. In the case of a continuous survey, for sub-populations which constitute 5 % of the working age population the relative standard error at national level for the estimate of changes between two successive quarters, shall not exceed 2 % of the sub-population in question.</p>
+      <p n="41">For Member States with a population of between one million and twenty million inhabitants, this requirement is relaxed so that the relative standard error for the estimate of quarterly changes shall not exceed 3 % of the sub-population in question.</p>
+      <p n="42">Member States whose population is below one million inhabitants are exempt from these precision requirements concerning changes.</p>
+      <p n="43">3. Where the survey is carried out only in the spring, at least a quarter of the survey units are taken from the preceding survey and at least a quarter form part of the following survey.</p>
+      <p n="44">These two groups shall be identified by a code.</p>
+      <p n="45">4. Where non-response to certain questions results in missing data, a method of statistical imputation shall be applied where appropriate.</p>
+      <p n="46">5. The weighting factors are calculated taking into account in particular the probability of selection and external data relating to the distribution of the population being surveyed, by sex, age (five-year age groups) and region (NUTS II level), where such external data are held to be sufficiently reliable by the Member States concerned.</p>
+      <p n="47">6. Member States shall provide the Commission (Eurostat) with whatever information is required concerning the organisation and methodology of the survey, and in particular, they shall indicate the criteria adopted for the design and size of the sample.</p>
+      <p n="48">Article 4</p>
+      <p n="49">Survey characteristics</p>
+      <p n="50">1. Data shall be provided on:</p>
+      <p n="51">(a) demographic background:</p>
+      <p n="52">- sequence number in the household,</p>
+      <p n="53">- sex,</p>
+      <p n="54">- year of birth,</p>
+      <p n="55">- date of birth in relation to the end of the reference period,</p>
+      <p n="56">- marital status,</p>
+      <p n="57">- relationship to reference person,</p>
+      <p n="58">- sequence number of spouse,</p>
+      <p n="59">- sequence number of father,</p>
+      <p n="60">- sequence number of mother,</p>
+      <p n="61">- nationality,</p>
+      <p n="62">- number of years of residence in the Member State,</p>
+      <p n="63">- country of birth (optional),</p>
+      <p n="64">- nature of participation in the survey (direct participation or proxy through another member of the household);</p>
+      <p n="65">(b) labour status:</p>
+      <p n="66">- labour status during the reference week,</p>
+      <p n="67">- reason for not having worked though having a job,</p>
+      <p n="68">- search for employment for person without employment,</p>
+      <p n="69">- type of employment sought (self-employed or employee),</p>
+      <p n="70">- methods used to find a job,</p>
+      <p n="71">- availability to start work;</p>
+      <p n="72">(c) employment characteristics of the main job:</p>
+      <p n="73">- professional status,</p>
+      <p n="74">- economic activity of local unit,</p>
+      <p n="75">- occupation,</p>
+      <p n="76">- number of persons working at the local unit,</p>
+      <p n="77">- country of place of work,</p>
+      <p n="78">- region of place of work,</p>
+      <p n="79">- year and month when the person started working in current employment,</p>
+      <p n="80">- permanency of the job (and reasons),</p>
+      <p n="81">- duration of temporary job or work contract of limited duration,</p>
+      <p n="82">- full-time/part-time distinction (and reasons),</p>
+      <p n="83">- working at home;</p>
+      <p n="84">(d) hours worked:</p>
+      <p n="85">- number of hours per week usually worked,</p>
+      <p n="86">- number of hours actually worked,</p>
+      <p n="87">- main reason for hours actually worked being different from person's usual hours;</p>
+      <p n="88">(e) second job:</p>
+      <p n="89">- existence of more than one job,</p>
+      <p n="90">- professional status,</p>
+      <p n="91">- economic activity of the local unit,</p>
+      <p n="92">- number of hours actually worked;</p>
+      <p n="93">(f) visible underemployment:</p>
+      <p n="94">- wish to work usually more than the current number of hours (optional in the case of an annual survey),</p>
+      <p n="95">- looking for another job and reasons for doing so,</p>
+      <p n="96">- type of employment sought (as employee or otherwise),</p>
+      <p n="97">- methods used to find another job,</p>
+      <p n="98">- reasons why the person is not seeking another job (optional in the case of an annual survey),</p>
+      <p n="99">- availability to start work,</p>
+      <p n="100">- number of hours of work wished for (optional in the case of an annual survey);</p>
+      <p n="101">(g) search for employment:</p>
+      <p n="102">- type of employment sought (full-time or part-time),</p>
+      <p n="103">- duration of search for employment,</p>
+      <p n="104">- situation of person immediately before starting to seek employment,</p>
+      <p n="105">- registration at public employment office and whether receiving benefits,</p>
+      <p n="106">- willingness to work for person not seeking employment,</p>
+      <p n="107">- reasons why person has not sought work;</p>
+      <p n="108">(h) education and training</p>
+      <p n="109">participation in education or training during previous four weeks:</p>
+      <p n="110">- purpose,</p>
+      <p n="111">- level,</p>
+      <p n="112">- type,</p>
+      <p n="113">- total length,</p>
+      <p n="114">- total number of hours,</p>
+      <p n="115">- highest successfully completed level of education or training,</p>
+      <p n="116">- year when this highest level was successfully completed,</p>
+      <p n="117">- non-tertiary vocational qualification obtained;</p>
+      <p n="118">(i) previous work experience of person not in employment:</p>
+      <p n="119">- existence of previous employment experience,</p>
+      <p n="120">- year and month in which the person last worked,</p>
+      <p n="121">- main reason for leaving last job or business,</p>
+      <p n="122">- professional status in last job,</p>
+      <p n="123">- economic activity of local unit in which person last worked,</p>
+      <p n="124">- occupation of last job;</p>
+      <p n="125">(j) situation one year before the survey (optional for quarters 1, 3, 4)</p>
+      <p n="126">- main labour status,</p>
+      <p n="127">- professional status,</p>
+      <p n="128">- economic activity of local unit in which person was working,</p>
+      <p n="129">- country of residence,</p>
+      <p n="130">- region of residence;</p>
+      <p n="131">(k) main labour status (optional);</p>
+      <p n="132">(l) income (optional);</p>
+      <p n="133">(m) technical items relating to the interview</p>
+      <p n="134">- year of survey,</p>
+      <p n="135">- reference week,</p>
+      <p n="136">- interview week,</p>
+      <p n="137">- Member State,</p>
+      <p n="138">- region of household,</p>
+      <p n="139">- degree of urbanisation,</p>
+      <p n="140">- serial number of household,</p>
+      <p n="141">- type of household,</p>
+      <p n="142">- type of institution,</p>
+      <p n="143">- weighting factor,</p>
+      <p n="144">- sub-sample in relation to the preceding survey (annual survey),</p>
+      <p n="145">- sub-sample in relation to the following survey (annual survey),</p>
+      <p n="146">- sequence number of the survey wave.</p>
+      <p n="147">2. A further set of variables, hereinafter referred to as an 'ad hoc module`, may be added to supplement the information described above in paragraph 1.</p>
+      <p n="148">A programme of ad hoc modules covering several years shall be drawn up each year according to the procedure laid down in Article 8:</p>
+      <p n="149">- this programme shall specify for each ad hoc module, the subject, the reference period, the sample size (equal to or less than the sample size determined according to Article 3) and the deadline for the transmission of the results (which may be different from the deadline according to Article 6),</p>
+      <p n="150">- the Member States and regions covered and the detailed list of information to be collected in an ad hoc module shall be drawn up at least twelve months before the beginning of the reference period for that module,</p>
+      <p n="151">- the volume of an ad hoc module shall not exceed the volume of the module c described under paragraph 1.</p>
+      <p n="152">3. The definitions, the edits to be used, the codification of the variables, the adjustment of the list of survey variables made necessary by the evolution of techniques and concepts, and a list of principles for the formulation of the questions concerning the labour status, are drawn up according to the procedure laid down in Article 8.</p>
+      <p n="153">Article 5</p>
+      <p n="154">Conduct of the survey</p>
+      <p n="155">The Member States may make it compulsory to reply to the survey.</p>
+      <p n="156">Article 6</p>
+      <p n="157">Transmission of the results</p>
+      <p n="158">Within twelve weeks of the end of the reference period in the case of a continuous survey (and within nine months of the end of the reference period in the case of a survey in the spring), the Member States shall forward to Eurostat the results of the survey, without direct identifiers.</p>
+      <p n="159">Article 7</p>
+      <p n="160">Reports</p>
+      <p n="161">A report on the implementation of this Regulation shall be submitted by the Commission to the Parliament and the Council every three years, beginning in the year 2000. This report shall evaluate in particular the quality of the statistical methods envisaged by the Member States to improve the results or to lighten the survey procedures.</p>
+      <p n="162">Article 8</p>
+      <p n="163">Procedure</p>
+      <p n="164">The Commission shall be assisted by the Statistical Programme Committee, hereinafter referred to as 'the Committee`.</p>
+      <p n="165">The representative of the Commission shall submit to the Committee a draft of the measures to be taken. The Committee shall deliver its opinion on the draft within a time limit which the chairman may lay down according to the urgency of the matter. The opinion shall be delivered by the majority laid down in Article 148(2) of the Treaty in the case of decisions which the Council is required to adopt on a proposal from the Commission. The votes of the representatives of the Member States within the Committee shall be weighted in the manner set out in that Article. The chairman shall not vote.</p>
+      <p n="166">The Commission shall adopt the measures envisaged if they are in accordance with the opinion of the Committee.</p>
+      <p n="167">If the measures envisaged are not in accordance with the opinion of the Committee, or if no opinion is delivered, the Commission shall, without delay, submit to the Council a proposal relating to the measures to be taken. The Council shall act by a qualified majority.</p>
+      <p n="168">If, on the expiry of a period of three months from the date of referral to the Council, the Council has not acted, the proposed measures shall be adopted by the Commission.</p>
+      <p n="169">Article 9</p>
+      <p n="170">Arrangements for repealing</p>
+      <p n="171">Regulation (EEC) No 3711/91 is hereby repealed.</p>
+      <p n="172">Article 10</p>
+      <p n="173">Entry into force</p>
+      <p n="174">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="175">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="176">Done at Brussels, 9 March 1998.</p>
+      <p n="177">For the Council</p>
+      <p n="178">The President</p>
+      <p n="179">G. BROWN</p>
+      <p n="180">(1) OJ L 351, 20. 12. 1991, p. 1.</p>
+      <p n="181">(2) OJ L 52, 22. 2. 1997, p. 1.</p>
+      <p n="182">(3) OJ L 151, 15. 6. 1990, p. 1. Regulation as amended by Regulation (EC) No 322/97.</p>
+      <p n="183">(4) OJ L 181, 28. 6. 1989, p. 47.</p>
+    </body>
+  </text>
+</TEI.2>

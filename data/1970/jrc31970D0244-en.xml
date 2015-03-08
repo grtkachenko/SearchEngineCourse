@@ -1,0 +1,41 @@
+<TEI.2 id="jrc31970D0244-en" n="31970D0244" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31970D0244 English</title>
+        <title>70/244/ECSC, EEC, Euratom: Council Decision of 21 April 1970 concerning financial forecasts covering several years</title>
+      </titleStmt>
+      <extent>14 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31970D0244:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31970D0244:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31970D0244-en." lang="en">
+    <body>
+      <head n="1">70/244/ECSC, EEC, Euratom: Council Decision of 21 April 1970 concerning financial forecasts covering several years</head>
+      <p n="2">COUNCIL DECISION of 21 April 1970 Concerning financial forecasts covering several years (70/244/ECSC, EEC, Euratom)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES DECIDES:</p>
+      <p n="4">Article 1</p>
+      <p n="5">In order to place the budget of the Communities within a framework of forward planning for several years, the Commission shall, each year, after receiving the Opinion of the Budgetary Policy Committee, draw up a financial forecast for the three subsequent financial years, showing the financial implications for the Community resulting from Regulations and Decisions in force and from proposals submitted by the Commission to the Council. The forecast shall be broken down by category of expenditure.</p>
+      <p n="6">The Council shall, after receiving the Opinion of the European Parliament, study and assess the forecast.</p>
+      <p n="7">Article 2</p>
+      <p n="8">Each year the Council shall, on the basis of a report from the Commission, study the measure of agreement between the forecast and the developments as recorded.</p>
+      <p n="9">Article 3</p>
+      <p n="10">As soon as it is found that expenditure incurred under a category considerably exceeds the forecast, the Commission shall report to the Council and submit proposals for appropriate Community measures.</p>
+      <p n="11">Done at Luxembourg, 21 April 1970.</p>
+      <p n="12">For the Council</p>
+      <p n="13">The President</p>
+      <p n="14">P. HARMEL</p>
+    </body>
+  </text>
+</TEI.2>

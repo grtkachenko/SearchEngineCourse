@@ -1,0 +1,78 @@
+<TEI.2 id="jrc32003R2172-en" n="32003R2172" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2172 English</title>
+        <title>Commission Regulation (EC) No 2172/2003 of 12 December 2003 amending and correcting Regulation (EC) No 2273/2002 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 as regards the survey of prices of certain bovine animals on representative Community markets</title>
+      </titleStmt>
+      <extent>43 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2172:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2172:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1025</classCode>
+        <classCode scheme="eurovoc">2489</classCode>
+        <classCode scheme="eurovoc">2689</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2172-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2172/2003 of 12 December 2003 amending and correcting Regulation (EC) No 2273/2002 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 as regards the survey of prices of certain bovine animals on representative Community markets</head>
+      <p n="2">Commission Regulation (EC) No 2172/2003</p>
+      <p n="3">of 12 December 2003</p>
+      <p n="4">amending and correcting Regulation (EC) No 2273/2002 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 as regards the survey of prices of certain bovine animals on representative Community markets</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1254/1999 of 17 May 1999 on the common organisation of the market in beef and veal(1), and in particular Article 41 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2273/2002(2) lays down provisions on the recording of prices on the representative markets of the Member States for various categories of bovine animals. Detailed rules on the information to be provided for the price survey for each of these categories are provided in the Annexes to that Regulation.</p>
+      <p n="10">(2) On the request of the Member States concerned, Annexes I, II and III to Regulation (EC) No 2273/2002 should be partly revised in the light of how marketing and the size of the cattle population in the Member States develop.</p>
+      <p n="11">(3) In the light of experience, it would moreover appear that Annex II to Regulation (EC) No 2273/2002 contains an error.</p>
+      <p n="12">(4) Regulation (EC) No 2273/2002 should therefore be amended and corrected accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EC) No 2273/2002 is amended as follows:</p>
+      <p n="17">1. in Annex I, part G, point 2 is replaced by the following:</p>
+      <p n="18">"2. Qualities and coefficients</p>
+      <p n="19">&gt;TABLE&gt;"</p>
+      <p n="20">2. in Annex I, part H, point 2 is replaced by the following:</p>
+      <p n="21">"2. Qualities and coefficients</p>
+      <p n="22">&gt;TABLE&gt;"</p>
+      <p n="23">3. In Annex II, part F, point 2 is replaced by the following:</p>
+      <p n="24">"2. Qualities and coefficients</p>
+      <p n="25">&gt;TABLE&gt;"</p>
+      <p n="26">4. in Annex III, part B, point 2 is replaced by the following:</p>
+      <p n="27">"2. Qualities</p>
+      <p n="28">Veaux blancs, moyenne des types commerciaux 'extra', 'blanc bleu', 'pie rouge' et 'pie noire'".</p>
+      <p n="29">Article 2</p>
+      <p n="30">In Annex II, part C, to Regulation (EC) No 2273/2002, point 2 is corrected as follows:</p>
+      <p n="31">"2. Qualities and coefficients</p>
+      <p n="32">&gt;TABLE&gt;"</p>
+      <p n="33">Article 3</p>
+      <p n="34">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="35">It shall apply to the communications referred to in Articles 1(3), 2(3) and 3(3) of Regulation (EC) No 2273/2002 transmitted as of 8 January 2004.</p>
+      <p n="36">Article 2 shall apply from 1 January 2003.</p>
+      <p n="37">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="38">Done at Brussels, 12 December 2003.</p>
+      <p n="39">For the Commission</p>
+      <p n="40">Franz Fischler</p>
+      <p n="41">Member of the Commission</p>
+      <p n="42">(1) OJ L 160, 26.6.1999, p. 21. Regulation as last amended by Regulation (EC) No 1782/2003 (OJ L 270, 21.10.2003, p. 1).</p>
+      <p n="43">(2) OJ L 347, 20.12.2002, p. 15.</p>
+    </body>
+  </text>
+</TEI.2>

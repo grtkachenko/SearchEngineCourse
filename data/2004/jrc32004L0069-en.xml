@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32004L0069-en" n="32004L0069" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004L0069 English</title>
+        <title>Commission Directive 2004/69/EC of 27 April 2004 amending Directive 2000/12/EC of the European Parliament and of the Council as regards the definition of "multilateral development banks" (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004L0069:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004L0069:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1800</classCode>
+        <classCode scheme="eurovoc">2602</classCode>
+        <classCode scheme="eurovoc">3246</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004L0069-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 2004/69/EC of 27 April 2004 amending Directive 2000/12/EC of the European Parliament and of the Council as regards the definition of "multilateral development banks" (Text with EEA relevance)</head>
+      <p n="2">Commission Directive 2004/69/EC</p>
+      <p n="3">of 27 April 2004</p>
+      <p n="4">amending Directive 2000/12/EC of the European Parliament and of the Council as regards the definition of "multilateral development banks"</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutions(1), and in particular the fifth indent of Article 60(1) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Article 1(19) of Directive 2000/12/EC defines "multilateral development banks" in an enumerated manner.</p>
+      <p n="11">(2) In a letter of November 2002, the Multilateral Investment Guarantee Agency (MIGA) requested to be taken up into the list of Article 1(19) of Directive 2000/12/EC.</p>
+      <p n="12">(3) MIGA is a member of the World Bank Group. MIGA provides guarantees to private sector investors against non-commercial risks and, in particular, the risk of loss, according to clearly defined criteria, arising from currency inconvertibility and transfer, expropriation, war and civil disturbance, and breach of contract by a government entity. The purpose of MIGA is to promote the economic development of its developing member countries by encouraging the establishment, expansion and modernization of private - and specifically small or medium-scale-enterprises, so as to compliment the activities of the other members of the World Bank Group.</p>
+      <p n="13">(4) MIGA has a risk profile equivalent to the multilateral development banks enumerated in Article 1(19) of Directive 2000/12/EC and is therefore eligible for inclusion into Article 1(19) and in the consequence to benefit from the preferential risk weighting as laid down in Article 43 of Directive 2000/12/EC.</p>
+      <p n="14">(5) The measures provided for in this Directive are in accordance with the opinion of the Committee required to assist the Commission in accordance with the procedure laid down in Article 60(2) of Directive 2000/12/EC,</p>
+      <p n="15">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Article 1(19) of Directive 2000/12/EC is replaced by the following:</p>
+      <p n="18">"19. 'multilateral development banks' shall mean the International Bank for Reconstruction and Development, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, the Council of Europe Resettlement Fund, the Nordic Investment Bank, the Caribbean Development Bank, the European Bank for Reconstruction and Development, the European Investment Fund, the Inter-American Investment Corporation and the Multilateral Investment Guarantee Agency;"</p>
+      <p n="19">Article 2</p>
+      <p n="20">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 30 June 2004 at the latest. They shall forthwith inform the Commission thereof.</p>
+      <p n="21">When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="24">Article 4</p>
+      <p n="25">This Directive is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 27 April 2004.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Frederik Bolkestein</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 126, 26.5.2000, p. 1. Directive as last amended by Directive 2002/87/EC (OJ L 35, 11.2.2002, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31993D0172-en" n="31993D0172" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993D0172 English</title>
+        <title>93/172/EEC: Commission Decision of 22 February 1993 drawing up the standard reporting form provided for in Article 6 of Council Directive 88/599/EEC concerning road transport</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0172:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0172:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993D0172-en." lang="en">
+    <body>
+      <head n="1">93/172/EEC: Commission Decision of 22 February 1993 drawing up the standard reporting form provided for in Article 6 of Council Directive 88/599/EEC concerning road transport</head>
+      <p n="2">COMMISSION DECISION of 22 February 1993 drawing up the standard reporting form provided for in Article 6 of Council Directive 88/599/EEC concerning road transport</p>
+      <p n="3">(93/172/EEC)THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 88/599/EEC of 23 November 1988 on standard checking procedures for the implementation of Regulation (EEC) No 3820/85 on the harmonization of certain social legislation relating to road transport and Regulation (EEC) No 3821/85 on recording equipment in road transport (1), and in particular Article 6 thereof,</p>
+      <p n="6">Having obtained the agreement of the Member States in accordance with Article 6 (2) of Directive 88/599/EEC,</p>
+      <p n="7">Whereas the standard from provided for in Article 6 (2) of Directive 88/599/EEC should be drawn up and used by the competent authorities of the Member States in order to exchange information at regular intervals as part of a mutual assistance scheme,</p>
+      <p n="8">HAS ADOPTED THIS DECISION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">1. The standard form referred to in Article 6 (2) of Directive 88/599/EEC shall be drawn up in accordance with the specimen annexed to this Decision.</p>
+      <p n="11">2. The competent authorities of each Member State shall use the standard form as from 1 April 1993.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Decision is addressed to the Member States.</p>
+      <p n="14">Done at Brussels, 22 February 1993.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Abel MATUTES</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ No L 325, 29. 11. 1988, p. 55.</p>
+      <p n="19">ANNEX</p>
+      <p n="20">Standard reporting form for the exchange of information on offences and penalties (Article 6 of Council Directive 88/599/EEC)</p>
+      <p n="21">1. OFFENCES COMMITTED BY NON-RESIDENT HAULIERS AND PENALTIES IMPOSED STATE: YEAR:</p>
+      <p n="22">/* Tables: see OJ */</p>
+      <p n="23">2. ACTION TAKEN IN STATE OF ORIGIN WITH REGARD TO NATIONALS WHO HAVE COMMITTED OFFENCES IN OTHER MEMBER STATES STATE: YEAR:</p>
+      <p n="24">/* Tables: see OJ */</p>
+      <p n="25">Person responsible for this communication:</p>
+      <p n="26">Surname: Forename:</p>
+      <p n="27">Position:</p>
+      <p n="28">Administrative address:</p>
+      <p n="29">Tel.:</p>
+      <p n="30">Date: Signature:</p>
+    </body>
+  </text>
+</TEI.2>

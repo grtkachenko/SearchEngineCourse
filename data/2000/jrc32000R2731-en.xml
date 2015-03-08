@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32000R2731-en" n="32000R2731" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2731 English</title>
+        <title>Commission Regulation (EC) No 2731/2000 of 14 December 2000 amending Regulation (EC) No 2543/95 laying down special detailed rules for the application of the system of export licences for olive oil</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2731:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2731:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1264</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2487</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2731-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2731/2000 of 14 December 2000 amending Regulation (EC) No 2543/95 laying down special detailed rules for the application of the system of export licences for olive oil</head>
+      <p n="2">Commission Regulation (EC) No 2731/2000</p>
+      <p n="3">of 14 December 2000</p>
+      <p n="4">amending Regulation (EC) No 2543/95 laying down special detailed rules for the application of the system of export licences for olive oil</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation No 136/66/EEC of 22 September 1966 on the establishment of a common organisation of the market in oils and fats(1), as last amended by Regulation (EC) No 2702/1999(2), and in particular Article 2(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) With a view to simplifying the arrangements, Annex III to Commission Regulation (EC) No 1291/2000 of 9 June 2000, laying down common detailed rules for the application of the system of import and export licences and advance fixing certificates for agricultural products(3) lays down the maximum quantities of agricultural products for which import and export licences and advance-fixing certificates are not required and need not be produced. For olive oil those quantities are 100 kg both for import and for export.</p>
+      <p n="10">(2) Article 2(4) of Commission Regulation (EC) No 2543/95(4), as last amended by Regulation (EC) No 726/98(5), provides that no licence is required for exports of 50 kg or less.</p>
+      <p n="11">(3) In view of the horizontal measures adopted in Regulation (EC) No 1291/2000 concerning the maximum quantities that may be imported or exported by product without a licence, for the sake of simplification and legal safety divergent provisions should not be maintained within each sector and in particular for olive oil.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Oils and Fats,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Article 2(4) of Regulation (EC) No 2543/95 is hereby deleted.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 14 December 2000.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ 172, 30.9.1966, p. 3025/66.</p>
+      <p n="24">(2) OJ L 327, 21.12.1999, p. 7.</p>
+      <p n="25">(3) OJ L 152, 24.6.2000, p. 1.</p>
+      <p n="26">(4) OJ L 260, 31.10.1995, p. 33.</p>
+      <p n="27">(5) OJ L 100, 1.4.1998, p. 46.</p>
+    </body>
+  </text>
+</TEI.2>

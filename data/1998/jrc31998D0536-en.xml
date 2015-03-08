@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31998D0536-en" n="31998D0536" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0536 English</title>
+        <title>98/536/EC: Commission Decision of 3 September 1998 establishing the list of national reference laboratories for the detection of residues (notified under document number C(1998) 2487)(Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0536:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0536:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1284</classCode>
+        <classCode scheme="eurovoc">1442</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">3660</classCode>
+        <classCode scheme="eurovoc">3815</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0536-en." lang="en">
+    <body>
+      <head n="1">98/536/EC: Commission Decision of 3 September 1998 establishing the list of national reference laboratories for the detection of residues (notified under document number C(1998) 2487)(Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 3 September 1998 establishing the list of national reference laboratories for the detection of residues (notified under document number C(1998) 2487) (Text with EEA relevance) (98/536/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 96/23/EC of 29 April 1996 on measures to monitor certain substances and residues thereof in live animals and animal products and repealing Directives 85/358/EEC and 86/469/EEC and Decisions 89/187/EEC and 91/664/EEC (1), and in particular Article 14(1) thereof,</p>
+      <p n="6">Whereas Article 14(1) of Directive 96/23/EC stipulates that at least one national reference laboratory is to be designated in each Member State for the detection of certain substances and residues so that each residue or group of residues is not assigned to more than one national reference laboratory; whereas in this connection, until 31 December 2000 the Member States may continue to entrust testing for the same residue or residue group to several national laboratories which they designated prior to the date of adoption of that Directive;</p>
+      <p n="7">Whereas Article 14(1) of Directive 96/23/EC lays down the tasks of such national reference laboratories for the detection of residues and provides that the Commission is to draw up the list of such national reference laboratories;</p>
+      <p n="8">Whereas the Annex to this Decision must be reviewed by 31 December 2000 at the latest;</p>
+      <p n="9">Whereas, for reasons of legal clarity, certain provisions of Commission Decision 93/257/EEC of 15 April 1993 laying down the reference methods and the list of national reference laboratories for detecting residues (2) should be repealed;</p>
+      <p n="10">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The national reference laboratories for the detection of residues designated pursuant to Article 14 of Directive 96/23/EC shall be as listed in the Annex hereto.</p>
+      <p n="14">Article 2</p>
+      <p n="15">Article 4 of Decision 93/257/EEC and the Annex thereto are hereby repealed.</p>
+      <p n="16">Article 3</p>
+      <p n="17">This Decision shall be reviewed by 31 December 2000 at the latest.</p>
+      <p n="18">Article 4</p>
+      <p n="19">This Decision is addressed to the Member States.</p>
+      <p n="20">Done at Brussels, 3 September 1998.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 125, 23. 5. 1996, p. 10.</p>
+      <p n="25">(2) OJ L 118, 14. 5. 1993, p. 75.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

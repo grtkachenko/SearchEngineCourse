@@ -1,0 +1,41 @@
+<TEI.2 id="jrc31985D0507-en" n="31985D0507" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31985D0507 English</title>
+        <title>85/507/EEC, Euratom: Council Decision of 4 November 1985 concerning the conclusion of the Framework Agreement for scientific and technical cooperation between the European Communities and the Swiss Confederation</title>
+      </titleStmt>
+      <extent>14 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985D0507:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985D0507:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31985D0507-en." lang="en">
+    <body>
+      <head n="1">85/507/EEC, Euratom: Council Decision of 4 November 1985 concerning the conclusion of the Framework Agreement for scientific and technical cooperation between the European Communities and the Swiss Confederation</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 4 November 1985</p>
+      <p n="4">concerning the conclusion of the Framework Agreement for scientific and technical cooperation between the European Communities and the Swiss Confederation</p>
+      <p n="5">(85/507/EEC, Euratom)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN COMMUNITIES,Having regard to the Treaty establishing the European Economic Community,Having regard to the Treaty establishing the European Atomic Energy Community,Having regard to the recommendation from the Commission,Whereas the Framework Agreement for scientific and technical cooperation between the European Communities and the Swiss Confederation should be approved,HAS DECIDED AS FOLLOWS:</p>
+      <p n="7">Article 1</p>
+      <p n="8">The Framework Agreement for scientific and technical cooperation between the European Communities and the</p>
+      <p n="9">Swiss Confederation is hereby approved on behalf of the European Economic Community.The text of the Agreement is attached to this Decision.</p>
+      <p n="10">Article 2</p>
+      <p n="11">The President of the Council shall give the notification provided for in Article 13 of the Agreement.</p>
+      <p n="12">Done at Brussels, 4 November 1985.For the Council</p>
+      <p n="13">The President</p>
+      <p n="14">R. GOEBBELS</p>
+    </body>
+  </text>
+</TEI.2>

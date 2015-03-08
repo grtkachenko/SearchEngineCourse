@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32002D0969-en" n="32002D0969" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0969 English</title>
+        <title>2002/969/EC: Council Decision of 26 November 2002 on the conclusion of an Additional Protocol, laying down the trade arrangements for fish and fishery products, to the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0969:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0969:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2435</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">4048</classCode>
+        <classCode scheme="eurovoc">5063</classCode>
+        <classCode scheme="eurovoc">614</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0969-en." lang="en">
+    <body>
+      <head n="1">2002/969/EC: Council Decision of 26 November 2002 on the conclusion of an Additional Protocol, laying down the trade arrangements for fish and fishery products, to the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 26 November 2002</p>
+      <p n="4">on the conclusion of an Additional Protocol, laying down the trade arrangements for fish and fishery products, to the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part</p>
+      <p n="5">(2002/969/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 in conjunction with the first sentence of the first subparagraph of Article 300(2), thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) It is desirable to complete by means of an Additional Protocol the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part(1), so as to provide for preferential conditions for the importation into the Community of fish and fishery products originating in the Republic of Bulgaria, and into the Republic of Bulgaria of fish and fishery products originating in the Community.</p>
+      <p n="11">(2) To that end a new Protocol laying down the trade arrangements for fish and fishery products should be added to the said Europe Agreement.</p>
+      <p n="12">(3) The Protocol should be approved,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Additional Protocol laying down the trade arrangements for fish and fishery products to the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part, is hereby approved on behalf of the Community.</p>
+      <p n="16">The text of the Protocol is attached to this Decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is authorised to designate the person empowered to sign the Protocol in order to bind the Community.</p>
+      <p n="19">Done at Brussels, 26 November 2002.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">B. Bendtsen</p>
+      <p n="23">(1) OJ L 358, 31.12.1994, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

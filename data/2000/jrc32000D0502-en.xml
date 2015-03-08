@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32000D0502-en" n="32000D0502" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0502 English</title>
+        <title>2000/502/EC: Commission Decision of 25 July 2000 amending Decision 93/42/EEC concerning additional guarantees relating to infectious bovine rhinotracheitis for bovines destined for certain parts of the territory of the Community free from the disease and repealing Decisions 95/109/EC and 98/580/EC (notified under document number C(2000) 2260) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0502:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0502:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5246</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0502-en." lang="en">
+    <body>
+      <head n="1">2000/502/EC: Commission Decision of 25 July 2000 amending Decision 93/42/EEC concerning additional guarantees relating to infectious bovine rhinotracheitis for bovines destined for certain parts of the territory of the Community free from the disease and repealing Decisions 95/109/EC and 98/580/EC (notified under document number C(2000) 2260) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 25 July 2000</p>
+      <p n="4">amending Decision 93/42/EEC concerning additional guarantees relating to infectious bovine rhinotracheitis for bovines destined for certain parts of the territory of the Community free from the disease and repealing Decisions 95/109/EC and 98/580/EC</p>
+      <p n="5">(notified under document number C(2000) 2260)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/502/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 64/432/EEC of 26 June 1964, on animal health problems affecting intra-Community trade in bovine animals and swine(1), as last amended by Council Directive 2000/20/EC(2), and in particular Articles 9 and 10 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 93/42/EEC(3), as last amended by Decision 1999/579/EC(4), gives additional guarantees in relation to infectious bovine rhinotracheitis for bovines destined for Denmark, Austria, Finland and Sweden free of the disease.</p>
+      <p n="13">(2) In order to secure progress and to successfully conclude the initiated programme for the eradication of infectious bovine rhinotracheitis, the Province of Bolzano in Italy was granted certain additional guarantees by Commission Decision 95/109/EC(5), as last amended by Decision 1999/579/EC.</p>
+      <p n="14">(3) Italy considers that the Province of Bolzano is now free from infectious bovine rhinotracheitis and has submitted supporting documentation to the Commission.</p>
+      <p n="15">(4) The authorities of Italy apply for national movement of bovine animals rules at least equivalent to those foreseen in the present decision.</p>
+      <p n="16">(5) It is appropriate to propose certain additional guarantees to protect the progress made in the Province of Bolzano in Italy and to amend the Annex to Decision 93/42/EEC accordingly.</p>
+      <p n="17">(6) In the light of the proposed measures Decision 95/109/EC must be repealed.</p>
+      <p n="18">(7) An eradication programme of infectious bovine rhinotracheitis in Italy, notably the Province of Bolzano, was approved by Commission Decision 98/580/EC(6), for three years. In the light of the proposed measures this Decision must be repealed.</p>
+      <p n="19">(8) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="20">HAS ADOPTED THIS DECISION:</p>
+      <p n="21">Article 1</p>
+      <p n="22">1. The Annex to Decision 93/42/EEC is replaced by the Annex to this Decision.</p>
+      <p n="23">2. Decision 95/109/EC is repealed.</p>
+      <p n="24">3. Decision 98/580/EC is repealed.</p>
+      <p n="25">Article 2</p>
+      <p n="26">This Decision is addressed to the Member States.</p>
+      <p n="27">Done at Brussels, 25 July 2000.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">David Byrne</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ 121, 29.7.1964, p. 1977/64.</p>
+      <p n="32">(2) OJ L 163, 4.7.2000, p. 35.</p>
+      <p n="33">(3) OJ L 16, 25.1.1993, p. 50.</p>
+      <p n="34">(4) OJ L 219, 19.8.1999, p. 53.</p>
+      <p n="35">(5) OJ L 79, 7.4.1995, p. 32.</p>
+      <p n="36">(6) OJ L 279, 16.10.1998, p. 49.</p>
+      <p n="37">ANNEX</p>
+      <p n="38">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

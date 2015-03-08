@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R0337-en" n="32003R0337" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0337 English</title>
+        <title>Commission Regulation (EC) No 337/2003 of 21 February 2003 suspending the application of the double-checking regime to certain textile products originating in Ukraine</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0337:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0337:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2783</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+        <classCode scheme="eurovoc">5946</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0337-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 337/2003 of 21 February 2003 suspending the application of the double-checking regime to certain textile products originating in Ukraine</head>
+      <p n="2">Commission Regulation (EC) No 337/2003</p>
+      <p n="3">of 21 February 2003</p>
+      <p n="4">suspending the application of the double-checking regime to certain textile products originating in Ukraine</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Decision 2001/33/EC of 19 December 2000 on the signing of an Agreement in the form of an Exchange of Letters between the European Community and Ukraine concerning the extension and amendment of the Agreement between the European Economic Community and Ukraine on trade in textile products initialled on 5 May 1993, as last amended by the Agreement in the form of an Exchange of Letters initialled on 15 October 1999 and authorising its provisional application(1), and in particular Article 4 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Agreement between the European Community and Ukraine on trade on textile products(2), as last amended by an agreement between the parties implemented by Commission Regulation (EC) No 475/2002(3), stipulates in Article 2(1) that at the latest six weeks before the end of every Agreement year the Commission and Ukraine shall hold consultations on the necessity of maintaining the categories listed in Annex III to the Agreement under double checking, with a view to the possible suspension of categories from double-checking.</p>
+      <p n="10">(2) Consultations were held in October 2002 with a view to reviewing the need to maintain the application of the double-checking system for certain textile products. As a result of these consultations, the parties agreed to suspend the double checking regime for one textile product.</p>
+      <p n="11">(3) It is desirable for this Regulation to enter into force immediately in order to inform operators of its benefits as soon as possible.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Textile Committee,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Annex III to the Agreement between the European Community and Ukraine on trade in textile products, which sets out the products without quantitative limits subject to the double checking system referred to in the second subparagraph of Article 2(1) of that Agreement, is replaced by the Annex to this Regulation.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 21 February 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Pascal Lamy</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 16, 18.1.2001, p. 1.</p>
+      <p n="24">(2) OJ L 123, 17.5.1994, p. 718.</p>
+      <p n="25">(3) OJ L 75, 16.3.2002, p. 26.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">"ANNEX III</p>
+      <p n="28">Products without quantitative limits subject to the double-checking system referred to in Article 2(1), second subparagraph, of the Agreement</p>
+      <p n="29">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32000D0305-en" n="32000D0305" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0305 English</title>
+        <title>2000/305/EC: Council Decision of 30 March 2000 on the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and Switzerland concerning the extension of the common communication network/common system interface (CCN/CSI) within the framework of the Convention on a common transit procedure</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0305:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0305:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">3614</classCode>
+        <classCode scheme="eurovoc">4324</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">5862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0305-en." lang="en">
+    <body>
+      <head n="1">2000/305/EC: Council Decision of 30 March 2000 on the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and Switzerland concerning the extension of the common communication network/common system interface (CCN/CSI) within the framework of the Convention on a common transit procedure</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 30 March 2000</p>
+      <p n="4">on the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and Switzerland concerning the extension of the common communication network/common system interface (CCN/CSI) within the framework of the Convention on a common transit procedure</p>
+      <p n="5">(2000/305/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 together with the first sentence of Article 300(2) and the first subparagraph of Article 300(3) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The implementation of the computerised transit system provided for by Decision No 1/1999 of the EC/EFTA Joint Committee on common transit(1) requires the setting up of an international computer network to make possible the exchange of information between the competent authorities of the contracting Parties to the Convention of 20 May 1987 on a common transit procedure(2), hereinafter referred to as "the Convention".</p>
+      <p n="11">(2) The European Community has already developed a common communication network/common system interface (CCN/CSI) which fulfils the necessary requirements.</p>
+      <p n="12">(3) Decision No 2/1999 of the EC/EFTA Joint Committee on common transit provides that the CCN/CSI is to be used by all contracting Parties to the Convention(3) and that the financial participation of the partner countries and other related issues will be determined by mutual Agreement between the Community and each of the partner countries.</p>
+      <p n="13">(4) On 22 October 1999 the Council authorised the Commission of the European Communities to negotiate with each of the non-Community countries which are contracting Parties to the Convention an Agreement in the form of an Exchange of Letters on the extension of the CCN/CSI to each of them.</p>
+      <p n="14">(5) The Commission has negotiated the extension of the CCN/CSI to Switzerland.</p>
+      <p n="15">(6) The Agreement in the form of an Exchange of Letters concerning this extension should be approved,</p>
+      <p n="16">HAS DECIDED AS FOLLOWS:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The Agreement in the form of an Exchange of Letters between the European Community and Switzerland concerning the extension of the common communication network/common system interface (CCN/CSI) within the framework of the Convention on a common transit procedure is hereby approved on behalf of the Community.</p>
+      <p n="19">The text of the Agreement in the form of an Exchange of Letters is attached to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The President of the Council is hereby authorised to designate the person(s) authorised to sign the Agreement in the form of an Exchange of Letters so as to render it binding on the Community.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision shall take effect on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">Done at Brussels, 30 March 2000.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">J. Sócrates</p>
+      <p n="28">(1) OJ L 65, 12.3.1999, p. 50.</p>
+      <p n="29">(2) OJ L 226, 13.8.1987, p. 2.</p>
+      <p n="30">(3) OJ L 119, 7.5.1999, p. 53.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31995D0274-en" n="31995D0274" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0274 English</title>
+        <title>95/274/EC: Commission Decision of 10 July 1995 amending Decision 91/516/EEC establishing a list of ingredients whose use is prohibited in compound feedingstuffs</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0274:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0274:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1233</classCode>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">2302</classCode>
+        <classCode scheme="eurovoc">2611</classCode>
+        <classCode scheme="eurovoc">344</classCode>
+        <classCode scheme="eurovoc">718</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0274-en." lang="en">
+    <body>
+      <head n="1">95/274/EC: Commission Decision of 10 July 1995 amending Decision 91/516/EEC establishing a list of ingredients whose use is prohibited in compound feedingstuffs</head>
+      <p n="2">COMMISSION DECISION of 10 July 1995 amending Decision 91/516/EEC establishing a list of ingredients whose use is prohibited in compound feedingstuffs (Text with EEA relevance) (95/274/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 79/373/EEC of 2 April 1979 on the marketing of compound feedingstuffs (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 10 (c) thereof,</p>
+      <p n="6">Whereas Commission Decision 91/516/EEC (2) established a list of ingredients whose use is prohibited in compound feedingstuffs;</p>
+      <p n="7">Whereas it is necessary to define more precisely the prohibition concerning the use of treated hide in order to not exclude the use of certain waste of hide which have been treated in a way causing no danger to the animal, e.g. by salting; this measure aims at preventing the disposal of waste which could pollute the environment;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee for Feedingstuffs,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Annex I to Decision 91/516/EEC is hereby amended as set out in the Annex of this Decision.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Decision shall apply from 1 June 1996.</p>
+      <p n="14">Article 3</p>
+      <p n="15">This Decision is addressed to the Member States.</p>
+      <p n="16">Done at Brussels, 10 July 1995.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 86, 6. 4. 1979, p. 30.</p>
+      <p n="21">(2) OJ No L 281, 9. 10. 1991, p. 23.</p>
+      <p n="22">ANNEX</p>
+      <p n="23">Point 2 is replaced by the following:</p>
+      <p n="24">'2. Hide treated with tanning substances, including its waste`.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31997R2390-en" n="31997R2390" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R2390 English</title>
+        <title>Commission Regulation (EC) No 2390/97 of 1 December 1997 amending Regulation (EEC) No 2213/83 laying down quality standards for onions and witloof chicory</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2390:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2390:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1603</classCode>
+        <classCode scheme="eurovoc">1604</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">5233</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R2390-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2390/97 of 1 December 1997 amending Regulation (EEC) No 2213/83 laying down quality standards for onions and witloof chicory</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2390/97 of 1 December 1997 amending Regulation (EEC) No 2213/83 laying down quality standards for onions and witloof chicory</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organization of the market in fruit and vegetables (1), and in particular Article 2 (2) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 2448/95 of 10 October 1995 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (2) fixed new CN codes; whereas the definition of onions and witloof chicory in Commission Regulation (EEC) No 2213/83 of 28 July 1983 laying down quality standards for onions and witloof chicory (3), as last amended by Regulation (EC) No 888/97 (4), should therefore be updated;</p>
+      <p n="7">Whereas Regulation (EEC) No 2213/83 has been interpreted variously by the operators as regards sprouting of onions; whereas Regulation (EEC) No 2213/83 should be amended to include the appropriate definition;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EEC) No 2213/83 is hereby amended as follows:</p>
+      <p n="12">1. the first paragraph of Article 1 is replaced by the following:</p>
+      <p n="13">'The marketing standards for onions falling within CN code 0703 10 19 and for witloof chicory falling within CN code 0705 21 00 respectively shall be as set out in Annexes I and II hereto.`;</p>
+      <p n="14">2. Annex I is amended as follows:</p>
+      <p n="15">in point B of Part II (provisions concerning quality):</p>
+      <p n="16">- the second indent of the second subparagraph of point (i) is replaced by the following:</p>
+      <p n="17">'- without evidence of sprouting (free of externally visible shoots),`</p>
+      <p n="18">- the second indent of the second subparagraph of point (ii) is replaced by the following:</p>
+      <p n="19">'- early signs of externally visible sprouting (not more than 10 % by number or weight per unit of presentation),`.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 1 December 1997.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz FISCHLER</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 297, 21. 11. 1996, p. 1.</p>
+      <p n="28">(2) OJ L 259, 30. 10. 1995, p. 1.</p>
+      <p n="29">(3) OJ L 213, 4. 8. 1983, p. 13.</p>
+      <p n="30">(4) OJ L 126, 17. 5. 1997, p. 11.</p>
+    </body>
+  </text>
+</TEI.2>

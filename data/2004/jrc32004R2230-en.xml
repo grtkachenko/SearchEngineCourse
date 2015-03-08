@@ -1,0 +1,121 @@
+<TEI.2 id="jrc32004R2230-en" n="32004R2230" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R2230 English</title>
+        <title>Commission Regulation (EC) No 2230/2004 of 23 December 2004 laying down detailed rules for the implementation of European Parliament and Council Regulation (EC) No 178/2002 with regard to the network of organisations operating in the fields within the European Food Safety Authority’s missionText with EEA relevance</title>
+      </titleStmt>
+      <extent>84 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R2230:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R2230:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">3422</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">5640</classCode>
+        <classCode scheme="eurovoc">6569</classCode>
+        <classCode scheme="eurovoc">7126</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R2230-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2230/2004 of 23 December 2004 laying down detailed rules for the implementation of European Parliament and Council Regulation (EC) No 178/2002 with regard to the network of organisations operating in the fields within the European Food Safety Authority’s missionText with EEA relevance</head>
+      <p n="2">Commission Regulation (EC) No 2230/2004</p>
+      <p n="3">of 23 December 2004</p>
+      <p n="4">laying down detailed rules for the implementation of European Parliament and Council Regulation (EC) No 178/2002 with regard to the network of organisations operating in the fields within the European Food Safety Authority’s mission</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [1], and in particular Article 36(3) thereof,</p>
+      <p n="9">Having consulted the European Food Safety Authority,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Networking between the European Food Safety Authority (hereinafter referred to as "the Authority") and the Member States’ organisations operating in the fields within the Authority’s mission is one of the basic principles of the Authority’s operation. It is therefore necessary to stipulate how this principle should be implemented, in accordance with Article 36(1) and (2) of Regulation (EC) No 178/2002, in order to ensure efficiency.</p>
+      <p n="12">(2) Certain bodies in the Member States carry out tasks at national level which are similar to those of the Authority. Networking must make it possible to foster a framework for scientific cooperation allowing information and knowledge to be shared, common tasks to be identified, and optimum use to be made of resources and expertise. It is also important to facilitate the compilation of a Community-level summary of the data on food and feed safety collected by these bodies.</p>
+      <p n="13">(3) As these bodies are to be entrusted with certain tasks with a view to assisting the Authority with its general mission as defined by Regulation (EC) No 178/2002, it is essential for them to be designated by the Member States on the basis of criteria covering scientific and technical competence, efficiency and independence.</p>
+      <p n="14">(4) Member States need to provide the Authority with evidence of compliance with the necessary criteria for the inclusion of competent bodies on the list drawn up by the Authority’s Management Board.</p>
+      <p n="15">(5) Member States must also stipulate the specific areas of competence of the competent bodies designated, so as to facilitate the operation of the network. Thus, in accordance with European Parliament and Council Regulation (EC) No 1829/2003 [2], when preparing an opinion on a request for authorisation of a genetically modified food or feed, the Authority may ask a Member State’s competent body for assessing foods and feeds to carry out a safety assessment of the relevant food or feed in accordance with Article 36 of Regulation (EC) No 178/2002.</p>
+      <p n="16">(6) In accordance with the provisions of Article 27(4)(c) of Regulation (EC) No 178/2002, it is important for the Advisory Forum to be able to ensure close cooperation with the Authority and the competent bodies of the Member States by promoting the European networking of organisations operating within the fields of the Authority’s mission.</p>
+      <p n="17">(7) The tasks entrusted to the competent bodies on the list must involve providing the Authority with assistance with its mission to provide scientific and technical support in relation to Community policy and legislation, without prejudice to the Authority’s responsibility for performing its tasks pursuant to Regulation (EC) No 178/2002.</p>
+      <p n="18">(8) Financial support must be granted on the basis of criteria which ensure that such support contributes efficiently and effectively to the performance of the Authority’s tasks and to the Community priorities as regards scientific and technical support in the fields concerned.</p>
+      <p n="19">(9) It is important to ensure on a general basis that the tasks entrusted by the Authority to the network’s member organisations are performed to high scientific and technical standards, efficiently (also with regard to deadlines) and independently. However, the Authority must remain responsible for allocating tasks to the competent bodies and for monitoring performance.</p>
+      <p n="20">(10) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="21">HAS ADOPTED THIS REGULATION:</p>
+      <p n="22">Article 1</p>
+      <p n="23">Competent organisations designated by the Member States</p>
+      <p n="24">1. The competent organisations designated by the Member States in accordance with Article 36(2) of Regulation (EC) No 178/2002 shall meet the following criteria:</p>
+      <p n="25">(a) they must carry out scientific and technical support tasks in the fields within the mission of the European Food Safety Authority (hereinafter referred to as "the Authority"), especially those with a direct or indirect impact on food or feed safety; in particular, these tasks must include the collection and analysis of data connected with risk identification, exposure to risks, risk assessment, food or feed safety assessment, scientific or technical studies, or scientific or technical assistance for risk managers;</p>
+      <p n="26">(b) they must be legal entities pursuing public interest objectives, and their organisational arrangements must include specific procedures and rules ensuring that any tasks entrusted to them by the Authority will be performed with independence and integrity;</p>
+      <p n="27">(c) they must possess a high level of scientific or technical expertise in one or several fields within the Authority’s mission, especially those with a direct or indirect impact on food or feed safety;</p>
+      <p n="28">(d) they must have the capacity to operate in a network on scientific actions as referred to in Article 3 of this Regulation and/or the capacity to perform efficiently the types of task referred to in Article 4 of this Regulation which may be entrusted to them by the Authority.</p>
+      <p n="29">2. Member States shall forward to the Authority, with a copy to the Commission, the names and details of the designated organisations, evidence that they comply with the criteria set out in paragraph 1, and details of their specific fields of competence. In particular, for the purposes of application of Articles 6(3)(b) and 18(3)(b) of Regulation (EC) No 1829/2003, Member States shall forward the names and details of the competent organisations in the field of safety assessment of genetically modified foods and feeds.</p>
+      <p n="30">Where a designated organisation operates as part of a network, this shall be mentioned, and the network operating conditions shall be described.</p>
+      <p n="31">In cases where it is a specific part of the designated organisation which has the ability and the capacity to operate in a network on scientific actions and/or perform the tasks which may be entrusted to them by the Authority, this shall be stipulated by the Member States.</p>
+      <p n="32">3. Where designated organisations no longer meet the criteria set out in paragraph 1, Member States shall withdraw their designation and immediately inform the authority, with a copy to the Commission, accompanied by the relevant evidence.</p>
+      <p n="33">Member States shall review the list of organisations they have designated regularly, and at least every three (3) years.</p>
+      <p n="34">Article 2</p>
+      <p n="35">Establishing of the list of competent organisations</p>
+      <p n="36">1. The Authority shall ensure that the organisations designated by the Member States comply with the criteria set out in Article 1(1). Where necessary, the Member States shall be asked, by reasoned request, to add to the evidence referred to in Article 1(2).</p>
+      <p n="37">2. The Authority’s Management Board, acting on a proposal from the Executive Director, shall draw up the list of competent organisations, stating their specific fields of competence, especially in the field of safety assessment of genetically modified foods and feeds, on the basis of the procedure set out in paragraph 1.</p>
+      <p n="38">3. The list provided for in paragraph 2 (hereinafter referred to as "the list") shall be published in the Official Journal of the European Union ("C" series).</p>
+      <p n="39">4. The list shall be updated regularly, on the basis of proposals from the Authority’s Executive Director, taking account of reviews or new designation proposals from the Member States.</p>
+      <p n="40">Article 3</p>
+      <p n="41">Networking between the Authority and the organisations on the list</p>
+      <p n="42">1. The Authority shall foster networking with the organisations on the list so as to promote active scientific cooperation in the fields within its mission, especially those with a direct or indirect impact on food or feed safety.</p>
+      <p n="43">To this end the Authority, on the basis of work carried out within its Advisory Forum, shall identify scientific actions of common interest which could be undertaken within the network. The work carried out within the Advisory Forum shall take account of proposals from the organisations on the list.</p>
+      <p n="44">In accordance with Article 27(4)(c) of Regulation (EC) No 178/2002, the Advisory Forum shall contribute to networking.</p>
+      <p n="45">2. The Commission and the Authority shall cooperate in order to avoid overlaps with existing scientific and technical work at Community level.</p>
+      <p n="46">Article 4</p>
+      <p n="47">Tasks to be entrusted to organisations on the list</p>
+      <p n="48">1. Without prejudice to the fulfilment of its mission and performance of its tasks pursuant to Regulation (EC) No 178/2002, the Authority may, with their agreement, entrust to one or more of the organisations on the list tasks which involve them providing it with scientific and technical support.</p>
+      <p n="49">2. The Advisory Forum shall ensure that there is a good general match between the requests for contributions which the Authority puts to the organisations on the list and the scope of those organisations to respond favourably. To this end the Executive Director shall make all the necessary information available to the Advisory Forum.</p>
+      <p n="50">3. The tasks which may be entrusted to the organisations on the list, either to one organisation or to several working together, are those which consist in:</p>
+      <p n="51">- disseminating best practices and improving methods of collecting and analysing scientific and technical data, particularly for the purposes of facilitating comparability and producing a Community-level summary;</p>
+      <p n="52">- collecting and analysing specific data in response to a common priority, in particular the Community priorities contained in the Authority’s work programmes, and in cases where the Authority’s scientific assistance is urgently needed by the Commission, especially in the context of the general plan for crisis management referred to in Article 55 of Regulation (EC) No 178/2002;</p>
+      <p n="53">- collecting and analysing data with a view to facilitating risk assessment by the Authority, including assessment tasks in the field of human nutrition in relation to Community legislation, especially the compiling and/or processing of scientific data on any substance, treatment, food or feed, preparation, organism or contaminant which may be linked with a health risk, and the collection and/or analysis of data on the exposure of Member States’ populations to a health risk associated with food or feed;</p>
+      <p n="54">- producing scientific data or works contributing to the risk assessment tasks, including assessment tasks in the field of human nutrition in relation to Community legislation, for which the Authority is responsible; this type of task must correspond to precise problems identified in the course of the work of the Authority, and in particular that of its Committee and permanent Scientific Panels, and must not duplicate Community research projects or data or contributions which it is the industry’s duty to provide, especially in the context of authorisation procedures;</p>
+      <p n="55">- preparing the Authority’s scientific opinions, including preparatory work relating to the assessment of authorisation dossiers;</p>
+      <p n="56">- preparing the harmonisation of risk assessment methods;</p>
+      <p n="57">- sharing data of common interest, e.g. the establishing of databases;</p>
+      <p n="58">- the tasks referred to in Articles 6 and 18(3)(b) of Regulation (EC) No 1829/2003.</p>
+      <p n="59">Article 5</p>
+      <p n="60">Financial support</p>
+      <p n="61">1. The Authority may decide to allocate financial support for tasks entrusted to the organisations on the list where they are of particular interest as regards contributing to the performance of the Authority’s tasks or addressing the priorities laid down in its work programmes, or where the Authority’s assistance is urgently needed by the Commission, particularly in order to deal with crisis situations.</p>
+      <p n="62">2. Financial support shall take the form of subsidies awarded in accordance with the Authority’s financial regulation and implementing rules.</p>
+      <p n="63">Article 6</p>
+      <p n="64">Harmonised quality criteria and implementing conditions</p>
+      <p n="65">1. After consulting the Commission, the Authority shall lay down harmonised quality criteria for the performance of tasks which it entrusts to the organisations on the list, in particular:</p>
+      <p n="66">(a) criteria to ensure that tasks are performed to high scientific and technical standards, especially with regard to the scientific and/or technical qualifications of staff assigned to them;</p>
+      <p n="67">(b) criteria relating to the resources which may be allocated to the performance of tasks, especially with a view to ensuring that they are completed by pre-established deadlines;</p>
+      <p n="68">(c) criteria relating to the existence of rules and procedures for ensuring that specific categories of tasks are carried out with independence, integrity and respect for confidentiality.</p>
+      <p n="69">2. The precise conditions for the performance of tasks entrusted to organisations on the list shall be laid down in specific agreements between the Authority and each organisation concerned.</p>
+      <p n="70">Article 7</p>
+      <p n="71">Monitoring the performance of tasks</p>
+      <p n="72">The Authority shall ensure that the tasks it entrusts to the organisations on the list are properly carried out. It shall take all the necessary steps to ensure that the criteria and conditions laid down in Article 6 are complied with. In the event of failure to comply with those criteria and the conditions, the Authority shall take remedial action. Where necessary, it may replace the organisation.</p>
+      <p n="73">In the case of tasks for which subsidies are awarded, the penalties provided for by the Authority’s financial regulation and implementing rules shall apply.</p>
+      <p n="74">Article 8</p>
+      <p n="75">Entry into force</p>
+      <p n="76">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.</p>
+      <p n="77">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="78">Done at Brussels, 23 December 2004.</p>
+      <p n="79">For the Commission</p>
+      <p n="80">Markos Kyprianou</p>
+      <p n="81">Member of the Commission</p>
+      <p n="82">--------------------------------------------------</p>
+      <p n="83">[1] OJ L 31, 1.2.2002, p. 1. Regulation amended by Regulation (EC) No 1642/2003 (OJ L 245, 29.9.2003, p. 4).</p>
+      <p n="84">[2] OJ L 268, 18.10.2003, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

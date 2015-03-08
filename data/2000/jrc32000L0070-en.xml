@@ -1,0 +1,119 @@
+<TEI.2 id="jrc32000L0070-en" n="32000L0070" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000L0070 English</title>
+        <title>Directive 2000/70/EC of the European Parliament and of the Council of 16 November 2000 amending Council Directive 93/42/EEC as regards medical devices incorporating stable derivates of human blood or human plasma</title>
+      </titleStmt>
+      <extent>82 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000L0070:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000L0070:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1594</classCode>
+        <classCode scheme="eurovoc">2773</classCode>
+        <classCode scheme="eurovoc">3646</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">4036</classCode>
+        <classCode scheme="eurovoc">5293</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000L0070-en." lang="en">
+    <body>
+      <head n="1">Directive 2000/70/EC of the European Parliament and of the Council of 16 November 2000 amending Council Directive 93/42/EEC as regards medical devices incorporating stable derivates of human blood or human plasma</head>
+      <p n="2">Directive 2000/70/EC of the European Parliament and of the Council</p>
+      <p n="3">of 16 November 2000</p>
+      <p n="4">amending Council Directive 93/42/EEC as regards medical devices incorporating stable derivates of human blood or human plasma</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="9">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) In addition to being directed at medical devices for in vitro diagnosis, the Commission proposal sought to amend Council Directive 93/42/EEC of 14 June 1993 concerning medical devices(4) in order to extend its scope to medical devices manufactured by using non-viable tissues or substances of human origin derived from those tissues. This amendment was not included in Directive 98/79/EC(5) when it was adopted.</p>
+      <p n="12">(2) This Directive accordingly aims at amending Directive 93/42/EEC so as to include in its scope only devices which incorporate, as an integral part, substances derived from human blood or plasma. However, medical devices incorporating other substances derived from human tissues remain excluded from the scope of the said Directive.</p>
+      <p n="13">(3) The essential aim of any rules governing the production, distribution or use of medical devices must be to safeguard public health.</p>
+      <p n="14">(4) Furthermore, national provisions for the safety and health protection of patients, users and, where appropriate, other persons, with regard to the use of medical devices must be harmonised in order to guarantee free movement of such devices within the internal market.</p>
+      <p n="15">(5) Medical devices incorporating, as an integral part, substances derived from human blood or plasma have the same purposes as other medical devices. There is therefore no reason to treat them differently as regards their free circulation.</p>
+      <p n="16">(6) Medical devices incorporating, as an integral part, a substance derived from human blood or plasma and which is liable to act upon the body with action ancillary to that of the device must comply with the provisions of Directive 93/42/EEC and other instruments supplementing the said Directive.</p>
+      <p n="17">(7) A human blood derivative, if used separately, may be considered to be a medicinal product constituent within the meaning of Council Directive 89/381/EEC(6). When it is incorporated into a medical device, the substance must be subject to appropriate checks by analogy with Council Directives 75/318/EEC(7) and 89/381/EEC. These checks will be carried out by the authorities empowered to implement the aforesaid Directives,</p>
+      <p n="18">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="19">Article 1</p>
+      <p n="20">Directive 93/42/EEC is hereby amended as follows:</p>
+      <p n="21">1. Article 1 shall be amended as follows:</p>
+      <p n="22">(a) the following paragraph shall be inserted:</p>
+      <p n="23">"4 a. Where a device incorporates, as an integral part, a substance which, if used separately, may be considered to be a medicinal product constituent or a medicinal product derived from human blood or human plasma within the meaning of Article 1 of Directive 89/381/EEC(8) and which is liable to act upon the human body with action ancillary to that of the device, hereinafter referred to as a 'human blood derivative', that device must be assessed and authorised in accordance with this Directive.";</p>
+      <p n="24">(b) in paragraph 5, point (e) shall be replaced by the following:</p>
+      <p n="25">"(e) human blood, blood products, plasma or blood cells of human origin with the exception of human blood derivatives;"</p>
+      <p n="26">2. Annex I shall be amended as follows:</p>
+      <p n="27">(a) in section 7.4, the following subparagraphs shall be added:</p>
+      <p n="28">"Where a device incorporates, as an integral part, a human blood derivative, the notified body shall seek a scientific opinion from the European Agency for the Evaluation of Medicinal Products (EMEA) on the quality and safety of the derivative, taking account of the appropriate Community provisions and, in particular, by analogy with the provisions of Directives 75/318/EEC and 89/381/EEC. The usefulness of the derivative as a part of the medical device shall be verified, taking account of the intended purpose of the device.</p>
+      <p n="29">In accordance with Article 4(3) of Directive 89/381/EEC, a sample from each batch of bulk and/or finished product of the human blood derivative shall be tested by a State laboratory or a laboratory designated for that purpose by a Member State."</p>
+      <p n="30">(b) in section 13.3, the following subparagraph shall be added:</p>
+      <p n="31">"(n) in the case of a device within the meaning of Article 1(4a), an indication that the device contains a human blood derivative."</p>
+      <p n="32">3. Annex II shall be amended as follows:</p>
+      <p n="33">(a) in section 3.2(c), the fifth indent shall be replaced by the following:</p>
+      <p n="34">"- a statement indicating whether or not the device incorporates, as an integral part, a substance or a human blood derivative referred to in section 7.4 of Annex I and the data on the tests conducted in this connection required to assess the safety, quality and usefulness of that substance or human blood derivative, taking account of the intended purpose of the device.";</p>
+      <p n="35">(b) in section 4.3, the second and third subparagraphs shall be replaced by the following subparagraphs:</p>
+      <p n="36">"In the case of devices referred to in Annex I, section 7.4, first subparagraph, the notified body shall, as regards the aspects referred to in that section, consult one of the competent bodies designated by the Member States in accordance with Directive 65/65/EEC before taking a decision. The notified body will give due consideration to the views expressed in this consultation when making its decision. It will convey its final decision to the competent body concerned.</p>
+      <p n="37">In the case of devices referred to in Annex I, section 7.4, second subparagraph, the scientific opinion of the EMEA must be included in the documentation concerning the device. The notified body will give due consideration to the opinion of the EMEA when making its decision. The notified body may not deliver the certificate if the EMEA's scientific opinion is unfavourable. It will convey its final decision to the EMEA.";</p>
+      <p n="38">(c) the following section shall be added:</p>
+      <p n="39">"8. Application to the devices referred to Article 1(4a):</p>
+      <p n="40">Upon completing the manufacture of each batch of devices referred to in Article 1(4a), the manufacturer shall inform the notified body of the release of the batch of devices and send to it the official certificate concerning the release of the batch of human blood derivative used in the device, issued by a State laboratory or a laboratory designated for that purpose by a Member State in accordance with Article 4(3) of Directive 89/381/EEC."</p>
+      <p n="41">4. Annex III shall be amended as follows:</p>
+      <p n="42">(a) in section 3, the sixth indent shall be replaced by the following:</p>
+      <p n="43">"- a declaration stating whether or not the device incorporates, as an integral part, a substance or human blood derivative, referred to in section 7.4 of Annex I, and the data on the tests conducted in this connection which are required to assess the safety, quality and usefulness of that substance or human blood derivative, taking account of the intended purpose of the device.";</p>
+      <p n="44">(b) in section 5, the second and third subparagraphs shall be replaced by the following subparagraphs:</p>
+      <p n="45">"In the case of devices referred to in Annex I, section 7.4, first subparagraph, the notified body shall, as regards the aspects referred to in that section, consult one of the competent bodies designated by the Member States in accordance with Directive 65/65/EEC before taking a decision. The notified body will give due consideration to the views expressed in this consultation when making its decision. It will convey its final decision to the competent body concerned.</p>
+      <p n="46">In the case of devices referred to in Annex I, section 7.4, second subparagraph, the scientific opinion of the EMEA must be included in the documentation concerning the device. The notified body will give due consideration to the opinion of the EMEA when making its decision. The notified body may not deliver the certificate if the EMEA's scientific opinion is unfavourable. It will convey its final decision to the EMEA."</p>
+      <p n="47">5. In Annex IV, the following section shall be added:</p>
+      <p n="48">"9. Application to devices referred to in Article 1(4a):</p>
+      <p n="49">In the case of section 5, upon completing the manufacture of each batch of devices referred to in Article 1(4a), and in the case of verification under section 6, the manufacturer shall inform the notified body of the release of this batch of devices and send to it the official certificate concerning the release of the batch of human blood derivative used in the device issued by a State laboratory or a laboratory designated for that purpose by a Member State in accordance with Article 4(3) of Directive 89/381/EEC."</p>
+      <p n="50">6. In Annex V, the following section shall be added:</p>
+      <p n="51">"7. Application to devices referred to in Article 1(4a):</p>
+      <p n="52">Upon completing the manufacture of each batch of devices referred to in Article 1(4a), the manufacturer shall inform the notified body of the release of the batch of devices and send to it the official certificate concerning the release of the batch of human blood derivative used in the device issued by a State laboratory or a laboratory designated for that purpose by a Member State in accordance with Article 4(3) of Directive 89/381/EEC."</p>
+      <p n="53">7. In Annex IX, Part III, section 4.1, the following subparagraph shall be added:</p>
+      <p n="54">"All devices incorporating, as an integral part, a human blood derivative are in Class III."</p>
+      <p n="55">Article 2</p>
+      <p n="56">Implementation, transitional provisions</p>
+      <p n="57">1. Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive before 13 December 2001. They shall immediately inform the Commission thereof.</p>
+      <p n="58">Member States shall apply these measures with effect from 13 June 2002.</p>
+      <p n="59">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.</p>
+      <p n="60">2. Member States shall communicate to the Commission the text of the main provisions of domestic law which they adopt in the field governed by this Directive.</p>
+      <p n="61">3. Member States shall take the necessary action to ensure that the notified bodies which are responsible pursuant to Article 16 of Directive 93/42/EEC for conformity assessment take account of all relevant information regarding the characteristics and performance of such devices, including in particular the results of any tests and verification already carried out under pre-existing national law, regulations or administrative provisions in respect of such devices.</p>
+      <p n="62">4. During a period of five years following the entry into force of this Directive, Member States shall accept the placing on the market of such devices which conform to the rules in force in their territory on the date on which this Directive enters into force. For a further period of two years, the said devices may be put into service.</p>
+      <p n="63">Article 3</p>
+      <p n="64">This Directive shall enter into force on the date of its publication in the Official Journal of the European Communities.</p>
+      <p n="65">Article 4</p>
+      <p n="66">This Directive is addressed to the Member States.</p>
+      <p n="67">Done at Brussels, 16 November 2000.</p>
+      <p n="68">For the European Parliament</p>
+      <p n="69">The President</p>
+      <p n="70">N. Fontaine</p>
+      <p n="71">For the Council</p>
+      <p n="72">The President</p>
+      <p n="73">R. Schwarzenberg</p>
+      <p n="74">(1) OJ C 172, 7.7.1995, p. 21 and</p>
+      <p n="75">OJ C 87, 18.3.1997, p. 9.</p>
+      <p n="76">(2) OJ C 18, 22.1.1996, p. 12.</p>
+      <p n="77">(3) Opinion of the European Parliament of 12 March 1996 (OJ C 96, 1.4.1996, p. 31), Council Common Position of 29 June 2000 (OJ C 245, 25.8.2000, p. 19) and European Parliament Decision of 24 October 2000.</p>
+      <p n="78">(4) OJ L 169, 12.7.1993, p. 1. Directive as amended by Directive 98/79/EC of the European Parliament and of the Council (OJ L 331, 7.12.1998, p. 1).</p>
+      <p n="79">(5) Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices (OJ L 331, 7.12.1998, p. 1).</p>
+      <p n="80">(6) Council Directive 89/381/EEC of 14 June 1989 extending the scope of Directives 65/65/EEC and 75/319/EEC on the approximation of provisions laid down by law, regulation or administrative action relating to proprietary medicinal products and laying down special provisions for medicinal products derived from human blood or human plasma (OJ L 181, 28.6.1989, p. 44).</p>
+      <p n="81">(7) Council Directive 75/318/EEC of 20 May 1975 on the approximation of the laws of Member States relating to analytical, pharmaco-toxicological and clinical standards and protocols in respect of the testing of medicinal products (OJ L 147, 9.6.1975, p. 1). Directive as last amended by Commission Directive 1999/83/EC (OJ L 243, 15.9.1999, p. 9).</p>
+      <p n="82">(8) Council Directive 89/381/EEC of 14 June 1989 extending the scope of Directives 65/65/EEC and 75/319/EEC on the approximation of provisions laid down by law, regulation or administrative action relating to proprietary medicinal products and laying down special provisions for medicinal products derived from human blood or human plasma (OJ L 181, 28.6.1989, p. 44).</p>
+    </body>
+  </text>
+</TEI.2>

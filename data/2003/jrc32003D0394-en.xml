@@ -1,0 +1,85 @@
+<TEI.2 id="jrc32003D0394-en" n="32003D0394" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0394 English</title>
+        <title>2003/394/EC: Commission Decision of 23 May 2003 amending Decision 2002/677/EC as regards programmes for the control of zoonotic salmonella (Text with EEA relevance) (notified under document number C(2003) 1640)</title>
+      </titleStmt>
+      <extent>47 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0394:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0394:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1284</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">4743</classCode>
+        <classCode scheme="eurovoc">6152</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0394-en." lang="en">
+    <body>
+      <head n="1">2003/394/EC: Commission Decision of 23 May 2003 amending Decision 2002/677/EC as regards programmes for the control of zoonotic salmonella (Text with EEA relevance) (notified under document number C(2003) 1640)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 23 May 2003</p>
+      <p n="4">amending Decision 2002/677/EC as regards programmes for the control of zoonotic salmonella</p>
+      <p n="5">(notified under document number C(2003) 1640)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/394/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Decision 90/424/EEC of 26 June 1990 on expenditure in the veterinary field(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Article 24(11) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 2002/677/EC of 22 August 2002 laying down standard reporting requirements for programmes of eradication and control of animal diseases co-financed by the Community and repealing Decision 2000/322/EC(3) does not cover programmes for the control of zoonotic salmonella co-financed by the Community.</p>
+      <p n="13">(2) Decision 90/424/EEC provides that once Community rules to control zoonoses have been introduced, Member States may, as part of their national plans approved by the Commission, seek a financial contribution from the Community.</p>
+      <p n="14">(3) Community rules to control zoonotic salmonella in poultry are laid down by Council Directive 92/117/EEC of 17 December 1992 concerning measures for protection against specified zoonoses and specified zoonotic agents in animals and products of animal origin in order to prevent outbreaks of food-borne infections and intoxications(4) as last amended by Regulation (EC) No 806/2003. Following the adoption of that Directive, the Commission approved a number of national salmonella control plans submitted by the Member States. Community co-financing has been provided for some of those approved national control plans.</p>
+      <p n="15">(4) It is important to have in place a reporting system for the purpose of assessing progress made during the implementation of the national salmonella control programmes co-financed by the Community. It is appropriate to harmonise those reporting systems in order to collect meaningful and comparable information.</p>
+      <p n="16">(5) This reporting system should be based on the requirements laid down in Decision 2002/677/EC. However, it is necessary to lay down certain specific reporting requirements for zoonotic salmonella.</p>
+      <p n="17">(6) Decision 2002/677/EC should be amended accordingly.</p>
+      <p n="18">(7) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="19">HAS ADOPTED THIS DECISION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Decision 2002/677/EC is amended as follows:</p>
+      <p n="22">(1) in Article 4(2), the following subparagraph is added:</p>
+      <p n="23">"In respect of zoonotic salmonella, intermediate reports shall contain at least the information specified in Annex Va.";</p>
+      <p n="24">(2) in Article 5(2), the following subparagraph is added:</p>
+      <p n="25">"In respect of zoonotic salmonella, the final reports shall contain at least the information specified in Annexes Va, VI and VII.";</p>
+      <p n="26">(3) Annex I is replaced by the text in Annex I to this Decision;</p>
+      <p n="27">(4) Annexes VI and VII are replaced by the text in Annex II to this Decision.</p>
+      <p n="28">Article 2</p>
+      <p n="29">This Decision is addressed to the Member States.</p>
+      <p n="30">Done at Brussels, 23 May 2003.</p>
+      <p n="31">For the Commission</p>
+      <p n="32">David Byrne</p>
+      <p n="33">Member of the Commission</p>
+      <p n="34">(1) OJ L 224, 18.8.1990, p. 19.</p>
+      <p n="35">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="36">(3) OJ L 229, 27.8.2002, p. 24.</p>
+      <p n="37">(4) OJ L 62, 15.3.1993, p. 38.</p>
+      <p n="38">ANNEX I</p>
+      <p n="39">'ANNEX I</p>
+      <p n="40">&gt;PIC FILE= "L_2003136EN.001003.TIF"&gt;</p>
+      <p n="41">ANNEX II</p>
+      <p n="42">'ANNEX Va</p>
+      <p n="43">&gt;PIC FILE= "L_2003136EN.001103.TIF"&gt;</p>
+      <p n="44">ANNEX VI</p>
+      <p n="45">&gt;PIC FILE= "L_2003136EN.001202.TIF"&gt;</p>
+      <p n="46">ANNEX VII</p>
+      <p n="47">&gt;PIC FILE= "L_2003136EN.001302.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

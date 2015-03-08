@@ -1,0 +1,78 @@
+<TEI.2 id="jrc31996D0463-en" n="31996D0463" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0463 English</title>
+        <title>96/463/EC: Council Decision of 23 July 1996 designating the reference body responsible for collaborating in rendering uniform the testing methods and the assessment of the results for pure-bred breeding animals of the bovine species</title>
+      </titleStmt>
+      <extent>42 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0463:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0463:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1929</classCode>
+        <classCode scheme="eurovoc">4256</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5356</classCode>
+        <classCode scheme="eurovoc">5651</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0463-en." lang="en">
+    <body>
+      <head n="1">96/463/EC: Council Decision of 23 July 1996 designating the reference body responsible for collaborating in rendering uniform the testing methods and the assessment of the results for pure-bred breeding animals of the bovine species</head>
+      <p n="2">COUNCIL DECISION of 23 July 1996 designating the reference body responsible for collaborating in rendering uniform the testing methods and the assessment of the results for pure-bred breeding animals of the bovine species (96/463/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to Council Directive 87/328/EEC of 18 June 1987 on the acceptance for breeding purposes of pure-bred breeding animals of the bovine species (1), and in particular Article 5 thereof,</p>
+      <p n="7">Whereas, in order to render uniform the testing methods and the assessment of the results when pure-bred breeding animals of the bovine species are accepted for breeding purposes, a reference body should be designated;</p>
+      <p n="8">Whereas the powers and duties of that body should be defined;</p>
+      <p n="9">Whereas, in the light of experience gained, the Interbull Centre should be designated as the reference body responsible for collaborating in rendering uniform the testing methods and the assessment of the results for pure-bred breeding animals of the bovine species,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">1. The body referred to in Annex I shall be designated as the reference body responsible for collaborating in rendering uniform the testing methods and the assessment of the results for pure-bred breeding animals of the bovine species.</p>
+      <p n="13">2. The duties of the body designated in paragraph 1 shall be as set out in Annex II.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Decision is addressed to the Member States.</p>
+      <p n="16">Done at Brussels, 23 July 1996.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">I. YATES</p>
+      <p n="20">(1) OJ No L 167, 26. 6. 1987, p. 54. Directive as amended by the 1994 Act of Accession.</p>
+      <p n="21">ANNEX I</p>
+      <p n="22">Name of the body:</p>
+      <p n="23">INTERBULL Centre</p>
+      <p n="24">Department of Animal Breeding and Genetics</p>
+      <p n="25">Swedish University of Agricultural Sciences</p>
+      <p n="26">Box: 7023;</p>
+      <p n="27">S-750 07 Uppsala, Sweden.</p>
+      <p n="28">ANNEX II</p>
+      <p n="29">The duties of the body designated in Article 1 (1) of the Decision are as follows:</p>
+      <p n="30">1. to be the documentation and information centre for the methods of testing and assessing the genetic value of pure-bred breeding animals of the bovine species for the Member States of the European Union as laid down in Decision 86/130/EEC (1). This duty will be accomplished by:</p>
+      <p n="31">- regularly receiving the results of genetic assessments and the data on which they were based,</p>
+      <p n="32">- comparing the various methods of testing and assessing the genetic value of pure-bred breeding animals of the bovine species;</p>
+      <p n="33">2. at the request of the Member States of the Commission:</p>
+      <p n="34">(a) to provide assistance in order to contribute to the harmonization of the various methods of testing and assessing the genetic value of pure-bred breeding animals of the bovine species, in particular by recommending the calculation methods to be used;</p>
+      <p n="35">(b) to provide assistance in order to permit the comparison of the results of the methods of testing and assessing the genetic value of animals in the various Member States, in particular by:</p>
+      <p n="36">- developing control protocols, to enable assessments to be made in the various Member States so as to improve the relevance of results and the effectiveness of selection programmes,</p>
+      <p n="37">- carrying out an international assessment of livestock on the basis of the genetic assessments made in the various Member States,</p>
+      <p n="38">- disseminating the individual results of the international assessments,</p>
+      <p n="39">- publishing the conversion formulae and all related genetic work;</p>
+      <p n="40">(c) to help the bodies referred to in point I of the Annex to Decision 86/130/EEC to take part in a comparison of the results of the assessment of genetic value at international level;</p>
+      <p n="41">(d) to evaluate the problems of assessing pure-bred breeding animals and attempt to resolve the problems linked to the genetic assessments carried out in the various Member States.</p>
+      <p n="42">(1) OJ No L 101, 17. 4. 1986, p. 37. Decision as last amended by Decision 94/515/EC (OJ No L 207, 10. 8. 1994, p. 30).</p>
+    </body>
+  </text>
+</TEI.2>

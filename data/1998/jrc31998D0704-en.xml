@@ -1,0 +1,99 @@
+<TEI.2 id="jrc31998D0704-en" n="31998D0704" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0704 English</title>
+        <title>98/704/Euratom: Council Decision of 22 June 1998 concerning the extension of the duration of the Agreement among the European Atomic Energy Community, the Government of Japan, the Government of the Russian Federation and the Government of the United States of America on cooperation in the engineering design activities (EDA) for the international thermonuclear experimental reactor (ITER)</title>
+      </titleStmt>
+      <extent>62 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0704:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0704:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1524</classCode>
+        <classCode scheme="eurovoc">2903</classCode>
+        <classCode scheme="eurovoc">5344</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">5876</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0704-en." lang="en">
+    <body>
+      <head n="1">98/704/Euratom: Council Decision of 22 June 1998 concerning the extension of the duration of the Agreement among the European Atomic Energy Community, the Government of Japan, the Government of the Russian Federation and the Government of the United States of America on cooperation in the engineering design activities (EDA) for the international thermonuclear experimental reactor (ITER)</head>
+      <p n="2">COUNCIL DECISION of 22 June 1998 concerning the extension of the duration of the Agreement among the European Atomic Energy Community, the Government of Japan, the Government of the Russian Federation and the Government of the United States of America on cooperation in the engineering design activities (EDA) for the international thermonuclear experimental reactor (ITER) (98/704/Euratom)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular the second paragraph of Article 101 thereof,</p>
+      <p n="5">Having regard to the draft decision submitted by the Commission,</p>
+      <p n="6">Whereas the Commission has, in accordance with the Council Directives of 8 April 1998, conducted negotiations on the extension of the Agreement among the European Atomic Energy Community, the Government of Japan, the Government of the Russian Federation and the Government of the United States of America on cooperation in the engineering design activities (EDA) for the international thermonuclear experimental reactor (ITER) ('the ITER EDA Agreement`);</p>
+      <p n="7">Whereas the extension of the duration of the ITER EDA Agreement should be approved,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Sole Article</p>
+      <p n="10">The extension, by the Commission, for and on behalf of the Community, of the duration of the Agreement among the European Atomic Energy Community, the Government of Japan, the Government of the Russian Federation and the Government of the United States of America on cooperation in the engineering design activities for the international thermonuclear experimental reactor is hereby approved.</p>
+      <p n="11">The text of the Amendment extending the ITER EDA Agreement is annexed to this Decision, together with the text of the Understandings for the extension of the duration of the ITER EDA Agreement.</p>
+      <p n="12">Done at Luxembourg, 22 June 1998.</p>
+      <p n="13">For the Council</p>
+      <p n="14">The President</p>
+      <p n="15">J. BATTLE</p>
+      <p n="16">ANNEX</p>
+      <p n="17">AMENDMENT EXTENDING THE ITER EDA AGREEMENT</p>
+      <p n="18">Amendment extending the ITER EDA Agreement among the European Atomic Energy Community, the Government of Japan, the Government of the Russian Federation and the Government of the United States of America on cooperation in the engineering design activities for the international thermonuclear experimental reactor</p>
+      <p n="19">THE EUROPEAN ATOMIC ENERGY COMMUNITY, THE GOVERNMENT OF JAPAN, THE GOVERNMENT OF THE RUSSIAN FEDERATION AND THE GOVERNMENT OF THE UNITED STATES OF AMERICA ('the parties`),</p>
+      <p n="20">HAVING REGARD to the Agreement among the Parties on Cooperation in the Engineering Design Activities (EDA) for the International Thermonuclear Experimental Reactor (ITER), concluded on 21 July 1992 ('the Agreement`), and the Protocol 2 to the Agreement concluded on 21 March 1994,</p>
+      <p n="21">NOTING the progress achieved and the proposals made on approaches to continued joint implementation, all within the framework of the Agreement,</p>
+      <p n="22">DESIRING to continue to work jointly within the framework of the Agreement to enable future decisions on construction and operation of ITER in accordance with Article 1 of the Agreement, and</p>
+      <p n="23">ACTING in accordance with Articles 22 and 25(2) of the Agreement,</p>
+      <p n="24">HAVE AGREED to amend the Agreement as follows:</p>
+      <p n="25">Replace the words 'six years` in Article 25(1) by the words 'nine years`.</p>
+      <p n="26">This Amendment shall enter into force on signature of the Parties.</p>
+      <p n="27">&gt;TABLE&gt;</p>
+      <p n="28">Understandings for the extension of the duration of the ITER EDA Agreement</p>
+      <p n="29">I. SCOPE OF JOINT TECHNICAL ACTIVITIES</p>
+      <p n="30">(1) Site(s)-specific activities:</p>
+      <p n="31">- site(s)-specific design adaptations and their cost estimates,</p>
+      <p n="32">- safety analysis and technical support for preparation of licence applications.</p>
+      <p n="33">(2) Design, including broader options and their cost estimates, prototype testing and R&amp; D, including physics studies.</p>
+      <p n="34">(3) Preparation of documentation for future procurement incorporating results of items (1) and (2) noted above.</p>
+      <p n="35">II. OTHER ENABLING ACTIVITIES</p>
+      <p n="36">The Parties will also:</p>
+      <p n="37">(1) develop proposals and all necessary supporting information for the complete realisation of ITER including a draft agreement for construction and operation and associated draft implementing arrangements, as well as information on the possible impact of broader concepts on the development path towards fusion energy;</p>
+      <p n="38">(2) adapt the structures and modes of JCT/HTs' operation with a view to launching an efficient start of future construction, if and when so decided;</p>
+      <p n="39">(3) near the end of the second year, jointly review the joint technical activities in point I above, for example, licensing preparations, cost estimates, organisational evolution, construction preparations and domestic situations and, thereupon, prepare a joint assessment for use by each Party.</p>
+      <p n="40">III. PARTIES' SUPPORT OF THE JOINT ACTIVITIES</p>
+      <p n="41">(1) Site(s)-specific activities</p>
+      <p n="42">Each Party will have an interest and involvement in the work to be based on all site characteristics provided. The work, therefore, will be undertaken jointly and managed accordingly under the responsibility of the ITER Director within the EDA framework with the exception of the preparation by native speakers of documents required in the host Party's/country's language and formats.</p>
+      <p n="43">The interested Parties will:</p>
+      <p n="44">- provideby the time of the 14th ITER Council meeting (IC-14, July 1998) site characteristics in line with the site requirements and site design assumptions document,</p>
+      <p n="45">- enable on a timely basis informal dialogue with regulators for the purpose of preparing applications for licences to build and operate ITER.</p>
+      <p n="46">The Director and the concerned home team (HT) leaders will start informal consultation so that, in the light of the site characteristics provided by the interested Parties, tasks of point I(1) can appear in the work programme to be submitted to IC-14 via the appropriate Management Advisory Committee (MAC) meeting.</p>
+      <p n="47">The design adaptations will be carried out with due emphasis on the control of the project's estimated cost.</p>
+      <p n="48">(2) General support</p>
+      <p n="49">The Parties will:</p>
+      <p n="50">- maintain the joint central team (JCT) and undertake assigned tasks,</p>
+      <p n="51">- provide voluntary contribution in various areas, including consolidating the scientific basis for activities in point I(2), for example, by taking advantage of the existing voluntary arrangements,</p>
+      <p n="52">- continue to provide joint work sites (JWS) and support enhanced interconnection.</p>
+      <p n="53">(3) Estimated resources</p>
+      <p n="54">The estimated resources for the intended scope of work noted in point I (beyond those already committed through Task Agreements) from the Director's proposals as supported by the ITER Council (IC-12 record of decisions 6.1.1, attachment 9) are the following:</p>
+      <p n="55">&gt;TABLE&gt;</p>
+      <p n="56">Each Party will make its best efforts to provide its share of the resources (Articles 12 and 14 of the Agreement) in fulfilment of its obligation in accordance with Article 17(1) of the Agreement.</p>
+      <p n="57">IV. ARRANGEMENTS IN FORCE</p>
+      <p n="58">(1) These Understandings will be in force during the extended period along with the previous sets of understandings, reached at the times of signing the Agreement and Protocol 2, unless otherwise determined among the Parties in writing.</p>
+      <p n="59">(2) The current arrangements involving other countries pursuant to Article 19 of the Agreement will continue to be in force.</p>
+      <p n="60">(3) The IAEA will continue providing facilitations and assistance pursuant to Article 20 of the Agreement.</p>
+      <p n="61">V. CONCLUDING UNDERSTANDING</p>
+      <p n="62">The Parties will undertake the joint activities with a general intent to enable an efficient start of possible, future ITER construction, and do recognise the importance in this regard of pursuing preparatory efforts in all relevant domains.</p>
+    </body>
+  </text>
+</TEI.2>

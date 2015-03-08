@@ -1,0 +1,76 @@
+<TEI.2 id="jrc32003R1078-en" n="32003R1078" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1078 English</title>
+        <title>Council Regulation (EC) No 1078/2003 of 16 June 2003 amending Regulation (EC) No 2505/96 opening and providing for the administration of autonomous Community tariff quotas for certain agricultural and industrial products</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1078:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1078:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">1994</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2739</classCode>
+        <classCode scheme="eurovoc">2758</classCode>
+        <classCode scheme="eurovoc">4676</classCode>
+        <classCode scheme="eurovoc">50</classCode>
+        <classCode scheme="eurovoc">5055</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1078-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1078/2003 of 16 June 2003 amending Regulation (EC) No 2505/96 opening and providing for the administration of autonomous Community tariff quotas for certain agricultural and industrial products</head>
+      <p n="2">Council Regulation (EC) No 1078/2003</p>
+      <p n="3">of 16 June 2003</p>
+      <p n="4">amending Regulation (EC) No 2505/96 opening and providing for the administration of autonomous Community tariff quotas for certain agricultural and industrial products</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 26 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) By virtue of Council Regulation (EC) No 2505/96 of 20 December 1996, opening and providing for the administration of autonomous Community tariff quotas for certain agricultural and industrial products(2), Community tariff quotas for certain agricultural and industrial products were opened. Community demand for the products in question should be met under the most favourable conditions. Community tariff quotas should therefore be opened at reduced or zero rates of duty for appropriate volumes and increased, extended or terminated in the case of certain existing tariff quotas, while avoiding any disturbance to the markets for these products.</p>
+      <p n="10">(2) Regulation (EC) No 2505/96 should therefore be amended accordingly.</p>
+      <p n="11">(3) Having regard to the economic importance of this Regulation, it is necessary to invoke the grounds of urgency provided for in point I(3) of the Protocol on the role of national parliaments in the European Union annexed to the Treaty on European Union and to the Treaties establishing the European Communities,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">With effect from 1 July 2003, the tariff quotas listed in the Annex to this Regulation shall be added to Annex I to Regulation (EC) No 2505/96.</p>
+      <p n="15">Article 2</p>
+      <p n="16">For the quota period from 1 January to 30 June 2003, Annex I of Regulation (EC) No 2505/96 shall be amended as follows:</p>
+      <p n="17">- the quota amount of the tariff quota 09.2902 shall be fixed at 20000 units,</p>
+      <p n="18">- the quota amount of the tariff quota 09.2935 shall be fixed at 120000 tonnes.</p>
+      <p n="19">Article 3</p>
+      <p n="20">For the quota period from 1 January to 31 December 2003, Annex I of Regulation (EC) No 2505/96 shall be amended as follows:</p>
+      <p n="21">- the quota amount of the tariff quota 09.2904 shall be fixed at 8500 units,</p>
+      <p n="22">- the quota amount of the tariff quota 09.2985 shall be fixed at 400000 units.</p>
+      <p n="23">Article 4</p>
+      <p n="24">The quota period of the tariff quota 09.2867, which is given in Annex I to Regulation (EC) No 2505/96 shall be extended until 31 December 2003.</p>
+      <p n="25">Article 5</p>
+      <p n="26">The quota period of the tariff quota 09.2991, which is given in Annex I to Regulation (EC) No 2505/96 shall be terminated by 30 June 2003.</p>
+      <p n="27">Article 6</p>
+      <p n="28">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="29">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="30">Done at Luxembourg, 16 June 2003.</p>
+      <p n="31">For the Council</p>
+      <p n="32">The President</p>
+      <p n="33">G. Papandreou</p>
+      <p n="34">(1) Proposal of 12 May 2003 (not yet published in the Official Journal).</p>
+      <p n="35">(2) OJ L 345, 31.12.1996, p. 1. Regulation as last amended by Commission Regulation (EC) No 608/2003 (OJ L 86, 3.4.2003, p. 20).</p>
+      <p n="36">ANNEX</p>
+      <p n="37">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

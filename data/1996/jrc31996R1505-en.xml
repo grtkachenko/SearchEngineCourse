@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31996R1505-en" n="31996R1505" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R1505 English</title>
+        <title>Commission Regulation (EC) No 1505/96 of 29 July 1996 amending Regulation (EC) No 1484/95 laying down detailed rules for implementing the system of additional import duties and fixing additional import duties in the poultrymeat and egg sectors and for egg albumin</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1505:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1505:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2121</classCode>
+        <classCode scheme="eurovoc">2212</classCode>
+        <classCode scheme="eurovoc">2651</classCode>
+        <classCode scheme="eurovoc">4078</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R1505-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1505/96 of 29 July 1996 amending Regulation (EC) No 1484/95 laying down detailed rules for implementing the system of additional import duties and fixing additional import duties in the poultrymeat and egg sectors and for egg albumin</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1505/96 of 29 July 1996 amending Regulation (EC) No 1484/95 laying down detailed rules for implementing the system of additional import duties and fixing additional import duties in the poultrymeat and egg sectors and for egg albumin</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2771/75 of 29 October 1975 on the common organization of the market in eggs (1), as last amended by Regulation (EC) No 2916/95 (2), and in particular Article 5 (4) thereof,</p>
+      <p n="6">Having regard to Council Regulation (EEC) No 2777/75 of 29 October 1975 on the common organization of the market in poultrymeat (3), as last amended by Regulation (EC) No 2916/95, and in particular Article 5 (4) thereof,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2783/75 of 29 October 1975 on the common system of trade for ovalbumin and lactalbumin (4), as last amended by Regulation (EC) No 2916/95, and in particular Article 3 (4) thereof,</p>
+      <p n="8">Whereas Commission Regulation (EC) No 1484/95 (5), as last amended by Regulation (EC) No 1385/96 (6), fixes detailed rules for implementing the system of additional import duties and fixes additional import duties in the poultrymeat and egg sectors and for egg albumin;</p>
+      <p n="9">Whereas Commission Regulation (EC) No 1251/96 (7), has opened new tariff quotas for certain products in the poultrymeat sector in the context of the World Trade Organization; whereas additional duties may not be imposed on products imported within these tariff quotas;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Article 6 of Regulation (EC) No 1484/95 is hereby replaced by the following text:</p>
+      <p n="14">'Article 6</p>
+      <p n="15">The additional duties laid down in Annex I shall not apply to imports in the framework of Commission Regulations (EC) No 1431/94 (*), (EC) No 1474/95 (**) and (EC) No 1251/96 (***).</p>
+      <p n="16">(*) OJ No L 156, 23. 6. 1994, p. 9.</p>
+      <p n="17">(**) OJ No L 145, 29. 6. 1995, p. 19.</p>
+      <p n="18">(***) OJ No L 161, 29. 6. 1996, p. 136.`</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">It shall apply from 1 July 1996.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 29 July 1996.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz FISCHLER</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ No L 282, 1. 11. 1975, p. 49.</p>
+      <p n="28">(2) OJ No L 305, 19. 12. 1995, p. 49.</p>
+      <p n="29">(3) OJ No L 282, 1. 11. 1975, p. 77.</p>
+      <p n="30">(4) OJ No L 282, 1. 11. 1975, p. 104.</p>
+      <p n="31">(5) OJ No L 145, 29. 6. 1995, p. 47.</p>
+      <p n="32">(6) OJ No L 179, 18. 7. 1996, p. 29.</p>
+      <p n="33">(7) OJ No L 161, 29. 6. 1996, p. 136.</p>
+    </body>
+  </text>
+</TEI.2>

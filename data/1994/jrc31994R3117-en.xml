@@ -1,0 +1,71 @@
+<TEI.2 id="jrc31994R3117-en" n="31994R3117" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994R3117 English</title>
+        <title>Council Regulation (EC) No 3117/94 of 12 December 1994 amending Regulation (EEC) No 1907/90 on certain marketing standards for eggs</title>
+      </titleStmt>
+      <extent>44 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R3117:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R3117:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994R3117-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 3117/94 of 12 December 1994 amending Regulation (EEC) No 1907/90 on certain marketing standards for eggs</head>
+      <p n="2">COUNCIL REGULATION (EC) No 3117/94 of 12 December 1994 amending Regulation (EEC) No 1907/90 on certain marketing standards for eggs</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2771/75 of 29 October 1975 on the common organization of the market in eggs (1), and in particular Article 2 (2) thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas Regulation (EEC) No 1907/90 (2) lays down certain marketing standards for eggs;</p>
+      <p n="8">Whereas the definition of the batch should be brought into line with the recent modification concerning the obligatory indication of the date of minimum durability for grade A eggs;</p>
+      <p n="9">Whereas Regulation (EEC) No 1907/90 excludes direct sales of eggs from producers to consumers from its scope of application; whereas, in order to take account of the specific conditions of egg marketing in certain regions in Finland, sales from producers to retail outlets in those regions should also be excluded from its scope of application;</p>
+      <p n="10">Whereas the length of the period during with grade A eggs may be sold as 'extra' or 'extra fresh' should be defined in relation to either the packing or laying date,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Regulation (EEC) No 1907/90 is hereby amended as follows:</p>
+      <p n="14">1. In Article 1 point 10, the term 'packing or grading date' shall be replaced by the term 'date of minimum durability or packing date'.</p>
+      <p n="15">2. Article 2 (3) shall be replaced by the following:</p>
+      <p n="16">'3. This Regulation shall not apply to:</p>
+      <p n="17">- eggs sold directly to the consumer for his own use, by the producer on his own farm, in a local public market with the exception of auction markets, or by door-to-door selling,</p>
+      <p n="18">- eggs, excluding cracked eggs, sold to the local retailer by the producer in the specific regions of Finland referred to in Annex II,</p>
+      <p n="19">provided that the eggs come from the producer's own production and are not packed in accordance with Articles 10, 11 and 12 and that use is not made of any of the quality and weight gradings laid down in this Regulation.'</p>
+      <p n="20">3. Article 12 shall be replaced by the following:</p>
+      <p n="21">'Article 12</p>
+      <p n="22">The words "extra" or "extra fresh" may be used on small packs containing class A eggs provided with a band or label. These words shall be printed on the band or label, which shall be removed and destroyed not later than the seventh day after packing or the ninth day after laying'.</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Regulation shall enter into force on 1 January 1995.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 12 December 1994.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">J. BORCHERT</p>
+      <p n="30">(1) OJ No L 282, 1. 11. 1975, p 49. Regulation as last amended by Regulation (EEC) No 1574/93 (OJ No L 152, 24. 6. 1993, p. 1).</p>
+      <p n="31">(2) OJ No L 173, 6. 7. 1990, p. 5. Regulation as last amended by Regulation (EEC) No 2617/93 (OJ No L 240, 25. 9. 1993, p. 1).</p>
+      <p n="32">ANNEX</p>
+      <p n="33">'ANNEX II</p>
+      <p n="34">Regions of Finland referred to in Article 2 (3)</p>
+      <p n="35">The Provinces of:</p>
+      <p n="36">- Lappi</p>
+      <p n="37">- Oulu</p>
+      <p n="38">- Pohjois-Karjala</p>
+      <p n="39">- Kuopio</p>
+      <p n="40">- Keski-Suomi</p>
+      <p n="41">- Mikkeli</p>
+      <p n="42">- Kymi</p>
+      <p n="43">- Ahvenanmaa</p>
+      <p n="44">The communes of Alajaervi, Lehtimaeki, Lestijaervi, Perho, Soini, Toeysae, Vimpeli and AEhtaeri in the Province of Vaasa.'</p>
+    </body>
+  </text>
+</TEI.2>

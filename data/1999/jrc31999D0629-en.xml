@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31999D0629-en" n="31999D0629" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0629 English</title>
+        <title>1999/629/EC, ECSC, Euratom: Council Decision of 13 September 1999 appointing the Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0629:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0629:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">114</classCode>
+        <classCode scheme="eurovoc">3559</classCode>
+        <classCode scheme="eurovoc">5788</classCode>
+        <classCode scheme="eurovoc">5885</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0629-en." lang="en">
+    <body>
+      <head n="1">1999/629/EC, ECSC, Euratom: Council Decision of 13 September 1999 appointing the Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 13 September 1999</p>
+      <p n="4">appointing the Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union</p>
+      <p n="5">(1999/629/EC, ECSC, Euratom)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 207(2) thereof,</p>
+      <p n="8">Having regard to the Treaty establishing the European Coal and Steel Community, and in particular Article 30(2) thereof,</p>
+      <p n="9">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 121(2) thereof,</p>
+      <p n="10">Having regard to the Council Decision 1999/543/EC, ECSC, Euratom of 29 July 1999 extending the term of office of Mr Jürgen Trumpf as Secretary-General of the Council of the European Union(1),</p>
+      <p n="11">Having regard to Mr Jürgen Trumpf's agreement to relinquish his post on 17 October 1999,</p>
+      <p n="12">Whereas the new Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union should be appointed,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Mr Javier Solana Madariaga is hereby appointed Secretary-General, High Representative for the Common Foreign and Security Policy, of the Council of the European Union for a period of five years with effect from 18 October 1999.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Council Decision 1999/543/EC, ECSC, Euratom of 29 July 1999 shall be amended insofar as it runs counter to this Decision.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Decision shall be notified to Mr Javier Solana Madariaga and to Mr Jürgen Trumpf by the President of the Council.</p>
+      <p n="20">It shall be published in the Official Journal of the European Communities.</p>
+      <p n="21">Done at Brussels, 13 September 1999.</p>
+      <p n="22">For the Council</p>
+      <p n="23">The President</p>
+      <p n="24">T. HALONEN</p>
+      <p n="25">(1) OJ L 209, 7.8.1999, p. 28.</p>
+    </body>
+  </text>
+</TEI.2>

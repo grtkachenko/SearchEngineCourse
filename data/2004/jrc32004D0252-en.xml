@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32004D0252-en" n="32004D0252" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0252 English</title>
+        <title>2004/252/EC: Commission Decision of 10 March 2004 amending Decision 2001/106/EC as regards bovine semen storage centres (Text with EEA relevance) (notified under document number C(2004) 709)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0252:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0252:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">3408</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0252-en." lang="en">
+    <body>
+      <head n="1">2004/252/EC: Commission Decision of 10 March 2004 amending Decision 2001/106/EC as regards bovine semen storage centres (Text with EEA relevance) (notified under document number C(2004) 709)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 10 March 2004</p>
+      <p n="4">amending Decision 2001/106/EC as regards bovine semen storage centres</p>
+      <p n="5">(notified under document number C(2004) 709)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/252/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 88/407/EEC of 14 June 1988 laying down the animal health requirements applicable to intra-Community trade in and imports of semen of domestic animals of the bovine species(1), and in particular Article 5(2) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Under Directive 88/407/EEC, as amended by Council Directive 2003/43/EC(2), intra-Community trade of semen of domestic animals of the bovine species is permitted from semen collection centres or semen storage centres approved by the competent authorities of the Member States where they are located and each Member State is to send a list of semen collection or storage centre(s) to the other Member States and to the Commission.</p>
+      <p n="13">(2) Commission Decision 2001/106/EC of 24 January 2001 establishing a model for the lists of entities approved by Member States in accordance with various provisions of Community veterinary legislation, and the rules applying to the transmission of these lists to the Commission(3) lays down rules on how lists of semen collection centres that each Member State has approved on its territory are to be transmitted to the Commission. That Decision also provides for models to be used for those lists.</p>
+      <p n="14">(3) To take account of the amendments made to Directive 88/407/EEC by Directive 2003/43/EC concerning semen storage centres the scope of Decision 2001/106/EC should be broadened in order to include bovine semen storage centres.</p>
+      <p n="15">(4) Decision 2001/106/EC should therefore be amended accordingly.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Annexes I and II to Decision 2001/106/EC are amended in accordance with the Annex to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 10 March 2004.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">David Byrne</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 194, 22.7.1988, p. 10. Directive as last amended by Commission Decision 2004/101/EC (OJ L 30, 4.2.2004, p 15.).</p>
+      <p n="27">(2) OJ L 143, 11.6.2003, p. 23.</p>
+      <p n="28">(3) OJ L 39, 9.2.2001, p. 39. Decision as amended by Decision 2002/279/EC (OJ L 99, 16.4.2002, p. 17.).</p>
+      <p n="29">ANNEX</p>
+      <p n="30">Annexes I and II to Decision 2001/106/EC are amended as follows:</p>
+      <p n="31">1. in Annex I, paragraph 2 is replaced by the following:</p>
+      <p n="32">"2. Semen collection and storage centres approved in accordance with Article 5(1) of Directive 88/407/EEC and semen collection centres approved in accordance with Article 5(1) of Directive 90/429/EEC.";</p>
+      <p n="33">2. in Annex II, Section II is replaced by the following:</p>
+      <p n="34">&gt;PIC FILE= "L_2004079EN.004602.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

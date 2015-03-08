@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31999D0692-en" n="31999D0692" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0692 English</title>
+        <title>1999/692/EC, ECSC, Euratom: Council Decision of 20 October 1999 determining the appointing authority for the General Secretariat of the Council</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0692:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0692:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">114</classCode>
+        <classCode scheme="eurovoc">3048</classCode>
+        <classCode scheme="eurovoc">4178</classCode>
+        <classCode scheme="eurovoc">4271</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0692-en." lang="en">
+    <body>
+      <head n="1">1999/692/EC, ECSC, Euratom: Council Decision of 20 October 1999 determining the appointing authority for the General Secretariat of the Council</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 20 October 1999</p>
+      <p n="4">determining the appointing authority for the General Secretariat of the Council</p>
+      <p n="5">(1999/692/EC, ECSC, Euratom)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Staff Regulations of officials of the European Communities and the Conditions of employment of other servants of the Communities, as laid down by Council Regulation (EEC, Euratom, ECSC) No 259/68 of 29 February 1968(1), as last amended by Regulation (EC, ECSC, Euratom) No 1238/1999(2), and in particular Article 2 of those Staff Regulations and Article 6 of those Conditions,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Under the first subparagraph of Article 207(2) of the EC Treaty, the first subparagraph of Article 30(2) of the ECSC Treaty and the first subparagraph of Article 121(2) of the Euratom Treaty, as amended by the Treaty of Amsterdam, which entered into force on 1 May 1999, the General Secretariat of the Council comes under the responsibility of a Secretary-General, High Representative for the common foreign and security policy, hereinafter referred to as "the Secretary-General", assisted by a Deputy Secretary-General;</p>
+      <p n="10">(2) A new Decision should be adopted determining the appointing authority for the General Secretariat of the Council and to repeal Decisions 63/2/Euratom and 63/9/EEC(3),</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The powers conferred by the Staff Regulations of officials on the appointing authority and by the Conditions of employment of other servants on the authority competent to conclude staff contracts shall, as regards the General Secretariat of the Council, be exercised:</p>
+      <p n="14">(a) by the Council for the Secretary-General and the Deputy Secretary-General;</p>
+      <p n="15">(b) by the Council, on a proposal from the Secretary-General, for the application to officials or other servants in Grade 1 of Category A of Articles 1, 13, the second paragraph of Article 15, Articles 16, 22, 29, 30, 31, 32, 38, 41, 49, 50, 51, 78, 87, 88, 89 and 90; the Secretary-General is authorised to delegate his power of proposal to the Deputy Secretary-General;</p>
+      <p n="16">(c) by the Secretary-General in other cases; the Secretary-General is authorised to delegate his powers to the Deputy Secretary-General.</p>
+      <p n="17">The Deputy Secretary-General is authorised to delegate any powers delegated to him by the Secretary-General to the Director-General of Administration, in whole or in part, for the application of the Conditions of employment of other servants and the application of the Staff Regulations to officials in Categories B, C and D. Such delegation cannot extend to any powers delegated to him in respect of the appointment and termination of service of officials and the engagement of other servants.</p>
+      <p n="18">Article 2</p>
+      <p n="19">Decisions 63/9/EEC and 63/2/Euratom are hereby repealed.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision shall take effect on the date of its adoption.</p>
+      <p n="22">Article 4</p>
+      <p n="23">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="24">Done at Brussels, 20 October 1999.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">T. HALONEN</p>
+      <p n="28">(1) OJ L 56, 4.3.1968, p. 1.</p>
+      <p n="29">(2) OJ L 150, 17.6.1999, p. 1.</p>
+      <p n="30">(3) Council Decisions of 14 May 1962 determining the appointing authority for the Secretariat of the Councils (OJ 5, 16.1.1963, p. 33 and p. 34).</p>
+    </body>
+  </text>
+</TEI.2>

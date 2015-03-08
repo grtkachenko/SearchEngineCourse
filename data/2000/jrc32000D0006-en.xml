@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32000D0006-en" n="32000D0006" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0006 English</title>
+        <title>2000/6/EC: Commission Decision of 10 December 1999 amending for the second time Decision 1999/507/EC on certain protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia (notified under document number C(1999) 4249) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0006:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0006:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">1765</classCode>
+        <classCode scheme="eurovoc">1919</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">4160</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0006-en." lang="en">
+    <body>
+      <head n="1">2000/6/EC: Commission Decision of 10 December 1999 amending for the second time Decision 1999/507/EC on certain protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia (notified under document number C(1999) 4249) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 10 December 1999</p>
+      <p n="4">amending for the second time Decision 1999/507/EC on certain protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia</p>
+      <p n="5">(notified under document number C(1999) 4249)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/6/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/496/EEC of 15 July 1991 laying down the principles governing the organisation of veterinary checks on animals entering the Community from third countries and amending Directives 89/662/EEC, 90/425/EEC and 90/675/EEC(1), as last amended by Directive 96/43/EC(2), and in particular Article 18(7) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) By Decision 1999/507/EC(3) the Commission has adopted protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia with regard to Nipah respective Hendra disease, including among others laboratory tests for dogs and cats destined for imports into the Community.</p>
+      <p n="13">(2) In the absence of internationally agreed standard testing procedures for Nipah disease, the test requirements for dogs and cats have been established in accordance with the official notification of the veterinary services of Malaysia to the Office International des Epizooties (OIE) of 28 May 1999.</p>
+      <p n="14">(3) By letter of 11 October 1999, the veterinary services of Malaysia have officially informed the Commission; that the required IgM capture ELISA test cannot be carried out and that the IgG capture ELISA is regarded to be the adequate test.</p>
+      <p n="15">(4) Therefore dogs and cats intended for import into Member States from Malaysia cannot be certified by the veterinary services in Malaysia in accordance with Community law.</p>
+      <p n="16">(5) The test requirements for dogs and cats imported from Malaysia must be modified so as to allow the use of a validated diagnostic test for the detection of antibody against Nipah disease virus.</p>
+      <p n="17">(6) For the sake of clarity provisions should be made allowing the transit of dogs and cats through international airports in Malaysia.</p>
+      <p n="18">(7) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="19">HAS ADOPTED THIS DECISION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Article 2 of Decision 1999/507/EC is amended as follows:</p>
+      <p n="22">1. In the third indent of paragraph 2 the words "IgM and" are deleted.</p>
+      <p n="23">2. A third paragraph is added as follows: "3. The prohibition referred to in paragraph 1 shall not apply to dogs and cats in transit, provided they remain within the perimeter of an international airport."</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 10 December 1999.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">David BYRNE</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 268, 24.9.1991, p. 56.</p>
+      <p n="31">(2) OJ L 162, 1.7.1996, p. 1.</p>
+      <p n="32">(3) OJ L 194, 27.7.1999, p. 66.</p>
+    </body>
+  </text>
+</TEI.2>

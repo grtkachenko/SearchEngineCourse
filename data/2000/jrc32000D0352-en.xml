@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32000D0352-en" n="32000D0352" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0352 English</title>
+        <title>2000/352/EC: Commission Decision of 4 May 2000 amending Decision 94/984/EC laying down animal health conditions and veterinary certificates for the importation of fresh poultrymeat from third countries in respect of the People's Republic of China (notified under document number C(2000) 1163) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0352:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0352:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">5969</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0352-en." lang="en">
+    <body>
+      <head n="1">2000/352/EC: Commission Decision of 4 May 2000 amending Decision 94/984/EC laying down animal health conditions and veterinary certificates for the importation of fresh poultrymeat from third countries in respect of the People's Republic of China (notified under document number C(2000) 1163) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 4 May 2000</p>
+      <p n="4">amending Decision 94/984/EC laying down animal health conditions and veterinary certificates for the importation of fresh poultrymeat from third countries in respect of the People's Republic of China</p>
+      <p n="5">(notified under document number C(2000) 1163)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/352/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/494/EEC of 26 June 1991 on animal health conditions governing intra-Community trade in and imports from third countries of fresh poultrymeat(1), as last amended by Directive 1999/89/EC(2), and in particular Articles 11 and 12 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 94/984/EC(3), as last amended by Decision 2000/254/EC(4), established the animal health conditions and the veterinary certificates for imports of fresh poultrymeat from certain third countries; two different certificates, model A and model B are laid down; their use depends on the Newcastle disease situation in the country concerned.</p>
+      <p n="13">(2) Certain parts of the territory of China listed in Annex I of Decision 94/984/EC were allowed to use the model B certificate until an inspection revealed problems with certification; because of this, imports of fresh poultrymeat from China from 1 August 1996 were suspended by Commission Decision 96/456/EC.</p>
+      <p n="14">(3) An inspection mission was carried out in October 1999 by the Commission in China and has shown that significant improvement has been achieved by the Chinese veterinary services and written assurances have been given so that the above mentioned suspension can be repealed.</p>
+      <p n="15">(4) The disease situation as concerns Newcastle disease still requires additional guarantees to be fulfilled as laid down in the model B certificate of Decision 94/984/EC.</p>
+      <p n="16">(5) For reasons of clarity this Decision shall apply for fresh poultrymeat certified as from 1 June 2000.</p>
+      <p n="17">(6) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">Annex I to Decision 94/984/EC is amended as follows:</p>
+      <p n="21">In the line "CN China (PR)" the footnote "3" after the word "Shandong" and after the letter "B" and the corresponding footnote "3, Importation suspended as from 1 August 1996" at the bottom of the page are deleted.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision shall apply for fresh poultrymeat certified as from 1 June 2000.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 4 May 2000.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">David Byrne</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 268, 24.9.1991, p. 35.</p>
+      <p n="31">(2) OJ L 300, 23.11.1999, p. 17.</p>
+      <p n="32">(3) OJ L 378, 21.12.1994, p. 11.</p>
+      <p n="33">(4) OJ L 78, 29.3.2000, p. 33.</p>
+    </body>
+  </text>
+</TEI.2>

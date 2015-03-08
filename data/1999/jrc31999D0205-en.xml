@@ -1,0 +1,123 @@
+<TEI.2 id="jrc31999D0205-en" n="31999D0205" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0205 English</title>
+        <title>1999/205/EC: Commission Decision of 26 February 1999 establishing ecological criteria for the award of the Community eco-label to personal computers (notified under document number C(1999) 425) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>87 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0205:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0205:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">142</classCode>
+        <classCode scheme="eurovoc">1439</classCode>
+        <classCode scheme="eurovoc">3704</classCode>
+        <classCode scheme="eurovoc">5696</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0205-en." lang="en">
+    <body>
+      <head n="1">1999/205/EC: Commission Decision of 26 February 1999 establishing ecological criteria for the award of the Community eco-label to personal computers (notified under document number C(1999) 425) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 26 February 1999 establishing ecological criteria for the award of the Community eco-label to personal computers (notified under document number C(1999) 425) (Text with EEA relevance) (1999/205/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 880/92 of 23 March 1992 on a Community eco-label award scheme (1), and in particular the second subparagraph of Article 5(1) thereof,</p>
+      <p n="6">Whereas the first subparagraph of Article 5(1) of Regulation (EEC) No 880/92 provides that the conditions for the award of the Community eco-label shall be defined by product groups;</p>
+      <p n="7">Whereas Article 10(2) of Regulation (EEC) No 880/92 states that the environmental performance of a product shall be assessed by reference to the specific criteria for product groups;</p>
+      <p n="8">Whereas the Community is negotiating an agreement on the coordination of energy labelling, based on the US 'Energy Star` programme;</p>
+      <p n="9">Whereas it is appropriate to revise the criteria within a period of two years in order to adapt the energy requirements to technological innovation, market developments and the abovementioned 'Energy Star` programme;</p>
+      <p n="10">Whereas in accordance with Article 6 of Regulation (EEC) No 880/92 the Commission has consulted the principal interest groups within a consultation forum;</p>
+      <p n="11">Whereas the measures provided for in this Decision are in accordance with the opinion of the Committee set up pursuant to Article 7 of Regulation (EEC) No 880/92,</p>
+      <p n="12">HAS ADOPTED THIS DECISION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The product group 'personal computers` (hereinafter referred to as 'the product group`) shall mean:</p>
+      <p n="15">'commercially available stationary computers consisting of a monitor, system unit and keyboard.`</p>
+      <p n="16">Article 2</p>
+      <p n="17">The environmental performance and the fitness for use of the product group shall be assessed by reference to the specific ecological criteria set out in the Annex to this Decision.</p>
+      <p n="18">Article 3</p>
+      <p n="19">The definition of the product group and the specific ecological criteria for the product group shall be valid for a period of two years from the first day of the month following the adoption of the criteria. If revised ecological criteria have not been adopted before the end of this period, their validity shall be extended for a further year.</p>
+      <p n="20">Article 4</p>
+      <p n="21">For administrative purposes the code number assigned to this product group shall be '013`.</p>
+      <p n="22">Article 5</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 26 February 1999.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Ritt BJERREGAARD</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 99, 11. 4. 1992, p. 1.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">FRAMEWORK</p>
+      <p n="31">In order to be awarded an eco-label, the personal computer shall comply with the criteria of this Annex, which are aimed at promoting:</p>
+      <p n="32">- the reduction of environmental damage or risks related to the use of energy (global warming, acidification, depletion of non-renewable resources) by reducing energy consumption,</p>
+      <p n="33">- the reduction of environmental damage related to the use of natural resources by encouraging upgradability, recyclability and maintainability of the computer.</p>
+      <p n="34">Additionally, the criteria encourage the implementation of best practice and enhance the environmental awareness of consumers.</p>
+      <p n="35">Furthermore, the marking of plastic components encourages their recycling.</p>
+      <p n="36">KEY CRITERIA</p>
+      <p n="37">1. Energy savings: monitor</p>
+      <p n="38">The monitor shall have a sleep mode power consumption of &amp;le; 10 watts.</p>
+      <p n="39">The monitor shall have a deep-sleep mode power consumption of &amp;le; 3 watts.</p>
+      <p n="40">The default mode-change time from operation to sleep and from sleep to deep-sleep shall be &amp;le; 30 minutes of inactivity. The manufacturer must enable this feature, but the user may disable it.</p>
+      <p n="41">2. Energy savings: control unit</p>
+      <p n="42">The control unit shall have a sleep mode power consumption of &amp;le; 27 watts. This applies to the control unit when it is not in network operation (i.e. stand-alone mode).</p>
+      <p n="43">The default mode-change time from operation to sleep shall be &amp;le; 30 minutes of inactivity. The manufacturer must enable this feature, but the user may disable it.</p>
+      <p n="44">The off-mode power consumption shall be no more than 5 watts.</p>
+      <p n="45">3. Life-time extension</p>
+      <p n="46">The manufacturer shall offer a commercial guarantee to ensure that the system unit and keyboard will function for at least three years, and that the monitor will function for at least one year. This guarantee shall be valid from the date of delivery to the customer. The availability of compatible replacement parts and service shall be guaranteed for five years from the time of shipment.</p>
+      <p n="47">In addition, the personal computer shall meet the following criteria:</p>
+      <p n="48">1. the system unit shall have a modular design, allowing components to be easily accessible;</p>
+      <p n="49">2. the system unit shall be accessible with commonly available tools, facilitating the exchanging of components;</p>
+      <p n="50">3. upgradability shall be ensured for at least the processor, the graphics card, the random access memory, the hard disk and, if available, the CD-ROM drive;</p>
+      <p n="51">4. one or more empty slots shall be available.</p>
+      <p n="52">BEST PRACTICE CRITERIA</p>
+      <p n="53">4. Take-back and recycling</p>
+      <p n="54">The manufacturer shall guarantee the take-back of the personal computer and of components being replaced, except for items contaminated by users (e.g. in medical or nuclear applications).</p>
+      <p n="55">In addition, the personal computer shall meet the following criteria:</p>
+      <p n="56">1. one trained person, alone, shall be able to dismantle the system unit;</p>
+      <p n="57">2. the manufacturer shall check the disassembly of the system unit and provide a disassembly report. Amongst others, the report shall confirm that joints are:</p>
+      <p n="58">- easy to find and accessible,</p>
+      <p n="59">- as standardised as possible,</p>
+      <p n="60">- accessible with all-purpose tools;</p>
+      <p n="61">3. incompatible and hazardous materials shall be separable;</p>
+      <p n="62">4. 90 % of plastic and metal materials in the housing and chassis shall be recyclable;</p>
+      <p n="63">5. if labels are required, they shall be easily separable or inherent;</p>
+      <p n="64">6. plastic parts shall:</p>
+      <p n="65">(a) have no lead or cadmium added by the manufacturer;</p>
+      <p n="66">(b) be of one polymer or compatible polymers, except for the cover which shall consist of no more than 2 types of polymer which are separable;</p>
+      <p n="67">(c) contain no metal inlays that cannot be separated;</p>
+      <p n="68">7. plastic parts heavier than 25 grams shall:</p>
+      <p n="69">(a) not contain flame retardants that contain organically bound bromine or chlorine;</p>
+      <p n="70">(b) have a permanent marking identifying the material, in conformity with ISO 11469. Excluded from this criterion are extruded plastic materials.</p>
+      <p n="71">5. User instructions</p>
+      <p n="72">The personal computer shall be sold with an instruction manual, which provides advice on the correct environmental use and, in particular:</p>
+      <p n="73">1. recommendations for the use of the power management features, including information that disabling these features can lead to higher consumption of energy and thus can increase the running costs;</p>
+      <p n="74">2. information on the maximum and minimum energy use of the system unit and monitor during operation, sleep, deep-sleep and off modes, as well as an indication that the energy use can be reduced to zero if the computer is unplugged or if the wall socket is switched off;</p>
+      <p n="75">3. information on the guarantee and the availability of spare parts;</p>
+      <p n="76">4. information on how to access the system unit and exchange components, specifically the processor, the graphics card, the random access memory, the hard disk and, if available, the CD-ROM drive;</p>
+      <p n="77">5. information about those parts and materials of the personal computer which are reusable and/or recyclable;</p>
+      <p n="78">6. advice on how the consumer can make use of the manufacturers' take-back guarantee.</p>
+      <p n="79">6. Environmental declaration</p>
+      <p n="80">An environmental declaration shall accompany the product and shall be available to the user. This document shall be in conformity with the recommendations of ECMA's Technical Report 70 'Product-related environmental attributes`.</p>
+      <p n="81">TESTING</p>
+      <p n="82">7. Testing laboratories</p>
+      <p n="83">If testing is required, it shall be performed at the expense of the applicant by laboratories that meet the general requirements stressed in the standards EN 45001.</p>
+      <p n="84">CONSUMER INFORMATION</p>
+      <p n="85">The following text shall be provided in such a way as to be clearly visible for consumers (next to the label, whenever possible):</p>
+      <p n="86">- This product qualifies for the European Union eco-label, because it is efficient with energy and is designed to facilitate upgrading, recycling and environmentally sound disposal.</p>
+      <p n="87">- Additional information on how to minimise environmental impacts is given in the instruction manual.</p>
+    </body>
+  </text>
+</TEI.2>

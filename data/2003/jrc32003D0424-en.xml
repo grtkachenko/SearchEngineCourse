@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32003D0424-en" n="32003D0424" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0424 English</title>
+        <title>2003/424/EC: Commission Decision of 6 June 2003 amending Decision 96/603/EC establishing the list of products belonging to Classes A "No contribution to fire" provided for in Decision 94/611/EC implementing Article 20 of Council Directive 89/106/EEC on construction products (Text with EEA relevance) (notified under document number C(2003) 1673)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0424:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0424:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1335</classCode>
+        <classCode scheme="eurovoc">1826</classCode>
+        <classCode scheme="eurovoc">2425</classCode>
+        <classCode scheme="eurovoc">3879</classCode>
+        <classCode scheme="eurovoc">5993</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0424-en." lang="en">
+    <body>
+      <head n="1">2003/424/EC: Commission Decision of 6 June 2003 amending Decision 96/603/EC establishing the list of products belonging to Classes A "No contribution to fire" provided for in Decision 94/611/EC implementing Article 20 of Council Directive 89/106/EEC on construction products (Text with EEA relevance) (notified under document number C(2003) 1673)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 6 June 2003</p>
+      <p n="4">amending Decision 96/603/EC establishing the list of products belonging to Classes A "No contribution to fire" provided for in Decision 94/611/EC implementing Article 20 of Council Directive 89/106/EEC on construction products</p>
+      <p n="5">(notified under document number C(2003) 1673)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/424/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 89/106/EEC of 21 December 1988 on the approximation of laws, regulations and administrative provisions of the Member States relating to construction products(1), as amended by Directive 93/68/EEC(2),</p>
+      <p n="11">Having regard to Commission Decision 2000/147/EC of 8 February 2000 implementing Council Directive 89/106/EEC as regards the classification of the reaction to fire performance of construction products(3), and in particular Article 1(1) thereof,</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) Commission Decision 96/603/EC(4), as amended by Decision 2000/605/EC(5), established a list of products belonging to Classes A "No contribution to fire" provided for in Tables 1 and 2 of the Annex to Commission Decision 94/611/EC(6), which described the European classification system for expressing the reaction to fire performance of construction products.</p>
+      <p n="14">(2) Decision 94/611/EC has been replaced by Decision 2000/147/EC.</p>
+      <p n="15">(3) The notes for "Mortar with inorganic binding agents" in the table set out in the Annex to Decision 96/603/EC should be adapted to technical progress.</p>
+      <p n="16">(4) Decision 96/603/EC should therefore be amended accordingly.</p>
+      <p n="17">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Construction,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">In the table set out in the Annex to Decision 96/603/EC, for "Mortar with inorganic binding agents" the notes "Rendering/plastering mortars and mortars for floor screeds based on one or more inorganic binding agent(s), e.g. cement, lime, masonry cement and gypsum" are replaced by "Rendering/plastering mortars, mortars for floor screeds and masonry mortars based on one or more inorganic binding agent(s), e.g. cement, lime, masonry cement and gypsum".</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 6 June 2003.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Erkki Liikanen</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 40, 11.2.1989, p. 12.</p>
+      <p n="28">(2) OJ L 220, 30.8.1993, p. 1.</p>
+      <p n="29">(3) OJ L 50, 23.2.2000, p. 14.</p>
+      <p n="30">(4) OJ L 267, 19.10.1996, p. 23.</p>
+      <p n="31">(5) OJ L 258, 12.10.2000, p. 36.</p>
+      <p n="32">(6) OJ L 241, 19.9.1994, p. 25.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32003R1475-en" n="32003R1475" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1475 English</title>
+        <title>Commission Regulation (EC) No 1475/2003 of 20 August 2003 on the protection of deep-water coral reefs from the effects of trawling in an area north west of Scotland</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1475:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1475:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1050</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">663</classCode>
+        <classCode scheme="eurovoc">997</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1475-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1475/2003 of 20 August 2003 on the protection of deep-water coral reefs from the effects of trawling in an area north west of Scotland</head>
+      <p n="2">Commission Regulation (EC) No 1475/2003</p>
+      <p n="3">of 20 August 2003</p>
+      <p n="4">on the protection of deep-water coral reefs from the effects of trawling in an area north west of Scotland</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2371/2002 of 20 December 2002 on the conservation and sustainable exploitation of fisheries resources under the Common Fisheries Policy(1), and in particular Article 7 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In accordance with Regulation (EC) No 2371/2002, the common fisheries policy is to apply the precautionary approach in taking measures to minimise the impact of fishing activities on marine ecosystems.</p>
+      <p n="10">(2) According to recent scientific reports, and in particular the reports of the International Council for the Exploration of the Sea, aggregations of deep-water corals (Lophelia pertusa) have been found and mapped in an area north west of Scotland falling within the jurisdiction of the United Kingdom. Those aggregations, known as the "Darwin Mounds", appear to be in good conservation status but show signs of damage due to bottom-trawling operations.</p>
+      <p n="11">(3) Scientific reports show that such aggregations constitute habitats that host important and highly diverse biological communities. Those habitats are widely recognised as requiring priority protection. In particular, the Convention for the Protection of the Marine Environment of the North-East Atlantic (OSPAR Convention) has recently included deep-water coral reefs in a list of endangered habitats.</p>
+      <p n="12">(4) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora(2), as last amended by Directive 97/62/EC(3), includes reefs within the natural habitats of Community interest whose conservation requires the designation of special areas of conservation. The United Kingdom has formally expressed its intention to designate the Darwin Mounds as a special area of conservation with a view to protecting that type of habitat in fulfilment of its obligations under that Directive.</p>
+      <p n="13">(5) The United Kingdom has called the attention of the Commission to the fact that some trawlers, in pursuing moving concentrations of deep-water fish, may concentrate in the area of the Darwin Mounds and inflict irremediable damage on these deep-water habitats.</p>
+      <p n="14">(6) The United Kingdom has therefore requested that emergency measures be adopted under Regulation (EC) No 2371/2002 to prohibit the use of bottom-trawls in the abovementioned coral aggregations. The United Kingdom has communicated its request to the other Member States, which have not sent any comment to the Commission within the deadline.</p>
+      <p n="15">(7) In the light of the evidence provided by the United Kingdom, it must be concluded that the conservation of the habitat in question is under serious threat and that immediate action is required. Significant fishing activities using bottom-trawls would continue in the area concerned over the coming months, before any measures could be adopted by the Council; it is therefore appropriate immediately to prohibit with immediate effect the use of bottom-trawls in the abovementioned coral aggregations by way of the emergency measures under Regulation (EC) No 2371/2002,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Vessels shall be prohibited from using bottom-trawl or similar towed nets operating in contact with the bottom of the sea in the area bounded by a line joining the following coordinates:</p>
+      <p n="19">&gt;TABLE&gt;</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="22">It shall apply for six months.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 20 August 2003.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 358, 31.12.2002, p. 59.</p>
+      <p n="29">(2) OJ L 206, 22.7.1992, p. 7.</p>
+      <p n="30">(3) OJ L 305, 8.11.1997, p. 42.</p>
+    </body>
+  </text>
+</TEI.2>

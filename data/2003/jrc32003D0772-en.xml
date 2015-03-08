@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32003D0772-en" n="32003D0772" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0772 English</title>
+        <title>2003/772/EC: Commission Decision of 28 October 2003 amending Decision 2003/526/EC concerning protection measures relating to classical swine fever in Belgium, France, Germany and Luxembourg (Text with EEA relevance) (notified under document number C(2003) 3943)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0772:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0772:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1085</classCode>
+        <classCode scheme="eurovoc">1318</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1712</classCode>
+        <classCode scheme="eurovoc">2356</classCode>
+        <classCode scheme="eurovoc">2560</classCode>
+        <classCode scheme="eurovoc">4839</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0772-en." lang="en">
+    <body>
+      <head n="1">2003/772/EC: Commission Decision of 28 October 2003 amending Decision 2003/526/EC concerning protection measures relating to classical swine fever in Belgium, France, Germany and Luxembourg (Text with EEA relevance) (notified under document number C(2003) 3943)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 28 October 2003</p>
+      <p n="4">amending Decision 2003/526/EC concerning protection measures relating to classical swine fever in Belgium, France, Germany and Luxembourg</p>
+      <p n="5">(notified under document number C(2003) 3943)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/772/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market(1), as last amended by Directive 2002/33/EC of the European Parliament and of the Council(2), and in particular Article 10(4) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) In response to classical swine fever in certain parts of Belgium, Germany, France and Luxembourg, the Commission has adopted several Decisions, in particular Decision 2003/526/EC(3).</p>
+      <p n="13">(2) In the light of the current epidemiological situation it is appropriate to prolong the measures adopted by Decision 2003/526/EC until 30 April 2004.</p>
+      <p n="14">(3) Decision 2003/526/EC should therefore be amended accordingly.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">In Article 11 of Decision 2003/526/EC the words "30 October 2003" are replaced by the words "30 April 2004".</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 28 October 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">David Byrne</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 224, 18.8.1990, p. 29.</p>
+      <p n="26">(2) OJ L 315, 19.11.2002, p. 14.</p>
+      <p n="27">(3) OJ L 183, 22.7.2003, p. 46.</p>
+    </body>
+  </text>
+</TEI.2>

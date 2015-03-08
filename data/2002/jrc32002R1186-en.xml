@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32002R1186-en" n="32002R1186" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1186 English</title>
+        <title>Commission Regulation (EC) No 1186/2002 of 2 July 2002 amending Regulation (EC) No 94/2002 laying down detailed rules for applying Council Regulation (EC) No 2826/2000 on information and promotion actions for agricultural products on the internal market</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1186:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1186:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1423</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2803</classCode>
+        <classCode scheme="eurovoc">3299</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1186-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1186/2002 of 2 July 2002 amending Regulation (EC) No 94/2002 laying down detailed rules for applying Council Regulation (EC) No 2826/2000 on information and promotion actions for agricultural products on the internal market</head>
+      <p n="2">Commission Regulation (EC) No 1186/2002</p>
+      <p n="3">of 2 July 2002</p>
+      <p n="4">amending Regulation (EC) No 94/2002 laying down detailed rules for applying Council Regulation (EC) No 2826/2000 on information and promotion actions for agricultural products on the internal market</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2826/2000 of 19 December 2000 on information and promotion actions for agricultural products on the internal market(1), and in particular Article 12 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 94/2002(2), as last amended by Regulation (EC) No 434/2002(3), lays down detailed rules for applying Regulation (EC) No 2826/2000.</p>
+      <p n="10">(2) Article 7 of Regulation (EC) No 94/2002 specifies certain details of the procedure for examination and approval by the Commission of programmes drawn up by trade federations and interbranch organisations.</p>
+      <p n="11">(3) Article 8 of Regulation (EC) No 94/2002 specifies certain details of the procedure for examination and approval by the Commission of programmes submitted by Member States where Article 7 of Regulation (EC) No 2826/2000 is applied.</p>
+      <p n="12">(4) For reasons of clarity and legal security, provision should be made for the above procedures to include a decision to be taken by the Commission on which programmes are eligible under the indicative budgets referred to in Annex III to Regulation (EC) No 94/2002.</p>
+      <p n="13">(5) As a result, Article 7(3) and Article 8 of Regulation (EC) No 94/2002 should be adapted.</p>
+      <p n="14">(6) The measures provided for in this Regulation are in accordance with the opinion delivered at the joint meeting of the management committees on agricultural product promotion,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Article 7(3) of Regulation (EC) No 94/2002 is replaced by the following: "3. After checking the programmes on the final list referred to in the third subparagraph of Article 6(3) of Regulation (EC) No 2826/2000, the Commission shall decide which programmes it can part-finance under the indicative budgets given in Annex III to this Regulation no later than 14 August 2002 the first time and no later than 15 November thereafter.</p>
+      <p n="18">The Commission shall notify the joint management committees provided for in Article 13 of Regulation (EC) No 2826/2000 of its decision."</p>
+      <p n="19">Article 2</p>
+      <p n="20">The last sentence of Article 8 of Regulation (EC) No 94/2002 is replaced by the following: "The Commission shall decide which programmes it can part-finance under the indicative budgets given in Annex III to this Regulation no later than 30 September 2002 the first time and no later than 15 December thereafter.</p>
+      <p n="21">The Commission shall notify the joint management committees of its decision."</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 2 July 2002.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz Fischler</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 328, 21.12.2000, p. 2.</p>
+      <p n="30">(2) OJ L 17, 19.1.2002, p. 20.</p>
+      <p n="31">(3) OJ L 67, 9.3.2002, p. 6.</p>
+    </body>
+  </text>
+</TEI.2>

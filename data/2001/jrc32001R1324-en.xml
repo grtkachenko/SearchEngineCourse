@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32001R1324-en" n="32001R1324" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1324 English</title>
+        <title>Commission Regulation (EC) No 1324/2001 of 29 June 2001 amending Regulation (EEC) No 1617/93 as regards consultations on passenger tariffs and slot allocation at airports</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1324:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1324:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2400</classCode>
+        <classCode scheme="eurovoc">4378</classCode>
+        <classCode scheme="eurovoc">4505</classCode>
+        <classCode scheme="eurovoc">4521</classCode>
+        <classCode scheme="eurovoc">75</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1324-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1324/2001 of 29 June 2001 amending Regulation (EEC) No 1617/93 as regards consultations on passenger tariffs and slot allocation at airports</head>
+      <p n="2">Commission Regulation (EC) No 1324/2001</p>
+      <p n="3">of 29 June 2001</p>
+      <p n="4">amending Regulation (EEC) No 1617/93 as regards consultations on passenger tariffs and slot allocation at airports</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 3976/87 of 14 December 1987 on the application of Article 85(3) of the Treaty to certain categories of agreements and concerted practices in the air transport sector(1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 2 thereof,</p>
+      <p n="8">Having published a draft of this Regulation(2),</p>
+      <p n="9">Having consulted the Advisory Committee on Agreements and Dominant Positions in Air Transport,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) By Commission Regulation (EEC) No 1617/93(3), as last amended by Regulation (EC) No 1083/1999(4), the Commission granted a block exemption for, among other things, consultation on tariffs for the carriage of passengers and their baggage on scheduled air services and slot allocation at airports and airport scheduling. That Regulation is applicable until 30 June 2001.</p>
+      <p n="12">(2) The Commission has initiated a consultation on whether the block exemption for consultations on passenger tariffs should be maintained in its current form. That consultation will be completed by the end of 2001. Following that consultation, the Commission may make proposals for a new block exemption or initiate an individual procedure. The current block exemption for consultations on passenger tariffs should therefore be extended for one year.</p>
+      <p n="13">(3) The reasons obtaining in 1993 for granting a block exemption for agreements and concerted practices on slot allocation and airport scheduling of air services between airports within the Community remain fully valid today. It is therefore appropriate to extend that block exemption. In order to allow for the possibility of adapting this block exemption once the envisaged amendments to Council Regulation (EEC) No 95/93 of 18 January 1993 on common rules for the allocation of slots at Community airports(5) are adopted, that extension should be granted for three years.</p>
+      <p n="14">(4) Regulation (EEC) No 1617/93 should therefore be amended accordingly,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">In Article 7 of Regulation (EEC) No 1617/93, the second paragraph is replaced by the following: "It shall apply until 30 June 2002 so far as the exemption for consultations on tariffs for the carriage of passengers with their baggage is concerned and until 30 June 2004 so far as the exemption for slot allocation and airport scheduling is concerned."</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on 1 July 2001.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 29 June 2001.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Mario Monti</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 374, 31.12.1987, p. 9.</p>
+      <p n="26">(2) OJ C 107, 7.4.2001, p. 4.</p>
+      <p n="27">(3) OJ L 155, 26.6.1993, p. 18.</p>
+      <p n="28">(4) OJ L 131, 27.5.1999, p. 27.</p>
+      <p n="29">(5) OJ L 14, 22.1.1993, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

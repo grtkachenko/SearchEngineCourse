@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31996R1974-en" n="31996R1974" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R1974 English</title>
+        <title>Commission Regulation (EC) No 1974/96 of 15 October 1996 amending Regulation (EC) No 716/96 adopting exceptional support measures for the beef market in the United Kingdom</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1974:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1974:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">1857</classCode>
+        <classCode scheme="eurovoc">3774</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R1974-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1974/96 of 15 October 1996 amending Regulation (EC) No 716/96 adopting exceptional support measures for the beef market in the United Kingdom</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1974/96 of 15 October 1996 amending Regulation (EC) No 716/96 adopting exceptional support measures for the beef market in the United Kingdom</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organization of the market in beef and veal (1), as last amended by Regulation (EC) No 1588/96 (2), and in particular Article 23 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 716/96 (3), as last amended by Regulation (EC) No 1846/96 (4), provided exceptional support measures for the beef market in the United Kingdom in particular by enabling producers to be paid ECU 1 per kilogram liveweight for animals slaughtered under the scheme set out in the Regulation; whereas in the light of recent developments in market prices in the United Kingdom it is appropriate to adjust that amount; whereas, consequently, the Community contribution expressed in ecu should also be adjusted;</p>
+      <p n="7">Whereas the same Regulation requires the head, internal organs and carcases of animals slaughtered under its provisions to be permanently stained and transported in sealed containers to authorized incineration or rendering plants for processing and destruction; whereas subject to the necessary control to be carried out by the United Kingdom competent authorities these authorities should be allowed to use a limited number of animals for research and educational purposes prior to destruction;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EC) No 716/96 is amended as follows:</p>
+      <p n="12">1. in Article 1 the following paragraph 6 is added:</p>
+      <p n="13">'6. Notwithstanding paragraph 1 and subject to the necessary control, the United Kingdom competent authority shall be authorized, before processing and destruction, to use a limited number of animals for research or educational purposes.`;</p>
+      <p n="14">2. in Article 2 (1) the amount of 'ECU 1` shall be replaced by 'ECU 0,9` and the amount of 'ECU 392` shall be replaced by 'ECU 353`;</p>
+      <p n="15">3. in Article 2 (2) the amount of 'ECU 1` shall be replaced by 'ECU 0,9`.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">It shall apply to animals purchased from the first Monday following the day of publication.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 15 October 1996.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ No L 148, 28. 6. 1968, p. 24.</p>
+      <p n="25">(2) OJ No L 206, 16. 8. 1996, p. 23.</p>
+      <p n="26">(3) OJ No L 99, 20. 4. 1996, p. 14.</p>
+      <p n="27">(4) OJ No L 245, 26. 9. 1996, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

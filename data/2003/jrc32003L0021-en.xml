@@ -1,0 +1,92 @@
+<TEI.2 id="jrc32003L0021-en" n="32003L0021" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003L0021 English</title>
+        <title>Commission Directive 2003/21/EC of 24 March 2003 amending Directive 2001/32/EC as regards certain protected zones exposed to particular plant health risks in the Community</title>
+      </titleStmt>
+      <extent>55 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003L0021:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003L0021:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1763</classCode>
+        <classCode scheme="eurovoc">191</classCode>
+        <classCode scheme="eurovoc">2232</classCode>
+        <classCode scheme="eurovoc">2827</classCode>
+        <classCode scheme="eurovoc">4801</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003L0021-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 2003/21/EC of 24 March 2003 amending Directive 2001/32/EC as regards certain protected zones exposed to particular plant health risks in the Community</head>
+      <p n="2">Commission Directive 2003/21/EC</p>
+      <p n="3">of 24 March 2003</p>
+      <p n="4">amending Directive 2001/32/EC as regards certain protected zones exposed to particular plant health risks in the Community</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Directive 2000/29/EC of 8 May 2000 on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community(1), as last amended by Commission Directive 2002/89/EC(2), and in particular the first subparagraph of Article 2(1)(h) thereof,</p>
+      <p n="8">Having regard to the requests made by Ireland, Italy, Austria, Portugal, Sweden and the United Kingdom,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Under Commission Directive 2001/32/EC of 8 May 2001 recognising protected zones exposed to particular plant health risks in the Community and repealing Directive 92/76/EEC(3), as last amended by Directive 2002/29/EC(4), certain areas of Portugal are recognised as protected zones in respect of Gonipterus scutellatus Gyll.</p>
+      <p n="11">(2) From information supplied by Portugal based on updated surveys, it appears that the protected zone for Gonipterus scutellatus Gyll. should be modified and restricted to Azores only.</p>
+      <p n="12">(3) From information supplied by Ireland based on surveys, it appears that Liriomyza bryoniae (Kaltenbach) is not present in its territory.</p>
+      <p n="13">(4) From information supplied by the United Kingdom based on surveys, it appears that Liriomyza bryoniae (Kaltenbach) is not present in Northern Ireland.</p>
+      <p n="14">(5) Under Directive 2001/32/EC, Ireland, certain areas of Italy and certain areas of Austria are provisionally recognised as "protected zones" in respect of Erwinia amylovora (Burr.) Winsl. et al. for a period expiring on 31 March 2003.</p>
+      <p n="15">(6) From information supplied by Austria, Ireland and Italy it appears that the provisional recognition of the protected zones for those countries in respect of Erwinia amylovora (Burr.) Winsl. et al. should exceptionally be extended for a further period to enable the responsible official bodies of those countries to complete the information on the distribution of Erwinia amylovora (Burr.) Winsl. et al. and to complete efforts for the eradication of this harmful organism in the areas concerned.</p>
+      <p n="16">(7) From information supplied by Italy it appears that some parts of the region of Veneto, where this harmful organism is now established, should no longer be recognised as a protected zone in respect of Erwinia amylovora (Burr.) Winsl. et al.</p>
+      <p n="17">(8) Under Directive 2001/32/EC, Sweden is provisionally recognised as a "protected zone" in respect of Beet necrotic yellow vein virus for a period expiring on 31 March 2003.</p>
+      <p n="18">(9) From information supplied by Sweden, it appears that certain areas in the county of Skåne, where this harmful organism is now established, should no longer be recognised as a protected zone in respect of Beet necrotic yellow vein virus. The provisional recognition of this protected zone for the rest of Sweden should exceptionally be extended for a further period to enable the responsible official bodies of Sweden to complete the information on the distribution of Beet necrotic yellow vein virus and to complete efforts for the eradication of this harmful organism in other areas concerned.</p>
+      <p n="19">(10) Directive 2001/32/EC should therefore be amended accordingly.</p>
+      <p n="20">(11) The measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Plant Health,</p>
+      <p n="21">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="22">Article 1</p>
+      <p n="23">Directive 2001/32/EC is amended as follows:</p>
+      <p n="24">1. Article 1 is amended as follows:</p>
+      <p n="25">(a) the second paragraph is replaced by the following:</p>
+      <p n="26">"In the case of point (b)(2), for Ireland, for Italy (Apulia, Emilia-Romagna: provinces of Forlí-Cesena, Parma, Piacenza and Rimini; Lombardia; Trentino-Alto Adige: autonomous province of Bolzano; Veneto: except in the province of Rovigo the communes Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba, Salara, and in the province of Padova the communes Castelbaldo, Barbona, Piacenza d'Adige, Vescovana, S. Urbano, Boara Pisani, Masi, and in the province of Verona the communes of Palù, Roverchiara, Legnago, Castagnaro, Ronco all'Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza, Angiari), and for Austria (Burgenland, Kärnten, Niederösterreich, Tirol (administrative district Lienz), Steiermark, Wien), the said zones are recognised until 31 March 2004.";</p>
+      <p n="27">(b) in the third paragraph, "31 March 2003" is replaced by "31 March 2004";</p>
+      <p n="28">2. the Annex is amended in accordance with the Annex to this Directive.</p>
+      <p n="29">Article 2</p>
+      <p n="30">Member States shall adopt and publish by 31 March 2003 at the latest the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith inform the Commission thereof.</p>
+      <p n="31">They shall apply those provisions from 1 April 2003.</p>
+      <p n="32">When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. Member States shall determine how such a reference is to be made.</p>
+      <p n="33">Article 3</p>
+      <p n="34">This Directive shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="35">Article 4</p>
+      <p n="36">This Directive is addressed to the Member States.</p>
+      <p n="37">Done at Brussels, 24 March 2003.</p>
+      <p n="38">For the Commission</p>
+      <p n="39">David Byrne</p>
+      <p n="40">Member of the Commission</p>
+      <p n="41">(1) OJ L 169, 10.7.2000, p. 1.</p>
+      <p n="42">(2) OJ L 355, 30.12.2002, p. 45.</p>
+      <p n="43">(3) OJ L 127, 9.5.2001, p. 38.</p>
+      <p n="44">(4) OJ L 77, 20.3.2002, p. 26.</p>
+      <p n="45">ANNEX</p>
+      <p n="46">The Annex to Directive 2001/32/EC is amended as follows:</p>
+      <p n="47">1. under heading (a):</p>
+      <p n="48">(i) in point 7, the entry in the right hand column is replaced by the following:</p>
+      <p n="49">"Portugal (Azores)"</p>
+      <p n="50">(ii) the following point 14 is inserted after point 13:</p>
+      <p n="51">"&gt;TABLE&gt;"</p>
+      <p n="52">2. under heading (b), in point 2, the entry in the right hand column is replaced by the following:</p>
+      <p n="53">"Spain, France (Corsica), Ireland, Italy (Abruzzi; Apulia; Basilicata; Calabria; Campania; Emilia-Romagna: provinces of Forlí-Cesena, Parma, Piacenza and Rimini; Friuli-Venezia Giulia; Lazio; Liguria; Lombardy; Marche; Molise; Piedmont; Sardinia; Sicily; Tuscany; Trentino-Alto Adige: autonomous provinces of Bolzano and Trento; Umbria; Valle d'Aosta; Veneto: except in the province of Rovigo the communes Rovigo, Polesella, Villamarzana, Fratta Polesine, San Bellino, Badia Polesine, Trecenta, Ceneselli, Pontecchio Polesine, Arquà Polesine, Costa di Rovigo, Occhiobello, Lendinara, Canda, Ficarolo, Guarda Veneta, Frassinelle Polesine, Villanova del Ghebbo, Fiesso Umbertiano, Castelguglielmo, Bagnolo di Po, Giacciano con Baruchella, Bosaro, Canaro, Lusia, Pincara, Stienta, Gaiba, Salara, and in the province of Padova the communes Castelbaldo, Barbona, Piacenza d'Adige, Vescovana, S. Urbano, Boara Pisani, Masi, and in the province of Verona the communes Palù, Roverchiara, Legnago, Castagnaro, Ronco all'Adige, Villa Bartolomea, Oppeano, Terrazzo, Isola Rizza, Angiari), and for Austria (Burgenland, Carinthia, Lower Austria, Tirol (administrative district Lienz), Styria, Vienna), Portugal, Finland, the United Kingdom (Northern Ireland, Isle of Man and Channel Islands)";</p>
+      <p n="54">3. under heading (d), in point 1, the entry in the right hand column is replaced by the following:</p>
+      <p n="55">"Denmark, France (Britanny), Ireland, Portugal (Azores), Finland, Sweden (with the exception of the District Council areas of Bromölla, Hässleholm, Kristianstad and Östra Göinge in the county of Skåne), the United Kingdom (Northern Ireland)".</p>
+    </body>
+  </text>
+</TEI.2>

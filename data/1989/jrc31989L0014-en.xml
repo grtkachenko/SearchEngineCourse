@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31989L0014-en" n="31989L0014" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989L0014 English</title>
+        <title>Commission Directive 89/14/EEC of 15 December 1988 determining the groups of varieties of spinach beet and beetroot referred to crop isolation conditions of Annex I to Council Directive 70/458/EEC on the marketing of vegetable seed</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0014:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0014:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989L0014-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 89/14/EEC of 15 December 1988 determining the groups of varieties of spinach beet and beetroot referred to crop isolation conditions of Annex I to Council Directive 70/458/EEC on the marketing of vegetable seed</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION DIRECTIVE</p>
+      <p n="4">of 15 December 1988</p>
+      <p n="5">determining the groups of varieties of spinach beet and beetroot referred to crop isolation conditions of Annex I to Council Directive 70/458/EEC on the marketing of vegetable seed</p>
+      <p n="6">(89/14/EEC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Directive 70/458/EEC of 29 September 1970 on the marketing of vegetable seed (1), as last amended by Directive 88/380/EEC (2), and in particular the final sentence of Annex I (4) (A) thereof,</p>
+      <p n="10">Whereas Commission Directive 87/481/EEC (3) amended the conditions laid down in Annex I (4) to Directive 70/458/EEC for crop isolation for the production of spinach beet seed and beetroot seed;</p>
+      <p n="11">Whereas, according to Directive 87/481/EEC, the minimum distance from neighbouring plants of the same sub-species which might result in undesirable foreign pollination depends on whether the spinach beet or beetroot crop is of a variety belonging to the same group of varieties as those plants;</p>
+      <p n="12">Whereas it is therefore necessary to determine the groups of varieties of spinach beet and beetroot referred to in Annex I (4) (A) of Directive 70/458/EEC;</p>
+      <p n="13">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="14">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The groups of varieties of spinach beet and beetroot referred to in Annex I (4) (A) of Directive 70/458/EEC are those listed in the Annex to this Directive.</p>
+      <p n="17">Article 2</p>
+      <p n="18">Member States shall take the measures necessary to comply with this Directive not later than 1 January 1990. They shall forthwith inform the Commission thereof.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Directive is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 15 December 1988.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Frans ANDRIESSEN</p>
+      <p n="24">Vice-President</p>
+      <p n="25">(1) OJ No L 225, 12. 10. 1970, p. 7.</p>
+      <p n="26">(2) OJ No L 187, 16. 7. 1988, p. 31.</p>
+      <p n="27">(3) OJ No L 273, 26. 9. 1987, p. 45.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">I. Beta vulgaris L . var. vulgaris, Spinach beet, chard, and Beta vulgaris L . var. conditiva Alef . , red beet or beetroot.</p>
+      <p n="30">Where the crop is of a genetically monogerm variety, multigerm varieties shall be regarded as belonging to a different group.</p>
+      <p n="31">II. Beta vulgaris L . var. vulgaris, Spinach beet, chard.</p>
+      <p n="32">Subject to point I, varieties shall be classified in five groups, according to their characteristics, as follows:</p>
+      <p n="33">1.2 // // // Group // Characteristics // // // (1) // (2) // // // 1 // White petiole and pale green leaf blade, without anthocyanin coloration. // 2 // White petiole and medium or dark green leaf blade, without anthocyanin coloration. // 3 // Green petiole and medium or dark green leaf blade, without anthocyanin coloration. // 4 // Pink petiole and medium or dark green leaf blade. // 5 // Red petiole and leaf blade with anthocyanin coloration. // //</p>
+      <p n="34">III. Beta vulgaris L . var. conditiva Alef . , red beet or beetroot.</p>
+      <p n="35">Subject to point I, varieties shall be classified in six groups, according to their characteristics, as follows:</p>
+      <p n="36">1.2 // // // Group // Characteristics // // // (1) // (2) // // // 1 // Transverse narrow elliptic or transverse elliptic shape of root longitudinal section and root flesh red or purple. // 2 // Circular or broad elliptic shape of root longitudinal section and root flesh white. // 3 // Circular or broad elliptic shape of root longitudinal section and root flesh yellow. // 4 // Circular or broad elliptic shape of root longitudinal section and root flesh red or purple. // 5 // Narrow oblong shape of root longitudinal section and root flesh red or purple. // 6 // Narrow obtriangular shape of root longitudinal section and root flesh red or purple. // //</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32003R0650-en" n="32003R0650" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0650 English</title>
+        <title>Commission Regulation (EC) No 650/2003 of 10 April 2003 amending Regulation (EC) No 999/2001 of the European Parliament and of the Council as regards the import of live ovine and caprine animals (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0650:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0650:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">1854</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">1937</classCode>
+        <classCode scheme="eurovoc">2211</classCode>
+        <classCode scheme="eurovoc">4125</classCode>
+        <classCode scheme="eurovoc">5252</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0650-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 650/2003 of 10 April 2003 amending Regulation (EC) No 999/2001 of the European Parliament and of the Council as regards the import of live ovine and caprine animals (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 650/2003</p>
+      <p n="3">of 10 April 2003</p>
+      <p n="4">amending Regulation (EC) No 999/2001 of the European Parliament and of the Council as regards the import of live ovine and caprine animals</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies(1), as last amended by Commission Regulation (EC) No 260/2003(2), and in particular Article 23 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Commission Regulation (EC) No 260/2003, amending Regulation (EC) No 999/2001, introduced new Community rules for eradication following the confirmation of scrapie in a small ruminant holding, based on the opinion of the Scientific Steering Committee (SSC) of 4 and 5 April 2002 on safe sourcing of small ruminant materials. In the interests of consistency with such rules for eradication, the rules for intra-Community trade in breeding sheep were also amended to remove scrapie-related restrictions from trade in sheep of the ARR/ARR prion protein genotype.</p>
+      <p n="11">(2) Rules for the import of live ovine and caprine animals should be amended to reflect rules for intra-Community trade.</p>
+      <p n="12">(3) Regulation (EC) No 999/2001 should therefore be amended accordingly.</p>
+      <p n="13">(4) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Annex IX to Regulation (EC) No 999/2001 is amended in accordance with the Annex to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.</p>
+      <p n="19">It shall apply from 1 October 2003.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 10 April 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">David Byrne</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 147, 31.5.2001, p. 1.</p>
+      <p n="26">(2) OJ L 37, 13.2.2003, p. 7.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">Chapter E of Annex IX is replaced by the following:</p>
+      <p n="29">"CHAPTER E</p>
+      <p n="30">Imports of ovine and caprine animals</p>
+      <p n="31">Ovine and caprine animals imported into the Community after 1 October 2003 are to be subject to the presentation of an animal health certificate attesting that:</p>
+      <p n="32">(a) either they were born in and continuously reared on holdings in which a case of scrapie has never been diagnosed, and, in the case of ovine and caprine animals for breeding, they satisfy the requirements of subparagraphs (i) and (ii) of point (a) of Chapter A(I) of Annex VIII;</p>
+      <p n="33">(b) or they are sheep of the ARR/ARR prion protein genotype, as defined in Annex I to Commission Decision 2002/1003/EC, coming from a holding where no case of scrapie has been reported in the last six months.</p>
+      <p n="34">If they are destined for a Member State which benefits, for all or part of its territory, from the provisions laid down in point (b) or (c) of Chapter A(I) of Annex VIII, they shall comply with the additional guarantees, general or specific, which have been defined in accordance with the procedure referred to in Article 24(2)."</p>
+    </body>
+  </text>
+</TEI.2>

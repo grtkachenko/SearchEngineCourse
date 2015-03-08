@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31999R0691-en" n="31999R0691" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0691 English</title>
+        <title>Commission Regulation (EC) No 691/1999 of 30 March 1999 amending Regulation (EC) No 708/98 on the taking over of paddy rice by the intervention agencies and fixing the corrective amounts and the price increases and reductions to be applied as regards the quality characteristics of the rice</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0691:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0691:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1025</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3170</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0691-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 691/1999 of 30 March 1999 amending Regulation (EC) No 708/98 on the taking over of paddy rice by the intervention agencies and fixing the corrective amounts and the price increases and reductions to be applied as regards the quality characteristics of the rice</head>
+      <p n="2">COMMISSION REGULATION (EC) No 691/1999 of 30 March 1999 amending Regulation (EC) No 708/98 on the taking over of paddy rice by the intervention agencies and fixing the corrective amounts and the price increases and reductions to be applied as regards the quality characteristics of the rice</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 3072/95 of 22 December 1995 on the common organisation of the market in rice (1), as last amended by Regulation (EC) No 2072/98 (2), and in particular Article 8(b) thereof,</p>
+      <p n="6">Whereas the characteristics that set stained grains and spotted grains apart are very close and distinguishing one from another is often a delicate task when samples taken in accordance with Article 8 of Commission Regulation (EC) No 708/98 (3) are analysed; whereas those two criteria should therefore be combined and the relevant price reductions applying should be determined on the basis of grain defects covering both stained and spotted grains;</p>
+      <p n="7">Whereas new varieties of rice are being grown in the Community; whereas they should be entered, with their milling yields, in the list in point B in Annex II to Regulation (EC) No 708/98;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EC) No 708/98 is hereby amended as follows:</p>
+      <p n="12">1. the table in Article 2 is replaced by the following.</p>
+      <p n="13">&gt;TABLE&gt;</p>
+      <p n="14">2. the table in part B of Annex II is replaced by the following.</p>
+      <p n="15">&gt;TABLE&gt;</p>
+      <p n="16">3. Annex III is replaced by the Annex hereto.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">It shall apply from 1 April 1999.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 30 March 1999.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz FISCHLER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 329, 30. 12. 1995, p. 18.</p>
+      <p n="26">(2) OJ L 265, 30. 9. 1998, p. 4.</p>
+      <p n="27">(3) OJ L 98, 31. 3. 1998, p. 21.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">'ANNEX III</p>
+      <p n="30">&gt;TABLE&gt;</p>
+      <p n="31">`</p>
+    </body>
+  </text>
+</TEI.2>

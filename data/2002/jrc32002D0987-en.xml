@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32002D0987-en" n="32002D0987" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0987 English</title>
+        <title>2002/987/EC: Commission Decision of 13 December 2002 on the list of establishments in the Falkland Islands approved for the purpose of importing fresh meat into the Community (Text with EEA relevance) (notified under document number C(2002) 4988)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0987:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0987:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1771</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">4689</classCode>
+        <classCode scheme="eurovoc">5343</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0987-en." lang="en">
+    <body>
+      <head n="1">2002/987/EC: Commission Decision of 13 December 2002 on the list of establishments in the Falkland Islands approved for the purpose of importing fresh meat into the Community (Text with EEA relevance) (notified under document number C(2002) 4988)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 13 December 2002</p>
+      <p n="4">on the list of establishments in the Falkland Islands approved for the purpose of importing fresh meat into the Community</p>
+      <p n="5">(notified under document number C(2002) 4988)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/987/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 72/462/EEC of 12 December 1972 on health and veterinary inspection problems upon importation of bovine, ovine, and caprine animals, and swine, fresh meat or meat products from third countries(1), as last amended by Council Regulation (EC) No 1452/2001(2), and in particular Articles 4(1) and 18(1) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Establishments in third countries may only be authorised to export fresh meat to the Community if they satisfy the general and special conditions laid down in Directive 72/462/EEC.</p>
+      <p n="13">(2) Following a Community mission, it appears that the animal health situation in the Falkland Islands compares favourably with that in the Member States, particularly as regards disease transmission through meat, and that the operation of controls over the production of fresh meat is satisfactory.</p>
+      <p n="14">(3) For the purpose of Article 4(3) of Directive 72/462/EEC, the Falkland Islands has forwarded details of the establishment which should be authorised to export fresh meat to the Community.</p>
+      <p n="15">(4) A Community inspection has shown that the hygiene standards of that establishment are satisfactory and that it may therefore be included on the first list of establishments, to be drawn up in accordance with Article 4(1) of Directive 72/462/EEC, from which imports of fresh meat may be authorised. Imports of fresh meat from the establishment set out on the list in the Annex continue to be subject to provisions already laid down, the general provisions of the Treaty and in particular the other Community veterinary regulations regarding health protection.</p>
+      <p n="16">(5) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">1. The establishment in the Falkand Islands as listed in the Annex is hereby approved for the purposes of exporting fresh meat to the Community.</p>
+      <p n="20">2. Imports from this establishment shall remain subject to the Community veterinary provisions, and in particular those concerning health protection.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 13 December 2002.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 302, 31.12.1972, p. 28.</p>
+      <p n="28">(2) OJ L 198, 21.7.2001, p. 11.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">Country: The Falkland Islands</p>
+      <p n="31">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

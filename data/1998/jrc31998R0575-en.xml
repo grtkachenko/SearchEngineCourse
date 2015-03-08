@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31998R0575-en" n="31998R0575" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0575 English</title>
+        <title>Commission Regulation (EC) No 575/98 of 12 March 1998 on the issue of import licences for rice and broken rice against applications submitted under Article 2(2) of Regulation (EC) No 327/98 (additional tranche for January 1998)</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0575:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0575:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0575-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 575/98 of 12 March 1998 on the issue of import licences for rice and broken rice against applications submitted under Article 2(2) of Regulation (EC) No 327/98 (additional tranche for January 1998)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 575/98 of 12 March 1998 on the issue of import licences for rice and broken rice against applications submitted under Article 2(2) of Regulation (EC) No 327/98 (additional tranche for January 1998)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Commission Regulation (EC) No 327/98 of 10 February 1998 opening and providing for the administration of certain tariff quotas for imports of rice and broken rice (1), and in particular Article 5(2) thereof,</p>
+      <p n="6">Whereas Article 2(2) of Regulation (EC) No 327/98 provides for the opening of an additional tranche for the issue of import licences for January 1998; whereas licence applications for this additional tranche are to be submitted during the first 10 working days following the entry into force of Regulation (EC) No 327/98;</p>
+      <p n="7">Whereas, pursuant to Article 5(2) of Regulation (EC) No 327/98, within 10 days of the closing date for notification by the Member States of licence applications, the Commission must decide to what extent the applications may be accepted and fix the quantities available under the following tranche;</p>
+      <p n="8">Whereas examination of the quantities for which applications have been submitted shows that licences should be issued for the quantities applied for multiplied, where appropriate, by a percentage reduction in accordance with the provisions of the Annex hereto,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">1. Import licences for rice and broken rice against applications submitted under Article 2(2) of Regulation (EC) No 327/98 and notified to the Commission shall be issued for the quantities applied for multiplied, where appropriate, by the percentage reductions set out in the Annex hereto.</p>
+      <p n="12">2. The quantities available under the following tranche shall be as set out in the Annex hereto.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 12 March 1998.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 37, 11. 2. 1998, p. 5.</p>
+      <p n="21">ANNEX</p>
+      <p n="22">Reduction percentages to be applied to the quantities applied for and the quantities available for the following tranche:</p>
+      <p n="23">(i) quantity referred to in Article 2(2)(i): semi-milled and wholly-milled rice falling within CN code 1006 30</p>
+      <p n="24">&gt;TABLE&gt;</p>
+      <p n="25">(ii) quantity referred to in Article 2(2)(ii): broken rice falling within CN code 1006 40 00</p>
+      <p n="26">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31998R2825-en" n="31998R2825" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2825 English</title>
+        <title>Council Regulation (EC) No 2825/98 of 22 December 1998 exempting from common customs tariff duties imports into the Community of prepared and preserved sardines originating in Morocco</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2825:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2825:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1819</classCode>
+        <classCode scheme="eurovoc">2437</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">3191</classCode>
+        <classCode scheme="eurovoc">4080</classCode>
+        <classCode scheme="eurovoc">4083</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2825-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2825/98 of 22 December 1998 exempting from common customs tariff duties imports into the Community of prepared and preserved sardines originating in Morocco</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2825/98 of 22 December 1998 exempting from common customs tariff duties imports into the Community of prepared and preserved sardines originating in Morocco</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas Protocol 2 to the Euro-Mediterranean Agreement establishing an association between the European Communities and their Member States, of the one part, and the Kingdom of Morocco, of the other part, signed on 26 February 1996, provides for imports into the Community of prepared and preserved sardines of CN codes 1604 13 11, 1604 13 19 and ex 1604 20 50 originating in Morocco to be exempt from customs duties from 1 January 1999;</p>
+      <p n="7">Whereas, pending the Agreement's conclusion and entry into force, the Community should introduce these arrangements autonomously,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Imports into the Community of prepared and preserved sardines of CN codes 1604 13 11, 1604 13 19 and ex 1604 20 50 originating in Morocco shall be exempt from customs duties.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="13">It shall apply from 1 January 1999 until the entry into force of the Euro-Mediterranean Agreement with Morocco.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 22 December 1998.</p>
+      <p n="16">For the Council</p>
+      <p n="17">The President</p>
+      <p n="18">C. EINEM</p>
+    </body>
+  </text>
+</TEI.2>

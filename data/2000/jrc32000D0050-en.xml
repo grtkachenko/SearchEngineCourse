@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32000D0050-en" n="32000D0050" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0050 English</title>
+        <title>2000/50/EC: Commission Decision of 17 December 1999 concerning minimum requirements for the inspection of holdings on which animals are kept for farming purposes (notified under document number C(1999) 4534) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0050:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0050:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">2830</classCode>
+        <classCode scheme="eurovoc">711</classCode>
+        <classCode scheme="eurovoc">937</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0050-en." lang="en">
+    <body>
+      <head n="1">2000/50/EC: Commission Decision of 17 December 1999 concerning minimum requirements for the inspection of holdings on which animals are kept for farming purposes (notified under document number C(1999) 4534) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 17 December 1999</p>
+      <p n="4">concerning minimum requirements for the inspection of holdings on which animals are kept for farming purposes</p>
+      <p n="5">(notified under document number C(1999) 4534)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/50/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 98/58/EC of 20 July 1998 concerning the protection of animals kept for farming purposes(1), and in particular Article 6(3) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) the Member States shall submit to the Commission reports on the inspections required in Article 6 of Directive 98/58/EC;</p>
+      <p n="13">(2) the format, content and frequency of submission of the inspection reports from the Member States must be harmonised and it is important to collect information on the quantity as well as the quality of the inspections in order to evaluate if compliance with Council Directive 98/58/EC is ensured in the Member States;</p>
+      <p n="14">(3) the results of those inspections are relevant for the Commission to submit specific reports to the Standing Veterinary Committee based on Article 6(2) of Directive 98/58/EC;</p>
+      <p n="15">(4) the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">1. Member States will submit to the Commission a report including the results of the inspections carried out in the field of the protection of animals kept for farming purposes.</p>
+      <p n="19">2. In the light of the provisions of Article 6(3) of Directive 98/58/EC, the report will have to comply with the information specified in the Annex.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The report will have to be presented to the Commission every two years, by the last working day in April and for the first time by 30 April 2002.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision shall enter into force on 1 January 2000.</p>
+      <p n="24">Article 4</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 17 December 1999.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">David BYRNE</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 221, 8.8.1998, p. 23.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">1. Species or category of animals</p>
+      <p n="33">- Calves</p>
+      <p n="34">- Pigs</p>
+      <p n="35">- Laying hens</p>
+      <p n="36">2. Table concerning the information requested for each species and category of animals based on the Annex of Council Directive 98/58/EC</p>
+      <p n="37">&gt;PIC FILE= "L_2000019EN.005301.EPS"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

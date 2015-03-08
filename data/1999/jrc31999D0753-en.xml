@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31999D0753-en" n="31999D0753" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0753 English</title>
+        <title>1999/753/EC: Council Decision of 29 July 1999 concerning the provisional application of the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0753:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0753:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">321</classCode>
+        <classCode scheme="eurovoc">427</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0753-en." lang="en">
+    <body>
+      <head n="1">1999/753/EC: Council Decision of 29 July 1999 concerning the provisional application of the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 29 July 1999</p>
+      <p n="4">concerning the provisional application of the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part</p>
+      <p n="5">(1999/753/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community and in particular Article 310 thereof in connection with Article 300(2), first paragraph, first and second sentence,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) the Community and South Africa have undertaken to adopt procedures for the early application of the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part;</p>
+      <p n="11">(2) the provisional application of the said Agreement through an Agreement in the form of an Exchange of Letters is necessary to provide a comprehensive framework of cooperation between the Community and South Africa, pending the completion of the procedures required to bring the said Agreement into force;</p>
+      <p n="12">(3) the Agreement in the form of an Exchange of Letters should therefore be approved,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Agreement in the form of an Exchange of Letters between the Community and South Africa, which provides for the provisional application of a portion of the Agreement on Trade, Development and Cooperation between the European Community and its Member States, on the one part, and the Republic of South Africa, on the other part, is hereby approved on behalf of the Community.</p>
+      <p n="16">The text of the Agreement in the form of an Exchange of Letters is attached to this Decision, as well as the text of the Agreement.</p>
+      <p n="17">Article 2</p>
+      <p n="18">For the purposes of the implementation of Article 97 of the Agreement, a representative of the Commission shall preside over the Cooperation Council and present the position of the Community during the period of provisional application of the Agreement.</p>
+      <p n="19">The position to be taken by the Community within the Cooperation Council shall be laid down by the Council on a proposal from the Commission.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="22">Done at Brussels, 29 July 1999.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">S. HASSI</p>
+    </body>
+  </text>
+</TEI.2>

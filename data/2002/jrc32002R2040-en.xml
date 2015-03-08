@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32002R2040-en" n="32002R2040" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2040 English</title>
+        <title>Commission Regulation (EC) No 2040/2002 of 15 November 2002 on surveillance measures regarding imports of certain textile products originating in the Syrian Arab Republic</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2040:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2040:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">252</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">4354</classCode>
+        <classCode scheme="eurovoc">990</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2040-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2040/2002 of 15 November 2002 on surveillance measures regarding imports of certain textile products originating in the Syrian Arab Republic</head>
+      <p n="2">Commission Regulation (EC) No 2040/2002</p>
+      <p n="3">of 15 November 2002</p>
+      <p n="4">on surveillance measures regarding imports of certain textile products originating in the Syrian Arab Republic</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 517/94 of 7 March 1994 on common rules for imports of textile products from certain third countries not covered by bilateral agreements, protocols or other arrangements, or by other specific Community import rules(1), as last amended by Regulation (EC) No 1309/2002(2), and in particular Article 11(1), point (b), thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 956/2001(3) expires on 17 November 2002.</p>
+      <p n="10">(2) The surveillance conducted during the last eighteen months has shown that the surge of imports into the Community in cotton yarn (Category 1) originating in Syrian Arab Republic at very low prices, which had taken place during the last three years (from almost nil in 1996 to 10 % of Community imports in 2000), has stabilised after the surveillance was put into place.</p>
+      <p n="11">(3) The investigations conducted by the Commission in 2001 and in 2002 have demonstrated that the increase of the Syrian production capacity and, simultaneously, of their EU export sales, were related to an increase of the capacity of production of cotton yarn in Syria. These are almost exclusively export oriented and mainly focused on the EU market. Additionally it cannot be excluded that a further capacity increase would result in another upsurge of Syrian exports to the EU.</p>
+      <p n="12">(4) The same investigations have also concluded that, after a significant increase in Syrian export volume in the period 1998 to 2000, these exports are now stable, but still significant, and that the average Syrian export prices to the EU are still decreasing, accounting among the lowest EU import prices.</p>
+      <p n="13">(5) Considering the results of the investigations carried out so far, and in particular the possibility that the installation by Syria of new capacity for cotton yarn production may result over the coming months in further price reduction and in a resumption of the increase of such exports to the European Union, imports into the Community of cotton yarn (category 1) originating in the Syrian Arab Republic should continue to be closely monitored. It is therefore appropriate to renew for a period of 18 months the surveillance mechanism put in place by Commission Regulation (EC) No 956/2001. Accordingly, cotton yarn products shipped from the Syrian Arab Republic and put into free circulation in the Community should enter the Community under the surveillance mechanism and the requirements regarding production of an import document, as set out in Article 14(1), (2), (3) and (4) of Regulation (EC) No 517/94 should apply.</p>
+      <p n="14">(6) In order not to interrupt the present import regime, it is desirable that this Regulation enters into force on 18 November 2002.</p>
+      <p n="15">(7) These measures are in conformity with the opinion expressed by the committee established by Regulation (EC) No 517/94,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Imports into the Community of cotton yarn (Category 1), originating in the Syrian Arab Republic and released for free circulation into the Community shall be subject to prior Community surveillance.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on 18 November 2002.</p>
+      <p n="21">It shall apply for a period of 18 months.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 15 November 2002.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Pascal Lamy</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 67, 10.3.1994, p. 1.</p>
+      <p n="28">(2) OJ L 192, 20.7.2002, p. 1.</p>
+      <p n="29">(3) OJ L 134, 17.5.2001, p. 31.</p>
+    </body>
+  </text>
+</TEI.2>

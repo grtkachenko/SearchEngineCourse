@@ -1,0 +1,51 @@
+<TEI.2 id="jrc31987L0432-en" n="31987L0432" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31987L0432 English</title>
+        <title>Council Directive 87/432/EEC of 3 August 1987 on the eighth adaptation to technical progress of Directive 67/548/EEC on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987L0432:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987L0432:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31987L0432-en." lang="en">
+    <body>
+      <head n="1">Council Directive 87/432/EEC of 3 August 1987 on the eighth adaptation to technical progress of Directive 67/548/EEC on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances</head>
+      <p n="2">COUNCIL DIRECTIVE of 3 August 1987 on the eighth adaptation to technical progress of Directive 67/548/EEC on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (87/432/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances(1), as last amended by Commission Directive 86/431/EEC(2), and in particular Articles 19 and 21 thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas it is of importance that measures be adopted for the gradual establishment of the internal market during a period to expire on 31 December 1992; whereas the internal market consists of an area which has no internal frontiers and in which the free movement of goods, persons, services and capital is assured;</p>
+      <p n="8">Whereas Annex I to Directive 67/548/EEC contains a list of dangerous substances, together with particulars of the classification and labelling procedures in respect of each substance; whereas examination of the list has shown that it needs to be adapted in the light of present scientific and technical knowledge; whereas, in particular, it is necessary to change the classification and labelling of certain substances, to clarify certain names, to correct certain Cas (Chemical Abstract Service) numbers and to enter other substances in the list;</p>
+      <p n="9">Whereas the Committee on the Adaptation to Technical Progress of the Directives concerning the Elimination of Technical Barriers to Trade in Dangerous Substances and Preparations, set up by Article 20 of Directive 67/548/EEC, gave an unfavourable opinion on the draft of the measures which was submitted to it by the Commission,</p>
+      <p n="10">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Annex I (list of dangerous substances) to Directive 67/548/EEC is hereby amended as follows:</p>
+      <p n="13">1.The designation, Cas-number, classification and labelling of the following substances shall be replaced by those listed in Annex I to this Directive.</p>
+      <p n="14">N° 006-008-00-0 N° 006-019-00-0 N° 602-005-00-9 N° 602-042-00-0 N° 602-045-00-7 N° 602-046-00-2 N° 602-047-00-8 N° 602-048-00-3 N° 602-049-00-9 N° 603-023-00-X N° 605-001-00-5 N° 605-001-01-2 N° 605-001-02-X N° 606-019-00-6 N° 612-036-00-X N° 612-037-00-5 N° 612-041-00-7 N° 613-011-00-6 N° 650-007-00-3.</p>
+      <p n="15">2.The substances listed in Annex II to this Directive shall be added.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Member States shall adopt and publish before 1 April 1988 the provisions necessary to comply with this Directive. They shall forthwith inform the Commission thereof.</p>
+      <p n="18">They shall apply these provisions as from 1 October 1988 at the latest.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Directive is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 3 August 1987.</p>
+      <p n="22">For the CouncilThe PresidentK. E. TYGESEN</p>
+      <p n="23">(1)OJ N° 196, 16. 8. 1967, p. 1.</p>
+      <p n="24">(2)OJ N° L 247, 1. 9. 1986, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

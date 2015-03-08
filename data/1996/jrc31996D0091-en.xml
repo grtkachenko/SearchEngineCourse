@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31996D0091-en" n="31996D0091" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0091 English</title>
+        <title>96/91/EC: Council Decision of 22 January 1996 concerning the approval of the amendment to Article VII of the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0091:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0091:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1012</classCode>
+        <classCode scheme="eurovoc">133</classCode>
+        <classCode scheme="eurovoc">1558</classCode>
+        <classCode scheme="eurovoc">1871</classCode>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">5254</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0091-en." lang="en">
+    <body>
+      <head n="1">96/91/EC: Council Decision of 22 January 1996 concerning the approval of the amendment to Article VII of the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts</head>
+      <p n="2">COUNCIL DECISION of 22 January 1996 concerning the approval of the amendment to Article VII of the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts (96/91/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43, in conjunction with the first subparagraph of Article 228 (3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts, signed in Gdansk on 13 September 1973, was amended by the Protocol to the Conference of the representatives of the State Parties to the Convention, signed in Warsaw on 11 November 1982;</p>
+      <p n="8">Whereas the Community acceded to the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts on 18 March 1984 (3);</p>
+      <p n="9">Whereas negotiations have taken place during the 20th Session of the International Baltic Sea fishery Commission with a view to amending Article VII of that Convention, to establish a closer link between the financial contributions of the Contracting Parties and the size of the fishery resources allocated to them pursuant to the Convention;</p>
+      <p n="10">Whereas the proposed amendment will enter into force 90 days after the Depository Government has received notification of acceptance of that amendment from all Contracting Parties;</p>
+      <p n="11">Whereas, in the light of the fishing possibilities accruing to the Community under the Convention, it is in the Community's interest to approve the proposed amendment,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The amendment to Article VII of the Convention on fishing and conservation of the living resources in the Baltic Sea and the Belts is hereby approved by the Community.</p>
+      <p n="15">The text of the amendment is annexed to this Decision.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The President of the Council is hereby authorized to designate the person empowered to notify the Depository Government of the Community's approval in accordance with Article XVI of the Convention.</p>
+      <p n="18">Done at Brussels, 22 January 1996.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">W. LUCCHETTI</p>
+      <p n="22">(1) OJ No C 252, 28. 9. 1995, p. 8.</p>
+      <p n="23">(2) Opinion delivered on 15 December 1995 (not yet published in the Official Journal).</p>
+      <p n="24">(3) OJ No L 237, 26. 8. 1983, p. 4.</p>
+    </body>
+  </text>
+</TEI.2>

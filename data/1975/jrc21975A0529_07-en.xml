@@ -1,0 +1,37 @@
+<TEI.2 id="jrc21975A0529_07-en" n="21975A0529(07)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 21975A0529(07) English</title>
+      </titleStmt>
+      <extent>12 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21975A0529(07):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21975A0529(07):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc21975A0529_07-en." lang="en">
+    <body>
+      <p n="2">SUPPLEMENTARY PROTOCOL</p>
+      <p n="3">to the additional Agreement concerning the validity, for the Principality of Liechtenstein, of the Agreement between the European Economic Community and the Swiss Confederation</p>
+      <p n="4">THE EUROPEAN ECONOMIC COMMUNITY,</p>
+      <p n="5">THE SWISS CONFEDERATION,</p>
+      <p n="6">THE PRINCIPALITY OF LIECHTENSTEIN,</p>
+      <p n="7">HAVE AGREED to make the following amendment to their Additional Agreement of 22 July 1972:</p>
+      <p n="8">Article 1</p>
+      <p n="9">The following shall be deleted: - "Utferdiget i Brussel, tjueandre juli nitten hundre og syttito",</p>
+      <p n="10">- "For Rådet for De Europeiske Fellesskap".</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Supplementary Protocol is drawn up in duplicate in the Danish, Dutch, English, French, German and Italian languages, each of these texts being equally authentic.</p>
+    </body>
+  </text>
+</TEI.2>

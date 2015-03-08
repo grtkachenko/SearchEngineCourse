@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31998R2520-en" n="31998R2520" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2520 English</title>
+        <title>Commission Regulation (EC) No 2520/98 of 24 November 1998 amending Regulation (EC) No 544/97 as regards certificates of origin for garlic imported from Malaysia</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2520:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2520:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1603</classCode>
+        <classCode scheme="eurovoc">1765</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">5367</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2520-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2520/98 of 24 November 1998 amending Regulation (EC) No 544/97 as regards certificates of origin for garlic imported from Malaysia</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2520/98 of 24 November 1998 amending Regulation (EC) No 544/97 as regards certificates of origin for garlic imported from Malaysia</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables (1), as amended by Commission Regulation (EC) No 2520/97 (2), and in particular Article 31(2) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 1859/93 of 12 July 1993 on the application of the system of import licences for garlic imported from third countries (3), as amended by Regulation (EC) No 1662/94 (4), makes the release of all garlic for free circulation in the Community subject to the presentation of import licences;</p>
+      <p n="7">Whereas, in order to step up controls and to prevent any risk of deflection of trade resulting from inaccurate documents, Commission Regulation (EC) No 544/97 (5) makes imports of garlic originating in certain third countries subject to the presentation of a certificate of origin issued by the competent national authorities in accordance with Articles 56 to 62 of Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Common Customs Code (6), as last amended by Regulation (EC) No 1677/98 (7), and requires imports of garlic originating in such third countries to be transported directly to the Community;</p>
+      <p n="8">Whereas the Malaysian authorities have confirmed that no garlic is produced in Malaysia; whereas, however, import licence applications covering garlic declared as originating in Malaysia have been submitted under Regulation (EC) No 1859/93; whereas the number of such applications is rising; whereas Regulation (EC) No 544/97 should be applied to Malaysia forthwith in order to prevent any fraud;</p>
+      <p n="9">Whereas there is a clear risk of fraud arising from the fact that no garlic is produced in Malaysia; whereas Article 4 of Regulation (EC) No 544/97 should therefore not apply in the case in point;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Malaysia is added to the list of the third countries appearing in the Annex to Regulation (EC) No 544/97.</p>
+      <p n="14">Article 2</p>
+      <p n="15">Article 4 of Regulation (EC) No 544/97 shall not apply to products declared as originating in Malaysia and in the process of shipment to the Community.</p>
+      <p n="16">Article 3</p>
+      <p n="17">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">Notwithstanding the second paragraph of Article 5 of Regulation (EC) No 544/97, it shall apply as from its entry into force.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 24 November 1998.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 297, 21. 11. 1996, p. 1.</p>
+      <p n="25">(2) OJ L 346, 17. 12. 1997, p. 41.</p>
+      <p n="26">(3) OJ L 170, 13. 7. 1993, p. 10.</p>
+      <p n="27">(4) OJ L 176, 9. 7. 1994, p. 1.</p>
+      <p n="28">(5) OJ L 84, 26. 3. 1997, p. 8.</p>
+      <p n="29">(6) OJ L 253, 11. 10. 1993, p. 1.</p>
+      <p n="30">(7) OJ L 212, 30. 7. 1998, p. 18.</p>
+    </body>
+  </text>
+</TEI.2>

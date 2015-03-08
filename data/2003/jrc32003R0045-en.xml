@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32003R0045-en" n="32003R0045" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0045 English</title>
+        <title>Commission Regulation (EC) No 45/2003 of 10 January 2003 correcting Regulation (EEC) No 1274/91 introducing detailed rules for implementing Regulation (EEC) No 1907/90 on certain marketing standards for eggs</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0045:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0045:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2121</classCode>
+        <classCode scheme="eurovoc">87</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0045-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 45/2003 of 10 January 2003 correcting Regulation (EEC) No 1274/91 introducing detailed rules for implementing Regulation (EEC) No 1907/90 on certain marketing standards for eggs</head>
+      <p n="2">Commission Regulation (EC) No 45/2003</p>
+      <p n="3">of 10 January 2003</p>
+      <p n="4">correcting Regulation (EEC) No 1274/91 introducing detailed rules for implementing Regulation (EEC) No 1907/90 on certain marketing standards for eggs</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 1907/90 of 26 June 1990 on certain marketing standards for eggs(1), as last amended by Regulation (EC) No 5/2001(2), and in particular Article 10(3) and Article 20(1) and (4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The text of the Italian version of Article 12(4) of Commission Regulation (EEC) No 1274/91(3), as amended by Regulation (EC) 1651/2001(4), is incorrect. The Italian version should therefore be corrected.</p>
+      <p n="10">(2) According to the last amendment of Regulation (EEC) No 1274/91 the farming methods may be indicated on all eggs and not only on eggs of Grade "A". The Swedish version should therefore be corrected accordingly.</p>
+      <p n="11">(3) Farming methods may be indicated on all packs containing eggs and not only on small packs. The Dutch version should therefore be corrected accordingly.</p>
+      <p n="12">(4) The measurements provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EEC) No 1274/91 is corrected as follows:</p>
+      <p n="16">1. for the Italian version only:</p>
+      <p n="17">in Article 12(4) the words in brackets "(entro un raggio di 20 km dal centro di imballaggio e)" shall be deleted;</p>
+      <p n="18">2. for the Swedish version only:</p>
+      <p n="19">in Article 18(1), third line, the words "av klass 'A'" and "sådana" shall be deleted;</p>
+      <p n="20">3. for the Dutch version only:</p>
+      <p n="21">in Article 18(1), second line, the term "kleine" shall be deleted.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 10 January 2003.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz Fischler</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 173, 6.7.1990, p. 5.</p>
+      <p n="30">(2) OJ L 2, 5.1.2001, p. 1.</p>
+      <p n="31">(3) OJ L 121, 16.5.1991, p. 11.</p>
+      <p n="32">(4) OJ L 220, 15.8.2001, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>

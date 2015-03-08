@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R2036-en" n="32003R2036" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2036 English</title>
+        <title>Commission Regulation (EC) No 2036/2003 of 19 November 2003 derogating from Regulation (EC) No 896/2001 as regards the fixing of adjustment coefficients to be applied to the reference quantity for each traditional operator under the tariff quotas for banana imports for 2004</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2036:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2036:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1120</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2036-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2036/2003 of 19 November 2003 derogating from Regulation (EC) No 896/2001 as regards the fixing of adjustment coefficients to be applied to the reference quantity for each traditional operator under the tariff quotas for banana imports for 2004</head>
+      <p n="2">Commission Regulation (EC) No 2036/2003</p>
+      <p n="3">of 19 November 2003</p>
+      <p n="4">derogating from Regulation (EC) No 896/2001 as regards the fixing of adjustment coefficients to be applied to the reference quantity for each traditional operator under the tariff quotas for banana imports for 2004</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 404/93 of 13 February 1993 on the common organisation of the market in bananas(1), as last amended by Regulation (EC) No 2587/2001(2), and in particular Article 20 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 4(1) of Commission Regulation (EC) No 896/2001 of 7 May 2001 laying down detailed rules for applying Council Regulation (EEC) No 404/93 as regards the arrangements for importing bananas into the Community(3), as last amended by Regulation (EC) No 1439/2003(4), lays down the method for calculating the reference quantity for traditional operators A/B and C for 2004 and 2005 on the basis of the use of import licences for those operators during a reference year.</p>
+      <p n="10">(2) According to the reports from the Member States pursuant to Article 5(2) of Regulation (EC) No 896/2001, the sum of the reference quantities thus determined for 2004 is 2197147,342 tonnes for all traditional operators A/B and 630713,105 tonnes for all traditional operators C. As these amounts are below the quantities available under the tariff quotas, applying Article 5(3) of the said Regulation would entail the fixing of an adjustment coefficient which would increase the reference quantities for traditional operators.</p>
+      <p n="11">(3) Traditional operators could be allocated an exceptionally small quantity owing to the extreme hardship affecting their activity during the reference year. In accordance with Article 5(5) of Regulation (EC) No 896/2001, the Commission may take appropriate measures which are justified for tackling specific situations within the limits of tariff quotas A/B and C. Furthermore, the notification by certain Member States of the sum of the reference quantities established for traditional operators in accordance with Article 4(1) of Regulation (EC) No 896/2001 could be adjusted on completion of the legal proceedings now in hand.</p>
+      <p n="12">(4) Until those situations have progressed, and in order to enable, as appropriate, the necessary measures to be taken regarding the operators concerned, it is advisable, for the time being, not to fix adjustment coefficients to be applied, for 2004, to the reference quantity for each traditional operator.</p>
+      <p n="13">(5) A derogation from Regulation (EC) No 896/2001 should therefore be made.</p>
+      <p n="14">(6) In order that operators have sufficient time to submit licence applications for the first quarter of 2004, this Regulation should enter into force forthwith.</p>
+      <p n="15">(7) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Bananas,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">By derogation from Article 5(3) of Regulation (EC) No 896/2001, adjustment coefficients to be applied to the reference quantity for traditional operators for tariff quotas A/B and C for 2004 shall not be fixed for the time being.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 19 November 2003.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz Fischler</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 47, 25.2.1993, p. 1.</p>
+      <p n="27">(2) OJ L 345, 29.12.2001, p. 13.</p>
+      <p n="28">(3) OJ L 126, 8.5.2001, p. 6.</p>
+      <p n="29">(4) OJ L 204, 13.8.2003, p. 30.</p>
+    </body>
+  </text>
+</TEI.2>

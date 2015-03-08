@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31995D0427-en" n="31995D0427" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0427 English</title>
+        <title>95/427/EC: Commission Decision of 16 October 1995 on the list of establishments in the Republic of Namibia approved for the purpose of importing meat products into the Community</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0427:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0427:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2027</classCode>
+        <classCode scheme="eurovoc">2738</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0427-en." lang="en">
+    <body>
+      <head n="1">95/427/EC: Commission Decision of 16 October 1995 on the list of establishments in the Republic of Namibia approved for the purpose of importing meat products into the Community</head>
+      <p n="2">COMMISSION DECISION of 16 October 1995 on the list of establishments in the Republic of Namibia approved for the purpose of importing meat products into the Community (Text with EEA relevance) (95/427/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 72/462/EEC of 12 December 1972 on health and veterinary inspection problems upon importation of bovine, ovine and caprine animals and swine and fresh meat or meat products from third countries (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 4 (1) thereof,</p>
+      <p n="6">Whereas establishments in third countries cannot be authorized to export meat products to the Community unless they satisfy the general and special conditions laid down in Directive 72/462/EEC;</p>
+      <p n="7">Whereas, in accordance with Article 4 (3) of Directive 72/462/EEC, the Republic of Namibia forwarded the data of one establishment authorized to export to the Community;</p>
+      <p n="8">Whereas a Community on-the-spot inspection has shown that the hygiene-standards of this establishment are sufficient and may therefore be entered on a first list of establishments from which imports of meat may be authorized;</p>
+      <p n="9">Whereas imports of meat products from the establishment on the list in the Annex hereto continue to be the subject to provisions already laid down, the general provisions of the Treaty and in particular the other Community veterinary regulations, particularly as regards animal health protection;</p>
+      <p n="10">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">1. The establishment in the Republic of Namibia listed in the Annex is hereby approved for the purposes of exporting meat products to the Community.</p>
+      <p n="14">2. Imports from this establishment shall remain subject to the Community veterinary provisions laid down elsewhere, and in particular those concerning animal health protection.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Decision is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 16 October 1995.</p>
+      <p n="18">For the Commission Franz FISCHLER Member of the Commission</p>
+      <p n="19">ANNEX</p>
+      <p n="20">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

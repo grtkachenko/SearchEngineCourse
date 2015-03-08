@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32000R0820-en" n="32000R0820" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R0820 English</title>
+        <title>Commission Regulation (EC) No 820/2000 of 19 April 2000 on the issuing of import licences for certain sugar sector products with EC/OCT cumulation of origin</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0820:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0820:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2296</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">4314</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R0820-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 820/2000 of 19 April 2000 on the issuing of import licences for certain sugar sector products with EC/OCT cumulation of origin</head>
+      <p n="2">Commission Regulation (EC) No 820/2000</p>
+      <p n="3">of 19 April 2000</p>
+      <p n="4">on the issuing of import licences for certain sugar sector products with EC/OCT cumulation of origin</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Decision 91/482/EEC of 25 July 1991 on the association of the overseas countries and territories with the European Community(1), as last amended by Decision 97/803/EC(2),</p>
+      <p n="8">Having regard to Commission Regulation (EC) No 465/2000 of 29 February 2000 introducing safeguard measures for imports from the overseas countries and territories of sugar sector products with EC/OCT cumulation of origin(3), and in particular Article 2(2) thereof, in conjunction with Commission Regulation (EC) No 2553/97 of 17 December 1997 on rules for issuing import licences for certain products covered by CN codes 1701, 1702, 1703 and 1704 and qualifying as ACP/OCT originating products(4), and in particular Article 5(3) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Article 1 of Regulation (EC) No 465/2000 allows EC/OCT cumulation of origin for products covered by CN codes 1701, 1806 10 30 and 1806 10 90 for up to 3340 tonnes of sugar during the period of validity of that Regulation. Import licences were issued for 3000 tonnes of sugar in March 2000.</p>
+      <p n="11">(2) Three applications were submitted to the national authorities in April 2000 in accordance with Regulation (EC) No 465/2000 for import licences covering a total quantity exceeding the available balance of 340 tonnes.</p>
+      <p n="12">(3) Article 2 of Regulation (EC) No 465/2000, in conjunction with Article 5(3) of Regulation (EC) No 2553/97, provides that where licence applications cover annual quantities in excess of 3340 tonnes of sugar, the Commission is to adopt a regulation fixing a single reducing coefficient to be applied to the applications submitted and suspend the submission of further applications during the year of validity of that regulation.</p>
+      <p n="13">(4) The Commission must accordingly fix a reducing coefficient for the import licences issued and suspend the submission of further licence applications pursuant to Regulation (EC) No 465/2000,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The import licences applied for under Article 2 of Regulation (EC) No 465/2000 on 7 April 2000 for 2500 tonnes, 750 tonnes and 340 tonnes of sugar covered by CN code 1701 99 10 shall be issued for 9,47075 % of the quantity applied for.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The submission of further applications during the period of validity of Regulation (EC) No 465/2000 is hereby suspended.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 19 April 2000.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz Fischler</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 263, 19.9.1991, p. 1.</p>
+      <p n="27">(2) OJ L 329, 29.11.1997, p. 50.</p>
+      <p n="28">(3) OJ L 56, 1.3.2000, p. 39.</p>
+      <p n="29">(4) OJ L 349, 19.12.1997, p. 26.</p>
+    </body>
+  </text>
+</TEI.2>

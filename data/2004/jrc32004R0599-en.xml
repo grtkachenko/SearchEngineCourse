@@ -1,0 +1,128 @@
+<TEI.2 id="jrc32004R0599-en" n="32004R0599" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0599 English</title>
+        <title>Commission Regulation (EC) No 599/2004 of 30 March 2004 concerning the adoption of a harmonised model certificate and inspection report linked to intra-Community trade in animals and products of animal origin (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>91 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0599:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0599:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1937</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0599-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 599/2004 of 30 March 2004 concerning the adoption of a harmonised model certificate and inspection report linked to intra-Community trade in animals and products of animal origin (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 599/2004</p>
+      <p n="3">of 30 March 2004</p>
+      <p n="4">concerning the adoption of a harmonised model certificate and inspection report linked to intra-Community trade in animals and products of animal origin</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market(1), and in particular Article 20(3) thereof,</p>
+      <p n="9">Having regard to Council Directive 89/662/EEC of 11 December 1989 concerning veterinary checks in intra-Community trade with a view to the completion of the internal market(2), and in particular Article 16(3) thereof,</p>
+      <p n="10">Having regard to Council Directive 91/628/EC of 19 November 1991 on the protection of animals during transport and amending Directives 90/425/EEC and 91/496/EEC(3), and in particular Article 15 thereof,</p>
+      <p n="11">Having regard to Council Decision 92/438/EEC of 13 July 1992 on computerisation of veterinary import procedures (Shift project), amending Directives 90/675/EEC, 91/496/EEC, 91/628/EEC and Decision 90/424/EEC, and repealing Decision 88/192/EEC(4), and in particular Article 12 thereof,</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) Harmonisation of the presentation of the health certificates required in intra-Community trade is vital to the introduction of the Traces system, as provided for in Commission Decision 2003/623/EC concerning the development of an integrated computerised veterinary system known as Traces(5), so that the data gathered can be properly managed and processed in order to improve health safety in the Community.</p>
+      <p n="14">(2) The introduction of a harmonised model to collect the results of inspections carried out under Directives 89/662/EEC, 91/628/EEC and 90/425/EEC is necessary so that data can be processed by electronic means, and constitutes the basis of a standardised presentation of results, as required by those Directives.</p>
+      <p n="15">(3) The presentation of the models of documents required by Community legislation in the following acts must be harmonised:</p>
+      <p n="16">- Annex F to Council Directive 64/432/EEC of 26 June 1964 on animal health problems affecting intra-Community trade in bovine animals and swine(6),</p>
+      <p n="17">- Annexes D1 and D2 to Council Directive 88/407/EEC of 14 June 1988 laying down the animal health requirements applicable to intra-Community trade in and imports of semen of domestic animals of the bovine species(7);</p>
+      <p n="18">- Annex C to Council Directive 89/556/EEC of 25 September 1989 on animal health conditions governing intra-Community trade in and importation from third countries of embryos of domestic animals of the bovine species(8);</p>
+      <p n="19">- Annex C to Council Directive 90/426/EEC of 26 June 1990 on animal health conditions governing the movement and import from third countries of equidae(9);</p>
+      <p n="20">- Annex D to Council Directive 90/429/EEC of 26 June 1990 laying down the animal health requirements applicable to intra-Community trade in and imports of semen of domestic animals of the porcine species(10);</p>
+      <p n="21">- Annex IV to Council Directive 90/539/EEC of 15 October 1990 on animal health conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs(11);</p>
+      <p n="22">- Annex E to Council Directive 91/67/EEC of 28 January 1991 concerning the animal health conditions governing the placing on the market of aquaculture animals and products(12);</p>
+      <p n="23">- Annex E to Council Directive 91/68/EEC of 28 January 1991 on animal health conditions governing intra-Community trade in ovine and caprine animals(13);</p>
+      <p n="24">- Annex E to Council Directive 92/65/EEC of 13 July 1992 laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A (I) to Directive 90/425/EEC(14);</p>
+      <p n="25">- the Annex to Commission Decision 94/273/EC of 18 April 1994 concerning veterinary certification for placing on the market in the United Kingdom and Ireland of dogs and cats not originating in those countries(15);</p>
+      <p n="26">- the Annex to Commission Decision 95/294/EC of 24 July 1995 determining the specimen animal health certificate for trade in ova and embryos of the equine species(16);</p>
+      <p n="27">- the Annex to Commission Decision 95/307/EC of 24 July 1995 determining the specimen animal health certificate for trade in semen of the equine species(17);</p>
+      <p n="28">- Annexes I and II to Commission Decision 95/388/EC of 19 September 1995 determining the specimen certificate for intra-Community trade in semen, ova and embryos of the ovine and caprine species(18);</p>
+      <p n="29">- the Annex to Commission Decision 95/483/EC of 9 November 1995 determining the specimen certificate for intra-Community trade in ova and embryos of swine(19);</p>
+      <p n="30">- Annexes I and II to Commission Decision 1999/567/EC of 27 July 1999 laying down the model of the certificate referred to in Article 16(1) of Council Directive 91/67/EEC(20);</p>
+      <p n="31">- Annex I to Commission Decision 2003/390/EC of 23 May 2003 establishing special conditions for placing on the market of aquaculture animals species considered not susceptible to certain diseases and the products thereof(21);</p>
+      <p n="32">- Annex IV to Council Directive 64/433/EEC of 26 June 1964 on health conditions for the production and marketing of fresh meat(22);</p>
+      <p n="33">- Annex VI to Council Directive 71/118/EEC of 15 February 1971 on health problems affecting the production and placing on the market of fresh poultrymeat(23);</p>
+      <p n="34">- Annex D to Council Directive 77/99/EEC of 21 December 1976 on health problems affecting the production and marketing of meat products and certain other products of animal origin(24);</p>
+      <p n="35">- Annex IV to Council Directive 91/495/EEC of 27 November 1990 concerning public health and animal health problems affecting the production and placing on the market of rabbit meat and farmed game meat(25);</p>
+      <p n="36">- Annex II to Council Directive 92/45/EEC of 16 June 1992 on public health and animal health problems relating to the killing of wild game and the placing on the market of wild-game meat(26);</p>
+      <p n="37">- Annex V to Council Directive 94/65/EC of 14 December 1994 laying down the requirements for the production and placing on the market of minced meat and meat preparations(27).</p>
+      <p n="38">(4) The exchanges of information between competent authorities provided for in Regulation (EC) No 1774/2002 of the European Parliament and of the Council of 3 October 2002 laying down health rules concerning animal by-products not intended for human consumption(28) should also be harmonised as regards the dispatch of animal by-products and processed products.</p>
+      <p n="39">(5) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="40">HAS ADOPTED THIS REGULATION:</p>
+      <p n="41">Article 1</p>
+      <p n="42">The various health certificates required in the context of intra-Community trade, with the exception of health certificates for registered equidae, shall be presented on the basis of the harmonised model annexed hereto.</p>
+      <p n="43">These model certificates comprise:</p>
+      <p n="44">1. a standardised part I, "details of the consignment",</p>
+      <p n="45">2. part II, "certification", designed to show the requirements under the legislation specific to each species, type of production and type of product, and</p>
+      <p n="46">3. a standardised part III, "checks", recording the results of the inspections carried out in accordance with the rules in force.</p>
+      <p n="47">Article 2</p>
+      <p n="48">This Regulation shall enter into force on 31 December 2004.</p>
+      <p n="49">However, the Member States which so wish may use this presentation of certificates from 1 April 2004 onwards in the context of the Traces system.</p>
+      <p n="50">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="51">Done at Brussels, 30 March 2004.</p>
+      <p n="52">For the Commission</p>
+      <p n="53">David Byrne</p>
+      <p n="54">Member of the Commission</p>
+      <p n="55">(1) OJ L 224, 18.8.1990, p. 29. Directive as last amended by Directive 2002/33/EC of the European Parliament and of the Council.</p>
+      <p n="56">(2) OJ L 395, 30.12.1989, p. 13. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="57">(3) OJ L 340, 11.12.1991, p. 17. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="58">(4) OJ L 243, 25.8.1992, p. 27. Decision as last amended by Decision 95/1/EC.</p>
+      <p n="59">(5) OJ L 216, 28.8.2003, p. 58.</p>
+      <p n="60">(6) OJ 121, 29.7.1964, p. 1977/64. Directive as last amended by Council Regulation (EC) No 21/2004.</p>
+      <p n="61">(7) OJ L 194, 22.7.1988, p. 10. Directive as last amended by Commission Decision 2004/101/EC.</p>
+      <p n="62">(8) OJ L 302, 19.10.1989, p. 1. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="63">(9) OJ L 224, 18.8.1990, p. 42. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="64">(10) OJ L 224, 18.8.1990, p. 62. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="65">(11) OJ L 303, 31.10.1990, p. 6. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="66">(12) OJ L 46, 19.2.1991, p. 1. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="67">(13) OJ L 46, 19.2.1991, p. 19. Directive as last amended by Commission Decision 2003/708/EC.</p>
+      <p n="68">(14) OJ L 268, 14.9.1992, p. 54. Directive as last amended by Commission Regulation (EC) No 1398/2003.</p>
+      <p n="69">(15) OJ L 102, 12.4.2001, p. 63. Directive as last amended by Commission Decision 2001/298/EC.</p>
+      <p n="70">(16) OJ L 182, 2.8.1995, p. 27.</p>
+      <p n="71">(17) OJ L 185, 4.8.1995, p. 58.</p>
+      <p n="72">(18) OJ L 234, 3.10.1995, p. 30.</p>
+      <p n="73">(19) OJ L 275, 18.11.1995, p. 30.</p>
+      <p n="74">(20) OJ L 216, 14.8.1999, p. 13.</p>
+      <p n="75">(21) OJ L 135, 3.6.2003, p. 19.</p>
+      <p n="76">(22) OJ 121, 29.7.1964, p. 2012/64. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="77">(23) OJ L 55, 8.3.1971, p. 23. Directive as last amended by Council Regulation (EC) No 807/2003.</p>
+      <p n="78">(24) OJ L 26, 31.1.1977, p. 85. Directive as last amended by Council Regulation (EC) No 807/2003.</p>
+      <p n="79">(25) OJ L 268, 24.9.1991, p. 41. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="80">(26) OJ L 268, 14.9.1992, p. 35. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="81">(27) OJ L 368, 31.12.1994, p. 10. Directive as last amended by Council Regulation (EC) No 806/2003.</p>
+      <p n="82">(28) OJ L 273, 10.10.2002, p. 1.</p>
+      <p n="83">ANNEX</p>
+      <p n="84">&gt;PIC FILE= "L_2004094EN.004901.TIF"&gt;</p>
+      <p n="85">&gt;PIC FILE= "L_2004094EN.005001.TIF"&gt;</p>
+      <p n="86">&gt;PIC FILE= "L_2004094EN.005101.TIF"&gt;</p>
+      <p n="87">&gt;PIC FILE= "L_2004094EN.005201.TIF"&gt;</p>
+      <p n="88">&gt;PIC FILE= "L_2004094EN.005301.TIF"&gt;</p>
+      <p n="89">&gt;PIC FILE= "L_2004094EN.005401.TIF"&gt;</p>
+      <p n="90">&gt;PIC FILE= "L_2004094EN.005501.TIF"&gt;</p>
+      <p n="91">&gt;PIC FILE= "L_2004094EN.005601.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

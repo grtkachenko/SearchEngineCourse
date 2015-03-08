@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31998R1207-en" n="31998R1207" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1207 English</title>
+        <title>Commission Regulation (EC) No 1207/98 of 10 June 1998 amending Regulation (EEC) No 2191/81 on the granting of aid for the purchase of butter by non-profit-making institutions and organisations</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1207:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1207:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">4204</classCode>
+        <classCode scheme="eurovoc">4860</classCode>
+        <classCode scheme="eurovoc">5025</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1207-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1207/98 of 10 June 1998 amending Regulation (EEC) No 2191/81 on the granting of aid for the purchase of butter by non-profit-making institutions and organisations</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1207/98 of 10 June 1998 amending Regulation (EEC) No 2191/81 on the granting of aid for the purchase of butter by non-profit-making institutions and organisations</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organisation of the market in milk and milk products (1), as last amended by Regulation (EC) No 1587/96 (2), and in particular Article 12(3) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 2191/81 (3), as last amended by Regulation (EC) No 2196/95 (4), provides for the grant of aid for the purchase of butter by non-profit-making institutions and organisations; whereas in view of the current situation on the butter market and the level of sales under this Regulation, the aid amount must be reduced;</p>
+      <p n="7">Whereas the Management Committee for Milk and Milk Products has not delivered an opinion within the time limit laid down by its chairman,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">In the first subparagraph of Article 2(1) of Regulation (EEC) No 2191/81, 'ECU 139` is replaced by 'ECU 105`.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="14">Done at Brussels, 10 June 1998.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Franz FISCHLER</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ L 148, 28. 6. 1968, p. 13.</p>
+      <p n="19">(2) OJ L 206, 16. 8. 1996, p. 21.</p>
+      <p n="20">(3) OJ L 213, 1. 8. 1981, p. 20.</p>
+      <p n="21">(4) OJ L 221, 19. 9. 1995, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

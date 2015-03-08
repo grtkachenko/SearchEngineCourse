@@ -1,0 +1,160 @@
+<TEI.2 id="jrc32002L0070-en" n="32002L0070" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002L0070 English</title>
+        <title>Commission Directive 2002/70/EC of 26 July 2002 establishing requirements for the determination of levels of dioxins and dioxin-like PCBs in feedingstuffs (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>123 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002L0070:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002L0070:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1442</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">3135</classCode>
+        <classCode scheme="eurovoc">3730</classCode>
+        <classCode scheme="eurovoc">4036</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002L0070-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 2002/70/EC of 26 July 2002 establishing requirements for the determination of levels of dioxins and dioxin-like PCBs in feedingstuffs (Text with EEA relevance)</head>
+      <p n="2">Commission Directive 2002/70/EC</p>
+      <p n="3">of 26 July 2002</p>
+      <p n="4">establishing requirements for the determination of levels of dioxins and dioxin-like PCBs in feedingstuffs</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to the Council Directive 70/373/EEC of 20 July 1970 on the introduction of Community methods of sampling and analysis for the official control of feedingstuffs(1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 2 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Council Directive 1999/29/EC of 22 April 1999 on the undesirable substances and products in animal nutrition(2), as last amended by Directive 2001/102/EC(3), establishes maximum limits for dioxins and furans in several feed materials and feedingstuffs.</p>
+      <p n="11">(2) It is necessary to establish requirements with which the method of analysis should comply in order to ensure that laboratories use methods of analysis with comparable levels of performance.</p>
+      <p n="12">(3) The provisions for sampling and methods of analysis have been drawn up on the basis of present knowledge and they may be adapted to take account of advances in scientific and technological knowledge.</p>
+      <p n="13">(4) The provisions laid down in this Directive relate only to the analysis of dioxins and dioxin-like PCBs for the implementation of Directive 2001/102/EC amending Directive 1999/29/EC on the undesirable substances and products in animal nutrition</p>
+      <p n="14">(5) An active approach should be pursued in order to obtain comprehensive reliable data on the presence of dioxin-like PCBs in feed materials and feedingstuffs. Requirements should therefore be laid down as regards the methods of analysis to be used for the determination of dioxin-like PCBs in feed materials and feedingstuffs.</p>
+      <p n="15">(6) A screening method of analysis with proven, widely acceptable validation and high throughput could be used to select the samples with significant levels of dioxins. The levels of dioxins in these samples need to be determined by a confirmatory method of analysis. It is therefore appropriate to establish requirements for the confirmatory methods of analysis and for the screening method.</p>
+      <p n="16">(7) The measures provided for in this Directive are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="17">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The Member States shall ensure that the sampling for the official control of the levels of dioxins and furans and the determination of the levels of dioxin-like PCBs in feedingstuffs is carried out in accordance with the methods described in Annex I.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The Member States shall ensure that sample preparation and methods of analyses used for the official control of the levels of dioxins and furans and the determination of the levels of dioxin-like PCBs in feedingstuffs comply with the criteria described in Annex II.</p>
+      <p n="22">Article 3</p>
+      <p n="23">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 28 February 2003 at the latest. They shall forthwith inform the Commission thereof.</p>
+      <p n="24">When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.</p>
+      <p n="25">Article 4</p>
+      <p n="26">This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="27">Article 5</p>
+      <p n="28">This Directive is addressed to the Member States.</p>
+      <p n="29">Done at Brussels, 26 July 2002.</p>
+      <p n="30">For the Commission</p>
+      <p n="31">David Byrne</p>
+      <p n="32">Member of the Commission</p>
+      <p n="33">(1) OJ L 170, 3.8.1970, p. 2.</p>
+      <p n="34">(2) OJ L 115, 4.5.1999, p. 32.</p>
+      <p n="35">(3) OJ L 6, 10.1.2002, p. 45.</p>
+      <p n="36">ANNEX I</p>
+      <p n="37">METHODS OF SAMPLING FOR OFFICIAL CONTROL OF THE LEVELS OF DIOXINS (PCDD/PCDF) AND THE DETERMINATION OF DIOXIN-LIKE PCBs IN CERTAIN FEEDINGSTUFFS</p>
+      <p n="38">1. Purpose and scope</p>
+      <p n="39">The samples intended for the official control of the levels of dioxins (PCDD/PCDF) content, as well for the determination of the content of dioxin like PCBs(1) in feedingstuffs, shall be taken according to the provisions of Commission Directive 76/371/EEC of 1 March 1976 establishing Community methods of sampling for the official control of feedingstuffs(2). Aggregate samples thus obtained shall be considered as representative for the lots or sublots from which they are taken. Compliance with maximum levels laid down in Directive 1999/29/EC shall be established on the basis of the levels determined in the laboratory samples.</p>
+      <p n="40">2. Compliance of the lot or sublot with the specification</p>
+      <p n="41">The control laboratory shall analyse the laboratory sample for enforcement in duplicate analysis in case the obtained result of the first analysis is less than 20 % below or above the maximum level, and calculate the mean of the results. The lot is accepted if the result of the first analysis is more than 20 % below the maximum level or where duplicate analysis is necessary if the mean conforms to the respective maximum level as laid down in Directive 1999/29/EC.</p>
+      <p n="42">(1) Table WHO TEFs for human risk assessment based on the conclusions of the World Health Organisation meeting in Stockholm, Sweden, 15 to 18 June 1997 (Van den Berg et al., (1998) Toxic Equivalency Factors (TEFs) for PCBs, PCDDs, PCDFs for Humans and for Wildlife. Environmental Health Perspectives, 106(12), 775).</p>
+      <p n="43">&gt;TABLE&gt;</p>
+      <p n="44">Abbreviations used: T = tetra; Pe = penta; Hx = hexa; Hp = hepta; O = octa; CDD = chlorodibenzo-p-dioxin; CDF = chlorodibenzofuran; CB = chlorobiphenyl.</p>
+      <p n="45">(2) OJ L 102, 15.4.1976, p. 1.</p>
+      <p n="46">ANNEX II</p>
+      <p n="47">SAMPLE PREPARATION AND REQUIREMENTS FOR METHODS OF ANALYSIS USED IN OFFICIAL CONTROL OF THE LEVELS OF DIOXINS (PCDD/PCDF) AND THE DETERMINATION OF DIOXIN-LIKE PCBs IN CERTAIN FEEDINGSTUFFS</p>
+      <p n="48">1. Objective and field of application</p>
+      <p n="49">These requirements should be applied where feed materials and feedingstuffs are analysed for the determination of the dioxins (polychlorinated dibenzo-p-dioxins (PCDD) and polychlorinated dibenzofurans (PCDF)) and dioxin-like polychlorinated biphenyls (PCBs).</p>
+      <p n="50">Monitoring for the presence of dioxins in feedingstuffs can be performed by a strategy involving a screening method in order to select those samples with levels of dioxins and dioxin-like PCBs that are less than 30 % to 40 % below or exceed the level of interest. The concentration of dioxins in those samples with significant levels needs to be determined/confirmed by a confirmatory method.</p>
+      <p n="51">Screening methods are methods that are used to detect the presence of dioxins and dioxin-like PCBs at the level of interest. These methods have a capacity for a high sample throughput and are used to sift large numbers of samples for potential positives. They are specifically designed to avoid false negatives.</p>
+      <p n="52">Confirmatory methods are methods that provide full or complementary information enabling the dioxins and dioxin-like PCBs to be identified and quantified unequivocally at the level of interest.</p>
+      <p n="53">2. Background</p>
+      <p n="54">Because environmental and biological samples (including samples of feed materials/feedingstuffs) in general contain complex mixtures of different dioxin congeners, the concept of toxic equivalency factors (TEFs) has been developed to facilitate risk assessment. These TEFs have been established to express concentrations of mixtures of 2,3,7,8-substituted PCDDs and PCDFs, and more recently, some non-ortho and mono-ortho chlorine substituted PCBs which possess dioxin-like activity in toxic equivalents (TEQs) of 2,3,7,8-TCDD (see Annex I, footnote 1).</p>
+      <p n="55">The concentrations of the individual substances in a given sample are multiplied by their respective TEF and subsequently summed to give the total concentration of dioxin-like compounds expressed in TEQs.</p>
+      <p n="56">The concept of "upperbound" requires using the limit of quantification for the contribution of each non-quantified congener to the TEQ.</p>
+      <p n="57">The concept of "lowerbound" requires using zero for the contribution of each non-quantified congener to the TEQ.</p>
+      <p n="58">The concept of "mediumbound" requires using half of the limit of quantification calculating the contribution of each non-quantified congener to the TEQ.</p>
+      <p n="59">3. Quality assurance requirements to be complied with for sample preparation</p>
+      <p n="60">The general provisions on the preparation of samples for analysis as laid down in the Annex to Commission Directive 81/680/EEC of 30 July 1981 amending Directives 71/250/EEC, 71/393/EEC, 72/199/EEC, 73/46/EEC, 74/203/EEC, 75/84/EEC, 76/372/EEC and 78/633/EEC establishing Community methods of analysis for the official control of feedingstuffs(1) are applicable.</p>
+      <p n="61">In addition the following requirements have to be complied with:</p>
+      <p n="62">- the samples must be stored and transported in glass, aluminium, polypropylene or polyethylene containers. Traces of paper dust must be removed from the sample container. Glassware should be rinsed with solvents previously controlled for the presence of dioxins,</p>
+      <p n="63">- perform a blank analysis by carrying out the entire analytical procedure omitting only the sample,</p>
+      <p n="64">- sample weight used for the extraction must be sufficient to fulfil the requirements with respect to sensitivity.</p>
+      <p n="65">4. Requirements for laboratories</p>
+      <p n="66">- Laboratories shall demonstrate the performance of a method in the range of the level of interest, for example, 0,5 ×, 1 × and 2 × the level of interest with an acceptable coefficient of variation for repeated analysis. For details of acceptance criteria, see point 5.</p>
+      <p n="67">- Limit of quantification for a confirmatory method shall be in the range of about one-fifth of the level of interest, to make sure that acceptable coefficients of variations are met in the range of the level of interest.</p>
+      <p n="68">- Regular blank controls and spiking experiments or analysis of control samples (preferably, if available, certified reference material) shall be performed as internal quality control measures.</p>
+      <p n="69">- Successful participation in interlaboratory studies that assess laboratory proficiency is the best way to prove the competence in specific analyses. However successful participation in interlaboratory studies for, for example, soil or sewage samples does not necessarily prove the competence also in the field of food or feedingstuff samples, which present lower contamination levels. Therefore, the continuous participation in interlaboratory studies for the determination of dioxins and dioxin-like PCBs in the relevant feed/food matrices is mandatory.</p>
+      <p n="70">- Laboratories shall be accredited by a recognised body operating in accordance with ISO Guide 58 to ensure that they are applying analytical quality assurance. Laboratories should be accredited following the ISO/IEC/17025:1999 standard.</p>
+      <p n="71">5. Requirements for the analytical procedures for dioxins and dioxin-like PCBs</p>
+      <p n="72">Basic requirements for acceptance of analytical procedures:</p>
+      <p n="73">- High sensitivity and low limits of detection. For PCDDs and PCDFs, detectable quantities have to be in the picogram TEQ (10- 12 g) range because of extreme toxicity of some of these compounds. PCBs are known to occur at higher levels than the PCDDs and PCDFs. For most PCB congeners sensitivity in nanogram (10- 9 g) range is already sufficient. However, for the measurement of the more toxic dioxin-like PCB congeners (in particular non-ortho substituted congeners), the same sensitivity must be reached as for the PCDDs and PCDFs.</p>
+      <p n="74">- High selectivity (specificity). A distinction is required for PCDDs, PCDFs and dioxin-like PCBs from a multitude of other, coextracted and possibly interfering compounds present at concentrations up to several orders of magnitude higher than those of the analytes of interest. For gas chromatography/mass spectrometry (GC/MS) methods, a differentiation among various congeners is necessary, such as between toxic (e.g. the seventeen 2,3,7,8-substituted PCDDs and PCDFs and dioxin-like PCBs) and other congeners. Bioassays should be able to determine TEQ values selectively as the sum of PCDDs, PCDFs and dioxin-like PCBs.</p>
+      <p n="75">- High accuracy (trueness and precision). The determination should provide a valid and reliable estimate of the true concentration in a sample. High accuracy (accuracy of the measurement: the closeness of agreement between the result of a measurement with the true or assigned value of the measurement) is necessary to avoid the rejection of a sample analysis result on the basis of poor reliability of the estimate of TEQ. Accuracy is expressed as trueness (difference between the mean value measured for an analyte in a certified material and its certified value, expressed as percentage of this value) and precision (precision is usually calculated as a standard deviation including repeatability and reproducibility, and indicates the closeness of agreement between the results obtained by applying the experimental procedure several times under prescribed conditions).</p>
+      <p n="76">Screening methods can comprise bioassays and GC/MS methods; confirmatory methods are high-resolution gas-chromatography/high-resolution mass-spectrometry (HRGC/HRMS) methods. The following criteria have to be complied with on total TEQ value:</p>
+      <p n="77">&gt;TABLE&gt;</p>
+      <p n="78">6. Specific requirements for GC/MS methods to be complied with for screening or confirmatory purposes</p>
+      <p n="79">- Addition of 13C-labelled 2,3,7,8-chlorine substituted internal PCDD/F standards (and of 13C-labelled internal dioxin-like PCB standards, if dioxin-like PCBs have to be determined) must be carried out at the very beginning or start of the analytical method, for example, prior to extraction in order to validate the analytical procedure. At least one congener for each of the tetra to octa-chlorinated homologous groups for PCDD/F (and at least one congener for each of the homologous groups for dioxin-like PCBs, if dioxin-like PCBs have to be determined) must be added (alternatively, at least one congener for each mass spectrometric selected ion recording function used for monitoring PCDD/F and dioxin-like PCBs). There is a clear preference, certainly in case of confirmatory methods, of using all 17 13C-labelled 2,3,7,8-substituted internal PCDD/F standards and all 12 13C-labelled internal dioxin-like PCB standard (if dioxin-like PCBs have to be determined).</p>
+      <p n="80">Relative response factors should also be determined for those congeners for which no 13C-labelled analogue is added by using appropriate calibration solutions.</p>
+      <p n="81">- For feedingstuffs of plant origin and feedingstuffs of animal origin containing less than 10 % fat, the addition of the internal standards is mandatory prior to extraction. For feedingstuffs of animal origin containing more than 10 % fat, the internal standards can be added either before extraction or after fat extraction. An appropriate validation of the extraction efficiency should be carried out, depending on the stage at which internal standards are introduced and on whether results are reported on a product or fat basis.</p>
+      <p n="82">- Prior to GC/MS analysis, one or two recovery (surrogate) standard(s) must be added.</p>
+      <p n="83">- Control of recovery is necessary. For confirmatory methods, the recoveries of the individual internal standards should be in the range of 60 % to 120 %. Lower or higher recoveries for individual congeners, in particular for some hepta- and octa- chlorinated dibenzodioxins and dibenzofurans, are acceptable on the condition that their contribution to the TEQ value does not exceed 10 % of the total TEQ value (based on PCDD/F only). For screening methods, the recoveries should be in the range of 30 % to 140 %.</p>
+      <p n="84">- Separation of dioxins from interfering chlorinated compounds such as PCBs and chlorinated diphenyl ethers should be carried out by suitable chromatographic techniques (preferably with a florisil, alumina and/or carbon column).</p>
+      <p n="85">- Gaschromatographic separation of isomers should be sufficient (&lt; 25 % peak to peak between 1,2,3,4,7,8-HxCDF and 1,2,3,6,7,8-HxCDF).</p>
+      <p n="86">- Determination should be performed according to EPA Method 1613 revision B: tetra- through octa-chlorinated dioxins and furans by isotope dilution HRGC/HRMS or another with equivalent performance criteria.</p>
+      <p n="87">- The difference between upperbound level and lower bound level should not exceed 20 % for feedingstuffs with a dioxin contamination in the range or above the maximum level. For feedingstuffs with contamination levels well below the maximum level, the difference may be in the range of 25 % to 40 %.</p>
+      <p n="88">7. Screening methods of analysis</p>
+      <p n="89">7.1. Introduction</p>
+      <p n="90">Different analytical approaches can be performed using a screening method: a pure screening approach and a quantitative approach.</p>
+      <p n="91">Screening approach</p>
+      <p n="92">The response of samples is compared to that of a reference sample at the level of interest. Samples with a response less than the reference are declared negative, those with a higher response are suspected positives. Requirements:</p>
+      <p n="93">- a blank and a reference sample(s) have to be included in each test series, which is extracted and tested at the same time under identical conditions. The reference sample must show a clearly elevated response in comparison to a blank,</p>
+      <p n="94">- additional reference samples at 0,5 × and 2 × the level of interest should be included to demonstrate the proper performance of the test in the range of interest for the control of the level of interest,</p>
+      <p n="95">- when testing other matrices, the suitability of the reference sample(s) has to be demonstrated, preferentially by including samples shown by HRGC/HRMS to contain a TEQ level around that of the reference sample or else a blank spiked at this level,</p>
+      <p n="96">- since no internal standards can be used in bioassays, tests on repeatability are very important to obtain information on the standard deviation within one test series. The coefficient of variation should be below 30 %,</p>
+      <p n="97">- for bioassays, the target compounds, possible interferences, and maximum tolerable blank levels should be defined.</p>
+      <p n="98">Quantitative approach</p>
+      <p n="99">The quantitative approach requires standard dilution series, duplicate or triplicate clean up and measuring as well as blank and recovery controls. The result may be expressed as TEQ, thereby assuming that the compounds responsible for the signal correspond to the TEQ principle. This can be performed by using TCDD (or a dioxin/furan standard mixture) to produce a calibration curve to calculate the TEQ level in the extract and thus in the sample. This is subsequently corrected for the TEQ level calculated for a blank sample (to account for impurities from solvents and chemicals used), and a recovery (calculated from the TEQ level in a quality control sample around the limit of interest). It is essential to note that part of the apparent recovery loss may be due to matrix effects and/or differences between the TEF values in the bioassays and the official TEF values set by WHO.</p>
+      <p n="100">7.2. Requirements for methods of analysis used for screening</p>
+      <p n="101">- GC/MS methods of analysis and bioassays may be used for screening. For GC/MS methods the requirements as laid down in point 6 are to be used. For cell based bioassays specific requirements are laid down in point 7.3 and for kit-based bioassays in point 7.4.</p>
+      <p n="102">- Information on the number of false-positive and false-negative results of a large set of samples below and above the maximum level or action level is necessary, in comparison to the TEQ content as determined by a confirmatory method of analysis. Actual false negative rates should be under 1 %. The rate of false positive samples should be low enough to make the use of a screening tool advantageous.</p>
+      <p n="103">- Positive results have always to be confirmed by a confirmatory method of analysis (HRGC/HRMS). In addition, samples from a wide TEQ-range should be confirmed by HRGC/HRMS (approximately 2 % to 10 % of the negative samples). Information on correspondence between bioassay and HRGC/HRMS results should be made available.</p>
+      <p n="104">7.3. Specific requirements for cell-based bioassays</p>
+      <p n="105">- When performing a bioassay, every test run requires a series of reference concentration of TCDD or a dioxin/furan mixture (full dose-response curve with a R2 &gt; 0,95). However, for screening purposes, an expanded low-level curve for analysing low-level samples could be used.</p>
+      <p n="106">- A TCDD reference concentration (about three times the limit of quantification) on a quality control sheet should be used for the outcome of the bioassay over a constant time period. An alternative could be the relative response of a reference sample in comparison to the TCDD calibration line since the response of the cells may depend on many factors.</p>
+      <p n="107">- Quality control (QC) charts for each type of reference material should be recorded and checked to make sure the outcome is in accordance with the stated guidelines.</p>
+      <p n="108">- In particular for quantitative calculations, the induction of the sample dilution used must be within the linear portion of the response curve. Samples above the linear portion of the response curve must be diluted and re-tested. Therefore, at least three or more dilutions at one time are recommended to be tested.</p>
+      <p n="109">- The percent standard deviation should not be above 15 % in a triplicate determination for each sample dilution and not above 30 % between three independent experiments.</p>
+      <p n="110">- The limit of detection may be set as three times the standard deviation of the solvent blank or of the background response. Another approach is to apply a response that is above the background (induction factor five times the solvent blank) calculated from the calibration curve of the day. The limit of quantification may be set as five to six times the standard deviation of the solvent blank or of the background response or to apply a response that is clearly above the background (induction factor 10 times the solvent blank) calculated from the calibration curve of the day.</p>
+      <p n="111">7.4. Specific requirements for kit-based bioassays(2)</p>
+      <p n="112">- Manufacturer's instructions for sample preparation and analyses have to be followed.</p>
+      <p n="113">- Test kits should not be used after the expiration date.</p>
+      <p n="114">- Materials or components designed for use with other kits should not be used.</p>
+      <p n="115">- Test kits should be kept within the specified range of storage temperature and used at the specified operating temperature.</p>
+      <p n="116">- The limit of detection for immunoassays is determined as the sum of the mean and three times the standard deviation, based on 10 replicate analysis of the blank, to be divided by the slope value of the linear regression equation.</p>
+      <p n="117">- Reference standards should be used for tests at the laboratory to make sure that the responsiveness to the standard is within an acceptable range.</p>
+      <p n="118">8. Reporting of results</p>
+      <p n="119">Insofar as the used analytical procedure makes it possible, the analytical results should contain the levels of the individual PCDD/F and PCB congeners and be reported as lowerbound, upperbound and mediumbound in order to include a maximum of information in the reporting of the results and thereby enabling the interpretation of the results according to specific requirements.</p>
+      <p n="120">The report should also include the lipid content of the sample as well the method used for lipid extraction.</p>
+      <p n="121">The recoveries of the individual internal standards must be made available in case the recoveries are outside the range mentioned in point 6, in case the maximum level is exceeded and in the other cases upon request.</p>
+      <p n="122">(1) OJ L 246, 29.8.1981, p. 32.</p>
+      <p n="123">(2) No evidence have yet been submitted of commercially available kit-based bioassays having sufficient sensitivity and reliability to be used for screening for the presence of dioxins at the required levels in samples of foodstuffs and feedingstuffs.</p>
+    </body>
+  </text>
+</TEI.2>

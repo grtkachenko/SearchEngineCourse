@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32000R1454-en" n="32000R1454" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1454 English</title>
+        <title>Commission Regulation (EC) No 1454/2000 of 3 July 2000 amending Regulation (EC) No 2316/1999 as regards the regional base areas applicable under the support system for producers of certain arable crops established by Council Regulation (EC) No 1251/1999</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1454:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1454:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">2286</classCode>
+        <classCode scheme="eurovoc">2563</classCode>
+        <classCode scheme="eurovoc">755</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+        <classCode scheme="eurovoc">976</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1454-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1454/2000 of 3 July 2000 amending Regulation (EC) No 2316/1999 as regards the regional base areas applicable under the support system for producers of certain arable crops established by Council Regulation (EC) No 1251/1999</head>
+      <p n="2">Commission Regulation (EC) No 1454/2000</p>
+      <p n="3">of 3 July 2000</p>
+      <p n="4">amending Regulation (EC) No 2316/1999 as regards the regional base areas applicable under the support system for producers of certain arable crops established by Council Regulation (EC) No 1251/1999</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1251/1999 of 17 May 1999 establishing a support system for producers of certain arable crops(1), as amended by Regulation (EC) No 2704/1999(2), and in particular Article 9 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2316/1999(3) lays down the regional base areas applicable under the support system for producers of certain arable crops.</p>
+      <p n="10">(2) Under Council Regulation (EC) No 1017/94 of 26 April 1994 concerning the conversion of land currently under arable crops to extensive livestock farming in Portugal(4), as amended by Regulation (EC) No 1461/95(5), applications have been submitted for the conversion of 6884 hectares. The base area should therefore be amended.</p>
+      <p n="11">(3) Following the submission of an application from the Netherlands, new base areas should be laid down in accordance with that Member State's regionalisation plan, without, however, amending the total base area.</p>
+      <p n="12">(4) Regulation (EC) No 2316/1999 must therefore be amended.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The base areas given under "Portugal" and "Netherlands" in Annex VI to Regulation (EC) No 2316/1999 are replaced by those given in the Annex hereto.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 3 July 2000.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 160, 26.6.1999, p. 1.</p>
+      <p n="25">(2) OJ L 327, 21.12.1999, p. 12.</p>
+      <p n="26">(3) OJ L 280, 30.10.1999, p. 43.</p>
+      <p n="27">(4) OJ L 112, 3.5.1994, p. 2.</p>
+      <p n="28">(5) OJ L 144, 28.6.1995, p. 4.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

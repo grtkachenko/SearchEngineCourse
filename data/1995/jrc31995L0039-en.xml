@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31995L0039-en" n="31995L0039" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995L0039 English</title>
+        <title>Council Directive 95/39/EC of 17 July 1995 amending the Annexes to Directives 86/362/EEC and 86/363/EEC on the fixing of maximum levels for pesticide residues in and on cereals and foodstuffs of animal origin</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0039:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0039:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">181</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">3469</classCode>
+        <classCode scheme="eurovoc">4474</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995L0039-en." lang="en">
+    <body>
+      <head n="1">Council Directive 95/39/EC of 17 July 1995 amending the Annexes to Directives 86/362/EEC and 86/363/EEC on the fixing of maximum levels for pesticide residues in and on cereals and foodstuffs of animal origin</head>
+      <p n="2">COUNCIL DIRECTIVE 95/39/EC of 17 July 1995 amending the Annexes to Directives 86/362/EEC and 86/363/EEC on the fixing of maximum levels for pesticide residues in and on cereals and foodstuffs of animal origin</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 86/362/EEC of 24 July 1986 on the fixing of maximum levels for pesticide residues in and on cereals (1), and in particular Article 11 thereof,</p>
+      <p n="6">Having regard to Council Directive 86/363/EEC of 24 July 1986 on the fixing of maximum levels for pesticide residues in and on foodstuffs of animal origin (2), and in particular Article 11 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas the Commission has been instructed, within the framework of Council Directives 86/362/EEC and 86/363/EEC, to prepare a list of pesticide residues and their maximum levels for approval by the Council;</p>
+      <p n="9">Whereas pesticide residues may be found in cereals and foodstuffs of animal origin as a result of agricultural practices; whereas it is necessary to take into account relevant data for both types of authorized pesticide use and, as appropriate, supervised trials and animal feeding studies;</p>
+      <p n="10">Whereas in order better to estimate the maximum potential dietary intake of pesticide residues, it is prudent to establish simultaneously, when it is appropriate, maximum residue levels for individual pesticides in all major components of diet; whereas these levels represent the use of minimum quantities of pesticide necessary to achieve adequate control, applied in such a manner that the amount of residue is the smallest possible or is toxicologically acceptable;</p>
+      <p n="11">Whereas, in the light of technical and scientific progress and the requirements of public health and agriculture, Directives 86/362/EEC and 86/363/EEC should be amended by adding provisions relating to further pesticide residues for cereals and foodstuffs of animal origin, namely methidathion, methomyl thiodicarb, amitraz, pirimiphos-methyl, aldicarb and thiabendazole;</p>
+      <p n="12">Whereas, however, the available data are insufficient by current standards to establish maximum pesticide residue levels for certain pesticide residue/product combinations; whereas in such cases a period of time not exceeding four years would seem reasonable for the generation of the necessary data; whereas maximum levels should therefore be established on the basis of such data by 1 July 2000 at the latest; whereas failure to provide satisfactory data will result in the establishment of levels at the appropriate limit of determination; whereas satisfactory undertakings to generate the necessary data must be given within one year of adoption of this Directive;</p>
+      <p n="13">Whereas the maximum residue levels established in this Directive will have to be reviewed in the framework of the re-evaluation of active substances provided for in the work programme referred to in Article 8 (2) of Council Directive 91/414/EEC of 15 July 1991 concerning the placing of plant protection products on the market (3),</p>
+      <p n="14">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The following pesticide residues shall be added to Part A of Annex II to Directive 86/362/EEC:</p>
+      <p n="17">&gt;TABLE&gt;</p>
+      <p n="18">Article 2</p>
+      <p n="19">1. The following pesticide residues shall be added to Part A of Annex II to Directive 86/363/EEC:</p>
+      <p n="20">&gt;TABLE&gt;</p>
+      <p n="21">2. The following pesticide residues shall be added to Section B of Annex II to Directive 86/363/EEC:</p>
+      <p n="22">&gt;TABLE&gt;</p>
+      <p n="23">Article 3</p>
+      <p n="24">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 22 August 1996.</p>
+      <p n="25">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.</p>
+      <p n="26">Article 4</p>
+      <p n="27">This Directive is addressed to the Member States.</p>
+      <p n="28">Done at Luxembourg, 17 July 1995.</p>
+      <p n="29">For the Council The President L. ATIENZA SERNA</p>
+    </body>
+  </text>
+</TEI.2>

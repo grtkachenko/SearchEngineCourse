@@ -1,0 +1,72 @@
+<TEI.2 id="jrc31996L0056-en" n="31996L0056" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996L0056 English</title>
+        <title>Directive 96/56/EC of the European Parliament and the Council of 3 September 1996 amending Directive 67/548/EEC on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996L0056:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996L0056:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">6004</classCode>
+        <classCode scheme="eurovoc">720</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996L0056-en." lang="en">
+    <body>
+      <head n="1">Directive 96/56/EC of the European Parliament and the Council of 3 September 1996 amending Directive 67/548/EEC on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances</head>
+      <p n="2">DIRECTIVE 96/56/EC OF THE EUROPEAN PARLIAMENT AND THE COUNCIL of 3 September 1996 amending Directive 67/548/EEC on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances</p>
+      <p n="3">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the Economic and Social Committee (2),</p>
+      <p n="7">Acting in accordance with the procedure laid down in Article 189b of the Treaty (3),</p>
+      <p n="8">Whereas the abbreviation 'EEC` appears in certain provisions of Council Directive 67/548/EEC of 27 June 1967 on the approximation of the laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (4);</p>
+      <p n="9">Whereas Article G of the Treaty on European Union replaced the term 'European Economic Community` with the term 'European Community`; whereas the abbreviation 'EEC` should therefore be replaced by the abbreviation 'EC` in the abovementioned provisions;</p>
+      <p n="10">Whereas, however, economic operators normally hold large stocks of labels; whereas certain dangerous substances validly provided with labels bearing the abbreviation 'EEC` may be stored on production sites for a relatively long period before being placed on the market; whereas such a change of abbreviation could occasion extra costs for those operators; whereas a reasonable period should therefore be set during which dangerous substances whose labels bear an 'EEC number` and the words 'EEC label` can still be placed on the market;</p>
+      <p n="11">Whereas Directive 67/548/EEC should be amended accordingly,</p>
+      <p n="12">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Directive 67/548/EEC is hereby amended as follows:</p>
+      <p n="15">(a) in Article 21 (2), the term 'EEC number` is hereby replaced by the term 'EC number`;</p>
+      <p n="16">(b) in Article 23 (2) (f), the term 'EEC number` is hereby replaced by the term 'EC number` and the term 'EEC label` by the term 'EC label`.</p>
+      <p n="17">However, Member States shall permit the placing on the market of substances whose labels bear the 'EEC number` and the words 'EEC label` until 31 December 2000.</p>
+      <p n="18">Article 2</p>
+      <p n="19">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 June 1998 at the latest. They shall forthwith inform the Commission thereof.</p>
+      <p n="20">When these measures are adopted by Member States, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Directive shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="23">Article 4</p>
+      <p n="24">This Directive is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 3 September 1996.</p>
+      <p n="26">For the European Parliament</p>
+      <p n="27">The President</p>
+      <p n="28">K. HÄNSCH</p>
+      <p n="29">For the Council</p>
+      <p n="30">The President</p>
+      <p n="31">I. YATES</p>
+      <p n="32">(1) OJ No C 73, 13. 3. 1996, p. 20.</p>
+      <p n="33">(2) Opinion delivered on 28 February 1996 (OJ No C 153, 28. 5. 1996, p. 1).</p>
+      <p n="34">(3) Opinion of the European Parliament of 13 February 1996 (OJ No C 65, 4. 3. 1996, p. 26). Council common position of 4 March 1996 (OJ No C 134, 6. 5. 1996, p. 9) and Decision of the European Parliament of 22 May 1996 (OJ No C 166, 10. 6. 1996, p. 60).</p>
+      <p n="35">(4) OJ No L 196, 16. 8. 1967, p. 1. Directive as last amended by Directive 94/69/EC (OJ No L 381, 31. 12. 1994, p. 1) and by the 1994 Act of Accession.</p>
+    </body>
+  </text>
+</TEI.2>

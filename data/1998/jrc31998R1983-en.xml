@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31998R1983-en" n="31998R1983" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1983 English</title>
+        <title>Commission Regulation (EC) No 1983/98 of 17 September 1998 amending Regulation (EEC) No 2273/93 determining the intervention centres for cereals</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1983:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1983:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1019</classCode>
+        <classCode scheme="eurovoc">1085</classCode>
+        <classCode scheme="eurovoc">3170</classCode>
+        <classCode scheme="eurovoc">4353</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1983-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1983/98 of 17 September 1998 amending Regulation (EEC) No 2273/93 determining the intervention centres for cereals</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1983/98 of 17 September 1998 amending Regulation (EEC) No 2273/93 determining the intervention centres for cereals</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organisation of the market in cereals (1), as last amended by Commission Regulation (EC) No 923/96 (2), and in particular Article 5 thereof,</p>
+      <p n="6">Whereas the intervention centres are determined in the Annex to Commission Regulation (EEC) No 2273/93 (3), as last amended by Regulation (EC) No 1877/97 (4); whereas some Member States have asked for that Annex to be amended; whereas those requests should be acceded to;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Annex to Regulation (EEC) No 2273/93 is amended as follows:</p>
+      <p n="11">1. in the 'France` section, the amendments are as follows:</p>
+      <p n="12">&gt;TABLE&gt;</p>
+      <p n="13">2. in the 'Österreich` section:</p>
+      <p n="14">- the 'Absdorf-Hippersdorf` centre becomes 'Absdorf`,</p>
+      <p n="15">- the 'Palterndorf-Dobermannsdorf` centre becomes 'Dobermannsdorf`,</p>
+      <p n="16">- the 'Siebenbrunn-Leopoldsdorf` centre becomes 'Untersiebenbrunn`;</p>
+      <p n="17">3. in the 'Suomi` section, the 'Mustio` centre becomes 'Mustio-kirkniemi`.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 17 September 1998.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz FISCHLER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 181, 1. 7. 1992, p. 21.</p>
+      <p n="26">(2) OJ L 126, 24. 5. 1996, p. 37.</p>
+      <p n="27">(3) OJ L 207, 18. 8. 1993, p. 1.</p>
+      <p n="28">(4) OJ L 265, 27. 9. 1997, p. 33.</p>
+    </body>
+  </text>
+</TEI.2>

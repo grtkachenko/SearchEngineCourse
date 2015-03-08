@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32003D0877-en" n="32003D0877" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0877 English</title>
+        <title>2003/877/EC,Euratom: Council Decision of 8 December 2003 on the accession of Canada to the Agreement establishing an International Science and Technology Centre between the United States of America, Japan, the Russian Federation and, acting as one Party, the European Atomic Energy Community and the European Economic Community</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0877:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0877:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3461</classCode>
+        <classCode scheme="eurovoc">3660</classCode>
+        <classCode scheme="eurovoc">4415</classCode>
+        <classCode scheme="eurovoc">5100</classCode>
+        <classCode scheme="eurovoc">5237</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0877-en." lang="en">
+    <body>
+      <head n="1">2003/877/EC,Euratom: Council Decision of 8 December 2003 on the accession of Canada to the Agreement establishing an International Science and Technology Centre between the United States of America, Japan, the Russian Federation and, acting as one Party, the European Atomic Energy Community and the European Economic Community</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 8 December 2003</p>
+      <p n="4">on the accession of Canada to the Agreement establishing an International Science and Technology Centre between the United States of America, Japan, the Russian Federation and, acting as one Party, the European Atomic Energy Community and the European Economic Community</p>
+      <p n="5">(2003/877/EC, Euratom)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to the Treaty establishing the European Atomic Energy Community,</p>
+      <p n="9">Having regard to Council Regulation (EEC) No 3955/92 of 21 December 1992 concerning the conclusion, on behalf of the European Economic Community of an Agreement establishing an International Science and Technology Centre between the United States of America, Japan, the Russian Federation and, acting as one Party, the European Atomic Energy Community and the European Economic Community(1), and in particular Article 3(1), (3) and (4) thereof,</p>
+      <p n="10">Having regard to the communication from the Commission,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The European Atomic Energy Community and the European Economic Community, acting as one Party (hereinafter "the Communities") concluded on 21 December 1992 the Agreement establishing between them and the United States of America, Japan and the Russian Federation an International Science and Technology Centre (hereinafter "the Agreement").</p>
+      <p n="13">(2) On 28 March 2003 Canada notified the Governing Board of the International Science and Technology Centre (hereinafter "the Board of the Centre") of its intention to become a party to the Agreement. In accordance with Article XIII of the Agreement, it is the responsibility of the Board of the Centre to approve this accession.</p>
+      <p n="14">(3) The Communities are represented on the Board of the Centre by the Presidency of the Council and by the Commission. The position of the Communities with regard to questions arising under Article XIII of the Agreement is adopted by the Council and expressed, as a general rule, by the Presidency,</p>
+      <p n="15">HAS DECIDED AS FOLLOWS:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The accession of Canada to the Agreement establishing an International Science and Technology Centre between the United States of America, Japan, the Russian Federation and, acting as one Party, the European Atomic Energy Community and the European Economic Community, is hereby approved on behalf of the Communities.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The Presidency of the Council shall express within the Board of the Centre the approval of the Communities to the accession of Canada to the Agreement.</p>
+      <p n="20">Done at Brussels, 8 December 2003.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">F. Frattini</p>
+      <p n="24">(1) OJ L 409, 31.12.1992, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

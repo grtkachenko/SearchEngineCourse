@@ -1,0 +1,125 @@
+<TEI.2 id="jrc32001R1920-en" n="32001R1920" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1920 English</title>
+        <title>Commission Regulation (EC) No 1920/2001 of 28 September 2001 laying down detailed rules for the implementation of Council Regulation (EC) No 2494/95 as regards minimum standards for the treatment of service charges proportional to transaction values in the harmonised index of consumer prices and amending Regulation (EC) No 2214/96 (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>88 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1920:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1920:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1354</classCode>
+        <classCode scheme="eurovoc">2636</classCode>
+        <classCode scheme="eurovoc">3193</classCode>
+        <classCode scheme="eurovoc">5155</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1920-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1920/2001 of 28 September 2001 laying down detailed rules for the implementation of Council Regulation (EC) No 2494/95 as regards minimum standards for the treatment of service charges proportional to transaction values in the harmonised index of consumer prices and amending Regulation (EC) No 2214/96 (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 1920/2001</p>
+      <p n="3">of 28 September 2001</p>
+      <p n="4">laying down detailed rules for the implementation of Council Regulation (EC) No 2494/95 as regards minimum standards for the treatment of service charges proportional to transaction values in the harmonised index of consumer prices and amending Regulation (EC) No 2214/96</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC) No 2494/95 of 23 October 1995 concerning harmonised indices of consumer prices(1), as last amended by Commission Regulation (EC) No 1617/1999(2), and in particular Article 4 and Article 5(3) thereof,</p>
+      <p n="9">Having regard to the opinion of the European Central Bank(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) By virtue of Article 5(1)(b) of Regulation (EC) No 2494/95, each Member State is required to produce a harmonised index of consumer prices (HICP) starting with the index for January 1997.</p>
+      <p n="12">(2) Commission Regulation (EC) No 1749/96 of 9 September 1996 on initial implementing measures for Council Regulation (EC) No 2494/95 concerning harmonised indices of consumer prices(4), as last amended by Council Regulation (EC) No 1688/98(5), defines the coverage of the HICP as those goods and services which are included in household final monetary consumption expenditure and requires coverage of COICOP/HICP class 12.5.1 "Financial services n.e.c." in full by December 1999 without specific exclusion of charges expressed as a proportion of the transaction value.</p>
+      <p n="13">(3) Commission Regulation (EC) No 2214/96 of 20 November 1996 concerning harmonised indices of consumer prices: transmission and dissemination of subindices of the HICP(6), as last amended by Regulation (EC) No 1749/1999(7), requires a harmonised subindex for COICOP/HICP expenditure class 12.6.2 "Other financial services n.e.c." excluding interest payments and charges expressed as a proportion of the transaction value.</p>
+      <p n="14">(4) There is considerable scope for non-comparability by excluding service charges that are expressed as a proportion of transaction values; a harmonised methodology for the treatment of such charges is necessary to ensure that the resulting HICPs meet the comparability requirement as laid down in Article 4 of Regulation (EC) No 2494/95.</p>
+      <p n="15">(5) The treatment of service charges that are expressed as a proportion of transaction values should be consistent with the treatment of goods and services in the health, education and social protection sectors as laid down in Council Regulation (EC) No 2166/1999(8).</p>
+      <p n="16">(6) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee established by Council Decision 89/382/EEC, Euratom(9),</p>
+      <p n="17">HAS ADOPTED THIS REGULATION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Aim</p>
+      <p n="20">The aim of this Regulation is to amend Annex II to Regulation (EC) No 2214/96 concerning the subindices of the harmonised indices of consumer prices, hereafter referred to as "HICP", as regards the coverage of financial services, and to set minimum standards for the treatment of service charges proportional to transaction values in order to ensure that they are reliable and relevant and meet the comparability requirements as laid down in Article 4 of Regulation (EC) No 2494/95.</p>
+      <p n="21">Article 2</p>
+      <p n="22">Definitions</p>
+      <p n="23">1. Interest payments and interest-like charges cover nominal interest payments and all elements included in the calculation of effective interest.</p>
+      <p n="24">2. Where service charges are defined as a proportion of the transaction value, the purchaser prices are defined as the proportion itself, multiplied by the value of a representative unit transaction in the base or reference period.</p>
+      <p n="25">Article 3</p>
+      <p n="26">Treatment of service charges</p>
+      <p n="27">1. The HICP subindices concerned shall be calculated using a formula which is consistent with the Laspeyres-type formula used for other subindices. They shall reflect the price change on the basis of the changed expenditure of maintaining the consumption pattern of households and the composition of the consumer population in the base or reference period.</p>
+      <p n="28">(a) The purchaser prices of services to be used in the HICP shall be the actual charges levied directly on consumers in exchange for the service provided. The HICP shall include charges expressed as a flat fee or flat rate.</p>
+      <p n="29">(b) Changes in purchaser prices which reflect changes in the rules determining them shall be shown as price changes in the HICP.</p>
+      <p n="30">(c) Changes in the purchaser prices resulting from changes in the values of the representative unit transactions shall be shown as price changes in the HICP.</p>
+      <p n="31">(d) The representative unit transactions shall be expressed in physical terms, except where this is not appropriate or possible, in which case they shall be expressed in the currency of the Member State.</p>
+      <p n="32">(e) The change in the values of the representative unit transactions may be estimated by the change in a price index which represents appropriately the unit transactions concerned. Where they exist, HICP subindices or aggregate indices shall be deemed appropriate for this purpose.</p>
+      <p n="33">2. Where the specification changes, prices shall be treated in accordance with the rules on specification changes, and in particular those regarding quality adjustment as laid down in Article 5 of Regulation (EC) No 1749/96.</p>
+      <p n="34">3. Where services have been made available to consumers free of charge and subsequently an actual price is charged, the change from zero to an actual price, and vice versa, shall be reflected in the HICP.</p>
+      <p n="35">4. Where services jointly provided with other goods or services have been made available to consumers free of an explicit charge and subsequently are charged for on a separate basis, the change shall be reflected in the HICP.</p>
+      <p n="36">5. Where relevant, the procedure provided for in Article 5 of Commission Regulation (EC) No 2646/98(10) concerning tariffs shall apply mutatis mutandis.</p>
+      <p n="37">Article 4</p>
+      <p n="38">Financial services n.e.c.</p>
+      <p n="39">The contents of class 12.6.2, "Other financial services n.e.c. (S)", in Annex II to Regulation (EC) No 2214/96 concerning the subindices of the harmonised indices of consumer prices, are replaced by the following text: "12.6.2. Other financial services n.e.c. (S)</p>
+      <p n="40">- actual charges for the financial services of banks, post offices, saving banks, money changers and similar financial institutions,</p>
+      <p n="41">- fees and service charges of brokers, investment counsellors, tax consultants and the like.</p>
+      <p n="42">Excludes:</p>
+      <p n="43">Interest payments and interest-like charges of any kind and administrative charges of private pension funds and the like."</p>
+      <p n="44">Article 5</p>
+      <p n="45">Other services n.e.c.</p>
+      <p n="46">The contents of class 12.7.0, "Other services n.e.c (S)", in Annex II to Regulation (EC) No 2214/96 concerning the subindices of the harmonised indices of consumer prices, are replaced by the following text: "12.7.0. Other services n.e.c. (S)</p>
+      <p n="47">- fees for legal services, employment agencies, etc.,</p>
+      <p n="48">- charges for undertaking and other funeral services,</p>
+      <p n="49">- payment for the services of housing agents, auctioneers, salesroom operators and other intermediaries,</p>
+      <p n="50">- payment for photocopies and other reproductions of documents,</p>
+      <p n="51">- fees for the issue of birth, marriage and death certificates and other administrative documents,</p>
+      <p n="52">- payment for newspaper notices and advertisements,</p>
+      <p n="53">- payment for the services of graphologists, astrologers, private detectives, bodyguards, matrimonial agencies and marriage guidance counsellors, public writers, miscellaneous concessions (seats, toilets, cloakrooms), etc.</p>
+      <p n="54">Includes:</p>
+      <p n="55">Payments for services of housing agents in connection with rental transactions.</p>
+      <p n="56">Excludes:</p>
+      <p n="57">Following the conventions of ESA 1995, excluded are contributions and dues for membership of professional associations, churches and social, cultural, recreational and sports clubs (ESA 1995, paragraph 3.77.e) and commissions to estate agents in connection with the sale or purchase of non-financial assets ('Gross fixed capital formation' according to ESA 1995, paragraphs 3.102, 3.105(a), 3.111, 3.115)."</p>
+      <p n="58">Article 6</p>
+      <p n="59">Basic information</p>
+      <p n="60">1. The basic information shall be all purchaser prices and weights which are necessary to compute HICP subindices in accordance with the provisions of this Regulation.</p>
+      <p n="61">2. The statistical units called upon by the Member States to cooperate in the collection or provision of basic information are obliged to give honest and complete information at the time it is requested and allow the organisations and institutions responsible for compiling official statistics, on request, to obtain information at the level of detail necessary to evaluate compliance with the comparability requirements and the quality of the HICP subindices.</p>
+      <p n="62">Article 7</p>
+      <p n="63">Comparability</p>
+      <p n="64">HICPs constructed following the provisions of this Regulation or following other procedures which do not result in an index which differs systematically by more than one tenth of one percentage point on average over one year against the previous year from an index compiled following those procedures, shall be deemed comparable.</p>
+      <p n="65">Article 8</p>
+      <p n="66">Quality control</p>
+      <p n="67">Member States shall provide the Commission (Eurostat) with information on the procedures developed for the treatment of services charges proportional to transaction values where these procedures differ from those specified in Article 3 of this Regulation, before such procedures are used.</p>
+      <p n="68">Article 9</p>
+      <p n="69">Implementation</p>
+      <p n="70">The provisions of this Regulation shall be applied by the Member States in December 2001 and take effect with the index for January 2002.</p>
+      <p n="71">Article 10</p>
+      <p n="72">Entry into force</p>
+      <p n="73">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="74">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="75">Done at Brussels, 28 September 2001.</p>
+      <p n="76">For the Commission</p>
+      <p n="77">Pedro Solbes Mira</p>
+      <p n="78">Member of the Commission</p>
+      <p n="79">(1) OJ L 257, 27.10.1995, p. 1.</p>
+      <p n="80">(2) OJ L 192, 24.7.1999, p. 9.</p>
+      <p n="81">(3) OJ C 244, 1.9.2001, p. 5.</p>
+      <p n="82">(4) OJ L 229, 10.9.1996, p. 3.</p>
+      <p n="83">(5) OJ L 214, 31.7.1998, p. 23.</p>
+      <p n="84">(6) OJ L 296, 21.11.1996, p. 8.</p>
+      <p n="85">(7) OJ L 214, 13.8.1999, p. 1.</p>
+      <p n="86">(8) OJ L 266, 14.10.1999, p. 1.</p>
+      <p n="87">(9) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="88">(10) OJ L 335, 10.12.1998, p. 30.</p>
+    </body>
+  </text>
+</TEI.2>

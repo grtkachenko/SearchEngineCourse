@@ -1,0 +1,128 @@
+<TEI.2 id="jrc32003D1152-en" n="32003D1152" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D1152 English</title>
+        <title>Decision No 1152/2003/EC of the European Parliament and of the Council of 16 June 2003 on computerising the movement and surveillance of excisable products</title>
+      </titleStmt>
+      <extent>92 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D1152:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D1152:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1015</classCode>
+        <classCode scheme="eurovoc">4821</classCode>
+        <classCode scheme="eurovoc">5441</classCode>
+        <classCode scheme="eurovoc">5542</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D1152-en." lang="en">
+    <body>
+      <head n="1">Decision No 1152/2003/EC of the European Parliament and of the Council of 16 June 2003 on computerising the movement and surveillance of excisable products</head>
+      <p n="2">Decision No 1152/2003/EC of the European Parliament and of the Council</p>
+      <p n="3">of 16 June 2003</p>
+      <p n="4">on computerising the movement and surveillance of excisable products</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Economic and Social Committee(2),</p>
+      <p n="9">Acting in accordance with the procedure provided for in Article 251 of the Treaty(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Council Directive 92/12/EEC of 25 February 1992 on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products(4) provides that products moving between the territories of the Member States under excise-duty suspension arrangements must be accompanied by a document completed by the consignor.</p>
+      <p n="12">(2) Commission Regulation (EEC) No 2719/92 of 11 September 1992 on the accompanying document for the movement under duty-suspension arrangements of products subject to excise duty(5) lays down the form and content of the accompanying document provided for in Directive 92/12/EEC.</p>
+      <p n="13">(3) It is necessary to have a computerised system for monitoring the movement of excisable goods, such as will allow Member States to obtain real-time information on those movements and to carry out the requisite checks, including checks during movement of products, within the meaning of Article 15 of Directive 92/12/EEC.</p>
+      <p n="14">(4) The setting up of a computer system should also allow the intra-Community movement of goods under suspension of excise duties to be simplified.</p>
+      <p n="15">(5) A computerised system for the intra-Community movement and monitoring of excisable goods (EMCS) should be compatible and, if technically possible, merged with the new computerised transit system (NCTS), so as to facilitate administrative and commercial procedures.</p>
+      <p n="16">(6) For the purposes of implementing this Decision, the Commission should coordinate Member States' activities, so as to ensure the smooth operation of the internal market.</p>
+      <p n="17">(7) Because of the size and complexity of such a computerised system, both the Community and the Member States will need considerable additional human and financial resources for the purpose. Accordingly, provision should be made whereby the Commission and the Member States make the necessary resources available for the development and deployment of the system.</p>
+      <p n="18">(8) In developing the national components, Member States should apply the principles laid down for electronic government systems and should treat the economic operators in the same way as in the other fields where computer systems are set up. In particular, they should allow the economic operators, especially the small and medium-sized enterprises active in this sector, to use these national components at the lowest possible cost, and they should promote all measures aimed at preserving their competitiveness.</p>
+      <p n="19">(9) The division between the Community and non-Community components of the computerised system should also be defined, as should the respective duties of the Commission and the Member States with regard to the system's development and deployment. In that context, the Commission, assisted by the relevant Committee, should fulfil a major role in coordinating, organising and managing the system.</p>
+      <p n="20">(10) Arrangements should be made for evaluating the implementation of the computerised system for monitoring excisable goods.</p>
+      <p n="21">(11) The funding of the system should be shared between the Community and the Member States, the Community's share being specifically entered as such in the general budget of the European Union.</p>
+      <p n="22">(12) Establishing the computerised system serves to enhance the internal-market aspects of the movement of excisable goods. Any fiscal aspects relating to the movement of excisable goods should be addressed by amending Directive 92/12/EEC. This Decision does not prejudice the legal basis of any future amendments to Directive 92/12/EEC.</p>
+      <p n="23">(13) Before the EMCS is operational, and given the problems which have been experienced, the Commission, in collaboration with Member States, and taking account of the views of the trade sectors concerned, should look at ways to improve the current paper-based system.</p>
+      <p n="24">(14) This Decision lays down, for the entire period needed for the development and the deployment of the system, a financial framework constituting the prime reference within the meaning of Point 33 of the Interinstitutional Agreement of 6 May 1999 between the European Parliament, the Council and the Commission on budgetary discipline and improvement of the budgetary procedure(6), for the budgetary authority during the annual budgetary procedure.</p>
+      <p n="25">(15) The measures necessary for the implementation of this Decision should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(7),</p>
+      <p n="26">HAVE ADOPTED THIS DECISION:</p>
+      <p n="27">Article 1</p>
+      <p n="28">1. A computerised system for the movement and surveillance of excisable products of the kind referred to in Article 3(1) of Directive 92/12/EEC, hereinafter referred to as "the computerised system", is hereby established.</p>
+      <p n="29">2. The computerised system is intended to:</p>
+      <p n="30">(a) permit the electronic transmission of the accompanying document provided for in Regulation (EEC) No 2719/92, and the improvement of checks;</p>
+      <p n="31">(b) improve the functioning of the internal market, by simplifying the intra-Community movement of products under excise duty suspension arrangements, and by affording Member States the possibility of monitoring the flows in real time and of carrying out the requisite checks where necessary.</p>
+      <p n="32">Article 2</p>
+      <p n="33">Member States and the Commission shall establish the computerised system within six years of the entry into force of this Decision.</p>
+      <p n="34">Activities relating to the initiation of application of the computerised system shall begin not later than 12 months after the entry into force of this Decision.</p>
+      <p n="35">Article 3</p>
+      <p n="36">1. The computerised system shall be made up of Community and non-Community components.</p>
+      <p n="37">2. The Commission shall ensure that in work on the Community components of the computerised system every attention is paid to re-using as much of the NCTS as possible and ensuring that the computerised system is compatible with, and, if technically possible, integrated into, the NCTS with the objective of creating an integrated computer system for the surveillance both of intra-Community movements of excisable goods and of movements of excisable goods and goods subject to other duties and charges coming from or going to third countries.</p>
+      <p n="38">3. The Community components of the system shall be the common specifications, the technical products, the services of the Common Communications Network/Common Systems Interface network, and the coordination services used by all the Member States, to the exclusion of any variant or special feature of any such services designed to meet national requirements.</p>
+      <p n="39">4. The non-Community components of the system shall be the national specifications, the national databases forming part of the system, network connections between Community and non-Community components and any software or equipment which a Member State considers necessary to ensure full use of the system throughout its administration.</p>
+      <p n="40">Article 4</p>
+      <p n="41">1. The Commission, acting in accordance with the procedure provided for in Article 7(2), shall coordinate the setting up and running of the Community and non-Community components of the computerised system, and in particular:</p>
+      <p n="42">(a) the infrastructure and tools needed to guarantee the system's internal links and overall interoperability;</p>
+      <p n="43">(b) the development of a security policy of the highest standard possible in order to prevent unauthorised access to data and to guarantee the integrity of the system;</p>
+      <p n="44">(c) the instruments for the exploitation of data to combat fraud.</p>
+      <p n="45">2. To achieve the aims of paragraph 1, the Commission shall conclude the necessary contracts for setting up the Community components of the computerised system and shall, in cooperation with the Member States meeting within the Committee referred to in Article 7(1), draw up a master plan and management plans required for the establishment and running of the system.</p>
+      <p n="46">The master plan and the management plans shall specify the initial and routine tasks which the Commission and each Member State are to perform. The management plans shall specify the completion dates for the tasks required for carrying out each project identified in the master plan.</p>
+      <p n="47">Article 5</p>
+      <p n="48">1. Member States shall ensure that they complete, by the date specified in the management plans mentioned in Article 4(2), the initial and routine tasks allocated to them.</p>
+      <p n="49">They shall report to the Commission the results of each task and the date of its completion. The Commission shall in turn inform the Committee referred to in Article 7(1) thereof.</p>
+      <p n="50">2. No Member State shall take any action relating to the setting up or running of the computerised system that might affect the system's internal links and overall interoperability or its functioning as a whole.</p>
+      <p n="51">Any measure that a Member State might wish to take and that could affect either the computerised system's internal links and overall interoperability or its functioning as a whole shall be taken only with the prior agreement of the Commission, acting in accordance with the procedure provided for in Article 7(2).</p>
+      <p n="52">3. Member States shall inform the Commission regularly of any measure they may have taken to enable their respective administrations to make full use of the computerised system. The Commission shall in turn inform the Committee referred to in Article 7(1) thereof.</p>
+      <p n="53">Article 6</p>
+      <p n="54">The measures necessary for the implementation of this Decision relating to the setting up and running of the computerised system and to the matters referred to in Article 4(1) and in Article 5(2) second subparagraph shall be adopted in accordance with the procedure provided for in Article 7(2). These implementing measures shall not affect the Community provisions in relation to the raising and checking of indirect taxes or administrative cooperation and mutual assistance in matters of indirect taxation.</p>
+      <p n="55">Article 7</p>
+      <p n="56">1. The Commission shall be assisted by the Committee on Excise Duties set up under Article 24 of Directive 92/12/EEC.</p>
+      <p n="57">2. Where reference is made to this paragraph, Articles 4 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.</p>
+      <p n="58">The period laid down in Article 4(3) of Decision 1999/468/EC shall be set at three months.</p>
+      <p n="59">3. The Committee shall adopt its rules of procedure.</p>
+      <p n="60">Article 8</p>
+      <p n="61">1. The Commission shall take whatever other steps are necessary to verify that the measures financed from the general budget of the European Union are being carried out correctly and in compliance with the provisions of this Decision.</p>
+      <p n="62">It shall regularly, in collaboration with the Member States, meeting in the Committee referred to in Article 7(1), monitor the various development and deployment stages of the computerised system with a view to determining whether the objectives pursued have been achieved, and to issuing guidelines on how to raise the effectiveness of the activities involved in implementing the computerised system.</p>
+      <p n="63">2. 30 months after the entry into force of this Decision, the Commission shall submit to the Committee referred to in Article 7(1) an interim report on the monitoring operations. If appropriate, this report shall set out methods and criteria to be used in the later evaluation of how the computerised system is functioning.</p>
+      <p n="64">3. At the end of the six-year period referred to in the first subparagraph of Article 2, the Commission shall present to the European Parliament and the Council a report on the implementation of the computerised system. The report shall set out, inter alia, the methods and criteria to be used in the later evaluation of how the system is functioning.</p>
+      <p n="65">Article 9</p>
+      <p n="66">The countries that have applied for membership of the European Union shall be kept informed by the Commission of the development and deployment of the computerised system and may, if they so desire, take part in the tests to be carried out.</p>
+      <p n="67">Article 10</p>
+      <p n="68">1. The costs of setting up the computerised system shall be split between the Community and the Member States in accordance with paragraphs 2 and 3.</p>
+      <p n="69">2. The Community shall bear the costs of the design, acquisition, installation and maintenance of the Community components of the computerised system and the ongoing operating costs of those Community components installed in Commission premises, or in those of a subcontractor designated by the Commission.</p>
+      <p n="70">3. Member States shall bear the costs of setting up and running the non-Community components of the system and the ongoing operating costs of those Community components installed in their premises, or in those of a subcontractor designated by the Member State concerned.</p>
+      <p n="71">Article 11</p>
+      <p n="72">1. The financial framework for financing the computerised system for the period defined in the first subparagraph of Article 2 is hereby set at EUR 35000000 insofar as the general budget of the European Union is concerned.</p>
+      <p n="73">The annual appropriations, including appropriations assigned to the use and operation of the system after the above implementation period, shall be authorised by the budgetary authority within the limits of the financial perspective.</p>
+      <p n="74">2. Member States shall estimate and make available the budgets and human resources needed to meet their obligations described in Article 5. The Commission and the Member States shall provide the human, budgetary and technical resources needed to establish and run the computerised system.</p>
+      <p n="75">Article 12</p>
+      <p n="76">This Decision shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="77">Article 13</p>
+      <p n="78">This Decision is addressed to the Member States.</p>
+      <p n="79">Done at Luxembourg, 16 June 2003.</p>
+      <p n="80">For the European Parliament</p>
+      <p n="81">The President</p>
+      <p n="82">P. Cox</p>
+      <p n="83">For the Council</p>
+      <p n="84">The President</p>
+      <p n="85">G. Papandreou</p>
+      <p n="86">(1) OJ C 51 E, 26.2.2002, p. 372.</p>
+      <p n="87">(2) OJ C 221, 17.9.2002, p. 1.</p>
+      <p n="88">(3) European Parliament Opinion of 24 September 2003 (not yet published in the Official Journal), Council Common Position of 21 January 2003 (OJ C 64 E, 18.3.2003, p. 1) and European Parliament Decision of 8 April 2003 (not yet published in the Official Journal). Council Decision of 3 June 2003.</p>
+      <p n="89">(4) OJ L 76, 23.3.1992, p. 1. Directive as last amended by Directive 2000/47/EC (OJ L 193, 29.7.2000, p. 73).</p>
+      <p n="90">(5) OJ L 276, 19.9.1992, p. 1. Regulation as amended by Regulation (EEC) No 2225/93 (OJ L 198, 7.8.1993, p. 5).</p>
+      <p n="91">(6) OJ C 172, 18.6.1999, p. 1.</p>
+      <p n="92">(7) OJ L 184, 17.7.1999, p. 23.</p>
+    </body>
+  </text>
+</TEI.2>

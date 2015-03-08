@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R0079-en" n="32003R0079" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0079 English</title>
+        <title>Commission Regulation (EC) No 79/2003 of 17 January 2003 amending Regulation (EC) No 1422/95 laying down detailed implementing rules for the import of molasses in the sugar sector</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0079:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0079:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1863</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2733</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0079-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 79/2003 of 17 January 2003 amending Regulation (EC) No 1422/95 laying down detailed implementing rules for the import of molasses in the sugar sector</head>
+      <p n="2">Commission Regulation (EC) No 79/2003</p>
+      <p n="3">of 17 January 2003</p>
+      <p n="4">amending Regulation (EC) No 1422/95 laying down detailed implementing rules for the import of molasses in the sugar sector</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1260/2001 of 19 June 2001 on the common organisation of the markets in the sugar sector(1), as amended by Commission Regulation (EC) No 680/2002(2), and in particular Article 24(4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Regulation (EC) No 1422/95(3) lays down that representative prices on the world market, on the basis of which the additional duties on imports of molasses are fixed, are normally fixed every week in accordance with the procedure laid down in Article 42(2) of Regulation (EC) No 1260/2001.</p>
+      <p n="10">(2) The current system involves fixing representative prices and additional duties every week, even when the amounts are unchanged or vary only slightly. In order to simplify and clarify the fixing of representative prices and additional duties, provision should be made for representative prices and additional duties to be fixed every two weeks and for their amendment by the Commission during this period subject to certain precise conditions.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Sugar,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">In Article 1 of Regulation (EC) No 1422/95, paragraphs 1 and 2 are replaced by the following:</p>
+      <p n="15">"1. The additional duties referred to in Article 24(1) of Regulation (EC) No 1260/2001 shall be applied to molasses falling within CN codes 1703 10 00 and 1703 90 00.</p>
+      <p n="16">2. For the purposes of this Regulation, representative prices for molasses on the world market or on the Community import market as referred to in Article 24(3) of Regulation (EC) No 1260/2001 shall mean the cif prices for those products established and fixed by the Commission in accordance with Regulation (EEC) No 785/68.</p>
+      <p n="17">Those prices shall be fixed every two weeks in accordance with the procedure laid down in Article 42(2) of Regulation (EC) No 1260/2001. The Commission may amend them during that two-week period every Thursday where the information available to it indicates a change in the representative prices previously fixed of at least EUR 0,5 per 100 kilograms. Member States shall send the Commission by Wednesday of each week the information referred to in Article 3 of Regulation (EEC) No 785/68 at their disposal."</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 17 January 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 178, 30.6.2001, p. 1.</p>
+      <p n="26">(2) OJ L 104, 20.4.2002, p. 26.</p>
+      <p n="27">(3) OJ L 141, 24.6.1995, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

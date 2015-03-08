@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31998R1298-en" n="31998R1298" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1298 English</title>
+        <title>Commission Regulation (EC) No 1298/98 of 23 June 1998 amending Regulation (EC) No 577/97 laying down certain detailed rules for the application of Council Regulation (EC) No 2991/94 laying down standards for spreadable fats and of Council Regulation (EEC) No 1898/87 on the protection of designations used in the marketing of milk and milk products (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1298:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1298:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">239</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">4860</classCode>
+        <classCode scheme="eurovoc">5573</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1298-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1298/98 of 23 June 1998 amending Regulation (EC) No 577/97 laying down certain detailed rules for the application of Council Regulation (EC) No 2991/94 laying down standards for spreadable fats and of Council Regulation (EEC) No 1898/87 on the protection of designations used in the marketing of milk and milk products (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1298/98 of 23 June 1998 amending Regulation (EC) No 577/97 laying down certain detailed rules for the application of Council Regulation (EC) No 2991/94 laying down standards for spreadable fats and of Council Regulation (EEC) No 1898/87 on the protection of designations used in the marketing of milk and milk products (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2991/94 of 5 December 1994 laying down standards for spreadable fats (1), and in particular Article 8 thereof,</p>
+      <p n="6">Having regard to Council Regulation (EEC) No 1898/87 of 2 July 1987 on the protection of designations used in the marketing of milk and milk products (2), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 4(2) thereof,</p>
+      <p n="7">Whereas Commission Regulation (EC) No 577/97 (3), as last amended by Regulation (EC) No 623/98 (4), provides for a period allowing experience to be had of the method for verifying the fat content declaration as described in Annex II, before its application;</p>
+      <p n="8">Whereas, to allow for a more detailed examination of the viability of the method in the light of the difficulties notified by the economic operators in implementing it, the date from which the method is to apply must be postponed;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committees concerned,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Regulation (EC) No 577/97 is amended as follows:</p>
+      <p n="13">In Article 2(3) the date '1 July 1998` is replaced by '1 January 1999`.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 23 June 1998.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 316, 9. 12. 1994, p. 2.</p>
+      <p n="22">(2) OJ L 182, 3. 7. 1987, p. 36.</p>
+      <p n="23">(3) OJ L 87, 2. 4. 1997, p. 3.</p>
+      <p n="24">(4) OJ L 85, 20. 3. 1998, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

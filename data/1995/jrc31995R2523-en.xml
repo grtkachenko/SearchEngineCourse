@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31995R2523-en" n="31995R2523" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R2523 English</title>
+        <title>Commission Regulation (EC) No 2523/95 of 27 October 1995 amending Regulation (EC) No 1372/95 laying down detailed rules for implementing the system of export licences in the poultrymeat sector</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2523:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2523:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2487</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+        <classCode scheme="eurovoc">4743</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R2523-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2523/95 of 27 October 1995 amending Regulation (EC) No 1372/95 laying down detailed rules for implementing the system of export licences in the poultrymeat sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2523/95 of 27 October 1995 amending Regulation (EC) No 1372/95 laying down detailed rules for implementing the system of export licences in the poultrymeat sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2777/75 of 29 October 1975 on the common organization of the market in poultrymeat (1), as last amended by the Act of Accession of Austria, Finland and Sweden and by Regulation (EC) No 3290/94 (2), and in particular Articles 3 (2) and 8 (12) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 1372/95 (3) has laid down detailed rules for implementing the system of export licences in the poultrymeat sector;</p>
+      <p n="7">Whereas the specific conditions of access to export licences for certain traditional markets during a transitional period should be amended in order to facilitate access for certain products;</p>
+      <p n="8">Whereas experience has shown that the Commission should be allowed, where particular measures have to be taken in the event of excessive applications, to adjust these measures according to the category of product and to destination;</p>
+      <p n="9">Whereas the Management Committee for Poultrymeat and Eggs has not delivered an opinion within the time limit set by the chairman,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Regulation (EC) No 1372/95 is amended as follows:</p>
+      <p n="13">1. in Article 3:</p>
+      <p n="14">(a) the second subparagraph of paragraph 2 is replaced by the following:</p>
+      <p n="15">'As regards exports of whole chickens falling under the codes 0207 21 10 900 and 0207 21 90 190 of the agricultural product nomenclature for export refunds to countries referred to in Annex IV, until 30 June 1996 export licences may be applied for only by natural or legal persons who are able to prove to the satisfaction of the competent authorities in the Member States that they have exported not less than 1 000 tonnes of products falling within CN codes 0207, 1602 20, 1602 31 and 1602 39 in each of the two calendar years preceding the year in which the licence application was lodged.` (b) the last subparagraph of paragraph 4 is replaced by the following:</p>
+      <p n="16">'These measures may be adjusted according to the category of product and to destination.` 2. Annex IV of Regulation (EC) No 1372/95 is replaced by the Annex to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 27 October 1995.</p>
+      <p n="21">For the Commission Franz FISCHLER Member of the Commission</p>
+      <p n="22">ANNEX</p>
+      <p n="23">'ANNEX IV Armenia Azerbaijan Georgia Russia Uzbekistan Tajikistan Angola Saudi Arabia Kuwait Bahrain Qatar Oman United Arab Emirates Jordan Yemen Republic Lebanon Iran`</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31996R0957-en" n="31996R0957" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0957 English</title>
+        <title>Commission Regulation (EC) No 957/96 of 30 May 1996 amending Regulation (EC) No 773/96 laying down special measures derogating from Regulations (EEC) No 3665/87, (EEC) No 3719/88 and (EEC) No 1964/82 in the beef and veal sector</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0957:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0957:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1069</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">3774</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0957-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 957/96 of 30 May 1996 amending Regulation (EC) No 773/96 laying down special measures derogating from Regulations (EEC) No 3665/87, (EEC) No 3719/88 and (EEC) No 1964/82 in the beef and veal sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 957/96 of 30 May 1996 amending Regulation (EC) No 773/96 laying down special measures derogating from Regulations (EEC) No 3665/87, (EEC) No 3719/88 and (EEC) No 1964/82 in the beef and veal sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organization of the market in beef and veal (1), as last amended by Commission Regulation (EC) No 894/96 (2), and in particular Article 13 (12) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 773/96 (3) lays down special measures for the regularization of certain export transactions in the wake of the measures taken by several third countries to safeguard against bovine spongiform encephalopathy;</p>
+      <p n="7">Whereas, under Article 5 (1) of Regulation (EC) No 773/96, the time limit within which products are to leave the customs territory of the Community was extended from 60 to 120 days; whereas, under Article 5 (2) of that Regulation, the time during which products may be placed under suspension arrangements in a free zone or free warehouse is 60 days;</p>
+      <p n="8">Whereas those periods have proved too short for operators to find other outlets for these products; whereas they should thus be extended to 150 and 120 days respectively;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Regulation (EC) No 773/96 is amended as follows:</p>
+      <p n="13">1. in Article 5 (1), the period '120 days` is replaced by '150 days`;</p>
+      <p n="14">2. in Article 5 (2), the period '60 days` is replaced by '120 days`.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply from 30 May 1996.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 30 May 1996.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz FISCHLER</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ No L 148, 28. 6. 1968, p. 24.</p>
+      <p n="24">(2) OJ No L 125, 23. 5. 1996, p. 1.</p>
+      <p n="25">(3) OJ No L 104, 27. 4. 1996, p. 19.</p>
+    </body>
+  </text>
+</TEI.2>

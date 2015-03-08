@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31999L0067-en" n="31999L0067" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999L0067 English</title>
+        <title>Commission Directive 1999/67/EC of 28 June 1999 amending Directive 93/49/EEC setting out the schedule indicating the conditions to be met by ornamental plant propagating material and ornamental plants pursuant to Council Directive 91/682/EEC</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0067:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0067:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1260</classCode>
+        <classCode scheme="eurovoc">3115</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999L0067-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 1999/67/EC of 28 June 1999 amending Directive 93/49/EEC setting out the schedule indicating the conditions to be met by ornamental plant propagating material and ornamental plants pursuant to Council Directive 91/682/EEC</head>
+      <p n="2">COMMISSION DIRECTIVE 1999/67/EC</p>
+      <p n="3">of 28 June 1999</p>
+      <p n="4">amending Directive 93/49/EEC setting out the schedule indicating the conditions to be met by ornamental plant propagating material and ornamental plants pursuant to Council Directive 91/682/EEC</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Directive 98/56/EC of 20 July 1998 on the marketing of propagating material of ornamental plants(1), and in particular Article 20(3) thereof,</p>
+      <p n="8">(1) Whereas schedules were established by Commission Directive 93/49/EEC(2) pursuant to Council Directive 91/682/EEC,(3), as last amended by Commission Decision 1999/9/EC(4), on the marketing of ornamental plant propagating material and ornamental plants, in particular the conditions related to quality (health, identity and purity relative to the genus or species, or where appropriate as to the variety and, in the case of seeds, germination capacity) and to the label or other document made up by the supplier giving the particulars needed both for official control and for information of the grower;</p>
+      <p n="9">(2) Whereas Directive 91/682/EEC is repealed with effect from 1 July 1999 and replaced by Directive 98/56/EC;</p>
+      <p n="10">(3) Whereas certain conditions laid down in Directive 93/49/EEC have been incorporated in Directive 98/56/EC and other conditions are dealt with by Commission Directive 1999/66/EC(5); whereas in accordance with Article 5(5) of Directive 98/56/EC the Commission may on certain conditions establish a schedule for a particular genus or species, laying down additional conditions concerning the quality with propagating material when marketed must comply; whereas for this purpose the Commission is currently reviewing Directive 93/49/EEC, applying the criteria set up in the abovementioned provisions; whereas, at present it is appropriate to delete the obsolete provisions of Directive 93/49/EEC;</p>
+      <p n="11">(4) Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Propagating Material of Ornamental Plants,</p>
+      <p n="12">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Directive 93/49/EEC is hereby amended as follows:</p>
+      <p n="15">1. the following provisions are hereby deleted with effect from 1 July 1999:</p>
+      <p n="16">- Article 1,</p>
+      <p n="17">- Article 2,</p>
+      <p n="18">- Article 3(2) to (4),</p>
+      <p n="19">- Article 4(2) to (4),</p>
+      <p n="20">- Article 5;</p>
+      <p n="21">2. the following provisions are hereby deleted with effect from 31 December 1999:</p>
+      <p n="22">- Article 6.</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Directive is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 28 June 1999.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz FISCHLER</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 226, 13.8.1998, p. 16.</p>
+      <p n="30">(2) OJ L 250, 7.10.1993, p. 9.</p>
+      <p n="31">(3) OJ L 376, 31.10.1991, p. 21.</p>
+      <p n="32">(4) OJ L 5, 9.1.1999, p. 75.</p>
+      <p n="33">(5) See page 76 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

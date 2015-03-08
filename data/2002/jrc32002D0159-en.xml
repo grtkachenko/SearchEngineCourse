@@ -1,0 +1,97 @@
+<TEI.2 id="jrc32002D0159-en" n="32002D0159" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0159 English</title>
+        <title>2002/159/EC: Commission Decision of 18 February 2002 on a common format for the submission of summaries of national fuel quality data (notified under document number C(2002) 508)</title>
+      </titleStmt>
+      <extent>60 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0159:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0159:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2611</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3771</classCode>
+        <classCode scheme="eurovoc">3772</classCode>
+        <classCode scheme="eurovoc">5262</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0159-en." lang="en">
+    <body>
+      <head n="1">2002/159/EC: Commission Decision of 18 February 2002 on a common format for the submission of summaries of national fuel quality data (notified under document number C(2002) 508)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 18 February 2002</p>
+      <p n="4">on a common format for the submission of summaries of national fuel quality data</p>
+      <p n="5">(notified under document number C(2002) 508)</p>
+      <p n="6">(2002/159/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels and amending Council Directive 93/12/EEC(1), and in particular Article 8(3) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) It is necessary for the Member States to monitor the quality of petrol and diesel fuels marketed in their territories in order to ensure compliance with the environmental specifications contained in Directive 98/70/EC and to ensure the effectiveness of measures to reduce atmospheric pollution caused by vehicles.</p>
+      <p n="12">(2) It is necessary to establish a common reporting format for the submission of fuel quality monitoring information in accordance with Article 8(3) of Directive 98/70/EC,</p>
+      <p n="13">HAS ADOPTED THIS DECISION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">This Decision establishes a common format for the submission of national fuel quality data in accordance with Article 8 of Directive 98/70/EC.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Member States shall use the format set out in the Annex, when making their submission to the Commission.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Decision is addressed to the Member States.</p>
+      <p n="20">Done at Brussels, 18 February 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Margot Wallström</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 350, 28.12.1998, p. 58.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">ON A COMMON FORMAT FOR THE SUBMISSION OF SUMMARIES OF NATIONAL FUEL QUALITY DATA</p>
+      <p n="27">1. INTRODUCTION</p>
+      <p n="28">Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels and amending Directive 93/12/EEC(1), as last amended by Commission Directive 2000/71/EC(2), sets the environmental specifications for all petrol and diesel fuel marketed in the European Union. These specifications can be found in Annexes I to IV of the Directive. Article 8(1) obliges the Member States to monitor the compliance with these fuel quality specifications according to the analytical measurement methods referred to in the Directive. By no later than 30 June each year the Member States must submit a summary of the fuel quality monitoring data collected during the period January to December of the previous calendar year. The first report must be made by 30 June 2002. The reporting format contained herein has been established by the European Commission in accordance with Article 8(3) of Directive 98/70/EC and this Decision.</p>
+      <p n="29">2. DETAILS OF THOSE COMPILING THE FUEL QUALITY MONITORING REPORT</p>
+      <p n="30">The authorities responsible for compiling the fuel quality monitoring report are requested to complete the table below.</p>
+      <p n="31">&gt;PIC FILE= "L_2002053EN.003102.TIF"&gt;</p>
+      <p n="32">3. DEFINITIONS AND EXPLANATION</p>
+      <p n="33">Parent fuel grade: Directive 98/70/EC sets the environmental specifications for petrol and diesel fuel marketed in the EU. The specifications in the Directive can be thought of as "parent fuel grades". These include (i) regular unleaded petrol (RON &gt; 91), (ii) unleaded petrol (RON &gt; 95) and (iii) diesel fuel.</p>
+      <p n="34">National fuel grade: Member States may, of course, define "national" fuel grades which must still, however, respect the specification of the parent fuel grade. For example, national fuel grades may comprise super unleaded petrol (RON &gt; 98), lead replacement petrol, zero sulphur petrol, 50 ppm sulphur petrol, zero sulphur diesel, 50 ppm sulphur diesel, etc.</p>
+      <p n="35">Zero sulphur or sulphur-free fuels are petrol and diesel fuels which contain less than 10 mg/kg (ppm) of sulphur.</p>
+      <p n="36">4. DESCRIPTION OF FUEL QUALITY MONITORING SYSTEM</p>
+      <p n="37">Member States should provide a description on the operation of their national fuel quality monitoring systems.</p>
+      <p n="38">5. TOTAL SALES OF PETROL AND DIESEL</p>
+      <p n="39">Member States are requested to complete the following table detailing the quantities of each grade of petrol and diesel marketed in their territory.</p>
+      <p n="40">&gt;PIC FILE= "L_2002053EN.003201.TIF"&gt;</p>
+      <p n="41">6. GEOGRAPHICAL AVAILABILITY OF SULPHUR-FREE FUELS</p>
+      <p n="42">The Member States are requested to provide a description on the extent to which (i.e. geographic availability) sulphur-free fuels are marketed in their territory.</p>
+      <p n="43">&gt;PIC FILE= "L_2002053EN.003202.TIF"&gt;</p>
+      <p n="44">7. DEFINITION OF SUMMER PERIOD FOR PETROL VOLATILITY</p>
+      <p n="45">Directive 98/70/EC requires the vapour pressure of petrol to be less than 60,0 kPa during the summer period which spans 1 May until 30 September. However, for those Member States which experience "arctic conditions" the Summer period covers the period 1 June to 31 August and the vapour pressure must not exceed 70 kPa. Member States are requested to define the Summer period implemented in their territories.</p>
+      <p n="46">&gt;PIC FILE= "L_2002053EN.003203.TIF"&gt;</p>
+      <p n="47">8. REPORTING FORMAT FOR PETROL</p>
+      <p n="48">Member States should submit a summary report for the petrol quality monitoring data (for both nationally defined and parent grades) that they have collected in a given calendar year (January to December). This summary table is attached at Appendix I. Test methods shall be those included in EN228: 2000 or later version as appropriate.</p>
+      <p n="49">9. REPORTING FORMAT FOR DIESEL FUEL</p>
+      <p n="50">Member States should submit a summary report for the diesel fuel quality monitoring data (for nationally defined and parent grades) that they have collected in a given calendar year (January to December). This summary table is attached at Appendix II. Test methods shall be those included in EN590: 2000 or later versions as appropriate.</p>
+      <p n="51">10. Submission of fuel quality monitoring report</p>
+      <p n="52">The fuel quality monitoring report should be submitted formally to the following person: The Secretary General The European Commission Rue de la Loi/Wetstraat 200 B - 1049 Brussels.</p>
+      <p n="53">In addition, the report should be submitted in electronic form to the following email address: env-report-98-70@cec.eu.int</p>
+      <p n="54">(1) OJ L 350, 28.12.1998, p. 58.</p>
+      <p n="55">(2) OJ L 287, 14.11.2000, p. 46.</p>
+      <p n="56">Appendix I</p>
+      <p n="57">&gt;PIC FILE= "L_2002053EN.003402.TIF"&gt;</p>
+      <p n="58">&gt;PIC FILE= "L_2002053EN.003501.TIF"&gt;</p>
+      <p n="59">Appendix II</p>
+      <p n="60">&gt;PIC FILE= "L_2002053EN.003602.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

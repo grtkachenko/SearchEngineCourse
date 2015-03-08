@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32001D0068-en" n="32001D0068" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0068 English</title>
+        <title>2001/68/EC: Commission Decision of 16 January 2001 establishing two reference methods of measurement for PCBs pursuant to Article 10(a) of Council Directive 96/59/EC on the disposal of polychlorinated biphenyls and polychlorinated terphenyls (PCBs/PCTs) (notified under document number C(2001) 107)</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0068:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0068:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1158</classCode>
+        <classCode scheme="eurovoc">2739</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">3646</classCode>
+        <classCode scheme="eurovoc">718</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0068-en." lang="en">
+    <body>
+      <head n="1">2001/68/EC: Commission Decision of 16 January 2001 establishing two reference methods of measurement for PCBs pursuant to Article 10(a) of Council Directive 96/59/EC on the disposal of polychlorinated biphenyls and polychlorinated terphenyls (PCBs/PCTs) (notified under document number C(2001) 107)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 16 January 2001</p>
+      <p n="4">establishing two reference methods of measurement for PCBs pursuant to Article 10(a) of Council Directive 96/59/EC on the disposal of polychlorinated biphenyls and polychlorinated terphenyls (PCBs/PCTs)</p>
+      <p n="5">(notified under document number C(2001) 107)</p>
+      <p n="6">(2001/68/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Directive 96/59/EC of 16 September 1996 on the disposal of polychlorinated biphenyls and polychlorinated terphenyls (PCBs/PCTs(1), and in particular Article 10(a) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Commission, by virtue of Article 10(a) of the Directive 96/59/EC has the obligation to fix the reference methods for measurement to determine the PCB content of contaminated materials.</p>
+      <p n="12">(2) For the time being it is possible to establish a reference method for the determination of PCBs in petroleum products and used oils as well as a reference measurement method for the determination of PCBs in insulating fluids.</p>
+      <p n="13">(3) The measures envisaged by this Decision are in accordance with the opinion expressed by the Committee established by Article 18 of Council Directive 75/442/EEC(2),</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">European standards EN 12766-1 and prEN 12766-2 and subsequently upgraded versions shall be applied as the reference method for the determination of PCBs in petroleum products and used oils.</p>
+      <p n="17">Article 2</p>
+      <p n="18">European standard IEC 61619 and subsequently upgraded versions shall be applied as the reference method for the determination of PCBs in insulating liquids.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Decision shall enter into force on the 30th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 16 January 2001.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Margot Wallström</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 243, 24.9.1996, p. 31.</p>
+      <p n="28">(2) OJ L 78, 26.3.1991, p. 32.</p>
+    </body>
+  </text>
+</TEI.2>

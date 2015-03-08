@@ -1,0 +1,49 @@
+<TEI.2 id="jrc41999D0005-en" n="41999D0005" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41999D0005 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 28 April 1999 on updating the Sirene manual (SCH/Com-ex (99) 5)</title>
+      </titleStmt>
+      <extent>14 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0005:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0005:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1509</classCode>
+        <classCode scheme="eurovoc">3119</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">560</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41999D0005-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 28 April 1999 on updating the Sirene manual (SCH/Com-ex (99) 5)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 28 April 1999</p>
+      <p n="4">on updating the Sirene Manual</p>
+      <p n="5">(SCH/Com-ex (99) 5)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Article 108 of the abovementioned Convention,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">The Sirene Manual has been updated; the new version (SCH/OR.SIS-SIRENE (99) 64) is attached to this Decision(1).</p>
+      <p n="11">Luxembourg, 28 April 1999.</p>
+      <p n="12">The Chairman</p>
+      <p n="13">C. H. Schapper</p>
+      <p n="14">(1) See SCH/Com-ex (98) 17.</p>
+    </body>
+  </text>
+</TEI.2>

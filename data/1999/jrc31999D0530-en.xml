@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31999D0530-en" n="31999D0530" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0530 English</title>
+        <title>1999/530/EC: Commission Decision of 14 July 1999 amending Decision 95/453/EC laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating the Republic of Korea (notified under document number C(1999) 2062) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0530:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0530:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">1961</classCode>
+        <classCode scheme="eurovoc">235</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">3544</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0530-en." lang="en">
+    <body>
+      <head n="1">1999/530/EC: Commission Decision of 14 July 1999 amending Decision 95/453/EC laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating the Republic of Korea (notified under document number C(1999) 2062) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 14 July 1999</p>
+      <p n="4">amending Decision 95/453/EC laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating the Republic of Korea</p>
+      <p n="5">(notified under document number C(1999) 2062)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(1999/530/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/492/EEC of 15 July 1991 laying down the health conditions for the production and the placing on the market of live bivalve molluscs(1), as last amended by Directive 97/79/EC(2), and in particular Article 9 thereof,</p>
+      <p n="11">(1) Whereas Article 1 of Commission Decision 95/453/EC of 23 October 1995 laying down special conditions for the import of live bivalve molluscs, echinoderms, tunicates and marine gastropods originating in the Republic of Korea(3), states that the Ministry of Agriculture, Forestry and Fisheries - National Fishery Products Inspection Station (NFPIS) shall be the competent authority in the Republic of Korea for verifying and certifying compliance of fishery and aquaculture products with the requirements of Directive 91/492/EEC;</p>
+      <p n="12">(2) Whereas, following a restructuring of the Korean administration, the competent authority for health certificates for fishery products (NFPIS) has changed from the Ministry of Agriculture and Forestry to the Ministry of Maritime Affairs and Fisheries and Forestry and this new authority is capable of effectively verifying the application of the laws in force; whereas it is, therefore, necessary to modify the nomination of the competent authority named by Decision 95/453/EC;</p>
+      <p n="13">(3) Whereas it is convenient to harmonise the wording of the title of Decision 95/453/EC with the wording of the Articles of this Decision, and in particular to clarify that this Decision lays down the import conditions of frozen or processed bivalve molluscs, echinoderm, tunicates and marine gastropods originating in the Republic Korea</p>
+      <p n="14">(4) Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Decision 95/453/EC shall be modified as follows:</p>
+      <p n="18">1. the title shall be replaced by the following: "Commision Decision of 23 October 1995 laying special conditions for the import of bivalve molluscs, echinoderms, tunicates and marine gastropods originating in the Republic Korea";</p>
+      <p n="19">2. Article 1 shall be replaced by the following: "Article 1</p>
+      <p n="20">The 'Ministry of Maritime Affairs and Fisheries - National Fishery Products Inspection Station (NFPIS)' shall be the competent authority in the Republic of Korea for verifyng and certifying that bivalve molluscs, echinoderms, tunicates and gastropods fulfil the requirements of Directive 91/492/EEC";</p>
+      <p n="21">3. Article 2 shall be replaced by the following: "Article 2</p>
+      <p n="22">Bivalve molluscs, echinoderms, tunicates and marine gastropods originating in the Republic of Korea and intended for human consumption must originate in the authorised production areas listed in the Annex hereto."</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 14 July 1999.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz FISCHLER</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 268, 24.9.1991, p. 1.</p>
+      <p n="30">(2) OJ L 24, 30.1.1998, p. 31.</p>
+      <p n="31">(3) OJ L 264, 7.11.1995, p. 35.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,43 @@
+<TEI.2 id="jrc31975D0438-en" n="31975D0438" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31975D0438 English</title>
+        <title>75/438/EEC: Council Decision of 3 March 1975 concerning Community participation in the Interim Commission established on the basis of Resolution No III of the Convention for the prevention of marine pollution from land-based sources</title>
+      </titleStmt>
+      <extent>16 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31975D0438:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31975D0438:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31975D0438-en." lang="en">
+    <body>
+      <head n="1">75/438/EEC: Council Decision of 3 March 1975 concerning Community participation in the Interim Commission established on the basis of Resolution No III of the Convention for the prevention of marine pollution from land-based sources</head>
+      <p n="2">COUNCIL DECISION of 3 March 1975 concerning Community participation in the Interim Commission established on the basis of resolution No III of the convention for the prevention of marine pollution from land-based sources (75/438/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 235 thereof;</p>
+      <p n="5">Having regard to the proposal from the Commission;</p>
+      <p n="6">Having regard to the Opinion of the European Parliament (1);</p>
+      <p n="7">Whereas in resolution No III annexed to the Final Act of the convention for the prevention of marine pollution from land-based sources of 21 February 1974, it is recommended that an Interim Commission be established, comprising representatives of the signatories of the convention;</p>
+      <p n="8">Whereas by Decision No 75/437/EEC (2) this convention has been concluded on behalf of the Community;</p>
+      <p n="9">Whereas the representative of the Community within the Interim Commission should therefore be designated,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Sole Article</p>
+      <p n="12">Pending the entry into force of the convention for the prevention of marine pollution from land-based sources, the Commission shall be authorized to represent the Community in the working group entitled "Interim Commission" established on the basis of resolution No III annexed to the Final Act of the convention.</p>
+      <p n="13">Done at Brussels, 3 March 1975.</p>
+      <p n="14">For the Council</p>
+      <p n="15">The President</p>
+      <p n="16">J. KEATING (1)OJ No C 127, 18.10.1974, p. 32. (2)See page 5 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

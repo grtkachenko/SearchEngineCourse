@@ -1,0 +1,77 @@
+<TEI.2 id="jrc32003L0107-en" n="32003L0107" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003L0107 English</title>
+        <title>Directive 2003/107/EC of the European Parliament and of the Council of 5 December 2003 amending Council Directive 96/16/EC on statistical surveys of milk and milk products</title>
+      </titleStmt>
+      <extent>42 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003L0107:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003L0107:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003L0107-en." lang="en">
+    <body>
+      <head n="1">Directive 2003/107/EC of the European Parliament and of the Council of 5 December 2003 amending Council Directive 96/16/EC on statistical surveys of milk and milk products</head>
+      <p n="2">Directive 2003/107/EC of the European Parliament and of the Council</p>
+      <p n="3">of 5 December 2003</p>
+      <p n="4">amending Council Directive 96/16/EC on statistical surveys of milk and milk products</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 285(1) thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Acting in accordance with the procedure referred to in Article 251 of the Treaty(1),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The purpose of Council Directive 96/16/EC(2) is to provide reliable and comparable data on milk production and use and reliable, regular, short-term information on milk deliveries to undertakings which treat or process milk and on the production of milk products in the Member States.</p>
+      <p n="11">(2) In view of the growing economic importance of the protein content of milk, it is becoming increasingly necessary to have statistical information on the protein content of the main milk products.</p>
+      <p n="12">(3) Specialisation in agriculture is increasing in general, and the milk sector, in particular, is currently undergoing regional specialisation which gives rise to enormous differences between the regions of a single Member State, requiring detailed information at regional level.</p>
+      <p n="13">(4) To guarantee comparability of results, methodological reports need to be compiled according to a standard format,</p>
+      <p n="14">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Council Directive 96/16/EC shall be amended as follows:</p>
+      <p n="17">1. Article 4 shall be amended as follows:</p>
+      <p n="18">(a) the following shall be added to paragraph 1(b):</p>
+      <p n="19">"(iv) the protein content of the main milk products, based on the measuring or estimating method most likely to guarantee reliable data;</p>
+      <p n="20">(v) the quantity of cows' milk produced by agricultural holdings on a regional basis (territorial unit NUTS 2) according to the most appropriate measuring or estimating method for guaranteeing the reliability of the data."</p>
+      <p n="21">(b) paragraph 2 shall be deleted;</p>
+      <p n="22">2. the last sentence of Article 5(2) shall be replaced by the following:"Member States shall notify the Commission annually of the methodological information relating to the information referred to in Article 4(1), using a standard questionnaire drawn up by the Commission in accordance with the procedure laid down in Article 7.";</p>
+      <p n="23">3. Article 6(3) shall be amended as follows:</p>
+      <p n="24">(a) in point (b), the second indent shall be deleted;</p>
+      <p n="25">(b) point (c) shall be replaced by the following:</p>
+      <p n="26">"(c) in September of the year following the year of the reference date, the results referred to in point 2 of Article 1 and in points (b)(v) and (c) of Article 4(1)."</p>
+      <p n="27">Article 2</p>
+      <p n="28">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 March 2004. They shall forthwith inform the Commission thereof.</p>
+      <p n="29">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.</p>
+      <p n="30">Article 3</p>
+      <p n="31">This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="32">Article 4</p>
+      <p n="33">This Directive is addressed to the Member States.</p>
+      <p n="34">Done at Brussels, 5 December 2003.</p>
+      <p n="35">For the European Parliament</p>
+      <p n="36">The President</p>
+      <p n="37">P. Cox</p>
+      <p n="38">For the Council</p>
+      <p n="39">The President</p>
+      <p n="40">P. Lunardi</p>
+      <p n="41">(1) Opinion of the European Parliament of 2 September 2003 (not yet published in the Official Journal), and Council Decision of 17 November 2003.</p>
+      <p n="42">(2) OJ L 78, 28.3.1996, p. 27.</p>
+    </body>
+  </text>
+</TEI.2>

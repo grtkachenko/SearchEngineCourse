@@ -1,0 +1,51 @@
+<TEI.2 id="jrc31998D0285-en" n="31998D0285" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0285 English</title>
+        <title>98/285/EC: Commission Decision of 23 April 1998 amending Decision 95/539/EC setting up a Committee of experts on the transit of natural gas through grids (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>14 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0285:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0285:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1141</classCode>
+        <classCode scheme="eurovoc">1142</classCode>
+        <classCode scheme="eurovoc">2312</classCode>
+        <classCode scheme="eurovoc">3428</classCode>
+        <classCode scheme="eurovoc">3614</classCode>
+        <classCode scheme="eurovoc">6049</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0285-en." lang="en">
+    <body>
+      <head n="1">98/285/EC: Commission Decision of 23 April 1998 amending Decision 95/539/EC setting up a Committee of experts on the transit of natural gas through grids (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 23 April 1998 amending Decision 95/539/EC setting up a Committee of experts on the transit of natural gas through grids (Text with EEA relevance) (98/285/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Communities,</p>
+      <p n="5">Whereas for reasons of continuity of the work of the Committee of experts on the transit of natural gas through grids set up by Commission Decision 95/539/EC (1), it is appropriate to delete the provision stipulated in the third paragraph of Article 6 ('Terms of office`);</p>
+      <p n="6">Whereas Decision 95/539/EC should be amended accordingly,</p>
+      <p n="7">HAS DECIDED AS FOLLOWS:</p>
+      <p n="8">Sole Article</p>
+      <p n="9">In Article 6 of Decision 95/539/EC, paragraph 3 is deleted.</p>
+      <p n="10">Done at Brussels, 23 April 1998.</p>
+      <p n="11">For the Commission</p>
+      <p n="12">Christos PAPOUTSIS</p>
+      <p n="13">Member of the Commission</p>
+      <p n="14">(1) OJ L 304, 16. 12. 1995, p. 57.</p>
+    </body>
+  </text>
+</TEI.2>

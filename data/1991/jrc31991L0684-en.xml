@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31991L0684-en" n="31991L0684" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31991L0684 English</title>
+        <title>Council Directive 91/684/EEC of 19 December 1991 amending Directive 89/437/EEC on hygiene and health problems affecting the production and the placing on the market of egg products</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991L0684:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991L0684:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31991L0684-en." lang="en">
+    <body>
+      <head n="1">Council Directive 91/684/EEC of 19 December 1991 amending Directive 89/437/EEC on hygiene and health problems affecting the production and the placing on the market of egg products</head>
+      <p n="2">COUNCIL DIRECTIVE</p>
+      <p n="3">of 19 December 1991</p>
+      <p n="4">amending Directive 89/437/EEC on hygiene and health problems affecting the production and the placing on the market of egg products</p>
+      <p n="5">(91/684/EEC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="8">Having regard to Council Directive 89/437/EEC of 20 June 1989 on hygiene and health problems affecting the production and the placing on the market of egg products (1), as amended by Directive 89/662/EEC (2), and in particular Article 10 thereof,</p>
+      <p n="9">Having regard to the proposal from the Commission,</p>
+      <p n="10">Whereas certain provisions of the Annex should be adapted to scientific and technological progress, in accordance with Article 10 of Directive 89/437/EEC, as regards testing for staphylococci in egg products and the storage temperatures for certain egg products,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The Annex to Directive 89/437/EEC is hereby amended as follows:</p>
+      <p n="14">1. The third indent of point 1 (b) of Chapter VI shall be replaced by the following:</p>
+      <p n="15">'- Staphylococcus aureus: absence in 1g of egg product`.</p>
+      <p n="16">2.</p>
+      <p n="17">The fourth indent of point 3 of Chapter IX shall be deleted.</p>
+      <p n="18">Article 2</p>
+      <p n="19">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 31 December 1991. They shall forthwith inform the Commission thereof.</p>
+      <p n="20">When Member States adopt the measures referred to in the first subparagraph, they shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication.</p>
+      <p n="21">The procedures for making such reference shall be determined by the Member States.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Directive is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 19 December 1991.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">P. DANKERT</p>
+      <p n="28">(1) OJ N° L 212, 22. 7. 1989, p. 87.</p>
+      <p n="29">(2) OJ N° L 395, 30. 12. 1989; p. 13.</p>
+    </body>
+  </text>
+</TEI.2>

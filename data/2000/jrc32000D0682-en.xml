@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32000D0682-en" n="32000D0682" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0682 English</title>
+        <title>2000/682/EC, ECSC, Euratom: Council and Commission Decision of 12 October 2000 on the conclusion of the Protocol to the Partnership and Cooperation Agreement establishing a partnership between the European Communities and their Member States, of the one part, and the Russian Federation, of the other part</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0682:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0682:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">5327</classCode>
+        <classCode scheme="eurovoc">5344</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">5876</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0682-en." lang="en">
+    <body>
+      <head n="1">2000/682/EC, ECSC, Euratom: Council and Commission Decision of 12 October 2000 on the conclusion of the Protocol to the Partnership and Cooperation Agreement establishing a partnership between the European Communities and their Member States, of the one part, and the Russian Federation, of the other part</head>
+      <p n="2">Council and Commission Decision</p>
+      <p n="3">of 12 October 2000</p>
+      <p n="4">on the conclusion of the Protocol to the Partnership and Cooperation Agreement establishing a partnership between the European Communities and their Member States, of the one part, and the Russian Federation, of the other part</p>
+      <p n="5">(2000/682/EC, ECSC, Euratom)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community, and in particular Article 44(1), the last sentence of Article 47(2), Articles 55, 57(2), 71, 80(2), 93, 94, 133 and 308, in conjunction with the second sentence of Article 300(2) and the second subparagraph of Article 300(3) thereof,</p>
+      <p n="9">Having regard to the Treaty establishing the European Coal and Steel Community, and in particular Article 95 thereof,</p>
+      <p n="10">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular the second subparagraph of Article 101 thereof,</p>
+      <p n="11">Having regard to the proposal from the Commission,</p>
+      <p n="12">Having regard to the assent of the European Parliament(1),</p>
+      <p n="13">Having regard to the Council's approval pursuant to Article 101 of the Treaty establishing the European Atomic Energy Community,</p>
+      <p n="14">After consulting the ECSC Consultative Committee and with the assent of the Council,</p>
+      <p n="15">Whereas:</p>
+      <p n="16">(1) The Partnership and Cooperation Agreement establishing a partnership between the European Communities and their Member States, of the one part, and the Russian Federation of the other part(2), which entered into force on 1 December 1997, contributes to achieving the objectives of the European Communities in so far as it is an essential part of the strategy of the European Communities and their Member States with regard to the Russian Federation.</p>
+      <p n="17">(2) Since the Partnership and Cooperation Agreement was signed before the enlargement of the European Union to include Austria, Finland and Sweden, an enlargement Protocol was signed on 21 May 1997 to include the three new Member States in that Agreement.</p>
+      <p n="18">(3) An agreement was reached between the parties on the provisional application of the enlargement Protocol by the European Communities, the Russian Federation and all Member States except Austria, Sweden, Finland, Denmark and Portugal.</p>
+      <p n="19">(4) All the signatories to the Protocol have now ratified it,</p>
+      <p n="20">HAVE DECIDED AS FOLLOWS:</p>
+      <p n="21">Article 1</p>
+      <p n="22">The Protocol to the Partnership and Cooperation Agreement establishing a partnership between the European Communities and their Member States, of the one part, and the Russian Federation, of the other part, is hereby approved on behalf of the European Community, the European Coal and Steel Community and the European Atomic Energy Community.</p>
+      <p n="23">The text of the Protocol is annexed to this Decision.</p>
+      <p n="24">Article 2</p>
+      <p n="25">The President of the Council shall, on behalf of the European Community, give the notification provided for in Article 4 of the Protocol. The President of the Commission shall give such notification on behalf of the European Coal and Steel Community and the European Atomic Energy Community.</p>
+      <p n="26">Done at Brussels, 12 October 2000.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">H. Védrine</p>
+      <p n="30">For the Commission</p>
+      <p n="31">The President</p>
+      <p n="32">R. Prodi</p>
+      <p n="33">(1) OJ C 339, 18.12.1995, p. 45.</p>
+      <p n="34">(2) OJ L 327, 28.11.1997, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

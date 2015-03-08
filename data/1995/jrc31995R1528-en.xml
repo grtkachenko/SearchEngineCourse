@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31995R1528-en" n="31995R1528" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1528 English</title>
+        <title>Council Regulation (EC) No 1528/95 of 29 June 1995 amending Regulation (EEC) No 1766/92 on the common organization of the market in cereals</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1528:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1528:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1136</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2676</classCode>
+        <classCode scheme="eurovoc">4078</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1528-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1528/95 of 29 June 1995 amending Regulation (EEC) No 1766/92 on the common organization of the market in cereals</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1528/95 of 29 June 1995 amending Regulation (EEC) No 1766/92 on the common organization of the market in cereals</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Articles 42 and 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas the introduction, in the Uruguay Round of multilateral trade negotiations, of a fixed import duty in place of a variable levy has removed the significance of the target price; whereas, it should be abolished;</p>
+      <p n="9">Whereas Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the market in cereals (4), should be amended,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">In Article 3 of Regulation (EEC) No 1766/92 paragraph 1 shall be deleted.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="15">It shall apply from the 1995/96 marketing year.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Luxembourg, 29 June 1995.</p>
+      <p n="18">For the Council The President J. BARROT</p>
+      <p n="19">(1) OJ No C 99, 21. 7. 1995, p. 1.</p>
+      <p n="20">(2) OJ No C 151, 19. 6. 1995.</p>
+      <p n="21">(3) OJ No C 155, 21. 6. 1995, p. 21.</p>
+      <p n="22">(4) OJ No L 181, 1. 7. 1992, p. 21. Regulation as last amended by Regulation (EC) No 3290/94 (OJ No L 349, 31. 12. 1994, p. 105).</p>
+    </body>
+  </text>
+</TEI.2>

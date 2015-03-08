@@ -1,0 +1,101 @@
+<TEI.2 id="jrc32003R0323-en" n="32003R0323" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0323 English</title>
+        <title>Commission Regulation (EC) No 323/2003 of 20 February 2003 amending Regulation (EC) No 896/2001 as regards the list of national authorities competent to apply the arrangements for importing bananas into the Community</title>
+      </titleStmt>
+      <extent>64 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0323:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0323:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1120</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">6268</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0323-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 323/2003 of 20 February 2003 amending Regulation (EC) No 896/2001 as regards the list of national authorities competent to apply the arrangements for importing bananas into the Community</head>
+      <p n="2">Commission Regulation (EC) No 323/2003</p>
+      <p n="3">of 20 February 2003</p>
+      <p n="4">amending Regulation (EC) No 896/2001 as regards the list of national authorities competent to apply the arrangements for importing bananas into the Community</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 404/93 of 13 February 1993 on the common organisation of the market in bananas(1), as last amended by Regulation (EC) No 2587/2001(2),</p>
+      <p n="8">Having regard to Commission Regulation (EC) No 896/2001 of 7 May 2001 laying down detailed rules for applying Council Regulation (EC) No 404/93 as regards the arrangements for importing bananas into the Community(3), as last amended by Regulation (EC) No 349/2002(4), and in particular Article 5(4) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The Annex to Regulation (EC) No 896/2001 lists the authorities competent in the Member States to apply the import arrangements. Following a notification from a Member State, the list of authorities must be amended.</p>
+      <p n="11">(2) Regulation (EC) No 896/2001 has therefore to be amended,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Annex to Regulation (EC) No 896/2001 is replaced by the text in the Annex hereto.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 20 February 2003.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 47, 25.2.1993, p. 1.</p>
+      <p n="23">(2) OJ L 345, 29.12.2001, p. 13.</p>
+      <p n="24">(3) OJ L 126, 8.5.2001, p. 6.</p>
+      <p n="25">(4) OJ L 55, 26.2.2002, p. 17.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">"ANNEX</p>
+      <p n="28">The competent authorities of the Member States:</p>
+      <p n="29">Belgium</p>
+      <p n="30">Bureau d'intervention et de restitution belge/Belgisch Interventie- en Restitutiebureau Rue de Trèves, 82/Trierstraat 82 B - 1040 Bruxelles/Brussel</p>
+      <p n="31">Denmark</p>
+      <p n="32">Ministeriet for Fødevarer, Landbrug og Fiskeri Direktoratet for Fødevareerhverv; Eksportstøttekontoret Kampmannsgade 3 DK - 1780 København V</p>
+      <p n="33">Germany</p>
+      <p n="34">Bundesanstalt für Landwirtschaft und Ernährung Referat 322 Adickesallee, 40 D - 60322 Frankfurt am Main</p>
+      <p n="35">Greece</p>
+      <p n="36">OPEKEPE (ex-GEDIDAGEP) Directorate Fruits and Vegetables, Wine and Industrial Products 241, Acharnon Street GR - 10446 Athens</p>
+      <p n="37">Spain</p>
+      <p n="38">Ministerio de Economía Secretaría General de Comercio Exterior Paseo de la Castellana, 162 E - 28046 Madrid</p>
+      <p n="39">France</p>
+      <p n="40">Office de développement de l'économie agricole des départements d'outre-mer (ODEADOM) 31, quai de Grenelle F - 75738 Paris Cedex 15</p>
+      <p n="41">Ireland</p>
+      <p n="42">Department of Agriculture and Rural Development Horticulture Division Agriculture House (7W)</p>
+      <p n="43">Kildare Street</p>
+      <p n="44">Dublin 2 Ireland</p>
+      <p n="45">Italy</p>
+      <p n="46">Ministero delle Attività Produttive DG Politica Commerciale e Gestione Regime Scambi - Div. II Viale Boston 25 I - 00144 Roma</p>
+      <p n="47">Luxembourg</p>
+      <p n="48">Ministère de l'agriculture/Administration des services techniques de l'agriculture Service de l'horticulture 16, route d'Esch Boîte postale 1904 L - 1014 Luxembourg</p>
+      <p n="49">Netherlands</p>
+      <p n="50">Produktschap Tuinbouw Louis Pasteurlaan 6 Postbus 280 2700 AG Zoetermeer Netherlands</p>
+      <p n="51">Austria</p>
+      <p n="52">Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft Abteilung III 10 - Obst, Gemüse, Sonderkulturen Stubenring 1 A - 1012 Wien</p>
+      <p n="53">Portugal</p>
+      <p n="54">Ministério das Finanças Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo</p>
+      <p n="55">Direcção de Serviços de Licenciamento</p>
+      <p n="56">Rua Terreiro do Trigo - Edifício da Alfândega P - 1149-060 Lisboa</p>
+      <p n="57">Finland</p>
+      <p n="58">Maa- ja Metsätalousministeriö PL 30 FIN - 00023 Valtioneuvosto, Helsinki</p>
+      <p n="59">Sweden</p>
+      <p n="60">Jordbruksverket Vallgatan 8-10 S - 551 82 Jönköping</p>
+      <p n="61">United Kingdom</p>
+      <p n="62">Rural Payments Agency External Trade Division Lancaster House</p>
+      <p n="63">Hampshire Court</p>
+      <p n="64">Newcastle Upon Tyne NE4 7YH United Kingdom"</p>
+    </body>
+  </text>
+</TEI.2>

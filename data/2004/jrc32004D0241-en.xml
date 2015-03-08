@@ -1,0 +1,74 @@
+<TEI.2 id="jrc32004D0241-en" n="32004D0241" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0241 English</title>
+        <title>2004/241/EC: Commission Decision of 5 March 2004 amending Decisions 92/260/EEC and 93/197/EEC as regards the temporary admission and imports into the European Union of registered horses from South Africa (Text with EEA relevance) (notified under document number C(2004) 668)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0241:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0241:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">321</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+        <classCode scheme="eurovoc">97</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0241-en." lang="en">
+    <body>
+      <head n="1">2004/241/EC: Commission Decision of 5 March 2004 amending Decisions 92/260/EEC and 93/197/EEC as regards the temporary admission and imports into the European Union of registered horses from South Africa (Text with EEA relevance) (notified under document number C(2004) 668)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 5 March 2004</p>
+      <p n="4">amending Decisions 92/260/EEC and 93/197/EEC as regards the temporary admission and imports into the European Union of registered horses from South Africa</p>
+      <p n="5">(notified under document number C(2004) 668)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/241/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/426/EEC of 26 June 1990 on animal health conditions governing the movement and import from third countries of equidae(1), and in particular Article 15(a) and Article 16 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 92/260/EEC(2) lays down the animal health conditions and veterinary certification for temporary admission of registered horses. It sets out a specimen animal health certificate for the temporary admission of registered horses into the European Union from South Africa.</p>
+      <p n="13">(2) Commission Decision 93/197/EEC(3) lays down the animal health conditions and veterinary certification for imports of registered equidae and equidae for breeding and production. It sets out a specimen animal health certificate for imports into the European Union of registered horses from South Africa.</p>
+      <p n="14">(3) Commission Decision 97/10/EC(4) applies to the regionalisation of South Africa in respect of the temporary admission and imports into the Community of registered horses. The additional guarantees laid down in Decision 97/10/EC have recently been amended by Commission Decision 2004/117/EC.</p>
+      <p n="15">(4) In the interests of consistency the requirements for information on the African horse sickness vaccination status of the certified horses set out in the specimen animal health certificates provided for in Decisions 92/260/EEC and 93/197/EEC should be aligned to the additional guarantees provided for in Decision 97/10/EC.</p>
+      <p n="16">(5) Decisions 92/260/EEC and 93/197/EEC should therefore be amended accordingly.</p>
+      <p n="17">(6) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">Point (g) in Section III of the specimen animal health certificate F set out in Annex II to Decision 92/260/EEC is replaced by the following:</p>
+      <p n="21">"</p>
+      <p n="22">&gt;PIC FILE= "L_2004074EN.002001.TIF"&gt;"</p>
+      <p n="23">Article 2</p>
+      <p n="24">Point (g) in Section III of the specimen health certificate F set out in Annex II to Decision 93/197/EEC is replaced by the following:</p>
+      <p n="25">"</p>
+      <p n="26">&gt;PIC FILE= "L_2004074EN.002002.TIF"&gt;"</p>
+      <p n="27">Article 3</p>
+      <p n="28">This Decision is addressed to the Member States.</p>
+      <p n="29">Done at Brussels, 5 March 2004.</p>
+      <p n="30">For the Commission</p>
+      <p n="31">David Byrne</p>
+      <p n="32">Member of the Commission</p>
+      <p n="33">(1) OJ L 224, 18.8.1990, p. 42. Directive as last amended by Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1).</p>
+      <p n="34">(2) OJ L 130, 15.5.1992, p. 67. Decision as last amended by Decision 2004/117/EC (OJ L 36, 7.2.2004, p. 20).</p>
+      <p n="35">(3) OJ L 86, 6.4.1993, p. 16. Decision as last amended by Decision 2004/117/EC.</p>
+      <p n="36">(4) OJ L 3, 7.1.1997, p. 9. Decision as last amended by Decision 2004/117/EC.</p>
+    </body>
+  </text>
+</TEI.2>

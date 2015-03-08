@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32002R1228-en" n="32002R1228" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1228 English</title>
+        <title>Commission Regulation (EC) No 1228/2002 of 8 July 2002 concerning the issue of import licences for certain preserved mushrooms and repealing Regulation (EC) No 1218/2002</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1228:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1228:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2025</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">4083</classCode>
+        <classCode scheme="eurovoc">5969</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1228-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1228/2002 of 8 July 2002 concerning the issue of import licences for certain preserved mushrooms and repealing Regulation (EC) No 1218/2002</head>
+      <p n="2">Commission Regulation (EC) No 1228/2002</p>
+      <p n="3">of 8 July 2002</p>
+      <p n="4">concerning the issue of import licences for certain preserved mushrooms and repealing Regulation (EC) No 1218/2002</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Commission Regulation (EC) No 2125/95 of 6 September 1995 opening and providing for the administration of Community tariff quotas for preserved mushrooms(1), as last amended by Regulation (EC) No 453/2002(2), and in particular Article 6(4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 6(4) of Regulation (EC) No 2125/95 lays down that where the quantities applied for exceed the quantity available, the Commission must set a flat-rate percentage reduction and suspend the issue of licences in respect of subsequent applications.</p>
+      <p n="10">(2) The quantities applied for on 1 and 2 July 2002 under Article 4(1)(a) of Regulation (EC) No 2125/95 for products originating in China exceed the available quantities. The extent to which licences may be issued and how long the issue of licences for all subsequent applications should be suspended should therefore be determined.</p>
+      <p n="11">(3) A check has shown that clear errors affecting all the operators concerned have been made in Regulation (EC) No 1218/2002 concerning the issue of import licences for certain preserved mushrooms. This Regulation must therefore be repealed and replaced with effect from the date of its entry into force,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Import licences applied for on 1 and 2 July 2002 under Article 4(1)(a) of Regulation (EC) No 2125/95 for products originating in China and submitted to the Commission on 3 July 2002 shall be issued, bearing the wording laid down in Article 11(1) of that Regulation, for 19,23 % of the quantity applied for.</p>
+      <p n="15">Article 2</p>
+      <p n="16">The issue of import licences for products originating in China applied for under Regulation (EC) No 2125/95 shall be suspended in respect of applications lodged between 3 July and 31 December 2002 inclusive.</p>
+      <p n="17">Article 3</p>
+      <p n="18">Regulation (EC) No 1218/2002 is hereby repealed.</p>
+      <p n="19">Article 4</p>
+      <p n="20">This Regulation shall enter into force on 9 July 2002.</p>
+      <p n="21">It shall apply from 6 July 2002.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 8 July 2002.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">J. M. Silva Rodríguez</p>
+      <p n="26">Agriculture Director-General</p>
+      <p n="27">(1) OJ L 212, 7.9.1995, p. 16.</p>
+      <p n="28">(2) OJ L 72, 14.3.2002, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

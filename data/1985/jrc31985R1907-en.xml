@@ -1,0 +1,52 @@
+<TEI.2 id="jrc31985R1907-en" n="31985R1907" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31985R1907 English</title>
+        <title>Commission Regulation (EEC) No 1907/85 of 10 July 1985 on the list of vine varieties and regions providing imported wine for the making of sparkling wines in the Community</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985R1907:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985R1907:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31985R1907-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 1907/85 of 10 July 1985 on the list of vine varieties and regions providing imported wine for the making of sparkling wines in the Community</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 1907/85</p>
+      <p n="4">of 10 July 1985</p>
+      <p n="5">on the list of vine varieties and regions providing imported wine for the making of sparkling wines in the Community</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN</p>
+      <p n="7">COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Regulation (EEC) No 337/79 of 5 February 1979 on the common organization of the market in wine (1), as last amended by Regulation (EEC) No 798/85 (2), and in particular Article 48a thereof,</p>
+      <p n="10">Whereas Article 48a of Regulation (EEC) No 337/79 provides that the wine imported into the Community which may be used in the making of sparkling wines must derive from vine varieties and wine-growing regions enabling it to be distinguished from wine produced in the Community; whereas a list of such varieties and regions should therefore be drawn up;</p>
+      <p n="11">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The wine imported into into the Community which may be used in making sparkling wines must derive from:</p>
+      <p n="15">(a) the Feteasca neagra variety cultivated in the southern and eastern Sub-Carpathian foothills in Romania;</p>
+      <p n="16">(b) the Feteasca and Feteasca regala varieties cultivated in the southern and eastern Sub-Carpathian foothills and Transylvania in Romania.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 10 July 1985.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Frans ANDRIESSEN</p>
+      <p n="23">Vice-President</p>
+      <p n="24">(1) OJ No L 54, 5. 3. 1979, p. 1.</p>
+      <p n="25">(2) OJ No L 89, 29. 3. 1985, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

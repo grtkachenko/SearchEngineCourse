@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32001R2292-en" n="32001R2292" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R2292 English</title>
+        <title>Council Regulation (EC) No 2292/2001 of 20 November 2001 amending Regulation (EEC) No 2262/84 laying down special measures in respect of olive oil</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2292:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2292:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1264</classCode>
+        <classCode scheme="eurovoc">179</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R2292-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2292/2001 of 20 November 2001 amending Regulation (EEC) No 2262/84 laying down special measures in respect of olive oil</head>
+      <p n="2">Council Regulation (EC) No 2292/2001</p>
+      <p n="3">of 20 November 2001</p>
+      <p n="4">amending Regulation (EEC) No 2262/84 laying down special measures in respect of olive oil</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) In accordance with the last subparagraph of Article 1(5) of Council Regulation (EEC) No 2262/84(3), the Council, on a proposal from the Commission, is to decide before 1 January 2001 on any financing of the expenditure of the agencies after the 2001/02 marketing year.</p>
+      <p n="11">(2) By means of Council Regulation (EC) No 1513/2001 of 23 July 2001 amending Regulations No 136/66/EEC and (EC) No 1638/98 as regards the extension of the period of validity of the aid scheme and the quality strategy for olive oil(4), the Council has decided to introduce a new aid scheme from 1 November 2004. The current aid scheme remains in force up to and including the 2003/04 marketing year. Under these circumstances, provision should be made to continue the Community contribution to the expenditure incurred by the agencies carrying out certain checks in connection with the olive oil production aid scheme up to and including the 2003/04 marketing year. Provision should also be made to continue this contribution to the expenditure incurred by the agencies during the 2004/05 marketing year in order to allow them to carry out the necessary complementary verifications relating to the previous marketing year and also to guarantee the continuity of the system of controls provided for under Article 1(2) of Regulation (EEC) No 2262/84. In 2003, the Commission should consider the need to continue the Community contribution to the expenditure of the agencies after the 2004/05 marketing year in the context of the proceedings planned for the reform of the common market organisation in the sector in question.</p>
+      <p n="12">(3) In view of amendments to the text of the Treaty establishing the European Community, it is necessary to replace the reference to Article 43(2) of the Treaty,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EEC) No 2262/84 is amended as follows:</p>
+      <p n="16">1. in the penultimate subparagraph of Article 1(5), "three years" shall be replaced by "six years";</p>
+      <p n="17">2. the last subparagraph of Article 1(5) shall be replaced by the following: "In 2003 the Commission shall examine the need to maintain the Community contribution in the agencies' expenditure and, where appropriate, shall present a proposal to the Council in the context of the decision on the common organisation of the market provided for in Article 3(2) of Regulation (EC) No 1638/98. In accordance with the procedure provided for in Article 37(2) of the Treaty, the Council shall decide on any financing of the expenditure in question in the context of the said decision."</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 20 November 2001.</p>
+      <p n="22">For the Council</p>
+      <p n="23">The President</p>
+      <p n="24">A. Neyts-Uyttebroeck</p>
+      <p n="25">(1) OJ C 213 E, 31.7.2001, p. 1.</p>
+      <p n="26">(2) Opinion delivered on 23 October 2001 (not yet published in the Official Journal).</p>
+      <p n="27">(3) OJ L 208, 3.8.1984, p. 11. Regulation as last amended by Regulation (EC) No 150/1999 (OJ L 18, 23.1.1999, p. 7).</p>
+      <p n="28">(4) OJ L 201, 26.7.2001, p. 4.</p>
+    </body>
+  </text>
+</TEI.2>

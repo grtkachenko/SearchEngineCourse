@@ -1,0 +1,109 @@
+<TEI.2 id="jrc32003D0654-en" n="32003D0654" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0654 English</title>
+        <title>2003/654/EC: Commission Decision of 8 September 2003 laying down a code and standard rules for the transcription into a machine-readable form of the data relating to intermediate statistical surveys of areas under vines (Text with EEA relevance) (notified under document number C(2003) 3191)</title>
+      </titleStmt>
+      <extent>74 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0654:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0654:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4257</classCode>
+        <classCode scheme="eurovoc">4337</classCode>
+        <classCode scheme="eurovoc">4488</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0654-en." lang="en">
+    <body>
+      <head n="1">2003/654/EC: Commission Decision of 8 September 2003 laying down a code and standard rules for the transcription into a machine-readable form of the data relating to intermediate statistical surveys of areas under vines (Text with EEA relevance) (notified under document number C(2003) 3191)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 8 September 2003</p>
+      <p n="4">laying down a code and standard rules for the transcription into a machine-readable form of the data relating to intermediate statistical surveys of areas under vines</p>
+      <p n="5">(notified under document number C(2003) 3191)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/654/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Regulation (EEC) No 357/79 of 5 February 1979 on statistical surveys of areas under vines(1), as last amended by Regulation (EC) No 2329/98(2), and in particular Article 5(6) and Article 6(7) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 80/765/EEC of 8 July 1980 laying down a code and standard rules for the transcription into a machine-readable form of the data relating to intermediate statistical surveys of areas under vines(3) has been substantially amended several times(4); in the interests of clarity and rationality the said Decision should be codified.</p>
+      <p n="13">(2) Regulation (EEC) No 357/79 requires the Member States to submit to the Commission the information collected in the framework of intermediate surveys of areas under vines in the form of a schedule of tables broken down by geographical units which shall be fixed in accordance with the procedure laid down in Article 8 of the said Regulation, i.e. by a Commission Decision following an opinion from the Standing Committee on Agricultural Statistics.</p>
+      <p n="14">(3) Member States which process their survey results electronically are required to submit these results to the Commission in a machine-readable form. The codes for transmitting survey results are also determined in accordance with the procedure laid down in Article 8 of Regulation 357/79 (EEC).</p>
+      <p n="15">(4) For practical reasons the Member States should forward the data referred to in Article 6 of Regulation (EEC) No 357/79 also in machine-readable form.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee for Agricultural Statistics,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The machine-readable form for submission of the data provided for in Articles 5 and 6 of Regulation (EEC) No 357/79 by those Member States which process their survey results electronically shall be magnetic tape.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The code and rules governing the transcription onto magnetic tape of the data provided for in Articles 5 and 6 of Regulation (EEC) No 357/79 shall be as set out in Annexes I and II hereto.</p>
+      <p n="22">Article 3</p>
+      <p n="23">Decision 80/765/EEC is repealed.</p>
+      <p n="24">The references made to the said repealed Decision shall be construed as references to this Decision and shall be read in accordance with the correlation table in Annex IV.</p>
+      <p n="25">Article 4</p>
+      <p n="26">This Decision is addressed to the Member States.</p>
+      <p n="27">Done at Brussels, 8 September 2003.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">Pedro Solbes Mira</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 54, 5.3.1979, p. 124.</p>
+      <p n="32">(2) OJ L 291, 30.10.1998, p. 2.</p>
+      <p n="33">(3) OJ L 213, 16.8.1980, p. 34.</p>
+      <p n="34">(4) See Annex III.</p>
+      <p n="35">ANNEX I</p>
+      <p n="36">MAGNETIC TAPE SPECIFICATION FOR THE DELIVERY TO EUROSTAT OF THE DATA ON THE BASIC SURVEYS OF THE AREAS UNDER VINES</p>
+      <p n="37">(Council Regulation (EEC) No 357/79)</p>
+      <p n="38">GENERAL PROVISIONS</p>
+      <p n="39">I. The information recorded in accordance with the characteristics referred to in Articles 5 and 6 of Regulation (EEC) No 357/79 is to be delivered to Eurostat in the following form by those Member States which process their information electronically:</p>
+      <p n="40">1. The information shall refer to summaries of holdings if the survey is exhaustive (or to raised summaries of holdings if the survey is based on random sampling) and not to individual holdings.</p>
+      <p n="41">2. The information shall be delivered on nine-track magnetic tape/1600 BPI (630 bytes/cm) standard label.</p>
+      <p n="42">3. The information shall be of fixed record length consisting of 145 positions, and shall be recorded in EBCDIC.</p>
+      <p n="43">4. The first two fields of each record shall contain information to permit identification. The first field (three positions) identifies the geographical unit, the codification of which is given in the detailed provisions and in Annex II.</p>
+      <p n="44">5. The second field (two positions) identifies the table in the schedule of tables provided for in Regulation (EEC) No 357/79. The codification of these tables is given in the detailed provisions.</p>
+      <p n="45">6. The number and size of the fields in each record vary according to the table. If all the 145 positions are not filled in the case of certain tables, the record shall be completed by blanks.</p>
+      <p n="46">7. The information shall be entered right justified in each field and noughts added to fill in. If any optional information is not supplied the record shall be completed by blanks in the corresponding bytes.</p>
+      <p n="47">8. Surface area data shall be given in areas, production data in hl.</p>
+      <p n="48">9. Member States shall have a choice of blocking factor and shall inform Eurostat which blocking factor has been used.</p>
+      <p n="49">10. The record shall be sorted according to geographical unit, table and changes in that order.</p>
+      <p n="50">11. Standard administrative procedures governing the transmission of the magnetic tape files to Eurostat shall be established jointly by Eurostat and the Member States.</p>
+      <p n="51">II. The following pages give for each table and for the various items of a record:</p>
+      <p n="52">(a) the codes which are to be used;</p>
+      <p n="53">(b) the maximum number of digits required for the item in question;</p>
+      <p n="54">(c) the consecutive numbering of the positions for the various items.</p>
+      <p n="55">DETAILED PROVISIONS</p>
+      <p n="56">The first two fields of each record contain the following information:</p>
+      <p n="57">&gt;TABLE&gt;</p>
+      <p n="58">Table 5((Specification: see Annex I to Commission Decision 79/491/EEC.))</p>
+      <p n="59">&gt;TABLE&gt;</p>
+      <p n="60">Table 6</p>
+      <p n="61">&gt;TABLE&gt;</p>
+      <p n="62">Table 7</p>
+      <p n="63">&gt;TABLE&gt;</p>
+      <p n="64">Table 8</p>
+      <p n="65">&gt;TABLE&gt;</p>
+      <p n="66">ANNEX II</p>
+      <p n="67">GEOGRAPHICAL UNITS LAID DOWN BY ARTICLE 4(3) OF COUNCIL REGULATION (EEC) No 357/79</p>
+      <p n="68">&gt;TABLE&gt;</p>
+      <p n="69">ANNEX III</p>
+      <p n="70">Repealed Directive with its successive amendments</p>
+      <p n="71">&gt;TABLE&gt;</p>
+      <p n="72">ANNEX IV</p>
+      <p n="73">CORRELATION TABLE</p>
+      <p n="74">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

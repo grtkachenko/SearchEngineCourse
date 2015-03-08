@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31982L0828-en" n="31982L0828" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31982L0828 English</title>
+        <title>Council Directive 82/828/EEC of 3 December 1982 amending, for the third time (PCT), Directive 76/769/EEC on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparations</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31982L0828:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31982L0828:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31982L0828-en." lang="en">
+    <body>
+      <head n="1">Council Directive 82/828/EEC of 3 December 1982 amending, for the third time (PCT), Directive 76/769/EEC on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparations</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL DIRECTIVE</p>
+      <p n="4">of 3 December 1982</p>
+      <p n="5">amending, for the third time (PCT), Directive 76/769/EEC on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparations</p>
+      <p n="6">(82/828/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN</p>
+      <p n="8">COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 thereof,</p>
+      <p n="10">Having regard to the proposal from the Commission (1),</p>
+      <p n="11">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="12">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="13">Whereas in some Member States polychlorinated terphenyls (PCT) are used in the form of a thermoplastic compound for holding metals and other materials in precision machining and forming work; whereas these polychlorinated terphenyls are used above all for machining and forming in the manufacture or maintenance of gas turbine components, but also in nuclear reactors, in the construction of ship and aircraft frames and in the manufacture of semi-conductor devices and high-precision lenses;</p>
+      <p n="14">Whereas Council Directive 76/769/EEC (4), as last amended by Directive 82/806/EEC (5), does not authorize such use;</p>
+      <p n="15">Whereas polychlorinated terphenyls, the disposal of which is regulated by Council Directive 76/403/EEC (6), are of fundamental importance for the uses for which they are intended; whereas temporary authorization of their use in premises notified for this purpose to the competent authorities appears to be justified; whereas, therefore, the Annex to Directive 76/769/EEC should be amended accordingly;</p>
+      <p n="16">Whereas the amendment introduced by this Directive does not prejudge the necessary review of all exceptions to restrictions on the marketing and use of polychlorinated byphenyls (PCB) and polychlorinated terphenyls (PCT) which is aimed at by Directive 76/769/EEC with a view to gradually reducing the use of these substances; whereas review proposals should be examined at the earliest opportunity,</p>
+      <p n="17">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The following point shall be added in the right-hand column in relation to entry No 1 of the Annex to Directive 76/769/EEC:</p>
+      <p n="20">'7. Until 31 December 1984 Member States may allow the use, in their territory, of re-usable thermoplastic tooling compounds containing not more than 50 % of PCT for the support, retention and stabilizing of parts in order to facilitate their precision machining and forming in the manufacture or maintenance of aircraft and marine gas turbines, nuclear reactors, semi-conductor devices, ship and aircraft frames, spars and stringers, high-precision</p>
+      <p n="21">and optical lenses, tool gauges and trial models for injection-moulding tools in premises notified for this purpose to the competent authorities where records of the use of this substance are kept available for these authorities.'</p>
+      <p n="22">Article 2</p>
+      <p n="23">Member States shall, where appropriate, take the measures necessary to comply with this Directive. They shall forthwith inform the Commission thereof.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Directive is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 3 December 1982.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">Ch. CHRISTENSEN</p>
+      <p n="30">(1) OJ No C 31, 8. 2. 1982, p. 9.</p>
+      <p n="31">(2) OJ No C 175, 14. 7. 1980, p. 88.</p>
+      <p n="32">(3) OJ No C 182, 21. 7. 1980, p. 11.</p>
+      <p n="33">(4) OJ No L 262, 27. 9. 1976, p. 201.</p>
+      <p n="34">(5) OJ No L 339, 1. 12. 1982, p. 55.</p>
+      <p n="35">(6) OJ No L 108, 26. 4. 1976, p. 41.</p>
+    </body>
+  </text>
+</TEI.2>

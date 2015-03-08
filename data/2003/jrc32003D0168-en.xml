@@ -1,0 +1,78 @@
+<TEI.2 id="jrc32003D0168-en" n="32003D0168" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0168 English</title>
+        <title>2003/168/EC: Commission Decision of 11 March 2003 establishing the European Community Energy Star Board</title>
+      </titleStmt>
+      <extent>43 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0168:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0168:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">142</classCode>
+        <classCode scheme="eurovoc">5315</classCode>
+        <classCode scheme="eurovoc">5646</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0168-en." lang="en">
+    <body>
+      <head n="1">2003/168/EC: Commission Decision of 11 March 2003 establishing the European Community Energy Star Board</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 11 March 2003</p>
+      <p n="4">establishing the European Community Energy Star Board</p>
+      <p n="5">(2003/168/EC)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof,</p>
+      <p n="8">Having regard to Regulation (EC) No 2422/2001 of the European Parliament and of the Council of 6 November 2001 on a Community energy efficiency labelling programme for office equipment(1), and in particular Article 8(1) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) In compliance with Regulation (EC) No 2422/2001, the Commission should establish a European Community Energy Star Board (hereinafter referred to as the "ECESB") to carry out the EC Energy Star programme, as defined in the Agreement between the Government of the United States of America and the European Community on the coordination of energy efficient labelling programmes for office equipment(2).</p>
+      <p n="11">(2) The ECESB should consist of national representatives, as defined by Regulation (EC) No 2422/2001 and of the interested parties listed on an indicative basis in that Regulation,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The European Community Energy Star Board "ECESB" is hereby established.</p>
+      <p n="15">Article 2</p>
+      <p n="16">1. The Chair of the ECESB shall be held by the Commission, represented by the Directorate General for Energy and Transport.</p>
+      <p n="17">2. The indicative list of the national representatives referred to in Article 9 of Regulation (EC) No 2422/2001 shall be as set out in Part A of the Annex.</p>
+      <p n="18">Where more than one national representative is designated, the "coordinator" shall be the representative empowered by the Member State as indicated in the Annex.</p>
+      <p n="19">3. The indicative list of the interested Parties referred to in Article 8(3) of Regulation (EC) No 2422/2001 shall be as set out in Part B of the Annex.</p>
+      <p n="20">4. In order to ensure a balanced participation of all relevant interested Parties in respect to each office equipment product group, the Chair may adapt the membership of interested Parties as appropriate.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Decision shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="23">Done at Brussels, 11 March 2003.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Loyola De Palacio</p>
+      <p n="26">Vice-President</p>
+      <p n="27">(1) OJ L 332, 15.12.2001, p. 1.</p>
+      <p n="28">(2) OJ L 172, 26.6.2001, p. 3.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">INDICATIVE LIST OF MEMBERS OF THE ECESB</p>
+      <p n="31">PART A</p>
+      <p n="32">National representatives</p>
+      <p n="33">&gt;TABLE&gt;</p>
+      <p n="34">PART B</p>
+      <p n="35">Interested parties</p>
+      <p n="36">Manufacturers</p>
+      <p n="37">The European Information, Communications and Consumer Electronics Technology Industry Association (EICTA)</p>
+      <p n="38">Retailers</p>
+      <p n="39">Eurocommerce</p>
+      <p n="40">Environmental protection groups</p>
+      <p n="41">WWF</p>
+      <p n="42">Consumer organisations</p>
+      <p n="43">The European Consumers Organisation (BEUC)</p>
+    </body>
+  </text>
+</TEI.2>

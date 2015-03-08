@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32000D0016-en" n="32000D0016" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0016 English</title>
+        <title>2000/16/EC: Council Decision of 2 December 1999 concluding the Agreement for scientific and technological cooperation between the European Community and the Government of the People's Republic of China</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0016:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0016:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">225</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">5969</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0016-en." lang="en">
+    <body>
+      <head n="1">2000/16/EC: Council Decision of 2 December 1999 concluding the Agreement for scientific and technological cooperation between the European Community and the Government of the People's Republic of China</head>
+      <p n="2">COUNCIL DECISION</p>
+      <p n="3">of 2 December 1999</p>
+      <p n="4">concluding the Agreement for scientific and technological cooperation between the European Community and the Government of the People's Republic of China</p>
+      <p n="5">(2000/16/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 170, in conjunction with Article 300(2), first sentence, and Article 300(3), first subparagraph, thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Community and the People's Republic of China are pursuing specific research and technological development (RTD) programmes in areas of common interest;</p>
+      <p n="12">(2) On the basis of past experience, both sides have expressed a desire to establish a deeper and broader framework for the conduct of collaboration in science and technology;</p>
+      <p n="13">(3) Cooperation in the field of science and technology forms part of the global cooperation between the Community and the People's Republic of China;</p>
+      <p n="14">(4) By its Decision of 22 June 1998, the Council authorised the Commission to negotiate an Agreement for scientific and technological cooperation between the Community and the Government of the People's Republic of China ("Agreement");</p>
+      <p n="15">(5) By its Decision of 22 December 1998, the Council decided that the Agreement be signed on behalf of the Community;</p>
+      <p n="16">(6) The Agreement was signed on 22 December 1998;</p>
+      <p n="17">(7) The Agreement should be approved,</p>
+      <p n="18">HAS DECIDED AS FOLLOWS:</p>
+      <p n="19">Article 1</p>
+      <p n="20">The Agreement for scientific and technological cooperation between the European Community and the Government of the People's Republic of China is hereby approved on behalf of the Community.</p>
+      <p n="21">The text of the Agreement is attached to this Decision.</p>
+      <p n="22">Article 2</p>
+      <p n="23">Pursuant to Article 11 of the Agreement, the President of the Council shall give the notification that the procedures necessary for the entry into force of the Agreement have been completed on the part of the Community(3).</p>
+      <p n="24">Done at Brussels, 2 December 1999.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">E. TUOMIOJA</p>
+      <p n="28">(1) OJ C 247 E, 31.8.1999, p. 32.</p>
+      <p n="29">(2) Opinion delivered on 3 November 1999 (not yet published in the Official Journal).</p>
+      <p n="30">(3) The date of entry into force of the Agreement will be published in the Official Journal of the European Communities by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

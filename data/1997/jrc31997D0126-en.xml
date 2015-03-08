@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31997D0126-en" n="31997D0126" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0126 English</title>
+        <title>97/126/EC: Council Decision of 6 December 1996 concerning the conclusion of an agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0126:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0126:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1294</classCode>
+        <classCode scheme="eurovoc">336</classCode>
+        <classCode scheme="eurovoc">4014</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0126-en." lang="en">
+    <body>
+      <head n="1">97/126/EC: Council Decision of 6 December 1996 concerning the conclusion of an agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part</head>
+      <p n="2">COUNCIL DECISION of 6 December 1996 concerning the conclusion of an agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part (97/126/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community and in particular Article 113 in conjunction with the first sentence of Article 228 (2) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas the Commission has negotiated on behalf of the Community a new agreement, replacing the Agreement between the European Economic Community of the one part and the Government of Denmark and the Home Government of the Faroe Islands of the other part (1), signed on 2 December 1991, as amended by the Agreement (2) in the form of an Exchange of Letters between the European Community of the one part and the Government of Denmark and the Home Government of the Faroe Islands of the other part, signed on 8 March 1995,</p>
+      <p n="7">Whereas this new Agreement should be approved,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Agreement between the European Community, of the one part, and the Government of Denmark and the Home Government of the Faroe Islands, of the other part, is hereby approved on behalf of the Community.</p>
+      <p n="11">The text of the Agreement is attached to this Decision.</p>
+      <p n="12">Article 2</p>
+      <p n="13">The President of the Council is hereby authorized to designate the persons empowered to sign the Agreement in order to bind the Community and to give the notification provided for in Article 40 of the Agreement.</p>
+      <p n="14">Done at Brussels, 6 December 1996.</p>
+      <p n="15">For the Council</p>
+      <p n="16">The President</p>
+      <p n="17">D. SPRING</p>
+      <p n="18">(1) OJ No L 371, 31. 12. 1991, p. 1.</p>
+      <p n="19">(2) OJ No L 54, 10. 3. 1995, p. 25.</p>
+    </body>
+  </text>
+</TEI.2>

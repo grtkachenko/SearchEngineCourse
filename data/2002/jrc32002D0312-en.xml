@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32002D0312-en" n="32002D0312" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0312 English</title>
+        <title>2002/312/EC: Council Decision of 15 April 2002 concerning the acceptance, on behalf of the European Community, of the Agreement establishing the Terms of Reference of the International Jute Study Group, 2001</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0312:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0312:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1554</classCode>
+        <classCode scheme="eurovoc">209</classCode>
+        <classCode scheme="eurovoc">3461</classCode>
+        <classCode scheme="eurovoc">5873</classCode>
+        <classCode scheme="eurovoc">6016</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0312-en." lang="en">
+    <body>
+      <head n="1">2002/312/EC: Council Decision of 15 April 2002 concerning the acceptance, on behalf of the European Community, of the Agreement establishing the Terms of Reference of the International Jute Study Group, 2001</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 15 April 2002</p>
+      <p n="4">concerning the acceptance, on behalf of the European Community, of the Agreement establishing the Terms of Reference of the International Jute Study Group, 2001</p>
+      <p n="5">(2002/312/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof, in conjunction with the first sentence of Article 300(2) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) On 13 March 2001 the negotiating conference set up by the United Nations Conference on Trade and Development (Unctad) adopted the Agreement establishing the Terms of Reference of the International Jute Study Group, 2001 (hereinafter referred to as the Agreement).</p>
+      <p n="11">(2) This new Agreement has been negotiated to replace the International Jute Agreement, 1989, which went into liquidation on 11 October 2001.</p>
+      <p n="12">(3) The Community is a member of the International Jute Agreement, 1989, as extended, and it is therefore in its interest to approve the Agreement, which replaces it,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Agreement establishing the Terms of Reference of the International Jute Study Group, 2001 is hereby approved on behalf of the European Community.</p>
+      <p n="16">The text of the Agreement is attached to this Decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is hereby authorised to designate the person(s) empowered to deposit the instrument of acceptance on behalf of the Community(1).</p>
+      <p n="19">Done at Luxembourg, 15 April 2002.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">J. Piqué I Camps</p>
+      <p n="23">(1) The date of entry into force of the Agreement will be published in the Official Journal of the European Communities by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

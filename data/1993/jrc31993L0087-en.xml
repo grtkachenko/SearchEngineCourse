@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31993L0087-en" n="31993L0087" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993L0087 English</title>
+        <title>Commission Directive 93/87/EEC of 22 October 1993 amending Directive 90/377/EEC with regard to the survey locations and regions in the Federal Republic of Germany</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993L0087:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993L0087:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993L0087-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 93/87/EEC of 22 October 1993 amending Directive 90/377/EEC with regard to the survey locations and regions in the Federal Republic of Germany</head>
+      <p n="2">COMMISSION DIRECTIVE 93/87/EEC of 22 October 1993 amending Directive 90/377/EEC with regard to the survey locations and regions in the Federal Republic of Germany</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 90/377/EEC of 29 June 1990 concerning a Community procedure to improve the transparency of gas and electricity prices charged to industrial end-users (1),</p>
+      <p n="6">Having regard to Council Directive 90/653/EEC of 4 December 1990 laying down amendments for the purpose of implementing in Germany certain Community Directives relating to statistics on the carriage of goods and statistics on gas and electricity prices (2),</p>
+      <p n="7">Whereas Germany has defined the locations in the territory of the former German Democratic Republic in order to extend the breakdown by region and location for statistics on gas and electricity prices;</p>
+      <p n="8">Whereas the Advisory Committee established by Article 7 of Council Directive 90/377/EEC has been consulted on the measures laid down in the present Directive,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Annexes to Directive 90/377/EEC shall be amended in order to add the following locations and regions for the collection of gas and electricity prices in the Federal Republic of Germany:</p>
+      <p n="12">(a) in Annex I, point 11 - Federal Republic of Germany:</p>
+      <p n="13">- 'Dresden and Berlin';</p>
+      <p n="14">(b) in Annex II, point 2 - Federal Republic of Germany:</p>
+      <p n="15">- 'Erfurt, Leipzig and Rostock';</p>
+      <p n="16">(c) in Annex II, point 13 - Federal Republic of Germany:</p>
+      <p n="17">- 'East';</p>
+      <p n="18">(d) footnote 2 to Annex II, point 13 shall be replaced by the following:</p>
+      <p n="19">'The Laender will be divided into four zones, namely:</p>
+      <p n="20">- North/Central: Schleswig-Holstein, Hamburg, Bremen, Berlin, Lower Saxony, North Hessen,</p>
+      <p n="21">- West: North-Rhine-Westphalia, Rineland-Palatinate, South Hessen, Saarland,</p>
+      <p n="22">- South: Baden-Wurttemberg, Bavaria,</p>
+      <p n="23">- East: all the Laender not included in the other regions.'</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Directive is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 22 October 1993.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Henning CHRISTOPHERSEN</p>
+      <p n="29">Vice-President</p>
+      <p n="30">(1) OJ No L 185, 17. 7. 1990, p. 16.</p>
+      <p n="31">(2) OJ No L 353, 17. 12. 1990, p. 46.</p>
+    </body>
+  </text>
+</TEI.2>

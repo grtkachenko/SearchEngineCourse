@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31996D0262-en" n="31996D0262" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0262 English</title>
+        <title>96/262/EC: Commission Decision of 27 March 1996 amending Commission Decision 93/437/EEC laying down specific conditions for importing fishery products from Argentina (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0262:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0262:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2525</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">4829</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0262-en." lang="en">
+    <body>
+      <head n="1">96/262/EC: Commission Decision of 27 March 1996 amending Commission Decision 93/437/EEC laying down specific conditions for importing fishery products from Argentina (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 27 March 1996 amending Commission Decision 93/437/EEC laying down specific conditions for importing fishery products from Argentina (Text with EEA relevance) (96/262/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 91/493/EEC of 22 July 1991 (1), laying down the health conditions for the production and the placing on the market of fishery products, as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 11 (5) thereof,</p>
+      <p n="6">Whereas the list of establishments and factory ships approved by Argentina for importing fishery products into the Community has been drawn up in Commission Decision 93/437/EEC (2), as last amended by Decision 96/31/EC (3); whereas the list may be amended following the communication of a new list by the competent authority in Argentina;</p>
+      <p n="7">Whereas the competent authority in Argentina has communicated a new list adding 12 establishments and 23 factory ships, deleting 6 establishments and 13 factory ships;</p>
+      <p n="8">Whereas it is necessary to amend the list of approved establishments and factory ships accordingly;</p>
+      <p n="9">Whereas the measures provided for in this Decision have been drawn up in accordance with the procedure laid down by Commission Decision 90/13/EEC (4),</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Annex B of Decision 93/437/EEC is replaced by the Annex to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 27 March 1996.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 268, 24. 9. 1991, p. 15.</p>
+      <p n="20">(2) OJ No L 202, 12. 8. 1993, p. 42.</p>
+      <p n="21">(3) OJ No L 9, 12. 1. 1996, p. 6.</p>
+      <p n="22">(4) OJ No L 8, 11. 1. 1990, p. 70.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">'ANNEX B</p>
+      <p n="25">&gt;TABLE&gt;</p>
+      <p n="26">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

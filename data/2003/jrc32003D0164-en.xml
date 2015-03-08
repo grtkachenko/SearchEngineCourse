@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32003D0164-en" n="32003D0164" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0164 English</title>
+        <title>2003/164/EC: Commission Decision of 10 March 2003 amending Decision 1999/466/EC establishing the officially brucellosis-free status of bovine herds of certain Member States or regions of Member States (Text with EEA relevance) (notified under document number C(2003) 731)</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0164:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0164:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">2560</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5047</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">5962</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0164-en." lang="en">
+    <body>
+      <head n="1">2003/164/EC: Commission Decision of 10 March 2003 amending Decision 1999/466/EC establishing the officially brucellosis-free status of bovine herds of certain Member States or regions of Member States (Text with EEA relevance) (notified under document number C(2003) 731)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 10 March 2003</p>
+      <p n="4">amending Decision 1999/466/EC establishing the officially brucellosis-free status of bovine herds of certain Member States or regions of Member States</p>
+      <p n="5">(notified under document number C(2003) 731)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/164/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 64/432/EEC of 26 June 1964 on animal health problems affecting intra-Community trade in bovine animals and swine(1), as last amended by Commission Regulation (EC) No 1226/2002(2), and in particular Annex A (II)(7) thereto,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Italy has submitted to the Commission documentation demonstrating compliance with all of the conditions provided for in Annex A (II)(7) to Directive 64/432/EEC, and in particular showing that, calculated at 31 December of each year, more than 99,8 % of the bovine herds of the Region of Emilia-Romagna have been officially free from bovine brucellosis for at least the past five consecutive years and that each bovine animal is identified in accordance with Community legislation.</p>
+      <p n="13">(2) This Region should consequently be declared officially brucellosis-free in accordance with Directive 64/432/EEC.</p>
+      <p n="14">(3) Commission Decision 1999/466/EC(3), as last amended by Decision 2002/588/EC(4), should therefore be amended accordingly.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Annex II to Decision 1999/466/EC is replaced by the text in the Annex to this Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 10 March 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">David Byrne</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ 121, 29.7.1964, p. 1977/64.</p>
+      <p n="26">(2) OJ L 179, 9.7.2002, p. 13.</p>
+      <p n="27">(3) OJ L 181, 16.7.1999, p. 34.</p>
+      <p n="28">(4) OJ L 187, 16.7.2002, p. 52.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">"ANNEX II</p>
+      <p n="31">REGIONS OF MEMBER STATES DECLARED OFFICIALLY FREE OF BOVINE BRUCELLOSIS</p>
+      <p n="32">Great Britain (United Kingdom)</p>
+      <p n="33">Province Bolzano (Italy)</p>
+      <p n="34">Region Emilia Romagna (Italy)</p>
+      <p n="35">Islands of Pico, Graciosa, Flores and Corvo (Autonomous Region of Azores, Portugal)."</p>
+    </body>
+  </text>
+</TEI.2>

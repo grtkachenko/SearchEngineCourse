@@ -1,0 +1,146 @@
+<TEI.2 id="jrc32001L0022-en" n="32001L0022" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001L0022 English</title>
+        <title>Commission Directive 2001/22/EC of 8 March 2001 laying down the sampling methods and the methods of analysis for the official control of the levels of lead, cadmium, mercury and 3-MCPD in foodstuffs (Text with EEA relevance.)</title>
+      </titleStmt>
+      <extent>109 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001L0022:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001L0022:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1442</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">3660</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001L0022-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 2001/22/EC of 8 March 2001 laying down the sampling methods and the methods of analysis for the official control of the levels of lead, cadmium, mercury and 3-MCPD in foodstuffs (Text with EEA relevance.)</head>
+      <p n="2">Commission Directive 2001/22/EC</p>
+      <p n="3">of 8 March 2001</p>
+      <p n="4">laying down the sampling methods and the methods of analysis for the official control of the levels of lead, cadmium, mercury and 3-MCPD in foodstuffs</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 85/591/EEC of 20 December 1985 concerning the introduction of Community methods of sampling and analysis for the monitoring of foodstuffs intended for human consumption(1), and in particular Article 1 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Council Regulation (EEC) No 315/93 of 8 February 1993 laying down Community procedures for contaminants in food(2) provides that maximum levels must be set for certain contaminants in foodstuffs in order to protect public health.</p>
+      <p n="11">(2) Commission Regulation (EC) No 466/2001 of 8 March 2001 setting maximum levels for certain contaminants in foodstuffs(3) establishes, besides others, maximum levels for lead, cadmium, mercury and 3-monochloropropane-1,2-diol (3-MCPD) in foodstuffs and makes reference to the measures laying down the sampling and analysis methods to be used.</p>
+      <p n="12">(3) Council Directive 89/397/EEC of 14 June 1989 on the official control of foodstuffs(4) lays down the general principles for the performance of control of foodstuffs. Council Directive 93/99/EEC of 29 October 1993 on the subject of additional measures concerning the official control of foodstuffs(5) introduces a system of quality standards for laboratories entrusted by the Member States with the official control of foodstuffs.</p>
+      <p n="13">(4) Sampling plays a crucial role in obtaining representative results for the determination of the levels of the contaminants which may be heterogeneously distributed in a lot.</p>
+      <p n="14">(5) Directive 85/591/EEC has fixed general criteria for methods of sampling and analysis but in certain cases more specific criteria become necessary in order to ensure that laboratories, in charge of the control, use methods of analysis with comparable levels of performance.</p>
+      <p n="15">(6) The provisions for the sampling and methods of analysis have been drawn up on the basis of present knowledge and they may be adapted to take account of advances in scientific and technological knowledge.</p>
+      <p n="16">(7) The measures provided for in this Directive are in accordance with the opinion of the Standing Committee for Foodstuffs,</p>
+      <p n="17">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The Member States shall take all measures necessary to ensure that the sampling for the official control of the levels of lead, cadmium, mercury and 3-MCPD in foodstuffs is carried out in accordance with the methods described in Annex I to this Directive.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The Member States shall take all measures necessary to ensure that sample preparation and methods of analyses used for the official control of the levels of lead, cadmium, mercury and 3-MCPD in foodstuffs comply with the criteria described in Annex II to this Directive.</p>
+      <p n="22">Article 3</p>
+      <p n="23">The Member States shall, not later than 5 April 2003, bring into force the laws, regulations or administrative provisions necessary to comply with the provisions of this Directive. They shall forthwith notify the Commission thereof.</p>
+      <p n="24">When Member States adopt these provisions, the provisions shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="25">Article 4</p>
+      <p n="26">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="27">This Directive is addressed to the Member States.</p>
+      <p n="28">Done at Brussels, 8 March 2001.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">David Byrne</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ L 372, 31.12.1985, p. 50.</p>
+      <p n="33">(2) OJ L 37, 13.2.1993, p. 1.</p>
+      <p n="34">(3) See page 1 of this Official Journal.</p>
+      <p n="35">(4) OJ L 186, 30.6.1989, p. 23.</p>
+      <p n="36">(5) OJ L 290, 24.11.1993, p. 14.</p>
+      <p n="37">ANNEX I</p>
+      <p n="38">METHODS OF SAMPLING FOR OFFICAL CONTROL OF THE LEVELS OF LEAD, CADMIUM, MERCURY AND 3-MCPD IN CERTAIN FOODSTUFFS</p>
+      <p n="39">1. PURPOSE AND SCOPE</p>
+      <p n="40">Samples intended for the official control of the levels of lead, cadmium, mercury and 3-MCPD contents in foodstuffs shall be taken according to the methods described below. Aggregate samples thus obtained shall be considered as representative of the lots or sublots from which they are taken. Compliance with maximum levels laid down in Regulation (EC) No 466/2001 shall be established on the basis of the levels determined in the laboratory samples.</p>
+      <p n="41">2. DEFINITIONS</p>
+      <p n="42">&gt;TABLE&gt;</p>
+      <p n="43">3. GENERAL PROVISIONS</p>
+      <p n="44">3.1. Personnel</p>
+      <p n="45">Sampling shall be performed by an authorised qualified person as specified by the Member States.</p>
+      <p n="46">3.2. Material to be sampled</p>
+      <p n="47">Each lot which is to be examined must be sampled separately.</p>
+      <p n="48">3.3. Precautions to be taken</p>
+      <p n="49">In the course of sampling and preparation of laboratory samples precautions must be taken to avoid any changes which would affect the lead, cadmium, mercury and 3-MCPD contents, adversely affect the analytical determination or make the aggregate samples unrepresentative.</p>
+      <p n="50">3.4. Incremental samples</p>
+      <p n="51">As far as possible incremental samples shall be taken at various places distributed throughout the lot or sublot. Departure from this procedure must be recorded in the record provided for under 3.8.</p>
+      <p n="52">3.5. Preparation of the aggregate sample</p>
+      <p n="53">The aggregate sample is made up by uniting all incremental samples. It shall be at least 1 kg unless not practical, e.g. when a single package has been sampled.</p>
+      <p n="54">3.6. Subdivision of aggregate sample in laboratory samples for enforcement, defence and referee purposes</p>
+      <p n="55">The laboratory samples for enforcement, trade (defence) and referee purposes shall be taken from the homogenised aggregate sample unless this conflicts with Member States' regulations on sampling. The size of the laboratory samples for enforcement shall be sufficient to allow at least for duplicate analyses.</p>
+      <p n="56">3.7. Packaging and transmission of aggregate and laboratory samples</p>
+      <p n="57">Each aggregate and laboratory sample shall be placed in a clean, inert container offering adequate protection from contamination, from loss of analytes by adsorption to the internal wall of the container and against damage in transit. All necessary precautions shall be taken to avoid change of composition of the aggregate and laboratory samples which might arise during transportation or storage.</p>
+      <p n="58">3.8. Sealing and labelling of aggregate and laboratory samples</p>
+      <p n="59">Each sample taken for official use shall be sealed at the place of sampling and identified following the Member States' regulations. A record must be kept of each sampling, permitting each lot to be identified unambiguously and giving the date and place of sampling together with any additional information likely to be of assistance to the analyst.</p>
+      <p n="60">4. SAMPLING PLANS</p>
+      <p n="61">Sampling should ideally take place at the point where the commodity enters the food chain and a discrete lot becomes identifiable. The sampling method applied shall ensure that the aggregate sample is representative for the lot that is to be controlled.</p>
+      <p n="62">4.1. Number of incremental samples</p>
+      <p n="63">In the case of liquid products for which a homogeneous distribution of the contaminant in question can be assumed within a given lot, it is sufficient to take one incremental sample per lot which forms the aggregate sample. Reference to the lot number shall be given. Liquid products containing hydrolysed vegetable protein (HVP) or liquid soya sauce shall be shaken well, or homogenised by other suitable means, before the incremental sample is taken.</p>
+      <p n="64">For other products, the minimum number of incremental samples to be taken from the lot shall be as given in Table 1. The incremental samples shall be of similar weight. Departure from this procedure must be recorded in the record provided for under 3.8.</p>
+      <p n="65">Table 1: Minimum number of incremental samples to be taken from the lot</p>
+      <p n="66">&gt;TABLE&gt;</p>
+      <p n="67">If the lot consists of individual packages, then the number of packages which shall be taken to form the aggregate sample is given in Table 2.</p>
+      <p n="68">Table 2: Number of packages (incremental samples) which shall be taken to form the aggregate sample if the lot consists of individual packages</p>
+      <p n="69">&gt;TABLE&gt;</p>
+      <p n="70">5. COMPLIANCE OF THE LOT OR SUBLOT WITH THE SPECIFICATION</p>
+      <p n="71">The control laboratory shall analyse the laboratory sample for enforcement at least in two independent analyses, and calculate the mean of the results. The lot is accepted if the mean conforms to the respective maximum level as laid down in Regulation (EC) No 466/2001. It is rejected if the mean exceeds the respective maximum level.</p>
+      <p n="72">ANNEX II</p>
+      <p n="73">SAMPLE PREPARATION AND CRITERIA FOR METHODS OF ANALYSIS USED IN OFFICAL CONTROL OF THE LEVELS OF LEAD, CADMIUM, MERCURY AND 3-MCPD IN CERTAIN FOODSTUFFS</p>
+      <p n="74">1. INTRODUCTION</p>
+      <p n="75">The basic requirement is to obtain a representative and homogeneous laboratory sample without introducing secondary contamination.</p>
+      <p n="76">2. SPECIFIC SAMPLE PREPARATION PROCEDURES FOR LEAD, CADMIUM AND MERCURY</p>
+      <p n="77">There are many satisfactory specific sample preparation procedures which may be used for the products under consideration. Those described in the draft CEN Standard "Foodstuffs - Determination of trace elements - Performance criteria and general consideration" have been found to be satisfactory (a) but others may be equally valid.</p>
+      <p n="78">The following points must be noted for any procedure used:</p>
+      <p n="79">- bivalve molluscs, crustaceans and small fish: where these are normally eaten whole, the viscera are to be included in the material to be analysed,</p>
+      <p n="80">- vegetables: only the edible portion of is to be tested, with note to be taken of the requirements of the Regulation (EC) No 466/2001.</p>
+      <p n="81">3. METHOD OF ANALYSIS TO BE USED BY THE LABORATORY AND LABORATORY CONTROL REQUIREMENTS</p>
+      <p n="82">3.1. Definitions</p>
+      <p n="83">&gt;TABLE&gt;</p>
+      <p n="84">3.2. General requirements</p>
+      <p n="85">Methods of analysis used for food control purposes must comply whenever possible with the provisions of paragraphs 1 and 2 of the Annex to Directive 85/591/EEC.</p>
+      <p n="86">For the analysis of lead in wine, Commission Regulation (EEC) No 2676/90(1) determining Community methods for the analysis of wines lays down the method to be used in Chapter 35 of its Annex.</p>
+      <p n="87">3.3. Specific requirements</p>
+      <p n="88">3.3.1. Lead, cadmium and mercury analyses</p>
+      <p n="89">Specific methods for the determination of lead, cadmium and mercury contents are not prescribed. Laboratories shall use a validated method that fulfils the performance criteria indicated in Table 3. Where possible, the validation shall include a certified reference material in the collaborative trial test materials.</p>
+      <p n="90">Table 3: Performance criteria of methods for lead, cadmium and mercury analyses</p>
+      <p n="91">&gt;TABLE&gt;</p>
+      <p n="92">3.3.2. 3-MCPD analysis</p>
+      <p n="93">Specific methods for the determination of 3-MCPD contents are not prescribed. Laboratories shall use a validated method that fulfils the performance criteria indicated in Table 4. Where possible, the validation shall include a certified reference material in the collaborative trial test materials. A specific method has been validated by collaborative trial and has been shown to meet the requirements of Table 4 (c).</p>
+      <p n="94">Table 4: Performance criteria of methods for 3-MCPD analysis</p>
+      <p n="95">&gt;TABLE&gt;</p>
+      <p n="96">3.4. Estimation of the analytical trueness and recovery calculations</p>
+      <p n="97">Wherever possible the trueness of the analysis shall be estimated by including suitable certified reference materials in the analytical run.</p>
+      <p n="98">The "Harmonised Guidelines for the Use of Recovery Information in Analytical Measurement" (d) developed under the auspices of IUPAC/ISO/AOAC shall be taken into account.</p>
+      <p n="99">The analytical result shall be reported corrected or uncorrected. The manner of reporting and the level of recovery must be reported.</p>
+      <p n="100">3.5. Laboratory quality standards</p>
+      <p n="101">Laboratories must comply with Directive 93/99/EEC.</p>
+      <p n="102">3.6. Expression of results</p>
+      <p n="103">The results shall be expressed in the same units as the maximum levels laid down in Regulation (EC) No 466/2001.</p>
+      <p n="104">REFERENCES</p>
+      <p n="105">(a) Draft Standard prEN 13804, "Foodstuffs - Determination of Trace Elements - Performance Criteria and General Considerations", CEN, Rue de Stassart 36, B-1050 Brussels.</p>
+      <p n="106">(b) W Horwitz, "Evaluation of Analytical Methods for Regulation of Foods and Drugs", Anal. Chem., 1982, No 54, 67A-76A</p>
+      <p n="107">(c) Method of Analysis to determine 3-Monochloropropane-1,2-Diol in Food and Food Ingredients using Mass Spectrometric Detection, submitted to CEN TC 275 and AOAC International (also available as "Report of the Scientific Cooperation task 3.2.6: Provision of validated methods to support the Scientific Committee on Food's recommendations regarding 3-MCPD in hydrolysed protein and other foods").</p>
+      <p n="108">(d) ISO/AOAC/IUPAC Harmonised Guidelines for the Use of Recovery Information in Analytical Measurement. Edited Michael Thompson, Steven L R Ellison, Ales Fajgelj, Paul Willetts and Roger Wood, Pure Appl. Chem., 1999, No 71, 337-348</p>
+      <p n="109">(1) OJ L 272, 3.10.1990, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

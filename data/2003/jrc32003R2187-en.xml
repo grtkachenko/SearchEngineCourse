@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R2187-en" n="32003R2187" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2187 English</title>
+        <title>Commission Regulation (EC) No 2187/2003 of 15 December 2003 amending Regulation (EC) No 639/2003 as regards the first place of unloading in the third country of final destination in the case of transport by road</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2187:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2187:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">4152</classCode>
+        <classCode scheme="eurovoc">4533</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5462</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2187-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2187/2003 of 15 December 2003 amending Regulation (EC) No 639/2003 as regards the first place of unloading in the third country of final destination in the case of transport by road</head>
+      <p n="2">Commission Regulation (EC) No 2187/2003</p>
+      <p n="3">of 15 December 2003</p>
+      <p n="4">amending Regulation (EC) No 639/2003 as regards the first place of unloading in the third country of final destination in the case of transport by road</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1254/1999 of 17 May 1999 on the common organisation of the market in beef and veal(1), and in particular Article 33(12) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) According to Article 3(1)(b) of Commission Regulation (EC) No 639/2003 of 9 April 2003 laying down detailed rules pursuant to Council Regulation (EC) No 1254/1999 as regards requirements for the granting of export refunds related to the welfare of live bovine animals during transport(2), the animals are subject to a check by a veterinarian at the place of the first unloading in the third country of final destination.</p>
+      <p n="10">(2) Where the animals are brought into the country of final destination by road, they may be unloaded before the end of the journey in order to comply with the provisions on journey times and rest periods of Council Directive 91/628/EEC of 19 November 1991 on the protection of animals during transport(3). However, the check referred to in Article 3(1)(b) should take place at the place where the animals are finally unloaded from the road vehicle, excluding a place where the journey is interrupted to rest, feed or water the animals.</p>
+      <p n="11">(3) It is also appropriate to give the possibility to the exporter to apply this provision from the date of application of Regulation (EC) No 639/2003.</p>
+      <p n="12">(4) Regulation (EC) No 639/2003 should therefore be amended accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">In Article 1 of Regulation (EC) No 639/2003, the following subparagraph is added:"For the purposes of this Regulation, in the case of transport by road, the 'first place of unloading in the third country of final destination' shall mean the place at which the first animal is finally unloaded from a road vehicle, thus excluding a place where the journey is interrupted to rest, feed or water the animals."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="19">It shall apply to export declarations accepted from 1 July 2004. However, it shall apply from the date of its entry into force to export declarations accepted from 1 October 2003, at the request of the exporter.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 15 December 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 160, 26.6.1999, p. 21. Regulation as last amended by Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1).</p>
+      <p n="26">(2) OJ L 93, 10.4.2003, p. 10.</p>
+      <p n="27">(3) OJ L 340, 11.12.1991, p. 17. Directive as last amended by Regulation (EC) No 806/2003.</p>
+    </body>
+  </text>
+</TEI.2>

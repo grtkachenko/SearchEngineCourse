@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32000D0442-en" n="32000D0442" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0442 English</title>
+        <title>2000/442/EC: Commission Decision of 11 July 2000 amending for the second time Decisions 1999/466/EC and 1999/467/EC establishing respectively the officially brucellosis-free and tuberculosis-free status of bovine herds of certain Member States or regions of Member States (notified under document number C(2000) 1943) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0442:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0442:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2560</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5962</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0442-en." lang="en">
+    <body>
+      <head n="1">2000/442/EC: Commission Decision of 11 July 2000 amending for the second time Decisions 1999/466/EC and 1999/467/EC establishing respectively the officially brucellosis-free and tuberculosis-free status of bovine herds of certain Member States or regions of Member States (notified under document number C(2000) 1943) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 11 July 2000</p>
+      <p n="4">amending for the second time Decisions 1999/466/EC and 1999/467/EC establishing respectively the officially brucellosis-free and tuberculosis-free status of bovine herds of certain Member States or regions of Member States</p>
+      <p n="5">(notified under document number C(2000) 1943)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/442/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 64/432/EEC of 26 June 1964 on health problems affecting intra-Community trade in bovine animals and swine(1), as last amended by Directive 2000/15/EC(2), and in particular Annex AI(4) and AII(7) thereto,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 1999/466/EC of 15 July 1999 establishing the officially brucellosis-free status of bovine herds of certain Member States or regions of Member States and repealing Decision 97/175/EC(3), as amended by Decision 2000/69/EC(4) granted this status to certain Member States and regions thereof until 30 June 2000.</p>
+      <p n="13">(2) Commission Decision 1999/467/EC of 15 July 1999 establishing the officially tuberculosis-free status of bovine herds of certain Member States or regions of Member States and repealing Decision 97/76/EC(5), as amended by Decision 2000/69/EC, granted this status to certain Member States and regions thereof until 30 June 2000.</p>
+      <p n="14">(3) The temporary limitations of the officially-free status with regard to bovine brucellosis foreseen in the above Decisions was introduced due to incoherence of dates in different pieces of legislation relating to the system of identification of bovine animals.</p>
+      <p n="15">(4) Pending the coming into force of a modification of Annex AI(4)(b) and AII(7)(b) to Directive 64/432/EEC, it is necessary to prolong the temporary approval of the status of the bovine herds of the regions mentioned in Annexes II to Decisions 1999/466/EC and 1999/467/EC as officially free of bovine brucellosis and tuberculosis respectively.</p>
+      <p n="16">(5) Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">1. The words "until 30 June 2000" in the title of Annex II to Decision 1999/466/EC are replaced by the words "until 31 October 2000".</p>
+      <p n="20">2. The words "until 30 June 2000" in the title of Annex II to Decision 1999/467/EC are replaced by the words "until 31 October 2000".</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 11 July 2000.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ 121, 29.7.1964, p. 1977/64.</p>
+      <p n="28">(2) OJ L 105, 3.5.2000, p. 34.</p>
+      <p n="29">(3) OJ L 181, 16.7.1999, p. 34.</p>
+      <p n="30">(4) OJ L 23, 28.1.2000, p. 76.</p>
+      <p n="31">(5) OJ L 181, 16.7.1999, p. 36.</p>
+    </body>
+  </text>
+</TEI.2>

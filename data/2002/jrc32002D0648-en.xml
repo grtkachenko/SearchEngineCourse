@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32002D0648-en" n="32002D0648" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0648 English</title>
+        <title>Council Decision of 25 June 2002 concerning the conclusion of the Agreement for scientific and technological cooperation between the European Community and the Government of the Republic of India (2002/648/EC)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0648:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0648:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1338</classCode>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">2901</classCode>
+        <classCode scheme="eurovoc">4415</classCode>
+        <classCode scheme="eurovoc">5237</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0648-en." lang="en">
+    <body>
+      <head n="1">Council Decision of 25 June 2002 concerning the conclusion of the Agreement for scientific and technological cooperation between the European Community and the Government of the Republic of India (2002/648/EC)</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 25 June 2002</p>
+      <p n="4">concerning the conclusion of the Agreement for scientific and technological cooperation between the European Community and the Government of the Republic of India</p>
+      <p n="5">(2002/648/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 170, in conjunction with the first sentence of the first subparagraph of Article 300(2) and the first subparagraph of Article 300(3) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) A Cooperation Agreement between the European Economic Community and the Republic of India on Partnership and Development was signed on 20 December 1993(3).</p>
+      <p n="12">(2) The European Community and the Republic of India are pursuing specific RTD programmes in areas of common interest.</p>
+      <p n="13">(3) On the basis of past experience, both sides have expressed a desire to establish a deeper and broader framework for the conduct of collaboration in science and technology.</p>
+      <p n="14">(4) This cooperation agreement in the field of science and technology forms part of the global cooperation between the European Community and the Republic of India.</p>
+      <p n="15">(5) By its Decision of 12 February 2001, the Council authorised the Commission to negotiate an agreement for scientific and technological cooperation between the European Community and the Republic of India.</p>
+      <p n="16">(6) By its Decision of 15 November 2001, the Council decided that the Agreement be signed on behalf of the European Community.</p>
+      <p n="17">(7) The Agreement was signed on 23 November 2001.</p>
+      <p n="18">(8) The Agreement should be approved,</p>
+      <p n="19">HAS DECIDED AS FOLLOWS:</p>
+      <p n="20">Article 1</p>
+      <p n="21">The Agreement for scientific and technological cooperation between the European Community and the Government of the Republic of India is hereby approved on behalf of the Community.</p>
+      <p n="22">The text of the Agreement is attached to this Decision.</p>
+      <p n="23">Article 2</p>
+      <p n="24">Pursuant to Article 11 of the Agreement, the President of the Council shall notify the Republic of India that the procedures necessary for the entry into force of the Agreement have been completed on the part of the European Community.</p>
+      <p n="25">Done at Luxembourg, 25 June 2002.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">J. Matas I Palou</p>
+      <p n="29">(1) OJ C 304 E, 30.10.2001, p. 241.</p>
+      <p n="30">(2) Opinion delivered on 14 May 2002 (not yet published in the Official Journal).</p>
+      <p n="31">(3) OJ L 223, 27.8.1994, p. 23.</p>
+    </body>
+  </text>
+</TEI.2>

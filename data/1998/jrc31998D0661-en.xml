@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31998D0661-en" n="31998D0661" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0661 English</title>
+        <title>98/661/EC: Commission Decision of 16 November 1998 amending Commission Decision 93/467/EEC authorising Member States to provide for derogations from certain provisions of Council Directive 77/93/EEC, in respect of oak (Quercus L.) logs with bark attached, originating in Canada or the United States of America (notified under document number C(1998) 3503)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0661:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0661:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1595</classCode>
+        <classCode scheme="eurovoc">1763</classCode>
+        <classCode scheme="eurovoc">191</classCode>
+        <classCode scheme="eurovoc">2754</classCode>
+        <classCode scheme="eurovoc">5100</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0661-en." lang="en">
+    <body>
+      <head n="1">98/661/EC: Commission Decision of 16 November 1998 amending Commission Decision 93/467/EEC authorising Member States to provide for derogations from certain provisions of Council Directive 77/93/EEC, in respect of oak (Quercus L.) logs with bark attached, originating in Canada or the United States of America (notified under document number C(1998) 3503)</head>
+      <p n="2">COMMISSION DECISION of 16 November 1998 amending Commission Decision 93/467/EEC authorising Member States to provide for derogations from certain provisions of Council Directive 77/93/EEC, in respect of oak (Quercus L.) logs with bark attached, originating in Canada or the United States of America (notified under document number C(1998) 3503) (98/661/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 77/93/EEC of 21 December 1976 on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community (1), as last amended by Commission Directive 98/2/EC (2), and in particular Article 14(1) thereof,</p>
+      <p n="6">Having regard to the requests made by Belgium, Denmark, Germany, Greece, Spain, France, Italy, Luxembourg and Portugal,</p>
+      <p n="7">Whereas, pursuant to the provisions of Directive 77/93/EEC, oak (Quercus L.) logs with bark attached, originating in North American countries, may, in principle, not be introduced into the Community because of the risk of introducing Ceratocystis fagacearum (Bretz) Hunt., the cause of oak wilt;</p>
+      <p n="8">Whereas Commission Decision 93/467/EEC (3), as last amended by Decision 96/724/EC (4) permits derogations for oak (Quercus L.) logs with bark attached originating in Canada and the United States of America provided that special conditions are satisfied;</p>
+      <p n="9">Whereas Decision 93/467/EEC as amended stipulated that the authorisation shall expire on 31 December 1998;</p>
+      <p n="10">Whereas, on the basis of the information available at present, the conditions for the derogation in the aforementioned Decision should be maintained;</p>
+      <p n="11">Whereas the circumstances justifying the authorisation still obtain;</p>
+      <p n="12">Whereas the authorisation should therefore be extended for a further limited period;</p>
+      <p n="13">Whereas the Commission will ensure that Canada and the United States of America make all technical information available which is necessary to continue to monitor the functioning of the protective measures required under the aforementioned technical conditions;</p>
+      <p n="14">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Plant Health,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Decision 93/467/EEC is hereby amended as follows:</p>
+      <p n="18">1. In Article 1(2)(b), '- Vigo` is added after '- Valencia`.</p>
+      <p n="19">2. In Article 3, '31 December 1998` is replaced by '31 December 2000`.</p>
+      <p n="20">3. In Annex I, part 7, '96/724/EC` is replaced by '98/661/EC`.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 16 November 1998.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz FISCHLER</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 26, 31. 1. 1977, p. 20.</p>
+      <p n="28">(2) OJ L 15, 21. 1. 1998, p. 34.</p>
+      <p n="29">(3) OJ L 217, 27. 8. 1993, p. 49.</p>
+      <p n="30">(4) OJ L 329, 19. 12. 1996, p. 47.</p>
+    </body>
+  </text>
+</TEI.2>

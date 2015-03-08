@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31997L0058-en" n="31997L0058" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997L0058 English</title>
+        <title>Commission Directive 97/58/EC of 26 September 1997 amending Council Directive 94/57/EC on common rules and standards for ship inspection and survey organizations and for the relevant activities of maritime administrations (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0058:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0058:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1448</classCode>
+        <classCode scheme="eurovoc">2141</classCode>
+        <classCode scheme="eurovoc">3117</classCode>
+        <classCode scheme="eurovoc">3647</classCode>
+        <classCode scheme="eurovoc">4033</classCode>
+        <classCode scheme="eurovoc">4827</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997L0058-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 97/58/EC of 26 September 1997 amending Council Directive 94/57/EC on common rules and standards for ship inspection and survey organizations and for the relevant activities of maritime administrations (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 97/58/EC of 26 September 1997 amending Council Directive 94/57/EC on common rules and standards for ship inspection and survey organizations and for the relevant activities of maritime administrations (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 94/57/EC of 22 November 1994 on common rules and standards for ship inspection and survey organizations and for the relevant activities of maritime administrations (1), and in particular Article 8 thereof,</p>
+      <p n="6">Whereas the Annex to Directive 94/57/EC is based on IMO Resolution A.739(18) on guidelines for the authorization of organizations acting on behalf of the administration;</p>
+      <p n="7">Whereas the IMO Assembly at its 19th session adopted Resolution A.789(19) on specifications on the survey and certification functions of recognized organizations acting on behalf of the administration;</p>
+      <p n="8">Whereas the specifications set out in IMO Resolution A.789(19) have to be considered as an attachment to the guidelines set out in IMO Resolution A.739(18);</p>
+      <p n="9">Whereas, for the purposes of Directive 94/57/EC, it is appropriate to incorporate the provisions of IMO Resolution A.789(19) in the Annex to the said Directive, in so far as applicable;</p>
+      <p n="10">Whereas the measures provided for in this Directive are in accordance with the opinion of the Committee referred to in Article 7 of Directive 94/57/EC,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">In the Annex to Directive 94/57/EC the following paragraph 7 is added to Section 'A. GENERAL`:</p>
+      <p n="14">'7. The organization should operate in accordance with the provisions set out in the Annex to IMO Resolution A.789(19) on specifications on the survey and certification functions of recognized organizations acting on behalf of the administration, in so far as they cover matters falling within the scope of this Directive.`</p>
+      <p n="15">Article 2</p>
+      <p n="16">1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive no later than 30 September 1998.</p>
+      <p n="17">2. When Member States adopt these provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by Member States.</p>
+      <p n="18">3. Member States shall immediately communicate to the Commission the text of all the provisions of domestic law which they adopt in the field governed by this Directive. The Commission shall inform the other Member States thereof.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Directive is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 26 September 1997.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Neil KINNOCK</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 319, 12. 12. 1994, p. 20.</p>
+    </body>
+  </text>
+</TEI.2>

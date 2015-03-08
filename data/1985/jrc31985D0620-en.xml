@@ -1,0 +1,38 @@
+<TEI.2 id="jrc31985D0620-en" n="31985D0620" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31985D0620 English</title>
+        <title>85/620/EEC: Commission Decision of 13 December 1985 amending, because of the accession of Spain and Portugal, Decision 79/491/EEC laying down a code and standard rules for the transcription into a machine-readable form of the data of the basic surveys of areas under vines</title>
+      </titleStmt>
+      <extent>11 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985D0620:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985D0620:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31985D0620-en." lang="en">
+    <body>
+      <head n="1">85/620/EEC: Commission Decision of 13 December 1985 amending, because of the accession of Spain and Portugal, Decision 79/491/EEC laying down a code and standard rules for the transcription into a machine-readable form of the data of the basic surveys of areas under vines</head>
+      <p n="2">COMMISSION DECISION of 13 December 1985 amending, because of the accession of Spain and Portugal, Decision 79/491/EEC laying down a code and standard rules for the transcription into a machine-readable form of the data of the basic surveys of areas under vines (85/620/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, Having regard to the Act of Accession of Spain and Portugal, and in particular Article 396 thereof, Having regard to Council Regulation (EEC) No 357/79 of 5 February 1979 on statistical surveys of areas under vines (1), as last amended by Council Regulation (EEC) No 3719/81 (2), and in particular Article 4 (4) thereof, Whereas the accession of Spain and Portugal, necessitates the amending of Commission Decision 79/491/EEC (3); Whereas pursuant to Article 2 (3) of the Treaty of Accession the institutions of the Community may adopt before accession the measures referred to in Article 396 of the Act, such measures entering into force subject to and on the date of the entry into force of that Treaty, HAS ADOPTED THIS DECISION:</p>
+      <p n="4">Article 1</p>
+      <p n="5">Subject to the entry into force of the Treaty of Accession of Spain and Portugal, the Annexes I, II and III to Decision 79/491/EEC are hereby replaced by the Annexes to this Decision.</p>
+      <p n="6">Article 2</p>
+      <p n="7">This Decision is addressed to the Member States.</p>
+      <p n="8">Done at Brussels, 13 December 1985. For the Commission Alois PFEIFFER Member of the Commission</p>
+      <p n="9">(1) OJ No L 54, 5. 3. 1979, p. 124.</p>
+      <p n="10">(2) OJ No L 373, 29. 12. 1981, p. 5.</p>
+      <p n="11">(3) OJ No L 129, 28. 5. 1979, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

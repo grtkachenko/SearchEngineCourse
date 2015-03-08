@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32001R0495-en" n="32001R0495" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R0495 English</title>
+        <title>Commission Regulation (EC) No 495/2001 of 13 March 2001 amending the Annex to Council Regulation (EEC) No 3508/92 establishing an integrated administration and control system for certain Community aid schemes</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0495:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0495:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">4327</classCode>
+        <classCode scheme="eurovoc">755</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R0495-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 495/2001 of 13 March 2001 amending the Annex to Council Regulation (EEC) No 3508/92 establishing an integrated administration and control system for certain Community aid schemes</head>
+      <p n="2">Commission Regulation (EC) No 495/2001</p>
+      <p n="3">of 13 March 2001</p>
+      <p n="4">amending the Annex to Council Regulation (EEC) No 3508/92 establishing an integrated administration and control system for certain Community aid schemes</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 3508/92 of 27 November 1992 establishing an integrated administration and control system for certain Community aid schemes(1), as last amended by Regulation (EC) No 1593/2000(2), and in particular Article 9a(1), third subparagraph thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) According to Article 9a of Regulation (EEC) No 3508/92 Member States shall ensure that measures which are not referred to in Article 1 but listed in the Annex to that Regulation, as in the case for flax and hemp, are compatible with the integrated administration and control system.</p>
+      <p n="10">(2) Under Council Regulation (EC) No 1672/2000 of 27 July 2000 amending Regulation (EC) No 1251/1999 establishing a support system for producers of certain arable crops, to include flax and hemp grown for fibre(3), direct aid payments for flax and hemp have been integrated into the support system for producers of certain arable crops, which are directly governed by the integrated administration and control system.</p>
+      <p n="11">(3) The reference to flax and hemp in the Annex to Regulation (EEC) No 3508/92 is, therefore, obsolete. The Annex has to be amended accordingly.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the EAGGF Committee,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Annex to Regulation (EEC) No 3508/92 is replaced by the Annex to this Regulation.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 13 March 2001.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 355, 5.12.1992, p. 1.</p>
+      <p n="24">(2) OJ L 182, 21.7.2000, p. 4.</p>
+      <p n="25">(3) OJ L 193, 29.7.2000, p. 13.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">"ANNEX</p>
+      <p n="28">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

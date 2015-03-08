@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31991L0371-en" n="31991L0371" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31991L0371 English</title>
+        <title>Council Directive 91/371/EEC of 20 June 1991 on the implementation of the Agreement between the European Economic Community and the Swiss Confederation concerning direct insurance other than life assurance</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991L0371:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991L0371:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31991L0371-en." lang="en">
+    <body>
+      <head n="1">Council Directive 91/371/EEC of 20 June 1991 on the implementation of the Agreement between the European Economic Community and the Swiss Confederation concerning direct insurance other than life assurance</head>
+      <p n="2">COUNCIL DIRECTIVE of 20 June 1991 on the implementation of the Agreement between the European Economic Community and the Swiss Confederation concerning direct insurance other than life assurance (91/371/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular the last sentence of Article 57 (2) and Article 235 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">In cooperation with the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas an Agreement between the European Economic Community and the Swiss Confederation concerning direct insurance other than life assurance was signed at Luxembourg on 10 October 1989;</p>
+      <p n="9">Whereas one of the effects of that Agreement is to impose, in relation to insurance undertakings which have their head offices in Switzerland, legal rules different from those applicable, under Title III of Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the taking up and pursuit of the business of direct insurance other than life assurance (4), to agencies and branches established within the Community of undertakings whose head offices are outside the Community;</p>
+      <p n="10">Whereas the coordinated rules relating to the pursuit of these activities within the Community by the Swiss undertakings subject to the provisions of the said Agreement must take effect on the same date in all the Member States of the Community; whereas that Agreement will not come into force until the first day of the calendar year following the date on which the instruments of approval are exchanged,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The Member States shall amend their national provisions</p>
+      <p n="14">to comply with the Agreement between the European Economic Community and the Swiss Confederation within a period of 24 months following the notification of this Directive. They shall immediately inform the Commission thereof.</p>
+      <p n="15">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The Member States shall specify in their national provisions that the amendments thereto made pursuant to the Agreement shall not come into force until the date on which the Agreement enters into force.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Directive is addressed to the Member States.</p>
+      <p n="20">Done at Luxembourg, 20 June 1991.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">R. GOEBBELS</p>
+      <p n="24">(1) OJ No C 53, 5. 3. 1990, p. 45.</p>
+      <p n="25">(2) OJ No C 72, 18. 3. 1991, p. 175, and Decision of 12 June 1991 (not yet published in the Official Journal).</p>
+      <p n="26">(3) OJ No C 56, 7. 3. 1990, p. 27.</p>
+      <p n="27">(4) OJ No L 228, 16. 8. 1973, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

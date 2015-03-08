@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32004R0317-en" n="32004R0317" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0317 English</title>
+        <title>Commission Regulation (EC) No 317/2004 of 23 February 2004 on adopting derogations from the provisions of Regulation (EC) No 2150/2002 of the European Parliament and of the Council on waste statistics as regards Austria, France and Luxembourg (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0317:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0317:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1085</classCode>
+        <classCode scheme="eurovoc">1158</classCode>
+        <classCode scheme="eurovoc">1712</classCode>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4353</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+        <classCode scheme="eurovoc">718</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0317-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 317/2004 of 23 February 2004 on adopting derogations from the provisions of Regulation (EC) No 2150/2002 of the European Parliament and of the Council on waste statistics as regards Austria, France and Luxembourg (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 317/2004</p>
+      <p n="3">of 23 February 2004</p>
+      <p n="4">on adopting derogations from the provisions of Regulation (EC) No 2150/2002 of the European Parliament and of the Council on waste statistics as regards Austria, France and Luxembourg</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Regulation (EC) No 2150/2002 of the European Parliament and of the Council of 25 November 2002 on waste statistics(1), and in particular Article 4(1) thereof,</p>
+      <p n="9">Having regard to the request made by Austria on 30 June 2003,</p>
+      <p n="10">Having regard to the request made by France on 12 June 2003,</p>
+      <p n="11">Having regard to the request made by Luxembourg on 25 June 2003,</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) In accordance with Article 4(1) of Regulation (EC) No 2150/2002, derogations from certain provisions of Annexes to that Regulation may be granted by the Commission during a transitional period.</p>
+      <p n="14">(2) Such derogations should be granted, at their request, to Austria, France and Luxembourg.</p>
+      <p n="15">(3) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee established by Council Decision 89/382/EEC, Euratom(2),</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">1. The following derogations from the provisions of Regulation (EC) No 2150/2002 are hereby granted:</p>
+      <p n="19">(a) Austria is granted derogations for the production of results relating to Section 8(1.1), item 1 (agriculture, hunting and forestry) of Annex I.</p>
+      <p n="20">(b) France is granted derogations for the production of results relating to Section 8(1.1), items 1 (agriculture, hunting and forestry), 2 (fisheries) and 16 (services activities) of Annex I and those relating to Section 8(2) of Annex II.</p>
+      <p n="21">(c) Luxembourg is granted derogations for the production of results relating to Section 8(1.1), items 1 (agriculture, hunting and forestry) and 2 (fisheries) of Annex I.</p>
+      <p n="22">2. The derogations provided for in paragraph 1 are granted only in respect of data from the first reference year, namely 2004.</p>
+      <p n="23">After expiry of the transitional period, Austria, France and Luxembourg shall transmit data from the 2006 reference year.</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Brussels, 23 February 2004.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">Pedro Solbes Mira</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 332, 9.12.2002, p. 1.</p>
+      <p n="32">(2) OJ L 181, 28.6.1989, p. 47.</p>
+    </body>
+  </text>
+</TEI.2>

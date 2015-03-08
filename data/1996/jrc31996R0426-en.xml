@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31996R0426-en" n="31996R0426" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0426 English</title>
+        <title>Commission Regulation (EC) No 426/96 of 8 March 1996 amending Regulation (EEC) No 2123/89 establishing the list of representative markets for pigmeat in the Community</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0426:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0426:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1795</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4692</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0426-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 426/96 of 8 March 1996 amending Regulation (EEC) No 2123/89 establishing the list of representative markets for pigmeat in the Community</head>
+      <p n="2">COMMISSION REGULATION (EC) No 426/96 of 8 March 1996 amending Regulation (EEC) No 2123/89 establishing the list of representative markets for pigmeat in the Community</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2759/75 of 29 October 1975 on the common organization of the market in pigmeat (1), as last amended by Regulation (EC) No 3290/94 (2), and in particular Article 4 (6) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 2123/89 (3), as last amended by Regulation (EC) No 1448/95 (4), established the list of representative markets for pigmeat in the Community;</p>
+      <p n="7">Whereas in France a change to the representative markets has taken place; whereas the list of representative markets for pigmeat in the Community listed is the Annex to Regulation (EEC) No 2123/89 should consequently be amended;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Pigmeat,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Point 5 of the Annex to Regulation (EEC) No 2123/89 is replaced by the following:</p>
+      <p n="12">'5. The following group of quotation centres: Rennes, Nantes, Metz, Lyon and Toulouse`.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on 1 April 1996.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 8 March 1996.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 282, 1. 11. 1975, p. 1.</p>
+      <p n="21">(2) OJ No L 349, 31. 12. 1994, p. 105.</p>
+      <p n="22">(3) OJ No L 203, 15. 7. 1989, p. 23.</p>
+      <p n="23">(4) OJ No L 143, 27. 6. 1995, p. 47.</p>
+    </body>
+  </text>
+</TEI.2>

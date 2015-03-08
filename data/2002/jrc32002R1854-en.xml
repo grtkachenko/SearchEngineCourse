@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32002R1854-en" n="32002R1854" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1854 English</title>
+        <title>Commission Regulation (EC) No 1854/2002 of 17 October 2002 amending Regulation (EC) No 2879/2000 laying down detailed rules for applying Council Regulation (EC) No 2702/1999 on measures to provide information on, and to promote, agricultural products in third countries</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1854:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1854:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">2803</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1854-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1854/2002 of 17 October 2002 amending Regulation (EC) No 2879/2000 laying down detailed rules for applying Council Regulation (EC) No 2702/1999 on measures to provide information on, and to promote, agricultural products in third countries</head>
+      <p n="2">Commission Regulation (EC) No 1854/2002</p>
+      <p n="3">of 17 October 2002</p>
+      <p n="4">amending Regulation (EC) No 2879/2000 laying down detailed rules for applying Council Regulation (EC) No 2702/1999 on measures to provide information on, and to promote, agricultural products in third countries</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2702/1999 of 14 December 1999 on measures to provide information on, and to promote, agricultural products in third countries(1), and in particular Article 11 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2879/2000(2), as last amended by Regulation (EC) No 1955/2001(3), lays down the detailed rules for applying the above Regulation.</p>
+      <p n="10">(2) Article 9(3) of Regulation (EC) No 2879/2000 sets the deadline of 30 September for the Commission decision on the programmes and the implementing bodies to be selected.</p>
+      <p n="11">(3) The proposals for programmes presented by the Member States in 2002 require additional information, which will reach the Commission shortly.</p>
+      <p n="12">(4) In these circumstances, in order that the examination and selection of the programmes can be completed, the deadline for the Commission decision should be prolonged until 15 November 2002.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion issued at the joint meeting of Management Committees on the promotion of agricultural products,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The last subparagraph of Article 9(3) of Regulation (EC) No 2879/2000 is replaced by the following: "For programmes presented in 2002, the Commission shall take a decision by 15 November 2002 at the latest."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 17 October 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 327, 21.12.1999, p. 7.</p>
+      <p n="25">(2) OJ L 333, 29.12.2000, p. 63.</p>
+      <p n="26">(3) OJ L 266, 6.10.2001, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

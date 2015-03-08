@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32003R1035-en" n="32003R1035" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1035 English</title>
+        <title>Commission Regulation (EC) No 1035/2003 of 17 June 2003 amending Regulation (EC) No 2316/1999 laying down detailed rules for the application of Council Regulation (EC) No 1251/1999 establishing a support system for producers of certain arable crops</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1035:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1035:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">6042</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1035-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1035/2003 of 17 June 2003 amending Regulation (EC) No 2316/1999 laying down detailed rules for the application of Council Regulation (EC) No 1251/1999 establishing a support system for producers of certain arable crops</head>
+      <p n="2">Commission Regulation (EC) No 1035/2003</p>
+      <p n="3">of 17 June 2003</p>
+      <p n="4">amending Regulation (EC) No 2316/1999 laying down detailed rules for the application of Council Regulation (EC) No 1251/1999 establishing a support system for producers of certain arable crops</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1251/1999 of 17 May 1999 establishing a support system for producers of certain arable crops(1), as last amended by Regulation (EC) No 1038/2001(2), and in particular Article 9 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2316/1999(3), as last amended by Regulation (EC) No 335/2003(4), lays down detailed rules for applying Regulation (EC) No 1251/1999 with respect to the conditions for granting area payments for certain arable crops and lays down the conditions for set-aside.</p>
+      <p n="10">(2) Under Community policy to improve quality, the eligibility of claimants of area payments for rape and colza seed is limited to those who have used quality seed of the specified varieties. To determine the eligible varieties, reference is made to the common catalogue of varieties of agricultural plant species established by Council Directive 2002/53/EC(5). The time limit for continued eligibility of varieties removed from the common catalogue should be specified.</p>
+      <p n="11">(3) New varieties of flax grown for fibre may be considered eligible. These should be included in the list of varieties eligible for the support system in Annex XII to Regulation (EC) No 2316/1999.</p>
+      <p n="12">(4) Regulation (EC) No 2316/1999 should therefore be amended accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EC) No 2316/1999 is hereby amended as follows:</p>
+      <p n="17">1. Article 4(1) is replaced by the following:</p>
+      <p n="18">"1. The Member States shall apply a quality policy in respect of colza and rape seed by limiting areas eligible for area payments to those sown with certified seed of double-zero (00) varieties of colza and rape seed notified and entered as such in the common catalogue of varieties of agricultural plant species established by Council Directive 2002/53/EC(6) prior to any payment. Where a variety is removed from the common catalogue, it shall continue to be eligible until 30 June of the third year following that in which it was included at the latest. Double-zero varieties shall be those producing seed with a maximum glucosinolate content of 25 μmol/g at a moisture content of 9 %, as determined by method EN ISO 9167-1: 1995, and an erucic acid content of not more than 2 % of the total fatty acid content, as determined by method EN ISO 5508: 1995."</p>
+      <p n="19">2. The flax varieties "Alizée" and "Drakkar" grown for fibre are inserted in point 1 of Annex XII.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Union.</p>
+      <p n="22">Article 1(2) shall apply from the 2003/04 marketing year.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 17 June 2003.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 160, 26.6.1999, p. 1.</p>
+      <p n="29">(2) OJ L 145, 31.5.2001, p. 16.</p>
+      <p n="30">(3) OJ L 280, 30.10.1999, p. 43.</p>
+      <p n="31">(4) OJ L 49, 22.2.2003, p. 3.</p>
+      <p n="32">(5) OJ L 193, 20.7.2002, p. 1.</p>
+      <p n="33">(6) OJ L 193, 20.7.2002, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,76 @@
+<TEI.2 id="jrc31997D0129-en" n="31997D0129" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0129 English</title>
+        <title>97/129/EC: Commission Decision of 28 January 1997 establishing the identification system for packaging materials pursuant to European Parliament and Council Directive 94/62/EC on packaging and packaging waste (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0129:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0129:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1158</classCode>
+        <classCode scheme="eurovoc">1839</classCode>
+        <classCode scheme="eurovoc">6004</classCode>
+        <classCode scheme="eurovoc">718</classCode>
+        <classCode scheme="eurovoc">720</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0129-en." lang="en">
+    <body>
+      <head n="1">97/129/EC: Commission Decision of 28 January 1997 establishing the identification system for packaging materials pursuant to European Parliament and Council Directive 94/62/EC on packaging and packaging waste (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 28 January 1997 establishing the identification system for packaging materials pursuant to European Parliament and Council Directive 94/62/EC on packaging and packaging waste (Text with EEA relevance) (97/129/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to European Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste (1), and in particular Article 8 (2) thereof,</p>
+      <p n="6">Whereas the identification system is to be voluntary at least in a first stage but subject to revision to establish whether to introduce it on a binding basis at a further stage;</p>
+      <p n="7">Whereas the identification system will be periodically reviewed and, if necessary, revised in accordance with the procedure laid down in Article 21 of Directive 94/62/EC;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Committee, established pursuant to Article 21 of Directive 94/62/EC,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">This Decision, which covers all packaging covered by Directive 94/62/EC aims to establish the numbering and abbreviations on which the identification system is based, indicating the nature of the packaging material(s) used and specifying which materials shall be subject to the identification system.</p>
+      <p n="12">Article 2</p>
+      <p n="13">For the purposes of this Decision:</p>
+      <p n="14">- the same definitions set out in Article 3 of Directive 94/62/EC shall apply where relevant,</p>
+      <p n="15">- composite: means packaging made up of different materials, and which cannot be separated by hand, none exceeding a given percent by weight which shall be established in accordance with the procedure laid down in Article 21 of Directive 94/62/EC. Potential exemptions for some materials may be established by the same procedure.</p>
+      <p n="16">Article 3</p>
+      <p n="17">The numbering and abbreviations of the identification system are as laid down in the Annexes.</p>
+      <p n="18">Their use shall be voluntary for the plastic materials mentioned in Annex I, the paper and fibreboard materials mentioned in Annex II, the metals mentioned in Annex III, the wood materials mentioned in Annex IV, the textile materials mentioned in Annex V, the glass materials mentioned in Annex VI, and the composites mentioned in Annex VII.</p>
+      <p n="19">A decision whether to introduce on a binding basis the identification system for any material or materials may be adopted in accordance with the procedure laid down in Article 21 of Directive 94/62/EC.</p>
+      <p n="20">Article 4</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 28 January 1997.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Ritt BJERREGAARD</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ No L 365, 31. 12. 1994, p. 10.</p>
+      <p n="27">ANNEX I</p>
+      <p n="28">&gt;TABLE&gt;</p>
+      <p n="29">ANNEX II</p>
+      <p n="30">&gt;TABLE&gt;</p>
+      <p n="31">ANNEX III</p>
+      <p n="32">&gt;TABLE&gt;</p>
+      <p n="33">ANNEX IV</p>
+      <p n="34">&gt;TABLE&gt;</p>
+      <p n="35">ANNEX V</p>
+      <p n="36">&gt;TABLE&gt;</p>
+      <p n="37">ANNEX VI</p>
+      <p n="38">&gt;TABLE&gt;</p>
+      <p n="39">ANNEX VII</p>
+      <p n="40">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

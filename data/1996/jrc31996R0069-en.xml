@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31996R0069-en" n="31996R0069" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0069 English</title>
+        <title>Commission Regulation (EC) No 69/96 of 18 January 1996 amending Regulation (EEC) No 2676/90 determining Community methods for the analysis of wines</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0069:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0069:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1442</classCode>
+        <classCode scheme="eurovoc">1552</classCode>
+        <classCode scheme="eurovoc">2888</classCode>
+        <classCode scheme="eurovoc">4218</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+        <classCode scheme="eurovoc">5967</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0069-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 69/96 of 18 January 1996 amending Regulation (EEC) No 2676/90 determining Community methods for the analysis of wines</head>
+      <p n="2">COMMISSION REGULATION (EC) No 69/96 of 18 January 1996 amending Regulation (EEC) No 2676/90 determining Community methods for the analysis of wines</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 822/87 of 16 March 1987 on the common organization of the market in wine (1), as last amended by Regulation (EC) No 1544/95 (2), and in particular Article 74 thereof,</p>
+      <p n="6">Whereas point 2.2.3.3.2 of Chapter 25 of the Annex to Commission Regulation (EEC) No 2676/90 of 17 September 1990 determining Community methods for the analysis of wines (3), as last amended by Regulation (EEC) No 60/95 (4), describes a method for the analysis of the sulphur dioxide content of grape juice which results in better extraction of that substance than the method used previously in point 13.4 of Chapter 13; whereas this results in higher total sulphur dioxide contents of grape juice analysed, which may exceed the maximum laid down; whereas, in view of the fact that this method leads to technical modifications for the operators and in order to prevent difficulty in disposing of grape juice, the transitional period during which the sulphur dioxide content of grape juice may be analysed using the method used previously should be extended to the end of the wine-growing year; whereas any interruption in the application of the detailed rules governing this method of analysis should be avoided;</p>
+      <p n="7">Whereas the measures provided for this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The date '31 December 1995` is hereby replaced by '31 August 1996` in the second paragraph of point 2.2.3.3.2 of Chapter 25 of the Annex to Regulation (EEC) No 2676/90.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="13">It shall apply from 1 January 1996.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 18 January 1996.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 84, 27. 3. 1987, p. 1.</p>
+      <p n="20">(2) OJ No L 148, 30. 6. 1995, p. 31.</p>
+      <p n="21">(3) OJ No L 272, 3. 10. 1990, p. 1.</p>
+      <p n="22">(4) OJ No L 11, 17. 1. 1995, p. 19.</p>
+    </body>
+  </text>
+</TEI.2>

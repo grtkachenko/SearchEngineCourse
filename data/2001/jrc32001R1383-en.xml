@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32001R1383-en" n="32001R1383" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1383 English</title>
+        <title>Commission Regulation (EC) No 1383/2001 of 6 July 2001 amending Regulation (EC) No 1372/95 laying down detailed rules for implementing the system of export licences in the poultrymeat sector</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1383:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1383:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+        <classCode scheme="eurovoc">4743</classCode>
+        <classCode scheme="eurovoc">5775</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1383-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1383/2001 of 6 July 2001 amending Regulation (EC) No 1372/95 laying down detailed rules for implementing the system of export licences in the poultrymeat sector</head>
+      <p n="2">Commission Regulation (EC) No 1383/2001</p>
+      <p n="3">of 6 July 2001</p>
+      <p n="4">amending Regulation (EC) No 1372/95 laying down detailed rules for implementing the system of export licences in the poultrymeat sector</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2777/75 of 29 October 1975 on the common organisation of the market in poultrymeat(1), as last amended by Regulation (EC) No 2916/95(2), and in particular Articles 3(2), 8(13) and 15 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 1372/95(3), as last amended by Regulation (EC) No 2337/1999(4), lays down the detailed rules for implementing the system of export licences in the poultrymeat sector.</p>
+      <p n="10">(2) Commission Regulation (EC) No 1291/2000(5) lays down common detailed rules for the application of the system of import and export licences and advance fixing certificates for agricultural products. Article 14 of that Regulation lays down that the export licences must show the 12-digit code of the product taken from the nomenclature of agricultural products for use with export refunds, or the codes for products falling within the same category.</p>
+      <p n="11">(3) In the light of the experience gained and with a view to facilitating the use of the licences for the various presentations of whole chickens currently falling within different product categories, all the products in question should be exported under the same licence. The product categories laid down in Annex I to Regulation (EC) No 1372/95 should therefore be amended by adding the products falling within category 4 to category 3.</p>
+      <p n="12">(4) The securities fixed in Annex I must be adjusted to the recent changes in refunds, and the list of countries in Annex IV must reflect the destinations currently proposed.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Annexes I and IV to Regulation (EC) No 1372/95 are replaced by the corresponding Annexes to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 6 July 2001.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 282, 1.11.1975, p. 77.</p>
+      <p n="25">(2) OJ L 305, 19.12.1995, p. 49.</p>
+      <p n="26">(3) OJ L 133, 17.6.1995, p. 26.</p>
+      <p n="27">(4) OJ L 281, 4.11.1999, p. 21.</p>
+      <p n="28">(5) OJ L 152, 24.6.2000, p. 1.</p>
+      <p n="29">ANNEX I</p>
+      <p n="30">"ANNEX I</p>
+      <p n="31">&gt;TABLE&gt;"</p>
+      <p n="32">ANNEXE II</p>
+      <p n="33">"ANNEX IV</p>
+      <p n="34">Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Uzbekistan, Ukraine".</p>
+    </body>
+  </text>
+</TEI.2>

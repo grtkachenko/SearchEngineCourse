@@ -1,0 +1,69 @@
+<TEI.2 id="jrc31995R0840-en" n="31995R0840" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R0840 English</title>
+        <title>Council Regulation (EC, Euratom, ECSC) No 840/95 of 10 April 1995 amending Regulation (EEC, Euratom, ECSC) No 2290/77 determining the emoluments of the members of the Court of Auditors</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0840:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0840:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1048</classCode>
+        <classCode scheme="eurovoc">3751</classCode>
+        <classCode scheme="eurovoc">3843</classCode>
+        <classCode scheme="eurovoc">5308</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R0840-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC, Euratom, ECSC) No 840/95 of 10 April 1995 amending Regulation (EEC, Euratom, ECSC) No 2290/77 determining the emoluments of the members of the Court of Auditors</head>
+      <p n="2">COUNCIL REGULATION (EC, EURATOM, ECSC) No 840/95 of 10 April 1995 amending Regulation (EEC, Euratom, ECSC) No 2290/77 determining the emoluments of the members of the Court of Auditors</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 188 b (8) thereof,</p>
+      <p n="5">Having regard to the Treaty establishing the European Coal and Steel Community, and in particular Article 45b (8) thereof,</p>
+      <p n="6">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 160b (8) thereof,</p>
+      <p n="7">Whereas it is for the Council to determine the salaries, allowances and pensions of the President and members of the Court of Auditors;</p>
+      <p n="8">Whereas, following the entry into force of the Treaty on European Union, the Court of Auditors has become an institution of the European Communities and it therefore seems desirable to amend the provisions of Regulation (EEC, Euratom, ECSC) No 2290/77 (1) with regard to the salaries and transitional termination-of-service allowances,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">1. Regulation (EEC, Euratom, ECSC) No 2290/77 is hereby amended as follows: Article 2 shall be replaced by the following:</p>
+      <p n="12">'Article 2</p>
+      <p n="13">The basic monthly salary of Members of the Court of Auditors shall be equal to the amount resulting from the application of the following percentages to the basic salary of an official of the European Communities on the last step of Grade A 1:</p>
+      <p n="14">President: 115 %,</p>
+      <p n="15">Other members: 108 %`.</p>
+      <p n="16">2. Article 8 (1) shall be replaced by the following:</p>
+      <p n="17">'1. For three years from the first day of the month following that in which he ceases to hold office, a former member of the Court of Auditors shall receive a monthly transitional allowance determined in accordance with the following procedure:</p>
+      <p n="18">- 40 % of the basic salary which he was receiving when he ceased to hold office if his period of service is less than two years,</p>
+      <p n="19">- 45 % of the same salary if that period is over two years but less than three years,</p>
+      <p n="20">- 50 % of the same salary if that period is over three years but less than five years,</p>
+      <p n="21">- 55 % of the same salary if that period is over five years but less than 10 years,</p>
+      <p n="22">- 60 % of the same salary if that period is over 10 years but less than 15 years,</p>
+      <p n="23">- 65 % of the same salary in other cases.`</p>
+      <p n="24">Article 2</p>
+      <p n="25">Pensions acquired on the date of entry into force of this Regulation shall not be altered by this Regulation.</p>
+      <p n="26">Article 3</p>
+      <p n="27">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="28">It shall apply from the first date of the month following its publication.</p>
+      <p n="29">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="30">Done at Luxembourg, 10 April 1995.</p>
+      <p n="31">For the Council</p>
+      <p n="32">The President</p>
+      <p n="33">A. JUPPÉ</p>
+      <p n="34">(1) OJ No L 268, 20. 10. 1977, p. 1. Regulation as last amended by Regulation (EEC, Euratom, ECSC) No 1084/92 (OJ No L 117, 1. 5. 1992, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

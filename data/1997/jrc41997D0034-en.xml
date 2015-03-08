@@ -1,0 +1,51 @@
+<TEI.2 id="jrc41997D0034-en" n="41997D0034" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41997D0034 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 15 December 1997 on the implementation of the Joint Action concerning a uniform format for residence permits (SCH/Com-ex (97) 34 rev.)</title>
+      </titleStmt>
+      <extent>15 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0034:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0034:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3646</classCode>
+        <classCode scheme="eurovoc">4004</classCode>
+        <classCode scheme="eurovoc">4005</classCode>
+        <classCode scheme="eurovoc">488</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41997D0034-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 15 December 1997 on the implementation of the Joint Action concerning a uniform format for residence permits (SCH/Com-ex (97) 34 rev.)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 15 December 1997</p>
+      <p n="4">on the implementation of the Joint Action concerning a uniform format for residence permits</p>
+      <p n="5">(SCH/Com-ex (97)34 rev.)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132(2) of the Convention implementing the Schengen Agreement, signed in Schengen on 19 June 1990 (hereinafter "the Schengen Convention"),</p>
+      <p n="8">Having regard to Article 134 of the abovementioned Convention,</p>
+      <p n="9">Having regard to the decision of the Central Group of 14 May 1997,</p>
+      <p n="10">Recalling the outcome of the Central Group meeting of 28 October 1997,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">The Schengen States shall endeavour to implement the Joint Action of 16 December 1996 concerning a uniform format for residence permits (97/11/JHA Joint Action (OJ L 7, 10.1.1997, p. 1)) as soon as possible, if necessary by phasing it in, before the end of the transitional periods stipulated in the Joint Action.</p>
+      <p n="13">Vienna, 15 December 1997.</p>
+      <p n="14">The President</p>
+      <p n="15">K. Schlögl</p>
+    </body>
+  </text>
+</TEI.2>

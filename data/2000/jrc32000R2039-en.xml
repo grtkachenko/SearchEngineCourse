@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32000R2039-en" n="32000R2039" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2039 English</title>
+        <title>Regulation (EC) No 2039/2000 of the European Parliament and of the Council of 28 September 2000 amending Regulation (EC) No 2037/2000 on substances that deplete the ozone layer, as regards the base year for the allocation of quotas of hydrochlorofluorocarbons</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2039:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2039:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1274</classCode>
+        <classCode scheme="eurovoc">2215</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">2739</classCode>
+        <classCode scheme="eurovoc">3579</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2039-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 2039/2000 of the European Parliament and of the Council of 28 September 2000 amending Regulation (EC) No 2037/2000 on substances that deplete the ozone layer, as regards the base year for the allocation of quotas of hydrochlorofluorocarbons</head>
+      <p n="2">Regulation (EC) No 2039/2000 of the European Parliament and of the Council</p>
+      <p n="3">of 28 September 2000</p>
+      <p n="4">amending Regulation (EC) No 2037/2000 on substances that deplete the ozone layer, as regards the base year for the allocation of quotas of hydrochlorofluorocarbons</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof,</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee(1),</p>
+      <p n="8">After consulting the Committee of the Regions,</p>
+      <p n="9">Acting in accordance with the procedure laid down in Article 251 of the Treaty(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Regulation (EC) No 2037/2000 of the European Parliament and of the Council of 29 June 2000 on substances that deplete the ozone layer(3), takes 1996 as the base year for allocating quotas of hydrochlorofluorocarbons (HCFCs). Since 1996 the HCFC market has changed considerably with respect to importers and the maintenance of 1996 would result in a large number of importers being deprived of their import quota. As a general rule, quotas should be based on the most recent and representative figures available, in this case those for 1999, and so the maintenance of 1996 could be considered arbitrary and might even result in a breach of the principles of non-discrimination and legitimate expectations.</p>
+      <p n="12">(2) Regulation (EC) No 2037/2000 should therefore be amended accordingly,</p>
+      <p n="13">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">In Article 4(3)(i)(h) of Regulation (EC) No 2037/2000 the words "its percentage market share in 1996" shall be replaced by "the percentage share assigned to it in 1999".</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 28 September 2000.</p>
+      <p n="20">For the European Parliament</p>
+      <p n="21">The President</p>
+      <p n="22">N. Fontaine</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">P. Moscovici</p>
+      <p n="26">(1) Opinion given on 20 September 2000 (not yet published in the Official Journal).</p>
+      <p n="27">(2) Opinion of the European Parliament of 21 September 2000 (not yet published in the Official Journal) and Council Decision of 28 September 2000.</p>
+      <p n="28">(3) See page 1 of this Official Journal. Regulation as amended by Regulation (EC) No 2038/2000 (see page 25 of this Official Journal).</p>
+    </body>
+  </text>
+</TEI.2>

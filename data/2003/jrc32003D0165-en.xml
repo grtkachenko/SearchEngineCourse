@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32003D0165-en" n="32003D0165" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0165 English</title>
+        <title>2003/165/EC: Council Decision of 18 February 2003 concerning the establishment of the Financial Services Committee</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0165:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0165:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1804</classCode>
+        <classCode scheme="eurovoc">6049</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0165-en." lang="en">
+    <body>
+      <head n="1">2003/165/EC: Council Decision of 18 February 2003 concerning the establishment of the Financial Services Committee</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 18 February 2003</p>
+      <p n="4">concerning the establishment of the Financial Services Committee</p>
+      <p n="5">(2003/165/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">1. RECALLS that the Council in its conclusions of 3 December 2002 stated its willingness to take a decision on the establishment of a new committee with the purpose of providing advice and oversight for the Council and the Commission on a range of financial market issues;</p>
+      <p n="8">2. accordingly ESTABLISHES the Financial Services Committee (hereinafter called the "Committee"), with the following tasks:</p>
+      <p n="9">- to provide for cross-sectoral strategic reflection, separate from the legislative process,</p>
+      <p n="10">- to help to define the medium- and long-term strategy for financial services issues,</p>
+      <p n="11">- to consider sensitive short-term issues,</p>
+      <p n="12">- to assess progress and implementation,</p>
+      <p n="13">- to provide political advice and oversight on both internal issues (e.g. single market, including implementation of the Financial Services action plan) and external issues (e.g. WTO);</p>
+      <p n="14">3. AGREES the following as for the composition, the chairmanship and the functioning of the Committee:</p>
+      <p n="15">- the Commission and each member of the Council shall appoint one high-level representative and one alternate to the Committee; a representative of the European Central Bank and the Chairs of the relevant Community committees of regulators will have observer status,</p>
+      <p n="16">- the Committee shall have one Chair and one Vice-Chair which it shall appoint from among the representatives of the Member States; the Chair and the Vice-Chair shall serve for two years; the first Chair shall be appointed by the Economic and Financial Committee,</p>
+      <p n="17">- the Member State whose representative is appointed Chairman shall have one additional representative on the Committee for the Chairman's period of office,</p>
+      <p n="18">- the Chairman and Vice-Chair, together with the representative from the Commission, the representative from the Member State holding the Presidency of the Council for the duration of its office, a representative of the General Secretariat of the Council and a representative from the Secretariat of the Economic and Financial Committee shall cooperate closely with a view to facilitating the work of the Committee,</p>
+      <p n="19">- the Committee shall report to the Economic and Financial Committee in order to prepare advice to the Council (Ecofin), taking into account the established role of Coreper,</p>
+      <p n="20">- the Chairman of the Committee shall be available for a regular exchange of views on strategic developments related to financial markets with the Committee on Economic and Monetary Affairs of the European Parliament,</p>
+      <p n="21">- the Committee shall adopt its own Rules of Procedure in accordance with the Council's Rules of Procedure,</p>
+      <p n="22">- the secretariat shall be provided by the General Secretariat of the Council;</p>
+      <p n="23">4. NOTES that the Committee's activities will be without prejudice to the Commission's right of initiative;</p>
+      <p n="24">5. DECIDES to review this Decision in the second half of 2004.</p>
+      <p n="25">Done at Brussels, 18 February 2003.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">N. Christodoulakis</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31989R0473-en" n="31989R0473" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989R0473 English</title>
+        <title>Commission Regulation (EEC) No 473/89 of 24 February 1989 amending Regulation (EEC) No 2807/83 laying down detailed rules for recording information on Member States' catches of fish</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989R0473:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989R0473:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989R0473-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 473/89 of 24 February 1989 amending Regulation (EEC) No 2807/83 laying down detailed rules for recording information on Member States' catches of fish</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 473/89</p>
+      <p n="4">of 24 February 1989</p>
+      <p n="5">amending Regulation (EEC) No 2807/83 laying down detailed rules for recording information on Member States' catches of fish</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 170/83 of 25 January 1983 establishing a Community system for the conservation and management of fishery resources (1), as amended by the Act of Accession of Spain and Portugal,</p>
+      <p n="9">Having regard to Council Regulation (EEC) No 2241/87 of 23 July 1987 establishing certain control measures for fishing activities (2), as amended by Regulation (EEC) No 3483/88 (3), and in particular Article 14 thereof,</p>
+      <p n="10">Whereas Commission Regulation (EEC) No 2807/83 (4), as amended by the Act of Accession of Spain and Portugal, lays down instructions for using the logbook during fishing operations and for the landing/transhipment declaration made by the master of a vessel flying the flag of or registered in a Member State;</p>
+      <p n="11">Whereas the procedure for transmitting logbook data in the case of landings in a Member State other than the Member State whose flag the vessel is flying, as set out in point 4.2.2 of Annexes IV and V to the Regulation, must be clarified and made more consistent; whereas Regulation (EEC) No 2807/83 must therefore be amended;</p>
+      <p n="12">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fishery Resources,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EEC) No 2807/83 is hereby amended as follows:</p>
+      <p n="16">1. the first sentence of point 4.2.2 of Annex IV is replaced by the following:</p>
+      <p n="17">'In the case of landings in a Member State other than the Member State whose flag the vessel is flying or in which it is registered the first copy of the landing declaration shall be handed over or dispratched to the authorities of the Member State of landing within 48 hours of completion of landing.';</p>
+      <p n="18">2. the first sentence of point 4.2.2 of Annex V is replaced by the following:</p>
+      <p n="19">'In the case of landings in a Member State other than the Member State whose flag the vessel is flying or in which it is registered the first copy of the landing declaration shall be handed over or dispatched to the authorities of the Member State of landing within 48 hours of completion of landing.'</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the 30th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 24 February 1989.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Manuel MARÍN</p>
+      <p n="26">Vice-President</p>
+      <p n="27">(1) OJ No L 24, 27. 1. 1983, p. 1.</p>
+      <p n="28">(2) OJ No L 207, 29. 7. 1987, p. 1.</p>
+      <p n="29">(3) OJ No L 306, 11. 11. 1988, p. 2.</p>
+      <p n="30">(4) OJ No L 276, 10. 10. 1983, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

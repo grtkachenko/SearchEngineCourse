@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31998D0270-en" n="31998D0270" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0270 English</title>
+        <title>98/270/EC: Commission Decision of 7 April 1998 concerning the withdrawal of authorisations for plant protection products containing fenvalerate as an active substance (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0270:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0270:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2773</classCode>
+        <classCode scheme="eurovoc">2985</classCode>
+        <classCode scheme="eurovoc">3730</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">5451</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0270-en." lang="en">
+    <body>
+      <head n="1">98/270/EC: Commission Decision of 7 April 1998 concerning the withdrawal of authorisations for plant protection products containing fenvalerate as an active substance (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 7 April 1998 concerning the withdrawal of authorisations for plant protection products containing fenvalerate as an active substance (Text with EEA relevance) (98/270/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Commission Regulation (EEC) No 3600/92 of 11 December 1992 laying down the detailed rules for the implementation of the first stage of the programme of work referred to in Article 8(2) of Council Directive 91/414/EEC concerning the placing of plant protection products on the market (1), as last amended by Regulation (EC) No 1199/97 (2), and in particular Article 6(5) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 933/94 (3), as last amended by Regulation (EC) No 2230/95 (4), has laid down the active substances of plant protection products and designated the rapporteur Member States for the implementation of Regulation (EEC) No 3600/92;</p>
+      <p n="7">Whereas fenvalerate was one of the 90 active substances covered by the first stage of the work programme provided for in Article 8(2) of Council Directive 91/414/EEC (5);</p>
+      <p n="8">Whereas for this substance the notifiers concerned formally submitted to the designated rapporteur Member State certain information as required pursuant to Article 6(1) of Regulation (EEC) No 3600/92 to support the inclusion of this active substance in Annex I to Directive 91/414/EEC;</p>
+      <p n="9">Whereas in accordance with Article 6(4) of Regulation (EEC) No 3600/92 the designated rapporteur Member State informed the Commission that neither of the dossiers submitted satisfied the requirements of Article 6(2) and (3) of the Regulation;</p>
+      <p n="10">Whereas, in accordance with Article 6(5) of the Regulation, no Member State has informed the Commission of its wish to secure the inclusion of this active substance in Annex I to Directive 91/414/EEC;</p>
+      <p n="11">Whereas it has to be considered that a complete data package required for the evaluation of this substance will not be submitted in the framework of the work programme; whereas an evaluation and inclusion in Annex I of this substance is not possible in this framework; whereas consequently a decision should be taken with the effect that current authorisations for plant protection products containing this active substance are withdrawn;</p>
+      <p n="12">Whereas this Decision does not exclude the possibility that fenvalerate may in the future be evaluated within the framework of the provisions for new active substances provided for in Article 6 of Directive 91/414/EEC;</p>
+      <p n="13">Whereas this Decision does not prejudice measures of Member States to grant a period of grace for disposal, storage, placing on the market and use of existing stocks in accordance with the provisions of Article 4(6) of Directive 91/414/EEC;</p>
+      <p n="14">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Plant Health,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The Member States shall ensure:</p>
+      <p n="18">1. that authorisations for plant protection products containing fenvalerate are withdrawn within a period of 12 months from the date of the present Decision;</p>
+      <p n="19">2. that from the date of the present Decision no authorisations for plant protection products containing fenvalerate will be granted or renewed under the derogation provided for in Article 8(2) of Directive 91/414/EEC.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 7 April 1998.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 366, 15. 12. 1992, p. 10.</p>
+      <p n="27">(2) OJ L 170, 28. 6. 1997, p. 19.</p>
+      <p n="28">(3) OJ L 107, 28. 4. 1994, p. 8.</p>
+      <p n="29">(4) OJ L 225, 22. 9. 1995, p. 1.</p>
+      <p n="30">(5) OJ L 230, 19. 8. 1991, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

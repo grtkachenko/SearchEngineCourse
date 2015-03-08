@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32003D0096-en" n="32003D0096" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0096 English</title>
+        <title>2003/96/EC: Council Decision of 6 February 2003 concerning the conclusion of the Agreement for scientific and technological cooperation between the European Community and Ukraine</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0096:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0096:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">225</classCode>
+        <classCode scheme="eurovoc">5237</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">5946</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0096-en." lang="en">
+    <body>
+      <head n="1">2003/96/EC: Council Decision of 6 February 2003 concerning the conclusion of the Agreement for scientific and technological cooperation between the European Community and Ukraine</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 6 February 2003</p>
+      <p n="4">concerning the conclusion of the Agreement for scientific and technological cooperation between the European Community and Ukraine</p>
+      <p n="5">(2003/96/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular the second subparagraph of Article 170, in conjunction with Article 300(2), first sentence of the first subparagraph, and Article 300(3), first subparagraph, thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) A Partnership and Cooperation Agreement between the European Communities and their Member States of the one part, and Ukraine of the other part(3), was signed on 16 June 1994 and has entered into force on 1 March 1998.</p>
+      <p n="12">(2) A European Council Common Strategy (1999/877/CFSP) on Ukraine(4) was adopted on 11 December 1999 at the Helsinki European Council.</p>
+      <p n="13">(3) The European Community and Ukraine are pursuing specific RTD programmes in areas of common interest. On the basis of past experience, both sides have expressed a desire to establish a deeper and broader framework for the conduct of collaboration in science and technology. This cooperation agreement in the field of science and technology forms part of the global cooperation between the European Community and Ukraine.</p>
+      <p n="14">(4) By its Decision of 8 October 2001, the Council authorised the Commission to negotiate on behalf of the European Community an Agreement for scientific and technological cooperation between the European Community and Ukraine. The negotiations, conducted in line with the negotiating directives, resulted in the attached Agreement and its two annexes.</p>
+      <p n="15">(5) The Agreement was signed on 4 July 2002 in Copenhagen.</p>
+      <p n="16">(6) The Agreement should be approved,</p>
+      <p n="17">HAS DECIDED AS FOLLOWS:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The Agreement for scientific and technological cooperation between the European Community and Ukraine is hereby approved on behalf of the Community.</p>
+      <p n="20">The text of the Agreement and its two Annexes is attached to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">The President of the Council shall, on behalf of the Community, give the notification provided for in Article 12 of the Agreement.</p>
+      <p n="23">Done at Brussels, 6 February 2003.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">P. Efthymiou</p>
+      <p n="27">(1) Proposal of 11.10.2002 (not yet published in the Official Journal).</p>
+      <p n="28">(2) Opinion delivered on 17 December 2002 (not yet published in the Official Journal).</p>
+      <p n="29">(3) OJ L 49, 19.2.1998, p. 3.</p>
+      <p n="30">(4) OJ L 331, 23.12.1999, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

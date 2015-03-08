@@ -1,0 +1,72 @@
+<TEI.2 id="jrc31999D0685-en" n="31999D0685" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0685 English</title>
+        <title>1999/685/EC: Commission Decision of 7 October 1999 amending Decision 92/452/EEC establishing lists of embryo collection teams and embryo production teams approved in third countries for export of bovine embryos to the Community (notified under document number C(1999) 3108) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0685:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0685:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3408</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5608</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0685-en." lang="en">
+    <body>
+      <head n="1">1999/685/EC: Commission Decision of 7 October 1999 amending Decision 92/452/EEC establishing lists of embryo collection teams and embryo production teams approved in third countries for export of bovine embryos to the Community (notified under document number C(1999) 3108) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 7 October 1999</p>
+      <p n="4">amending Decision 92/452/EEC establishing lists of embryo collection teams and embryo production teams approved in third countries for export of bovine embryos to the Community</p>
+      <p n="5">(notified under document number C(1999) 3108)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(1999/685/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 89/556/EEC of 25 September 1989 on animal health conditions governing intra-Community trade in and imports from third countries of embryos of domestic animals of the bovine species(1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 8 thereof;</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 92/452/EEC(2), as last amended by Decision 1999/204/EC(3), establishes a list of embryo collection teams and embryo production teams approved in third countries for the export of embryos of domestic animals of the bovine species to the Community.</p>
+      <p n="13">(2) The competent veterinary services of Argentina have forwarded to the Commission a list of approved embryo collection teams and guarantees regarding the compliance of those teams with the requirements specified in Article 8 of Directive 89/556/EEC have been received by the Commission. It is therefore necessary to add this list to the list of approved teams in the Annex to Decision 92/452/EEC.</p>
+      <p n="14">(3) The competent veterinary services of Australia, Canada and United States of America have forwarded requests for amendments to the lists of teams officially approved in their territories for the export of embryos of domestic animals of the bovine species to the Community. It is therefore necessary to amend the list of approved teams. Guarantees regarding compliance with the requirements specified in Article 8 of Directive 89/556/EEC have been received by the Commission.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">A list concerning Argentina is added to the Annex to Decision 92/452/EEC according to the Annex to this Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">The lists concerning Australia and Canada in the Annex to Decision 92/452/EEC are replaced according to the Annex to this Decision.</p>
+      <p n="21">Article 3</p>
+      <p n="22">In the Annex to Decision 92/452/EEC, in the list concerning the United States of America, in the line concerning the embryo collection team registered under the number 92WI051:</p>
+      <p n="23">- In column 7 "premium genetic services" is replaced by "ABS global".</p>
+      <p n="24">- In column 8, "Lee Mathews" is replaced by "Dr Lori Nagel".</p>
+      <p n="25">Article 4</p>
+      <p n="26">This Decision is addressed to the Member States.</p>
+      <p n="27">Done at Brussels, 7 October 1999.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">David BYRNE</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 302, 19.10.1989, p. 1.</p>
+      <p n="32">(2) OJ L 250, 29.8.1992, p. 40.</p>
+      <p n="33">(3) OJ L 70, 17.3.1999, p. 26.</p>
+      <p n="34">ANEXO/BILAG/ANHANG/ΠΑΡΑΡΤΗΜΑ/ANNEX/ANNEXE/ALLEGATO/BIJLAGE/ANEXO/LIITE/BILAGA</p>
+      <p n="35">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

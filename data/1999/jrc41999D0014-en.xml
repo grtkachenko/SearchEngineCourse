@@ -1,0 +1,49 @@
+<TEI.2 id="jrc41999D0014-en" n="41999D0014" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41999D0014 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 28 April 1999 on the compilation of a manual of documents to which a visa may be affixed (SCH/Com-ex (99) 14)</title>
+      </titleStmt>
+      <extent>15 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0014:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0014:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">488</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+        <classCode scheme="eurovoc">5796</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41999D0014-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 28 April 1999 on the compilation of a manual of documents to which a visa may be affixed (SCH/Com-ex (99) 14)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 28 April 1999</p>
+      <p n="4">on the compilation of a manual of documents to which a visa may be affixed</p>
+      <p n="5">(SCH/Com-ex (99) 14)</p>
+      <p n="6">At its meeting in Berlin on 16 December 1998, the Executive Committee decided to compile a manual of documents to which a visa may be affixed (SCH/Com-ex (98) 56).</p>
+      <p n="7">&gt;TABLE&gt;</p>
+      <p n="8">The Executive Committee takes note of the fact that, in addition to Part I (Travel documents to which a visa may be affixed) which was forwarded to it on 16 December 1998, Parts II, III and V are now also available (see Annex(1)).</p>
+      <p n="9">This means that the essential components of the manual of documents to which a visa may be affixed are available. The gradual compilation of a documentary record containing copies of originals is being undertaken at European Union level. The manual on authentic documents issued by Interpol can also be used.</p>
+      <p n="10">The revised version of Part I as well as Parts II, III and V will be distributed to diplomatic missions and consular posts abroad. They can also be sent to the border authorities and to other bodies dealing with questions relating to the law on aliens.</p>
+      <p n="11">The existing sections of the manual of documents to which a visa may be affixed should be revised when necessary, for instance every three months, starting on 1 July 1999.</p>
+      <p n="12">Luxembourg, 28 April 1999.</p>
+      <p n="13">The Chairman</p>
+      <p n="14">C. H. Schapper</p>
+      <p n="15">(1) See Annex to document SCH/Com-ex (98) 56.</p>
+    </body>
+  </text>
+</TEI.2>

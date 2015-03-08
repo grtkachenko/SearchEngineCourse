@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31997D0378-en" n="31997D0378" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0378 English</title>
+        <title>97/378/EC: Council Decision of 27 January 1997 concerning the conclusion on behalf of the European Community of an Echange of Letters recording the common understanding on the principles of international cooperation on research and development activities in the domain of intelligent manufacturing systems between the European Community and the United States of America, Japan, Australia, Canada and the EFTA countries of Norway and Switzerland</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0378:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0378:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">216</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3632</classCode>
+        <classCode scheme="eurovoc">5237</classCode>
+        <classCode scheme="eurovoc">5383</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0378-en." lang="en">
+    <body>
+      <head n="1">97/378/EC: Council Decision of 27 January 1997 concerning the conclusion on behalf of the European Community of an Echange of Letters recording the common understanding on the principles of international cooperation on research and development activities in the domain of intelligent manufacturing systems between the European Community and the United States of America, Japan, Australia, Canada and the EFTA countries of Norway and Switzerland</head>
+      <p n="2">COUNCIL DECISION of 27 January 1997 concerning the conclusion on behalf of the European Community of an Exchange of Letters recording the common understanding on the principles of international cooperation on research and development activities in the domain of intelligent manufacturing systems between the European Community and the United States of America, Japan, Australia, Canada and the EFTA countries of Norway and Switzerland (97/378/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 130m, in conjunction with Article 228 (2), first sentence, and the first subparagraph of Article 228 (3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Whereas international cooperation in the domain of intelligent manufacturing systems will strengthen the scientific and technological bases of the Community in industry and will contribute to the competitivity of Community industry;</p>
+      <p n="8">Whereas a two-year feasibility study on international collaboration in the domain of intelligent manufacturing systems has proved that there is added-value in such cooperation;</p>
+      <p n="9">Whereas the Council has authorized the Commission to negotiate a common understanding with the United States of America, Japan, Australia, Canada and the EFTA countries of Norway and Switzerland;</p>
+      <p n="10">Whereas a common understanding in the form of an Exchange of Letters was reached with the third countries,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The Exchange of Letters recording the common understanding on the principles of international cooperation in research and development activities in the domain of intelligent manufacturing systems between the European Community and the United States of America, Japan, Australia, Canada and the EFTA countries of Norway and Switzerland is hereby approved.</p>
+      <p n="14">The text of the Exchange of Letters is attached to this Decision.</p>
+      <p n="15">Article 2</p>
+      <p n="16">The President of the Council is hereby authorized to designate the person empowered to sign the Exchange of Letters referred to in Article 1 in order to bind the Community.</p>
+      <p n="17">Done at Brussels, 27 January 1997.</p>
+      <p n="18">For the Council</p>
+      <p n="19">The President</p>
+      <p n="20">G. ZALM</p>
+      <p n="21">(1) OJ No C 20, 20. 1. 1997, p. 371.</p>
+    </body>
+  </text>
+</TEI.2>

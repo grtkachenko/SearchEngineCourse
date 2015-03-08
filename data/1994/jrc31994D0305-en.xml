@@ -1,0 +1,48 @@
+<TEI.2 id="jrc31994D0305-en" n="31994D0305" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994D0305 English</title>
+        <title>94/305/EC: Commission Decision of 16 May 1994 amending Decision 93/13/EEC, laying down the procedures for veterinary checks at Community border inspection posts on products from third countries</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0305:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0305:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994D0305-en." lang="en">
+    <body>
+      <head n="1">94/305/EC: Commission Decision of 16 May 1994 amending Decision 93/13/EEC, laying down the procedures for veterinary checks at Community border inspection posts on products from third countries</head>
+      <p n="2">COMMISSION DECISION of 16 May 1994 amending Decision 93/13/EEC, laying down the procedures for veterinary checks at Community border inspection posts on products from third countries (94/305/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/675/EEC of 10 December 1990, laying down the principles governing the organization of veterinary checks on products entering the Community from third countries (1), as last amended by Directive 92/118/EEC (2) and in particular Article 18 (1) thereof,</p>
+      <p n="6">Whereas hay and straw are allowed to be imported into the Community from those countries which are listed in Annex F by Commission Decision 93/13/EEC (3);</p>
+      <p n="7">Whereas it is necessary, having regard to the guarantees given, to amend this list to include certain parts of South Africa; whereas the area where hay and straw originate from is situated outside the foot-and-mouth disease control area and where no animals have grazed for the past six months;</p>
+      <p n="8">Whereas the measures provided for in the Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">In Annex F of Commission Decision 93/13/EEC, the following is inserted between 'Slovenia' and 'Sweden':</p>
+      <p n="12">'South Africa (excluding that part of the foot-and-mouth disease control area situated in the veterinary region Northern and Eastern Transvaal, in the district of Ingwavuma of the veterinary region of Natal and in the border area with Botswana east of longitude 28°)'.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 16 May 1994.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">René STEICHEN</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 373, 31. 12. 1990, p. 1.</p>
+      <p n="20">(2) OJ No L 62, 15. 3. 1993, p. 49.</p>
+      <p n="21">(3) OJ No L 9, 15. 1. 1993, p. 33.</p>
+    </body>
+  </text>
+</TEI.2>

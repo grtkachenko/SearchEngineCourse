@@ -1,0 +1,48 @@
+<TEI.2 id="jrc31976D0806-en" n="31976D0806" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31976D0806 English</title>
+        <title>76/806/EEC: Commission Decision of 1 October 1976 laying down additional provisions concerning surveys to determine the production potential of plantations of certain species of fruit trees to be made by Member States</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31976D0806:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31976D0806:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31976D0806-en." lang="en">
+    <body>
+      <head n="1">76/806/EEC: Commission Decision of 1 October 1976 laying down additional provisions concerning surveys to determine the production potential of plantations of certain species of fruit trees to be made by Member States</head>
+      <p n="2">COMMISSION DECISION of 1 October 1976 laying down additional provisions concerning surveys to determine the production potential of plantations of certain species of fruit trees to be made by Member States (76/806/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 76/625/EEC of 20 July 1976 concerning the statistical surveys to be carried out by the Member States in order to determine the production potential of plantations of certain species of fruit trees (1), and in particular Articles 2 (1) B, 2 (1) C and 9 thereof,</p>
+      <p n="6">Whereas, following the experience acquired during the previous surveys of fruit tree plantations, the statistical classification of the technical characteristics to be surveyed as specified in Article 2 of Council Directive 71/286/EEC of 26 July 1971 concerning the statistical surveys to be carried out by the Member States in order to determine the production potential of plantations of certain types of fruit trees (2) are to be retained subject to certain amendments in order to ensure that statistics are continuously adapted to economic conditions;</p>
+      <p n="7">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee for Agricultural Statistics,</p>
+      <p n="8">HAS ADOPTED THIS DECISION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The statistical classes relating to age of trees and density of plantation referred to in Articles 2 (1) B and 2 (1) C of the Directive of 20 July 1976, appear in the Annex.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Decision is addressed to the Member States.</p>
+      <p n="13">Done at Brussels, 1 October 1976.</p>
+      <p n="14">For the Commission</p>
+      <p n="15">G. BRUNNER</p>
+      <p n="16">Member of the Commission (1)OJ No L 218, 11.8.1976, p. 10. (2)OJ No L 179, 9.8.1971, p. 21.</p>
+      <p n="17">ANNEX CLASSES OF AGE AND DENSITY OF PLANTATION</p>
+      <p n="18">(a) The following classes shall be laid down: &gt;PIC FILE= "T0009015"&gt;</p>
+      <p n="19">(b) Furthermore Member States may for high density plantations of apples and pears, subdivide the "15 - 24 years" age class into two age classes:</p>
+      <p n="20">"15 - 19 years"</p>
+      <p n="21">"20 - 24 years"</p>
+    </body>
+  </text>
+</TEI.2>

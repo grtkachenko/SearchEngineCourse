@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32004R0401-en" n="32004R0401" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0401 English</title>
+        <title>Council Regulation (EC, Euratom) No 401/2004 of 23 February 2004 introducing, on the occasion of the accession of Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia, special temporary measures for recruitment of officials of the European Communities</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0401:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0401:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1048</classCode>
+        <classCode scheme="eurovoc">12</classCode>
+        <classCode scheme="eurovoc">2943</classCode>
+        <classCode scheme="eurovoc">4057</classCode>
+        <classCode scheme="eurovoc">4071</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0401-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC, Euratom) No 401/2004 of 23 February 2004 introducing, on the occasion of the accession of Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia, special temporary measures for recruitment of officials of the European Communities</head>
+      <p n="2">Council Regulation (EC, Euratom) No 401/2004</p>
+      <p n="3">of 23 February 2004</p>
+      <p n="4">introducing, on the occasion of the accession of Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia, special temporary measures for recruitment of officials of the European Communities</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 283 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission, submitted after consultation of the Staff Regulations Committee,</p>
+      <p n="8">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="9">Having regard to the opinion of the Court of Justice(2),</p>
+      <p n="10">Having regard to the opinion of the Court of Auditors(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) On the occasion of the forthcoming accession of Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia special temporary measures should be adopted that depart from the Staff Regulations of Officials of the European Communities (Staff Regulations).</p>
+      <p n="13">(2) Given the number of countries acceding and the number of persons potentially involved these, albeit temporary measures, should remain in force for a substantial period. 31 December 2010 appears to be the most suitable expiry date for them.</p>
+      <p n="14">(3) Given the exceptional nature of the situation, and the forecasted future general needs, competitions should also be held for the recruitment of officials having one of the existing 11 official languages as their main language. This will be in order to ensure respect for the principles stated in Article 27 of the Staff Regulations, including recruitment on the broadest possible geographical basis.</p>
+      <p n="15">(4) Given the exceptional size of the impending accession, this Regulation should be adopted before the actual accession date so that all the necessary preparatory work can be done to enable the planned recruitments to take place as soon as possible after the accession,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">1. Notwithstanding the provisions of the second and third paragraphs of Article 4, Article 7(1), the third paragraph of Article 27 and points (a), (b) and (c) of Article 29(1) of the Staff Regulations, until 31 December 2010 vacant posts may be filled, within the limit of the number allotted, taking into account budgetary discussions, by appointment of nationals of Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia after the actual date of accession of the countries concerned.</p>
+      <p n="19">2. Appointments shall be made:</p>
+      <p n="20">(a) for all grades, after the actual date of accession;</p>
+      <p n="21">(b) except for grades A1 and A2, following competitions on the basis of both qualifications and tests organised as specified in Annex III to the Staff Regulations.</p>
+      <p n="22">Article 2</p>
+      <p n="23">Until 31 December 2010, general competitions shall also be held for the recruitment of officials having one of the existing 11 official languages as their main language; such competitions shall simultaneously cover all these languages.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Brussels, 23 February 2004.</p>
+      <p n="28">For the Council</p>
+      <p n="29">The President</p>
+      <p n="30">B. Cowen</p>
+      <p n="31">(1) Opinion delivered on 18 November 2003 (not yet published in the Official Journal).</p>
+      <p n="32">(2) Opinion delivered on 18 July 2003.</p>
+      <p n="33">(3) Opinion delivered on 29 July 2003 (OJ C 224, 19.9.2003, p. 11).</p>
+    </body>
+  </text>
+</TEI.2>

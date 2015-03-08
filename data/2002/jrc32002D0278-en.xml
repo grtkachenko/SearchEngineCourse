@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32002D0278-en" n="32002D0278" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0278 English</title>
+        <title>2002/278/EC: Commission Decision of 10 April 2002 amending Decision 2001/393/EC as regards the certification for the import of specified pathogen-free eggs from third countries (Text with EEA relevance) (notified under document number C(2002) 1374)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0278:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0278:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2121</classCode>
+        <classCode scheme="eurovoc">2924</classCode>
+        <classCode scheme="eurovoc">4635</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0278-en." lang="en">
+    <body>
+      <head n="1">2002/278/EC: Commission Decision of 10 April 2002 amending Decision 2001/393/EC as regards the certification for the import of specified pathogen-free eggs from third countries (Text with EEA relevance) (notified under document number C(2002) 1374)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 10 April 2002</p>
+      <p n="4">amending Decision 2001/393/EC as regards the certification for the import of specified pathogen-free eggs from third countries</p>
+      <p n="5">(notified under document number C(2002) 1374)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/278/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/539/EEC of 15 October 1990 on animal health conditions governing intra-Community trade in, and imports from third countries of, poultry and hatching eggs(1), as last amended by Commission Decision 2001/867/EC(2), and in particular Article 23(2), Article 24(2) and Article 27a thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 2001/393/EC(3) lays down animal health conditions and veterinary certification for the import of specified pathogen-free eggs from third countries and draws up a list of third countries from which Member States authorise imports of such eggs.</p>
+      <p n="13">(2) The validity period of the animal health certificate has been fixed at five days.</p>
+      <p n="14">(3) Transport and logistical difficulties have caused problems in delivering pathogen-free eggs to Member States prior to the date of expiry of the validity of the animal health certificate.</p>
+      <p n="15">(4) There is a low risk of contamination of this product during transport when packaged and transported in accordance with the requirements of Decision 2001/393/EC. An extension of the validity period of the certificate to 15 days would not jeopardise the health status of such a product.</p>
+      <p n="16">(5) Decision 2001/393/EC should therefore be amended accordingly.</p>
+      <p n="17">(6) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">Annex II to Decision 2001/393/EC is replaced by the text in the Annex to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 10 April 2002.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 303, 31.10.1990, p. 6.</p>
+      <p n="28">(2) OJ L 323, 7.12.2001, p. 29.</p>
+      <p n="29">(3) OJ L 138, 22.5.2001, p. 31.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">"ANNEX II</p>
+      <p n="32">&gt;PIC FILE= "L_2002099EN.001503.TIF"&gt;</p>
+      <p n="33">&gt;PIC FILE= "L_2002099EN.001601.TIF"&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

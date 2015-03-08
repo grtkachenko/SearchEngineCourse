@@ -1,0 +1,73 @@
+<TEI.2 id="jrc31996R2054-en" n="31996R2054" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2054 English</title>
+        <title>Commission Regulation (EC) No 2054/96 of 25 October 1996 on the publication of the graphic symbol for quality agricultural products specific to the most remote regions and laying down the rules for its reproduction</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2054:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2054:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1086</classCode>
+        <classCode scheme="eurovoc">1730</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">4172</classCode>
+        <classCode scheme="eurovoc">5076</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2054-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2054/96 of 25 October 1996 on the publication of the graphic symbol for quality agricultural products specific to the most remote regions and laying down the rules for its reproduction</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2054/96 of 25 October 1996 on the publication of the graphic symbol for quality agricultural products specific to the most remote regions and laying down the rules for its reproduction</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 3763/91 of 16 December 1991 introducing specific measures in respect of certain agricultural products for the benefit of the French overseas departments (1), as last amended by Regulation (EC) No 2598/95 (2), and in particular Article 20 (2) and (3) thereof,</p>
+      <p n="6">Having regard to Council Regulation (EEC) No 1600/92 of 15 June 1992 concerning specific measures for the Azores and Madeira relating to certain agricultural products (3), as last amended by Commission Regulation (EC) No 2537/95 (4), and in particular Article 31 (2) and (3) thereof,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 1601/92 of 15 June 1992 concerning specific measures for the Canary Islands with regard to certain agricultural products (5), as last amended by Regulation (EC) No 2537/95, and in particular Article 26 (2) and (3) thereof,</p>
+      <p n="8">Whereas a graphic symbol has been created, in application of Regulations (EEC) No 3763/91, (EEC) No 1600/92 and (EEC) No 1601/92, following an invitation to tender, in order to improve awareness and promote the consumption of processed and unprocessed quality agricultural products specific to the most remote regions of the Community;</p>
+      <p n="9">Whereas Commission Regulation (EC) No 1418/96 (6) lays down the detailed rules for the use of the graphic symbol;</p>
+      <p n="10">Whereas, in order to achieve the above objectives, the graphic symbol should be made available to the users referred to in Article 2 of Regulation (EC) No 1418/96, traders wishing to promote, increase the value of and market the products concerned and consumers;</p>
+      <p n="11">Whereas the technical rules for the reproduction of the graphic symbol and for its correct use should also be laid down,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The graphic symbol referred to in Article 20 of Regulation (EEC) No 3763/91, Article 31 of Regulation (EEC) No 1600/92 and Article 26 of Regulation (EEC) No 1601/92 shall be as set out in the Annex.</p>
+      <p n="15">Article 2</p>
+      <p n="16">The graphic symbol shall be reproduced and used in accordance with the technical rules set out in the Annex.</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 25 October 1996.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ No L 356, 24. 12. 1991, p. 1.</p>
+      <p n="25">(2) OJ No L 267, 9. 11. 1995, p. 1.</p>
+      <p n="26">(3) OJ No L 173, 27. 6. 1992, p. 1.</p>
+      <p n="27">(4) OJ No L 260, 31. 10. 1995, p. 10.</p>
+      <p n="28">(5) OJ No L 173, 27. 6. 1992, p. 13.</p>
+      <p n="29">(6) OJ No L 182, 23. 7. 1996, p. 9.</p>
+      <p n="30">Annex</p>
+      <p n="31">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="32">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="33">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="34">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="35">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="36">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+    </body>
+  </text>
+</TEI.2>

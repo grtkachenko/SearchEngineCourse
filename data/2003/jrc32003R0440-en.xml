@@ -1,0 +1,202 @@
+<TEI.2 id="jrc32003R0440-en" n="32003R0440" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0440 English</title>
+        <title>Commission Regulation (EC) No 440/2003 of 10 March 2003 amending Regulation (EEC) No 2676/90 determining Community methods for the analysis of wines</title>
+      </titleStmt>
+      <extent>166 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0440:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0440:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1134</classCode>
+        <classCode scheme="eurovoc">2730</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">4713</classCode>
+        <classCode scheme="eurovoc">5300</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0440-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 440/2003 of 10 March 2003 amending Regulation (EEC) No 2676/90 determining Community methods for the analysis of wines</head>
+      <p n="2">Commission Regulation (EC) No 440/2003</p>
+      <p n="3">of 10 March 2003</p>
+      <p n="4">amending Regulation (EEC) No 2676/90 determining Community methods for the analysis of wines</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 2585/2001(2), and in particular the first subparagraph of Article 46(3) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Annex to Commission Regulation (EEC) No 2676/90(3), as last amended by Regulation (EC) No 1622/2000(4), describes analysis methods.</p>
+      <p n="10">(2) An analysis method for D-malic acid suitable for measuring the low levels found in wines has been developed and validated according to recognised international criteria. The International Vine and Wine Office adopted the description of this new method at its General Assembly in June 2002.</p>
+      <p n="11">(3) A new method for determining the carbon isotope ratio of wine ethanol or of ethanol obtained through the fermentation of grape musts, concentrated grape musts or rectified concentrated grape musts has been developed and validated according to recognised international criteria. The International Vine and Wine Office adopted the description of this new method at its General Assembly in 2001.</p>
+      <p n="12">(4) The use of these methods can ensure better control of wine quality and authenticity and prevent disputes caused by the application of less accurate testing methods, particularly as regards enrichment with mixtures of sugars of various origins and the acidification of wines using malic acid.</p>
+      <p n="13">(5) The existing method for the dosage of D-malic acid described in the Annex to Regulation (EEC) No 2676/90 should be supplemented by the description of the procedure for determining low levels and the description of the new isotopic method for carbon in ethanol should be added.</p>
+      <p n="14">(6) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The Annex to Regulation (EEC) No 2676/90 is hereby amended as follows:</p>
+      <p n="18">1. In Chapter 20, "D-malic acid", point 8 is replaced by Annex I hereto.</p>
+      <p n="19">2. Chapter 45 in Annex II hereto is added.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Union.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 10 March 2003.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz Fischler</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="28">(2) OJ L 345, 29.12.2001, p. 10.</p>
+      <p n="29">(3) OJ L 272, 3.10.1990, p. 1.</p>
+      <p n="30">(4) OJ L 194, 31.7.2000, p. 1.</p>
+      <p n="31">ANNEX I</p>
+      <p n="32">"8. DOSAGE OF D-MALIC ACID (D(+)-MALIC ACID) IN WINES WITH LOW LEVELS</p>
+      <p n="33">8.1. FIELD OF APPLICATION</p>
+      <p n="34">The method described is applied to the dosage, by enzymatic means, of D-malic acid of wines with levels under 50 mg/l.</p>
+      <p n="35">8.2. PRINCIPLE</p>
+      <p n="36">The principle of the method is described in point 1. The formation of NADH after the introduction into the cuvette of 50 mg/l of D-malic acid is proportional to the quantity of D-malate present and is measured on the basis of the increase in absorbance at a wavelength of 340 nm.</p>
+      <p n="37">8.3. REAGENTS</p>
+      <p n="38">A 0,199 g/l D-malic acid solution plus the reagents indicated in point 2.</p>
+      <p n="39">8.4. APPARATUS</p>
+      <p n="40">Apparatus indicated in point 3.</p>
+      <p n="41">8.5. PREPARATION OF THE SAMPLE</p>
+      <p n="42">As indicated in point 4.</p>
+      <p n="43">8.6. PROCEDURE</p>
+      <p n="44">The procedure is as described in point 5, but with the introduction into the measuring cuvette of 50 mg/l of D-malic acid. (Introduction of 0,025 ml of 0,199 g/l D-malic acid solution, displacing the equivalent volume of water); the values obtained are decreased by 50 mg/l.</p>
+      <p n="45">8.7. INTERNAL VALIDATION</p>
+      <p n="46">The table below summarises the internal validation file on the method for determining the dosage of D(+)-malic acid after the addition of 50 mg/l of the isomer.</p>
+      <p n="47">&gt;TABLE&gt;"</p>
+      <p n="48">ANNEX II</p>
+      <p n="49">"45. DETERMINATION BY ISOTOPE MASS SPECTROMETRY OF THE 13C/12C RATIO IN WINE ETHANOL OR ETHANOL OBTAINED BY THE FERMENTATION OF MUSTS, CONCENTRATED MUSTS OR RECTIFIED CONCENTRATED MUSTS</p>
+      <p n="50">1. FIELD OF APPLICATION</p>
+      <p n="51">The method enables measurement of the 13C/12C isotope ratio in wine ethanol and ethanol obtained by fermentation of products of the vine (musts, concentrated musts, rectified concentrated musts).</p>
+      <p n="52">2. REFERENCE STANDARDS</p>
+      <p n="53">ISO: 5725:1994 'Accuracy (trueness and precision) of measurement methods and results: Basic method for the determination of repeatability and reproducibility of a standard measurement method'.</p>
+      <p n="54">V-PDB: Vienna-Pee-Dee Belemnite (RPDB = 0,0112372).</p>
+      <p n="55">Method 8 of the Annex to this Regulation: 'Detecting enrichment of grape musts, concentrated grape musts, rectified concentrated grape musts and wines by application of nuclear magnetic resonance of deuterium (SNIF-NMR).'</p>
+      <p n="56">3. TERMS AND DEFINITIONS</p>
+      <p n="57">13C/12C: ratio of carbon 13 (13C) to carbon 12 (12C) isotopes for a given sample.</p>
+      <p n="58">δ13C: carbon 13 content (13C) expressed in parts per 1000 ([permil ]).</p>
+      <p n="59">SNIF-NMR: fractionating the particular natural isotope under study by nuclear magnetic resonance.</p>
+      <p n="60">V-PDB: Vienna-Pee-Dee Belemnite. PDB is the primary reference material for measuring natural variations of carbon 13 isotope content, consisting of calcium carbonate from a Cretaceous belemnite guard from the Pee Dee Formation in South Carolina (USA). Its 13C/12C isotope ratio or RPDB is 0,0112372. PDB reserves have been exhausted for a long time, but it has remained the primary reference for expressing natural variations of carbon 13 isotope content and against which the reference material available at the International Atomic Energy Agency (IAEA) in Vienna (Austria) is calibrated. Isotopic indications of naturally occurring carbon 13 are conventionally expressed in relation to V-PDB.</p>
+      <p n="61">m/z: mass-to-charge ratio.</p>
+      <p n="62">4. PRINCIPLE</p>
+      <p n="63">During photosynthesis, the assimilation of carbon dioxide by plants occurs via two principle forms of metabolism, the C3 metabolism (Calvin cycle) and the C4 metabolism (Hatch and Slack). These two photosynthesis mechanisms present a different type of isotope fractionation. Products of C4 plants, such as sugars and alcohol derived from fermentation, have higher levels of carbon 13 than similar products of C3 plants. Most plants, including vines and sugar beets, belong to the C3 group. Sugar cane and maize belong to the C4 group. Measuring the carbon 13 content enables the detection and evaluation of sugars of C4 origin (sugar cane or maize isoglucose) added to grape products (grape musts, wines, etc.). The information on carbon 13 content combined with that obtained from SNIF-NMR enables the added quantities of mixtures of sugars or alcohols derived from C3 and C4 plants to be determined.</p>
+      <p n="64">The carbon 13 content is determined on carbon dioxide produced during the complete combustion of the sample. The abundance of the principle isotopomers of masses 44 (12C16O2), 45 (13C16O2 and 12C17O16O) and 46 (12C16O18O), resulting from the different possible combinations of isotopes 18O, 17O, 16O, 13C and 12C, are determined from the ionic currents measured by three different collectors of a mass isotopic spectrometer. The contributions of isotopomers 13C17O16O and 12C17O2 may be disregarded given their low levels. The ionic current for m/z = 45 is corrected for the contribution of 12C17O16O, which is calculated according to the current intensity measured for m/z = 46, while taking the relative abundance of 18O and 17O into account (Craig correction). Comparison with a reference calibrated against the international reference V-PDB permits calculation of carbon 13 content on the δ13C relative scale.</p>
+      <p n="65">5. REAGENTS</p>
+      <p n="66">The material and the consumables depend on the apparatus (point 6) used by the laboratory. The systems generally used are based on elemental analysers. These systems can be equipped to allow the introduction of samples placed in sealed metal capsules or the injection of liquid samples through a septum using a syringe.</p>
+      <p n="67">Depending on the type of instrument used, the following reference materials, reagents, and consumables may be used:</p>
+      <p n="68">- reference materials</p>
+      <p n="69">- available from the IAEA:</p>
+      <p n="70">&gt;TABLE&gt;</p>
+      <p n="71">- available from the IRMM in Geel (B) (Institute for Reference Materials and Measurements):</p>
+      <p n="72">&gt;TABLE&gt;</p>
+      <p n="73">- a standard working sample with a known 13C/12C ratio calibrated against international reference materials,</p>
+      <p n="74">- the following is an indicative list of consumables for continuous-flow systems:</p>
+      <p n="75">- helium for analysis (CAS 07440-59-7),</p>
+      <p n="76">- oxygen for analysis (CAS 07782-44-7),</p>
+      <p n="77">- carbon dioxide for analysis, used as a secondary reference gas for the carbon 13 content (CAS 00124-38-9),</p>
+      <p n="78">- oxidation reagent for the furnace of the combustion system, for example copper (ΙΙ) oxide for elemental analysis (CAS 1317-38-0),</p>
+      <p n="79">- a desiccant to eliminate water produced in combustion, for example anhydrone for elemental analysis (magnesium perchlorate) (CAS 10034-81-8) (This is not necessary for apparatuses equipped with a water elimination system using cryogenic traps or selectively permeable capillaries).</p>
+      <p n="80">6. APPARATUS AND EQUIPMENT</p>
+      <p n="81">6.1. Isotope ratio mass spectrometer (IRMS)</p>
+      <p n="82">Isotope ratio mass spectrometer (IRMS) capable of determining the relative 13C content of naturally occurring CO2 gas with an internal accuracy of 0,05 [permil ] or better expressed as a relative value (point 9). Internal accuracy here is defined as the difference between two measurements of the same sample of CO2. The mass spectrometer used to measure isotope ratios is generally equipped with a triple collector to simultaneously measure intensities for m/z = 44, 45 and 46. The isotope ratio mass spectrometer must either be equipped with a dual inlet, to alternately measure the unknown sample and a reference sample, or use an integrated system that carries out the quantitative combustion of samples and separates the carbon dioxide from the other combustion products before measurement in the mass spectrometer.</p>
+      <p n="83">6.2. Combustion apparatus</p>
+      <p n="84">Combustion apparatus able to quantitatively convert ethanol into carbon dioxide and eliminate all other combustion products including water, without any isotopic fractionation. The apparatus may be either a continuous-flow system integrated with the mass spectrometry apparatus (point 6.2.1) or a separate combustion system (point 6.2.2). The apparatus must permit an accuracy of at least that indicated in (point 11).</p>
+      <p n="85">6.2.1. Continuous-flow systems</p>
+      <p n="86">These comprise either an elemental analyser or a gas chromatograph with an online combustion system.</p>
+      <p n="87">The following laboratory equipment is needed for systems equipped for the introduction of samples contained in metal capsules:</p>
+      <p n="88">- calibrated microsyringe or micropipette with appropriate tips,</p>
+      <p n="89">- balance with μg accuracy or better,</p>
+      <p n="90">- tweezers for encapsulation,</p>
+      <p n="91">- tin capsules for liquid samples,</p>
+      <p n="92">- tin capsules for solid samples.</p>
+      <p n="93">Note:</p>
+      <p n="94">in order to reduce the risk of evaporation of ethanol samples, an absorbent material (for example Chromosorb W 45-60 mesh) may be placed in the capsules, it first having been verified by means of a measurement without a sample that is does not contain a significant quantify of carbon likely to affect the results.</p>
+      <p n="95">The following laboratory equipment is needed when using an elemental analyser equipped with a liquid injector or in the case of a combustion chromatography preparation system:</p>
+      <p n="96">- syringe for liquids,</p>
+      <p n="97">- flasks equipped with airtight closing systems and inert septa.</p>
+      <p n="98">The laboratory equipment indicated in the above lists are examples and may be replaced by other equipment of equivalent performance depending on the type of combustion and mass spectrometry apparatus used by the laboratory.</p>
+      <p n="99">6.2.2. Separate preparation system</p>
+      <p n="100">The samples of carbon dioxide resulting from the combustion of the samples to be analysed and the reference sample are collected in bulbs which are then placed in the dual inlet of the spectrometer for isotopic analysis. Several combustion apparatuses described in the literature may be used:</p>
+      <p n="101">- closed combustion system filled with circulating oxygen,</p>
+      <p n="102">- elemental analyser with helium and oxygen flow,</p>
+      <p n="103">- sealed glass bulb filled with copper (ΙΙ) oxide as an oxidation agent.</p>
+      <p n="104">7. PREPARATION OF SAMPLES FOR TESTS</p>
+      <p n="105">The ethanol must be extracted from the wine before isotopic testing. This is carried out by distilling wine as described in point 3.1 of method No 8 (SNIF-NMR).</p>
+      <p n="106">In the case of grape musts, concentrated grape musts and rectified concentrated grape musts, the sugars must be fermented in ethanol first as described in point 3.2 of method No 8.</p>
+      <p n="107">8. PROCEDURE</p>
+      <p n="108">All steps of the preparation must be carried out without any significant ethanol loss through evaporation that would change the isotopic composition of the sample.</p>
+      <p n="109">The following description refers to the procedures generally used for ethanol sample combustion using commercial automated combustion systems. All other methods that ensure that all of the ethanol sample is converted into carbon dioxide without any loss of ethanol through evaporation may be used for the preparation of carbon dioxide for isotopic analysis.</p>
+      <p n="110">Experimental procedure based on the use of an elemental analyser:</p>
+      <p n="111">(a) placing the samples in capsules:</p>
+      <p n="112">- use capsules, tweezers and a preparation tray, all of which must be clean,</p>
+      <p n="113">- take an appropriate-sized capsule using the tweezers,</p>
+      <p n="114">- introduce an appropriate amount of liquid into the capsule using a micropipette,</p>
+      <p n="115">- Note:</p>
+      <p n="116">3,84 mg of absolute ethanol or 4,17 mg of distillate with an alcohol strength of 92 % m/m are necessary to obtain 2 mg of carbon. The appropriate quantity of distillate must be calculated on that basis, according to the quantity of carbon necessary given the sensitivity of the mass spectrometry apparatus,</p>
+      <p n="117">- close the capsule with the tweezers,</p>
+      <p n="118">- each capsule must be completely sealed. If not, it must be discarded and a new capsule prepared,</p>
+      <p n="119">- two capsules must be prepared for every sample,</p>
+      <p n="120">- place the capsules in the appropriate place on the tray of the automatic sampler of the elemental analyser. Every capsule must be carefully identified by a serial number,</p>
+      <p n="121">- systematically place capsules containing working references at the beginning and the end of the sample series,</p>
+      <p n="122">- regularly insert control samples in the sample series;</p>
+      <p n="123">(b) checking and adjusting the elemental analysis and mass spectrometry apparatus:</p>
+      <p n="124">- adjust the temperature of the elemental analyser furnaces and the helium and oxygen flows for optimal combustion of the sample,</p>
+      <p n="125">- check the elemental analysis and mass spectrometry system for leaks (for example by checking the ionic current where m/z = 28 for N2),</p>
+      <p n="126">- adjust the mass spectrometer to measure the ionic currents where m/z = 44, 45 and 46,</p>
+      <p n="127">- check the system using known control samples before starting to measure the samples;</p>
+      <p n="128">(c) carrying out a series of measurements</p>
+      <p n="129">The samples placed on the automatic sampler of the elemental analyser (or of the chromatograph) are introduced in turn. The carbon dioxide from each sample combustion is eluted towards the mass spectrometer which measures the ionic currents. The interfaced computer records the ionic currents and calculates the δ value for each sample (point 9).</p>
+      <p n="130">9. CALCULATION</p>
+      <p n="131">The purpose of the method is to measure the 13C/12C isotope ratio ofethanol extracted from wine or from products derived from grapes following fermentation. The 13C/12C isotope ratiocan be expressed by its deviation from a working reference. The isotopic deviation of carbon 13 (δ 13C) is then calculated on a delta scale per thousand (δ/1000) by comparing the results obtained for the sample to be measured with those for a working reference previously calibrated on the basis of the primary international reference (V-PDB). The δ 13C values are expressed in relation to the working reference as follows:</p>
+      <p n="132">δ13Csam/ref [permil ] = 1000 × (Rsam-Rref)/Rref</p>
+      <p n="133">where Rsam and Rref are respectively the 13C/12C isotope ratios of the sample and of the carbon dioxide used as the reference gas.</p>
+      <p n="134">The δ 13C values are expressed in relation to V-PDB as follows:</p>
+      <p n="135">δ13Csam/V-PDB [permil ] = δ13Csam/ref +δ13Cref/V-PDB + (δ13Csam/ref × δ13Cref/V-PDB)/1000,</p>
+      <p n="136">where δ13Cref/V-PDB is the previously determined isotopic deviation of the working reference from V-PDB.</p>
+      <p n="137">Small variations may occur while measuring on line due to changes in the instrumental conditions. In this case the δ 13C values of the samples must be corrected according to the difference in the measured δ13C value of the standard working sample and its true value, previously calibrated against V-PDB by comparison with one of the international reference materials. Between two measurements of the standard working sample, the variation, and therefore the correction to be applied to the results obtained from the samples, may be assumed to be linear. The standard working sample must be measured at the beginning and at the end of all sample series. A correction can then be calculated for each sample using linear interpolation.</p>
+      <p n="138">10. QUALITY ASSURANCE AND CONTROL</p>
+      <p n="139">Check that the 13C value for the working reference does not differ by more than 0,5 [permil ] from the admissible value. If not, the spectrometry apparatus settings should be checked and, if necessary, adjusted.</p>
+      <p n="140">For each sample, check that the difference in the results for two capsules measured successively is less than 0,3 [permil ]. The final result for a given sample is the average value for the two capsules. If the deviation is greater than 0,3 [permil ], the measurement must be repeated.</p>
+      <p n="141">Checks on correct measurement can be based on the ionic current where m/z = 44, which is proportional to the quantity of carbon injected into the elemental analyser. Under standard conditions, the ionic current should be almost constant for the samples analysed. A significant deviation could be indicative of ethanol evaporation (for example an imperfect seal on a capsule) or instability of the elemental analyser or mass spectrometer.</p>
+      <p n="142">11. PERFORMANCE CHARACTERISTICS OF THE METHOD (Accuracy)</p>
+      <p n="143">An initial collaborative study (point 11.1) was carried out on distillates containing alcohol of vinous origin and cane and beet alcohol, as well as different mixtures of alcohol of those three origins. Since this study did not take into account the distillation procedure, further information from other interlaboratory studies on wine (point 11.2) and, in particular, series of proficiency tests (point 11.3) for isotopic measurements were also considered. The results show that under satisfactory conditions, and in particular those for measurement using SNIF-NMR, the different distillation systems do not produce significant variation in the determination of the δ13C value of wine ethanol. The accuracy parameters observed for wine are almost identical to those obtained in the joint study on distillates (point 11.1).</p>
+      <p n="144">11.1. Joint study on distillates</p>
+      <p n="145">Year of interlaboratory tests: 1996</p>
+      <p n="146">Number of laboratories: 20</p>
+      <p n="147">Number of samples: Six samples in double-blind comparison</p>
+      <p n="148">Analyte: δ 13C of ethanol</p>
+      <p n="149">&gt;TABLE&gt;</p>
+      <p n="150">&gt;TABLE&gt;</p>
+      <p n="151">11.2. Interlaboratory study on two wines and one alcohol</p>
+      <p n="152">Year of interlaboratory tests: 1996</p>
+      <p n="153">Number of laboratories: 14 for distillation of wine of which seven also measured δ 13C of wine ethanol,</p>
+      <p n="154">Eight for measuring δ 13C of alcohol sample,</p>
+      <p n="155">Number of samples: Three (white wine of 9,3 % ASV, white wine of 9,6 % ASV and alcohol of strength 93 % m/m).</p>
+      <p n="156">Analyte: δ 13C of ethanol</p>
+      <p n="157">&gt;TABLE&gt;</p>
+      <p n="158">Different distillation systems were used by the participating laboratories. The isotopic determinations (δ 13C) carried out in a single laboratory on the whole number of distillates returned by the participants do not reveal any aberrant values or values that differ significantly from the average values. The variation in results (S2 = 0,0059) is comparable to the repeatability variances Sr2 in the joint study on distillates (point 11.1).</p>
+      <p n="159">11.3. Results of the exercises carried out to monitor proficiency in performing isotopic tests</p>
+      <p n="160">Since December 1994, international proficiency tests for the determination of isotopic measurements for wine and alcohol (distillates of 96 % ASV) have been regularly organised. The results enable participating laboratories to check the quality of their analyses. Statistical results permit appreciation of the variation in measurements under conditions of reproducibility and therefore an estimation of the parameters of variance and the limit of reproducibility. The results obtained for the determination of δ 13C for wine and distillate ethanol are summarised in the following table:</p>
+      <p n="161">&gt;TABLE&gt;</p>
+      <p n="162">N number of participating laboratories.</p>
+      <p n="163">11.4. Limits of repeatability and reproducibility</p>
+      <p n="164">On the basis of the data from the different interlaboratory tests given in the above tables, the following limits of repeatability and reproducibility can be established for this method, including the distillation stage:</p>
+      <p n="165">limit of repeatability r: 0,24</p>
+      <p n="166">limit of reproducibility R: 0,6."</p>
+    </body>
+  </text>
+</TEI.2>

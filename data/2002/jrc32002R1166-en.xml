@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32002R1166-en" n="32002R1166" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1166 English</title>
+        <title>Commission Regulation (EC) No 1166/2002 of 28 June 2002 amending Regulation (EC) No 174/1999 laying down special detailed rules for the application of Council Regulation (EEC) No 804/68 as regards export licences and export refunds in the case of milk and milk products</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1166:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1166:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1166-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1166/2002 of 28 June 2002 amending Regulation (EC) No 174/1999 laying down special detailed rules for the application of Council Regulation (EEC) No 804/68 as regards export licences and export refunds in the case of milk and milk products</head>
+      <p n="2">Commission Regulation (EC) No 1166/2002</p>
+      <p n="3">of 28 June 2002</p>
+      <p n="4">amending Regulation (EC) No 174/1999 laying down special detailed rules for the application of Council Regulation (EEC) No 804/68 as regards export licences and export refunds in the case of milk and milk products</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), as last amended by Commission Regulation (EC) No 509/2002(2), and in particular Article 26(3) and Article 31(14) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 174/1999(3), as last amended by Regulation (EC) No 787/2002(4), lays down special detailed rules for applying Council Regulation (EEC) No 804/68(5), as last amended by Regulation (EC) No 1587/96(6), as regards export licences and export refunds in the case of milk and milk products. In order to ensure that the export refund arrangements are properly managed and reduce the risk of speculation and disturbance in the arrangements for certain milk products, the security set in the above Regulation should be increased.</p>
+      <p n="10">(2) Article 15 of Regulation (EC) No 174/1999 provides for refunds on exports of cheeses to be differentiated according to destination zone. In view of the trends in the refunds for the various destinations, certain zones can be abolished. In the interests of simplification, certain destination zones should be merged.</p>
+      <p n="11">(3) Regulation (EC) No 174/1999 should therefore be amended accordingly.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EC) No 174/1999 is amended as follows:</p>
+      <p n="16">1. The first paragraph of Article 9 is replaced by the following: "The security referred to in Article 15(2) of Regulation (EC) No 1291/2000 shall be equal to a percentage of the refund fixed for each product code applicable on the day the export licence application is lodged, as follows:</p>
+      <p n="17">(a) 10 % for products covered by CN code 0405;</p>
+      <p n="18">(b) 30 % for products covered by CN code 0402 10;</p>
+      <p n="19">(c) 30 % for products covered by CN code 0406;</p>
+      <p n="20">(d) 25 % for other products."</p>
+      <p n="21">2. Article 15(3) is replaced by the following: "3. The zones referred to in paragraph 1 shall be as follows:</p>
+      <p n="22">- zone I: destination codes 070 and 091 to 096,</p>
+      <p n="23">- zone III: destination code 400,</p>
+      <p n="24">- zone VI: all other destination codes."</p>
+      <p n="25">Article 2</p>
+      <p n="26">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="27">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="28">Done at Brussels, 28 June 2002.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">Franz Fischler</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ L 160, 26.6.1999, p. 48.</p>
+      <p n="33">(2) OJ L 79, 22.3.2002, p. 15.</p>
+      <p n="34">(3) OJ L 20, 27.1.1999, p. 8.</p>
+      <p n="35">(4) OJ L 127, 14.5.2002, p. 6.</p>
+      <p n="36">(5) OJ L 148, 28.6.1968, p. 13.</p>
+      <p n="37">(6) OJ L 206, 16.8.1996, p. 21.</p>
+    </body>
+  </text>
+</TEI.2>

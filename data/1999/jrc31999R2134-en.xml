@@ -1,0 +1,71 @@
+<TEI.2 id="jrc31999R2134-en" n="31999R2134" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2134 English</title>
+        <title>Commission Regulation (EC) No 2134/1999 of 7 October 1999 amending Regulation (EC) No 921/1999 as regards bearing the transport costs of fruit and vegetables withdrawn from the market and distributed to people originating in Kosovo</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2134:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2134:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1099</classCode>
+        <classCode scheme="eurovoc">1119</classCode>
+        <classCode scheme="eurovoc">1608</classCode>
+        <classCode scheme="eurovoc">2986</classCode>
+        <classCode scheme="eurovoc">3618</classCode>
+        <classCode scheme="eurovoc">5695</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2134-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2134/1999 of 7 October 1999 amending Regulation (EC) No 921/1999 as regards bearing the transport costs of fruit and vegetables withdrawn from the market and distributed to people originating in Kosovo</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2134/1999</p>
+      <p n="3">of 7 October 1999</p>
+      <p n="4">amending Regulation (EC) No 921/1999 as regards bearing the transport costs of fruit and vegetables withdrawn from the market and distributed to people originating in Kosovo</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Regulation (EC) No 1257/1999(2), and in particular Article 30(7) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 659/97(3), as last amended by Regulation (EC) No 729/1999(4), lays down detailed rules for applying Regulation (EC) No 2200/96 as regards intervention arrangements in the fruit and vegetables sector and especially the free distribution of products withdrawn from the market as humanitarian aid outside the Community and bearing the transport costs of these products between the point of withdrawal and the point of exit from the Community;</p>
+      <p n="10">(2) Commission Regulation (EC) No 921/1999(5) provides for special measures to distribute fruit and vegetables withdrawn from the market to refugees from Kosovo;</p>
+      <p n="11">(3) Although many refugees have now returned to Kosovo, they are still in difficulty, as are many other inhabitants of the province, although not refugees. The free distribution to them of products withdrawn from the market should be permitted. In order to maintain their eligibility for the special measures for refugees provided for in Regulation (EC) No 921/1999 and to extend these to the inhabitants of the region, the words "refugees from Kosovo" and "Kosovo refugees" should be replaced by "people originating in Kosovo";</p>
+      <p n="12">(4) To facilitate aid to these people, the transport costs from the Community exit point to the place of delivery should also be borne, until further notice. This provision should consequently be added to Regulation (EC) No 921/1999;</p>
+      <p n="13">(5) The Commission should closely monitor the special measures adopted by the Member States in application of Article 18 of Regulation (EC) No 659/97;</p>
+      <p n="14">(6) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">In the title and Article 1 of Regulation (EC) No 921/1999, the words "refugees from Kosovo" and "Kosovo refugees" are replaced by "people originating in Kosovo".</p>
+      <p n="18">Article 2</p>
+      <p n="19">The following Article 1a is inserted after Article 1 of Regulation (EC) No 921/1999.</p>
+      <p n="20">"Article 1a</p>
+      <p n="21">1. Notwithstanding the first sentence of the second subparagraph of Article 15(1) of Regulation (EC) No 659/97, in the case of the operations referred to in Article 1 above, the distance to be considered for meeting the transport costs shall be the distance between the point of withdrawal and the point of delivery to people originating in Kosovo and their host families.</p>
+      <p n="22">2. The Member States concerned shall notify the Commission of the special measures adopted in application of Article 18 of Regulation (EC) No 659/97 in order to ensure that the operations referred to in Article 1 are carried out correctly."</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 7 October 1999.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Franz FISCHLER</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="31">(2) OJ L 160, 26.6.1999, p. 80.</p>
+      <p n="32">(3) OJ L 100, 17.4.1997, p. 22.</p>
+      <p n="33">(4) OJ L 93, 8.4.1999, p. 11.</p>
+      <p n="34">(5) OJ L 114, 1.5.1999, p. 46.</p>
+    </body>
+  </text>
+</TEI.2>

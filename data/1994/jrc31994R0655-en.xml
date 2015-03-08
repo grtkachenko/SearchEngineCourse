@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31994R0655-en" n="31994R0655" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994R0655 English</title>
+        <title>Commission Regulation (EC) No 655/94 of 24 March 1994 amending Regulation (EEC) No 2454/93 laying down provisions for the implementation of the Community Customs Code in respect of the single administrative document and the codes to be used</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R0655:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R0655:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994R0655-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 655/94 of 24 March 1994 amending Regulation (EEC) No 2454/93 laying down provisions for the implementation of the Community Customs Code in respect of the single administrative document and the codes to be used</head>
+      <p n="2">COMMISSION REGULATION (EC) No 655/94 of 24 March 1994 amending Regulation (EEC) No 2454/93 laying down provisions for the implementation of the Community Customs Code in respect of the single administrative document and the codes to be used</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (1), and in particular Article 249 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 2454/93 (2), amended by Regulation (EC) No 3665/93 (3), established the forms to be used for the customs declaration;</p>
+      <p n="7">Whereas operations carried out under the economic outward processing arrangements for textiles should be clearly identifiable on customs declarations;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Annex 38 to Regulation (EEC) No 2454/93 is hereby amended in accordance with the Annex to this Regulation.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">It shall apply from 1 January 1995.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 24 March 1994.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Christiane SCRIVENER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 302, 19. 10. 1992, p. 1.</p>
+      <p n="21">(2) OJ No L 253, 11. 10. 1993, p. 1.</p>
+      <p n="22">(3) OJ No L 335, 31. 12. 1993, p. 1.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">Annex 38 to Regulation (EEC) No 2454/93 is hereby amended as follows:</p>
+      <p n="25">- the text referring to Codes 21 and 22 in the section concerning Box 37 should read as follows:</p>
+      <p n="26">'21. Temporary export under the customs outward processing procedure (1)() other than that referred to under Code 25.</p>
+      <p n="27">22. Temporary export under an outward processing procedure other than those referred to unter Code 21 or Code 25.</p>
+      <p n="28">'.</p>
+      <p n="29">- The following Code is inserted into the section concerning Box 37:</p>
+      <p n="30">'25. Temporary export in all cases where the economic outward processing arrangements for textiles established by Regulation (EEC) No 636/82 is applicable.'</p>
+      <p n="31">(1)() Article 145 (1) of Regulation (EEC) No 2913/92</p>
+    </body>
+  </text>
+</TEI.2>

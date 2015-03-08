@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31999R1972-en" n="31999R1972" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1972 English</title>
+        <title>Commission Regulation (EC) No 1972/1999 of 15 September 1999 amending Regulation (EEC) No 3600/92 laying down the detailed rules for the implementation of the first stage of the programme of work referred to in Article 8(2) of Council Directive 91/414/EEC concerning the placing of plant protection products on the market</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1972:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1972:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2773</classCode>
+        <classCode scheme="eurovoc">2985</classCode>
+        <classCode scheme="eurovoc">6057</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1972-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1972/1999 of 15 September 1999 amending Regulation (EEC) No 3600/92 laying down the detailed rules for the implementation of the first stage of the programme of work referred to in Article 8(2) of Council Directive 91/414/EEC concerning the placing of plant protection products on the market</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1972/1999</p>
+      <p n="3">of 15 September 1999</p>
+      <p n="4">amending Regulation (EEC) No 3600/92 laying down the detailed rules for the implementation of the first stage of the programme of work referred to in Article 8(2) of Council Directive 91/414/EEC concerning the placing of plant protection products on the market</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Directive 91/414/EEC of 15 July 1991 concerning the placing of plant protection products on the market(1), as last amended by Commission Directive 1999/1/EC(2), and in particular Article 8(2) thereof,</p>
+      <p n="8">(1) Whereas the re-evaluation of active substances already on the market two years after notification of Directive 91/414/EEC under Article 8(2) of that Directive is organised by the Commission in a collaborative and coordinated programme established in Commission Regulation (EEC) No 3600/92(3), as last amended by Regulation (EC) No 1199/97(4), within which Member States undertake specific tasks contributing to the scientific and technical assessment which are the basis for regulatory decisions taken at Community level;</p>
+      <p n="9">(2) Whereas it is necessary that any interested parties have access as early as possible to updated information concerning tests and studies on which claims for data protection have been presented as well as concerning tests and studies which may be required at a later stage in order to finalise the evaluation and decision making on the active substance concerned; whereas this information should be made available by the rapporteur Member State;</p>
+      <p n="10">(3) Whereas Commission Regulation (EEC) No 3600/92 should therefore be amended to ensure access to such information to any interested parties;</p>
+      <p n="11">(4) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plant Health,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The second sentence of the second subparagraph of Article 7(3) of Regulation (EEC) No 3600/92 is amended as follows: "The Rapporteur Member State shall make available at specific request or keep available for consultation by interested parties the following:</p>
+      <p n="15">- the information referred to in point (d) of paragraph 1, except the elements thereof which have been accepted as confidential in accordance with Article 14 of the Directive;</p>
+      <p n="16">- the name of the active substance;</p>
+      <p n="17">- the content of the pure active substance in the manufactured material;</p>
+      <p n="18">- the list of any data required for consideration of the possible inclusion of the active substance into Annex I to the Directive, first as contained in the rapporteur's report and secondly as finalised after the consultation by the Commission of the experts referred to in the next subparagraph."</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on 1 October 1999.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 15 September 1999.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 230, 9.8.1991, p. 1.</p>
+      <p n="27">(2) OJ L 21, 28.1.1999, p. 21.</p>
+      <p n="28">(3) OJ L 366, 15.12.1992, p. 10.</p>
+      <p n="29">(4) OJ L 170, 28.6.1997, p. 19.</p>
+    </body>
+  </text>
+</TEI.2>

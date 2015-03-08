@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32001R0384-en" n="32001R0384" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R0384 English</title>
+        <title>Commission Regulation (EC) No 384/2001 of 26 February 2001 amending Regulation (EC) No 2636/1999 as regards the communication of data on the average price for each group of varieties of raw tobacco</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0384:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0384:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1076</classCode>
+        <classCode scheme="eurovoc">1395</classCode>
+        <classCode scheme="eurovoc">2683</classCode>
+        <classCode scheme="eurovoc">4038</classCode>
+        <classCode scheme="eurovoc">5070</classCode>
+        <classCode scheme="eurovoc">5334</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R0384-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 384/2001 of 26 February 2001 amending Regulation (EC) No 2636/1999 as regards the communication of data on the average price for each group of varieties of raw tobacco</head>
+      <p n="2">Commission Regulation (EC) No 384/2001</p>
+      <p n="3">of 26 February 2001</p>
+      <p n="4">amending Regulation (EC) No 2636/1999 as regards the communication of data on the average price for each group of varieties of raw tobacco</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2075/92 of 30 June 1992 on the common organisation of the market in raw tobacco(1), as last amended by Regulation (EC) No 1336/2000(2), and in particular Article 21 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In the interests of sound administration, the Member States should be asked to communicate the data on the average price actually paid by the first processing enterprises, weighted by the quantities delivered per lot of raw tobacco.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Raw Tobacco,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Annex II to Commission Regulation (EC) No 2636/1999(3) is replaced by the Annex to this Regulation.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 26 February 2001.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz Fischler</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 215, 30.7.1992, p. 70.</p>
+      <p n="22">(2) OJ L 154, 27.6.2000, p. 2.</p>
+      <p n="23">(3) OJ L 323, 15.12.1999, p. 4.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">"ANNEX II</p>
+      <p n="26">&gt;PIC FILE= "L_2001057EN.001703.EPS"&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

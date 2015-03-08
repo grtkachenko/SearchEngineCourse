@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32001R1800-en" n="32001R1800" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1800 English</title>
+        <title>Commission Regulation (EC) No 1800/2001 of 13 September 2001 amending Council Regulation (EC) No 1420/1999 and Regulation (EC) No 1547/1999 as regards shipments of certain types of waste to Guinea (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1800:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1800:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1216</classCode>
+        <classCode scheme="eurovoc">5336</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1800-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1800/2001 of 13 September 2001 amending Council Regulation (EC) No 1420/1999 and Regulation (EC) No 1547/1999 as regards shipments of certain types of waste to Guinea (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 1800/2001</p>
+      <p n="3">of 13 September 2001</p>
+      <p n="4">amending Council Regulation (EC) No 1420/1999 and Regulation (EC) No 1547/1999 as regards shipments of certain types of waste to Guinea</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 259/93 of 1 February 1993 on the supervision and control of shipments of waste within, into and out of the European Community(1), as last amended by Commission Decision 1999/816/EC(2), and in particular Article 17(3) thereof,</p>
+      <p n="9">Having regard to Council Regulation (EC) No 1420/1999 of 29 April 1999 establishing common rules and procedures to apply to shipments to certain non-OECD countries of certain types of waste(3), as last amended by Commission Regulation (EC) No 77/2001(4), and in particular Article 3(5) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Guinea notified the Commission on 22 March 2001 that the import of all wastes listed in category GM of Annex II to Regulation (EEC) No 259/93 is accepted without any control procedure.</p>
+      <p n="12">(2) In accordance with Article 17(3) of Regulation (EEC) No 259/93, the committee set up by Article 18 of Council Directive 75/442/EEC of 15 July 1975 on waste(5), as last amended by Commission Decision 96/350/EC(6), was notified of the official request of Guinea on 5 April 2001.</p>
+      <p n="13">(3) In order to take into account the new situation of this country, it is necessary to amend at the same time Regulation (EC) No 1420/1999 and Commission Regulation (EC) No 1547/1999(7), as last amended by Regulation (EC) No 1552/2000(8).</p>
+      <p n="14">(4) The measures provided for in this Regulation are in accordance with the opinion of the Committee set up by Article 18 of Directive 75/442/EEC,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Between the text related to GRENADA and HONGKONG in Annex D to Regulation (EC) No 1547/1999, the following text is inserted: "GUINEA</p>
+      <p n="18">All types in section GM (Wastes arising from agro-food industries)."</p>
+      <p n="19">Article 2</p>
+      <p n="20">After the text "All types except" related to Guinea in Annex B to Regulation (EC) No 1420/1999 the text:</p>
+      <p n="21">"&gt;TABLE&gt;"</p>
+      <p n="22">is replaced by the text: "1.</p>
+      <p n="23">&gt;TABLE&gt;</p>
+      <p n="24">2. All types in section GM (Wastes arising from agro-food industries)."</p>
+      <p n="25">Article 3</p>
+      <p n="26">This Regulation shall enter into force on the 20th day following its publication in the Official journal of the European Communities.</p>
+      <p n="27">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="28">Done at Brussels, 13 September 2001.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">Pascal Lamy</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ L 30, 6.2.1993, p. 1.</p>
+      <p n="33">(2) OJ L 316, 10.12.1999, p. 45.</p>
+      <p n="34">(3) OJ L 166, 1.7.1999, p. 6.</p>
+      <p n="35">(4) OJ L 11, 16.1.2001, p. 14.</p>
+      <p n="36">(5) OJ L 194, 25.7.1975, p. 39.</p>
+      <p n="37">(6) OJ L 135, 6.6.1996, p. 32.</p>
+      <p n="38">(7) OJ L 185, 17.7.1999, p. 1.</p>
+      <p n="39">(8) OJ L 176, 15.7.2000, p. 27.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31999D0078-en" n="31999D0078" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0078 English</title>
+        <title>1999/78/EC: Council Decision of 22 June 1998 on the conclusion of an Agreement on Mutual Recognition between the European Community and the United States of America</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0078:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0078:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">5811</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0078-en." lang="en">
+    <body>
+      <head n="1">1999/78/EC: Council Decision of 22 June 1998 on the conclusion of an Agreement on Mutual Recognition between the European Community and the United States of America</head>
+      <p n="2">COUNCIL DECISION of 22 June 1998 on the conclusion of an Agreement on Mutual Recognition between the European Community and the United States of America (1999/78/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113, in conjunction with Article 228(2), first sentence and (3), first subparagraph, and Article 228(4) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas the Agreement on Mutual Recognition between the European Community and the United States of America, signed in London on 18 May 1998, has been negotiated and should be approved;</p>
+      <p n="7">Whereas certain tasks for implementation have been attributed to the Joint Committee established by the Agreement, and in particular the power to amend certain aspects of the Sectoral Annexes thereto;</p>
+      <p n="8">Whereas the appropriate internal procedures should be established to ensure the proper functioning of the Agreement, and whereas it is necessary to empower the Commission to make certain technical amendments to the Agreement and to take certain decisions for its implementation,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Agreement on Mutual Recognition between the European Community and the United States of America, including its Annexes, is hereby approved on behalf of the Community.</p>
+      <p n="12">The text of the Agreement and the Annexes thereto is attached to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The President of the Council shall, on behalf of the Community, transmit the letter provided for in Article 21(1) of the Agreement (1).</p>
+      <p n="15">Article 3</p>
+      <p n="16">1. The Commission shall represent the Community in the Joint Committee provided for in Article 14 of the Agreement, and in the Joint Sectoral Committees established by the Sectoral Annexes, assisted by the special committee designated by the Council. The Commission shall proceed, after consultation with this special committee, to the appointments, notifications, exchange of information and the requests for verifications referred to in Articles 10(b), 12, 13, and 14(2) of the Agreement and the equivalent provisions of its Sectoral Annexes.</p>
+      <p n="17">2. The position of the Community with regard to decisions to be taken by the Joint Committee or if appropriate in the Joint Sectoral Committees shall be determined, with regard to amendments of the Sectoral Annexes (Article 14(4)(b), and Articles 7, 8 and 9 of the Agreement and the equivalent provisions of its Sectoral Annexes), and verification of compliance in accordance with Article 7(d) of the Agreement, by the Commission, following consultation of the special committee, referred to in paragraph 1 of this Article.</p>
+      <p n="18">3. In all other cases the position of the Community in the Joint Committee or Joint Sectoral Committees shall be determined by the Council, acting by qualified majority on a proposal from the Commission. The same procedure shall apply to decisions taken by the Community in the framework of Articles 16 and 21 of the Agreement.</p>
+      <p n="19">Done at Luxembourg, 22 June 1998.</p>
+      <p n="20">For the Council</p>
+      <p n="21">J. BATTLE</p>
+      <p n="22">The President</p>
+      <p n="23">(1) The date of entry into force of the Agreement will be published in the Official Journal of the European Communities.</p>
+    </body>
+  </text>
+</TEI.2>

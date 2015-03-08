@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32004R0323-en" n="32004R0323" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0323 English</title>
+        <title>Commission Regulation (EC) No 323/2004 of 25 February 2004 adapting Regulation (EEC) No 1686/72 on account of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0323:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0323:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">4081</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0323-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 323/2004 of 25 February 2004 adapting Regulation (EEC) No 1686/72 on account of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union</head>
+      <p n="2">Commission Regulation (EC) No 323/2004</p>
+      <p n="3">of 25 February 2004</p>
+      <p n="4">adapting Regulation (EEC) No 1686/72 on account of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular Article 2(3) thereof,</p>
+      <p n="8">Having regard to the Act of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular Article 57(2) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Article 3(4a) of Council Regulation (EEC) No 2358/71 of 26 October 1971 on the common organisation of the market in seeds(1) provides for a mechanism to stabilise production of rice seed and seed other than rice seed involving fixing a maximum quantity eligible for production aid, to be allocated among the Member States.</p>
+      <p n="11">(2) Commission Regulation (EEC) No 1686/72 of 2 August 1972 on certain detailed rules for aid for seed(2) fixes the said maximum quantities of rice seed and seed other than rice seed for the Community and by Member State.</p>
+      <p n="12">(3) In view of the accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the Community on 1 May 2004, the maximum quantity of rice seed and seed other than rice seed eligible for production aid in the enlarged Community and the quantities allocated to each Member State should be fixed. The quantities taken into account for calculating the maximum quantities are those communicated by the Member States to the Commission.</p>
+      <p n="13">(4) The rice seed harvested in a given marketing year is normally used to sow areas for the production of paddy rice and rice seed during the next marketing year. The quantity of seed used in the Community to sow one hectare is 0,2 tonnes. Accordingly, to sow the total base area of (433123 ha + 3222 ha =) 436345 ha, 87269 tonnes of seed are needed.</p>
+      <p n="14">(5) Regulation (EEC) No 1686/72 should be amended accordingly,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Regulation (EEC) No 1686/72 is hereby amended as follows:</p>
+      <p n="18">1. The first subparagraph of Article 3(1) is replaced with the following:"From 1 July 2004, the annual maximum quantity of seed other than rice seed eligible for Community production aid shall be 332841 tonnes, allocated to the producer Member States as follows:</p>
+      <p n="19">&gt;TABLE&gt;"</p>
+      <p n="20">2. The first subparagraph of Article 3a(1) is replaced with the following:"From 1 July 2004, the annual maximum quantity of rice seed eligible for Community production aid shall be 87269 tonnes, allocated to the producer Member States as follows:</p>
+      <p n="21">&gt;TABLE&gt;"</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on 1 May 2004, subject to the entry into force of the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia.</p>
+      <p n="24">It shall apply until the end of the 2004/2005 marketing year.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 25 February 2004.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Franz Fischler</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 246, 5.11.1971, p. 1. Regulation as last amended by Regulation (EC) No 154/2002 (OJ L 25, 29.1.2002, p. 18).</p>
+      <p n="31">(2) OJ L 177, 4.8.1972, p. 26. Regulation as last amended by Regulation (EC) No 800/2002 (OJ L 131, 16.5.2002, p. 3).</p>
+    </body>
+  </text>
+</TEI.2>

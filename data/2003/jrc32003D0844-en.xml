@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32003D0844-en" n="32003D0844" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0844 English</title>
+        <title>2003/844/EC: Commission Decision of 5 December 2003 amending Decision 2002/613/EC as regards the approved porcine semen collection centres of Canada (Text with EEA relevance) (notified under document number C(2003) 4525)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0844:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0844:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2560</classCode>
+        <classCode scheme="eurovoc">3408</classCode>
+        <classCode scheme="eurovoc">5100</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0844-en." lang="en">
+    <body>
+      <head n="1">2003/844/EC: Commission Decision of 5 December 2003 amending Decision 2002/613/EC as regards the approved porcine semen collection centres of Canada (Text with EEA relevance) (notified under document number C(2003) 4525)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 5 December 2003</p>
+      <p n="4">amending Decision 2002/613/EC as regards the approved porcine semen collection centres of Canada</p>
+      <p n="5">(notified under document number C(2003) 4525)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/844/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/429/EEC of 26 June 1990 laying down the animal health requirements applicable to intra-Community trade in and imports of semen of domestic animals of the porcine species(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Article 8(1) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 2002/613/EC of 19 July 2002 laying down the importation conditions of semen of domestic animals of the porcine species(3), as amended by Decision 2003/15/EC(4), establishes a list of third countries, including Canada, from which Member States are to authorise the importation of semen of domestic animals of the porcine species.</p>
+      <p n="13">(2) Canada has sent information of a semen collection centre officially approved by the veterinary authorities of that country for the export of porcine semen to the Community. Canada has requested that that centre be added to the list of semen collection centres approved under Decision 2002/613/EC.</p>
+      <p n="14">(3) Guarantees regarding compliance with the requirements of Directive 90/429/EEC have been received from Canada.</p>
+      <p n="15">(4) Decision 2002/613/EC should therefore be amended accordingly.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Food Chain and Animal Health,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">In Annex V to Decision 2002/613/EC, in the part for Canada, the following row is added:</p>
+      <p n="20">"&gt;TABLE&gt;"</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision shall apply from 9 December 2003.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 5 December 2003.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">David Byrne</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 224, 18.8.1990, p. 62.</p>
+      <p n="30">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="31">(3) OJ L 196, 25.7.2002, p. 45.</p>
+      <p n="32">(4) OJ L 7, 11.1.2003, p. 90.</p>
+    </body>
+  </text>
+</TEI.2>

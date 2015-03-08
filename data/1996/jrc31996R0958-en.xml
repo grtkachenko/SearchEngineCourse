@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31996R0958-en" n="31996R0958" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0958 English</title>
+        <title>Commission Regulation (EC) No 958/96 of 30 May 1996 amending Regulation (EC) No 1431/94 laying down detailed rules for the application in the poultrymeat sector of the import arrangements provided for in Council Regulation (EC) No 774/94</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0958:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0958:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0958-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 958/96 of 30 May 1996 amending Regulation (EC) No 1431/94 laying down detailed rules for the application in the poultrymeat sector of the import arrangements provided for in Council Regulation (EC) No 774/94</head>
+      <p n="2">COMMISSION REGULATION (EC) No 958/96 of 30 May 1996 amending Regulation (EC) No 1431/94 laying down detailed rules for the application in the poultrymeat sector of the import arrangements provided for in Council Regulation (EC) No 774/94</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 774/94 of 29 March 1994 opening and providing for the administration of certain Community tariff quotas for high-quality beef, and for pigmeat, poultrymeat, wheat and meslin, and brans, sharps and other residues (1), as amended by Commission Regulation (EC) No 2198/95 (2), and in particular Article 7 thereof,</p>
+      <p n="6">Having regard to Council Regulation (EC) No 3290/94 of 22 December 1994 on the adjustments and transitional arrangements required in the agriculture sector in order to implement the agreements concluded during the Uruguay Round of multilateral trade negotiations (3), and in particular Article 3 (1) thereof,</p>
+      <p n="7">Whereas Commission Regulation (EC) No 1431/94 (4), as last amended by Regulation (EC) No 2916/95 (5), lays down detailed rules in the poultrymeat sector for the import arrangements provided for in Regulation (EC) No 774/94;</p>
+      <p n="8">Whereas, with a view to preventing speculation and in the light of experience acquired, especially concerning the high number of applicants, the conditions for gaining access to the arrangements must be amended in order to exclude operators not intending to use licences to fulfil their own needs;</p>
+      <p n="9">Whereas the period of validity of the licences permits importers to submit their applications during the first ten days of each quarter;</p>
+      <p n="10">Whereas the Management Committee for Poultrymeat and Eggs has not delivered an opinion within the time limit laid down by its chairman,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Regulation (EC) No 1431/94 is hereby amended as follows:</p>
+      <p n="14">1. Article 3 (a) is replaced by the following:</p>
+      <p n="15">'(a) applicants for import licences must be natural or legal persons who, at the time applications are submitted, can prove to the satisfaction of the competent authorities of the Member States that they imported not less than 100 tonnes (product weight) of products falling within CN codes 0207, 1602 31, 1602 32 and 1602 39 in each of the two previous calendar years. However, retail establishments and restaurants selling their products to the final consumer are excluded from the benefits of this system.`;</p>
+      <p n="16">2. The first subparagraph of Article 4 (1) is replaced by the following:</p>
+      <p n="17">'Licence applications may only be lodged during the first ten days of each period specified in Article 2.`</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on 1 June 1996.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 30 May 1996.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz FISCHLER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ No L 91, 8. 4. 1994, p. 1.</p>
+      <p n="26">(2) OJ No L 221, 19. 9. 1995, p. 3.</p>
+      <p n="27">(3) OJ No L 349, 31. 12. 1994, p. 105.</p>
+      <p n="28">(4) OJ No L 156, 23. 6. 1994, p. 9.</p>
+      <p n="29">(5) OJ No L 305, 19. 12. 1995, p. 49.</p>
+    </body>
+  </text>
+</TEI.2>

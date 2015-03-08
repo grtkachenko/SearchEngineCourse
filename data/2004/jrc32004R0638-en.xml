@@ -1,0 +1,224 @@
+<TEI.2 id="jrc32004R0638-en" n="32004R0638" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0638 English</title>
+        <title>Regulation (EC) No 638/2004 of the European Parliament and of the Council of 31 March 2004 on Community statistics relating to the trading of goods between Member States and repealing Council Regulation (EEC) No 3330/91</title>
+      </titleStmt>
+      <extent>191 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0638:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0638:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">614</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0638-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 638/2004 of the European Parliament and of the Council of 31 March 2004 on Community statistics relating to the trading of goods between Member States and repealing Council Regulation (EEC) No 3330/91</head>
+      <p n="2">Regulation (EC) No 638/2004 of the European Parliament and of the Council</p>
+      <p n="3">of 31 March 2004</p>
+      <p n="4">on Community statistics relating to the trading of goods between Member States and repealing Council Regulation (EEC) No 3330/91</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 285(1) thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to the opinion of the European Economic and Social Committee(1),</p>
+      <p n="9">Acting in accordance with the procedure laid down in Article 251 of the Treaty(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Council Regulation (EEC) No 3330/91 of 7 November 1991 on the statistics relating to the trading of goods between Member States(3) introduced a completely new system of data collection, which has been simplified on two occasions. In order to improve the transparency of this system and to make it easier to understand, Regulation (EEC) No 3330/91 should be replaced by this Regulation.</p>
+      <p n="12">(2) This system should be retained, as a sufficiently detailed level of statistical information is still required for the Community policies involved in the development of the internal market and for Community enterprises to analyse their specific markets. Aggregated data also need to be available quickly in order to analyse the development of the Economic and Monetary Union. Member States should have the possibility of collecting information which meets their specific needs.</p>
+      <p n="13">(3) There is, however, a need to improve the wording of the rules on compiling statistics relating to the trading of goods between Member States so that they can be more easily understood by the companies responsible for providing the data, the national services collecting the data and users.</p>
+      <p n="14">(4) A system of thresholds should be retained, but in a simplified form, in order to provide a satisfactory response to users' needs whilst reducing the burden of response on the parties responsible for providing statistical information, particularly small and medium-sized enterprises.</p>
+      <p n="15">(5) A close link should be maintained between the system for collecting statistical information and the fiscal formalities which exist in the context of trade of goods between Member States. This link makes it possible, in particular, to check the quality of the information collected.</p>
+      <p n="16">(6) The quality of the statistical information produced, its evaluation by means of common indicators and transparency in this field are important objectives, which call for regulation at Community level.</p>
+      <p n="17">(7) Since the objective of the planned action, namely the creation of a common legal framework for the systematic production of Community statistics relating to the trading of goods between Member States, cannot be sufficiently achieved at national level and can be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is required to achieve this objective.</p>
+      <p n="18">(8) Council Regulation (EC) No 322/97 of 17 February 1997 on Community statistics(4) provides a reference framework for this Regulation. However, the very detailed level of information in the field of statistics relating to the trading of goods requires specific rules with regard to confidentiality.</p>
+      <p n="19">(9) It is important to ensure the uniform application of this Regulation and, in order to do so, to make provision for a Community procedure to help determine the implementing arrangements within an appropriate timescale and to make the necessary technical adaptations.</p>
+      <p n="20">(10) The measures necessary for implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(5),</p>
+      <p n="21">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="22">Article 1</p>
+      <p n="23">Subject matter</p>
+      <p n="24">This Regulation establishes a common framework for the systematic production of Community statistics relating to the trading of goods between Member States.</p>
+      <p n="25">Article 2</p>
+      <p n="26">Definitions</p>
+      <p n="27">For the purpose of this Regulation, the following definitions shall apply:</p>
+      <p n="28">(a) "goods": all movable property, including electric current;</p>
+      <p n="29">(b) "specific goods or movements": goods or movements which, by their very nature, call for specific provisions, and in particular industrial plants, vessels and aircraft, sea products, goods delivered to vessels and aircraft, staggered consignments, military goods, goods to or from offshore installations, spacecraft, motor vehicle and aircraft parts and waste products;</p>
+      <p n="30">(c) "national authorities": national statistical institutes and other bodies responsible in each Member State for producing Community statistics relating to the trading of goods between Member States;</p>
+      <p n="31">(d) "Community goods":</p>
+      <p n="32">(i) goods entirely obtained in the customs territory of the Community, without addition of goods from third countries or territories which are not part of the customs territory of the Community;</p>
+      <p n="33">(ii) goods from third countries or territories which are not part of the customs territory of the Community, which have been released for free circulation in a Member State;</p>
+      <p n="34">(iii) goods obtained in the customs territory of the Community either from the goods referred to exclusively in point (ii) or from the goods referred to in points (i) and (ii);</p>
+      <p n="35">(e) "Member State of dispatch": the Member State as defined by its statistical territory from which goods are dispatched to a destination in another Member State;</p>
+      <p n="36">(f) "Member State of arrival": the Member State as defined by its statistical territory in which goods arrive from another Member State;</p>
+      <p n="37">(g) "goods in simple circulation between Member States": Community goods dispatched from one Member State to another, which, on the way to the Member State of destination, travel directly through another Member State or stop for reasons related only to the transport of the goods.</p>
+      <p n="38">Article 3</p>
+      <p n="39">Scope</p>
+      <p n="40">1. Statistics relating to the trading of goods between Member States shall cover dispatches and arrivals of goods.</p>
+      <p n="41">2. Dispatches shall cover the following goods leaving the Member State of dispatch for a destination in another Member State:</p>
+      <p n="42">(a) Community goods, except goods which are in simple circulation between Member States;</p>
+      <p n="43">(b) goods placed in the Member State of dispatch under the inward processing customs procedure or the processing under customs control procedure.</p>
+      <p n="44">3. Arrivals shall cover the following goods entering the Member State of arrival, which were initially dispatched from another Member State:</p>
+      <p n="45">(a) Community goods, except goods which are in simple circulation between Member States;</p>
+      <p n="46">(b) goods formerly placed in the Member State of dispatch according to the inward processing customs procedure or the processing according to customs control procedure, which are maintained according to the inward processing customs procedure or the processing according to customs control procedure or released for free circulation in the Member State of arrival.</p>
+      <p n="47">4. Different or specific rules, to be determined in accordance with the procedure referred to in Article 14(2), may apply to specific goods or movements.</p>
+      <p n="48">5. Some goods, a list of which shall be drawn up in accordance with the procedure referred to in Article 14(2), shall be excluded from the statistics for methodological reasons.</p>
+      <p n="49">Article 4</p>
+      <p n="50">Statistical territory</p>
+      <p n="51">1. The statistical territory of the Member States shall correspond to their customs territory as defined in Article 3 of Council Regulation (EEC) No 2913/92(6) of 12 October 1992 establishing the Community Customs Code.</p>
+      <p n="52">2. By way of derogation from paragraph 1, the statistical territory of Germany shall include Heligoland.</p>
+      <p n="53">Article 5</p>
+      <p n="54">Data sources</p>
+      <p n="55">1. A specific data collection system, hereinafter referred to as the "Intrastat" system, shall apply for the provision of the statistical information on dispatches and arrivals of Community goods which are not the subject of a single administrative document for customs or fiscal purposes.</p>
+      <p n="56">2. The statistical information on dispatches and arrivals of other goods shall be provided directly by customs to the national authorities, at least once a month.</p>
+      <p n="57">3. For specific goods or movements, sources of information other than the Intrastat system or customs declarations may be used.</p>
+      <p n="58">4. Each Member State shall organise the way Intrastat data is supplied by the parties responsible for providing information. To facilitate the task of these parties, the conditions for increased use of automatic data processing and electronic data transmission shall be promoted by the Commission (Eurostat) and the Member States.</p>
+      <p n="59">Article 6</p>
+      <p n="60">Reference period</p>
+      <p n="61">1. The reference period for the information to be provided in accordance with Article 5 shall be the calendar month of dispatch or arrival of the goods.</p>
+      <p n="62">2. The reference period may be adapted to take into account the linkage with value added tax (VAT) and customs obligations, pursuant to provisions adopted in accordance with the procedure referred to in Article 14(2).</p>
+      <p n="63">Article 7</p>
+      <p n="64">Parties responsible for providing information</p>
+      <p n="65">1. The parties responsible for providing the information for the Intrastat system shall be:</p>
+      <p n="66">(a) the natural or legal person registered for VAT in the Member State of dispatch who:</p>
+      <p n="67">(i) has concluded the contract, with the exception of transport contracts, giving rise to the dispatch of goods or, failing that,</p>
+      <p n="68">(ii) dispatches or provides for the dispatch of the goods or, failing that,</p>
+      <p n="69">(iii) is in possession of the goods which are the subject of the dispatch;</p>
+      <p n="70">(b) the natural or legal person registered for VAT in the Member State of arrival who:</p>
+      <p n="71">(i) has concluded the contract, with the exception of transport contracts, giving rise to the delivery of goods or, failing that,</p>
+      <p n="72">(ii) takes delivery or provides for delivery of the goods or, failing that,</p>
+      <p n="73">(iii) is in possession of the goods which are the subject of the delivery.</p>
+      <p n="74">2. The parties responsible for providing information may transfer the task to a third party, but such transfer shall in no way reduce the responsibility of the said party.</p>
+      <p n="75">3. Failure by any party responsible for providing information to fulfil his/her obligations under this Regulation shall render him/her liable to the penalties which the Member States shall lay down.</p>
+      <p n="76">Article 8</p>
+      <p n="77">Registers</p>
+      <p n="78">1. National authorities shall set up and manage a register of intra-Community operators containing at least the consignors, upon dispatch, and the consignees, upon arrival.</p>
+      <p n="79">2. In order to identify the parties responsible for providing information referred to in Article 7 and to check the information which is provided, the tax administration responsible in each Member State shall furnish the national authority:</p>
+      <p n="80">(a) at least once a month, with the lists of natural or legal persons who have declared that, during the period in question, they have supplied goods to other Member States or acquired goods from other Member States. The lists shall show the total values of the goods declared by each natural or legal person for fiscal purposes;</p>
+      <p n="81">(b) on its own initiative or at the request of the national authority, with any information provided for fiscal purposes which could improve the quality of statistics.</p>
+      <p n="82">The arrangements for the communication of the information shall be determined in accordance with the procedure referred to in Article 14(2).</p>
+      <p n="83">This information shall be treated by the national authority in accordance with the rules applied to it by the tax administration.</p>
+      <p n="84">3. The tax administration shall bring to the attention of VAT-registered traders the obligations which they may incur as parties responsible for providing the information required by Intrastat.</p>
+      <p n="85">Article 9</p>
+      <p n="86">Intrastat information to be collected</p>
+      <p n="87">1. The following information shall be collected by the national authorities:</p>
+      <p n="88">(a) the identification number allocated to the party responsible for providing information in accordance with Article 22(1)(c) of the Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes - common system of value added tax: uniform basis of assessment(7), in the version given in Article 28h thereof;</p>
+      <p n="89">(b) the reference period;</p>
+      <p n="90">(c) the flow (arrival, dispatch);</p>
+      <p n="91">(d) the commodity, identified by the eight-digit code of the Combined Nomenclature as defined in Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff(8);</p>
+      <p n="92">(e) the partner Member State;</p>
+      <p n="93">(f) the value of the goods;</p>
+      <p n="94">(g) the quantity of the goods;</p>
+      <p n="95">(h) the nature of the transaction.</p>
+      <p n="96">Definitions of the statistical data referred to in points (e) to (h) are given in the Annex. Where necessary, the arrangements for the collection of this information, particularly the codes to be employed, shall be determined in accordance with the procedure referred to in Article 14(2).</p>
+      <p n="97">2. Member States may also collect additional information, for example:</p>
+      <p n="98">(a) the identification of the goods, at a more detailed level than the Combined Nomenclature;</p>
+      <p n="99">(b) the country of origin, on arrival;</p>
+      <p n="100">(c) the region of origin, on dispatch, and the region of destination, on arrival;</p>
+      <p n="101">(d) the delivery terms;</p>
+      <p n="102">(e) the mode of transport;</p>
+      <p n="103">(f) the statistical procedure.</p>
+      <p n="104">Definitions of the statistical data referred to in points (b) to (f) are given in the Annex. Where necessary, the arrangements for the collection of this information, particularly the codes to be employed, shall be determined in accordance with the procedure referred to in Article 14(2).</p>
+      <p n="105">Article 10</p>
+      <p n="106">Simplification within the Intrastat system</p>
+      <p n="107">1. In order to satisfy users' needs for statistical information without imposing excessive burdens on economic operators, Member States shall define each year thresholds expressed in annual values of intra-Community trade, below which parties are exempted from providing any Intrastat information or may provide simplified information.</p>
+      <p n="108">2. The thresholds shall be defined by each Member State, separately for arrivals and dispatches.</p>
+      <p n="109">3. For defining thresholds below which parties are exempted from providing any Intrastat information, Member States shall ensure that information referred to in Article 9(1), first subparagraph, points (a) to (f), made available by the parties responsible for providing information, is such that at least 97 % of the relevant Member State's total trade expressed in value is covered.</p>
+      <p n="110">4. Member States may define other thresholds below which parties may benefit from the following simplification:</p>
+      <p n="111">(a) exemption from providing information about the quantity of the goods;</p>
+      <p n="112">(b) exemption from providing information about the nature of the transaction;</p>
+      <p n="113">(c) possibility of reporting a maximum of 10 of the detailed relevant subheadings of the Combined Nomenclature, that are the most used in terms of value, and regrouping the other products in accordance with rules determined in accordance with the procedure referred to in Article 14(2).</p>
+      <p n="114">Every Member State applying these thresholds shall ensure that the trade of these parties shall amount to a maximum of 6 % of its total trade.</p>
+      <p n="115">5. Member States may, under certain conditions, which meet quality requirements and which shall be defined in accordance with the procedure referred to in Article 14(2), simplify the information to be provided for small individual transactions.</p>
+      <p n="116">6. The information on the thresholds applied by the Member States shall be sent to the Commission (Eurostat) no later than 31 October of the year preceding the year to which they apply.</p>
+      <p n="117">Article 11</p>
+      <p n="118">Statistical confidentiality</p>
+      <p n="119">Where the parties who have provided information so request, the national authorities shall decide whether statistical results which make it possible indirectly to identify the said provider(s) are to be disseminated or are to be amended in such a way that their dissemination does not prejudice statistical confidentiality.</p>
+      <p n="120">Article 12</p>
+      <p n="121">Transmission of data to the Commission</p>
+      <p n="122">1. Member States shall transmit to the Commission (Eurostat) the monthly results of their statistics relating to the trading of goods between Member States no later than:</p>
+      <p n="123">(a) 40 calendar days after the end of the reference month for the aggregated data to be defined in accordance with the procedure referred to in Article 14(2);</p>
+      <p n="124">(b) 70 calendar days after the end of the reference month in the case of detailed results including the information referred to in Article 9(1), first subparagraph, points (b) to (h).</p>
+      <p n="125">As regards the value of the goods, the results shall include the statistical value only, as defined in the Annex.</p>
+      <p n="126">Member States shall transmit to the Commission (Eurostat) the data which are confidential.</p>
+      <p n="127">2. Member States shall provide the Commission (Eurostat) with monthly results which cover their total trade in goods by using estimates, where necessary.</p>
+      <p n="128">3. Member States shall transmit the data to the Commission (Eurostat) in electronic form, in accordance with an interchange standard. The practical arrangements for the transmission of data shall be determined in accordance with the procedure referred to in Article 14(2).</p>
+      <p n="129">Article 13</p>
+      <p n="130">Quality</p>
+      <p n="131">1. Member States shall take all measures necessary to ensure the quality of the data transmitted according to the quality indicators and standards in force.</p>
+      <p n="132">2. Member States shall present to the Commission (Eurostat) a yearly report on the quality of the data transmitted.</p>
+      <p n="133">3. The indicators and standards enabling the quality of the data to be assessed, the structure of the quality reports to be presented by the Member States and any measures necessary for assessing or improving the quality of the data shall be determined in accordance with the procedure referred to in Article 14(2).</p>
+      <p n="134">Article 14</p>
+      <p n="135">Committee procedure</p>
+      <p n="136">1. The Commission shall be assisted by a Committee for the statistics on the trading of goods between Member States.</p>
+      <p n="137">2. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.</p>
+      <p n="138">The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.</p>
+      <p n="139">3. The Committee shall adopt its Rules of Procedure.</p>
+      <p n="140">Article 15</p>
+      <p n="141">Repeal</p>
+      <p n="142">1. Regulation (EEC) No 3330/91 is hereby repealed.</p>
+      <p n="143">2. References to the repealed regulation shall be construed as being made to this Regulation.</p>
+      <p n="144">Article 16</p>
+      <p n="145">Entry into force</p>
+      <p n="146">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="147">It shall apply from 1 January 2005.</p>
+      <p n="148">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="149">Done at Strasbourg, 31 March 2004.</p>
+      <p n="150">For the European Parliament</p>
+      <p n="151">The President</p>
+      <p n="152">P. Cox</p>
+      <p n="153">For the Council</p>
+      <p n="154">The President</p>
+      <p n="155">D. Roche</p>
+      <p n="156">(1) OJ C 32, 5.2.2004, p. 92.</p>
+      <p n="157">(2) Opinion of the European Parliament of 16 December 2003 (not yet published in the Official Journal) and Council Decision of 22 March 2004.</p>
+      <p n="158">(3) OJ L 316, 16.11.1991, p. 1. Regulation as last amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1).</p>
+      <p n="159">(4) OJ L 52, 22.2.1997, p. 1. Regulation as amended by Regulation (EC) No 1882/2003.</p>
+      <p n="160">(5) OJ L 184, 17.7.1999, p. 23.</p>
+      <p n="161">(6) OJ L 302, 19.10.1992, p. 1. Regulation as last amended by Regulation (EC) No 2700/2000 of the European Parliament and of the Council (OJ L 311, 12.12.2000, p. 17).</p>
+      <p n="162">(7) OJ L 145, 13.6.1977, p. 1. Directive as last amended by Directive 2004/15/EC (OJ L 52, 21.2.2004, p. 61).</p>
+      <p n="163">(8) OJ L 256, 7.9.1987, p. 1. Regulation as last amended by Commission Regulation (EC) No 2344/2003 (OJ L 346, 31.12.2003, p. 38).</p>
+      <p n="164">ANNEX</p>
+      <p n="165">DEFINITIONS OF STATISTICAL DATA</p>
+      <p n="166">1. Partner Member State</p>
+      <p n="167">(a) The partner Member State is the Member State of consignment, on arrival. This means the presumed Member State of dispatch in cases where goods enter directly from another Member State. Where, before reaching the Member State of arrival, goods have entered one or more Member States in transit and have been subject in those States to halts or legal operations not inherent in their transport (e.g. change of ownership), the Member State of consignment shall be taken as the last Member State where such halts or operations occurred.</p>
+      <p n="168">(b) The partner Member State is the Member State of destination, on dispatch. This means the last Member State to which it is known, at the time of dispatch, that the goods are to be dispatched.</p>
+      <p n="169">2. Quantity of the goods</p>
+      <p n="170">The quantity of the goods can be expressed in two ways:</p>
+      <p n="171">(a) the net mass, which means the actual mass of the goods excluding all packaging;</p>
+      <p n="172">(b) the supplementary units, which mean the possible units measuring quantity other than net mass, as detailed in the annual Commission regulation updating the Combined Nomenclature.</p>
+      <p n="173">3. Value of the goods</p>
+      <p n="174">The value of the goods can be expressed in two ways:</p>
+      <p n="175">(a) the taxable amount, which is the value to be determined for taxation purposes in accordance with Directive 77/388/EEC;</p>
+      <p n="176">(b) the statistical value, which is the value calculated at the national borders of the Member States. It includes only incidental expenses (freight, insurance) incurred, in the case of dispatches, in the part of the journey located on the territory of the Member State of dispatch and, in the case of arrivals, in the part of the journey located outside the territory of the Member State of arrival. It is said to be a fob value (free on board) for dispatches, and a cif value (cost, insurance, freight) for arrivals.</p>
+      <p n="177">4. Nature of the transaction</p>
+      <p n="178">The nature of transaction means the different characteristics (purchase/sale, work under contract, etc.) which are deemed to be useful in distinguishing one transaction from another.</p>
+      <p n="179">5. Country of origin</p>
+      <p n="180">(a) The country of origin, on arrivals only, means the country where the goods originate.</p>
+      <p n="181">(b) Goods which are wholly obtained or produced in a country originate in that country.</p>
+      <p n="182">(c) Goods whose production involved more than one country shall be deemed to originate in the country where they underwent their last, substantial, economically justified processing or working in a company equipped for that purpose, resulting in the manufacture of a new product or representing an important stage of manufacture.</p>
+      <p n="183">6. Region of origin or destination</p>
+      <p n="184">(a) The region of origin, on dispatch, means the region of the Member State of dispatch where the goods were produced or were erected, assembled, processed, repaired or maintained; failing that, the region of origin is the region where the goods were dispatched, or, failing that, the region where the commercial process took place.</p>
+      <p n="185">(b) The region of destination, on arrival, means the region of the Member State of arrival where the goods are to be consumed or erected, assembled, processed, repaired or maintained; failing that, the region of destination is the region to which the goods are to be dispatched, or, failing that, the region where the commercial process is to take place.</p>
+      <p n="186">7. Delivery terms</p>
+      <p n="187">The delivery terms mean those provisions of the sales contract which lay down the obligations of the seller and the buyer respectively, in accordance with the Incoterms of the International Chamber of Commerce (cif, fob, etc.).</p>
+      <p n="188">8. Mode of transport</p>
+      <p n="189">The mode of transport is determined by the active means of transport by which the goods are presumed to be going to leave the statistical territory of the Member State of dispatch, on dispatch, and by the active means of transport by which the goods are presumed to have entered the statistical territory of the Member State of arrival, on arrival.</p>
+      <p n="190">9. Statistical procedure</p>
+      <p n="191">The statistical procedure means the different characteristics which are deemed to be useful in distinguishing different types of arrivals/dispatches for statistical purposes.</p>
+    </body>
+  </text>
+</TEI.2>

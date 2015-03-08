@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31996R2304-en" n="31996R2304" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2304 English</title>
+        <title>Commission Regulation (EC) No 2304/96 of 29 November 1996 amending Regulation (EEC) No 2273/93 determining the intervention centres for cereals</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2304:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2304:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1019</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">3170</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2304-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2304/96 of 29 November 1996 amending Regulation (EEC) No 2273/93 determining the intervention centres for cereals</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2304/96 of 29 November 1996 amending Regulation (EEC) No 2273/93 determining the intervention centres for cereals</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the market in cereals (1), as last amended by Regulation (EC) No 923/96 (2), and in particular Article 5 thereof,</p>
+      <p n="6">Whereas the intervention centres are listed in the Annex to Commission Regulation (EEC) No 2273/93 (3), as last amended by Regulation (EC) No 2627/95 (4); whereas Finland has requested the amendment of that Annex; whereas that request should be granted;</p>
+      <p n="7">Whereas the date for the opening of intervention in Finland is 1 November;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Annex, under 'SUOMI`, to Regulation (EEC) No 2273/93 is hereby amended as follows:</p>
+      <p n="12">- 'Naantali` is replaced by 'Turku`,</p>
+      <p n="13">- 'Koria` becomes 'Koria-Kouvola`.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">It shall apply from 1 November 1996.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 29 November 1996.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz FISCHLER</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ No L 181, 1. 7. 1992, p. 21.</p>
+      <p n="23">(2) OJ No L 126, 24. 5. 1996, p. 37.</p>
+      <p n="24">(3) OJ No L 207, 18. 8. 1993, p. 1.</p>
+      <p n="25">(4) OJ No L 269, 11. 11. 1995, p. 7.</p>
+    </body>
+  </text>
+</TEI.2>

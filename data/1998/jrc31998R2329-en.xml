@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31998R2329-en" n="31998R2329" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2329 English</title>
+        <title>Council Regulation (EC) No 2329/98 of 22 October 1998 amending Regulation (EEC) No 357/79 on statistical surveys of areas under vines</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2329:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2329:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4257</classCode>
+        <classCode scheme="eurovoc">4327</classCode>
+        <classCode scheme="eurovoc">4337</classCode>
+        <classCode scheme="eurovoc">4630</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+        <classCode scheme="eurovoc">937</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2329-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2329/98 of 22 October 1998 amending Regulation (EEC) No 357/79 on statistical surveys of areas under vines</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2329/98 of 22 October 1998 amending Regulation (EEC) No 357/79 on statistical surveys of areas under vines</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas Regulation (EEC) No 357/79 (3) lays down the basic provisions for statistical surveys of areas under vines; whereas the survey results are used to determine the production potential and medium-term trend in production in the Community;</p>
+      <p n="8">Whereas it is appropriate to give greater flexibility to the system established by Regulation (EEC) No 357/79, not only because of developments in techniques and computer technology but also because of the need to lighten the burden of statistical operations required of the Member States;</p>
+      <p n="9">Whereas Regulation (EEC) No 357/79 provides that the Member States concerned are to carry out basic surveys of areas under vines every 10 years; whereas, for technical and practical reasons, certain Member States, however, consider that it would be appropriate to link up this operation with the Community survey on the structure of agriculture holdings provided for by Council Regulation (EEC) No 571/88 (4);</p>
+      <p n="10">Whereas, as part of a flexible methodology, Member States should be afforded the possibility of using the vineyard register provided for by Regulation (EEC) No 2392/86 (5) as a source of information on the basic survey, given that developments in computer technology enable increasingly accurate and comprehensive information to be obtained from reliable data in an updated vineyard register,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Regulation (EEC) No 357/79 is hereby amended as follows:</p>
+      <p n="14">1. the following subparagraph shall be added to Article 1(1):</p>
+      <p n="15">'If a Community survey on the structure of agricultural holdings on the basis of Regulation (EEC) No 571/88 (*) is scheduled within a maximum of 12 months in relation to the basic survey provided for in the first indent of the first subparagraph, both surveys may be carried out simultaneously. Member States shall inform the Commission in advance of their intention to make use of this provision.</p>
+      <p n="16">(*) OJ L 56, 2.3.1988, p. 1.`;2. the following subparagraph shall be added to Article 2(3)(A):</p>
+      <p n="17">'However, as regards the 1999 basic survey, the Portuguese Republic may transmit information on vine varieties which together represent at least 53 % of the total area under wine grape vines.`;3. the following paragraph shall be added to Article 3:</p>
+      <p n="18">'4. Member States which have completed the establishment of the vineyard register at national level or in certain regions and which update it annually, in accordance with Regulation (EEC) No 2392/86, may use the data in the vineyard register as a source for communicating to the Commission the basic-survey information.`</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Luxembourg, 22 October 1998.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">W. MOLTERER</p>
+      <p n="26">(1) OJ C 257, 15. 8. 1998, p. 8.</p>
+      <p n="27">(2) OJ C 328, 26. 10. 1998.</p>
+      <p n="28">(3) OJ L 54, 5. 3. 1979, p. 124. Regulation as last amended by the 1994 Act of Accession.</p>
+      <p n="29">(4) OJ L 56, 2. 3. 1988, p. 1. Regulation as last amended by Commission Decision 98/377/EC (OJ L 168, 13. 6. 1998, p. 29).</p>
+      <p n="30">(5) OJ L 208, 31. 7. 1986, p. 1. Regulation as last amended by Regulation (EC) No 1596/96 (OJ L 206, 16. 8. 1996, p. 38).</p>
+    </body>
+  </text>
+</TEI.2>

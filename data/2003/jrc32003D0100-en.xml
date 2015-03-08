@@ -1,0 +1,143 @@
+<TEI.2 id="jrc32003D0100-en" n="32003D0100" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0100 English</title>
+        <title>2003/100/EC: Commission Decision of 13 February 2003 laying down minimum requirements for the establishment of breeding programmes for resistance to transmissible spongiform encephalopathies in sheep (Text with EEA relevance) (notified under document number C(2003) 498)</title>
+      </titleStmt>
+      <extent>106 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0100:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0100:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1854</classCode>
+        <classCode scheme="eurovoc">2211</classCode>
+        <classCode scheme="eurovoc">2442</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+        <classCode scheme="eurovoc">711</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0100-en." lang="en">
+    <body>
+      <head n="1">2003/100/EC: Commission Decision of 13 February 2003 laying down minimum requirements for the establishment of breeding programmes for resistance to transmissible spongiform encephalopathies in sheep (Text with EEA relevance) (notified under document number C(2003) 498)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 13 February 2003</p>
+      <p n="4">laying down minimum requirements for the establishment of breeding programmes for resistance to transmissible spongiform encephalopathies in sheep</p>
+      <p n="5">(notified under document number C(2003) 498)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/100/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies(1), as last amended by Commission Regulation (EC) No 1494/2002(2), and in particular Article 23 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Scrapie poses a considerable animal health problem within the Community's ovine and caprine population.</p>
+      <p n="13">(2) There is no validated routine diagnostic method to distinguish between Bovine spongiform encephalopathy (BSE) and scrapie infection in ovine and caprine animals. BSE infection has not been proven to exist in ovine and caprine animals under natural conditions. However, there is some uncertainty as to whether BSE may have infected the ovine and caprine population and may still be present in that population. Accordingly transmissible spongiform encephalopathy (TSE) infections in ovine and caprine animals also pose a potential risk to public health.</p>
+      <p n="14">(3) Research has shown that certain prion protein genotypes in sheep confer resistance to scrapie. Evidence to date indicates that a similar genetically determined resistance to BSE exists in sheep when challenged orally with BSE infection under experimental conditions.</p>
+      <p n="15">(4) The opinion of the Scientific Steering Committee (SSC) of 4 and 5 April 2002 on safe sourcing of small ruminant materials laid down guidelines for the main points in a breeding programme for TSE resistance in sheep. The SSC considers that such a programme should be targeted at populations at risk or risk areas.</p>
+      <p n="16">(5) One requirement for such a breeding programme is an approximation of the frequency of ARR/ARR sheep for each important breed. To obtain this information, Commission Decision 2002/1003/EC(3) has introduced a survey of the sheep breeds in the Member States.</p>
+      <p n="17">(6) It should be possible to derogate from the requirement to establish a breeding programme in accordance with this Decision for certain breeds with a low natural level of resistance and for local breeds indigenous to the area and in danger of being lost to farming as referred to in Regulation (EC) No 445/2002 of 26 February 2002 laying down detailed rules for the application of Council Regulation (EC) No 1257/1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF)(4).</p>
+      <p n="18">(7) In its opinion, the SSC recommended the establishment of the certification of flocks with a negligible risk of scrapie/BSE. One of the options recommended is the certification of flocks based on full genetic resistance to TSEs combined with regular TSE testing.</p>
+      <p n="19">(8) The SSC recommended a comprehensive list of tissues in ovine and caprine animals which might be considered to pose a risk to human and animal health in the event of BSE being confirmed or considered probable. However, the opinion considered that these tissues would not pose any significant risk when derived from resistant and semi-resistant animals under the age of 18 and 6 months respectively. It is appropriate to promote the development of certified flocks along these lines.</p>
+      <p n="20">(9) The Commission will propose to the Council and Parliament an amendment to Regulation (EC) No 999/2001 to provide a legal basis in that Regulation for the measures contained in this Decision. In the meantime, it is appropriate to adopt this Decision as a transitional measure.</p>
+      <p n="21">(10) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="22">HAS ADOPTED THIS DECISION:</p>
+      <p n="23">Article 1</p>
+      <p n="24">Definitions</p>
+      <p n="25">For the purposes of this Decision the definitions set out in Annex I to Commission Decision 2002/1003/EC shall apply.</p>
+      <p n="26">Article 2</p>
+      <p n="27">Breeding programme for TSE resistance in pure-bred sheep</p>
+      <p n="28">1. By 1 January 2004, on the basis of the outcome of the survey provided for in Decision 2002/1003/EC, each Member State shall introduce a breeding programme to select for resistance to TSEs in each of its sheep breeds which are native, or which form a significant population in its territory. The minimum requirements for such a programme shall be those set out in Annex I.</p>
+      <p n="29">2. The Member State may decide that participation by flock owners in the breeding programme referred to in paragraph 1 shall be voluntary until 1 April 2005. However, after that date, it shall be compulsory for all flocks of high genetic merit to participate in the breeding programme.</p>
+      <p n="30">Article 3</p>
+      <p n="31">Derogations</p>
+      <p n="32">1. Member States may be granted a derogation from the requirement to establish a breeding programme as provided for in Article 2:</p>
+      <p n="33">- on the basis of a national scrapie control programme submitted and approved in accordance with point (b) of Part I of Chapter A of Annex VIII to Regulation (EC) No 999/2001, which includes continuous active monitoring of dead-on-farm ovine and caprine animals in all flocks in the Member State, or</p>
+      <p n="34">- when the Commission has recognised its territory as being free from scrapie in accordance with point (c) of Part I of Chapter A of Annex VIII to Regulation (EC) No 999/2001, based on the results of a conclusive statistical survey.</p>
+      <p n="35">2. The derogation provided for in paragraph 1 shall be adopted in accordance with the procedure referred to in Article 24(2) of Regulation (EC) No 999/2001.</p>
+      <p n="36">Article 4</p>
+      <p n="37">Framework to recognise the TSE-resistant status of certain sheep flocks</p>
+      <p n="38">1. By 1 January 2004, each Member State shall establish a framework for the recognition of the TSE-resistant status of certain sheep flocks.</p>
+      <p n="39">This framework shall follow the criteria set out in Annex II.</p>
+      <p n="40">2. The recognition of the TSE-resistant status of a flock under the framework provided for in paragraph 1 shall not be considered a necessary criterion to exclude the presence of a TSE in that flock.</p>
+      <p n="41">Article 5</p>
+      <p n="42">Reports to be provided to the Commission by the Member States</p>
+      <p n="43">Member States shall provide the Commission with the following reports:</p>
+      <p n="44">(a) report on the requirements of their breeding programmes as provided for in Article 2 by 1 April 2004;</p>
+      <p n="45">(b) an annual progress report to be provided for the first time by 1 April 2005, of the progress made in the breeding programmes.</p>
+      <p n="46">Article 6</p>
+      <p n="47">Summary of reports by the Commission to the Member States</p>
+      <p n="48">The Commission shall present to the Member States a summary of the reports it receives under Article 5, within three months of the deadline for the receipt of the reports.</p>
+      <p n="49">Article 7</p>
+      <p n="50">Review</p>
+      <p n="51">The requirements of this Decision shall be reviewed:</p>
+      <p n="52">(a) on the basis of reports referred to in Article 5,</p>
+      <p n="53">(b) in respect of breeds for which a serious negative genetic effect has been demonstrated during the course of the breeding programme,</p>
+      <p n="54">(c) in any event before 1 April 2005, to take account of any new scientific advice.</p>
+      <p n="55">Article 8</p>
+      <p n="56">Addressees</p>
+      <p n="57">This Decision is addressed to the Member States.</p>
+      <p n="58">Done at Brussels, 13 February 2003.</p>
+      <p n="59">For the Commission</p>
+      <p n="60">David Byrne</p>
+      <p n="61">Member of the Commission</p>
+      <p n="62">(1) OJ L 147, 31.5.2001, p. 1.</p>
+      <p n="63">(2) OJ L 225, 28.8.2002, p. 3.</p>
+      <p n="64">(3) OJ L 349, 24.12.2002, p. 105.</p>
+      <p n="65">(4) OJ L 74, 15.3.2002, p. 1.</p>
+      <p n="66">ANNEX I</p>
+      <p n="67">MINIMUM REQUIREMENTS FOR A BREEDING PROGRAMME FOR RESISTANCE TO TSEs IN SHEEP</p>
+      <p n="68">Part 1 - General requirements</p>
+      <p n="69">1. The breeding programme shall concentrate on flocks of high genetic merit.</p>
+      <p n="70">2. A database shall be established containing at least the following information:</p>
+      <p n="71">(a) the identity, breed and number of animals in all flocks participating in the breeding programme;</p>
+      <p n="72">(b) the identification of the individual animals sampled under the breeding programme;</p>
+      <p n="73">(c) the results of any genotyping tests.</p>
+      <p n="74">3. A system of uniform certification shall be established in which the genotype of each animal sampled under the breeding programme is certified by reference to its individual identification number.</p>
+      <p n="75">4. Sampling shall be carried out by personnel specifically designated for this purpose under the breeding programme.</p>
+      <p n="76">5. A system for the identification of animals and samples, the processing of samples and the delivery of results shall be established which minimises the possibility of human error. The efficiency of this system shall be subject to regular random checking.</p>
+      <p n="77">6. Genotyping of blood or other tissues collected for the purposes of the breeding programme shall be carried out in laboratories that have been approved under the scheme.</p>
+      <p n="78">7. The competent authority of the Member State may assist breed societies who wish to do so, to establish genetic banks consisting of semen, ova and/or embryos representative of prion protein genotypes which are likely to become rare as a result of the breeding programme.</p>
+      <p n="79">8. Breeding programmes shall be drawn up for each breed, taking account of:</p>
+      <p n="80">(a) frequencies of the different alleles within the breed;</p>
+      <p n="81">(b) rarity of the breed;</p>
+      <p n="82">(c) avoidance of inbreeding or genetic drift.</p>
+      <p n="83">Part 2 - Specific rules for participating flocks</p>
+      <p n="84">1. The breeding programme shall be aimed at increasing the frequency of the ARR allele within the sheep flock, while reducing the prevalence of those alleles which have been shown to contribute to susceptibility to TSEs.</p>
+      <p n="85">2. The minimum rules for participating flocks shall be:</p>
+      <p n="86">(a) all animals in the flock that are to be genotyped shall be individually identified using secure means;</p>
+      <p n="87">(b) it shall be compulsory for all rams intended for breeding within the flock to be genotyped before being used for breeding;</p>
+      <p n="88">(c) it shall be compulsory to slaughter or castrate, within six months following the determination of its genotype, any male animal carrying the VRQ allele; any such animal shall not leave the holding except for slaughter;</p>
+      <p n="89">(d) it shall be prohibited for female animals that are known to carry the VRQ allele to leave the holding except for slaughter;</p>
+      <p n="90">(e) it shall be prohibited for male animals, including semen donors used for artificial insemination, other than those certified under the programme, to be used for breeding within the flock.</p>
+      <p n="91">Part 3 - Protection of breeds and production traits</p>
+      <p n="92">1. Member States may decide to grant a derogation from the requirements of point 2(c) and (d) of Part 2, in the case of breeds:</p>
+      <p n="93">(a) which display a level of the ARR allele below 25 % in the survey referred to in Decision 2002/1003/EC; or</p>
+      <p n="94">(b) which are in danger of being lost to farming, as referred to in Article 14(1)(a) of Regulation (EC) No 445/2002.</p>
+      <p n="95">2. In the case of breeds which display an absence, or a level of less than 10 %, of the ARR allele in the survey referred to in Commission Decision 2002/1003/EC, Member States may decide to grant a derogation from Parts 1 and 2, subject to the condition that such breeds shall be subject to scrapie control programmes.</p>
+      <p n="96">3. Member States shall inform the Commission of derogations granted under points 1 and 2 and of the criteria used.</p>
+      <p n="97">ANNEX II</p>
+      <p n="98">THE FRAMEWORK FOR THE RECOGNITION OF THE TSE-RESISTANT STATUS OF FLOCKS OF SHEEP</p>
+      <p n="99">1. The framework shall recognise the TSE-resistant status of flocks of sheep that, whether as a result of participation in the breeding programme as provided for in Article 2 or otherwise, satisfy certain criteria.</p>
+      <p n="100">This recognition shall be granted on at least two levels:</p>
+      <p n="101">(a) level I flocks shall be flocks composed entirely of sheep of the ARR/ARR genotype;</p>
+      <p n="102">(b) level II flocks shall be flocks whose progeny have been sired exclusively by rams of the ARR/ARR genotype.</p>
+      <p n="103">Member States may decide to grant recognition on further levels to suit national requirements.</p>
+      <p n="104">2. Regular random sampling of sheep from TSE-resistant flocks shall be carried out:</p>
+      <p n="105">(a) either on the farm or at the slaughterhouse to verify their genotype;</p>
+      <p n="106">(b) in the case of level I flocks, in animals over 18 months of age at the slaughterhouse, for TSE testing in accordance with Annex III to Regulation (EC) No 999/2001.</p>
+    </body>
+  </text>
+</TEI.2>

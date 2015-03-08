@@ -1,0 +1,78 @@
+<TEI.2 id="jrc31999D0567-en" n="31999D0567" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0567 English</title>
+        <title>1999/567/EC: Commission Decision of 27 July 1999 laying down the model of the certificate referred to in Article 16(1) of Council Directive 91/67/EEC (notified under document number C(1999) 2425) - (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>41 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0567:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0567:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">2320</classCode>
+        <classCode scheme="eurovoc">2435</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0567-en." lang="en">
+    <body>
+      <head n="1">1999/567/EC: Commission Decision of 27 July 1999 laying down the model of the certificate referred to in Article 16(1) of Council Directive 91/67/EEC (notified under document number C(1999) 2425) - (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 27 July 1999</p>
+      <p n="4">laying down the model of the certificate referred to in Article 16(1) of Council Directive 91/67/EEC</p>
+      <p n="5">(notified under document number C(1999) 2425)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(1999/567/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/67/EEC of 28 January 1991 concerning the animal health conditions governing the placing on the market of aquatic animals and products(1), as last amended by Directive 98/45/EC(2), and in particular Article 16(1) thereof,</p>
+      <p n="11">(1) Whereas aquaculture animals susceptible to infectious haematopoietic necrosis (IHN) and viral haemorrhagic septicaemia (VHS) in intra-Community trade between non-approved zones may transfer diseases when coming from a farm where a disease prevails;</p>
+      <p n="12">(2) Whereas in order to avoid such transfer of diseases, it must be ensured that such aquaculture animals are accompanied by a certificate attesting that the animals come from a farm that is not infected with IHN and VHS;</p>
+      <p n="13">(3) Whereas, in accordance with Article 10(1) of Council Directive 93/53/EEC of 24 June 1993 introducing minimum Community measures for the control of certain fish diseases(3), as amended by the Act of Accession of Austria, Finland and Sweden, movements of live fish or eggs and gametes from infected farms towards other farms infected with the same disease is allowed;</p>
+      <p n="14">(4) Whereas, in order to prevent the spreading of diseases carried by such fish, it is necessary to provide for a special certification;</p>
+      <p n="15">(5) Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Consignments of live farmed fish, their eggs or gametes in intra-Community trade between non-approved zones as regards the diseases referred to in list II of Annex A to Directive 91/67/EEC, must be accompanied by a certificate drawn up in accordance with the model laid down in Annex I.</p>
+      <p n="19">Article 2</p>
+      <p n="20">Consignments of live farmed fish, their eggs and gametes in intra-Community trade from a farm infected with a disease referred to in list II of Annex A to Directive 91/67/EEC towards other farms infected by the same disease, must be accompanied by a certificate drawn up in accordance with the model laid down in Annex II.</p>
+      <p n="21">Article 3</p>
+      <p n="22">The certificates referred to in Articles 1 and 2 must:</p>
+      <p n="23">- be drawn up at least in the language or languages of the Member State of destination,</p>
+      <p n="24">- accompany the fish, eggs or gametes in the original,</p>
+      <p n="25">- consist of a single sheet of paper,</p>
+      <p n="26">- be made out for a single consignee.</p>
+      <p n="27">Article 4</p>
+      <p n="28">This Decision is addressed to the Member States.</p>
+      <p n="29">Done at Brussels, 27 July 1999.</p>
+      <p n="30">For the Commission</p>
+      <p n="31">Franz FISCHLER</p>
+      <p n="32">Member of the Commission</p>
+      <p n="33">(1) OJ L 46, 19.2.1991, p. 1.</p>
+      <p n="34">(2) OJ L 189, 3.7.1998, p. 12.</p>
+      <p n="35">(3) OJ L 175, 19.7.1993, p. 23.</p>
+      <p n="36">ANNEX I</p>
+      <p n="37">&gt;PIC FILE= "L_1999216EN.001402.EPS"&gt;</p>
+      <p n="38">&gt;PIC FILE= "L_1999216EN.001501.EPS"&gt;</p>
+      <p n="39">ANNEX II</p>
+      <p n="40">&gt;PIC FILE= "L_1999216EN.001602.EPS"&gt;</p>
+      <p n="41">&gt;PIC FILE= "L_1999216EN.001701.EPS"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31995R1565-en" n="31995R1565" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1565 English</title>
+        <title>Commission Regulation (EC) No 1565/95 of 30 June 1995 amending Regulation (EC) No 2248/94 introducing retrospective Community surveillance of imports of certain steel cables originating in non-member countries</title>
+      </titleStmt>
+      <extent>17 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1565:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1565:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2066</classCode>
+        <classCode scheme="eurovoc">2069</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3859</classCode>
+        <classCode scheme="eurovoc">4347</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1565-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1565/95 of 30 June 1995 amending Regulation (EC) No 2248/94 introducing retrospective Community surveillance of imports of certain steel cables originating in non-member countries</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1565/95 of 30 June 1995 amending Regulation (EC) No 2248/94 introducing retrospective Community surveillance of imports of certain steel cables originating in non-member countries</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 3285/94 of 22 December 1994 on common rules for imports and repealing Regulation (EC) No 518/94 (1), and in particular Article 11 (2) thereof,</p>
+      <p n="6">Having regard to Council Regulation (EC) No 519/94 of 7 March 1994 on common rules for imports from certain third countries and repealing Regulations (EEC) No 1765/82, (EEC) No 1766/82 and (EEC) No 3420/83 (2), as last amended by Regulation (EC) No 839/95 (3), and in particular Article 9 thereof,</p>
+      <p n="7">Whereas Commission Regulation (EC) No 2248/94 (4) introduced retrospective Community surveillance of imports into the Community of stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated, originating in non-member countries and falling within CN codes 7312 10 91, 7312 10 95 and 7312 10 99;</p>
+      <p n="8">Whereas Commission Regulation (EC) No 3115/94 (5) replaced CN code 7312 10 91 by code 7312 10 82 and CN code 7312 10 95 by codes 7312 10 84, 7312 10 86 and 7312 10 88;</p>
+      <p n="9">Whereas the combined nomenclature codes referring to products subject to retrospective Community surveillance under Regulation (EC) No 2248/94 should be amended accordingly,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">In Article 1 of Regulation (EC) No 2248/94, the phrase 'CN codes 7312 10 91, 7312 10 95 and 7312 10 99` shall be replaced by 'CN codes 7312 10 82, 7312 10 84, 7312 10 86, 7312 10 88 and 7312 10 99`.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 30 June 1995.</p>
+      <p n="17">For the Commission Leon BRITTAN Vice-President</p>
+    </body>
+  </text>
+</TEI.2>

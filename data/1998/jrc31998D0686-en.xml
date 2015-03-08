@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31998D0686-en" n="31998D0686" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0686 English</title>
+        <title>98/686/EC: Council Decision of 23 March 1998 on the conclusion by the European Community of the Protocol to the 1979 Convention on long-range transboundary air pollution on further reductions of sulphur emissions</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0686:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0686:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">1707</classCode>
+        <classCode scheme="eurovoc">2527</classCode>
+        <classCode scheme="eurovoc">2542</classCode>
+        <classCode scheme="eurovoc">4218</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0686-en." lang="en">
+    <body>
+      <head n="1">98/686/EC: Council Decision of 23 March 1998 on the conclusion by the European Community of the Protocol to the 1979 Convention on long-range transboundary air pollution on further reductions of sulphur emissions</head>
+      <p n="2">COUNCIL DECISION of 23 March 1998 on the conclusion by the European Community of the Protocol to the 1979 Convention on long-range transboundary air pollution on further reductions of sulphur emissions (98/686/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 130s(1), in conjunction with the first sentence of Article 228(2) and the first subparagraph of Article 228(3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas the Community signed, on 14 June 1994, the Protocol to the 1979 Convention on long-rate transboundary air pollution on further reductions of sulphur emissions (hereinafter 'the Protocol`);</p>
+      <p n="8">Whereas the Protocol seeks to establish ceilings for sulphur emissions for all contracting parties to the Convention;</p>
+      <p n="9">Whereas the measures envisaged in the Protocol contribute to achieving objectives of the Community policy on the environment;</p>
+      <p n="10">Whereas the Community and the Member States cooperate, in the framework of their respective competences, with third countries and the competent international organisations;</p>
+      <p n="11">Whereas, in consequence, the Community should approve the Protocol,</p>
+      <p n="12">HAS ADOPTED THIS DECISION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Protocol to the 1979 Convention on long-range transboundary air pollution on further reductions of sulphur emissions, signed on 14 June 1994, is hereby approved on behalf of the Community.</p>
+      <p n="15">The text of the Protocol is attached to this Decision.</p>
+      <p n="16">The following Declaration shall be deposited with the instruments of approval:</p>
+      <p n="17">'The European Community states that the ceiling for emissions and the weighted average percentage of the European Community ought not to exceed the sum of the obligations of the Member States of the European Union which have ratified the Protocol, while stressing that all its Member States must reduce their SO2 emissions in accordance with the emission ceilings set in Annex II to the Protocol and in line with the relevant Community legislation.`</p>
+      <p n="18">Article 2</p>
+      <p n="19">The President of the Council is hereby authorised to designate the person empowered to deposit the instruments of approval and the Declaration referred to in Article 1 with the Secretary General of the United Nations, in accordance with Article 14 of the Protocol.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision will be published in the Official Journal of the European Communities.</p>
+      <p n="22">Done at Brussels, 23 March 1998.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">M. MEACHER</p>
+      <p n="26">(1) OJ C 190, 21.6.1997, p. 13.</p>
+      <p n="27">(2) OJ C 14, 19.1.1998.</p>
+    </body>
+  </text>
+</TEI.2>

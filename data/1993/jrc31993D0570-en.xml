@@ -1,0 +1,53 @@
+<TEI.2 id="jrc31993D0570-en" n="31993D0570" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993D0570 English</title>
+        <title>93/570/EEC, Euratom: Commission Decision of 4 October 1993 defining the distinction between 'other taxes linked to production' and 'intermediate consumption' for the purpose of the implementation of Article 1 of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0570:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0570:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993D0570-en." lang="en">
+    <body>
+      <head n="1">93/570/EEC, Euratom: Commission Decision of 4 October 1993 defining the distinction between 'other taxes linked to production' and 'intermediate consumption' for the purpose of the implementation of Article 1 of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices</head>
+      <p n="2">COMMISSION DECISION of 4 October 1993 defining the distinction between 'other taxes linked to production' and 'intermediate consumption' for the purpose of the implementation of Article 1 of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices</p>
+      <p n="3">(93/570/EEC, Euratom)THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to the Treaty establishing the European Atomic Energy Community,</p>
+      <p n="6">Having regard to Council Directive 89/130/EEC, Euratom of 13 February 1989 on the harmonization of the compilation of gross national product at market prices (1), and in particular Article 1 thereof,</p>
+      <p n="7">Whereas for the purpose of the definition of gross national product at market prices (GNPmp) pursuant to Article 1 of Directive 89/130/EEC, Euratom it is necessary to clarify the distinction between payments of other taxes linked to production and the purchase of services into intermediate consumption as used for the purpose of the European System of Integrated Economic Accounts;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Committee established by Article 6 of Directive 89/130/EEC, Euratom,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">For the purpose of the implementation of Article 1 of Directive 89/130/EEC, Euratom, the provisions concerning the distinction between other taxes linked to production and the purchase of services into intermediate consumption shall be as defined in the Annex hereto.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Decision is addressed to the Member States.</p>
+      <p n="14">Done at Brussels, 4 October 1993.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Henning CHRISTOPHERSEN</p>
+      <p n="17">Vice-President</p>
+      <p n="18">(1) OJ No L 49, 21. 2. 1989, p. 26.</p>
+      <p n="19">ANNEX</p>
+      <p n="20">For the purpose of applying Article 1 of Council Directive 89/130/EEC, Euratom the following explanation aims to clarify Article 2 of that Directive regarding the definitions of intermediate consumption (P 20) and other taxes linked to production (R 222).</p>
+      <p n="21">It is possible to distinguish, within the transactions of a producer unit, between the purchase of a service from a non-market producer for intermediate consumption (P 20) and the payment of 'other taxes linked to production' (R 222) using the following criteria:</p>
+      <p n="22">a payment made by a producer unit to a non-market unit of general government is regarded as a purchase of services if:</p>
+      <p n="23">- the payment is given as consideration for a service rendered to the producer unit,</p>
+      <p n="24">- the payment is clearly related to the cost of providing the service,</p>
+      <p n="25">- a service of a similar nature could be obtained from a market producer unit;</p>
+      <p n="26">if those conditions are not met, the payment is recorded as 'other taxes linked to production' (R 222).</p>
+    </body>
+  </text>
+</TEI.2>

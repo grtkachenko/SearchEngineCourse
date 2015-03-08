@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31998R2469-en" n="31998R2469" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2469 English</title>
+        <title>Council Regulation (EC) No 2469/98 of 9 November 1998 on the conclusion of the Agreement between the European Community and the Gabonese Republic on fishing off the coast of Gabon</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2469:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2469:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1035</classCode>
+        <classCode scheme="eurovoc">1124</classCode>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">2306</classCode>
+        <classCode scheme="eurovoc">2556</classCode>
+        <classCode scheme="eurovoc">5228</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2469-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2469/98 of 9 November 1998 on the conclusion of the Agreement between the European Community and the Gabonese Republic on fishing off the coast of Gabon</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2469/98 of 9 November 1998 on the conclusion of the Agreement between the European Community and the Gabonese Republic on fishing off the coast of Gabon</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43, in conjunction with the first sentence of Article 228(2) and the first subparagraph of Article 228(3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas the Community and the Gabonese Republic have negotiated and initialled a Fisheries Agreement providing Community fishermen with fishing opportunities in the waters falling within the sovereignty or jurisdiction of the Gabonese Republic;</p>
+      <p n="8">Whereas it is in the Community's interest to approve that Agreement;</p>
+      <p n="9">Whereas the method for allocating the fishing opportunities among the Member States should be defined on the basis of the traditional allocation of fishing opportunities,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Agreement between the European Community and the Gabonese Republic on fishing off the coast of Gabon is hereby approved on behalf of the Community.</p>
+      <p n="13">The text of the Agreement is attached to this Regulation.</p>
+      <p n="14">Article 2</p>
+      <p n="15">The fishing opportunities fixed in the Protocol to the Agreement shall be allocated among the Member States as follows:</p>
+      <p n="16">(a) Tuna seiners:</p>
+      <p n="17">&gt;TABLE&gt;</p>
+      <p n="18">(b) Surface longliners:</p>
+      <p n="19">&gt;TABLE&gt;</p>
+      <p n="20">If licence applications from these Member States do not cover all the fishing opportunities fixed by the Protocol, the Commission may take into consideration licence applications from any other Member State.</p>
+      <p n="21">Article 3</p>
+      <p n="22">The President of the Council is hereby authorised to designate the persons empowered to sign the Agreement in order to bind the Community.</p>
+      <p n="23">Article 4</p>
+      <p n="24">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 9 November 1998.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">J. FARNLEITNER</p>
+      <p n="30">(1) OJ C 240, 31. 7. 1998, p. 7.</p>
+      <p n="31">(2) OJ C 313, 12. 10. 1998.</p>
+    </body>
+  </text>
+</TEI.2>

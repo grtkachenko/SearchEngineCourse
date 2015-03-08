@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32000R2085-en" n="32000R2085" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2085 English</title>
+        <title>Commission Regulation (EC) No 2085/2000 of 2 October 2000 on the authorisation of transfers between the quantitative limits of textiles and clothing products originating in the Republic of India</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2085:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2085:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1338</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">2783</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+        <classCode scheme="eurovoc">4680</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2085-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2085/2000 of 2 October 2000 on the authorisation of transfers between the quantitative limits of textiles and clothing products originating in the Republic of India</head>
+      <p n="2">Commission Regulation (EC) No 2085/2000</p>
+      <p n="3">of 2 October 2000</p>
+      <p n="4">on the authorisation of transfers between the quantitative limits of textiles and clothing products originating in the Republic of India</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 3030/93 of 12 October 1993 on common rules for imports of certain textile products from third countries(1), as last amended by Commission Regulation (EC) No 1987/2000(2), and in particular Article 7 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Memorandum of Understanding between the European Community and the Republic of India on arrangements in the area of market access for textiles products, initialled on 31 December 1994(3) (the Memorandum of Understanding) provides that favourable consideration shall be given to certain requests for "exceptional flexibility" by India.</p>
+      <p n="10">(2) The Republic of India made a request on 28 January 2000.</p>
+      <p n="11">(3) The transfers requested by the Republic of India fall within the limits of the flexibility provisions referred to in Article 7 and set out in Annex VIII of Regulation (EEC) No 3030/93.</p>
+      <p n="12">(4) Pursuant to paragraph 2 of the Memorandum of Understanding, India made on 1 December 1999 a notification to the WTO for the binding of the customs duties for the tariff lines agreed in the Memorandum of Understanding.</p>
+      <p n="13">(5) The notification by India of 1 December 1999 is not fully consistent with the Memorandum of Understanding. However, consultations between the two parties have led to mutual clarifications. It is therefore appropriate to grant the request partially and to release the remainder of the exceptional flexibilities as soon as India amends its notification to the WTO for those tariff lines for which India has announced that it will introduce maximum customs duties.</p>
+      <p n="14">(6) The measures provided for in this Regulation are in accordance with the opinion of the Textiles Management Committee provided for in Article 17 of Regulation (EEC) No 3030/93,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Transfers between the quantitative limits for textile goods originating in the Republic of India are authorised for the quota year 2000 as detailed in the Annex to this Regulation.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 2 October 2000.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Pascal Lamy</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 275, 8.11.1993, p. 1.</p>
+      <p n="26">(2) OJ L 237, 21.9.2000, p. 34.</p>
+      <p n="27">(3) OJ L 153, 27.6.1996, p. 53.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

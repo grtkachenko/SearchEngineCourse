@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31994D0327-en" n="31994D0327" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994D0327 English</title>
+        <title>94/327/EC: Commission Decision of 19 May 1994 fixing the criteria for annual testing of breeding poultry for Newcastle disease, in application of Article 12 (2) of Council Directive 90/539/EEC (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0327:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0327:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994D0327-en." lang="en">
+    <body>
+      <head n="1">94/327/EC: Commission Decision of 19 May 1994 fixing the criteria for annual testing of breeding poultry for Newcastle disease, in application of Article 12 (2) of Council Directive 90/539/EEC (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 19 May 1994 fixing the criteria for annual testing of breeding poultry for Newcastle disease, in application of Article 12 (2) of Council Directive 90/539/EEC (Test with EEA relevance) (94/327/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/539/EEC of 15 October 1990, on animal health conditions governing intra-community trade in, and imports from third countries of, poultry and hatching eggs (1), as last amended by Council Directive 93/120/EC (2), and in particular Article 12 (2) thereof,</p>
+      <p n="6">Whereas the methodologies, for the performance of serological tests for Newcastle disease must include details of the sampling procedure, the procedure for carrying out the tests and the interpretation of the test results;</p>
+      <p n="7">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="8">HAS ADOPTED THIS DECISION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The serological testing to detect Newcastle disease antibodies referred to in the second indent of Article 12 (2) of Directive 90/539/EEC, must comply with the requirements of the Annex.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Decision shall apply from 1 January 1995.</p>
+      <p n="13">Article 3</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 19 May 1994.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">René STEICHEN</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 303, 31. 10. 1990, p. 6.</p>
+      <p n="20">(2) OJ No L 340, 31. 12. 1993, p. 35.</p>
+      <p n="21">ANNEX</p>
+      <p n="22">Annual serological testing to detect Newcastle disease antibodies in poultry in breeding flocks in Member States or regions of Member States with non-vaccination status 1. Sampling of blood</p>
+      <p n="23">All breeding flocks shall be sampled annually on the following basis. Blood samples must be obtained from at least 60 birds randomly chosen and examined by the Haemagglutination inhibition (HI) test in accordance with the procedure listed in point 2.</p>
+      <p n="24">2. Procedure</p>
+      <p n="25">(a) Dispense 0,025 ml PBS into all wells of a plastic microtitre plate (with V-bottomed wells).</p>
+      <p n="26">(b) Place 0,025 ml of serum into first well of plate.</p>
+      <p n="27">(c) Use microtitration diluter to make two-fold dilutions of serum across plate.</p>
+      <p n="28">(d) Add 0,025 ml of diluted allantoic fluid containing 4 or 8 HAU.</p>
+      <p n="29">(e) Mix by tapping and place plate at 4 °C for a minimum of 60 minutes or room temperature for a minimum of 30 minutes.</p>
+      <p n="30">(f) Add 0,025 ml 1 % RBCs to all wells.</p>
+      <p n="31">(g) Mix by gentle tapping and place at 4 °C.</p>
+      <p n="32">(h) Plates are read after 30 to 40 minutes when control RBCs are settled. This is done by tilting and observing the presence or absence of tear-shaped streaming at the same rate as control wells containing RBCs (0,025 ml) and PBS (0,05 ml) only.</p>
+      <p n="33">(i) The HI titre is the highest dilution of antiserum causing complete inhibiton of four or eight units of virus (An HA titration to confirm the presence of the required HAU should be included in each test).</p>
+      <p n="34">(j) The validity of the results is dependent on obtaining a titre of less than 23 for four HAU or 22 for eight HAU with the negative control serum and a titre of within one dilution of the known titre of the positive control serum.</p>
+      <p n="35">3. Interpretation of tests</p>
+      <p n="36">The antigen used will affect the level at which a serum is considered positive:</p>
+      <p n="37">- for four HAU a positive serum is any showing a titre of 24 or greater, for eight HAU a positive serum is any showing a titre of 23 or greater.</p>
+    </body>
+  </text>
+</TEI.2>

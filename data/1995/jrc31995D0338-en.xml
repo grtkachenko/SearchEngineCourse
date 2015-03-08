@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31995D0338-en" n="31995D0338" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0338 English</title>
+        <title>95/338/EC: Commission Decision of 26 July 1995 amending Chapter 1 of Annex II to Council Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0338:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0338:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2738</classCode>
+        <classCode scheme="eurovoc">4416</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0338-en." lang="en">
+    <body>
+      <head n="1">95/338/EC: Commission Decision of 26 July 1995 amending Chapter 1 of Annex II to Council Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 26 July 1995</p>
+      <p n="4">amending Chapter 1 of Annex II to Council Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">(95/338/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Directive 92/118/EEC of 17 December 1992 laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC (1), as last amended by Commission Decision 95/339/EC, and in particular the second paragraph of Article 15 thereof,</p>
+      <p n="10">Whereas application of the rules laid down has led to certain difficulties with the import of meat products obtained from poultrymeat, farmed game meat , wild game meat and rabbit meat; whereas, therefore, those rules should be amended in the light of experience;</p>
+      <p n="11">Whereas those conditions are intended to provide for the possibility of establishing a list of third countries from which the import of the said products is authorized;</p>
+      <p n="12">Whereas, for reasons of clarity, Chapter 1 of Annex II to Directive 92/118/EEC should be redrafted;</p>
+      <p n="13">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Point (a) of Chapter 1 of Annex II to Directive 92/118/EEC is hereby replaced by the following:</p>
+      <p n="17">'(a) either they come from a third country listed in accordance with:</p>
+      <p n="18">(i) Article 9 of Directive 91/494/EEC for poultrymeat;</p>
+      <p n="19">(ii) Article 16 of Directive 92/45/EEC for wild game meat;</p>
+      <p n="20">(iii) Chapter 2 of Annex I to this Directive for rabbit meat and farmed game meat,</p>
+      <p n="21">either they come from a third country listed in the Annex, Part I of Decision 79/542/EEC. In this case they must have undergone a heat treatment in a sealed container, the F° value being equal or over 3,00. However for meat products made from species other than swine, this treatment may be replaced by a heat treatment which brings the internal temperature to at least 70 °C.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 26 July 1995.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz FISCHLER</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ No L 62, 15. 3. 1993, p. 49.</p>
+      <p n="29">(2) See page 36 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

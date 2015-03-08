@@ -1,0 +1,72 @@
+<TEI.2 id="jrc41997D0024-en" n="41997D0024" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41997D0024 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 7 October 1997 on the development of the SIS (SCH/Com-ex (97) 24)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0024:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0024:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1509</classCode>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">2465</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">560</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41997D0024-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 7 October 1997 on the development of the SIS (SCH/Com-ex (97) 24)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 7 October 1997</p>
+      <p n="4">on the development of the SIS</p>
+      <p n="5">(SCH/Com-ex (97) 24)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Article 92(3) of the abovementioned Convention,</p>
+      <p n="9">Whereas the SIS Steering Committee has conducted an analysis (doc. SCH/OR.SIS (97) 146 rev. 2),</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Work carried out on SIS II will run concurrently with measures to renew the current C.SIS for 10 States. However, preparations will be made to run it for 15 States to enable the Nordic States to be integrated immediately after the SIS has been stabilised for 10 States on the new platform.</p>
+      <p n="12">The Nordic States should be integrated as quickly as possible during the year 2000.</p>
+      <p n="13">During implementation the following guidelines should be observed:</p>
+      <p n="14">1. The parallel development of SIS I and SIS II will in no way affect the development of SIS II as a strategic goal. Only the SIS II will be able to meet a certain number of essential operational demands.</p>
+      <p n="15">2. This objective should be achieved by a restricted tender procedure organised by France, as the contracting authority.</p>
+      <p n="16">3. The parallel development of SIS I and SIS II entails all the States deciding to provide the necessary resources in terms of funding and manpower.</p>
+      <p n="17">Vienna, 7 October 1997.</p>
+      <p n="18">The Chairman</p>
+      <p n="19">K. Schlögl</p>
+      <p n="20">Subject: Development of the SIS</p>
+      <p n="21">SCH/OR.SIS (97)146 Rev. 2</p>
+      <p n="22">1. The note drafted by the PWP and the Steering Committee regarding the further development of the SIS (SCH/OR.SIS (97) 105 rev.) was presented at the meeting of the Central Group on 23 June 1997. No consensus as to how to proceed was reached at this meeting.</p>
+      <p n="23">2. At the meeting on 8 July 1997, the Steering Committee granted the PWP a mandate to analyse the preferred scenarios again from a technical point of view and to prepare an overview of the requirements and costs.</p>
+      <p n="24">3. Intensive work by the PWP over the summer months has resulted in note SCH/OR.SIS-SIS (97) 425 rev., attached as Annex, on the possibility for further technical development of the existing system, taking into account the participation of the Nordic States in the SIS (SCH/OR.SIS (97) 425 rev.)</p>
+      <p n="25">During this work, and particularly during discussions with the Consortium, it transpired that a decision on the further development of the SIS must be taken quickly. Unless the system is upgraded by exchanging the hardware and software, it will probably not be able to cope with the change of date for the millennium.</p>
+      <p n="26">According to official statements by the Consortium, no guarantee can be given that the problems in the current system can be solved. Moreover, the Consortium is of the opinion that the modifications would not be covered by the existing maintenance contracts.</p>
+      <p n="27">4. Technical factors make it impossible to integrate the Nordic States into the SIS before the new millennium.</p>
+      <p n="28">After studying the PWP's research, the Steering Committee recommends that the Central Group proceed as follows:</p>
+      <p n="29">Take a decision immediately on the procedure outlined below and - in the light of the prevailing situation regarding decisions at Executive Committee level - submit this matter to the Executive Committee with a view to taking a further decision.</p>
+      <p n="30">Work carried out on SIS II will run concurrently with measures to renew the current C.SIS for 10 States. However, preparations will be made to run it for 15 States to enable the Nordic States to be integrated immediately after the stabilisation of the 10-State SIS on the new platform.</p>
+      <p n="31">The Nordic States should be integrated as quickly as possible during the year 2000. The project aimed at renewing and extending the SIS will therefore consist of two phases. The first phase will involve preparation of the hardware and the technical specifications for a system that operates with 15 States and implementation for 10 States. The second phase comprises the integration of the Nordic States.</p>
+      <p n="32">During implementation account should be taken of the following guidelines:</p>
+      <p n="33">1. The parallel development of SIS.I and SIS.II will in no way affect the development of SIS.II as a strategic goal. Only the SIS.II will be able to meet essential operational demands placed on the SIS. (The functional scope for SIS I will remain the same after renewal).</p>
+      <p n="34">2. The Steering Committee considers that the only way of ensuring that this scenario is realised is via a restricted procedure for calls for tender. The procedure must be undertaken by France in accordance with Article 92, paragraph 3 of the Schengen Convention.</p>
+      <p n="35">3. The parallel development of SIS.I and SIS.II requires all States to demonstrate the readiness and the will to provide the necessary resources in terms of funding and manpower. The cost of updating SIS.I is estimated at approximately FRF 16 million (excluding the cost of adapting the national Schengen Information Systems).</p>
+      <p n="36">The Steering Committee emphasises that any delay in decision-making will jeopardise the operation of the system after 1 January 2000.</p>
+    </body>
+  </text>
+</TEI.2>

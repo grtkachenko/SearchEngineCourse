@@ -1,0 +1,78 @@
+<TEI.2 id="jrc31999D0246-en" n="31999D0246" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0246 English</title>
+        <title>1999/246/EC: Commission Decision of 30 March 1999 approving certain contingency plans for the control of classical swine fever (notified under document number C(1999) 769) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>41 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0246:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0246:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">2356</classCode>
+        <classCode scheme="eurovoc">2462</classCode>
+        <classCode scheme="eurovoc">2560</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0246-en." lang="en">
+    <body>
+      <head n="1">1999/246/EC: Commission Decision of 30 March 1999 approving certain contingency plans for the control of classical swine fever (notified under document number C(1999) 769) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 30 March 1999</p>
+      <p n="4">approving certain contingency plans for the control of classical swine fever</p>
+      <p n="5">(notified under document number C(1999) 769)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(1999/246/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 80/217/EEC of 22 January 1980 introducing Community measures for the control of classical swine fever(1), as last amended by Decision 93/384/EEC(2), and in particular Article 14b thereof,</p>
+      <p n="11">Whereas the criteria to be applied mutatis mutandis when drawing up contingency plans for the control of classical swine fever have been laid down in Commission Decision 91/42/EEC(3);</p>
+      <p n="12">Whereas certain Member States have submitted for approval national contingency plans; whereas, after examination these plans fulfil all the criteria laid down in Decision 91/42/EEC and permit the desired objective to be attained subject to an effective implementation;</p>
+      <p n="13">Whereas in order to ensure the plans' effectiveness it is necessary to carry out scenarios studies and simulation exercises;</p>
+      <p n="14">Whereas the contingency plans must be kept up to date on a regular basis;</p>
+      <p n="15">Whereas the measures provided for in this decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The contingency plans for the control of classical swine fever submitted by the Member States listed in Annex I are approved.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 30 March 1999.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz FISCHLER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 47, 21.1.1980, p. 11.</p>
+      <p n="26">(2) OJ L 166, 8.7.1993, p. 34.</p>
+      <p n="27">(3) OJ L 23, 29.1.1991, p. 29.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">Belgium</p>
+      <p n="30">Denmark</p>
+      <p n="31">Germany</p>
+      <p n="32">Spain</p>
+      <p n="33">France</p>
+      <p n="34">Ireland</p>
+      <p n="35">Italy</p>
+      <p n="36">The Netherlands</p>
+      <p n="37">Austria</p>
+      <p n="38">Portugal</p>
+      <p n="39">Finland</p>
+      <p n="40">Sweden</p>
+      <p n="41">United Kingdom</p>
+    </body>
+  </text>
+</TEI.2>

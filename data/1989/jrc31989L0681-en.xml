@@ -1,0 +1,83 @@
+<TEI.2 id="jrc31989L0681-en" n="31989L0681" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989L0681 English</title>
+        <title>Council Directive 89/681/EEC of 21 December 1989 amending directive 87/402/EEC on roll-over protection structures mounted in front of the driver's seat on narrow-track wheeled agricultural and forestry tractors</title>
+      </titleStmt>
+      <extent>56 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0681:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0681:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989L0681-en." lang="en">
+    <body>
+      <head n="1">Council Directive 89/681/EEC of 21 December 1989 amending directive 87/402/EEC on roll-over protection structures mounted in front of the driver's seat on narrow-track wheeled agricultural and forestry tractors</head>
+      <p n="2">COUNCIL DIRECTIVE</p>
+      <p n="3">of 21 December 1989</p>
+      <p n="4">amending Directive 87/402/EEC on roll-over protection structures mounted in front of the driver's seat on narrow-track wheeled agricultural and forestry tractors</p>
+      <p n="5">(89/681/EEC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100a thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission (1),</p>
+      <p n="9">In cooperation with the European Parliament (2),</p>
+      <p n="10">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="11">Whereas it is necessary to adopt measures with the aim of progressively establishing the internal market over a period expiring on 31 December 1992; whereas the internal market comprises an area without internal frontiers in which the</p>
+      <p n="12">free movement of goods, persons, services and capital is ensured;</p>
+      <p n="13">Whereas Article 12 of Directive 87/402/EEC (4) lays down that the said Directive shall be supplemented by provisions introducing additional impact tests into the dynamic test procedure;</p>
+      <p n="14">Whereas, since provision is already made for an additional test in the case of the static test procedure, it is necessary also in that of the dynamic test procedure to provide for an additional test - which more accurately reflects the situation in the event of tractor roll-over - in order that these two test procedures may be rendered equivalent and the present imbalance between them eliminated;</p>
+      <p n="15">Whereas, in respect of the reliability of the parameters and calculations, the results of the practical experiments carried out on rear-mounted structures may be transposed to the same type of structure, but mounted on the front,</p>
+      <p n="16">OJ N° C 256, 9. 10. 1989, p. 76.</p>
+      <p n="17">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Directive 87/402/EEC is hereby amended as follows:</p>
+      <p n="20">1.</p>
+      <p n="21">in Annex IV-A, point 1.6 is replaced by the following:</p>
+      <p n="22">'1.6.</p>
+      <p n="23">Additional tests</p>
+      <p n="24">'1.6.1.</p>
+      <p n="25">If cracks or tears which cannot be considered negligible appear during an impact test, a second, similar test, but with a height of fall of:</p>
+      <p n="26">Hm = 10 × 12 + 4a</p>
+      <p n="27">Hm =</p>
+      <p n="28">H</p>
+      <p n="29">10</p>
+      <p n="30">×</p>
+      <p n="31">12 + 4a</p>
+      <p n="32">1 + 2a</p>
+      <p n="33">shall be performed immediately after the impact tests causing these tears or cracks to appear, ''a'' being the ratio of the permanent deformation</p>
+      <p n="34">to the elastic deformation (a = Dp/De) as measured at the point of impact.</p>
+      <p n="35">The additional permanent deformation due to the second impact must not exceed 30 % of</p>
+      <p n="36">the permanent deformation due to the first impact.</p>
+      <p n="37">In order to be able to carry out the additional test, it is necessary to measure the elastic deformation during all of the impact tests.</p>
+      <p n="38">'1.6.2.</p>
+      <p n="39">If, during a crushing test, significant cracks or tears appear, a second, similar, crushing test, but with a force equal to 1,2 Fv, shall be performed immediately after the crushing test which caused these tears or cracks to appear.';</p>
+      <p n="40">2.</p>
+      <p n="41">in Annex VI, the following point is added:</p>
+      <p n="42">'7.3.</p>
+      <p n="43">Indication and results of any additional dynamic test'.</p>
+      <p n="44">Article 2</p>
+      <p n="45">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with</p>
+      <p n="46">this Directive not later than 12 months from</p>
+      <p n="47">3 January 1990. They shall forthwith inform the Commission thereof.</p>
+      <p n="48">Article 3</p>
+      <p n="49">This Directive is addressed to the Member States.</p>
+      <p n="50">Done at Brussels, 21 December 1989.</p>
+      <p n="51">For the Council</p>
+      <p n="52">The President</p>
+      <p n="53">E. CRESSON</p>
+      <p n="54">(1) OJ N° C 305, 30. 11. 1988, p. 7.</p>
+      <p n="55">(2) OJ N° C 120, 16. 5. 1989, p. 70, and (3) OJ N° C 102, 24. 4. 1989, p. 6.</p>
+      <p n="56">(4) OJ N° L 220, 8. 8. 1987, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

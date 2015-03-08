@@ -1,0 +1,69 @@
+<TEI.2 id="jrc31997R1391-en" n="31997R1391" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1391 English</title>
+        <title>Commission Regulation (EC) No 1391/97 of 18 July 1997 amending Regulation (EC) No 296/96 on data to be forwarded by the Member States and the monthly booking of expenditure financed under the Guarantee Section of the European Agricultural Guidance and Guarantee Fund (EAGGF) and repealing Regulation (EEC) No 2776/88</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1391:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1391:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1005</classCode>
+        <classCode scheme="eurovoc">1476</classCode>
+        <classCode scheme="eurovoc">2448</classCode>
+        <classCode scheme="eurovoc">2609</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+        <classCode scheme="eurovoc">979</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1391-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1391/97 of 18 July 1997 amending Regulation (EC) No 296/96 on data to be forwarded by the Member States and the monthly booking of expenditure financed under the Guarantee Section of the European Agricultural Guidance and Guarantee Fund (EAGGF) and repealing Regulation (EEC) No 2776/88</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1391/97 of 18 July 1997 amending Regulation (EC) No 296/96 on data to be forwarded by the Member States and the monthly booking of expenditure financed under the Guarantee Section of the European Agricultural Guidance and Guarantee Fund (EAGGF) and repealing Regulation (EEC) No 2776/88</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 729/70 of 21 April 1970 on the financing of the common agricultural policy (1), as last amended by Regulation (EC) No 1287/95 (2), and in particular Articles 4 and 5 thereof,</p>
+      <p n="6">Whereas Article 3 (1) and (3) of Regulation (EC) No 296/96 (3) provide for the notification of data by fax and telecopy respectively; whereas given the electronic means currently available it is appropriate to provide also for notification by electronic means;</p>
+      <p n="7">Whereas Article 7 (1) of Regulation (EC) No 296/96 stipulates that expenditure claimed in respect of a given month must fall within payments and receipts actually effected during this month; whereas, for certain types of expenditure, in particular accompanying measures, Member States either effect payments before the legal basis, by which the EAGGF Guarantee Section becomes responsible for the expenditure concerned, enters into force, or encounter problems in declaring expenditure for part-financed measures to the EAGGF in the same month as payment to the beneficiary; whereas Regulation (EC) No 296/96 should be amended so as better to reflect existing practices;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Committee of the European Agricultural Guidance and Guarantee Fund (EAGGF),</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EC) No 296/96 is hereby amended as follows:</p>
+      <p n="12">1. In Article 3 (1) and (3) the words 'fax` and 'telecopy` respectively are replaced by 'fax or electronically`.</p>
+      <p n="13">2. Article 7 (1) is replaced by the following:</p>
+      <p n="14">'1. Expenditure declared in respect of a given month must fall within payments and receipts actually effected during this month. However:</p>
+      <p n="15">(a) expenditure which can be paid prior to implementation of the provision permitting it to be wholly or partially borne by the EAGGF Guarantee Section may only be declared:</p>
+      <p n="16">- in the month during which the provision was implemented,</p>
+      <p n="17">or</p>
+      <p n="18">- in the month following implementation of that provision.</p>
+      <p n="19">(b) expenditure part-financed by national funds must be declared by, at the latest, the second month following payment to the beneficiary.</p>
+      <p n="20">Expenditure declared in accordance with the first subparagraph may include corrections to data reported for previous months in the same year.</p>
+      <p n="21">For a year "n", account shall be taken of expenditure declared by the Member States in accordance with the present paragraph from 16 October of year "n - 1" to 15 October of year "n".`</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="24">It shall apply to expenditure effected from the month following the date of its entry into force.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 18 July 1997.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Franz FISCHLER</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ No L 94, 28. 4. 1970, p. 13.</p>
+      <p n="31">(2) OJ No L 125, 8. 6. 1995, p. 1.</p>
+      <p n="32">(3) OJ No L 39, 17. 2. 1996, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>

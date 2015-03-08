@@ -1,0 +1,53 @@
+<TEI.2 id="jrc41999D0010-en" n="41999D0010" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41999D0010 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 28 April 1999 on the illegal trade in firearms (SCH/Com-ex (99) 10)</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0010:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0010:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3489</classCode>
+        <classCode scheme="eurovoc">5540</classCode>
+        <classCode scheme="eurovoc">7</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41999D0010-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 28 April 1999 on the illegal trade in firearms (SCH/Com-ex (99) 10)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 28 April 1999</p>
+      <p n="4">on the illegal trade in firearms</p>
+      <p n="5">(SCH/Com-ex (99) 10)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Article 9 of the abovementioned Convention,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">Henceforth, the Contracting Parties shall submit each year by 31 July their national annual data for the preceding year on illegal trade in firearms, on the basis of the joint table for compiling statistics annexed to document SCH/I-ar (98) 32.</p>
+      <p n="11">Luxembourg, 28 April 1999.</p>
+      <p n="12">The Chairman</p>
+      <p n="13">C. H. Schapper</p>
+      <p n="14">ANNEX</p>
+      <p n="15">SCH/I-Ar (98) 32</p>
+      <p n="16">&gt;PIC FILE= "L_2000239EN.047002.EPS"&gt;</p>
+      <p n="17">&gt;PIC FILE= "L_2000239EN.047101.EPS"&gt;</p>
+      <p n="18">&gt;PIC FILE= "L_2000239EN.047201.EPS"&gt;</p>
+      <p n="19">&gt;PIC FILE= "L_2000239EN.047301.EPS"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

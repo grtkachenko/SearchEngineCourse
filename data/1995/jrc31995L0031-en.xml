@@ -1,0 +1,72 @@
+<TEI.2 id="jrc31995L0031-en" n="31995L0031" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995L0031 English</title>
+        <title>Commission Directive 95/31/EC of 5 July 1995 laying down specific criteria of purity concerning sweeteners for use in foodstuffs</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0031:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0031:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1284</classCode>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995L0031-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 95/31/EC of 5 July 1995 laying down specific criteria of purity concerning sweeteners for use in foodstuffs</head>
+      <p n="2">COMMISSION DIRECTIVE 95/31/EC</p>
+      <p n="3">of 5 July 1995</p>
+      <p n="4">laying down specific criteria of purity concerning sweeteners for use in foodstuffs</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 89/107/EEC of 21 December 1988 on the approximation of the laws of the Member States concerning food additives authorized for use in foodstuffs intended for human consumption (1), as amended by Directive 94/34/EC (2), and in particular Article 3 (3) (a) thereof,</p>
+      <p n="9">After consultation of the Scientific Committee on Food,</p>
+      <p n="10">Whereas it is necessary to establish purity criteria for all sweeteners mentioned in European Parliament and Council Directive 94/35/EC of 30 June 1994 on sweeteners for use in foodstuffs (3);</p>
+      <p n="11">Whereas it is necessary to take into account the specifications and analytical techniques for sweeteners as set out in the Codex Alimentarius and the Joint FAO/WHO Expert Committee on Food Additives (Jecfa);</p>
+      <p n="12">Whereas food additives, prepared by production methods or starting materials significantly different from those included in the evaluation of the Scientific Committee for Food, or different from those mentioned in this Directive, should be submitted for evaluation by the Scientific Committee for Food with a view to full evaluation with emphasis on the purity criteria;</p>
+      <p n="13">Whereas the measures provided for in this Directive are in line with the opinion of the Standing Committee on Foodstuffs,</p>
+      <p n="14">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="15">Article 1</p>
+      <p n="16">1. Purity criteria mentioned under Article 3 (3) (a) of Directive 89/107/EEC for sweeteners mentioned in Directive 94/35/EC are set out in the Annex.</p>
+      <p n="17">2. The purity criteria for E 420 (i), E 420 (ii) and E 421 mentioned in the Annex to this Directive supersede the purity criteria for the said substances mentioned in the Annex to Council Directive 78/663/EEC (4).</p>
+      <p n="18">Article 2</p>
+      <p n="19">1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 1 July 1996. They shall forthwith inform the Commission thereof.</p>
+      <p n="20">When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="21">2. Products put on the market or labelled before that date which do not comply with this Directive may, however, be marketed until stocks are exhausted.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="24">Article 4</p>
+      <p n="25">This Directive is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 5 July 1995.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Martin BANGEMANN</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ No L 40, 11. 2. 1989, p. 27.</p>
+      <p n="31">(2) OJ No L 237, 10. 9. 1994, p. 1.</p>
+      <p n="32">(3) OJ No L 237, 10. 9. 1994, p. 3.</p>
+      <p n="33">(4) OJ No L 223, 14. 8. 1978, p. 7.</p>
+      <p n="34">ANNEX</p>
+      <p n="35">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

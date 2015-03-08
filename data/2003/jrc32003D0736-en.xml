@@ -1,0 +1,80 @@
+<TEI.2 id="jrc32003D0736-en" n="32003D0736" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0736 English</title>
+        <title>2003/736/EC: Commission Decision of 13 October 2003 amending Decision 97/232/EC as regards the loss by Greenland of its status as being officially brucellosis free (Text with EEA relevance) (notified under document number C(2003) 3575)</title>
+      </titleStmt>
+      <extent>41 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0736:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0736:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1188</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">2211</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">5047</classCode>
+        <classCode scheme="eurovoc">5252</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0736-en." lang="en">
+    <body>
+      <head n="1">2003/736/EC: Commission Decision of 13 October 2003 amending Decision 97/232/EC as regards the loss by Greenland of its status as being officially brucellosis free (Text with EEA relevance) (notified under document number C(2003) 3575)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 13 October 2003</p>
+      <p n="4">amending Decision 97/232/EC as regards the loss by Greenland of its status as being officially brucellosis free</p>
+      <p n="5">(notified under document number C(2003) 3575)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/736/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 72/462/EEC(1) of 12 December 1972 on health and veterinary inspection problems upon importation of bovine, ovine and caprine animals and swine, fresh meat and meat products from third countries, as last amended by Regulation (EC) No 807/2003(2), and in particular Article 3(1) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Council Directive 91/68/EEC(3), as last amended by Regulation (EC) No 806/2003(4), lays down the animal health conditions governing intra-Community trade in ovine and caprine animals.</p>
+      <p n="13">(2) Commission Decision 97/232/EC(5), as last amended by Decision 2003/111/EC(6), draws up lists of third countries from which Member States authorise imports of sheep and goats.</p>
+      <p n="14">(3) Greenland was recognised as being in compliance with the requirements laid down in point II of Chapter 1 of Annex A to Directive 91/68/EEC and hence was recognised as a third country that had satisfied the criteria for official brucellosis-free status.</p>
+      <p n="15">(4) Greenland has informed the Commission of its intention not to carry out random sampling for Brucellosis melitensis in ovine and caprine animals.</p>
+      <p n="16">(5) Greenland therefore no longer complies with the requirements set out in point II(2) of Chapter 1 of Annex A to Directive 91/68/EEC concerning random testing. Hence Greenland no longer fulfils the requirements for being recognised as being officially brucellosis free.</p>
+      <p n="17">(6) Decision 97/232/EC should therefore be amended accordingly.</p>
+      <p n="18">(7) The measures provided for in this decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="19">HAS ADOPTED THIS DECISION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Part 5 of the Annex to Decision 97/232/EC is replaced by the text in the Annex to this Decision.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision shall apply from 5 November 2003.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 13 October 2003.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">David Byrne</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 302, 31.12.1972, p. 28.</p>
+      <p n="31">(2) OJ L 122, 16.5.2003, p. 36.</p>
+      <p n="32">(3) OJ L 46, 19.2.1991, p. 19.</p>
+      <p n="33">(4) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="34">(5) OJ L 93, 8.4.1997, p. 43.</p>
+      <p n="35">(6) OJ L 45, 19.2.2003, p. 25.</p>
+      <p n="36">ANNEX</p>
+      <p n="37">"PART 5 Non-member countries or parts of non-member countries recognised as satisfying the criteria for officially brucellosis-free status</p>
+      <p n="38">Czech Republic</p>
+      <p n="39">Hungary</p>
+      <p n="40">Romania</p>
+      <p n="41">Slovak Republic"</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32002R0474-en" n="32002R0474" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0474 English</title>
+        <title>Commission Regulation (EC) No 474/2002 of 15 March 2002 amending Regulation (EC) No 20/2002 laying down detailed rules for implementing the specific supply arrangements for the outermost regions introduced by Council Regulations (EC) No 1452/2001, (EC) No 1453/2001 and (EC) No 1454/2001</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0474:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0474:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2292</classCode>
+        <classCode scheme="eurovoc">2957</classCode>
+        <classCode scheme="eurovoc">4128</classCode>
+        <classCode scheme="eurovoc">4885</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0474-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 474/2002 of 15 March 2002 amending Regulation (EC) No 20/2002 laying down detailed rules for implementing the specific supply arrangements for the outermost regions introduced by Council Regulations (EC) No 1452/2001, (EC) No 1453/2001 and (EC) No 1454/2001</head>
+      <p n="2">Commission Regulation (EC) No 474/2002</p>
+      <p n="3">of 15 March 2002</p>
+      <p n="4">amending Regulation (EC) No 20/2002 laying down detailed rules for implementing the specific supply arrangements for the outermost regions introduced by Council Regulations (EC) No 1452/2001, (EC) No 1453/2001 and (EC) No 1454/2001</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1452/2001 of 28 June 2001 introducing specific measures for certain agricultural products for the French overseas departments, amending Directive 72/462/EEC and repealing Regulations (EEC) No 525/77 and (EEC) No 3763/91 (Poseidom)(1), and in particular Article 22,</p>
+      <p n="8">Having regard to Council Regulation (EC) No 1453/2001 of 28 June 2001 introducing specific measures for certain agricultural products for the Azores and Madeira and repealing Regulation (EEC) No 1600/92 (Poseima)(2), and in particular Article 34,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) For technical reasons and in order to conduct suitable checks of the specific supply arrangements for the Azores and Madeira during the transitional period expiring on 30 June 2002, the Portuguese authorities have requested that special provisions should apply to the presentation of licence applications and to their term of validity. That request should be acceded to and the presentation of licence applications should be limited to the first five working days of each month and the term of validity of licences should expire at the end of the second month following that of issue. These new provisions should apply from 1 April 2002.</p>
+      <p n="11">(2) A material error appears in the second indent of the second paragraph of Article 30 of Commission Regulation (EC) No 20/2002(3). As a result of that error, difficulties could arise in implementing the specific supply arrangements during the transitional period allowed from 1 January to 30 June 2002 in the French overseas departments, the Azores and Madeira. That error should be corrected so that the issuing of licences can proceed properly during the transitional period.</p>
+      <p n="12">(3) The measures provided for in this Regulation are in accordance with the opinions of all the Management Committees concerned,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EC) No 20/2002 is hereby amended as follows:</p>
+      <p n="16">1. The following paragraph is added to Article 29: "3. Until 30 June 2002 the following provisions shall apply in the Azores and Madeira:</p>
+      <p n="17">(a) licence applications shall be submitted in the first five working days of each month and the licences shall be issued in the following five working days;</p>
+      <p n="18">(b) licences shall be valid during the two months following that of issue."</p>
+      <p n="19">2. The second indent of the second paragraph of Article 30 is replaced by the following: "- Articles 4, 5, 7 and 9, Article 10(1) and Articles 11, 13, 14, 15, 26 and 27 shall not apply to the French overseas departments, the Azores and Madeira until 1 July 2002."</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">Article 1(1) shall apply from 1 April 2002.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 15 March 2002.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 198, 21.7.2001, p. 11.</p>
+      <p n="29">(2) OJ L 198, 21.7.2001, p. 26.</p>
+      <p n="30">(3) OJ L 8, 11.1.2002, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

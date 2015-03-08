@@ -1,0 +1,75 @@
+<TEI.2 id="jrc32003D0122-en" n="32003D0122" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0122 English</title>
+        <title>2003/122/EC: Commission Decision of 21 February 2003 authorising Member States to take decisions under Directive 1999/105/EC on forest reproductive material produced in third countries (notified under document number C(2003) 580)</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0122:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0122:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1063</classCode>
+        <classCode scheme="eurovoc">1595</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3409</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0122-en." lang="en">
+    <body>
+      <head n="1">2003/122/EC: Commission Decision of 21 February 2003 authorising Member States to take decisions under Directive 1999/105/EC on forest reproductive material produced in third countries (notified under document number C(2003) 580)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 21 February 2003</p>
+      <p n="4">authorising Member States to take decisions under Directive 1999/105/EC on forest reproductive material produced in third countries</p>
+      <p n="5">(notified under document number C(2003) 580)</p>
+      <p n="6">(2003/122/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to the Council Directive 1999/105/EC of 22 December 1999 on the marketing of forest reproductive material(1), and in particular Article 19(3) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Pursuant to Article 19(1) of Directive 1999/105/EC, the Council on a proposal from the Commission is to determine whether forest reproductive material produced in a third country affords the same assurances as regards the approval of its basic material and the measures taken for its production with a view to marketing as does forest reproductive material produced within the Community and complying with the provisions of that Directive.</p>
+      <p n="12">(2) However, the information presently available on the conditions applying in third countries is still not sufficient to enable the Community to make any such decision in respect of any third country.</p>
+      <p n="13">(3) Therefore, in order to prevent trade patterns from being disrupted, Member States should be authorised to take such decisions. Such authorisation aims to ensure that the material imported offers equivalent guarantees to those applicable to forest reproductive material produced in the Community in accordance with that Directive.</p>
+      <p n="14">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Member States are authorised to take decisions under Article 19(3) of Directive 1999/105/EC with regard to forest reproductive material produced in third countries listed in the Annex, and in respect of the species, types of basic material and categories set out therein.</p>
+      <p n="18">Article 2</p>
+      <p n="19">Member States shall immediately notify the Commission and other Member States of the decisions taken pursuant to this Decision, and of any withdrawal of such decisions.</p>
+      <p n="20">Article 3</p>
+      <p n="21">The authorisation provided for in Article 1 shall expire on 31 December 2005.</p>
+      <p n="22">Article 4</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 21 February 2003.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">David Byrne</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 11, 15.1.2000, p. 17.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">&gt;TABLE&gt;</p>
+      <p n="31">Legend:</p>
+      <p n="32">Category</p>
+      <p n="33">SI Source identified</p>
+      <p n="34">Q Qualified</p>
+      <p n="35">T Tested</p>
+      <p n="36">Type of basic material</p>
+      <p n="37">SS Seed source</p>
+      <p n="38">St Stand</p>
+      <p n="39">SO Seed orchard</p>
+      <p n="40">PF Parents of family</p>
+    </body>
+  </text>
+</TEI.2>

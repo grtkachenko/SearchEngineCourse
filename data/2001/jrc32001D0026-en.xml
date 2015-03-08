@@ -1,0 +1,76 @@
+<TEI.2 id="jrc32001D0026-en" n="32001D0026" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0026 English</title>
+        <title>2001/26/EC: Commission Decision of 27 December 2000 amending for the fourth time Decision 1999/467/EC establishing the officially tuberculosis-free status of bovine herds of certain Member States or regions of Member States (Text with EEA relevance) (notified under document number C(2000) 4144)</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0026:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0026:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">2560</classCode>
+        <classCode scheme="eurovoc">4576</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">5962</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0026-en." lang="en">
+    <body>
+      <head n="1">2001/26/EC: Commission Decision of 27 December 2000 amending for the fourth time Decision 1999/467/EC establishing the officially tuberculosis-free status of bovine herds of certain Member States or regions of Member States (Text with EEA relevance) (notified under document number C(2000) 4144)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 27 December 2000</p>
+      <p n="4">amending for the fourth time Decision 1999/467/EC establishing the officially tuberculosis-free status of bovine herds of certain Member States or regions of Member States</p>
+      <p n="5">(notified under document number C(2000) 4144)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/26/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 64/432/EEC on health problems affecting intra-Community trade in bovine animals and swine(1), as last amended by Directive 2000/20/EC(2), and in particular Annex AI(4) thereto,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 1999/467/EC of 15 July 1999 establishing the officially tuberculosis-free status of bovine herds of certain Member States or regions of Member States and repealing Decision 97/76/EC(3), as last amended by Decision 2000/694/EC(4), granted this status to certain Member States and regions thereof.</p>
+      <p n="13">(2) The competent authorities of France submitted to the Commission documentation demonstrating compliance with all of the conditions provided for in Annex A(I)(4) to Directive 64/432/EEC, and in particular that, calculated at 31 December of each year, more than 99,9 % of the bovine herds in France have been officially free from bovine tuberculosis for the past six consecutive years and that recording in a database established in December 1999 allows tracing of bovine animals which are identified in accordance with Community legislation.</p>
+      <p n="14">(3) It appears therefore appropriate to declare France officially tuberculosis-free in accordance with the provisions of the above Directive.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Annex I to Decision 1999/467/EC is replaced by the Annex to the present Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 27 December 2000.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">David Byrne</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ 121, 29.7.1964, p. 1977/64.</p>
+      <p n="26">(2) OJ L 163, 4.7.2000, p. 35.</p>
+      <p n="27">(3) OJ L 181, 16.7.1999, p. 36.</p>
+      <p n="28">(4) OJ L 286, 11.11.2000, p. 41.</p>
+      <p n="29">ANNEX</p>
+      <p n="30">"ANNEX I</p>
+      <p n="31">Member States declared officially free of bovine tuberculosis:</p>
+      <p n="32">Denmark</p>
+      <p n="33">Germany</p>
+      <p n="34">France</p>
+      <p n="35">Luxembourg</p>
+      <p n="36">Netherlands</p>
+      <p n="37">Austria</p>
+      <p n="38">Finland</p>
+      <p n="39">Sweden"</p>
+    </body>
+  </text>
+</TEI.2>

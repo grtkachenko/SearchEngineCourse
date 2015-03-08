@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32002R2067-en" n="32002R2067" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2067 English</title>
+        <title>Commission Regulation (EC) No 2067/2002 of 21 November 2002 correcting Regulation (EC) No 444/98 amending Regulation (EC) No 1162/95 laying down special detailed rules for the application of the system of import and export licences for cereals and rice</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2067:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2067:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2067-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2067/2002 of 21 November 2002 correcting Regulation (EC) No 444/98 amending Regulation (EC) No 1162/95 laying down special detailed rules for the application of the system of import and export licences for cereals and rice</head>
+      <p n="2">Commission Regulation (EC) No 2067/2002</p>
+      <p n="3">of 21 November 2002</p>
+      <p n="4">correcting Regulation (EC) No 444/98 amending Regulation (EC) No 1162/95 laying down special detailed rules for the application of the system of import and export licences for cereals and rice</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organisation of the market in cereals(1), as last amended by Regulation (EC) No 1666/2000(2), and in particular Article 9(2) and Article 13(11) thereof,</p>
+      <p n="8">Having regard to Council Regulation (EC) No 3072/95 of 22 December 1995 on the common organisation of the market in rice(3), as last amended by Commission Regulation (EC) No 411/2002(4), and in particular Article 9(2) and Article 13(15) thereof,</p>
+      <p n="9">Having regard to Commission Regulation (EC) No 1291/2000 of 9 June 2000 laying down common detailed rules for the application of the system of import and export licences and advance fixing certificates for agricultural products(5), as last amended by Regulation (EC) No 2229/2001(6),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The amendment of the first indent of Article 4(2) of Commission Regulation (EC) No 1162/95(7), as last amended by Regulation (EC) No 1322/2002(8), as adopted by Commission Regulation (EC) No 444/98(9), contains an error in that the expression "eleven-digit code" did not actually appear in that indent before its amendment. This error should therefore be corrected.</p>
+      <p n="12">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">In Article 1 of Regulation (EC) No 444/98, point 2 is hereby corrected and replaced by the following text: "2. the first indent in Article 4(2) is replaced by the following:</p>
+      <p n="16">- in Section 15, the description of the product and its twelve-digit code; in the case of products falling within two or more adjacent subdivisions the exporter may show the twelve-digit refund nomenclature, in which case the following shall be indicated in Section 15: preparations used for animal feed covered by Regulation (EC) No 1517/95."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 21 November 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 181, 1.7.1992, p. 21.</p>
+      <p n="25">(2) OJ L 193, 29.7.2000, p. 1.</p>
+      <p n="26">(3) OJ L 329, 30.12.1995, p. 18.</p>
+      <p n="27">(4) OJ L 62, 5.3.2002, p. 27.</p>
+      <p n="28">(5) OJ L 152, 24.6.2000, p. 1.</p>
+      <p n="29">(6) OJ L 308, 27.11.2001, p. 19.</p>
+      <p n="30">(7) OJ L 117, 24.5.1995, p. 2.</p>
+      <p n="31">(8) OJ L 194, 23.7.2002, p. 22.</p>
+      <p n="32">(9) OJ L 56, 26.2.1998, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

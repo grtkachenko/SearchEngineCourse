@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31996R2154-en" n="31996R2154" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2154 English</title>
+        <title>Commission Regulation (EC) No 2154/96 of 11 November 1996 on certain transitional measures required to implement the Uruguay Round Agriculture Agreement</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2154:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2154:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1136</classCode>
+        <classCode scheme="eurovoc">1567</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2324</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2154-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2154/96 of 11 November 1996 on certain transitional measures required to implement the Uruguay Round Agriculture Agreement</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2154/96 of 11 November 1996 on certain transitional measures required to implement the Uruguay Round Agriculture Agreement</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the markets in cereals (1), as last amended by Commission Regulation (EC) No 923/96 (2) and in particular Article 13 thereof, and the corresponding provisions of the other regulations on the common organization of the agricultural markets,</p>
+      <p n="6">Whereas the second indent of Article 20 (3) (b) of Commission Regulation (EEC) No 3665/87 of 27 November 1987 laying down common detailed rules for the application of the system of export refunds on agricultural products (3), as last amended by Regulation (EC) No 1384/95 (4), lays down that, in the case of differentiated refunds, if the destination indicated on the licence has not be complied with and the rate of refund corresponding to the actual destination is less than the rate of refund indicated on the licence, the refund is to be reduced by 20 % of the difference between that refund and the refund indicated on the licence; whereas this provision applies to export declarations accepted on or after 1 July 1995; whereas the reduction has been introduced to ensure that the restrictions on quantities and value under the Uruguay Round Agricultural Agreements are complied with;</p>
+      <p n="7">Whereas, to avoid disruption to trade and to ensure a smooth transition to the new GATT rules from the rules applying before 1 July 1995, Commission Regulation (EC) No 974/95 (5) provides for the issue of export licences before 1 July 1995 that can be used after that date; whereas these licences are not to be booked to account under the new GATT rules; whereas these licences should therefore be expressly excluded from the application of the 20 % reduction with effect from 1 July 1995;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of all the Management Committees concerned,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">On application by the interested party submitted not later than one year after the publication of this Regulation, the 20 % reduction laid down in the second indent of Article 20 (3) (b) of Regulation (EEC) No 3665/87 shall not apply to exports effected under export licences issued under Regulation (EC) No 974/95.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">It shall apply from 1 July 1995.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 11 November 1996.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 181, 1. 7. 1992, p. 21.</p>
+      <p n="21">(2) OJ No L 126, 24. 5. 1996, p. 37.</p>
+      <p n="22">(3) OJ No L 351, 14. 12. 1987, p. 1.</p>
+      <p n="23">(4) OJ No L 134, 20. 6. 1995, p. 14.</p>
+      <p n="24">(5) OJ No L 97, 29. 4. 1995, p. 66.</p>
+    </body>
+  </text>
+</TEI.2>

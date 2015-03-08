@@ -1,0 +1,96 @@
+<TEI.2 id="jrc32003D0517-en" n="32003D0517" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0517 English</title>
+        <title>2003/517/EC: Council Decision of 15 July 2003 on the statistical data to be used for the adjustment of the key for subscription to the capital of the European Central Bank</title>
+      </titleStmt>
+      <extent>61 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0517:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0517:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">4369</classCode>
+        <classCode scheme="eurovoc">4763</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0517-en." lang="en">
+    <body>
+      <head n="1">2003/517/EC: Council Decision of 15 July 2003 on the statistical data to be used for the adjustment of the key for subscription to the capital of the European Central Bank</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 15 July 2003</p>
+      <p n="4">on the statistical data to be used for the adjustment of the key for subscription to the capital of the European Central Bank</p>
+      <p n="5">(2003/517/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 107(6) thereof and Article 29.2 of the Protocol on the Statute of the European System of Central Banks (ESCB) and of the European Central Bank (ECB) annexed thereto (hereinafter referred to as "the Statute"),</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Having regard to the opinion of the European Central Bank(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Pursuant to Decision 98/382/EC(4), the Council adopted rules on the statistical data to be used for the determination of the initial subscription key to the ECB's capital.</p>
+      <p n="13">(2) According to Article 29.3 of the Statute, the weighting of the national central banks in the key for subscription of the ECB's capital is to be adjusted every five years.</p>
+      <p n="14">(3) Upon one or more countries becoming Member States of the European Union, their national central banks will become members of the European System of Central Banks (ESCB) and subscribers to the ECB's capital. The weighting of the national central banks in the key for subscription of the ECB's capital needs to be adjusted accordingly.</p>
+      <p n="15">(4) It is necessary to lay down rules for the provision of the statistical data to be used for the adjustments of the weighting of the national central banks in the key for subscription of the ECB's capital.</p>
+      <p n="16">(5) The nature of, and sources for, the data to be used and the method of calculation of the weighting of the national central banks in the key for subscription of the ECB's capital should be defined.</p>
+      <p n="17">(6) Council Regulation (EC) No 2223/96/EC of 25 June 1996 on the European system of national and regional accounts in the Community(5) provides for a methodology on common standards, definitions, classifications and accounting rules intended to be used for compiling accounts and tables on comparable bases for the purpose of the Community and provides for a programme for transmitting for Community purposes the accounts and tables compiled according to that Regulation on precise dates. That Regulation takes account of the most recent standards and developments in statistical methodology and the definitions therein should therefore be used for the purposes of this Decision.</p>
+      <p n="18">(7) Since the key for the ECB capital subscription determines the respective shares of the national central banks in the capital of the ECB and in the pooling of external reserves, as well as their voting weights in the ECB Governing Council for all decisions to be taken by weighted votes (in accordance with Article 10.3 of the Statute) and the distribution among them of the monetary income of the ESCB, it is important that the calculation of their weighting in this key is carried out in an accurate manner. The Commission should therefore consult the relevant committees on the data on population and on gross domestic product at current market prices,</p>
+      <p n="19">HAS DECIDED AS FOLLOWS:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Subject matter</p>
+      <p n="22">The statistical data to be used for the adjustment of the weighting of the national central banks in the key for subscription of the capital of the European Central Bank (ECB) shall be provided by the Commission in accordance with the rules laid down in this Decision.</p>
+      <p n="23">Article 2</p>
+      <p n="24">Population</p>
+      <p n="25">1. "Population" shall mean the total population as defined in Regulation (EC) No 2223/96 compiled as an average of the year and rounded to the nearest thousand people.</p>
+      <p n="26">2. For the adjustment of the weightings assigned to the national central banks in accordance with Article 29.3 of the Statute, the data on population shall be taken for the penultimate year preceding the year in which the key is adjusted.</p>
+      <p n="27">Article 3</p>
+      <p n="28">Gross domestic product at current market prices</p>
+      <p n="29">1. "Gross domestic product at market prices" shall mean the gross domestic product at current market prices as defined in Regulation (EC) No 2223/96 for a calendar year and expressed in the national currency with the highest precision available to permit the compilation of the shares with the required accuracy.</p>
+      <p n="30">2. For the adjustment of the weightings assigned to the national central banks in accordance with Article 29.3 of the Statute, the data on gross domestic product at current market prices shall be taken for the five years preceding the penultimate year before the year in which the key is adjusted.</p>
+      <p n="31">Article 4</p>
+      <p n="32">Exchange rates</p>
+      <p n="33">1. The annual exchange rate for conversion of the gross domestic product at current market prices shall be the arithmetic mean of the daily exchange rates for all working days in a calendar year.</p>
+      <p n="34">2. The daily exchange rates shall be the ecu reference rates before 1999 as compiled by the Commission. They will be the euro reference rates from 1999 onwards as compiled by the ECB.</p>
+      <p n="35">Article 5</p>
+      <p n="36">Calculation and accuracy</p>
+      <p n="37">1. The share of a Member State in the population of the Community shall be its share in the sum of the population of the Member States, expressed as a percentage.</p>
+      <p n="38">2. The share of a Member State in GDP at current market prices of the Community shall be its share in the sum of GDP at current market prices of the Member States over five years, expressed as a percentage.</p>
+      <p n="39">3. The weighting of a national central bank in the key for the subscription of the ECB's capital shall be the arithmetic mean of the shares of the Member State concerned in the population and in GDP at current market prices of the Community.</p>
+      <p n="40">4. The various steps of calculation shall use sufficient digits to ensure their accuracy. The weighting of the national central banks in the key for the subscription of the ECB's capital shall be expressed to four decimal places.</p>
+      <p n="41">Article 6</p>
+      <p n="42">Information of Committees</p>
+      <p n="43">As regards data on population, the Commission shall inform the Statistical Programme Committee set up by Article 1 of Council Decision 89/382/EEC, Euratom of 19 June 1989 establishing a Committee on the Statistical Programmes of the European Communities(6).</p>
+      <p n="44">As regards data on GDP at current market prices, the Commission shall inform the Committee set up by Article 6 of Council Directive 89/130/EEC, Euratom of 13 February 1989 on the harmonisation of the compilation of gross national product at market prices(7).</p>
+      <p n="45">Article 7</p>
+      <p n="46">New Member States</p>
+      <p n="47">Upon one or more countries becoming Member States and their respective national central banks becoming part of the ESCB, the reference periods to be used for the statistical data on population and gross domestic product at current market prices shall be identical to those applied for the latest quinquennial adjustment as defined in Articles 29.1 and 29.3 of the Statute.</p>
+      <p n="48">Article 8</p>
+      <p n="49">Provision of the data</p>
+      <p n="50">The data on population, gross domestic product at current market prices and the annual exchange rates referred to in this Decision shall be provided by the Commission to the ECB for all Member States separately not later than two months before the date on which the adjustment of weighting of the national central banks in the key for subscription of the capital of the ECB takes effect.</p>
+      <p n="51">Done at Brussels, 15 July 2003.</p>
+      <p n="52">For the Council</p>
+      <p n="53">The President</p>
+      <p n="54">G. Tremonti</p>
+      <p n="55">(1) Proposal of 14 March 2003 (not yet published in the Official Journal).</p>
+      <p n="56">(2) Opinion delivered on 3 July 2003 (not yet published in the Official Journal).</p>
+      <p n="57">(3) OJ C 102, 29.4.2003, p. 11.</p>
+      <p n="58">(4) OJ L 171, 17.6.1998, p. 33.</p>
+      <p n="59">(5) OJ L 310, 30.11.1996, p. 1. Regulation as last amended by Regulation (EC) No 359/2002 of the European Parliament and of the Council (OJ L 58, 28.2.2002, p. 1).</p>
+      <p n="60">(6) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="61">(7) OJ L 49, 21.2.1989, p. 26.</p>
+    </body>
+  </text>
+</TEI.2>

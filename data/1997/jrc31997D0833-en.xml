@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31997D0833-en" n="31997D0833" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0833 English</title>
+        <title>97/833/EC: Council Decision of 11 December 1997 laying down the procedure for adopting the Community's position in the Customs Union Joint Committee set up by Decision No 1/95 of the EC-Turkey Association Council on implementation of the final phase of the Customs Union</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0833:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0833:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">116</classCode>
+        <classCode scheme="eurovoc">4580</classCode>
+        <classCode scheme="eurovoc">4600</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0833-en." lang="en">
+    <body>
+      <head n="1">97/833/EC: Council Decision of 11 December 1997 laying down the procedure for adopting the Community's position in the Customs Union Joint Committee set up by Decision No 1/95 of the EC-Turkey Association Council on implementation of the final phase of the Customs Union</head>
+      <p n="2">COUNCIL DECISION of 11 December 1997 laying down the procedure for adopting the Community's position in the Customs Union Joint Committee set up by Decision No 1/95 of the EC-Turkey Association Council on implementation of the final phase of the Customs Union (97/833/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas Decision No 1/95 (3) of the EC-Turkey Association Council established a Customs Union Joint Committee; whereas that Committee is empowered to frame recommendations to the Association Council and has decision-making powers in the cases provided for by the said Decision;</p>
+      <p n="8">Whereas for the purposes of Joint Committee proceedings it is necessary to lay down rules for the adoption of common positions on the basis of which the Community, represented on the Joint Committee by the Commission, can enter into commitments vis-à-vis Turkey;</p>
+      <p n="9">Whereas the Joint Committee's task is to ensure the proper functioning of the Customs Union and freedom of trade between the Parties; whereas common positions to be adopted by the Community accordingly fall within the scope of Article 113 of the Treaty, and the procedure provided for by that Article should as a rule apply;</p>
+      <p n="10">Whereas it is necessary, however, to provide that common positions relating to the application of Community legislation and any associated technical adjustments or to the assessment of anti-competitive behaviour should be adopted by the Commission,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Subject to Article 2, the position to be taken by the Community in the Customs Union Joint Committee shall be adopted by the Council, acting by a qualified majority on a proposal from the Commission.</p>
+      <p n="14">Article 3</p>
+      <p n="15">The position to be taken by the Community in the Customs Union Joint Committee shall be adopted by the Commission where the said position relates to the simple transposition into the Customs Union of acts of Community law, if necessary by means of technical adjustments, or to the assessment of anti-competitive behaviour. The annual report by the Commission on the implementation of the Customs Union shall also inform the European Parliament of decisions taken by the Joint Committee.</p>
+      <p n="16">Article 3</p>
+      <p n="17">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="18">Done at Brussels, 11 December 1997.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">M. DELVAUX-STEHRES</p>
+      <p n="22">(1) OJ C 84, 21. 3. 1996, p. 14.</p>
+      <p n="23">(2) Opinion delivered on 18 November 1997 (not yet published in the Official Journal).</p>
+      <p n="24">(3) OJ C 35, 13. 2. 1996, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

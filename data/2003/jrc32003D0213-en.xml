@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32003D0213-en" n="32003D0213" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0213 English</title>
+        <title>2003/213/EC: Commission Decision of 25 March 2003 on the application of Article 3(3)(e) of Directive 1999/5/EC of the European Parliament and of the Council to radio equipment intended to be used on non-SOLAS vessels and which is intended to participate in the Automatic Identification System (AIS) (Text with EEA relevance) (notified under document number C(2003) 808)</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0213:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0213:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3860</classCode>
+        <classCode scheme="eurovoc">4522</classCode>
+        <classCode scheme="eurovoc">468</classCode>
+        <classCode scheme="eurovoc">5235</classCode>
+        <classCode scheme="eurovoc">5889</classCode>
+        <classCode scheme="eurovoc">6851</classCode>
+        <classCode scheme="eurovoc">6852</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0213-en." lang="en">
+    <body>
+      <head n="1">2003/213/EC: Commission Decision of 25 March 2003 on the application of Article 3(3)(e) of Directive 1999/5/EC of the European Parliament and of the Council to radio equipment intended to be used on non-SOLAS vessels and which is intended to participate in the Automatic Identification System (AIS) (Text with EEA relevance) (notified under document number C(2003) 808)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 25 March 2003</p>
+      <p n="4">on the application of Article 3(3)(e) of Directive 1999/5/EC of the European Parliament and of the Council to radio equipment intended to be used on non-SOLAS vessels and which is intended to participate in the Automatic Identification System (AIS)</p>
+      <p n="5">(notified under document number C(2003) 808)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/213/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Directive 1999/5/EC of the European Parliament and of the Council of 9 March 1999 on radio equipment and telecommunications terminal equipment and the mutual recognition of their conformity(1), and in particular Article 3(3)(e), thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) A number of Member States have implemented or intend to implement common safety principles and rules for automatic identification system (AIS) equipment on non-SOLAS vessels not falling under the carriage requirements of Chapter V of the International Convention for the Safety of Life at Sea, 1974 (SOLAS).</p>
+      <p n="13">(2) The harmonisation of radio services contributes to a safer navigation of non-SOLAS vessels, particularly in case of distress and bad weather conditions and such vessels are therefore invited by Member States to participate in the AIS.</p>
+      <p n="14">(3) The AIS is described in the International Maritime Organisation (IMO) Regulation 19 to Chapter V of SOLAS - Carriage requirements for shipborne navigational systems and equipment, - which sets out navigational equipment to be carried on board ships, according to ship type.</p>
+      <p n="15">(4) The International Telecommunication Union (ITU) Radio Regulations has designated certain frequencies 161.975 (AIS1) and 162.025 (AIS2) MHz for use by the AIS. Other frequencies allocated for maritime communications may be available to the AIS. All radio equipment operating on those frequencies should be compatible with the designated use of these frequencies and it should provide a reasonable guarantee of assurance that it will function correctly in times of operation.</p>
+      <p n="16">(5) The measures set out in this Decision are in accordance with the opinion of the Telecommunications Conformity Assessment and Market Surveillance Committee,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Radio equipment which operates in the maritime mobile service as defined in Article 1.28 of the International Telecommunications Union (ITU) Radio Regulations, or in the maritime mobile satellite service as defined in Article 1.29 of the ITU Radio Regulations shall comply with the essential requirements set out in Article 3(3)(e) of Directive 1999/5/EC.</p>
+      <p n="20">To that end such equipment shall be designed in such a way as to ensure that it operates correctly in its intended maritime environment when used on non-SOLAS vessels and it shall meet all the appropriate operational requirements of the Automatic Identification System (AIS).</p>
+      <p n="21">Article 2</p>
+      <p n="22">The requirements of Article 1 of this Decision shall apply as from 28 March 2003.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 25 March 2003.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Erkki Liikanen</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 91, 7.4.1999, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

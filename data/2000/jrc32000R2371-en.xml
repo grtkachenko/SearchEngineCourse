@@ -1,0 +1,58 @@
+<TEI.2 id="jrc32000R2371-en" n="32000R2371" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2371 English</title>
+        <title>Council Regulation (EC) No 2371/2000 of 23 October 2000 amending Regulation (EEC) No 2358/71 on the common organisation of the market in seeds</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2371:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2371:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1019</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4081</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2371-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2371/2000 of 23 October 2000 amending Regulation (EEC) No 2358/71 on the common organisation of the market in seeds</head>
+      <p n="2">Council Regulation (EC) No 2371/2000</p>
+      <p n="3">of 23 October 2000</p>
+      <p n="4">amending Regulation (EEC) No 2358/71 on the common organisation of the market in seeds</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2358/71 of 26 October 1971 on the common organisation of the market in seeds(1), and in particular the third subparagraph of Article 8 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Under Article 8 of Regulation (EEC) No 2358/71 Finland may, subject to authorisation by the Commission, grant aid for certain quantities of herbaceous seeds and cereal seeds owing to the specific climatic conditions of that country.</p>
+      <p n="11">(2) On the basis of information sent to the Commission by Finland, the Commission forwarded to the Council the report required under Article 8 of Regulation (EEC) No 2358/71. That report shows that the aid granted between 1995 and 1999 did not affect trade between the Member States. As a result, it is appropriate to uphold the possibility for Finland, subject to authorisation by the Commission, to grant aid for the production of herbaceous seeds and cereal seeds, but to make provision for a new Commission report before 1 January 2006, together with any necessary proposals,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The last subparagraph of Article 8 of Regulation (EEC) No 2358/71 shall be replaced by the following:"Before 1 January 2006 the Commission shall, on the basis of information supplied in good time by Finland, forward to the Council a report on the results of the aid authorised, together with any necessary proposals."</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Luxembourg, 23 October 2000.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">J. Glavany</p>
+      <p n="22">(1) OJ L 246, 5.11.1971, p. 1. Regulation as last amended by Regulation (EC) No 1405/1999 (OJ L 164, 30.6.1999, p. 17).</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31989D0242-en" n="31989D0242" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989D0242 English</title>
+        <title>89/242/EEC: Council Decision of 5 April 1989 amending Decision 78/774/EEC concerning the activities of certain third countries in the field of cargo shipping</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989D0242:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989D0242:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989D0242-en." lang="en">
+    <body>
+      <head n="1">89/242/EEC: Council Decision of 5 April 1989 amending Decision 78/774/EEC concerning the activities of certain third countries in the field of cargo shipping</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL DECISION</p>
+      <p n="4">of 5 April 1989</p>
+      <p n="5">amending Decision 78/774/EEC concerning the activities of certain third countries in the field of cargo shipping</p>
+      <p n="6">(89/242/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community, and in particular Article 84 (2) thereof,</p>
+      <p n="9">Having regard to the draft Decision submitted by the Commission (1),</p>
+      <p n="10">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="11">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="12">Whereas Decision 78/774/EEC (4) provides the basis for an information system concerning the activities of certain third countries in the field of cargo shipping;</p>
+      <p n="13">Whereas Article 2 of that Decision provides for decisions on the application of the information system to third countries' fleets to be taken unanimously,</p>
+      <p n="14">Whereas it is necessary to amend this procedure in the light of the revised Article 84 (2) of the Treaty, which provides for voting by qualified majority,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The first paragraph of Article 2 of Decision 78/774/EEC is replaced by the following:</p>
+      <p n="18">'(1) The Council, acting by qualified majority, shall decide to which third countries' fleets the information system shall be jointly applied'.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Luxembourg, 5 April 1989.</p>
+      <p n="22">For the Council</p>
+      <p n="23">The President</p>
+      <p n="24">M. CHAVES GONZALEZ</p>
+      <p n="25">(1) OJ No C 28, 3. 2. 1989, p. 10.</p>
+      <p n="26">(2) OJ No C 69, 20. 3. 1989.</p>
+      <p n="27">(3) OJ No C 71, 20. 3. 1989, p. 25.</p>
+      <p n="28">(4) OJ No L 258, 21. 9. 1978, p. 35.</p>
+    </body>
+  </text>
+</TEI.2>

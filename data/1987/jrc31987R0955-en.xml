@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31987R0955-en" n="31987R0955" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31987R0955 English</title>
+        <title>Commission Regulation (EEC) No 955/87 of 1 April 1987 amending Regulation (EEC) No 3440/84 on the attachment of devices to trawls, Danish seines and similar nets</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987R0955:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987R0955:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31987R0955-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 955/87 of 1 April 1987 amending Regulation (EEC) No 3440/84 on the attachment of devices to trawls, Danish seines and similar nets</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 955/87</p>
+      <p n="4">of 1 April 1987</p>
+      <p n="5">amending Regulation (EEC) No 3440/84 on the attachment of devices to trawls, Danish seines and similar nets</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 170/83 of 25 January 1983 establishing a Community system for the conservation and management of fishery resources (1),</p>
+      <p n="9">Having regard to Council Regulation (EEC) No 3094/86 of 7 October 1986, laying down certain technical measures for the conservation of fishery resources (2), as amended by Regulation (EEC) No 4026/86 (3), and in particular Article 15 thereof,</p>
+      <p n="10">Whereas Article 6 (3) of Commission Regulation (EEC) No 3440/84 (4) provides for the attachment of a strengthening bag to trawls, Danish seines and similar nets provided that its mesh size shall in no case be less than 80 millimetres;</p>
+      <p n="11">Whereas experience has shown that the use of strengthening bags having this mesh size with nets having a mesh size less than 40 millimetres results in the formation of pockets of net with consequent damage to the catch due to technical problems in removing the catch from the codend and with consequent wear and tear of the codend;</p>
+      <p n="12">Whereas the use of a strengthening bag with a smaller mesh size would avoid these problems without having adverse consequences for the conservation of fish stocks;</p>
+      <p n="13">Whereas the definitions of categories of nets in Articles 5 and 6 of Regulation (EEC) No 3440/84 therefore need to be amended;</p>
+      <p n="14">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fishery Resources,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Regulation (EEC) No 3440/84 is hereby amended as follows:</p>
+      <p n="18">1. Article 5 (5) is replaced by the following:</p>
+      <p n="19">'5. It is prohibited to use a top-side chafer together with strengthening bags except for trawls having a mesh size equal to or less than 60 millimetres'.</p>
+      <p n="20">2. Article 6 is modified as follows:</p>
+      <p n="21">- Paragraph 2 is replaced by the following text:</p>
+      <p n="22">'2. It is prohibited to use more than one strenthening bag except when attached to trawls having a mesh size equal to or less than 60 millimetres, for which two strenthening bags may be used.';</p>
+      <p n="23">- Paragraph 3 is replaced by the following text:</p>
+      <p n="24">'3. The mesh size shall be equal to at least twice that of the codend. If a second strengthening bag is used, its minimum mesh size shall be 120 millimetres.';</p>
+      <p n="25">- Paragraph 6 is replaced by the following text:</p>
+      <p n="26">'6. Strengthening bags attached to trawls having a mesh size greater than 60 millimetres shall not extend more than two metres in front of the rear lifting strap.';</p>
+      <p n="27">- Paragraph 7 is replaced by the following text:</p>
+      <p n="28">'7. Notwithstanding paragraph 1, strengthening bags smaller than the dimensions of the codend may be attached to nets having a mesh size equal to or less than 60 millimetres.'.</p>
+      <p n="29">Article 2</p>
+      <p n="30">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="31">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="32">Done at Brussels, 1 April 1987.</p>
+      <p n="33">For the Commission</p>
+      <p n="34">António CARDOSO E CUNHA</p>
+      <p n="35">Member of the Commission</p>
+      <p n="36">(1) OJ No L 24, 27. 1. 1983, p. 1.</p>
+      <p n="37">(2) OJ No L 288, 11. 10. 1986, p. 1.</p>
+      <p n="38">(3) OJ No L 376, 31. 12. 1986, p. 1.</p>
+      <p n="39">(4) OJ No L 318, 7. 12. 1984, p. 23.</p>
+    </body>
+  </text>
+</TEI.2>

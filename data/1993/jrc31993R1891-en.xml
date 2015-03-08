@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31993R1891-en" n="31993R1891" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993R1891 English</title>
+        <title>Council Regulation (EEC) No 1891/93 of 12 July 1993 amending Regulation (EEC) No 3759/92 on the common organization of the market in fishery and aquaculture products and amending Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R1891:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R1891:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993R1891-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EEC) No 1891/93 of 12 July 1993 amending Regulation (EEC) No 3759/92 on the common organization of the market in fishery and aquaculture products and amending Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff</head>
+      <p n="2">COUNCIL REGULATION (EEC) No 1891/93 of 12 July 1993 amending Regulation (EEC) No 3759/92 on the common organization of the market in fishery and aquaculture products and amending Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas the Community demand for, and imports of, surimi (a washed and stabilized protein gel made from minced fish) and preparations of surimi, which are intended for direct consumption, have been steadily increasing during recent years;</p>
+      <p n="9">Whereas the Community production of surimi and preparations of surimi has grown in importance concurrently with international trends;</p>
+      <p n="10">Whereas experience has shown that although several different species of fish with a low fat content may be used as raw material for the production of surimi, a specific identification of the raw material actually used is not easily feasible due to the final features of surimi and preparations of surimi;</p>
+      <p n="11">Whereas at present neither surimi nor preparations of surimi are separately identified as products subject to the rules of the common fisheries policy laid down by Regulation (EEC) No 3759/92 (4);</p>
+      <p n="12">Whereas, for that reason, the Community is not able to monitor trade in these products or the trend in market prices and whereas therefore that Regulation should be amended so as to include surimi and preparations of surimi;</p>
+      <p n="13">Whereas the tariff nomenclature resulting from the application of Regulation (EEC) No 3759/92 is included in the Common Customs Tariff and an amendment should consequently be made to Regulation (EEC) No 2658/87 (5),</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The following subheadings shall be inserted in Annex VII to Regulation (EEC) No 3759/92 and in Annex I to Regulation (EEC) No 2658/87:</p>
+      <p n="17">This Regulation shall enter into force on 1 January 1994.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 12 July 1993.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">Ph. MAYSTADT</p>
+      <p n="23">(1) OJ No C 158, 25. 6. 1992, p. 21.</p>
+      <p n="24">(2) OJ No C 72, 15. 3. 1993, p. 175.</p>
+      <p n="25">(3) OJ No C 332, 16. 12. 1992, p. 25.</p>
+      <p n="26">(4) OJ No L 388, 31. 12. 1992, p. 1. Regulation as amended by Regulation (EEC) No 697/93 (OJ No L 76, 30. 3. 1993, p. 12).</p>
+      <p n="27">(5) OJ No L 256, 7. 9. 1987, p. 1. Regulation as last amended by Regulation (EEC) No 1001/93 (OJ No L 104, 29. 4. 1993, p. 28).</p>
+    </body>
+  </text>
+</TEI.2>

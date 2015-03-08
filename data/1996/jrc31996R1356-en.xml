@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31996R1356-en" n="31996R1356" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R1356 English</title>
+        <title>Council Regulation (EC) No 1356/96 of 8 July 1996 on common rules applicable to the transport of goods or passengers by inland waterway between Member States with a view to establishing freedom to provide such transport services</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1356:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1356:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1638</classCode>
+        <classCode scheme="eurovoc">2040</classCode>
+        <classCode scheme="eurovoc">2494</classCode>
+        <classCode scheme="eurovoc">4509</classCode>
+        <classCode scheme="eurovoc">4511</classCode>
+        <classCode scheme="eurovoc">4521</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R1356-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1356/96 of 8 July 1996 on common rules applicable to the transport of goods or passengers by inland waterway between Member States with a view to establishing freedom to provide such transport services</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1356/96 of 8 July 1996 on common rules applicable to the transport of goods or passengers by inland waterway between Member States with a view to establishing freedom to provide such transport services</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 75 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the Economic and Social Committee (2),</p>
+      <p n="7">Acting in accordance with the procedure laid down in Article 189c of the Treaty (3),</p>
+      <p n="8">Whereas the establishment of a common transport policy involves, inter alia, laying down common rules applicable to access to the market in the international transport of goods and passengers by inland waterway within the territory of the Community; whereas those rules must be laid down in such a way as to contribute to the completion of the internal transport market;</p>
+      <p n="9">Whereas these uniform arrangements for market access also involve introducing the freedom to provide services by eliminating all restrictions imposed on the provider of services because of his nationality or the fact that he is established in a Member State other than in which the service is to be provided;</p>
+      <p n="10">Whereas, following the accession of new Member States, different arrangements exist between Member States for international transport and transit by inland waterway because of bilateral agreements concluded between Member States and a new acceding State; whereas it is therefore necessary to lay down common rules to ensure the proper functioning of the internal transport market and, more particularly, to avoid distortions of competition and disturbances in the organization of the market concerned;</p>
+      <p n="11">Whereas this action is within the Community's exclusive field of competence and whereas the objective can only be attained by the establishment of uniform rules and obligations,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">This Regulation applies to the transport of goods or passengers by inland waterway between Member States and in transit through them.</p>
+      <p n="15">Article 2</p>
+      <p n="16">Any operator transporting goods or passengers by inland waterway shall be allowed to carry out the transport operations referred to in Article 1 above without discrimination on grounds of his nationality or place of establishment, provided that he:</p>
+      <p n="17">- is established in a Member State in accordance with the laws of that Member State,</p>
+      <p n="18">- is entitled in that Member State to carry out the international transport of goods or passengers by inland waterway,</p>
+      <p n="19">- uses for such transport operations inland waterways vessels which are registered in a Member State or, in the absence of registration, possess a certificate of membership of a fleet of a Member State, and</p>
+      <p n="20">- satisfies the conditions laid down in Article 2 of Council Regulation (EEC) No 3921/91 of 16 December 1991 laying down the conditions under which non-resident carriers may transport goods or passengers by inland waterway within a Member State (4).</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Regulation shall not affect the rights of third-country operators under the Revised Convention for the Navigation of the Rhine (Mannheim Convention), the Convention on Navigation on the Danube (Belgrade Convention) or the rights arising from the European Community's international obligations.</p>
+      <p n="23">Article 4</p>
+      <p n="24">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 8 July 1996.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">R. QUINN</p>
+      <p n="30">(1) OJ No C 164, 30. 6. 1995, p. 9.</p>
+      <p n="31">(2) OJ No C 301, 13. 11. 1995, p. 19.</p>
+      <p n="32">(3) Opinion of the European Parliament of 15 November 1995 (OJ No C 323, 4. 12. 1995, p. 31), Council common position of 29 January 1996 (OJ No C 87, 25. 3. 1996, p. 53) and Decision of the European Parliament of 6 June 1996 published in the Official Journal).</p>
+      <p n="33">(4) OJ No L 373, 31. 12. 1991, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

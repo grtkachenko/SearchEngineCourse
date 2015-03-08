@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32002R1948-en" n="32002R1948" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1948 English</title>
+        <title>Commission Regulation (EC) No 1948/2002 of 31 October 2002 amending Regulation (EEC) No 584/75 laying down detailed rules for the application of the system of tendering for export refunds on rice</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1948:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1948:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">20</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1948-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1948/2002 of 31 October 2002 amending Regulation (EEC) No 584/75 laying down detailed rules for the application of the system of tendering for export refunds on rice</head>
+      <p n="2">Commission Regulation (EC) No 1948/2002</p>
+      <p n="3">of 31 October 2002</p>
+      <p n="4">amending Regulation (EEC) No 584/75 laying down detailed rules for the application of the system of tendering for export refunds on rice</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 3072/95 of 22 December 1995 on the common organisation of the market in rice(1), as last amended by Regulation (EC) No 411/2002(2), and in particular Article 13(15) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Experience gained during preceding marketing years has shown that amendments should be made to Commission Regulation (EEC) No 584/75 of 6 March 1975 laying down detailed rules for the application of the system of tendering for export refunds on rice(3), as last amended by Regulation (EC) No 299/95(4).</p>
+      <p n="10">(2) While maintaining anonymity, tenderers should be identified by a number in order to see which ones have submitted more than one tender and at what levels.</p>
+      <p n="11">(3) In order that the management of quantities awarded is more exact provision should be made for a coefficient for the award of quantities for tenders submitted at the level of the maximum refund, while allowing operators to fix a minimum quantity awarded below which their tenders will be considered not to have been submitted.</p>
+      <p n="12">(4) The Management Committee for Cereals has not delivered an opinion within the time limit laid down by its chairman,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EEC) No 584/75 is hereby amended as follows:</p>
+      <p n="16">1. in Article 2(2), the following is added:</p>
+      <p n="17">"and as appropriate</p>
+      <p n="18">(e) in situations where the Commission fixes a coefficient for the award of quantities tendered in accordance with Article 5, a minimum quantity such that, if the quantity awarded falls short of the minimum quantity the tender shall be deemed not to have been submitted.";</p>
+      <p n="19">2. Article 4(2) is replaced by the following:</p>
+      <p n="20">"2. Tenderers shall be given an individual number for each weekly invitation to tender. Numbers shall be assigned on a random basis and independently on each occasion. Tenders shall be identified by their tenderer's number and communicated without delay to the Commission.";</p>
+      <p n="21">3. in Article 5(2), the following sentence is added:"In the case of tenders submitted at the level of the maximum refund, the fixing of the latter may be accompanied by the fixing of a coefficient for the award of the quantities tendered. This latter fixing shall be adopted in accordance with the procedure referred to in paragraph 1.";</p>
+      <p n="22">4. in Article 7, the following is inserted:</p>
+      <p n="23">"(c) the tender is considered not to have been submitted pursuant to Article 2;</p>
+      <p n="24">(d) the Commission shall fix an award coefficient. The amount released shall correspond to the quantity not accepted."</p>
+      <p n="25">Article 2</p>
+      <p n="26">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="27">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="28">Done at Brussels, 31 October 2002.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">Franz Fischler</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ L 329, 30.12.1995, p. 18.</p>
+      <p n="33">(2) OJ L 62, 5.3.2002, p. 27.</p>
+      <p n="34">(3) OJ L 61, 7.3.1975, p. 25.</p>
+      <p n="35">(4) OJ L 35, 15.2.1995, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,78 @@
+<TEI.2 id="jrc32002R2010-en" n="32002R2010" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2010 English</title>
+        <title>Commission Regulation (EC) No 2010/2002 of 12 November 2002 amending Regulation (EC) No 1799/2001 laying down the marketing standard for citrus fruit</title>
+      </titleStmt>
+      <extent>45 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2010:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2010:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">693</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2010-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2010/2002 of 12 November 2002 amending Regulation (EC) No 1799/2001 laying down the marketing standard for citrus fruit</head>
+      <p n="2">Commission Regulation (EC) No 2010/2002</p>
+      <p n="3">of 12 November 2002</p>
+      <p n="4">amending Regulation (EC) No 1799/2001 laying down the marketing standard for citrus fruit</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Regulation (EC) No 545/2002(2), and in particular Article 2(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 1799/2001(3), as amended by Regulation (EC) No 453/2002(4), laid down provisions on the quality, the sizing, the presentation and the marking of citrus fruit.</p>
+      <p n="10">(2) The standard for citrus fruit recommended by the United Nations Economic Commission for Europe has recently been amended and includes the possibility to size fruit by count, new provisions with regards to the uniformity in size and the possibility to pack citrus fruit of different species in the same consumer package.</p>
+      <p n="11">(3) It is moreover appropriate to clarify several current provisions. Firstly, size 1-X being traditionally marketed under the designation "1", an alternative denomination is needed. Secondly, minimum juice contents applicable to the different varieties of oranges shall be updated. Lastly, it is appropriate to stipulate that the labelling requirement with regards to preserving agents only applies to post-harvest treatments.</p>
+      <p n="12">(4) It is therefore necessary to amend Regulation (EC) No 1799/2001.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Annex to Regulation (EC) No 1799/2001 is amended according to the Annex to the present Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 12 November 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="25">(2) OJ L 84, 28.3.2002, p. 1.</p>
+      <p n="26">(3) OJ L 244, 14.9.2001, p. 12.</p>
+      <p n="27">(4) OJ L 72, 14.3.2002, p. 9.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">The Annex to Regulation (EC) No 1799/2001 is amended as follows:</p>
+      <p n="30">1. in Title II (Provisions concerning quality), item B (Maturity requirements), iii (Oranges), the first indent is replaced by the following text:</p>
+      <p n="31">- minimum juice content:</p>
+      <p n="32">&gt;TABLE&gt;</p>
+      <p n="33">2. Title III (Provisions concerning sizing) is amended as follows:</p>
+      <p n="34">(a) item B (Size scales) is amended as follows:(i) the term "1-X" listed in the fifth column is replaced by the following terms:"1 or 1-X"</p>
+      <p n="35">(ii) the following subparagraph is added:"Citrus fruit may be packed by count. In this case, provided the size uniformity required in Title III, point C, is retained, the size range in the package may fall outside a single size code, but within two adjacent codes."</p>
+      <p n="36">(b) item C is replaced by the following text:</p>
+      <p n="37">C. Uniformity</p>
+      <p n="38">Uniformity in size is achieved by the abovementioned size scales, unless otherwise stated as follows:</p>
+      <p n="39">(i) for fruit arranged in regular layers, in packages or in unit consumer packages, the difference between the smallest and the largest fruit in the same package, within a single size code or, in the case of citrus fruit packed by count, within two adjacent codes, must not exceed the following maxima:</p>
+      <p n="40">&gt;TABLE&gt;</p>
+      <p n="41">(ii) for fruit not arranged in regular layers, in packages or in rigid unit consumer packages, the difference between the smallest and the largest fruit in the same package must not exceed the range of the appropriate size grade in the size scale, or, in the case of citrus fruit packed by count, the range in mm of one of the two adjacent codes concerned;</p>
+      <p n="42">(iii) for fruit in bulk bins and fruit in non-rigid (nets, bags, etc.) unit consumer packages, the maximum size difference between the smallest and the largest fruit in the same lot or package must not exceed the range obtained by grouping three consecutive sizes in the size scale.</p>
+      <p n="43">3. In Title VI (Provisions concerning marking), point D (Commercial specifications), the third and fourth indents are replaced by the following text:</p>
+      <p n="44">- Size code (or, when fruit packed by count fall under two adjacent codes, size codes or minimum and maximum diameter) and number of fruit, in the case of fruit arranged in layers in the package,</p>
+      <p n="45">- when used, mention of the preserving agent or other chemical substances used at post-harvest stage.</p>
+    </body>
+  </text>
+</TEI.2>

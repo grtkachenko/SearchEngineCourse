@@ -1,0 +1,53 @@
+<TEI.2 id="jrc31987D0277-en" n="31987D0277" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31987D0277 English</title>
+        <title>87/277/EEC: Council Decision of 18 May 1987 on the allocation of the catch possibilities for cod in the Spitsbergen and Bear Island area and in Division 3M as defined in the NAFO Convention</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987D0277:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987D0277:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31987D0277-en." lang="en">
+    <body>
+      <head n="1">87/277/EEC: Council Decision of 18 May 1987 on the allocation of the catch possibilities for cod in the Spitsbergen and Bear Island area and in Division 3M as defined in the NAFO Convention</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL DECISION</p>
+      <p n="4">of 18 May 1987</p>
+      <p n="5">on the allocation of the catch possibilities for cod in the Spitsbergen and Bear Island area and in Division 3M as defined in the NAFO Convention</p>
+      <p n="6">(87/277/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Regulation (EEC) No 170/83 of 25 January 1983 establishing a Community system for the conservation and management of fishery resources (1), as amended by the Act of Accession of Spain and Portugal, and in particular Article 11 of that Regulation,</p>
+      <p n="10">Having regard to the poposal from the Commission,</p>
+      <p n="11">Whereas catch possibilities for cod in the Spitsbergen and Bear Island area (ICES Division II b) and Division 3M of the Regulatory Area defined in the NAFO Convention should be allocated in order to ensure the rational management of the amounts available to the Community;</p>
+      <p n="12">Whereas, in order to enable fishermen to organize their fishing on a stable basis, rules for the allocation of these catch possibilities should be adopted in the light of how stocks develop;</p>
+      <p n="13">Whereas the allocation of the share of the cod stock available to the Community in the Spitsbergen and Bear Island area does not in any way prejudice the rights and obligations arising out of the 1920 Treaty of Paris,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Sole Article</p>
+      <p n="16">The catch possibilities for cod in the Spitsbergen and Bear Island area (ICES Division II b) and in Division 3M of the Regulatory Area defined in the NAFO Convention shall be allocated in accordance with the tables in the Annex.</p>
+      <p n="17">Done at Brussels, 18 May 1987.</p>
+      <p n="18">For the Council</p>
+      <p n="19">The President</p>
+      <p n="20">P. DE KEERSMAEKER</p>
+      <p n="21">(1) OJ No L 24, 27. 1. 1983, p. 1.</p>
+      <p n="22">ANNEX</p>
+      <p n="23">Spitsbergen - Bear Island cod (ICES Division II b)</p>
+      <p n="24">1.2.3.4.5.6.7.8 // // // // // // // // // TAC (tonnes) // Community share (tonnes) // Germany % // Spain % // France % // Portugal % // United Kingdom % // Other Member States // // // // 1.2.3,7.8 // // FIRST INSTALMENT // Percentage of the Community share after deduction of the standard amount allocated to 'other Member States' // Standard amount // // // // 1.2.3.4.5.6.7.8 // // 21 000 or less // 15,31 // 52,15 // 8,61 // 11,01 // 12,92 // 100 tonnes // // // // 1.2.3,7.8 // // SECOND INSTALMENT // Percentage of the Community share after deduction of the first instalment and the amount allocated to 'other Member States' // Standard amount // // // // 1.2.3.4.5.6.7.8 // // 21 001 23 100 // // // // // // 250 tonnes // // // // // // // // Percentage of the Community share // 700 001 800 000 // 23 101 26 400 // 25,67 // 30,11 // 17,37 // 4,50 // 22,35 // 2 // 800 001 900 000 // 26 401 29 700 // // // // // // 3 // 900 001 1 000 000 // 29 701 33 000 // // // // // // 4 // 1 000 001 or more // 33 001 or more // // // // // // 5 // // // // // // // //</p>
+      <p n="25">Cod NAFO 3M</p>
+      <p n="26">1.2.3.4.5.6 // // // // // // // // Germany % // Spain % // France % // Portugal % // United Kingdom % // // // // // // // FIRST INSTALMENT // // // // // // 7 500 tonnes or less // 9,33 // 28,67 // 4,00 // 39,33 // 18,67 // // // // // // // SECOND INSTALMENT // // // // // // more than 7 500 tonnes // 1,76 // 37,81 // 5,38 // 51,97 // 3,08 // // // // // //</p>
+    </body>
+  </text>
+</TEI.2>

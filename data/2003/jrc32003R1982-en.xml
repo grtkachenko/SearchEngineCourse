@@ -1,0 +1,109 @@
+<TEI.2 id="jrc32003R1982-en" n="32003R1982" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1982 English</title>
+        <title>Commission Regulation (EC) No 1982/2003 of 21 October 2003 implementing Regulation (EC) No 1177/2003 of the European Parliament and of the Council concerning Community statistics on income and living conditions (EU-SILC) as regards the sampling and tracing rules (Text with EEA relevance.)</title>
+      </titleStmt>
+      <extent>73 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1982:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1982:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1864</classCode>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">3659</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">83</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1982-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1982/2003 of 21 October 2003 implementing Regulation (EC) No 1177/2003 of the European Parliament and of the Council concerning Community statistics on income and living conditions (EU-SILC) as regards the sampling and tracing rules (Text with EEA relevance.)</head>
+      <p n="2">Commission Regulation (EC) No 1982/2003</p>
+      <p n="3">of 21 October 2003</p>
+      <p n="4">implementing Regulation (EC) No 1177/2003 of the European Parliament and of the Council concerning Community statistics on income and living conditions (EU-SILC) as regards the sampling and tracing rules</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Regulation (EC) No 1177/2003 of the European Parliament and of the Council of 16 June 2003 on Community statistics on income and living conditions (EU-SILC)(1), and in particular Article 15(2)(d) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Regulation (EC) No 1177/2003 established a common framework for the systematic production of Community statistics on income and living conditions, encompassing comparable and timely cross-sectional and longitudinal data on income and on the level and composition of poverty and social exclusion at national and European Union levels.</p>
+      <p n="11">(2) Pursuant to Article 15(2)(d) of Regulation (EC) No 1177/2003, implementing measures are necessary to harmonise methods and definitions concerning the sampling aspects and tracing rules.</p>
+      <p n="12">(3) The measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The rules and guidelines governing sampling and tracing and the definitions to be applied to Community statistics on income and living conditions (EU-SILC) shall be as laid down in the Annex.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 20 October 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Pedro Solbes Mira</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 165, 3.7.2003, p. 1.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">1. DEFINITIONS</p>
+      <p n="26">For the purposes of this Regulation, the following definitions shall apply to the longitudinal component of EU-SILC:</p>
+      <p n="27">(a) Initial sample: refers to the sample of households or persons at the time it is selected for inclusion in EU-SILC.</p>
+      <p n="28">(b) Sample persons: means all or a subset of the members of the households in the initial sample who are over a certain age.</p>
+      <p n="29">(c) Age limit used to define sample persons:</p>
+      <p n="30">In the case of a four-year panel, this age limit shall not be higher than 14 years. In countries with a four-year panel using a sample of addresses or households, all household members aged 14 and over in the initial sample shall be sample persons. In countries with a four-year panel using a sample of persons, this shall mean the selection of at least one such person per household.</p>
+      <p n="31">The abovementioned minimum age limit shall be lower in the case of a longer panel duration. For a panel duration exceeding eight years, members of all ages in the initial sample shall be sample persons, and children born to sample women during the time the mother is in the panel shall be included as sample persons.</p>
+      <p n="32">(d) Panel duration: means the number of years over which sample persons, once selected into the sample, belong to the panel to obtain or compile longitudinal information.</p>
+      <p n="33">(e) Sample household: means a household containing at least one sample person. A sample household shall be included in EU-SILC for the collection or compilation of detailed information where it contains at least one sample person aged 16 or more.</p>
+      <p n="34">(f) Detailed information: refers to personal information (health, access to health care, detailed labour information, activity history and calendar of activities) required for at least one sample person aged 16 or over in each household.</p>
+      <p n="35">(g) Co-residents (non-sample persons): all current residents of a sample household other than those defined above as sample persons.</p>
+      <p n="36">(h) Rotational design: refers to the sample selection based on a number of subsamples or replications, each of them similar in size and design and representative of the whole population. From one year to the next, some replications are retained, while others are dropped and replaced by new replications.</p>
+      <p n="37">In the case of a rotational design based on four replications with a rotation of one replication per year, one of the replications shall be dropped immediately after the first year, the second shall be retained for two years, the third for three years, and the fourth shall be retained for four years. From the second year onwards, one new replication shall be introduced each year and retained for four years.</p>
+      <p n="38">For the cross-sectional and longitudinal components of EU-SILC, the following definitions shall apply:</p>
+      <p n="39">(i) Age: refers to the age at the end of the income reference period.</p>
+      <p n="40">(j) Household members: refers to the conditions required to classify a person as a household member, as laid down in Annex I to Commission Regulation (EC) No 1980/2003(1) on definitions and updated definitions.</p>
+      <p n="41">(k) Collective household: refers to a non-institutional collective dwelling such as a boarding house, dormitory in an educational establishment or other living quarters shared by more than five persons without sharing household expenses. Also included are persons living as lodgers in households with more than five lodgers.</p>
+      <p n="42">(l) Institution: refers to old people's homes, healthcare institutions, religious institutions (convents, monasteries), correctional and penal institutions. Basically, institutions are distinguished from collective households by virtue of the fact that, in the former, the resident persons have no individual responsibility for their housekeeping. In some cases, old people's homes can be considered as collective households on the basis of that rule.</p>
+      <p n="43">2. TARGET POPULATION OF EU-SILC</p>
+      <p n="44">The target population of EU-SILC shall be all private households and their current members residing in the territory of the Member State at the time of data collection. Persons living in collective households and in institutions are generally excluded from the target population.</p>
+      <p n="45">Small parts of the national territory amounting to no more than 2 % of the national population and the national territories listed below may be excluded from EU-SILC, after agreement between the Member States concerned and the Commission (Eurostat).</p>
+      <p n="46">TABLE 1</p>
+      <p n="47">National territories that may be excluded from EU-SILC</p>
+      <p n="48">&gt;TABLE&gt;</p>
+      <p n="49">3. SELECTION OF THE SAMPLE</p>
+      <p n="50">1. For all components of EU-SILC (whether survey or register-based), the cross-sectional and longitudinal (initial sample) data shall be based on a nationally representative probability sample of the population residing in private households within the country, irrespective of language, nationality or legal residence status. All private households and all persons aged 16 and over within the household are eligible for the operation.</p>
+      <p n="51">2. Representative probability samples shall be achieved both for households which form the basic units of sampling, data collection and data analysis, and for individual persons in the target population.</p>
+      <p n="52">3. The sampling frame and methods of sample selection shall ensure that every individual and household in the target population is assigned a known and non-zero probability of selection.</p>
+      <p n="53">4. By way of exception, paragraphs 1 to 3 shall apply in Germany exclusively to the part of the sample based on probability sampling in accordance with Article 8 of Regulation (EC) No 1177/2003 concerning Community statistics on income and living conditions.</p>
+      <p n="54">4. REPRESENTATIVENESS OF THE SAMPLE</p>
+      <p n="55">In terms of precision requirements for the most critical variables and the objectives of producing results both at individual country level and at EU level as a whole, Regulation (EC) No 1177/2003 (Article 9 and Annex II) refers to the minimum effective sample size to be achieved.</p>
+      <p n="56">Individual countries may wish to have larger samples to meet national requirements. For estimating the design effect for the purpose of determining the sample sizes to be achieved, the cross-sectional structural indicator at-risk-of-poverty-rate at national level, as defined by the Council, shall be taken as the reference statistic. For the longitudinal component this cross-sectional indicator may be determined from the first year of each series of longitudinal data. The factor by which the required sample size shall need to be increased to take into account non-response and design effects shall be evaluated by each country on the basis of past experience and the proposed survey design, and agreed with the Commission (Eurostat).</p>
+      <p n="57">5. PRECISION REQUIREMENTS FOR DATA PUBLICATION</p>
+      <p n="58">The precision requirements concerning publication of the data collected in EU-SILC shall be expressed in terms of the number of sample observations on which the statistic is based and the level of item non-response (additional to total non-response at unit level). The Commission shall not publish an estimate if it is based on fewer than 20 sample observations, or if non-response for the item concerned exceeds 50 %. The data shall be published by the Commission with a flag if the estimate is based on 20 to 49 sample observations, or if non-response for the item concerned exceeds 20 % and is lower than or equal to 50 %. The data shall be published by the Commission in the normal way when based on 50 or more sample observations and the item non-response does not exceed 20 %.</p>
+      <p n="59">All data publications shall include technical information for each Member State on the effective sample size as well as a general indication of standard error of at least the main estimates.</p>
+      <p n="60">6. FOLLOW-UP OF SAMPLE PERSONS, SAMPLE HOUSEHOLDS AND CO-RESIDENTS IN THE EU-SILC LONGITUDINAL COMPONENT</p>
+      <p n="61">1. To study changes over time at individual level and to calculate the social cohesion indicator on persistent income poverty, all sample persons remaining or moving within private households in the national territory covered in the survey shall remain in the EU-SILC sample for a period (panel duration) of at least four years.</p>
+      <p n="62">2. By the way of exception to paragraph 1, in those Members States using a rotational design, the panel duration may vary from one to at least four years for the replications introduced in the first year.</p>
+      <p n="63">3. The rules for the follow-up of sample persons, sample households and co-residents are given below.</p>
+      <p n="64">TABLE 2</p>
+      <p n="65">Rules for the follow-up of sample persons, sample households and co-residents</p>
+      <p n="66">&gt;TABLE&gt;</p>
+      <p n="67">7. IMPUTATION AND WEIGHTING</p>
+      <p n="68">1. Where non-response to income variables at component level results in missing data, appropriate methods of statistical imputation shall be applied.</p>
+      <p n="69">2. Where any gross income variable at component level is not collected directly, appropriate methods of statistical imputation and/or modelling shall be applied to obtain the required target variables.</p>
+      <p n="70">3. Where non-response to an individual questionnaire occurs within a sample household, appropriate statistical procedures for weighting and/or imputation shall be used to estimate the total income of the household.</p>
+      <p n="71">4. Weighting factors shall be calculated as required to take into account the units' probability of selection, non-response and, as appropriate, to adjust the sample to external data relating to the distribution of households and persons in the target population, such as by sex, age (five-year age groups), household size and composition and region (NUTS II level), or relating to income data from other national sources where the Member States concerned consider such external data to be sufficiently reliable.</p>
+      <p n="72">5. Member States shall provide the Commission (Eurostat) with whatever information is required concerning the organisation and methodology of the survey, and, in particular, they shall indicate the criteria adopted in the choice of design and size of the sample.</p>
+      <p n="73">(1) See page 1 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

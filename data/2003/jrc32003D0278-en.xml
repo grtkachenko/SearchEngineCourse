@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32003D0278-en" n="32003D0278" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0278 English</title>
+        <title>2003/278/EC: Council Decision of 14 April 2003 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the former Yugoslav Republic of Macedonia concerning the system of ecopoints to be applied to transit traffic of the former Yugoslav Republic of Macedonia through Austria</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0278:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0278:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">3614</classCode>
+        <classCode scheme="eurovoc">4353</classCode>
+        <classCode scheme="eurovoc">5713</classCode>
+        <classCode scheme="eurovoc">5782</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0278-en." lang="en">
+    <body>
+      <head n="1">2003/278/EC: Council Decision of 14 April 2003 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the former Yugoslav Republic of Macedonia concerning the system of ecopoints to be applied to transit traffic of the former Yugoslav Republic of Macedonia through Austria</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 14 April 2003</p>
+      <p n="4">concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community and the former Yugoslav Republic of Macedonia concerning the system of ecopoints to be applied to transit traffic of the former Yugoslav Republic of Macedonia through Austria</p>
+      <p n="5">(2003/278/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 71(1) in conjunction with Article 300(2), first subparagraph, first sentence and Article 300(3), first subparagraph thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Agreement between the European Community and the former Yugoslav Republic of Macedonia in the field of transport(3), and in particular Article 12(3)(b) thereof, establishes that a system of ecopoints equivalent to that laid down by Article 11 of Protocol 9 to the Act of Accession of Austria, Finland and Sweden to the European Union shall apply.</p>
+      <p n="12">(2) The Commission has negotiated on behalf of the Community an Agreement in the form of an Exchange of Letters between the European Community and the former Yugoslav Republic of Macedonia establishing the method of calculation and the detailed rules and procedures for the management and control of the ecopoints.</p>
+      <p n="13">(3) This Agreement was signed on behalf of the Community on 29 October 2002, subject to its possible conclusion at a later date in accordance with Council Decision 2003/197/EC(4).</p>
+      <p n="14">(4) This Agreement should be approved,</p>
+      <p n="15">HAS DECIDED AS FOLLOWS:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The Agreement in the form of an Exchange of Letters between the European Community and the former Yugoslav Republic of Macedonia concerning the system of ecopoints to be applied to transit traffic of the former Yugoslav Republic of Macedonia through Austria is hereby approved on behalf of the Community.</p>
+      <p n="18">The text of the Agreement in the form of an Exchange of Letters is attached to this Decision(5).</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision shall be published in the Official Journal of the European Union.</p>
+      <p n="21">Done at Luxembourg, 14 April 2003.</p>
+      <p n="22">For the Council</p>
+      <p n="23">The President</p>
+      <p n="24">A. Giannitsis</p>
+      <p n="25">(1) OJ C 20E, 28.1.2003, p. 82.</p>
+      <p n="26">(2) Opinion delivered on 22 October 2002 (not yet published in the Official Journal).</p>
+      <p n="27">(3) OJ L 348, 18.12.1997, p. 170.</p>
+      <p n="28">(4) OJ L 75, 21.3.2003, p. 33.</p>
+      <p n="29">(5) OJ L 75, 21.3.2003, p. 34.</p>
+    </body>
+  </text>
+</TEI.2>

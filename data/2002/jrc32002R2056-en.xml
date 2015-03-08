@@ -1,0 +1,228 @@
+<TEI.2 id="jrc32002R2056-en" n="32002R2056" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2056 English</title>
+        <title>Regulation (EC) No 2056/2002 of the European Parliament and of the Council of 5 November 2002 amending Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>189 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2056:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2056:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2066</classCode>
+        <classCode scheme="eurovoc">3246</classCode>
+        <classCode scheme="eurovoc">3751</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4262</classCode>
+        <classCode scheme="eurovoc">4300</classCode>
+        <classCode scheme="eurovoc">45</classCode>
+        <classCode scheme="eurovoc">5235</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2056-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 2056/2002 of the European Parliament and of the Council of 5 November 2002 amending Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics (Text with EEA relevance)</head>
+      <p n="2">Regulation (EC) No 2056/2002 of the European Parliament and of the Council</p>
+      <p n="3">of 5 November 2002</p>
+      <p n="4">amending Council Regulation (EC, Euratom) No 58/97 concerning structural business statistics</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 285 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="10">Having regard to the opinion of the European Central Bank(3),</p>
+      <p n="11">Acting in accordance with the procedure laid down in Article 251 of the Treaty(4),</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) Regulation (EC, Euratom) No 58/97(5) established a common framework for the collection, compilation, transmission and evaluation of Community statistics on the structure, activity, competitiveness and performance of businesses in the Community.</p>
+      <p n="14">(2) Developments in Community monetary, economic and social integration require the extension of the common framework to credit institutions, pension funds, other financial intermediation and activities auxiliary to financial intermediation.</p>
+      <p n="15">(3) The operation and development of the internal market has increased the need for information measuring its effectiveness, in particular in the sectors of credit institutions, pension funds, other financial intermediation and activities auxiliary to financial intermediation.</p>
+      <p n="16">(4) The liberalisation of international trade in financial services necessitates business statistics in the financial services area to support the trade negotiations.</p>
+      <p n="17">(5) The compilation of national and regional accounts according to Council Regulation (EC) No 2223/96 of 25 June 1996 on the European system of national and regional accounts in the Community(6) requires comparable, complete and reliable business statistics in the financial services area.</p>
+      <p n="18">(6) The introduction of the single currency will have a major impact on the structure of the financial services industry and the cross-border flows of capital, which stresses the importance of information on competitiveness, the internal market and internationalisation.</p>
+      <p n="19">(7) The smooth conduct of policies pursued by the competent authorities relating to prudential supervision of credit institutions and the stability of the financial system implies the need for additional information on credit institutions and related services.</p>
+      <p n="20">(8) A developing pension funds sector could help to boost the capital markets through increasingly taking advantage of the liberalisation of investment rules.</p>
+      <p n="21">(9) Decision No 2179/98/EC of the European Parliament and of the Council of 24 September 1998 on the review of the European Community programme of policy action in relation to the environment and sustainable development "Towards sustainability"(7) reiterated the need for reliable and comparable data, statistics and indicators as a key tool for the evaluation of the cost of compliance with environmental regulations.</p>
+      <p n="22">(10) The Statistical Programme Committee set up by Decision 89/382/EEC, Euratom(8), the Banking Advisory Committee set up by Directive 77/780/EEC(9), the Committee on Monetary, Financial and Balance of Payments Statistics set up by Decision 91/115/EEC(10) and the Insurance Committee set up by Directive 91/675/EEC(11) have been consulted,</p>
+      <p n="23">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="24">Article 1</p>
+      <p n="25">Regulation (EC, Euratom) No 58/97 is amended as follows:</p>
+      <p n="26">1. in Article 5 the following indents shall be added:</p>
+      <p n="27">"- a detailed module for structural statistics on credit institutions defined in Annex 6,</p>
+      <p n="28">- a detailed module for structural statistics on pension funds defined in Annex 7.";</p>
+      <p n="29">2. the text of Annexes 6 and 7, as set out in the Annex to this Regulation, shall be added.</p>
+      <p n="30">Article 2</p>
+      <p n="31">Annex 1 to Regulation (EC, Euratom) No 58/97 shall be amended as follows:</p>
+      <p n="32">1. in section 5 the following sentence shall be added:</p>
+      <p n="33">"However the first reference year for which statistics on the activity classes covered by the NACE REV. 1 group 65.2 and division 67 are to be compiled, shall be decided in accordance with the procedure laid down in Article 13 of this Regulation.";</p>
+      <p n="34">2. Section 8 shall be replaced by the following:</p>
+      <p n="35">"Section 8</p>
+      <p n="36">Transmission of results</p>
+      <p n="37">1. The results are to be transmitted within 18 months of the end of the calendar year of the reference period, except for the NACE REV. 1 activity class 65.11 and the activities of NACE REV. 1 covered by Annexes 5, 6 and 7. For the NACE REV. 1 activity class 65.11 the transmission delay is 10 months. For the activities covered by Annexes 5, 6 and 7 the transmission delay is laid down in these annexes. However the transmission delay of the results on the activity classes covered by the NACE REV. 1 group 65.2 and division 67 shall be decided in accordance with the procedure laid down in Article 13 of this Regulation.</p>
+      <p n="38">2. Except for the divisions 65 and 66 of NACE REV. 1, preliminary national results or estimates are transmitted within 10 months of the end of the calendar year of the reference period for the enterprise statistics compiled for the characteristics listed below:</p>
+      <p n="39">12110 (turnover),</p>
+      <p n="40">16110 (number of persons employed).</p>
+      <p n="41">These preliminary results or estimates are to be broken down to NACE REV. 1 three-digit level (group), except for Sections H, I and K of NACE REV. 1, for which they are to be broken down according to the groupings laid down in section 9. For the division 67 of NACE REV. 1, the transmission of preliminary results or estimates shall be decided in accordance with the procedure laid down in Article 13 of this Regulation.";</p>
+      <p n="42">3. in section 9, Section J shall be replaced by the following:</p>
+      <p n="43">"SECTION J</p>
+      <p n="44">Financial intermediation</p>
+      <p n="45">To enable Community statistics to be compiled, Member States will transmit component national results broken down to the classes of NACE REV. 1.";</p>
+      <p n="46">4. in section 10, paragraph 1, the first sentence shall be replaced by the following:</p>
+      <p n="47">"Member States will provide the Commission with a report relating to the definition, structure and availability of information on statistical units which are classified under Sections M to O of NACE REV. 1."</p>
+      <p n="48">Article 3</p>
+      <p n="49">Annex 2 to Regulation (EC, Euratom) No 58/97 shall be amended as follows:</p>
+      <p n="50">1. in section 4, paragraph 3, the following characteristic shall be inserted after the variable 21 11 0 (investment in equipment and plant for pollution control, and special anti-pollution accessories - mainly end-of-pipe equipment):</p>
+      <p n="51">"21 12 0 - Investment in equipment and plant linked to cleaner technology (integrated technology) (*)";</p>
+      <p n="52">2. the footnote in section 4, paragraph 3 shall be replaced by the following:</p>
+      <p n="53">"(*) If the total amount of the turnover or the number of persons employed in a division of NACE REV. 1 Sections C to E represent, in a Member State, less than 1 % of the Community total, the information necessary for the compilation of statistics relating to characteristics 21 11 0, 21 12 0, 22 11 0 and 22 12 0 need not be collected for the purposes of this Regulation. If necessary for Community policy requirements, the Commission may, in accordance with the procedure laid down in Article 13 of this Regulation, request ad hoc collection of these data.";</p>
+      <p n="54">3. in section 4, paragraph 4, the following characteristic shall be inserted after the variable 20 31 0 (Purchases of electricity (in value)):</p>
+      <p n="55">"21 14 0 - Total current expenditure on environmental protection (*)";</p>
+      <p n="56">4. in section 4, paragraph 4, the following footnote shall be added:</p>
+      <p n="57">"(*) If the total amount of the turnover or the number of persons employed in a division of NACE REV. 1 Sections C to E represent, in a Member State, less than 1 % of the Community total, the information necessary for the compilation of statistics relating to characteristic 21 14 0 need not be collected for the purposes of this Regulation. If necessary for Community policy requirements, the Commission may, in accordance with the procedure laid down in Article 13 of this Regulation, request ad hoc collection of these data.";</p>
+      <p n="58">5. in section 5, the following paragraphs shall be added:</p>
+      <p n="59">"3. The first reference year for which statistics on characteristics 21 12 0 and 21 14 0 are to be compiled is the calendar year 2001.</p>
+      <p n="60">4. The statistics on characteristic 21 12 0 are to be compiled yearly. The statistics on characteristic 21 14 0 are to be compiled every three years.";</p>
+      <p n="61">6. in section 7, paragraph 6 shall be replaced by the following:</p>
+      <p n="62">"6. The results for characteristics 21 11 0, 21 12 0 and 21 14 0, are to be broken down to the NACE REV. 1 two-digit level (division).";</p>
+      <p n="63">7. in section 7, the following paragraph shall be added:</p>
+      <p n="64">"7. The results for characteristics 21 11 0, 21 12 0 and 21 14 0, are to be broken down to the following environmental domains: protection of ambient air and climate, wastewater management, waste management and other environmental protection activities. The results for the environmental domains shall be broken down to NACE REV. 1 two-digit level (division).";</p>
+      <p n="65">8. in section 9, the following characteristic shall be inserted:</p>
+      <p n="66">"21 11 0 - Investment in equipment and plant for pollution control, and special anti-pollution accessories (mainly end-of-pipe equipment)."</p>
+      <p n="67">The following comment shall be added for characteristics 21 11 0, 21 12 0 and 21 14 0:</p>
+      <p n="68">"Only specific breakdown on the environmental domains biodiversity and landscape, soil and groundwater.";</p>
+      <p n="69">9. in section 10, the following sentence shall be added:</p>
+      <p n="70">"For the compilation of statistics on characteristics 21 12 0 and 21 14 0 this transitional period may be extended by a further period of up to four years in accordance with the procedure laid down in Article 13 of this Regulation."</p>
+      <p n="71">Article 4</p>
+      <p n="72">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="73">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="74">Done at Brussels, 5 November 2002.</p>
+      <p n="75">For the European Parliament</p>
+      <p n="76">The President</p>
+      <p n="77">P. Cox</p>
+      <p n="78">For the Council</p>
+      <p n="79">The President</p>
+      <p n="80">T. Pedersen</p>
+      <p n="81">(1) OJ C 154 E, 29.5.2001, p. 129 and</p>
+      <p n="82">OJ C 332 E, 27.11.2001, p. 340.</p>
+      <p n="83">(2) OJ C 260, 17.9.2001, p. 54.</p>
+      <p n="84">(3) OJ C 131, 3.5.2001, p. 5.</p>
+      <p n="85">(4) Opinion of the European Parliament of 13 June 2001 (OJ C 53 E, 28.2.2002, p. 213), Council Common Position of 20 June 2002 (OJ C 228, 25.9.2002, p. 1) and Decision of the European Parliament of 24 September 2002 (not yet published in the Official Journal).</p>
+      <p n="86">(5) OJ L 14, 17.1.1997, p. 1. Regulation as last amended by Regulation (EC, Euratom) No 410/98 (OJ L 52, 21.2.1998, p. 1).</p>
+      <p n="87">(6) OJ L 310, 30.11.1996, p. 1. Regulation as last amended by Regulation (EC) No 359/2002 of the European Parliament and of the Council (OJ L 58, 28.2.2002, p. 1).</p>
+      <p n="88">(7) OJ L 275, 10.10.1998, p. 1.</p>
+      <p n="89">(8) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="90">(9) OJ L 322, 17.12.1977, p. 30. Directive as last amended by Directive 98/33/EC of the European Parliament and the Council (OJ L 204, 21.7.1998, p. 29).</p>
+      <p n="91">(10) OJ L 59, 6.3.1991, p. 19. Decision as last amended by Decision 96/174/EC (OJ L 51, 1.3.1996, p. 48).</p>
+      <p n="92">(11) OJ L 374, 31.12.1991, p. 32.</p>
+      <p n="93">ANNEX</p>
+      <p n="94">"ANNEX 6</p>
+      <p n="95">A DETAILED MODULE FOR STRUCTURAL STATISTICS ON CREDIT INSTITUTIONS</p>
+      <p n="96">Section 1</p>
+      <p n="97">Aim</p>
+      <p n="98">The aim of this Annex is to establish a common framework for the collection, compilation, transmission and evaluation of Community statistics on the structure, activity, competitiveness and performance of the credit institutions sector. This module includes a detailed list of characteristics on which statistics are to be compiled in order to improve knowledge on the national, Community and international development of the sector of credit institutions.</p>
+      <p n="99">Section 2</p>
+      <p n="100">Scope</p>
+      <p n="101">The statistics to be compiled shall relate to the domains referred to in points (i), (ii) and (iii) of Article 2 of this Regulation, and in particular to:</p>
+      <p n="102">1. the detailed analysis of the structure, activity, competitiveness and performance of credit institutions;</p>
+      <p n="103">2. the development and distribution of total business and business per product, international activities, employment, capital and reserves, and other assets and liabilities.</p>
+      <p n="104">Section 3</p>
+      <p n="105">Coverage</p>
+      <p n="106">1. The statistics are to be compiled for the activities of credit institutions within the scope of NACE REV. 1 classes 65.12 and 65.22.</p>
+      <p n="107">2. The statistics are to be compiled for the activities of all credit institutions referred to in Article 2(1)(a) and Article 2(2) of Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions(1), with the exemption of central banks.</p>
+      <p n="108">3. Branches of credit institutions referred to in Article 24 of Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutions(2) whose activity falls within the scope of NACE REV. 1 classes 65.12 and 65.22, are to be assimilated to the credit institutions referred to in paragraph 2.</p>
+      <p n="109">Section 4</p>
+      <p n="110">Characteristics</p>
+      <p n="111">The characteristics are listed below. The characteristics in italics are also included in the common module lists of Annex 1. When characteristics are derived directly from the annual accounts, accounting years ending within a reference year shall be assimilated to the said reference year.</p>
+      <p n="112">The list includes:</p>
+      <p n="113">(i) characteristics listed in Article 4 of Directive 86/635/EEC: asset side of the balance sheet: item 4; liability side of the balance sheet: items 2(a) + 2(b) as an aggregate, items 7 + 8 + 9 + 10 + 11 + 12 + 13 + 14 as an aggregate;</p>
+      <p n="114">(ii) characteristics listed in Article 27 of Directive 86/635/EEC: item 2, items 3(a) + 3(b) + 3(c) as an aggregate, item 3(a), item 4, item 5, item 6, item 7, items 8(a) + 8(b) as an aggregate, item 8(b), item 10, items 11 + 12 as an aggregate, items 9 + 13 + 14 as an aggregate, items 15 + 16 as an aggregate, item 19, items 15 + 20 + 22 as an aggregate, item 23;</p>
+      <p n="115">(iii) the following additional characteristics:</p>
+      <p n="116">&gt;TABLE&gt;</p>
+      <p n="117">(iv) characteristics for which yearly regional statistics are to be compiled:</p>
+      <p n="118">&gt;TABLE&gt;</p>
+      <p n="119">Section 5</p>
+      <p n="120">First reference year</p>
+      <p n="121">The first reference year for which annual statistics are to be compiled for the characteristics listed in Section 4 is the calendar year 2001.</p>
+      <p n="122">Section 6</p>
+      <p n="123">Production of results</p>
+      <p n="124">1. The results are to be broken down to the following NACE REV. 1 classes: 65.12 and 65.22, separately.</p>
+      <p n="125">2. The results of the regional statistics are to be broken down to NACE REV. 1 four-digit level (classes) and level 1 of the nomenclature of territorial units (NUTS).</p>
+      <p n="126">Section 7</p>
+      <p n="127">Transmission of results</p>
+      <p n="128">The transmission delay of the results shall be decided in accordance with the procedure laid down in Article 13 of this Regulation. It shall not be longer than 10 months from the end of the reference year.</p>
+      <p n="129">Section 8</p>
+      <p n="130">Committee for Monetary, Financial and Balance of Payments Statistics</p>
+      <p n="131">The Commission shall inform the Committee for Monetary, Financial and Balance of Payments Statistics about the implementation of this module and about all measures for adjustment to economic and technical developments concerning the collection and statistical processing of data, the processing and transmission of results.</p>
+      <p n="132">Section 9</p>
+      <p n="133">Pilot studies</p>
+      <p n="134">1. For the activities covered by this Annex, the Commission will institute the following pilot studies to be carried out by Member States:</p>
+      <p n="135">(a) information on derivatives and off-balance sheet items;</p>
+      <p n="136">(b) information on the distribution networks;</p>
+      <p n="137">(c) information needed to break down the transactions of credit institutions according to prices and volumes.</p>
+      <p n="138">2. The pilot studies are to be carried out in order to assess the relevance and feasibility of obtaining data, taking into account the benefits of the availability of the data in relation to the cost of collection and the burden on business.</p>
+      <p n="139">Section 10</p>
+      <p n="140">Transitional period</p>
+      <p n="141">For the purposes of this detailed module, the transitional period will not exceed three years from the beginning of the first reference year for the compilation of the statistics indicated in Section 5.</p>
+      <p n="142">(1) OJ L 372, 31.12.1986, p. 1. Directive as last amended by Directive 2001/65/EC of the European Parliament and of the Council (OJ L 283, 27.10.2001, p. 28).</p>
+      <p n="143">(2) OJ L 126, 26.5.2000, p. 1. Directive as last amended by Directive 2000/28/EC (OJ L 275, 27.10.2000, p. 37).</p>
+      <p n="144">ANNEX 7</p>
+      <p n="145">A DETAILED MODULE FOR STRUCTURAL STATISTICS ON PENSION FUNDS</p>
+      <p n="146">Section 1</p>
+      <p n="147">Aim</p>
+      <p n="148">The aim of this Annex is to establish a common framework for the collection, compilation, transmission and evaluation of Community statistics on the structure, activity, competitiveness and performance of the pension funds sector. This module includes a detailed list of characteristics on which statistics are to be compiled in order to improve knowledge of the national, Community and international development of the pension funds sector.</p>
+      <p n="149">Section 2</p>
+      <p n="150">Scope</p>
+      <p n="151">The statistics to be compiled shall relate to the domains referred to in points (i), (ii) and (iii) of Article 2 of this Regulation, and in particular to:</p>
+      <p n="152">1. the detailed analysis of the structure, activity, competitiveness and performance of pension funds;</p>
+      <p n="153">2. the development and distribution of total business, patterns of pension funds members, international activities, employment, investments and liabilities.</p>
+      <p n="154">Section 3</p>
+      <p n="155">Coverage</p>
+      <p n="156">1. The statistics are to be compiled for all activities within the scope of NACE REV. 1 class 66.02. This class covers the activities of autonomous pension funds.</p>
+      <p n="157">2. Some statistics are to be compiled for enterprises with non-autonomous pension funds which are carried out as ancillary activities.</p>
+      <p n="158">Section 4</p>
+      <p n="159">Characteristics</p>
+      <p n="160">1. The list of characteristics set out below indicates, where relevant, the type of statistical unit for which the statistics are to be compiled. The characteristics in italics are also included in the common module lists of Annex 1. When characteristics are derived directly from the annual accounts, accounting years ending within a reference year are to be assimilated to the said reference year.</p>
+      <p n="161">2. Demographic and enterprise characteristics for which yearly statistics are to be compiled (for enterprises with autonomous pension funds only):</p>
+      <p n="162">&gt;TABLE&gt;</p>
+      <p n="163">3. Enterprise characteristics for which yearly statistics are to be compiled (for enterprises with non-autonomous pension funds only):</p>
+      <p n="164">&gt;TABLE&gt;</p>
+      <p n="165">Section 5</p>
+      <p n="166">First reference year</p>
+      <p n="167">The first reference year for which annual statistics are to be compiled for the characteristics listed in Section 4 is the calendar year 2002.</p>
+      <p n="168">Section 6</p>
+      <p n="169">Production of results</p>
+      <p n="170">1. The results for the characteristics listed in Section 4, paragraph 2, are to be broken down according to the NACE REV. 1, four-digit level (class).</p>
+      <p n="171">2. The results for the characteristics listed in Section 4, paragraph 3, are to be broken down according to the NACE REV. 1 section level.</p>
+      <p n="172">Section 7</p>
+      <p n="173">Transmission of results</p>
+      <p n="174">The results are to be transmitted within 12 months from the end of the reference year.</p>
+      <p n="175">Section 8</p>
+      <p n="176">Insurance Committee</p>
+      <p n="177">The Commission shall inform the Insurance Committee about the implementation of this module and about all measures for adjustment to economic and technical developments concerning the collection and statistical processing of data, the processing and transmission of results.</p>
+      <p n="178">Section 9</p>
+      <p n="179">Pilot studies</p>
+      <p n="180">For the activities covered by this Annex, the Commission will institute the following pilot studies to be carried out by Member States:</p>
+      <p n="181">1. More in-depth information on cross-border activities of pension funds:</p>
+      <p n="182">&gt;TABLE&gt;</p>
+      <p n="183">2. Additional information on non-autonomous pension funds:</p>
+      <p n="184">&gt;TABLE&gt;</p>
+      <p n="185">3. Information on derivatives and off-balance sheet items.</p>
+      <p n="186">The pilot studies shall be carried out in order to assess the relevance and feasibility of obtaining data, taking into account the benefits of the availability of the data in relation to the cost of collection and the burden on business.</p>
+      <p n="187">Section 10</p>
+      <p n="188">Transitional period</p>
+      <p n="189">For the purposes of this detailed module, the transitional period will not exceed three years from the beginning of the first reference year for the compilation of the statistics indicated in Section 5. This period may be extended by a further period of up to three years in accordance with the procedure laid down in Article 13 of this Regulation."</p>
+    </body>
+  </text>
+</TEI.2>

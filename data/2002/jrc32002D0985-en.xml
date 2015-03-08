@@ -1,0 +1,57 @@
+<TEI.2 id="jrc32002D0985-en" n="32002D0985" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0985 English</title>
+        <title>2002/985/EC,Euratom: Council Decision of 10 December 2002 amending Decision 2001/368/EC, Euratom on the adjustment of the allowances paid to members and alternates of the Economic and Social Committee</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0985:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0985:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1048</classCode>
+        <classCode scheme="eurovoc">3545</classCode>
+        <classCode scheme="eurovoc">3557</classCode>
+        <classCode scheme="eurovoc">6054</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0985-en." lang="en">
+    <body>
+      <head n="1">2002/985/EC,Euratom: Council Decision of 10 December 2002 amending Decision 2001/368/EC, Euratom on the adjustment of the allowances paid to members and alternates of the Economic and Social Committee</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 10 December 2002</p>
+      <p n="4">amending Decision 2001/368/EC, Euratom on the adjustment of the allowances paid to members and alternates of the Economic and Social Committee</p>
+      <p n="5">(2002/985/EC, Euratom)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular the fourth paragraph of Article 258 thereof,</p>
+      <p n="8">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular the fourth paragraph of Article 166 thereof,</p>
+      <p n="9">Having regard to the request made by the European Economic and Social Committee on 8 July 2002,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) On 8 July 2002 the European Economic and Social Committee submitted a memorandum concerning the application of Council Decision 2001/368/EC, Euratom of 7 May 2001 on the adjustment of the allowances paid to members and alternates of the Economic and Social Committee(1), in which it called for the retention of the present system.</p>
+      <p n="12">(2) While accepting that reimbursements by way of daily allowances could be based on actual costs incurred rather than on a flat-rate arrangement, the Council nevertheless considers that, for practical reasons, the present system should be retained,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The second paragraph of Article 3 of Decision 2001/368/EC, Euratom is hereby deleted.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision shall take effect on 1 January 2003.</p>
+      <p n="18">Done at Brussels, 10 December 2002.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">P. S. Møller</p>
+      <p n="22">(1) OJ L 130, 12.5.2001, p. 39.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,49 @@
+<TEI.2 id="jrc31994R1662-en" n="31994R1662" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994R1662 English</title>
+        <title>Commission Regulation (EC) No 1662/94 of 8 July 1994 amending Regulation (EEC) No 1859/93 on the application of the system of import licences for garlic imported from third countries</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R1662:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R1662:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994R1662-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1662/94 of 8 July 1994 amending Regulation (EEC) No 1859/93 on the application of the system of import licences for garlic imported from third countries</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1662/94 of 8 July 1994 amending Regulation (EEC) No 1859/93 on the application of the system of import licences for garlic imported from third countries</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1035/72 of 18 May 1972 on the common organization of the market in fruit and vegetables (1), as last amended by Regulation (EC) No 3669/93 (2), and in particular Article 22b thereof,</p>
+      <p n="6">Whereas, under Article 3 (2) of Commission Regulation (EEC) No 1859/93 (3), import licences must be issued within three working days following the day on which the application is lodged; whereas this time limit is in-adequate for the purposes of efficient management of the system and should accordingly be extended to five days;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">In Article 3 (2) of Regulation (EEC) No 1859/93, the first subparagraph is replaced by the following:</p>
+      <p n="11">'Import licences shall be issued on the fifth working day following the day on which the application is lodged unless measures are taken within that time.'</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">It shall not apply to applications lodged prior to the day of its entry into force.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 8 July 1994.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">René STEICHEN</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 118, 20. 5. 1972, p. 1.</p>
+      <p n="21">(2) OJ No L 338, 31. 12. 1993, p. 26.</p>
+      <p n="22">(3) OJ No L 170, 13. 7. 1993, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

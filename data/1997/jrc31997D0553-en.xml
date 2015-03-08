@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31997D0553-en" n="31997D0553" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0553 English</title>
+        <title>97/553/EC: Commission Decision of 13 August 1997 amending Decisions 97/515/EC, 97/513/EC, 97/516/EC and 97/517/EC concerning protective measures with regard to certain products of animal origin originating in India, Bangladesh and Madagascar (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0553:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0553:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1338</classCode>
+        <classCode scheme="eurovoc">1442</classCode>
+        <classCode scheme="eurovoc">1729</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">3579</classCode>
+        <classCode scheme="eurovoc">4732</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0553-en." lang="en">
+    <body>
+      <head n="1">97/553/EC: Commission Decision of 13 August 1997 amending Decisions 97/515/EC, 97/513/EC, 97/516/EC and 97/517/EC concerning protective measures with regard to certain products of animal origin originating in India, Bangladesh and Madagascar (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 13 August 1997 amending Decisions 97/515/EC, 97/513/EC, 97/516/EC and 97/517/EC concerning protective measures with regard to certain products of animal origin originating in India, Bangladesh and Madagascar (Text with EEA relevance) (97/553/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/675/EEC of 10 December 1990 laying down the principles governing the organisation of veterinary checks on products entering the Community from third countries (1), as last amended by Directive 96/43/EC (2), and in particular Article 19 (7) thereof,</p>
+      <p n="6">Whereas the Commission, in adopting Decisions 97/515/EC (3), 97/513/EC (4), 97/516/EC (5) and 97/517/EC (6), has established measures in order to ensure that possibly hazardous products of animal origin cannot enter the Community; whereas these measures tend to suspend all imports of fishery products from India, Bangladesh and Madagascar, as well as of other products of animal origin from Madagascar;</p>
+      <p n="7">Whereas these measures include an opportunity for products which have been despatched to the Community before the entry into force of these requirements and presented for importation into the Community before 15 August 1997, to gain entry to the Community on condition that they are systematically submitted to a microbiological examination upon arrival;</p>
+      <p n="8">Whereas it is necessary to extend this delay, whilst ensuring a high level of consumer protection;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in conformity with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">In Article 2 of Decisions 97/515/EC, 97/513/EC, 97/516/EC and 97/517/EC, the words 'before 15 August 1997` are replaced by the words 'before 15 September 1997`.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The Member States shall alter the measures they apply in trade in order to bring them into line with this Decision. They shall immediately inform the Commission thereof.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Decision is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 13 August 1997.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 373, 31. 12. 1990, p. 1.</p>
+      <p n="22">(2) OJ No L 162, 1. 7. 1996, p. 1.</p>
+      <p n="23">(3) OJ No L 214, 6. 8. 1997, p. 52.</p>
+      <p n="24">(4) OJ No L 214, 6. 8. 1997, p. 46.</p>
+      <p n="25">(5) OJ No L 214, 6. 8. 1997, p. 53.</p>
+      <p n="26">(6) OJ No L 214, 6. 8. 1997, p. 54.</p>
+    </body>
+  </text>
+</TEI.2>

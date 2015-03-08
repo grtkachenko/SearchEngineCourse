@@ -1,0 +1,52 @@
+<TEI.2 id="jrc31984D0422-en" n="31984D0422" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31984D0422 English</title>
+        <title>84/422/EEC: Commission Decision of 24 July 1984 amending Annex I to Council Decision 77/795/EEC establishing a common procedure for the exchange of information on the quality of surface fresh water in the Community</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31984D0422:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31984D0422:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31984D0422-en." lang="en">
+    <body>
+      <head n="1">84/422/EEC: Commission Decision of 24 July 1984 amending Annex I to Council Decision 77/795/EEC establishing a common procedure for the exchange of information on the quality of surface fresh water in the Community</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION DECISION</p>
+      <p n="4">of 24 July 1984</p>
+      <p n="5">amending Annex I to Council Decision 77/795/EEC establishing a common procedure for the exchange of information on the quality of surface fresh water in the Community</p>
+      <p n="6">(84/422/EEC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN</p>
+      <p n="8">COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="10">Having regard to Council Decision 77/795/EEC of 12 December 1977 establishing a common procedure for the exchange of information on the quality of surface fresh water in the Community (1), and in particular Article 5 (1) thereof,</p>
+      <p n="11">Whereas requests have been received from France, Italy, the Netherlands and the United Kingdom for amendments to Annex I to the said Council Decision;</p>
+      <p n="12">Whereas the Commission is satisfied that these amendments satisfy the requirements of Article 5 (2) of the Council Decision,</p>
+      <p n="13">HAS ADOPTED THIS DECISION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Annex I to Council Decision 77/795/EEC is hereby amended concerning sampling or measuring stations as listed in the Annex to this Decision.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision is adressed to the Member States.</p>
+      <p n="18">Done at Brussels, 24 July 1984.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Karl-Heinz NARJES</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ No L 334, 24. 12. 1977, p. 29.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">List of amendments to Annex I to Council Decision 77/795/EEC concerning sampling or measuring stations involved in the exchange of information</p>
+      <p n="25">1,2.3 // // // Sampling or measuring stations // List of rivers // 1,3 // // FRANCE // // 1.2.3 // 'Lyon // upstream of the confluence with the Saône at the Poincaré Bridge (St 98 000) // Rhône' // is replaced by: // // // 'Lyon // downstream of the confluence with the Saône et Chasse sur Rhône (St 98 000) // Rhône' 1,3 // ITALY // // 1.2.3 // 'Meirano // 591 km upstream of mouth // Po' // is replaced by: // // // 'Moncalieri // 594 km upstream of the mouth // Po' // 'Ponte degli Albergi // 38 km upstream of the mouth // Metauro' // is replaced by: // // // 'Ponte degli Alberi // 38 km upstream of the mouth // Metauro' // 'Roma // 43 km upstream of the mouth // Tiber' // is replaced by: // // // 'Ponte Ripetta // 43 km upstream of the mouth // Tiber' 1,3 // NETHERLANDS // // 1.2.3 // 'Kampen // 133 km downstream of the point where the Rhine enters the Netherlands // Ijssel' // is replaced by: // // // 'Kampen // 123 km downstream of the point where the Rhine enters the Netherlands // Ijssel' // 'Gorinchem // 93,5 km downstream of the point where the Rhine enters the Netherlands // Upper Merwede' // is replaced by: // // // 'Vuren // 88 km downstream of the point where the Rhine enters the Netherlands // Upper Merwede' // 'Vreeswijk // 89 km downstream of the point where the Rhine enters the Netherlands // Lek' // is replaced by: // // // 'Hagestein // 82 km downstream of the point where the Rhine enters the Netherlands // Lek' // 'IJ 17 // at the mouth of the Keteldiep, 143 km downstream of the point where the Rhine enters the Netherlands // Keteldiep' // is replaced by: // // // 'IJ 12 // Ketelbrug, 145 km downstream of the point where the Rhine enters the Netherlands // Ketelmeer'</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,86 @@
+<TEI.2 id="jrc31998D0519-en" n="31998D0519" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0519 English</title>
+        <title>98/519/EC: Commission Decision of 17 June 1998 on a common technical Regulation for very small aperture terminals (VSATs) operating in the 11/12/14 GHz frequency bands (notified under document number C(1998) 1612) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>49 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0519:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0519:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">30</classCode>
+        <classCode scheme="eurovoc">3641</classCode>
+        <classCode scheme="eurovoc">3646</classCode>
+        <classCode scheme="eurovoc">3648</classCode>
+        <classCode scheme="eurovoc">4424</classCode>
+        <classCode scheme="eurovoc">5320</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0519-en." lang="en">
+    <body>
+      <head n="1">98/519/EC: Commission Decision of 17 June 1998 on a common technical Regulation for very small aperture terminals (VSATs) operating in the 11/12/14 GHz frequency bands (notified under document number C(1998) 1612) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 17 June 1998 on a common technical Regulation for very small aperture terminals (VSATs) operating in the 11/12/14 GHz frequency bands (notified under document number C(1998) 1612) (Text with EEA relevance) (98/519/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Directive 98/13/EC of the European Parliament and of the Council of 12 February 1998 relating to telecommunciations terminal equipment and satellite earth station equipment, including the mutual recognition of their conformity (1),</p>
+      <p n="6">Whereas the Commission has adopted the measure identifying the type of satellite earth station equipment for which a common technical Regulation is required, as well as the associated scope statement;</p>
+      <p n="7">Whereas the corresponding harmonised standards, or parts thereof, implementing the essential requirements which are to be transformed into common technical regulations should be adopted;</p>
+      <p n="8">Whereas the common technical Regulation adopted in this Decision is in accordance with the opinion of ACTE,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">1. This Decision shall apply to satellite earth station equipment falling within the scope of the harmonised standard referred to in Article 2(1).</p>
+      <p n="12">2. This Decision establishes a common technical Regulation covering very small aperture terminals (VSATs) operating in the 11/12/14 GHz frequency bands.</p>
+      <p n="13">Article 2</p>
+      <p n="14">1. The common technical Regulation shall include the harmonised standards prepared by the relevant standardisation body implementing to the extent applicable the essential requirements referred to in Article 17 of Directive 98/13/EC. The reference to the standards is set out in the Annex.</p>
+      <p n="15">2. Satellite earth station equipment covered by this Decision shall comply with the common technical Regulation referred to in paragraph 1, shall meet the essential requirements referred to in Article 5(a) of Directive 98/13/EC, and shall meet the requirements of any other applicable Directives, in particular Council Directives 73/23/EEC (2) and 89/336/EEC (3).</p>
+      <p n="16">Article 3</p>
+      <p n="17">Notified Bodies designated for carrying out the procedures referred to in Article 10 of Directive 98/13/EC shall, as regards satellite earth station equipment covered by Article 1(1) of this Decision, use or ensure the use of the harmonised standard referred to in the Annex after the coming into force of this Decision.</p>
+      <p n="18">Article 4</p>
+      <p n="19">This Decision is addressed to the Member States.</p>
+      <p n="20">Done at Brussels, 17 June 1998.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Martin BANGEMANN</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 74, 12. 3. 1998, p. 1.</p>
+      <p n="25">(2) OJ L 77, 26. 3. 1973, p. 29.</p>
+      <p n="26">(3) OJ L 139, 23. 5. 1989, p. 19.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">Reference to the harmonised standard applicable</p>
+      <p n="29">The harmonised standard referred to in Article 2 of the Decision is:</p>
+      <p n="30">Satellite Earth Stations and Systems (SES);</p>
+      <p n="31">very small aperture terminal (VSAT); Transmit-only, transmit/receive or receive-only satellite earth stations operating in the 11/12/14 GHz frequency bands</p>
+      <p n="32">ETSI</p>
+      <p n="33">European Telecommunications Standards Institute</p>
+      <p n="34">ETSI Secretariat</p>
+      <p n="35">TBR 28 - December 1997</p>
+      <p n="36">(excluding the foreword)</p>
+      <p n="37">Additional information</p>
+      <p n="38">The European Telecommunications Standards Institute is recognised according to Council Directive 83/189/EEC (1).</p>
+      <p n="39">The harmonised standard referred to above has been produced according to a mandate issued in accordance with the relevant procedures of Directive 83/189/EEC.</p>
+      <p n="40">The full text of the harmonised standard referenced above can be obtained from:</p>
+      <p n="41">European Telecommunications Standards Institute</p>
+      <p n="42">650, route des Lucioles</p>
+      <p n="43">F-06921 Sophia Antipolis Cedex</p>
+      <p n="44">European Commission</p>
+      <p n="45">DG XIII/A/2 - (BU 31, 1/7)</p>
+      <p n="46">Rue de la Loi/Wetstraat 200</p>
+      <p n="47">B-1049 Brussels</p>
+      <p n="48">or from any other organisation responsible for making ETSI standards available, of which a list can be found on the Internet under address www.ispo.cec.be.</p>
+      <p n="49">(1) OJ L 109, 26. 4. 1983, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

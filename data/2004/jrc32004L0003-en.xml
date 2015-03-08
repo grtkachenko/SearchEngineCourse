@@ -1,0 +1,170 @@
+<TEI.2 id="jrc32004L0003-en" n="32004L0003" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004L0003 English</title>
+        <title>Directive 2004/3/EC of the European Parliament and of the Council of 11 February 2004 amending Council Directives 70/156/EEC and 80/1268/EEC as regards the measurement of carbon dioxide emissions and fuel consumption of N1 vehicles (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>133 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004L0003:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004L0003:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">3159</classCode>
+        <classCode scheme="eurovoc">4654</classCode>
+        <classCode scheme="eurovoc">5235</classCode>
+        <classCode scheme="eurovoc">5262</classCode>
+        <classCode scheme="eurovoc">5650</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004L0003-en." lang="en">
+    <body>
+      <head n="1">Directive 2004/3/EC of the European Parliament and of the Council of 11 February 2004 amending Council Directives 70/156/EEC and 80/1268/EEC as regards the measurement of carbon dioxide emissions and fuel consumption of N1 vehicles (Text with EEA relevance)</head>
+      <p n="2">Directive 2004/3/EC of the European Parliament and of the Council</p>
+      <p n="3">of 11 February 2004</p>
+      <p n="4">amending Council Directives 70/156/EEC and 80/1268/EEC as regards the measurement of carbon dioxide emissions and fuel consumption of N1 vehicles</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Economic and Social Committee(2),</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Council Directive 80/1268/EEC of 16 December 1980 relating to the carbon dioxide emissions and fuel consumption of motor vehicles(4) is one of the separate directives under the type-approval procedure laid down by Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers(5).</p>
+      <p n="13">(2) The communication from the Commission to the European Parliament and to the Council on "EU policies and measures to reduce greenhouse gas emissions: towards a European Climate Change Programme (ECCP)", proposes an implementation strategy to reduce the emission of greenhouse gases, including measures in the transport sector. The Green Paper "Towards a European strategy for the security of energy supply" likewise calls for efforts to improve fuel economy of motor vehicles.</p>
+      <p n="14">(3) Under the Community strategy to reduce carbon dioxide (CO2) emissions from passenger cars, as outlined in the communication from the Commission to the European Parliament and to the Council entitled "A Community strategy to reduce CO2 emissions from passenger cars and improve fuel economy", the harmonised measurement methodology, as laid down in Directive 80/1268/EEC, has been used as a basic instrument. With a view to permitting subsequent measures to reduce fuel consumption and CO2 emissions in the sector of light commercial vehicles, it is necessary to extend the scope of that Directive to include vehicles of category N1 as well.</p>
+      <p n="15">(4) As referred to in Decision No 1753/2000/EC of the European Parliament and of the Council of 22 June 2000 establishing a scheme to monitor the average specific emissions of CO2 from new passenger cars(6), the Commission has carried out a study to investigate the possibilities and implications of a harmonised procedure for measuring the specific CO2 emissions from vehicles of category N1. In this respect, it is considered technically acceptable and most cost-effective to apply the existing emissions test of Council Directive 70/220/EEC of 20 March 1970 on the approximation of the laws of the Member States relating to measures to be taken against air pollution by emissions from motor vehicles(7) also for the measurement of fuel consumption and CO2 emissions for that category of vehicles.</p>
+      <p n="16">(5) Many small-volume manufacturers buy from suppliers engines which are type-approved with respect to emissions according to Council Directive 88/77/EEC of 3 December 1987 on the approximation of the laws of the Member States relating to the measures to be taken against the emissions of gaseous and particulate pollutants from compression ignition engines for use in vehicles, and the emission of gaseous pollutants from positive ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles(8). A considerable number of those manufacturers do not have the necessary infrastructure or expertise to perform the exhaust or CO2 emissions testing. It is therefore necessary to grant an exemption for small-volume manufacturers, since the additional costs they would incur in order to comply with this Directive would be disproportionately high.</p>
+      <p n="17">(6) Those measures also have an impact on the Annexes to Directive 70/156/EEC.</p>
+      <p n="18">(7) Directives 70/156/EEC and 80/1268/EEC should therefore be amended accordingly,</p>
+      <p n="19">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Directive 70/156/EEC is hereby amended as follows:</p>
+      <p n="22">(a) row 39 of Annex IV, part I, is replaced by the following:</p>
+      <p n="23">"&gt;TABLE&gt;"</p>
+      <p n="24">(b) in the Community certificate of conformity for complete or completed vehicles of categories N1, N2 and N3 in Annex IX, part I, page 2, the following point shall be added:</p>
+      <p n="25">"</p>
+      <p n="26">&gt;PIC FILE= "L_2004049EN.003701.TIF"&gt;"</p>
+      <p n="27">Article 2</p>
+      <p n="28">Annexes I and II to Directive 80/1268/EEC shall be amended as set out in the Annex to this Directive.</p>
+      <p n="29">Article 3</p>
+      <p n="30">No later than 19 February 2006, the Commission shall:</p>
+      <p n="31">(a) present a study on the possibilities of obtaining representative CO2 emission and fuel consumption data for completed multistage vehicles and vehicles whose emissions are measured according to Directive 88/77/EEC in order to take into account the "cost-efficiency" aspects of these measurements;</p>
+      <p n="32">(b) present an evaluation of the vehicle family concept introduced in this Directive;</p>
+      <p n="33">(c) if appropriate, present draft measures on the adaptation of this Directive to technical progress to the Committee established by Article 13 of Directive 70/156/EEC.</p>
+      <p n="34">Article 4</p>
+      <p n="35">Where a vehicle produced by a specialist coach builder falls within the criteria of one of the families of vehicles of the manufacturer of the base vehicle, the coach builder may use the data on fuel efficiency and CO2 production supplied by that manufacturer.</p>
+      <p n="36">Article 5</p>
+      <p n="37">1. With effect from 19 February 2005 for vehicles of category N1, Member States may not, on grounds relating to CO2 emission or to fuel consumption:</p>
+      <p n="38">(a) refuse, in respect of any given type of motor vehicle, to grant EC type-approval or national type-approval;</p>
+      <p n="39">(b) prohibit the registration, sale or entry into service of vehicles pursuant to Article 7 of Directive 70/156/EEC,</p>
+      <p n="40">if the CO2 emission and fuel consumption figures have been determined in accordance with the requirements of Directive 80/1268/EEC, as amended by this Directive.</p>
+      <p n="41">2. With effect from 1 January 2005 for vehicles of category N1, Class I, and with effect from 1 January 2007 for vehicles of category N1, Classes II and III, Member States:</p>
+      <p n="42">(a) shall no longer grant EC type-approval pursuant to Article 4(1) of Directive 70/156/EEC;</p>
+      <p n="43">(b) shall refuse to grant national type-approval, except where the provisions of Article 8(2) of Directive 70/156/EEC are invoked,</p>
+      <p n="44">if the CO2 emission and fuel consumption figures have not been determined in accordance with the requirements of Directive 80/1268/EEC, as amended by this Directive.</p>
+      <p n="45">3. With effect from 1 January 2006 for vehicles of category N1, Class I, and with effect from 1 January 2008 for vehicles of category N1, Classes II and III, Member States shall:</p>
+      <p n="46">(a) consider certificates of conformity which accompany new vehicles pursuant to Directive 70/156/EEC to be no longer valid for the purpose of Article 7(1) of that Directive;</p>
+      <p n="47">(b) refuse the registration, sale or entry into service of new vehicles which are not accompanied by a valid certificate of conformity pursuant to Directive 70/156/EEC, except where the provisions of Article 8(2) of that Directive are invoked;</p>
+      <p n="48">if the CO2 emission and fuel consumption figures have not been determined in accordance with the requirements of Directive 80/1268/EEC, as amended by this Directive.</p>
+      <p n="49">4. For multistage vehicles of category N1, the dates mentioned in paragraphs 2 and 3 shall be postponed by 12 months.</p>
+      <p n="50">5. For the purposes of this Article:</p>
+      <p n="51">- a vehicle of category N1, Class I, means an N1 vehicle with a reference mass not exceeding 1305 kg,</p>
+      <p n="52">- a vehicle of category N1, Class II, means an N1 vehicle with a reference mass greater than 1305 kg, but not exceeding 1760 kg,</p>
+      <p n="53">- a vehicle of category N1, Class III, means an N1 vehicle with a reference mass in excess of 1760 kg.</p>
+      <p n="54">Article 6</p>
+      <p n="55">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 19 February 2005. They shall forthwith inform the Commission thereof.</p>
+      <p n="56">When Member States adopt these measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.</p>
+      <p n="57">Article 7</p>
+      <p n="58">This Directive shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="59">Article 8</p>
+      <p n="60">This Directive is addressed to the Member States.</p>
+      <p n="61">Done at Strasbourg, 11 February 2004.</p>
+      <p n="62">For the European Parliament</p>
+      <p n="63">The President</p>
+      <p n="64">P. Cox</p>
+      <p n="65">For the Council</p>
+      <p n="66">The President</p>
+      <p n="67">M. McDowell</p>
+      <p n="68">(1) OJ C 51 E, 26.2.2002, p. 317.</p>
+      <p n="69">(2) OJ C 125, 27.5.2002, p. 6.</p>
+      <p n="70">(3) Opinion of the European Parliament of 24 September 2002 (OJ C 273 E, 14.11.2003, p. 22), Council common position of 9 October 2003 (OJ C 305 E, 16.12.2003, p. 1) and position of the European Parliament of 16 December 2003 (not yet published in the Official Journal).</p>
+      <p n="71">(4) OJ L 375, 31.12.1980, p. 36. Directive as last amended by Commission Directive 1999/100/EC (OJ L 334, 28.12.1999, p. 36).</p>
+      <p n="72">(5) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).</p>
+      <p n="73">(6) OJ L 202, 10.8.2000, p. 1.</p>
+      <p n="74">(7) OJ L 76, 6.4.1970, p. 1. Directive as last amended by Commission Directive 2003/76/EC (OJ L 206, 15.8.2003, p. 29).</p>
+      <p n="75">(8) OJ L 36, 9.2.1988, p. 33. Directive as last amended by Commission Directive 2001/27/EC (OJ L 107, 18.4.2001, p. 10).</p>
+      <p n="76">ANNEX</p>
+      <p n="77">I. Annex I to Directive 80/1268/EEC is hereby amended as follows:</p>
+      <p n="78">1. Point 1 is replaced by the following:</p>
+      <p n="79">"1. SCOPE</p>
+      <p n="80">This Directive applies to the measurement of carbon dioxide (CO2)emissions and fuel consumption of motor vehicles of categories M1 and N1.</p>
+      <p n="81">It does not apply to a type of N1 vehicle if both:</p>
+      <p n="82">- the engine type fitted to that type of vehicle has received type-approval pursuant to Directive 88/77/EEC, and</p>
+      <p n="83">- the total annual worldwide production of N1 vehicles of the manufacturer is less than 2000 units."</p>
+      <p n="84">2. Point 2.3 is replaced by the following:</p>
+      <p n="85">"2.3. For the test described in point 6, a vehicle representative of the vehicle type to be approved will be submitted when the technical service responsible for the type-approval tests carries out the tests itself. For M1 and N1 vehicles, type-approved with respect to their emissions according to Directive 70/220/EEC, the technical service will check during the test that this vehicle conforms to the limit values applicable to that type, as described in Directive 70/220/EEC."</p>
+      <p n="86">3. In point 6.1, the following paragraph is added:</p>
+      <p n="87">"Vehicles which do not attain the acceleration and maximum speed values required in the test cycle must be operated with the accelerator control fully depressed until they once again reach the required operating curve. Deviations from the test cycle must be recorded in the test report."</p>
+      <p n="88">4. Point 11 is replaced by the following:</p>
+      <p n="89">"11. EXTENSION OF APPROVAL</p>
+      <p n="90">11.1. The type-approval can be extended to vehicles from the same type or from a different type differing with regard to the following characteristics of Annex II, if the CO2 emissions measured by the technical service do not exceed the type-approval value by more than 4 % for vehicles of category M1 and 6 % for vehicles of category N1:</p>
+      <p n="91">- reference mass,</p>
+      <p n="92">- maximum authorised mass,</p>
+      <p n="93">- type of bodywork:</p>
+      <p n="94">for M1: saloon, hatchback, station wagon, coupé, convertible, multipurpose vehicle</p>
+      <p n="95">for N1: lorry, van,</p>
+      <p n="96">- overall gear ratios,</p>
+      <p n="97">- engine equipment and accessories.</p>
+      <p n="98">11.2. Extension of approval of vehicles of category N1 within a family:</p>
+      <p n="99">11.2.1. For vehicles of category N1 that are approved as members of a vehicle family using the procedure in Annex I, point 12.2, the type-approval can be extended to vehicles from within the same family only if the technical service estimates that the fuel consumption of the new vehicle does not exceed the fuel consumption of the vehicle on which the family's fuel consumption is based.</p>
+      <p n="100">Approvals may also be extended to vehicles which:</p>
+      <p n="101">- are up to 110 kg heavier than the family member tested, provided that they are within 220 kg of the lightest member of the family,</p>
+      <p n="102">- have a lower overall transmission ratio than the family member tested due solely to a change in tyre sizes and</p>
+      <p n="103">- conform with the family in all other respects.</p>
+      <p n="104">11.2.2. For vehicles of category N1 that are approved as members of a vehicle family using the procedure in Annex I, point 12.3, the type-approval can be extended to vehicles from within the same family without additional testing only if the technical service estimates that the fuel consumption of the new vehicle falls within the limits made up of those two vehicles in the family that have the lowest and the highest fuel consumption, respectively."</p>
+      <p n="105">5. The following point shall be added:</p>
+      <p n="106">"12. APPROVAL OF VEHICLES OF CATEGORY N1 WITHIN A FAMILY</p>
+      <p n="107">Vehicles of category N1 can be approved within a family as defined in 12.1 using one of the two alternative methods described in 12.2 and 12.3.</p>
+      <p n="108">12.1. N1 vehicles may be grouped together into a family for the purposes of this Directive if the following parameters are identical or within the specified limits:</p>
+      <p n="109">12.1.1. Identical parameters are:</p>
+      <p n="110">- manufacturer and type as defined in Annex II, section I, point 0.2,</p>
+      <p n="111">- engine capacity,</p>
+      <p n="112">- emission control system type,</p>
+      <p n="113">- fuel system type as defined in Annex II, point 1.5.2.</p>
+      <p n="114">12.1.2. The following parameters have to be within the following limits:</p>
+      <p n="115">- transmission overall ratios (no more than 8 % higher than the lowest) as defined in Annex II, point 1.6.3,</p>
+      <p n="116">- reference mass (no more than 220 kg lighter than the heaviest),</p>
+      <p n="117">- frontal area (no more than 15 % smaller than the largest),</p>
+      <p n="118">- engine power (no more than 10 % less than the highest value).</p>
+      <p n="119">12.2. A vehicle family, as defined in 12.1, can be approved with CO2 emission and fuel consumption data that are common to all members of the family. The technical service must select for testing the member of the family which the service considers to have the highest CO2 emission. The measurements are performed as described in point 6, and the results according to the method described in 6.5 are used as type-approval values that are common to all members of the family.</p>
+      <p n="120">12.3. Vehicles that are grouped in a family as defined in 12.1 can be approved with individual CO2 emission and fuel consumption data for each of the family members. The technical service selects for testing the two vehicles, which the service considers to have the highest and the lowest CO2 emissions respectively. The measurements are performed as described in point 6. If the manufacturer's data for these two vehicles falls within the tolerance limits described in 6.5, the CO2emissions declared by the manufacturer for all members of the vehicle family can be used as type-approval values. If the manufacturer's data do not fall within the tolerance limits, the results according to the method described in 6.5 are used as type-approval values and the technical service shall select an appropriate number of other family members for additional tests."</p>
+      <p n="121">II. Annex II to Directive 80/1268/EEC is amended as follows:</p>
+      <p n="122">1. The text at the top of the page is amended as follows:</p>
+      <p n="123">"Addendum to EC type-approval certificate No:</p>
+      <p n="124">concerning the type-approval of a vehicle (6) with regard to Directive 80/1268/EEC (CO2 emissions and fuel consumption) as last amended by Directive 2004/3/EC."</p>
+      <p n="125">2. The following footnote is added to the Addendum:</p>
+      <p n="126">"(6) For vehicles that are approved within a family according to Annex I, point 12, this Addendum must be supplied for each individual member of the vehicle family."</p>
+      <p n="127">3. The Addendum is further amended as follows:</p>
+      <p n="128">(a) point 1.3 reads as follows:</p>
+      <p n="129">"1.3. Type of bodywork:</p>
+      <p n="130">1.3.1. for M1: saloon, hatchback, station wagon, coupé, convertible, multipurpose vehicle (1)</p>
+      <p n="131">1.3.2. for N1: lorry, van"</p>
+      <p n="132">(b) point 1.7 shall read as follows:</p>
+      <p n="133">"1.7. Type-approval values"</p>
+    </body>
+  </text>
+</TEI.2>

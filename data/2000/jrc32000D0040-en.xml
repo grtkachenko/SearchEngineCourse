@@ -1,0 +1,145 @@
+<TEI.2 id="jrc32000D0040-en" n="32000D0040" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0040 English</title>
+        <title>2000/40/EC: Commission Decision of 16 December 1999 establishing the ecological criteria for the award of the Community eco-label to refrigerators (notified under document number C(1999) 4522) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>109 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0040:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0040:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3646</classCode>
+        <classCode scheme="eurovoc">3861</classCode>
+        <classCode scheme="eurovoc">5696</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0040-en." lang="en">
+    <body>
+      <head n="1">2000/40/EC: Commission Decision of 16 December 1999 establishing the ecological criteria for the award of the Community eco-label to refrigerators (notified under document number C(1999) 4522) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 16 December 1999</p>
+      <p n="4">establishing the ecological criteria for the award of the Community eco-label to refrigerators</p>
+      <p n="5">(notified under document number C(1999) 4522)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/40/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Regulation (EEC) No 880/92 of 23 March 1992 on a Community eco-label award scheme(1), and in particular the second subparagraph of Article 5(1) thereof,</p>
+      <p n="11">(1) Whereas the first subparagraph of Article 5(1) of Regulation (EEC) No 880/92 provides that the conditions for the award of the Community eco-label shall be defined by product groups;</p>
+      <p n="12">(2) Whereas Article 10(2) of Regulation (EEC) No 880/92 states that environment performance of a product shall be assessed by reference to the specific criteria for product groups;</p>
+      <p n="13">(3) Whereas it is appropriate to establish criteria expressing test methods and classification for energy consumption in conformity with Commission Directive 94/2/EC of 21 January 1994 implementing Council Directive 92/75/EEC with regard to energy labelling of household electric refrigerators, freezers and their combinations(2) and, moreover, to adapt the energy-consumption requirements to technological innovation and market developments;</p>
+      <p n="14">(4) Whereas, by Decision 96/703/EC(3), the Commission established ecological criteria for the award of the Community eco-label to refrigerators, which, according to Article 3 thereof, expire on 27 November 1999;</p>
+      <p n="15">(5) Whereas it is appropriate to adopt a new Decision establishing ecological criteria for this product group, in order to allow for the participation in the Community eco-label award scheme of manufacturers and importers of refrigerators;</p>
+      <p n="16">(6) Whereas in accordance with Article 6 of Regulation (EEC) No 880/92 the Commission has consulted the principal interest groups within a consultation forum;</p>
+      <p n="17">(7) Whereas the measures provided for in this Decision are in accordance with the opinion of the Committee set up pursuant to Article 7 of Regulation (EEC) No 880/92,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">The product group "refrigerators" (hereinafter referred to as "the product group") shall mean:</p>
+      <p n="21">Electric, mains-operated household refrigerators, frozen food storage cabinets, food freezers and their combinations.</p>
+      <p n="22">Appliances that may also use other energy sources, such as batteries, are excluded.</p>
+      <p n="23">Article 2</p>
+      <p n="24">The environmental performance and the fitness for use of the product group shall be assessed by reference to the criteria set out in the Annex.</p>
+      <p n="25">Article 3</p>
+      <p n="26">The product group definition and the criteria for the product group shall be valid from the date of notification of this Decision until 1 December 2002. If, however, on 1 December 2002 a new Decision establishing the product group definition and the criteria for this product group has not yet been adopted, this period of validity shall instead end either on 1 December 2003 or on the date of adoption of the new Decision, whichever is sooner.</p>
+      <p n="27">Article 4</p>
+      <p n="28">For administrative purposes the product group code number assigned to this product group shall be "012"'.</p>
+      <p n="29">Article 5</p>
+      <p n="30">This Decision is addressed to the Member States.</p>
+      <p n="31">Done at Brussels, 16 December 1999.</p>
+      <p n="32">For the Commission</p>
+      <p n="33">Margot WALLSTRÖM</p>
+      <p n="34">Member of the Commission</p>
+      <p n="35">(1) OJ L 99, 11.4.1992, p. 1.</p>
+      <p n="36">(2) OJ L 45, 17.2.1994, p. 1.</p>
+      <p n="37">(3) OJ L 323, 13.12.1996, p. 34.</p>
+      <p n="38">ANNEX</p>
+      <p n="39">ECOLOGICAL CRITERIA</p>
+      <p n="40">FRAMEWORK</p>
+      <p n="41">In order to be awarded an eco-label, the applicance shall comply with the criteria of this Annex, which are aimed at promoting:</p>
+      <p n="42">- reduction of environmental damage or risks related to the use of energy (global warming, acidification, depletion of non-renewable energy sources) by reducing energy consumption</p>
+      <p n="43">- reduction of environmental damage or risks related to the use of potentially ozone-depleting and other hazardous substances by reducing the use of these substances</p>
+      <p n="44">- reduction of environmental damage or risks related to the use of substances which may have a global-warming potential.</p>
+      <p n="45">Additionally, the criteria encourage the implementation of best practice (optimal environmental use) and enhance consumers' environmental awareness.</p>
+      <p n="46">Furthermore, marking the plastic components encourages the recycling of the machine.</p>
+      <p n="47">The competent bodies are recommended to take into account the implementation of recognised environmental management schemes, such as EMAS or ISO 14001, when assessing applications and monitoring compliance with the criteria in this Annex (note: it is not required to implement such management schemes).</p>
+      <p n="48">KEY CRITERIA</p>
+      <p n="49">1. Energy savings</p>
+      <p n="50">The applicance must have an energy efficiency index lower than 42 % as defined in Directive 94/2/EC(1), Annex V, using the same test method EN 153 and the same classification in 10 categories.</p>
+      <p n="51">The applicant shall provide a copy of the technical documentation referred to under Article 2(1) of Commission Directive 94/2/EC. This documentation shall include the reports of at least three measurements of energy consumption made according to EN 153. The arithmetic mean of these measurements shall be less or equal to the above requirement. The value declared on the energy label shall not be lower than this mean value, and the energy efficiency class indicated on the energy label shall correspond to this mean value.</p>
+      <p n="52">In case of verification, which is not required on application, competent bodies shall apply the tolerances and control procedures laid down in EN 153.</p>
+      <p n="53">2. Reduction of ozone depletion potential (ODP) of refrigerants and foaming agents</p>
+      <p n="54">The refrigerants in the refrigerating circuit and foaming agents used for the insulation of the appliance shall have an ozone depletion potential equal to zero.</p>
+      <p n="55">The applicant shall declare compliance of the product with these requirements. The applicant and/or his supplier or suppliers, as appropriate, shall indicate to the competent body assessing the application which refrigerants and foaming agents have been used and details of their ozone depletion potential.</p>
+      <p n="56">3. Reduction of global warming potential (GWP) of refrigerants and foaming agents</p>
+      <p n="57">The refrigerants in the refrigerating circuit and foaming agent used for the insulation of the appliance, shall have a global warming potential equal to, or lower than, 15 (rated as CO2 equivalents over a period of 100 years).</p>
+      <p n="58">The applicant shall declare compliance of the product with these requirements. The applicant and/or his supplier or suppliers, as appropriate, shall indicate to the competent body assessing the application which refrigerants and foaming agents have been used and details of their global warming potential.</p>
+      <p n="59">ADDITIONAL CRITERIA</p>
+      <p n="60">4. Life-time extension</p>
+      <p n="61">The manufacturer shall offer a commercial guarantee to ensure that the appliance will function for at least three years. This guarantee shall be valid from the date of delivery to the customer.</p>
+      <p n="62">The availability of compatible replacement parts and service shall be guaranteed for 12 years from the time that production ceases.</p>
+      <p n="63">The applicant shall declare compliance of the product with these requirements.</p>
+      <p n="64">5. Take-back and recycling</p>
+      <p n="65">The manufacturer shall offer, free of charge, the take-back for recycling of the refrigerator and of components being replaced, except for items contaminated by users (e.g. refrigerators originating from medical or nuclear establishments).</p>
+      <p n="66">In addition, the refrigerator shall meet the following criteria:</p>
+      <p n="67">1. The manufacturer shall take into account the disassembly of the refrigerator and provide a dissassembly report. Amongst others, the report shall confirm that:</p>
+      <p n="68">- joints are easy to find and accessible</p>
+      <p n="69">- electronic assemblies are easy to find and to dismantle</p>
+      <p n="70">- the product is easy to dismantle by using commonly available tools</p>
+      <p n="71">- incompatible and hazardous materials are separable.</p>
+      <p n="72">2. Plastic parts heavier than 50 grams shall have a permanent marking identifying the material, in conformity with ISO 11469. Excluded from this criterion are extruded palstic parts.</p>
+      <p n="73">3. Plastic parts heavier than 25 grams shall not contain the following flame retardants:</p>
+      <p n="74">&gt;TABLE&gt;</p>
+      <p n="75">4. Plastic parts heavier than 25 grams shall not contain flame retardant substances or preparations containing substances that are or may be assigned any of the risk phrases R45 (may cause cancer), R46 (may cause heritable genetic damage), R50 (very toxic to aquatic organisms), R51 (toxic to aquatic organisms), R52 (harmful to aquatic organisms), R53 (may cause long-term adverse effects in the aquatic environment), R60 (may impair fertility) or R61 (may cause harm to the unborn child), or any combinations of risk phrases containing any of the above risk phrases, as defined in Council Directive 67/548/EEC(2), as last amended by Commission Directive 98/98/EEC(3).</p>
+      <p n="76">This requirement does not apply to flame retardants that on application change their chemical nature to no longer warrant classification under any of the R-phrases listed above, and where less than 0,1 % of the flame retardant in the treated part remains in the form as before application.</p>
+      <p n="77">5. The type of refrigerant and foaming agent used for the insulation shall be indicated on the applicance, near to or on the rating plate, to facilitate possible future recovery.</p>
+      <p n="78">The applicant shall declare compliance of the product with these requirements. The applicant shall provide the competent body assessing the application with a copy of the disassembly report. The applicant and/or his supplier or suppliers, as appropriate, shall indicate to this competent body which refrigerants and foaming agents have been used, and which flame retardants, if any, have been used in or on plastic parts heavier than 25 grams.</p>
+      <p n="79">6. User instructions</p>
+      <p n="80">The appliance shall be sold with an instruction manual, which provides advice on the correct environmental use and, in particular:</p>
+      <p n="81">1. the following text on the cover page or first page: "Information on how to minimise environmental impacts is given in this manual";</p>
+      <p n="82">2. recommendations for optimal use of energy in the operation of the appliance, including:</p>
+      <p n="83">2.1. guidelines concerning the placing or installation of the refrigerator, amongst others, stating the minimum dimensions of free space around the appliance needed to ensure sufficient circulation of air, and also indicating that where the consumer has the possibility, significant energy savings can be achieved by placing the appliance in an unheated or less heated location;</p>
+      <p n="84">2.2. advice that the consumer should avoid placing the applicance next to any heat source (such as ovens, radiators, etc.) or in direct sunlight; advice that, where relevant, the consumer should consider insulating the appliance from wall or underfloor heating sources;</p>
+      <p n="85">2.3. advice that the thermostat setting is dependent on the ambient temperature and therefore, the temperature setting should be checked by using an appropriate thermometer (explanation on how to proceed should be provided);</p>
+      <p n="86">2.4. advice that the door or lid should not be opened more often than needed and no longer than necessary, especially with regard to upright freezers;</p>
+      <p n="87">2.5. advice that hot foodstuffs should be allowed to cool down before placing in the appliance, as the steam from the foodstuffs contributes to the icing up of the evaporator unit, but that the cooling period, however, should be as short as possible for health and hygiene reasons;</p>
+      <p n="88">2.6. advice that the evaporator unit should be kept clean from thick layers of ice and that frequent defrosting facilitates the removal of the ice cover;</p>
+      <p n="89">2.7. advice that the door seal should be replaced when not functioning properly;</p>
+      <p n="90">2.8. advice that when moving the applicance sufficient time should be allowed before switching it on again;</p>
+      <p n="91">2.9. advice that the condenser on the back of the appliance and the space underneath the appliance should be kept clean from dust or kitchen smoke;</p>
+      <p n="92">2.10. information that ignoring the issues mentioned above will lead to higher energy consumption;</p>
+      <p n="93">3. advice that any damage to the condenser (heat-exchanger) on the back of the appliance, or other events leading to exposure of the refrigerant to the environment, should be avoided because of potential environmental and health risks; the manual shall specifically mention that sharp objects (such as knives, screwdrivers, etc.) should not be used for removing ice as they could damage the evaporator unit;</p>
+      <p n="94">4. information that the appliance contains fluids and is made of parts and materials which are reusable and/or recyclable;</p>
+      <p n="95">5. advice on how the consumer can make use of the manufacturer's take-back-offer.</p>
+      <p n="96">The applicant shall declare compliance of the product with these requirements. The applicant shall prove the competent body assessing the application with a copy of the instruction manual.</p>
+      <p n="97">7. Limit noise emissions</p>
+      <p n="98">Airborne noise from the appliance, counted as sound power, shall not exceed 42 dB(A) (re lpW).</p>
+      <p n="99">Information about the noise level of the appliance shall be provided in a way clearly visible to the consumer. This shall be done by the incorporation of this information in the energy label for refrigerators.</p>
+      <p n="100">The measurement of the noise level and the information relating to noise shall be provided in accordance with Council Directive 86/594/EEC(4), using EN 28960 standard.</p>
+      <p n="101">This criterion does not apply to chest freezers indicated as category 9: "household food freezers, chest" in Annex IV to Directive 94/2/EC.</p>
+      <p n="102">The applicant shall declare compliance of the product with these requirements.</p>
+      <p n="103">8. Consumer information</p>
+      <p n="104">The following text shall be provided in such a way as to be clearly visible for consumers (next to the label, whenever possible):</p>
+      <p n="105">- This product qualifies for the European Union eco-label because it is economical with energy, safeguards the ozone layer and has minimised contribution to the greenhouse effect.</p>
+      <p n="106">(1) OJ L 45, 17.2.1994, p. 1.</p>
+      <p n="107">(2) OJ 196, 16.8.1967, p. 1.</p>
+      <p n="108">(3) OJ L 355, 30.12.1998, p. 1.</p>
+      <p n="109">(4) OJ L 344, 6.12.1986, p. 24.</p>
+    </body>
+  </text>
+</TEI.2>

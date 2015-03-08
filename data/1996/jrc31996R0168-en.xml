@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31996R0168-en" n="31996R0168" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0168 English</title>
+        <title>Council Regulation (EC) No 168/96 of 29 January 1996 amending Regulation (EC) No 519/94 on common rules for imports from certain third countries</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0168:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0168:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2783</classCode>
+        <classCode scheme="eurovoc">3824</classCode>
+        <classCode scheme="eurovoc">4480</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0168-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 168/96 of 29 January 1996 amending Regulation (EC) No 519/94 on common rules for imports from certain third countries</head>
+      <p n="2">COUNCIL REGULATION (EC) No 168/96 of 29 January 1996 amending Regulation (EC) No 519/94 on common rules for imports from certain third countries</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas Council Regulation (EC) No 3285/94 of 22 December 1994 on the common rules for imports and repealing Regulation (EC) No 518/94 (1) applies, inter alia, to products covered by the ECSC Treaty, without prejudice to any possible measures to apply an agreement specifically concerning ECSC products;</p>
+      <p n="7">Whereas, however, products covered by the ECSC Treaty do not fall within the material scope of Council Regulation (EC) No 519/94 of 7 March 1994 on common rules for imports from certain third countries and repealing Regulations (EEC) No 1765/82, (EEC) No 1766/82 and (EEC) No 3420/83 (2);</p>
+      <p n="8">Whereas, in the interests of consistency and in order to eliminate administrative complications caused by the lack of uniform treatment of ECSC products vis-à-vis the products covered by Regulation (EC) No 519/94, the scope of that Regulation should be broadened to include the products covered by the ECSC Treaty and the Regulation amended accordingly,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The following recital shall be inserted after the fourth recital of Regulation (EC) No 519/94:</p>
+      <p n="12">'Whereas the common rules applicable to imports shall also apply to ECSC products, without prejudice to any measures implementing an agreement relating specifically to such products;`.</p>
+      <p n="13">Article 2</p>
+      <p n="14">Article 1 (1) of Regulation (EC) No 519/94 shall be replaced by the following:</p>
+      <p n="15">'1. This Regulation applies to imports of products originating in the third countries referred to in Annex I, with the exception of textile products covered by Regulation (EC) No 517/94.`</p>
+      <p n="16">Article 3</p>
+      <p n="17">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">It shall apply from 15 December 1995.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 29 January 1996.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">S. AGNELLI</p>
+      <p n="24">(1) OJ No L 349, 31. 12. 1994, p. 53.</p>
+      <p n="25">(2) OJ No L 67, 10. 3. 1994, p. 89. Regulation as last amended by Regulation (EC) No 839/95 (OJ No L 85, 19. 4. 1995, p. 9).</p>
+    </body>
+  </text>
+</TEI.2>

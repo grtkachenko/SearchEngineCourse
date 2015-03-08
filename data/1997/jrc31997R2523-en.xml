@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31997R2523-en" n="31997R2523" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R2523 English</title>
+        <title>Commission Regulation (EC) No 2523/97 of 16 December 1997 amending Regulation (EEC) No 1014/90 laying down detailed implementing rules on the definition, description and presentation of spirit drinks (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2523:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2523:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2730</classCode>
+        <classCode scheme="eurovoc">4353</classCode>
+        <classCode scheme="eurovoc">5018</classCode>
+        <classCode scheme="eurovoc">601</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R2523-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2523/97 of 16 December 1997 amending Regulation (EEC) No 1014/90 laying down detailed implementing rules on the definition, description and presentation of spirit drinks (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2523/97 of 16 December 1997 amending Regulation (EEC) No 1014/90 laying down detailed implementing rules on the definition, description and presentation of spirit drinks (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1576/89 of 29 May 1989 laying down general rules on the definition, description and presentation of spirit drinks (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 1 (4) (i) (1) (b) and Article 15 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 2482/95 of 25 October 1995 laying down certain transitional measures for Austria for spirit drinks (2), as last amended by Regulation (EC) No 158/97 (3), permits certain fruit spirits prepared from certain berries with a maximum methyl alcohol content of 1 500 g per hectolitre of alcohol at 100 % vol. to be prepared and marketed in Austria until 31 December 1997 pending an assessment of the possibilities of reducing that methanol content;</p>
+      <p n="7">Whereas new lower limits for the methyl alcohol content of certain spirits produced in Austria should be introduced at this stage in view of the results of Austrian studies on the possibility of reducing the methanol content of the fruit spirits concerned; whereas it is also necessary to monitor the impact of the development of different aspects relating to the maximum methanol content of those fruit spirits because such limits must also be applied to the same fruit spirits produced in other Member States; whereas examination of the possibilities for reducing the methanol content of those fruit spirits should be continued, taking account of the development of techniques while bearing in mind the traditional characteristics of those products;</p>
+      <p n="8">Whereas transitional provisions must be laid down to permit the marketing of such fruit spirits prepared in Austria prior to the date of entry into force of the lower limit on the methyl alcohol content;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Implementation Committee for Spirit Drinks,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The following paragraphs 4 and 5 are hereby added to Article 6 of Regulation (EEC) No 1014/90:</p>
+      <p n="13">'4. Pursuant to Article 1 (4) (i) (1) (b) of Regulation (EEC) No 1576/89, the maximum methyl alcohol content of fruit spirits prepared from redcurrants and blackcurrants (Ribes species), service berries (Sorbus aucuparia) and elderberries (Sambucus nigra) shall be 1 350 g per hectolitre of alcohol at 100 % vol. and the maximum methyl alcohol content of fruit spirits prepared from raspberries (Rubus idaeus L.) and blackberries (Rubus fruticosus L.) shall be 1 200 g per hectolitre of alcohol at 100 % vol.</p>
+      <p n="14">5. The fruit spirits referred to in paragraph 4, prepared in Austria and held at 31 December 1997 for sale to the final user in accordance with the provisions on methanol content in force at that date in Austria may be put on the market and exported until stocks are exhausted.`</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply from 1 January 1998.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 16 December 1997.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz FISCHLER</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 160, 12. 6. 1989, p. 1.</p>
+      <p n="24">(2) OJ L 256, 26. 10. 1995, p. 12.</p>
+      <p n="25">(3) OJ L 27, 30. 1. 1997, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

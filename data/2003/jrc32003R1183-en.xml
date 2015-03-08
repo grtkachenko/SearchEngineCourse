@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32003R1183-en" n="32003R1183" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1183 English</title>
+        <title>Commission Regulation (EC) No 1183/2003 of 2 July 2003 amending Regulation (EC) No 1623/2000 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1183:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1183:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">4726</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1183-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1183/2003 of 2 July 2003 amending Regulation (EC) No 1623/2000 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms</head>
+      <p n="2">Commission Regulation (EC) No 1183/2003</p>
+      <p n="3">of 2 July 2003</p>
+      <p n="4">amending Regulation (EC) No 1623/2000 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Article 33 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Under the distillation of wine to produce potable alcohol, opened in the Community each year, producers are required to deliver their wine for distillation and distillers must distil the wine before a specified date.</p>
+      <p n="10">(2) The public storage facilities in some Member States are full and consequently the public authorities can no longer accept deliveries of alcohol from the distillers, with the result that the storage facilities of certain distillers are also full. The lack of storage capacity prevents them from accepting delivery of new wine for distillation into potable alcohol before the date laid down in Commission Regulation (EC) No 1623/2000(3), as last amended by Regulation (EC) No 625/2003(4).</p>
+      <p n="11">(3) To rectify this situation, the date by which wine must be delivered for distillation and the date by which wine must be distilled should be postponed for one-and-a-half months.</p>
+      <p n="12">(4) Regulation (EC) No 1623/2000 should be amended accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Article 63a of Regulation (EC) No 1623/2000 is hereby amended as follows:</p>
+      <p n="17">(a) the following second subparagraph is added to paragraph 8:"For the 2002/03 wine year the date in the first subparagraph shall be 31 August of the following wine year.";</p>
+      <p n="18">(b) the following second subparagraph is added to paragraph 10:"For the 2002/03 wine year the date in the first subparagraph shall be 15 November of the following wine year."</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 2 July 2003.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz Fischler</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="27">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="28">(3) OJ L 194, 31.7.2000, p. 45.</p>
+      <p n="29">(4) OJ L 90, 8.4.2003, p. 4.</p>
+    </body>
+  </text>
+</TEI.2>

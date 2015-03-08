@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31996D0191-en" n="31996D0191" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0191 English</title>
+        <title>96/191/EC: Council Decision of 26 February 1996 concerning the conclusion of the Convention on the protection of the Alps (Alpine Convention)</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0191:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0191:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">226</classCode>
+        <classCode scheme="eurovoc">2792</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">5845</classCode>
+        <classCode scheme="eurovoc">5873</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0191-en." lang="en">
+    <body>
+      <head n="1">96/191/EC: Council Decision of 26 February 1996 concerning the conclusion of the Convention on the protection of the Alps (Alpine Convention)</head>
+      <p n="2">COUNCIL DECISION of 26 February 1996 concerning the conclusion of the Convention on the protection of the Alps (Alpine Convention) (96/191/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 130s (1) in conjunction with Article 228 (2) and (3), first subparagraph, thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas the Commission has been involved, on behalf of the Community, in the negotiations aimed at the conclusion of the Convention on the protection of the Alps (Alpine Convention); whereas that Convention was signed on behalf of the Community on 7 November 1991;</p>
+      <p n="9">Whereas the conclusion of the Convention forms part of the involvement of the Community in the international activities on the protection of the environment recommended in the Council resolution of 16 December 1992 on the fifth Programme of Action by the European Communities on the Environment;</p>
+      <p n="10">Whereas the protection of the Alps is a major challenge to all Member States owing to the cross-frontier nature of the economic, social and ecological problems of the Alpine area;</p>
+      <p n="11">Whereas the Community should therefore approve the said Convention;</p>
+      <p n="12">Whereas, in order to permit the rapid entry into force of that Convention, it is necessary that the Member States which have signed the said Convention should complete as soon as possible their ratification, acceptance or approval procedures relating to the said Convention in order to enable the Community and those Member States to deposit their instruments of ratification, acceptance or approval,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Convention on the protection of the Alps (Alpine Convention) is hereby approved on behalf of the European Community.</p>
+      <p n="16">The text of the Convention is attached to this Decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is hereby authorized to designate the person(s) empowered to deposit, on behalf of the Community, the instrument of approval with the Republic of Austria in accordance with Article 12 of the Convention.</p>
+      <p n="19">Done at Brussels, 26 February 1996.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">W. LUCCHETTI</p>
+      <p n="23">(1) OJ No C 278, 5. 10. 1994, p. 8.</p>
+      <p n="24">(2) OJ No C 18, 23. 1. 1995, p. 426.</p>
+      <p n="25">(3) OJ No C 110, 2. 5. 1995, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

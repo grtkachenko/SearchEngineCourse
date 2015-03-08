@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31989L0384-en" n="31989L0384" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989L0384 English</title>
+        <title>Council Directive 89/384/EEC of 20 June 1989 establishing the detailed procedures for carrying out checks to ensure that the freezing point of untreated milk laid down in Annex A of Directive 85/397/EEC is complied with</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0384:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0384:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989L0384-en." lang="en">
+    <body>
+      <head n="1">Council Directive 89/384/EEC of 20 June 1989 establishing the detailed procedures for carrying out checks to ensure that the freezing point of untreated milk laid down in Annex A of Directive 85/397/EEC is complied with</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL DIRECTIVE</p>
+      <p n="4">of 20 June 1989</p>
+      <p n="5">establishing the detailed procedures for carrying out checks to ensure that the freezing point of untreated milk laid down in Annex A of Directive 85/397/EEC is complied with</p>
+      <p n="6">(89/384/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Directive 85/397/EEC of 5 August 1985 on health and animal health problems affecting intra-Community trade in heat-treated milk (1) as amended by Regulation (EEC) No 3768/85 (2), and in particular Article 11 (6) thereof,</p>
+      <p n="10">Having regard to the proposal from the Commission,</p>
+      <p n="11">Whereas Chapter VI, point D of Annex A of Directive 85/397/EEC indicates the standards which must be complied with when untreated milk enters the treatment establishment or collection or standardization centre;</p>
+      <p n="12">Whereas, in order to allow for differences in collection, provision should be made at what stage the check on the freezing point may be carried out to ensure that this requirement is applied uniformly,</p>
+      <p n="13">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Member States shall ensure that the checks provided for in Chapter VI, point D of Annex A to Directive 85/397/EEC, on the freezing point of untreated milk are carried out according to the following detailed procedures:</p>
+      <p n="16">1. the untreated milk of each holding must be checked regularly by random sampling.</p>
+      <p n="17">Where the milk of a single holding is delivered directly to a treatment establishment, these samples are to be taken when the milk is collected from the holding with precautions however being taken to prevent any fraud during transport either before unloading at the treatment establishment or when the milk is delivered there directly by the farmer.</p>
+      <p n="18">If the results of a check lead the competent authority to suspect that water is being added, it shall take an authentic sample on the holding. An authentic sample is a sample representing the milk of one completely supervised morning or evening milking beginning not less than eleven hours or more than thirteen hours after the previous milking.</p>
+      <p n="19">Where milk is delivered from several holdings, samples may only be taken when the untreated milk enters the treatment establishment or collection or standardization centre with spot checks however being carried out on the holdings.</p>
+      <p n="20">If the results of a check show that the standard laid down in Chapter VI, point D of Annex A to Directive 85/397/EEC has been exceeded, samples shall be taken at all holdings which took part in the collection of the untreated milk at issue.</p>
+      <p n="21">If necessary, the competent authority shall take authentic samples within the meaning of the third subparagraph of point 1;</p>
+      <p n="22">2. if the results of the check refute the suspicion of water being added, the untreated milk may be used for producing heat-treated milk.</p>
+      <p n="23">Article 2</p>
+      <p n="24">Member States shall bring into force the laws, regulations and administrative provisions necessary for them to comply with this Directive no later than 1 July 1990.</p>
+      <p n="25">Article 3</p>
+      <p n="26">This Directive is addressed to the Member States.</p>
+      <p n="27">Done at Luxembourg, 20 June 1989.</p>
+      <p n="28">For the Council</p>
+      <p n="29">The President</p>
+      <p n="30">C. ROMERO HERRERA</p>
+      <p n="31">(1) OJ No L 226, 24. 8. 1985, p. 13.</p>
+      <p n="32">(2) OJ No L 362, 31. 12. 1985, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

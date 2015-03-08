@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32000D0239-en" n="32000D0239" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0239 English</title>
+        <title>2000/239/EC: Council Decision of 13 March 2000 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Swiss Confederation, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Swiss Confederation</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0239:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0239:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">4324</classCode>
+        <classCode scheme="eurovoc">666</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0239-en." lang="en">
+    <body>
+      <head n="1">2000/239/EC: Council Decision of 13 March 2000 concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Swiss Confederation, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Swiss Confederation</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 13 March 2000</p>
+      <p n="4">concerning the conclusion of an Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Swiss Confederation, of the other part, on Protocol 2 to the Agreement between the European Economic Community and the Swiss Confederation</p>
+      <p n="5">(2000/239/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133, in conjunction with the first sentence of Article 300(2) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) An Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Swiss Confederation, of the other part, concerning Protocol 2 to the Agreement between the European Economic Community and the Swiss Confederation(1), has been negotiated on a reciprocal basis in order to improve the trading arrangements and solve certain related problems.</p>
+      <p n="11">(2) The measures necessary for the implementation of this Decision should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(2).</p>
+      <p n="12">(3) The Agreement should be approved,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Agreement in the form of an Exchange of Letters between the European Community, of the one part, and the Swiss Confederation, of the other part, concerning Protocol 2 to the Agreement between the European Economic Community and the Swiss Confederation is hereby approved on behalf of the Community.</p>
+      <p n="16">The text of the Agreement is attached to this Decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The measures necessary for the implementation of this Decision shall be adopted in accordance with the management procedure referred to in Article 3(2).</p>
+      <p n="19">Article 3</p>
+      <p n="20">1. The Commission shall be assisted by the management committee on horizontal questions concerning trade in processed agricultural products not listed in Annex II referred to in Article 15 of Council Regulation (EC) No 3448/93(3).</p>
+      <p n="21">2. Where reference is made to this paragraph, Articles 4 and 7 of Decision 1999/468/EC shall apply.</p>
+      <p n="22">The period referred to in Article 4(3) of Decision 1999/468/EC shall be set at one month.</p>
+      <p n="23">3. The Committee shall adopt its rules of procedure.</p>
+      <p n="24">Article 4</p>
+      <p n="25">The President of the Council is hereby authorised to designate the person empowered to sign the Agreement in order to bind the Community.</p>
+      <p n="26">Article 5</p>
+      <p n="27">This Decision shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="28">Done at Brussels, 13 March 2000.</p>
+      <p n="29">For the Council</p>
+      <p n="30">The President</p>
+      <p n="31">J. Pina Moura</p>
+      <p n="32">(1) OJ L 300, 31.12.1972, p. 189.</p>
+      <p n="33">(2) OJ L 184, 17.7.1999, p. 23.</p>
+      <p n="34">(3) OJ L 318, 20.12.1993, p. 18. Regulation as last amended by Regulation (EC) No 2491/98 (OJ L 309, 19.11.1998, p. 28).</p>
+    </body>
+  </text>
+</TEI.2>

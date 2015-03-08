@@ -1,0 +1,145 @@
+<TEI.2 id="jrc32004R0026-en" n="32004R0026" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0026 English</title>
+        <title>Commission Regulation (EC) No 26/2004 of 30 December 2003 on the Community fishing fleet register</title>
+      </titleStmt>
+      <extent>110 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0026:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0026:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1035</classCode>
+        <classCode scheme="eurovoc">2455</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">6030</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0026-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 26/2004 of 30 December 2003 on the Community fishing fleet register</head>
+      <p n="2">Commission Regulation (EC) No 26/2004</p>
+      <p n="3">of 30 December 2003</p>
+      <p n="4">on the Community fishing fleet register</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2371/2002 of 20 December 2002 on the conservation and sustainable exploitation of fisheries resources under the common fisheries policy(1), and in particular Article 15(3) and (4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) For the application of the rules of the common fisheries policy, in accordance with Article 15 of Regulation (EC) No 2371/2002, each Member State is required to keep a register of vessels flying its flag and the Commission is required to set up a Community fishing fleet register on the basis of the national registers.</p>
+      <p n="10">(2) If it is to be an effective and comprehensive tool for implementing the rules of the common fisheries policy, the Community fishing fleet register should include all Community fishing vessels, including those used exclusively in aquaculture.</p>
+      <p n="11">(3) In order to have available the information essential for the management of the capacity of fishing fleets and their activity, the information on vessel characteristics which has to appear in the register for each Member State in accordance with Article 15(1) of Regulation (EC) No 2371/2002 should be identified.</p>
+      <p n="12">(4) The definition of the procedures for forwarding to the Commission the data appearing in the register of each Member State is needed to ensure a regular updating of the Community fishing fleet register.</p>
+      <p n="13">(5) The characteristics and external markings recorded in the register kept by each Member State should be specified in accordance with Council Regulation (EEC) 2930/86 of 22 September 1986 defining characteristics for fishing vessels(2), as amended by Regulation (EC) No 3259/94(3), and with Commission Regulation (EEC) No 1381/87 of 20 May 1987 establishing detailed rules concerning the marking and documentation of fishing vessels(4).</p>
+      <p n="14">(6) The Member States should constantly monitor the quality of the information given in their national registers and ensure that it is checked by the Commission as soon as it is received.</p>
+      <p n="15">(7) In order to monitor the movements of vessels between Member States and to ensure an unequivocal link between the information contained in the Community fishing fleet register and the data from other information systems relating to fishing activities, it is important to allocate a unique identification number to each Community fishing vessel, which under no circumstances may be reassigned or altered.</p>
+      <p n="16">(8) To ensure the effective application of this Regulation and to simplify data management, the communication tools to be used between Member States and the Commission should be defined.</p>
+      <p n="17">(9) It should be stipulated that the Commission is to ensure access by the Member States to all the information in the Community fishing fleet register in compliance with the provisions relating to the protection of personal data set out in Regulation (EC) No 45/2001 of the European Parliament and of the Council(5).</p>
+      <p n="18">(10) In the light of the changes made by Article 15 of Regulation (EC) No 2371/2002 to the method for managing fishing vessel registers, Commission Regulation (EC) No 2090/98 of 30 September 1998 concerning the fishing vessel register of the Community(6), as amended by Regulation (EC) No 839/2002(7), should be repealed.</p>
+      <p n="19">(11) The measures provided for in this Regulation are in accordance with the opinion of Committee for Fisheries and Aquaculture,</p>
+      <p n="20">HAS ADOPTED THIS REGULATION:</p>
+      <p n="21">Article 1</p>
+      <p n="22">Subject</p>
+      <p n="23">1. This Regulation:</p>
+      <p n="24">(a) determines the minimum information on vessel characteristics and activity which must figure in the register which each Member State keeps of the fishing vessels flying its flag (hereinafter called "the national register");</p>
+      <p n="25">(b) lays down the obligations of Member States regarding the collection, validation and transmission of the data from their national register to the Commission;</p>
+      <p n="26">(c) lays down the obligations of the Commission regarding the management of the Community fishing fleet register (hereinafter called "the Community register").</p>
+      <p n="27">2. The data from the Community register shall serve as reference for the application of the rules of the common fisheries policy.</p>
+      <p n="28">Article 2</p>
+      <p n="29">Scope</p>
+      <p n="30">This Regulation shall apply to all Community fishing vessels, including those used exclusively in aquaculture as defined in point 2.2 of Annex III to Council Regulation (EC) No 2792/1999(8).</p>
+      <p n="31">Article 3</p>
+      <p n="32">Definitions</p>
+      <p n="33">For the purposes of this Regulation the following definitions shall apply:</p>
+      <p n="34">1. "event": any entry to or exit from the fleet of a vessel or registration or change in one of its characteristics as defined in Annex I;</p>
+      <p n="35">2. "transmission": digital transfer of one or more events on the telecommunications network set up between the national administrations and the Commission;</p>
+      <p n="36">3. "snapshot": all the events recorded for the vessels comprising the fleet of a Member State between the date of the census referred to in Annex I and the date of transmission;</p>
+      <p n="37">4. "personal data": the names and addresses of the agents and owners of fishing vessels.</p>
+      <p n="38">Article 4</p>
+      <p n="39">Data collection</p>
+      <p n="40">Each Member State shall collect without delay the data referred to in Annex II for the Community fishing vessels flying its flag.</p>
+      <p n="41">Article 5</p>
+      <p n="42">Recording in the national register</p>
+      <p n="43">Each Member State shall validate the data collected in accordance with Article 4 and record them in its national register.</p>
+      <p n="44">Article 6</p>
+      <p n="45">Periodic transmission</p>
+      <p n="46">Each Member State shall transmit a snapshot to the Commission on the first working day of March, June, September and December each year.</p>
+      <p n="47">Article 7</p>
+      <p n="48">Recording in the Community register</p>
+      <p n="49">1. On receiving the snapshot, the Commission shall check the data it contains and enter them in the Community register. If no error is detected this snapshot shall replace the previous one.</p>
+      <p n="50">If errors are detected, the Commission shall send its observations to the Member State which shall make the necessary corrections in its national register and send the Commission a new snapshot within 10 working days of the Commission's notification.</p>
+      <p n="51">2. After receiving and checking the new snapshot, the Commission shall register or reject it if the snapshot contains errors not compatible with the correct implementation of the common fisheries policy.</p>
+      <p n="52">If the snapshot accepted still contains errors, they shall be notified to the Member State which shall undertake to correct them forthwith in accordance with the procedure laid down in Article 8.</p>
+      <p n="53">3. The Community register shall be available to the Member States, in accordance with the rules established by Article 11, some 20 working days after the snapshot's periodic transmission date.</p>
+      <p n="54">Article 8</p>
+      <p n="55">Interim transmission</p>
+      <p n="56">1. Where the implementation of special measures under the common fisheries policy so requires, a Member State, either of its own accord, or at the Commission's request, shall transmit without delay from its national register the updated data for the vessels concerned.</p>
+      <p n="57">2. The data transmitted must contain for each vessel particulars of all the events from the date of its entry to the fleet up to the transmission date.</p>
+      <p n="58">3. On receiving the snapshot, the Commission shall check the data and substitute them in the Community register.</p>
+      <p n="59">Article 9</p>
+      <p n="60">Communication tools between the Commission and the Member States</p>
+      <p n="61">1. The transmission of data between the Commission and the Member States shall be managed by means of an IT application developed by the Commission.</p>
+      <p n="62">2. The Community register and the data concerning the checks and the monitoring of transmissions shall be accessible to the Member States on the Internet.</p>
+      <p n="63">Article 10</p>
+      <p n="64">"CFR" identification number</p>
+      <p n="65">The CFR number referred to in Annex I shall identify fishing vessels in a unique way. It shall be included in all transmissions of data between the Member States and the Commission concerning the characteristics and activities of fishing vessels.</p>
+      <p n="66">The number shall be assigned definitively when a vessel is first registered in a national register. It may not be altered or reassigned to another vessel.</p>
+      <p n="67">Article 11</p>
+      <p n="68">Access</p>
+      <p n="69">1. The Member States shall have access to all the information contained in the Community register on condition that they comply with the provisions relating to the protection of personal data arising from Regulation (EC) No 45/2001, and in particular Article 8 thereof.</p>
+      <p n="70">2. The public shall have access to a version of the Community register which does not contain personal data.</p>
+      <p n="71">3. Requests for access to personal data in the Community register shall be dealt with by the Commission in accordance with the provisions of Regulation (EC) No 45/2001.</p>
+      <p n="72">Article 12</p>
+      <p n="73">Repeal</p>
+      <p n="74">Commission Regulation (EC) No 2090/98 is hereby repealed.</p>
+      <p n="75">Article 13</p>
+      <p n="76">Entry into force</p>
+      <p n="77">This Regulation shall enter into force on 1 September 2004.</p>
+      <p n="78">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="79">Done at Brussels, 30 December 2003.</p>
+      <p n="80">For the Commission</p>
+      <p n="81">Franz Fischler</p>
+      <p n="82">Member of the Commission</p>
+      <p n="83">(1) OJ L 358, 31.12.2002, p. 59.</p>
+      <p n="84">(2) OJ L 274, 25.9.1986, p. 1.</p>
+      <p n="85">(3) OJ L 339, 29.12.1994, p. 11.</p>
+      <p n="86">(4) OJ L 132, 21.5.1987, p. 9.</p>
+      <p n="87">(5) OJ L 8, 12.1.2001, p. 1.</p>
+      <p n="88">(6) OJ L 266, 1.10.1998, p. 27.</p>
+      <p n="89">(7) OJ L 134, 22.5.2002, p. 5.</p>
+      <p n="90">(8) OJ L 337, 30.12.1999, p. 10.</p>
+      <p n="91">ANNEX I</p>
+      <p n="92">DEFINITION OF DATA AND DESCRIPTION OF A REGISTRATION</p>
+      <p n="93">&gt;TABLE&gt;</p>
+      <p n="94">Table 1 Code for type of event</p>
+      <p n="95">&gt;TABLE&gt;</p>
+      <p n="96">Table 2 Date of census fixed by country</p>
+      <p n="97">&gt;TABLE&gt;</p>
+      <p n="98">Table 3 Code for fishing gear</p>
+      <p n="99">&gt;TABLE&gt;</p>
+      <p n="100">Table 4 Code for hull material</p>
+      <p n="101">&gt;TABLE&gt;</p>
+      <p n="102">Table 5 Segmentation codes</p>
+      <p n="103">&gt;TABLE&gt;</p>
+      <p n="104">Table 6 Codes for types of export</p>
+      <p n="105">&gt;TABLE&gt;</p>
+      <p n="106">Table 7 Codes for public aid</p>
+      <p n="107">&gt;TABLE&gt;</p>
+      <p n="108">ANNEX II</p>
+      <p n="109">DATA TO BE PROVIDED DEPENDING ON THE TYPE OF EVENT DEFINED IN ANNEX I, TABLE I</p>
+      <p n="110">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

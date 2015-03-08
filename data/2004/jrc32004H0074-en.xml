@@ -1,0 +1,93 @@
+<TEI.2 id="jrc32004H0074-en" n="32004H0074" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004H0074 English</title>
+        <title>Commission Recommendation of 9 January 2004 concerning a coordinated Community monitoring programme for 2004 to ensure compliance with maximum levels of pesticide residues in and on cereals and certain other products of plant origin (Text with EEA relevance) (notified under document number C(2003) 5400)</title>
+      </titleStmt>
+      <extent>57 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004H0074:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004H0074:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1595</classCode>
+        <classCode scheme="eurovoc">191</classCode>
+        <classCode scheme="eurovoc">2723</classCode>
+        <classCode scheme="eurovoc">3469</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004H0074-en." lang="en">
+    <body>
+      <head n="1">Commission Recommendation of 9 January 2004 concerning a coordinated Community monitoring programme for 2004 to ensure compliance with maximum levels of pesticide residues in and on cereals and certain other products of plant origin (Text with EEA relevance) (notified under document number C(2003) 5400)</head>
+      <p n="2">Commission Recommendation</p>
+      <p n="3">of 9 January 2004</p>
+      <p n="4">concerning a coordinated Community monitoring programme for 2004 to ensure compliance with maximum levels of pesticide residues in and on cereals and certain other products of plant origin</p>
+      <p n="5">(notified under document number C(2003) 5400)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/74/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 86/362/EEC of 24 July 1986 on the fixing of maximum levels for pesticide residues in and on cereals(1), as last amended by Commission Directive 2003/113/EC(2), and in particular Article 7(2)(b) thereof,</p>
+      <p n="11">Having regard to Council Directive 90/642/EEC of 27 November 1990 on the fixing of maximum levels for pesticide residues in and on certain products of plant origin, including fruit and vegetables(3), as last amended by Directive 2003/113/EC, and in particular Article 4(2)(b) thereof,</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) The Commission should progressively work towards a system which would permit the estimation of dietary exposure to actual pesticide. To make realistic estimations possible, data on the monitoring of pesticide residues should be available in a number of food products which constitute major components of the European diet. It is generally recognised that major components of the European diet are constituted by some 20 to 30 food products. In view of the resources available at national level for pesticide residue monitoring, Member States are only able to analyse samples of eight products each year within a coordinated monitoring programme. Pesticide uses show changes within the timescale of the three-year period. Each pesticide should thus generally be monitored in 20 to 30 food products over a series of three-year cycles.</p>
+      <p n="14">(2) Residues of all the pesticides covered by this Recommendation should be monitored in 2004, as this will allow use of these data for the estimation of actual dietary exposure to them.</p>
+      <p n="15">A systematic statistical approach to numbers of samples to be taken in each coordinated monitoring exercise is necessary. Such an approach has been set out by the Commission of the Codex Alimentarius(4). Based on a binomial probability distribution it can be calculated that examination of 613 samples gives a confidence of more than 99 % detecting one sample containing pesticide residues above the limit of determination (LOD) where less than 1 % of products of plant origin contain residues above the LOD. Collection of these samples should be apportioned between Member States on the basis of population and consumer numbers, with a minimum of 12 samples per product and per year.</p>
+      <p n="16">(3) A new guideline concerning quality control procedures for pesticide residue analysis has been published by the Commission(5). It is agreed that these guidelines should be implemented as far as possible by the analytical laboratories of the Member States and should be reviewed continuously in the light of experience gained in the monitoring programmes.</p>
+      <p n="17">(4) Article 4(2)(a) of Directive 90/642/EEC and Article 7(2)(a) of Directive 86/362/EEC require Member States to specify the criteria applied in drawing up their national inspection programmes. Such information should include: (i) the criteria applied in determining the numbers of samples to be taken and analyses to be carried out, the reporting levels applied and the criteria by which the reporting levels have been fixed; (ii) details of accreditation under Council Directive 93/99/EEC of 29 October 1993 on the subject of additional measures concerning the official control of foodstuffs(6) of the laboratories carrying out analyses; and (iii) the number and type of infringements and the action taken.</p>
+      <p n="18">(5) Information on the results of monitoring programmes is particularly appropriate for treatment, storage and transmission by electronic/informatic methods. Formats have been developed for supply of data by e-mail from the Member States to the Commission. Member States should therefore be able to send their reports to the Commission in the standard format. The further development of such a standard format is most effectively undertaken by the development of guidelines by the Commission.</p>
+      <p n="19">(6) The measures provided for in this recommendation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="20">HEREBY RECOMMENDS:</p>
+      <p n="21">1. Member States are invited to take and analyse samples for the product/pesticide residue combinations set out in Annex I, on the basis of the number of samples of each product allocated to them in Annex II, reflecting, as appropriate, the national, Community and third country share of the Member State's market.</p>
+      <p n="22">Preferably for pesticides posing an acute risk, e.g. OP-esters, endosulfan and N-methylcarbamates, selected samples of the products: apples, tomatoes, lettuce, leek and head cabbage should also be subjected to individual analysis of the individual units in the second laboratory sample in case such pesticides are detected and particularly if it is the produce of a single producer. The number of units should be in line with Commission Directive 2002/63/EC(7).</p>
+      <p n="23">Two samples should be taken. If the first laboratory sample contains a detectable residue of a targeted pesticide, the units of the second sample should be analysed individually.</p>
+      <p n="24">2. Member States are invited to report the results of the analysis of samples tested for the product/pesticide residue combinations set out in Annex I by 31 August 2005 at the latest, indicating:</p>
+      <p n="25">(a) the analytical methods used and reporting levels achieved, in accordance with the quality control procedures set out in the quality control procedures for pesticide residue analysis;</p>
+      <p n="26">(b) the number and type of infringements and the action taken.</p>
+      <p n="27">The report should be produced in a format, including the electronic format, conforming to the guidance(8) to the Member States with regard to implementation of Commission recommendations concerning coordinated Community monitoring programmes.</p>
+      <p n="28">3. Member States are invited to send to the Commission and to all other Member States, by 31 August 2005 at the latest, all the information as required by Article 7(3) of Directive 86/362/EEC and Article 4(3) of Directive 90/642/EEC concerning the 2004 monitoring exercise to ensure, at least by check sampling, compliance with maximum pesticide residue levels including:</p>
+      <p n="29">(a) the results of their national programmes concerning pesticide residues;</p>
+      <p n="30">(b) information on their laboratories' quality control procedures and, in particular, information concerning aspects of the guidelines concerning quality control procedures for pesticide residue analysis which they have not been able to apply or have had difficulty in applying;</p>
+      <p n="31">(c) information on accreditation in accordance with the provisions of Article 3 of Directive 93/99/EEC (including type of accreditation, accreditation body and copy of accreditation certificate) of the laboratories carrying out the analyses;</p>
+      <p n="32">(d) information about the proficiency tests and ring tests in which the laboratory has participated.</p>
+      <p n="33">4. Member States are invited to send to the Commission, by 30 September 2004 at the latest, their intended national programme for monitoring maximum pesticide residue levels fixed by Directives 90/642/EEC and 86/362/EEC for the year 2005, including information on:</p>
+      <p n="34">(a) the criteria applied in determining the number of samples to be taken and analyses to be carried out;</p>
+      <p n="35">(b) the reporting levels applied and the criteria by which the reporting levels have been fixed; and</p>
+      <p n="36">(c) details of accreditation, under Directive 93/99/EEC of the laboratories carrying out analyses.</p>
+      <p n="37">Done at Brussels, 9 January 2004.</p>
+      <p n="38">For the Commission</p>
+      <p n="39">David Byrne</p>
+      <p n="40">Member of the Commission</p>
+      <p n="41">(1) OJ L 221, 7.8.1986, p. 37.</p>
+      <p n="42">(2) OJ L 324, 11.12.2003, p. 24.</p>
+      <p n="43">(3) OJ L 350, 14.12.1990, p. 71.</p>
+      <p n="44">(4) Codex Alimentarius, pesticide residues in foodstuffs, Rome 1994, ISBN 92-5-203271-1; Vol. 2, page 372.</p>
+      <p n="45">(5) Document Number SANCO/10476/2003, http://europa.eu.int/comm/food/fs/ ph_ps/pest/index_en.htm</p>
+      <p n="46">(6) OJ L 290, 24.11.1993, p. 14.</p>
+      <p n="47">(7) OJ L 187, 16.7.2002, p. 30.</p>
+      <p n="48">(8) Presented to and taken note of in the SCFCAH every year.</p>
+      <p n="49">ANNEX I</p>
+      <p n="50">Pesticide/product combinations to be monitored</p>
+      <p n="51">&gt;TABLE&gt;</p>
+      <p n="52">(a) Pears, bananas, beans (fresh or frozen), potatoes, carrots, oranges/mandarines, peaches/nectarins, spinach (fresh or frozen).</p>
+      <p n="53">(b) Cauliflower, peppers, wheat, aubergines, rice, grapes, cucumber, peas (fresh/frozen, without pod).</p>
+      <p n="54">(c) Apples, tomatoes, lettuce, strawberries, leek, orange juice, head cabbage, rye/oats.</p>
+      <p n="55">ANNEX II</p>
+      <p n="56">Number of samples of each product to be taken by each Member State</p>
+      <p n="57">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

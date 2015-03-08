@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32001D0352-en" n="32001D0352" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0352 English</title>
+        <title>2001/352/CFSP: Council Decision of 9 April 2001 concerning the conclusion of the Agreement between the European Union and the Federal Republic of Yugoslavia (FRY) on the activities of the European Union Monitoring Mission (EUMM) in the FRY</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0352:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0352:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">4060</classCode>
+        <classCode scheme="eurovoc">5744</classCode>
+        <classCode scheme="eurovoc">5767</classCode>
+        <classCode scheme="eurovoc">5931</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0352-en." lang="en">
+    <body>
+      <head n="1">2001/352/CFSP: Council Decision of 9 April 2001 concerning the conclusion of the Agreement between the European Union and the Federal Republic of Yugoslavia (FRY) on the activities of the European Union Monitoring Mission (EUMM) in the FRY</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 9 April 2001</p>
+      <p n="4">concerning the conclusion of the Agreement between the European Union and the Federal Republic of Yugoslavia (FRY) on the activities of the European Union Monitoring Mission (EUMM) in the FRY</p>
+      <p n="5">(2001/352/CFSP)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty on European Union and in particular Article 24 thereof,</p>
+      <p n="8">Having regard to the recommendation from the Presidency,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) On 22 December 2000, the Council adopted Joint Action 2000/811/CFSP on the European Union Monitoring Mission(1).</p>
+      <p n="11">(2) Article 6 of that Joint Action provides that the detailed rules governing the EUMM operations in the areas of its responsibilities are to be laid down in arrangements to be concluded in accordance with the procedure laid down in Article 24 of the Treaty.</p>
+      <p n="12">(3) Following the Council Decision of 12 March 2001 authorising the Presidency to open negotiations, the Presidency negotiated an agreement with the FRY on the activities of the EUMM.</p>
+      <p n="13">(4) That agreement should be approved,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Agreement between the European Union and the Federal Republic of Yugoslavia on the activities of the European Union Monitoring Mission (EUMM) in the Federal Republic of Yugoslavia is hereby approved on behalf of the European Union.</p>
+      <p n="17">The text of the Agreement is attached to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The President of the Council is hereby authorised to designate the person empowered to sign the Agreement in order to bind the European Union.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision shall be published in the Official Journal.</p>
+      <p n="22">It shall take effect on the day of its publication.</p>
+      <p n="23">Done at Luxembourg, 9 April 2001.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">A. Lindh</p>
+      <p n="27">(1) OJ L 328, 31.12.2000, p. 53.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31998D0486-en" n="31998D0486" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0486 English</title>
+        <title>98/486/EC: Council Decision of 29 July 1998 concerning the approval of a Memorandum of Understanding between the European Community and the Dominican Republic on import protection for milk powder in the Dominican Republic</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0486:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0486:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">1571</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">3415</classCode>
+        <classCode scheme="eurovoc">4380</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0486-en." lang="en">
+    <body>
+      <head n="1">98/486/EC: Council Decision of 29 July 1998 concerning the approval of a Memorandum of Understanding between the European Community and the Dominican Republic on import protection for milk powder in the Dominican Republic</head>
+      <p n="2">COUNCIL DECISION of 29 July 1998 concerning the approval of a Memorandum of Understanding between the European Community and the Dominican Republic on import protection for milk powder in the Dominican Republic (98/486/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 in conjunction with Article 228(2) first sentence thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas the Dominican Republic has requested a rectification of its schedule under the Marrakech Agreement establishing the World Trade Organisation for eight tariff items;</p>
+      <p n="7">Whereas only one of these items, milk powder, is of economic interest to the Community;</p>
+      <p n="8">Whereas the Dominican Republic has offered a tariff quota of 32 000 tonnes of which 70 % would be reserved for the Community;</p>
+      <p n="9">Whereas the Community will manage its share of the tariff quota according to a mechanism of export licences as established by Community regulations,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Memorandum of Understanding between the European Community and the Dominican Republic on import protection for milk powder in the Dominican Republic is hereby approved on behalf of the Community.</p>
+      <p n="13">The text of the Memorandum of Understanding is attached to this Decision.</p>
+      <p n="14">Article 2</p>
+      <p n="15">The President of the Council is hereby authorised to designate the person empowered to sign the Memorandum of Understanding in order to bind the Community.</p>
+      <p n="16">Article 3</p>
+      <p n="17">The Commission shall, in accordance with the procedure laid down in Article 30 of Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organisation of the market in milk and milk products (1), adopt detailed rules for the implementation of paragraph 3 of the Memorandum of Understanding as referred to in Article 1.</p>
+      <p n="18">Article 4</p>
+      <p n="19">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="20">Done at Brussels, 29 July 1998.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">W. SCHÜSSEL</p>
+      <p n="24">(1) OJ L 148, 28. 6. 1968, p. 13. Regulation as last amended by Regulation (EC) No 1587/96. (OJ L 206, 16. 8. 1996, p. 21).</p>
+    </body>
+  </text>
+</TEI.2>

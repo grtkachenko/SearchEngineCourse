@@ -1,0 +1,76 @@
+<TEI.2 id="jrc32003R0567-en" n="32003R0567" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0567 English</title>
+        <title>Commission Regulation (EC) No 567/2003 of 28 March 2003 correcting the Danish, English, Finnish, German, Greek, Italian, Portuguese and Spanish versions of Regulation (EC) No 445/2002 laying down detailed rules for the application of Council Regulation (EC) No 1257/1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF)</title>
+      </titleStmt>
+      <extent>39 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0567:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0567:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1542</classCode>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">889</classCode>
+        <classCode scheme="eurovoc">976</classCode>
+        <classCode scheme="eurovoc">979</classCode>
+        <classCode scheme="eurovoc">980</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0567-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 567/2003 of 28 March 2003 correcting the Danish, English, Finnish, German, Greek, Italian, Portuguese and Spanish versions of Regulation (EC) No 445/2002 laying down detailed rules for the application of Council Regulation (EC) No 1257/1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF)</head>
+      <p n="2">Commission Regulation (EC) No 567/2003</p>
+      <p n="3">of 28 March 2003</p>
+      <p n="4">correcting the Danish, English, Finnish, German, Greek, Italian, Portuguese and Spanish versions of Regulation (EC) No 445/2002 laying down detailed rules for the application of Council Regulation (EC) No 1257/1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF)</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1257/1999 of 17 May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations(1), and in particular Articles 34, 45 and 50 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The language Danish, English, Finnish, German, Greek, Italian, Portuguese and Spanish versions of Commission Regulation (EC) No 445/2002(2) contain a number of errors. Those language versions must therefore be corrected.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Committee on Agricultural Structures and Rural Development,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Regulation (EC) No 445/2002 is corrected as follows:</p>
+      <p n="14">1. concerns only the German version;</p>
+      <p n="15">2. concerns only the German version;</p>
+      <p n="16">3. Article 3(2) is replaced by the following:</p>
+      <p n="17">"2. Article 4(2) shall also apply to investments made by young farmers within five years of setting-up."</p>
+      <p n="18">4. only concerns the Greek version;</p>
+      <p n="19">5. only concerns the Danish version;</p>
+      <p n="20">6. only concerns the Italian version;</p>
+      <p n="21">7. only concerns the Portuguese version;</p>
+      <p n="22">8. only concerns the Spanish version;</p>
+      <p n="23">9. only concerns the German version;</p>
+      <p n="24">10. only concerns the Spanish version;</p>
+      <p n="25">11. only concerns the Spanish version;</p>
+      <p n="26">12. the introductory phrase of Article 52(4) is replaced by the following:</p>
+      <p n="27">"4. Paying agencies may declare to the EAGGF Guarantee Section the amount corresponding to the Community part-financing."</p>
+      <p n="28">13. concerns only the Finnish version;</p>
+      <p n="29">14. concerns only the Spanish version.</p>
+      <p n="30">Article 2</p>
+      <p n="31">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="32">It shall apply from the date of entry into force of Regulation (EC) No 445/2002.</p>
+      <p n="33">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="34">Done at Brussels, 28 March 2003.</p>
+      <p n="35">For the Commission</p>
+      <p n="36">Franz Fischler</p>
+      <p n="37">Member of the Commission</p>
+      <p n="38">(1) OJ L 160, 26.6.1999, p. 80.</p>
+      <p n="39">(2) OJ L 74, 15.3.2002, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

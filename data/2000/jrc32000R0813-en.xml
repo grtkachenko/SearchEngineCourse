@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32000R0813-en" n="32000R0813" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R0813 English</title>
+        <title>Council Regulation (EC) No 813/2000 of 17 April 2000 supplementing the Annex to Commission Regulation (EC) No 1107/96 on the registration of geographical indications and designations of origin under the procedure laid down in Article 17 of Regulation (EEC) No 2081/92</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0813:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0813:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1519</classCode>
+        <classCode scheme="eurovoc">1686</classCode>
+        <classCode scheme="eurovoc">3173</classCode>
+        <classCode scheme="eurovoc">5573</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R0813-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 813/2000 of 17 April 2000 supplementing the Annex to Commission Regulation (EC) No 1107/96 on the registration of geographical indications and designations of origin under the procedure laid down in Article 17 of Regulation (EEC) No 2081/92</head>
+      <p n="2">Council Regulation (EC) No 813/2000</p>
+      <p n="3">of 17 April 2000</p>
+      <p n="4">supplementing the Annex to Commission Regulation (EC) No 1107/96 on the registration of geographical indications and designations of origin under the procedure laid down in Article 17 of Regulation (EEC) No 2081/92</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 2081/92 of 14 July 1992 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs(1), and in particular Article 17(2) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Additional information was requested on certain names notified by the Member States under Article 17 of Regulation (EEC) No 2081/92 in order to ensure that they comply with Articles 2 and 4 of that Regulation. That additional information shows that the names do comply with those Articles. They should therefore be registered and added to the Annex to Commission Regulation (EC) No 1107/96(2).</p>
+      <p n="11">(2) The Committee provided for in Article 15 of Regulation (EEC) No 2081/92 has not given a favourable opinion,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The names in the Annex to this Regulation are hereby added to the Annex to Commission Regulation (EC) No 1107/96.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Luxembourg, 17 April 2000.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">L. Capoulas Santos</p>
+      <p n="22">(1) OJ L 208, 24.7.1992, p. 1. Regulation as last amended by Regulation (EC) No 1068/97 (OJ L 156, 13.6.1997, p. 10).</p>
+      <p n="23">(2) OJ L 148, 21.6.1996, p. 1. Regulation as last amended by Regulation (EC) No 1070/1999 (OJ L 130, 26.5.1999, p. 18).</p>
+      <p n="24">ANNEX</p>
+      <p n="25">"OTHER PRODUCTS LISTED IN ANNEX I TO THE TREATY</p>
+      <p n="26">Vinegars (other than wine vinegars)</p>
+      <p n="27">ITALY</p>
+      <p n="28">- Aceto balsamico tradizionale di Modena (PDO)</p>
+      <p n="29">- Aceto balsamico tradizionale di Reggio Emilia (PDO)"</p>
+    </body>
+  </text>
+</TEI.2>

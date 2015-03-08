@@ -1,0 +1,76 @@
+<TEI.2 id="jrc22001A0529_01-en" n="22001A0529(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22001A0529(01) English</title>
+      </titleStmt>
+      <extent>42 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22001A0529(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22001A0529(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1136</classCode>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">1603</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2525</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22001A0529_01-en." lang="en">
+    <body>
+      <p n="2">Agreement</p>
+      <p n="3">in the form of an Exchange of Letters between the European Community and the Argentine Republic pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 for the modification of concessions with respect to garlic provided for in Schedule CXL annexed to the GATT</p>
+      <p n="4">Letter No 1: Letter from the Community</p>
+      <p n="5">Brussels, 28 May 2001.</p>
+      <p n="6">Sir,</p>
+      <p n="7">Following negotiations between the European Community (EC) and the Argentine Republic under Article XXVIII of GATT 1994 for the modification of concessions with respect to garlic provided for in Schedule CXL annexed to the GATT, the EC agrees to the conclusions as outlined below and in the Annex.</p>
+      <p n="8">1. The EC establishes a tariff quota for garlic where the quota quantity is equal to 38370 tonnes and the in-quota tariff rate is equal to 9,6 %.</p>
+      <p n="9">The out-of-quota rate of duty is set at EUR 1200/t + 9,6 % ad valorem.</p>
+      <p n="10">2. The tariff quota is allocated among supplying countries as follows:</p>
+      <p n="11">- Argentina: 19147 t,</p>
+      <p n="12">- China: 13200 t,</p>
+      <p n="13">- Other countries: 6023 t.</p>
+      <p n="14">3. The tariff quota opens on 1 June each year and is managed through subdivision in four quarterly sub-quotas as set out in the Annex.</p>
+      <p n="15">4. The tariff quota is managed using the historical/newcomers system, the shares being 70 % for historical importers and 30 % for newcomers.</p>
+      <p n="16">This Agreement shall be approved by the Parties in accordance with their own procedures.</p>
+      <p n="17">The provisions of this Agreement shall be applicable from 1 June 2001.</p>
+      <p n="18">I should be grateful if you could confirm the agreement of your Government to the above.</p>
+      <p n="19">Please accept, Sir, the assurance of my highest consideration.</p>
+      <p n="20">On behalf of the European Community</p>
+      <p n="21">&gt;PIC FILE= "L_2001142EN.000802.EPS"&gt;</p>
+      <p n="22">ANNEX</p>
+      <p n="23">&gt;TABLE&gt;</p>
+      <p n="24">Letter No 2: Letter from the Argentine Republic</p>
+      <p n="25">Geneva, 28 May 2001.</p>
+      <p n="26">Sir,</p>
+      <p n="27">I have the honour to acknowledge receipt of your letter of today's date, worded as follows: "Following negotiations between the European Community (EC) and the Argentine Republic under Article XXVIII of GATT 1994 for the modification of concessions with respect to garlic provided for in Schedule CXL annexed to the GATT, the EC agrees to the conclusions as outlined below and in the Annex.</p>
+      <p n="28">1. The EC establishes a tariff quota for garlic where the quota quantity is equal to 38370 tonnes and the in-quota tariff rate is equal to 9,6 %.</p>
+      <p n="29">The out-of-quota rate of duty is set at EUR 1200/t + 9,6 % ad valorem.</p>
+      <p n="30">2. The tariff quota is allocated among supplying countries as follows:</p>
+      <p n="31">- Argentina: 19147 t,</p>
+      <p n="32">- China: 13200 t,</p>
+      <p n="33">- Other countries: 6023 t.</p>
+      <p n="34">3. The tariff quota opens on 1 June each year and is managed through subdivision in four quarterly sub-quotas as set out in the Annex.</p>
+      <p n="35">4. The tariff quota is managed using the historical/newcomers system, the shares being 70 % for historical importers and 30 % for newcomers.</p>
+      <p n="36">This Agreement shall be approved by the Parties in accordance with their own procedures.</p>
+      <p n="37">The provisions of this Agreement shall be applicable from 1 June 2001.</p>
+      <p n="38">I should be grateful if you could confirm the agreement of your Government to the above."</p>
+      <p n="39">I am able to confirm that my Government is in agreement with the contents of your letter.</p>
+      <p n="40">Please accept, Sir, the assurance of my highest consideration.</p>
+      <p n="41">For the Government of the Argentine Republic</p>
+      <p n="42">&gt;PIC FILE= "L_2001142EN.000901.EPS"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

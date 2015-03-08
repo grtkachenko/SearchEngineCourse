@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31992D0176-en" n="31992D0176" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992D0176 English</title>
+        <title>92/176/EEC: Commission Decision of 2 March 1992 concerning maps to be provided for use for the Animo network</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0176:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0176:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992D0176-en." lang="en">
+    <body>
+      <head n="1">92/176/EEC: Commission Decision of 2 March 1992 concerning maps to be provided for use for the Animo network</head>
+      <p n="2">COMMISSION DECISION of 2 March 1992 concerning maps to be provided for use for the Animo network (92/176/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning the veterinary and zootechnical checks applicable in intra-community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Directive 91/628/EEC (2), and in particular Article 20 (3) thereof,</p>
+      <p n="6">Whereas on 19 July 1991 the Commission adopted Decision 91/398/EEC on a computerized network linking veterinary authorities (Animo) (3) and on 21 February 1992, Decision 92/175/EEC establishing the list and identity of the units in the computerized network Animo (4);</p>
+      <p n="7">Whereas, in order to ensure the smooth operation of the computerized network (Animo) maps should be elaborated in order to locate the local units and the area they are covering, as well as to locate the border inspection posts;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">1. Each Member State will transmit to the Commission, before 1 May 1992, one or more maps in A4 or A3 size, with an indication of scale, of the local units in relation to the appropriate central unit, in order to identify the geographical location of the local units.</p>
+      <p n="12">2. On the basis of the information sent by the Member States in accordance with paragraph 1, the Commission shall transmit to the Member States, before 1 July 1992, a set of all the maps it has received.</p>
+      <p n="13">Article 2</p>
+      <p n="14">1. In order to obviate possible problems, each Member State will transmit to the Commission before 1 July 1992, a map in A4 or A3 size, with an indication of scale, of each local unit, with its code number.</p>
+      <p n="15">2. The Commission shall compile a set of all the maps it has received in accordance with paragraph 1. This set shall be made available to the Member States central authorities.</p>
+      <p n="16">Article 3</p>
+      <p n="17">1. Each Member State will transmit to the Commission before 1 May 1992, a map in A4 or A3 size with indication of scale, in order to identify the geographical location of border inspection posts.</p>
+      <p n="18">2. On the basis of the information sent by the Member States, in accordance with paragraph 1, the Commission shall transmit to the Member States before the 1 July 1992 a set of all the maps it has received.</p>
+      <p n="19">Article 4</p>
+      <p n="20">The set referred to in Article 1 (2), Article 2 (2) and Article 3 (2) will be updated by the Commission at regular intervals, particularly in the light of the information sent by the Member States concerning amendements made to the territory of the local units and any updating of the list of the units.</p>
+      <p n="21">Article 5</p>
+      <p n="22">This decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 2 March 1992.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Ray MAC SHARRY</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ No L 224, 18. 8. 1990, p. 29.</p>
+      <p n="28">(2) OJ No L 340, 11. 12. 1991, p. 17.</p>
+      <p n="29">(3) OJ No L 221, 9. 8. 1991, p. 30.</p>
+      <p n="30">(4) See page 1 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

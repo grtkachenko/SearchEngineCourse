@@ -1,0 +1,57 @@
+<TEI.2 id="jrc32004D0578-en" n="32004D0578" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0578 English</title>
+        <title>2004/578/EC: Council Decision of 29 April 2004 on the conclusion of the Framework Agreement between the European Community and the European Space Agency</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0578:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0578:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">2829</classCode>
+        <classCode scheme="eurovoc">4185</classCode>
+        <classCode scheme="eurovoc">5238</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0578-en." lang="en">
+    <body>
+      <head n="1">2004/578/EC: Council Decision of 29 April 2004 on the conclusion of the Framework Agreement between the European Community and the European Space Agency</head>
+      <p n="2">Council Decision of 29 April 2004 on the conclusion of the Framework Agreement between the European Community and the European Space Agency (2004/578/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 170, in conjunction with the first sentence of the first subparagraph of Article 300(2) and the first subparagraph of Article 300(3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="7">Whereas:</p>
+      <p n="8">(1) The Commission has negotiated on behalf of the Community an Agreement with the European Space Agency.</p>
+      <p n="9">(2) The Agreement was signed on behalf of the Community on 25 November 2003 subject to its possible conclusion at a later date.</p>
+      <p n="10">(3) This Agreement should be approved,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The Agreement between the European Community and the European Space Agency is hereby approved on behalf of the Community.</p>
+      <p n="14">The text of the Agreement is attached to this Decision.</p>
+      <p n="15">Article 2</p>
+      <p n="16">The President of the Council is hereby authorised to designate the person empowered to deposit on behalf of the Community the act of approval, as provided for in Article 12(1) of the Framework Agreement, in order to express the consent of the Community to be bound.</p>
+      <p n="17">Done at Luxembourg, 29 April 2004 .</p>
+      <p n="18">For the Council</p>
+      <p n="19">The President</p>
+      <p n="20">M. Mc Dowell</p>
+      <p n="21">(1) Opinion delivered on 20 April 2004 (not yet published in the Official Journal).</p>
+    </body>
+  </text>
+</TEI.2>

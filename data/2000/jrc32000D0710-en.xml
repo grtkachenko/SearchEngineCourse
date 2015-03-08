@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32000D0710-en" n="32000D0710" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0710 English</title>
+        <title>2000/710/EC: Council Decision of 7 November 2000 on the accession by the European Community to United Nations Economic Commission for Europe Regulation No 67 on the approval of special equipment for motor vehicles fuelled by liquefied petroleum gas</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0710:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0710:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">3709</classCode>
+        <classCode scheme="eurovoc">4654</classCode>
+        <classCode scheme="eurovoc">5262</classCode>
+        <classCode scheme="eurovoc">848</classCode>
+        <classCode scheme="eurovoc">909</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0710-en." lang="en">
+    <body>
+      <head n="1">2000/710/EC: Council Decision of 7 November 2000 on the accession by the European Community to United Nations Economic Commission for Europe Regulation No 67 on the approval of special equipment for motor vehicles fuelled by liquefied petroleum gas</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 7 November 2000</p>
+      <p n="4">on the accession by the European Community to United Nations Economic Commission for Europe Regulation No 67 on the approval of special equipment for motor vehicles fuelled by liquefied petroleum gas</p>
+      <p n="5">(2000/710/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Decision 97/836/EC of 27 November 1997 with a view to accession by the European Community to the Agreement of the United Nations Economic Commission for Europe concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions ("Revised 1958 Agreement")(1), and in particular Article 3(3) and the second indent of Article 4(2) thereof,</p>
+      <p n="9">Having regard to the proposal from the Commission,</p>
+      <p n="10">Having regard to the assent of the European Parliament(2),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The amended version of Regulation No 67 on the approval of special equipment for motor vehicles that are fuelled by liquefied petroleum gas will remove the technical barriers to the trade in motor vehicles between the Contracting Parties in respect of the special equipment fitted to such motor vehicles. The uniform requirements of that Regulation ensure a high level of safety and environmental protection.</p>
+      <p n="13">(2) The Contracting Parties have been notified of the amended version of Regulation No 67, which will enter into force, in all of the Contracting Parties which have not made known their opposition, on the date(s) specified therein in the form of a regulation annexed to the Revised 1958 Agreement.</p>
+      <p n="14">(3) Regulation No 67 should be incorporated into the approval system for vehicles and should thus supplement Community legislation currently in force,</p>
+      <p n="15">HAS DECIDED AS FOLLOWS:</p>
+      <p n="16">Sole Article</p>
+      <p n="17">The European Community shall accede to United Nations Economic Commission for Europe Regulation No 67 on the approval of special equipment for motor vehicles fuelled by liquefied petroleum gas, as amended and as notified to the Contracting Parties, if the measure or amendment enters into force on the date(s) specified therein.</p>
+      <p n="18">Done at Brussels, 7 November 2000.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">D. Voynet</p>
+      <p n="22">(1) OJ L 346, 17.12.1997, p. 78.</p>
+      <p n="23">(2) Assent of the European Parliament of 3 October 2000 (not yet published in the Official Journal).</p>
+    </body>
+  </text>
+</TEI.2>

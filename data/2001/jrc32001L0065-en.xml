@@ -1,0 +1,158 @@
+<TEI.2 id="jrc32001L0065-en" n="32001L0065" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001L0065 English</title>
+        <title>Directive 2001/65/EC of the European Parliament and of the Council of 27 September 2001 amending Directives 78/660/EEC, 83/349/EEC and 86/635/EEC as regards the valuation rules for the annual and consolidated accounts of certain types of companies as well as of banks and other financial institutions</title>
+      </titleStmt>
+      <extent>122 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001L0065:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001L0065:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1452</classCode>
+        <classCode scheme="eurovoc">2864</classCode>
+        <classCode scheme="eurovoc">4738</classCode>
+        <classCode scheme="eurovoc">4884</classCode>
+        <classCode scheme="eurovoc">62</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001L0065-en." lang="en">
+    <body>
+      <head n="1">Directive 2001/65/EC of the European Parliament and of the Council of 27 September 2001 amending Directives 78/660/EEC, 83/349/EEC and 86/635/EEC as regards the valuation rules for the annual and consolidated accounts of certain types of companies as well as of banks and other financial institutions</head>
+      <p n="2">Directive 2001/65/EC of the European Parliament and of the Council</p>
+      <p n="3">of 27 September 2001</p>
+      <p n="4">amending Directives 78/660/EEC, 83/349/EEC and 86/635/EEC as regards the valuation rules for the annual and consolidated accounts of certain types of companies as well as of banks and other financial institutions</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 44(2)(g),</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="9">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Article 32 of the Fourth Council Directive 78/660/EEC of 25 July 1978 on the annual accounts of certain types of companies(4) requires the items shown in the annual accounts to be valued on the basis of the principle of purchase price or production cost.</p>
+      <p n="12">(2) Article 33 of Directive 78/660/EEC authorises Member States to permit or require companies to revalue certain assets, to value certain assets at replacement cost or to apply other methods that take into account the effects of inflation on the items shown in the annual accounts.</p>
+      <p n="13">(3) Article 29 of the Seventh Council Directive 83/349/EEC of 13 June 1983 on consolidated accounts(5) requires assets and liabilities to be included in consolidated accounts to be valued in accordance with Articles 31 to 42 and Article 60 of Directive 78/660/EEC.</p>
+      <p n="14">(4) Article 1 of Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions(6) requires assets and liabilities to be valued in accordance with Articles 31 to 42 of Directive 78/660/EEC, except when Directive 86/635/EEC provides otherwise.</p>
+      <p n="15">(5) The annual and consolidated accounts of insurance undertakings are prepared in accordance with Council Directive 91/674/EEC of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings(7). The amendments to Directives 78/660/EEC and 83/349/EEC do not concern the provisions of Directive 91/674/EEC, but the Commission may bring forward similar proposals to amend that Directive after having consulted the relevant advisory committee.</p>
+      <p n="16">(6) The dynamic nature of international financial markets has resulted in the widespread use of not only traditional primary financial instruments such as shares and bonds, but also various forms of derivative financial instruments such as futures, options, forward contracts and swaps.</p>
+      <p n="17">(7) Leading accounting standard setters in the world are moving away from the historical cost model for the valuation of these financial instruments towards a model of fair value accounting.</p>
+      <p n="18">(8) The Communication of the Commission on Accounting harmonisation: a new strategy vis-à-vis international harmonisation called for the European Union to work to maintain consistency between Community accounting directives and developments in international accounting standard setting, in particular within the International Accounting Standards Committee (IASC).</p>
+      <p n="19">(9) In order to maintain such consistency between internationally recognised accounting standards and Directives 78/660/EEC, 83/349/EEC and 86/635/EEC, it is necessary to amend these Directives in order to allow for certain financial assets and liabilities to be valued at fair value. This will enable European companies to report in conformity with current international developments.</p>
+      <p n="20">(10) This amendment to Directives 78/660/EEC, 83/349/EEC and 86/635/EEC is in line with the Commission's communication to the European Parliament and the Council of 13 June 2000 on the EU financial reporting strategy which proposes the use of recognised international accounting standards for the preparation of consolidated financial statements by listed companies. The purpose of this amendment is to allow the application of the international accounting standard dealing with the recognition and measurement of financial instruments.</p>
+      <p n="21">(11) Comparability of financial information throughout the Community makes it necessary to require Member States to introduce a system of fair value accounting for certain financial instruments. Member States should permit the adoption of that system by all companies or any classes of companies subject to the Directives 78/660/EEC, 83/349/EEC and 86/635/EEC in respect of both the annual and consolidated accounts or in respect of consolidated accounts only. Further, Member States should be permitted to require the adoption of that system in respect of all companies or any classes of companies for both the annual and consolidated accounts or for the consolidated accounts only.</p>
+      <p n="22">(12) Fair value accounting should only be possible for those items where there is a well-developed international consensus that fair value accounting is appropriate. The current consensus is that fair value accounting should not be applied to all financial assets and liabilities, for instance not to most of those relating to the banking book.</p>
+      <p n="23">(13) The notes on the accounts should include certain information concerning financial instruments in the balance sheet, which have been measured at fair value. The annual report should give an indication of the company's risk management objectives and policies in relation to its use of financial instruments.</p>
+      <p n="24">(14) Derivative financial instruments can have a significant impact on the financial position of companies. Disclosures on derivative financial instruments and their fair value are considered appropriate even if the company does not use fair value accounting. In order to limit the administrative burden for small companies, Member States should be allowed to exempt small companies from this disclosure requirement.</p>
+      <p n="25">(15) Accounting for financial instruments is a fast evolving area of financial reporting which necessitates a review by the Commission based on the experiences of Member States with fair value accounting in practice,</p>
+      <p n="26">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="27">Article 1</p>
+      <p n="28">Directive 78/660/EEC is hereby amended as follows:</p>
+      <p n="29">1. the following section shall be inserted: "SECTION 7a</p>
+      <p n="30">Valuation at fair value</p>
+      <p n="31">Article 42a</p>
+      <p n="32">1. By way of derogation from Article 32 and subject to the conditions set out in paragraphs 2 to 4 of this Article, Member States shall permit or require in respect of all companies or any classes of companies valuation at fair value of financial instruments, including derivatives.</p>
+      <p n="33">Such permission or requirement may be restricted to consolidated accounts as defined in Directive 83/349/EEC.</p>
+      <p n="34">2. For the purpose of this Directive commodity-based contracts that give either contracting party the right to settle in cash or some other financial instrument shall be considered to be derivative financial instruments, except when:</p>
+      <p n="35">(a) they were entered into and continue to meet the company's expected purchase, sale or usage requirements;</p>
+      <p n="36">(b) they were designated for such purpose at their inception; and</p>
+      <p n="37">(c) they are expected to be settled by delivery of the commodity.</p>
+      <p n="38">3. Paragraph 1 shall apply only to liabilities that are:</p>
+      <p n="39">(a) held as part of a trading portfolio; or</p>
+      <p n="40">(b) derivative financial instruments.</p>
+      <p n="41">4. Valuation according to paragraph 1 shall not apply to:</p>
+      <p n="42">(a) to non-derivative financial instruments held to maturity;</p>
+      <p n="43">(b) to loans and receivables originated by the company and not held for trading purposes; and</p>
+      <p n="44">(c) to interests in subsidiaries, associated undertakings and joint ventures, equity instruments issued by the company, contracts for contingent consideration in a business combination as well as other financial instruments with such special characteristics that the instruments, according to what is generally accepted, should be accounted for differently from other financial instruments.</p>
+      <p n="45">5. By way of derogation from Article 32, Member States may in respect of any assets and liabilities which qualify as hedged items under a fair value hedge accounting system, or identified portions of such assets or liabilities, permit valuation at the specific amount required under that system.</p>
+      <p n="46">Article 42b</p>
+      <p n="47">1. The fair value referred to in Article 42a shall be determined by reference to:</p>
+      <p n="48">(a) a market value, for those financial instruments for which a reliable market can readily be identified. Where a market value is not readily identifiable for an instrument but can be identified for its components or for a similar instrument, the market value may be derived from that of its components or of the similar instrument; or</p>
+      <p n="49">(b) a value resulting from generally accepted valuation models and techniques, for those instruments for which a reliable market cannot be readily identified. Such valuation models and techniques shall ensure a reasonable approximation of the market value.</p>
+      <p n="50">2. Those financial instruments that cannot be measured reliably by any of the methods described in paragraph 1, shall be measured in accordance with Articles 34 to 42.</p>
+      <p n="51">Article 42c</p>
+      <p n="52">1. Notwithstanding Article 31(1)(c), where a financial instrument is valued in accordance with Article 42b, a change in the value shall be included in the profit and loss account. However, such a change shall be included directly in equity, in a fair value reserve, where:</p>
+      <p n="53">(a) the instrument accounted for is a hedging instrument under a system of hedge accounting that allows some or all of the change in value not to be shown in the profit and loss account; or</p>
+      <p n="54">(b) the change in value relates to an exchange difference arising on a monetary item that forms part of a company's net investment in a foreign entity.</p>
+      <p n="55">2. Member States may permit or require a change in the value on an available for sale financial asset, other than a derivative financial instrument, to be included directly in equity, in the fair value reserve.</p>
+      <p n="56">3. The fair value reserve shall be adjusted when amounts shown therein are no longer necessary for the implementation of paragraphs 1 and 2.</p>
+      <p n="57">Article 42d</p>
+      <p n="58">Where valuation at fair value of financial instruments has been applied, the notes on the accounts shall disclose:</p>
+      <p n="59">(a) the significant assumptions underlying the valuation models and techniques where fair values have been determined in accordance with Article 42b(1)(b);</p>
+      <p n="60">(b) per category of financial instruments, the fair value, the changes in value included directly in the profit and loss account as well as changes included in the fair value reserve;</p>
+      <p n="61">(c) for each class of derivative financial instruments, information about the extent and the nature of the instruments, including significant terms and conditions that may affect the amount, timing and certainty of future cash flows; and</p>
+      <p n="62">(d) a table showing movements in the fair value reserve during the financial year.";</p>
+      <p n="63">2. in Article 43(1):</p>
+      <p n="64">(a) the reference in point 10 to "Articles 31 and 34 to 42" shall be replaced by a reference to "Articles 31 and 34 to 42c", and</p>
+      <p n="65">(b) the following point shall be added: "14. Where valuation at fair value of financial instruments has not been applied in accordance with Section 7a:</p>
+      <p n="66">(a) for each class of derivative financial instruments:</p>
+      <p n="67">(i) the fair value of the instruments, if such a value can be determined by any of the methods prescribed in Article 42b(1);</p>
+      <p n="68">(ii) information about the extent and the nature of the instruments; and</p>
+      <p n="69">(b) for financial fixed assets covered by Article 42a, carried at an amount in excess of their fair value and without use being made of the option to make a value adjustment in accordance with Article 35(1)(c)(aa):</p>
+      <p n="70">(i) the book value and the fair value of either the individual assets or appropriate groupings of those individual assets;</p>
+      <p n="71">(ii) the reasons for not reducing the book value, including the nature of the evidence that provides the basis for the belief that the book value will be recovered.";</p>
+      <p n="72">3. the text of Article 44(1) shall be replaced by the following text: "1. Member States may permit the companies referred to in Article 11 to draw up abridged notes on their accounts without the information required in Article 43(1)(5) to (12) and (14)(a). However, the notes must disclose the information specified in Article 43(1)(6) in total for all the items concerned.";</p>
+      <p n="73">4. in Article 46(2) the following point shall be added: "(f) in relation to the company's use of financial instruments and where material for the assessment of its assets, liabilities, financial position and profit or loss,</p>
+      <p n="74">- the company's financial risk management objectives and policies, including its policy for hedging each major type of forecasted transaction for which hedge accounting is used, and</p>
+      <p n="75">- the company's exposure to price risk, credit risk, liquidity risk and cash flow risk.";</p>
+      <p n="76">5. in Article 59(2)(a) and (b) the reference to "Articles 31 to 42" shall be replaced by a reference to "Section 7 or 7a";</p>
+      <p n="77">6. the following Article shall be inserted: "Article 61a</p>
+      <p n="78">Not later than 1 January 2007, the Commission shall review the provisions in Article 42a to 42d, Article 43(1)(10) and (14), Article 44(1), Article 46(2)(f) and Article 59(2)(a) and (b) in the light of the experience acquired in applying provisions on fair value accounting and taking account of international developments in the field of accounting and, if appropriate, submit a proposal to the European Parliament and the Council with a view to amending the abovementioned Articles."</p>
+      <p n="79">Article 2</p>
+      <p n="80">Directive 83/349/EEC is amended as follows:</p>
+      <p n="81">1. the text of Article 29(1) shall be replaced by the following text: "1. Assets and liabilities to be included in consolidated accounts shall be valued according to uniform methods and in accordance with Sections 7 and 7a and Article 60 of Directive 78/660/EEC.";</p>
+      <p n="82">2. in Article 34:</p>
+      <p n="83">(a) the reference in point 10 to "Articles 31 and 34 to 42" shall be replaced by a reference to "Articles 31 and 34 to Article 42c", and</p>
+      <p n="84">(b) the following points shall be added: "14. Where valuation at fair value of financial instruments has been applied in accordance with Section 7a of Directive 78/660/EEC:</p>
+      <p n="85">(a) the significant assumptions underlying the valuation models and techniques where fair values have been determined in accordance with Article 42b(1)(b) of that Directive;</p>
+      <p n="86">(b) per category of financial instruments, the fair value, the changes in value included directly in the profit and loss account as well as, in accordance with Article 42c of that Directive, changes included in the fair value reserve;</p>
+      <p n="87">(c) for each class of derivative financial instruments, information about the extent and the nature of the instruments, including significant terms and conditions that may affect the amount, timing and certainty of future cash flows; and</p>
+      <p n="88">(d) a table showing movements in the fair value reserve during the financial year.</p>
+      <p n="89">15. Where valuation at fair value of financial instruments has not been applied in accordance with Section 7a of Directive 78/660/EEC:</p>
+      <p n="90">(a) for each class of derivative instruments:</p>
+      <p n="91">(i) the fair value of the instruments, if such a value can be determined by any of the methods prescribed in Article 42b(1) of that Directive;</p>
+      <p n="92">(ii) information about the extent and the nature of the instruments; and</p>
+      <p n="93">(b) for financial fixed assets covered by Article 42a of that Directive, carried at an amount in excess of their fair value and without use being made of the option to make a value adjustment in accordance with Article 35(1)(c)(aa) of that Directive:</p>
+      <p n="94">(i) the book value and the fair value of either the individual assets or appropriate groupings of those individual assets;</p>
+      <p n="95">(ii) the reasons for not reducing the book value, including the nature of the evidence that provides the basis for the belief that the book value will be recovered.";</p>
+      <p n="96">3. in Article 36(2) the following point shall be added: "(e) in relation to the use by the undertakings of financial instruments and, where material for the assessment of assets, liabilities, financial position and profit or loss,</p>
+      <p n="97">- the financial risk management objectives and policies of the undertakings, including their policies for hedging each major type of forecasted transaction for which hedge accounting is used, and</p>
+      <p n="98">- the exposure to price risk, credit risk, liquidity risk and cash flow risk.";</p>
+      <p n="99">4. the following Article shall be inserted: "Article 50a</p>
+      <p n="100">Not later than 1 January 2007, the Commission shall review the provisions in Article 29(1), Article 34(10), (14) and (15) and Article 36(2)(e) in the light of the experience acquired in applying provisions on fair value accounting and taking account of international developments in the field of accounting and, if appropriate, submit a proposal to the European Parliament and the Council with a view to amending the abovementioned Articles."</p>
+      <p n="101">Article 3</p>
+      <p n="102">The text of Article 1(1) of Directive 86/635/EEC shall be replaced by the following text: "1. Articles 2, 3, 4(1), (3) to (5), Articles 6, 7, 13, 14, 15(3) and (4), Articles 16 to 21, 29 to 35, 37 to 41, 42 first sentence, 42a to 42d, 45(1), 46(1) and (2), Articles 48 to 50, 50a, 51(1), 56 to 59, 61 and 61a of Directive 78/660/EEC shall apply to the institutions mentioned in Article 2 of this Directive, except where this Directive provides otherwise. However, Articles 35(3), 36, 37 and 39(1) to (4) of this Directive shall not apply with respect to assets and liabilities that are valued in accordance with Section 7a of Directive 78/660/EEC."</p>
+      <p n="103">Article 4</p>
+      <p n="104">1. Member States shall bring into force the laws, regulations and administrative provisions necessary for them to comply with this Directive before 1 January 2004. They shall forthwith inform the Commission thereof.</p>
+      <p n="105">When Member States adopt these provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods for making such reference shall be laid down by Member States.</p>
+      <p n="106">2. Member States shall communicate to the Commission the main provisions of domestic law, which they adopt in the field governed by this Directive.</p>
+      <p n="107">Article 5</p>
+      <p n="108">This Directive is addressed to the Member States.</p>
+      <p n="109">Done at Brussels, 27 September 2001.</p>
+      <p n="110">For the European Parliament</p>
+      <p n="111">The President</p>
+      <p n="112">N. Fontaine</p>
+      <p n="113">For the Council</p>
+      <p n="114">The President</p>
+      <p n="115">C. Picqué</p>
+      <p n="116">(1) OJ C 311, 31.10.2000, p. 1.</p>
+      <p n="117">(2) OJ C 268, 19.9.2000, p. 1.</p>
+      <p n="118">(3) Opinion of the European Parliament of 15 May 2001 (not yet published in the Official Journal) and Council Decision of 30 May 2001.</p>
+      <p n="119">(4) OJ L 222, 14.8.1978, p. 11. Directive as last amended by Directive 1999/60/EC (OJ L 162, 26.6.1999, p. 65).</p>
+      <p n="120">(5) OJ L 193, 18.7.1983, p. 1. Directive as last amended by the 1994 Act of Accession.</p>
+      <p n="121">(6) OJ L 372, 31.12.1986, p. 1.</p>
+      <p n="122">(7) OJ L 374, 31.12.1991, p. 7.</p>
+    </body>
+  </text>
+</TEI.2>

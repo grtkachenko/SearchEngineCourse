@@ -1,0 +1,303 @@
+<TEI.2 id="jrc31993L0105-en" n="31993L0105" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993L0105 English</title>
+        <title>Commission Directive 93/105/EC of 25 November 1993 laying down Annex VII D, containing information required for the technical dossier referred to in Article 12 of the seventh amendment of Council Directive 67/548/EEC</title>
+      </titleStmt>
+      <extent>276 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993L0105:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993L0105:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993L0105-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 93/105/EC of 25 November 1993 laying down Annex VII D, containing information required for the technical dossier referred to in Article 12 of the seventh amendment of Council Directive 67/548/EEC</head>
+      <p n="2">COMMISSION DIRECTIVE 93/105/EC of 25 November 1993 laying down Annex VII D, containing information required for the technical dossier referred to in Article 12 of the seventh amendment of Council Directive 67/548/EEC</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 67/548/EEC of 27 June 1967 on the approximation of the laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (1), as last amended by Commission Directive 93/72/EEC (2), and in particular Article 12 thereof,</p>
+      <p n="6">Whereas, in accordance with the provisions of Directive 67/548/EEC, any new substance placed on the market should be notified to the competent authorities of Member States by means of a notification containing certain information including a technical dossier; whereas Article 12 of the said Directive requires that specific provisions should be laid down concerning the technical dossiers for polymers;</p>
+      <p n="7">Whereas it is necessary that the technical dossier contains a test package for polymers which would supply the information necessary to evalute their foreseeable risks for man and the environment;</p>
+      <p n="8">Whereas it is appropriate in order to avoid unnecessary testing to group polymers into families and thereby to require testing only of representative members of a family; whereas such representative testing shall continue to assure a high level of protection;</p>
+      <p n="9">Whereas for some high molecular weight polymers, it is scientifically justifiable and appropriate to define a reduced test package (RTP);</p>
+      <p n="10">Whereas criteria need to be developed to define those polymers with high molecular weight for which a reduced test package is deemed to be sufficient;</p>
+      <p n="11">Whereas those criteria must ensure a high level of protection for man and the environment while ensuring that industry will continue to have the incentive to invest in continuing development of new and better polymers;</p>
+      <p n="12">Whereas considering the limited experience with notification of polymers and the incomplete knowledge of risks associated with those substances, the strict criteria for RTP polymers may need to be revised in the light of experience gained with such notifications made in accordance with the new specific requirements laid down in this Directive;</p>
+      <p n="13">Whereas the measures set out in this Directive are in accordance with the opinion of the Committee set up under Article 29 of Directive 67/548/EEC,</p>
+      <p n="14">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Annex to this Directive shall be inserted in Annex VII to Directive 67/548/EEC in the form of Annex VII D.</p>
+      <p n="17">Article 2</p>
+      <p n="18">1. Member States shall adopt and publish the provisions necessary to comply with this Directive by 31 December 1993 and shall forthwith inform the Commission.</p>
+      <p n="19">2. When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Directive shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">Done at Brussels, 25 November 1993.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Yannis PALEOKRASSAS</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ No 196, 16. 8. 1967, p. 1.</p>
+      <p n="27">(2) OJ No L 258, 16. 10. 1993, p. 29.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">'ANNEX VII D</p>
+      <p n="30">SPECIFIC PROVISIONS CONCERNING THE TECHNICAL DOSSIER ("BASE SET") CONTAINED IN THE NOTIFICATIONS REFERRED TO IN ARTICLE 12</p>
+      <p n="31">A. For the purpose of this Annex</p>
+      <p n="32">- "homopolymer" is a polymer consisting of only one kind of monomer unit,</p>
+      <p n="33">- "copolymer" is a polymer consisting of more than one kind of monomer unit,</p>
+      <p n="34">- "polymer for which a reduced test package is acceptable", "RTP polymer", is a polymer that satisfies the criteria laid down in C.2,</p>
+      <p n="35">- "family of polymers" is a group of polymers (either homopolymers or copolymers) with different number-average molecular weights or different compositions resulting from different ratios of monomer units. The difference in the number-average molecular weight or in the composition is determined not by unintentional process-related fluctuations but by deliberate alterations to the process conditions, the process itself remaining the same,</p>
+      <p n="36">- "Mn" is the number-average molecular weight,</p>
+      <p n="37">- "M" is the molecular weight.</p>
+      <p n="38">B. Family approach</p>
+      <p n="39">To avoid unnecessary testing, the grouping of polymers into families shall be possible.</p>
+      <p n="40">The concept consists of testing representative members of a family with:</p>
+      <p n="41">- Mn variable for homopolymers, or</p>
+      <p n="42">- composition variable with Mn approximately constant for copolymers, or</p>
+      <p n="43">- for Mn &gt; 1 000, Mn variable with composition approximately constant for copolymers.</p>
+      <p n="44">In certain cases where there are dissimilarities in the effects seen in the representative members, depending on the Mn- or composition-range, additional testing of other representative members shall be required.</p>
+      <p n="45">C. Information required for the technical dossier referred to in Article 12</p>
+      <p n="46">If it is not technically possible or if it does not appear scientifically necessary to give information, the reasons shall be clearly stated and be subject to acceptance by the competent authorities.</p>
+      <p n="47">Appropriate available information on the properties of the monomer(s) may be taken into account for the assessment of the properties of the polymer.</p>
+      <p n="48">Without prejudice to the provisions of Article 3 (1) of Directive 67/548/EEC the tests must be conducted according to methods recognized and recommended by the competent international bodies where such recommendations exist.</p>
+      <p n="49">The name of the body or bodies responsible for carrying out the studies shall be mentioned.</p>
+      <p n="50">C.1. POLYMERS WITH STANDARD TEST PACKAGE</p>
+      <p n="51">C.1.1. Polymers placed on the Community market in quantities of &gt;=1 t/a or total quantities of &gt;= 5 t</p>
+      <p n="52">In addition to the information and tests referred to in Article 7 (1), laid down in Annex VII A, the following polymer-specific information is required:</p>
+      <p n="53">1. IDENTITY OF THE SUBSTANCE</p>
+      <p n="54">1.2.1. Number-average molecular weight</p>
+      <p n="55">1.2.2. Molecular weight distribution (MWD)</p>
+      <p n="56">1.2.3. Identity and concentration of starting monomers and starting substances which will be bound in the polymer</p>
+      <p n="57">1.2.4. Indication of end groups and identity and frequency of reactive functional groups</p>
+      <p n="58">1.3.2.1. Identity of non-reacted monomers</p>
+      <p n="59">1.3.3.1. Percentage of non-reacted monomers</p>
+      <p n="60">2. INFORMATION ON THE SUBSTANCE</p>
+      <p n="61">2.1.1.5. Statement, with relevant information, if the polymer has been developed to be environmentally degradable</p>
+      <p n="62">3. PHYISCO-CHEMICAL PROPERTIES OF THE SUBSTANCE</p>
+      <p n="63">3.6.1. Water extractivity</p>
+      <p n="64">Without prejudice to Article 16 (1) of Directive 67/548/EEC, further tests may be required additionally in certain cases, e.g.:</p>
+      <p n="65">- light-stability if the polymer is not specifically light-stabilized,</p>
+      <p n="66">- long-term extractivity (leachate test); depending on the results of this test, appropriate tests on the leachate may be requested on a case by case basis.</p>
+      <p n="67">C.1.2. Polymers placed on the Community market in quantities of &lt; 1 t/a or total quantities of &lt; 5 t but &gt;= 100 kg/a or total quantities &gt;= 500 kg</p>
+      <p n="68">In addition to the information and tests referred to in Article 8 (1), laid down in Annex VII B, the following polymer-specific information is required:</p>
+      <p n="69">1. IDENTITY OF THE SUBSTANCE</p>
+      <p n="70">1.2.1. Number-average molecular weight</p>
+      <p n="71">1.2.2. Molecular weight distribution (MWD)</p>
+      <p n="72">1.2.3. Identity and concentration of starting monomers and starting substances which will be bound in the polymer</p>
+      <p n="73">1.2.4. Indication of end groups and identity and frequency of reactive functional groups</p>
+      <p n="74">1.3.2.1. Identity of non-reacted monomers</p>
+      <p n="75">1.3.3.1. Percentage of non-reacted monomers</p>
+      <p n="76">2. INFORMATION ON THE SUBSTANCE</p>
+      <p n="77">2.1.1.5. Statement, with relevant information, if the polymer has been developed to be environmentally degradable</p>
+      <p n="78">3. PHYSICO-CHEMICAL PROPERTIES OF THE SUBSTANCE</p>
+      <p n="79">3.6.1. Water extractivity</p>
+      <p n="80">C.1.3. Polymers placed on the Community market in quantities of &lt; 100 kg/a or total quantities of &lt; 500 kg</p>
+      <p n="81">In addition to the information and tests referred to in Article 8 (2), laid down in Annex VII C, the following polymer-specific information is required:</p>
+      <p n="82">1. IDENTITY OF THE SUBSTANCE</p>
+      <p n="83">1.2.1. Number-average molecular weight</p>
+      <p n="84">1.2.2. Molecular weight distribution (MWD)</p>
+      <p n="85">1.2.3. Identity and concentration of starting monomers and starting substances which will be bound in the polymer</p>
+      <p n="86">1.2.4. Indication of end groups and identity and frequency of reactive functional groups</p>
+      <p n="87">1.3.2.1. Identity of non-reacted monomers</p>
+      <p n="88">1.3.3.1. Percentage of non-reacted monomers</p>
+      <p n="89">2. INFORMATION ON THE SUBSTANCE</p>
+      <p n="90">2.1.1.5. Statement, with relevant information, if the polymer has been developed to be environmentally degradable</p>
+      <p n="91">C.2. POLYMERS FOR WHICH A REDUCED TEST PACKAGE IS ACCEPTABLE</p>
+      <p n="92">Under certain conditions the base set test package for polymers can be reduced.</p>
+      <p n="93">Substances with a high number-average molecular weight, a low content of low molecular weight species and a low solubility/extractivity will be regarded as being non-bioavailable. Consequently, the following criteria shall be used to determine the polymers for which a reduced test package is acceptable:</p>
+      <p n="94">For non-readily degradable polymers placed on the Community market in quantities of &amp; ge; 1 t/a or total quantities of &amp; ge; 5 t, the following criteria define those polymers for which a reduced test package is acceptable:</p>
+      <p n="95">I. High number-average molecular weight (Mn) (1);</p>
+      <p n="96">II. Extractivity in water (3.6.1)</p>
+      <p n="97">&lt; 10 mg/l excluding any contribution from additives and impurities;</p>
+      <p n="98">III. Less than 1 % with M &lt; 1 000; the percentage refers only to molecules (components) directly derived from and including monomer(s), excluding other components e.g. additives or impurities.</p>
+      <p n="99">If all criteria are fulfilled, the polymer is regarded as a polymer for which a reduced test package is acceptable.</p>
+      <p n="100">In the case of non-readily degradable polymers placed on the Community market in quantities &lt; 1 t/a or total quantities of &lt; 5 t it is sufficient that criteria I and II are fulfilled for the polymer to be considered a polymer for which a reduced test package is acceptable.</p>
+      <p n="101">If it is not possible to prove the criteria with the assigned tests, the notifier has to demonstrate compliance with the crieria by other means.</p>
+      <p n="102">Under certain circumstances toxicological and ecotoxicological tests may be required.</p>
+      <p n="103">C.2.1. Polymers placed on the Community market in qantities of &gt;= 1 t/a or total quantities of &gt;= 5 t</p>
+      <p n="104">0. Identity of manufacturer and the identity of the notifier: Location of the production site</p>
+      <p n="105">For substances manufactured outside the Community and for which, for the purpose of notification, the notifier has been designated as the manufacturer's sole representative, the identity and the addresses of the importers who will be bringing the substance into the Community.</p>
+      <p n="106">1. IDENTITY OF THE SUBSTANCE</p>
+      <p n="107">1.1. Name</p>
+      <p n="108">1.1.1. Name in the IUPAC nomenclature</p>
+      <p n="109">1.1.2. Other names (usual name, trade name, abbreviation)</p>
+      <p n="110">1.1.3. CAS number and CAS name (if available)</p>
+      <p n="111">1.2. Molecular and structural formula</p>
+      <p n="112">1.2.1. Number-average molecular weight</p>
+      <p n="113">1.2.2. Molecular weight distribution (MWD)</p>
+      <p n="114">1.2.3. Identity and concentration of starting monomers and starting substances which will be bound in the polymer</p>
+      <p n="115">1.2.4. Indication of end groups and identity and frequency of reactive functional groups</p>
+      <p n="116">1.3. Composition of the substance</p>
+      <p n="117">1.3.1. Degree of purity (%)</p>
+      <p n="118">1.3.2. Nature of impurities, including by-products</p>
+      <p n="119">1.3.2.1. Identity of non-reacted monomers</p>
+      <p n="120">1.3.3. Percentage of (significant) main impurities</p>
+      <p n="121">1.3.3.1. Percentage of non-reacted monomers</p>
+      <p n="122">1.3.4. If the substances contains a stabilizing agent or an inhibitor or other additives, specify: nature, order of magnitude: . . . ppm, . . . %</p>
+      <p n="123">1.3.5. Spectral data (UV, IR, NMR or mass spectrum)</p>
+      <p n="124">1.3.6.1. GPC</p>
+      <p n="125">1.4. Methods of detection and determination</p>
+      <p n="126">A full description of the methods used or the appropriate bibliographical references.</p>
+      <p n="127">Apart from methods of detection and determination, information shall be given on analytical methods which are known to the notifier and allow detection of a substance and its transformation products after discharge into the environment as well as determination of the direct exposure of humans.</p>
+      <p n="128">2. INFORMATION ON THE SUBSTANCE</p>
+      <p n="129">2.0. Production</p>
+      <p n="130">Information given in the section should be sufficient to allow an approximate but realistic estimation of human and environmental exposure associated with the production process. Precise details of the production process, particularly those of a commercially sensitive nature, are not required.</p>
+      <p n="131">2.0.1. Technological processsed in production.</p>
+      <p n="132">2.0.2. Exposure estimates related to production:</p>
+      <p n="133">- working environment</p>
+      <p n="134">- environment</p>
+      <p n="135">2.1. Proposed uses</p>
+      <p n="136">Information given in this section should be sufficient to allow an approximate but realistic estimation of human and environmental exposure to the substances as associated with the proposed/expected uses.</p>
+      <p n="137">2.1.1. Types of use: description of the function and the desired effects</p>
+      <p n="138">2.1.1.1. Technological process(es) related to the use of the substance (where known)</p>
+      <p n="139">2.1.1.2. Exposure estimate(s) related to the use (where known):</p>
+      <p n="140">- working environment</p>
+      <p n="141">- environment</p>
+      <p n="142">2.1.1.3. Form under which the substance is marketed: substance, preparation, product</p>
+      <p n="143">2.1.1.4. Concentration of the substance in marketing preparations and products (where known)</p>
+      <p n="144">2.1.2. Fields of application with approximate breakdown:</p>
+      <p n="145">- industries</p>
+      <p n="146">- farmers and skilled trades</p>
+      <p n="147">- use by the public at large</p>
+      <p n="148">2.1.3. Where known and where appropriate, the identify of the recipients of the substance</p>
+      <p n="149">2.1.4. Waste quantities and composition of waste resulting from the proposed uses (where known)</p>
+      <p n="150">2.2. Estimated production and/or imports for each of the anticipated uses or fields of application</p>
+      <p n="151">2.2.1. Overall production and/or imports in tonnes per year:</p>
+      <p n="152">- the first calendar year</p>
+      <p n="153">- the following calendar years</p>
+      <p n="154">For the substances manufactured outside the Community and for which, for the purpose of notification, the notifier has been designated as the manufacturer's sole representative, this information must be given for each of the importers identified under section O above.</p>
+      <p n="155">2.2.2. Production and/or imports, broken down in accordance with 2.1.1 and 2.1.2 expressed as a percentage:</p>
+      <p n="156">- the first calendar year</p>
+      <p n="157">- the following calendar years</p>
+      <p n="158">2.3. Recommended methods and precautions concerning:</p>
+      <p n="159">2.3.1. Handling</p>
+      <p n="160">2.3.2. Storage</p>
+      <p n="161">2.3.3. Transport</p>
+      <p n="162">2.3.4. Fire (nature of combustion gases or pyrolysis, where proposed uses justify this)</p>
+      <p n="163">2.3.5. Other dangers, particularly chemical reaction with water</p>
+      <p n="164">2.3.6. If relevant, information concerning the susceptibility of the substance to explode when present in the form of a dust</p>
+      <p n="165">2.4. Emergency measures in the case of accidental spillage</p>
+      <p n="166">2.5. Emergency measures in the case of injury to persons (e. g. poisoning)</p>
+      <p n="167">2.6. Packaging</p>
+      <p n="168">3. PHYSICO-CHEMICAL PROPERTIES OF THE SUBSTANCE</p>
+      <p n="169">3.0. State of the substance at 20° C and 101,3 kPa</p>
+      <p n="170">3.1. Melting range (e. g. from the termal stability test)</p>
+      <p n="171">3.3. Relative density</p>
+      <p n="172">3.6.1. Water extractivity</p>
+      <p n="173">3.10. Flammability</p>
+      <p n="174">3.11. Explosive properties</p>
+      <p n="175">3.12. Auto-flammability</p>
+      <p n="176">3.15. Particle size:</p>
+      <p n="177">For those substances which may be marketed in a form which gives rise to the danger of exposure by the inhalator route, a test should be conducted to determine the particle distribution of the substances as it will be marketed.</p>
+      <p n="178">3.16. Thermal stability</p>
+      <p n="179">3.17. Extractivity with:</p>
+      <p n="180">- water at pH 2 and 9 at 37° C</p>
+      <p n="181">- cyclohexane</p>
+      <p n="182">4. TOXICOLOGICAL STUDIES</p>
+      <p n="183">On a case by case basis and without delaying in acceptance of the notification, the competent authorities may, on the basis of the presence of reactive groups, structural/physical characteristics, knowledge concerning the properties of low molecular weight components of the polymer or exposure potential, require certain tests to be carried out. In particular tests for inhalation toxicity (e. g. 4.1.2 or 4.2.1), may be required if exposure by the inhalatory route is considered possible.</p>
+      <p n="184">5. ECOTOXICOLOGICAL STUDIES</p>
+      <p n="185">On a case-by-case basis and without delaying the acceptance of the notification, the competent authorities may on the basis of the presence of reactive groups, structural/physical charateristics, knowledge concerning the properties of low molecular weight components of the polymer or exposure potential, require certain tests to be carried out. In particular, the following additional tests may be required:</p>
+      <p n="186">- light-stability, if the polymer is not specifically ligth-stabilized</p>
+      <p n="187">- long-term extextactivity (leachate test).</p>
+      <p n="188">Depending on the results of this test, any appropriate test on the leachate may be requested on a case by case basis</p>
+      <p n="189">6. POSSIBILITY OF RENDERING THE SUBSTANCE HARMLESS</p>
+      <p n="190">6.1. For industry/skilled trades</p>
+      <p n="191">6.1.1. Possibility of recycling</p>
+      <p n="192">6.1.2. Possibility of neutralization of unfavourable effects</p>
+      <p n="193">6.1.3. Possibility of destruction:</p>
+      <p n="194">- controlled discharge</p>
+      <p n="195">- incineration</p>
+      <p n="196">- water purification station</p>
+      <p n="197">- others</p>
+      <p n="198">6.2. For the public at large</p>
+      <p n="199">6.2.1. Possibility of recycling</p>
+      <p n="200">6.2.2. Possibility of neutralization of unfavourable effects</p>
+      <p n="201">6.2.3. Possibility of destruction:</p>
+      <p n="202">- controlled discharge</p>
+      <p n="203">- incineration</p>
+      <p n="204">- water purification station</p>
+      <p n="205">- others</p>
+      <p n="206">C.2.2 Polymers placed on the Community market in quantities of &lt; t/a or total quantities of &lt; 5 t</p>
+      <p n="207">0. IDENTITY OF MANUFACTURER AND THE IDENTITY OF THE NOTIFIER: LOCATION OF THE PRODUCTION SITE</p>
+      <p n="208">For substances manufactured outside the Community and for which, for the purpose of notification, the notifier has been designated as the manufacturer's sole representative, the identity and the addresses of the importers who will be bringing the substance into the Community.</p>
+      <p n="209">1. IDENTITY OF THE SUBSTANCE</p>
+      <p n="210">1.1. Name</p>
+      <p n="211">1.1.1. Name in the IUPAC nomenclature</p>
+      <p n="212">1.1.2. Other names (usual name, trade name, abbreviation)</p>
+      <p n="213">1.1.3. CAS number and CAS name (if available)</p>
+      <p n="214">1.2. Molecular and structural formula</p>
+      <p n="215">1.2.1. Number-average molecular weight</p>
+      <p n="216">1.2.2. Molecular weight distribution (MWD)</p>
+      <p n="217">1.2.3. Identity and concentration of staring monomers and starting substances which will be bound in the polymer</p>
+      <p n="218">1.2.4. Indication of end groups and identity and frequency of reactive functional groups</p>
+      <p n="219">1.3. Composition of the substance</p>
+      <p n="220">1.3.1. Degree of purity (%)</p>
+      <p n="221">1.3.2. Nature of impurities, including by-products</p>
+      <p n="222">1.3.2.1. Identity of non-reacted monomers</p>
+      <p n="223">1.3.3. Percentage of (significant) main impurities</p>
+      <p n="224">1.3.3.1. Percentage of non-reacted monomers</p>
+      <p n="225">1.3.4. If the substance contains a stabilizing agent or an inhibitor or other additives, specify: nature, order of magnitude: . . . ppm, . . . %</p>
+      <p n="226">1.3.5. Spectral data (UV, IR, NMR or mass spectrum)</p>
+      <p n="227">1.3.6.1. GPC</p>
+      <p n="228">1.4. Methods of detection and determination</p>
+      <p n="229">A full description of the methods used or the appropriate bibliographical references</p>
+      <p n="230">Apart from methods of detection and determination, information shall be given on analytical methods which are known to the notifier and allow detection of a substance and its transformation products after discharge into the environment as well as determination of the direct exposure of humans.</p>
+      <p n="231">2. INFORMATION ON THE SUBSTANCE</p>
+      <p n="232">2.0. Production</p>
+      <p n="233">Information given in the section should be sufficient to allow an approximate but realistic estimation of human and environmental exposure associated with the production process. Precise details of the production process, particularly those of a commercially sensitive nature, are not required.</p>
+      <p n="234">2.0.1. Technological process used in production</p>
+      <p n="235">2.0.2. Exposure estimates related to production:</p>
+      <p n="236">- working environment</p>
+      <p n="237">- environment</p>
+      <p n="238">2.1. Proposed uses</p>
+      <p n="239">Information given in this section should be sufficient to allow an approximate but realistic estimation of human and environmental exposure to the substances as associated with the proposed/expected uses.</p>
+      <p n="240">2.1.1. Types of uses: description of the function and the desired effects</p>
+      <p n="241">2.1.1.1. Technological process(es) related to the use of the substance (where known)</p>
+      <p n="242">2.1.1.2. Exposure estimate(s) related to the use (where known):</p>
+      <p n="243">- working environment</p>
+      <p n="244">- environment</p>
+      <p n="245">2.1.1.3. Form under which the substance is marketed: substance, preparation, product</p>
+      <p n="246">2.1.1.4. Concentration of the substance in marketing preparations and products (where known)</p>
+      <p n="247">2.1.2. Fields of application with approximate breakdown:</p>
+      <p n="248">- industries</p>
+      <p n="249">- farmers and skilled trades</p>
+      <p n="250">- use by the public at large</p>
+      <p n="251">2.1.3. Where known and where appropriate, the identity of the recipients of the substance</p>
+      <p n="252">2.1.4. Waste quantities and composition of waste resulting from the proposed uses (where known)</p>
+      <p n="253">2.2. Estimated production and/or imports for each of the anticipated uses or fields of application</p>
+      <p n="254">2.2.1. Overall production and/or imports in tonnes per year:</p>
+      <p n="255">- the first calendar year</p>
+      <p n="256">- the following calendar years</p>
+      <p n="257">For the substances manfuactured outside the Community and for which, for the purpose of notification, the notifier has been designated as the manufacturer's sole representative, this information must be given for each of the importers identified under section 0 above.</p>
+      <p n="258">2.2.2. Production and/or imports, broken down in accordance with 2.1.2 expressed as a percentage:</p>
+      <p n="259">- the first calendar year</p>
+      <p n="260">- the following calendar years</p>
+      <p n="261">2.3. Recommended methods and precautions concerning:</p>
+      <p n="262">2.3.1. Handling</p>
+      <p n="263">2.3.2. Storage</p>
+      <p n="264">2.3.3. Transport</p>
+      <p n="265">2.3.4. Fire (nature of combustion gases or pyrolysis, where proposed uses justify this)</p>
+      <p n="266">2.3.5. Other dangers, particularly chemical reaction with water</p>
+      <p n="267">2.3.6. If relevant, information concerning the susceptibility of the substance ot explode when present in the form of a dust</p>
+      <p n="268">2.4. Emergency measures in the case of accidental spillage</p>
+      <p n="269">2.5. Emergency measures in the case of injury to persons (e. g. poisoning)</p>
+      <p n="270">2.6. Packaging</p>
+      <p n="271">3. PHYSCIO-CHEMCIAL PROPERTIES OF THE SUBSTANCE</p>
+      <p n="272">3.0. State of the substance at 20 °C and 101,3 kPa</p>
+      <p n="273">3.1. Melting range (e. f. from the termal stability test)</p>
+      <p n="274">3.6.1. Water extractivity</p>
+      <p n="275">3.10. Flammability'</p>
+      <p n="276">(1) The authorities receiving the notification shall decide on their own responsibility whether or not a polymer satisfies this criterion.</p>
+    </body>
+  </text>
+</TEI.2>

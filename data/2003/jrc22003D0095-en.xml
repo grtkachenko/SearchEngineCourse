@@ -1,0 +1,67 @@
+<TEI.2 id="jrc22003D0095-en" n="22003D0095" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22003D0095 English</title>
+        <title>Decision of the EEA Joint Committee No 95/2003 of 11 July 2003 amending Annex XXI (Statistics) to the EEA Agreement</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0095:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0095:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">2550</classCode>
+        <classCode scheme="eurovoc">4213</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">5618</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22003D0095-en." lang="en">
+    <body>
+      <head n="1">Decision of the EEA Joint Committee No 95/2003 of 11 July 2003 amending Annex XXI (Statistics) to the EEA Agreement</head>
+      <p n="2">Decision of the EEA Joint Committee</p>
+      <p n="3">No 95/2003</p>
+      <p n="4">of 11 July 2003</p>
+      <p n="5">amending Annex XXI (Statistics) to the EEA Agreement</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as amended by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Annex XXI to the Agreement was amended by Decision of the EEA Joint Committee No 62/2003 of 16 May 2003(1).</p>
+      <p n="10">(2) Commission Regulation (EC) No 246/2003 of 10 February 2003 adopting the programme of ad hoc modules, covering the years 2004 to 2006, to the labour force sample survey provided by Council Regulation (EC) No 577/98(2) is to be incorporated into the Agreement.</p>
+      <p n="11">(3) This Decision does not apply to Liechtenstein,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The following point shall be inserted after point 18ac (Commission Regulation (EC) No 2104/2002) of Annex XXI to the Agreement:</p>
+      <p n="15">"18ad. 32003 R 0246: Commission Regulation (EC) No 246/2003 of 10 February 2003 adopting the programme of ad hoc modules, covering the years 2004 to 2006, to the labour force sample survey provided by Council Regulation (EC) No 577/98 (OJ L 34, 11.2.2003, p. 3).</p>
+      <p n="16">The provisions of the Regulation shall, for the purposes of the present Agreement, be read with the following adaptations:</p>
+      <p n="17">(a) This Regulation shall not apply to Liechtenstein.</p>
+      <p n="18">(b) Norway shall provide the information required by this Regulation at the latest as from 2005."</p>
+      <p n="19">Article 2</p>
+      <p n="20">The texts of Regulation (EC) No 246/2003 in the Icelandic and Norwegian languages, to be published in the EEA Supplement to the Official Journal of the European Union, shall be authentic.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Decision shall enter into force on 12 July 2003, provided that all the notifications in Article 103(1) of the Agreement have been made to the EEA Joint Committee(3).</p>
+      <p n="23">Article 4</p>
+      <p n="24">This Decision shall be published in the EEA section of, and in the EEA Supplement to, the Official Journal of the European Union.</p>
+      <p n="25">Done at Brussels, 11 July 2003.</p>
+      <p n="26">For the EEA Joint Committee</p>
+      <p n="27">The President</p>
+      <p n="28">H. S. H. Prinz Nikolaus von Liechtenstein</p>
+      <p n="29">(1) OJ L 193, 31.7.2003, p. 50.</p>
+      <p n="30">(2) OJ L 34, 11.2.2003, p. 3.</p>
+      <p n="31">(3) No constitutional requirements indicated.</p>
+    </body>
+  </text>
+</TEI.2>

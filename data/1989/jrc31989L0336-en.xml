@@ -1,0 +1,177 @@
+<TEI.2 id="jrc31989L0336-en" n="31989L0336" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989L0336 English</title>
+        <title>Council Directive 89/336/EEC of 3 May 1989 on the approximation of the laws of the Member States relating to electromagnetic compatibility</title>
+      </titleStmt>
+      <extent>150 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0336:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989L0336:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989L0336-en." lang="en">
+    <body>
+      <head n="1">Council Directive 89/336/EEC of 3 May 1989 on the approximation of the laws of the Member States relating to electromagnetic compatibility</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL DIRECTIVE</p>
+      <p n="4">of 3 May 1989</p>
+      <p n="5">on the approximation of the laws of the Member States relating to electromagnetic compatibility</p>
+      <p n="6">(89/336/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100a thereof,</p>
+      <p n="9">Having regard to the proposal from the Commission (1),</p>
+      <p n="10">In cooperation with the European Parliament (2),</p>
+      <p n="11">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="12">Whereas it is necessary to adopt measures with the aim of progressively establishing the internal market over a period expiring on 31 December 1992; whereas the internal market comprises an area without internal frontiers in which the free movement of goods, persons, services and capital is ensured;</p>
+      <p n="13">Whereas Member States are responsible for providing adequate protection for radiocommunications and the devices, apparatus or systems whose performance may be degraded by electromagnetic disturbance produced by electrial and electronic apparatus against the degradation caused by such disturbances;</p>
+      <p n="14">Whereas Member States are also responsible for ensuring that electric energy distribution networks are protected from electromagnetic disturbance with can affect them and, consequently, equipment fed by them;</p>
+      <p n="15">Whereas Council Directive 86/361/EEC of 24 July 1986 on the initial stage of the recognition of type-approval for telecommunications terminal equipment (4) covers in particular the signals emitted by such equipment when it is operating normally and the protection of public telecommunications networks from harm; whereas it is therefore still necessary to provide adequate protection for these networks, including the equipment connected to them, against temporary disturbances caused by signals of an accidental nature that may be emitted by this equipment;</p>
+      <p n="16">Whereas in some Member States, mandatory provisions define in particular the permissible electromagnetic disturbance levels that this equipment is liable to cause and its degree of immunity to such signals; whereas these mandatory provisions do not necessarily lead to different protection levels from one Member State to another but do, by their disparity, hinder trade within the Community;</p>
+      <p n="17">Whereas the national provisions ensuring such protection must be harmonized in order to guarantee the free movement of electrical and electronic apparatus without lowering existing and justified levels of protection in the Member States;</p>
+      <p n="18">Whereas Community legislation as it stands at present provides that, notwithstanding one of the fundamental rules of the Community, namely the free movement of goods, barriers to intra-Community trade resulting from disparities in national laws on the marketing of products have to be accepted in so far as those provisions may be recognized as necessary to satisfy essential requirements; whereas the harmonization of laws in the case in point must therefore be confined to those provisions needed to comply with the protection requirements relating to electromagnetic compatibility; whereas these requirements must replace the corresponding national provisions;</p>
+      <p n="19">Whereas this Directive therefore defines only protection requirements relating to electromagnetic compatibility; whereas, to facilitate proof of conformity with these requirements, it is important to have harmonized standards at European level concerning electromagnetic compatibility, so that products complying with them may</p>
+      <p n="20">be assumed to comply with the protection requirements; whereas these standards harmonized at European level are drawn up by private bodies and must remain non-binding texts; whereas for that purpose the European Committee for Electrotechnical Standardization (CENELEC) is recognized as the competent body in the field of this Directive for the adoption of harmonized standards in accordance with the general guidelines for cooperation between the Commission and the European Committee for Standardization (CEN) and CENELEC signed on 13 November 1984; whereas, for the purposes of this Directive, a harmonized standard is a technical specification (European standard or harmonization document) adopted by CENELEC upon a remit from the Commission in accordance with the provisions of Council Directive 83/189/EEC of 28 March 1983 laying down a procedure for the provision of information in the field of technical standards and regulations (1), as last amended by Directive 88/182/EEC (2), and pursuant to the abovementioned general guidelines;</p>
+      <p n="21">Whereas, pending the adoption of harmonized standards for the purposes of this Directive, the free movement of goods should be facilitated by accepting, as a transitional measure, on a Community level, apparatus complying with the national standards adopted, in accordance with the Community inspection procedure ensuring that such national standards meet the protection objectives of this Directive;</p>
+      <p n="22">Whereas the EC declaration of conformity concerning the apparatus constitutes a presumption of its conformity with this Directive; whereas this declaration must take the simplest possible form;</p>
+      <p n="23">Whereas, for apparatus covered by Directive 86/361/EEC, in order to obtain efficient protection as regards electromagnetic compatibility, compliance with the provisions of this Directive should nevertheless be certified by marks or certificates of conformity issued by bodies notified by the Member States; whereas, to facilitate the mutual recognition of marks and certificates issued by these bodies, the criteria to be taken into consideration for appointing them should be harmonized;</p>
+      <p n="24">Whereas it is nevertheless possible that equipment might disturb radiocommunications and telecommunications networks; whereas provision should therefore be made for a procedure to reduce this hazard;</p>
+      <p n="25">Whereas this Directive applies to the appliances and equipment covered by Directives 76/889/EEC (3) and 76/890/EEC (4) which relate to the approximation of the laws of the Member States relating to radio interference caused by electrical household appliances, portable tools and similar equipment and to the suppression of radio interference with regard to fluorescent lighting luminaires fitted with starters; whereas those Directive should therefore be repealed,</p>
+      <p n="26">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="27">Article 1</p>
+      <p n="28">For the purposes of this Directive:</p>
+      <p n="29">1. 'apparatus' means all electrical and electronic appliances together with equipment and installations containing electrical and/or electronic components.</p>
+      <p n="30">2. 'electromagnetic disturbance' means any electromagnetic phenomenon which may degrade the performance of a device, unit of equipment or system. An electromagnetic disturbance may be electromagnetic noise, an unwanted signal or a change in the propagation medium itself.</p>
+      <p n="31">3. 'immunity' means the ability of a device, unit of equipment or system to perform without degradation of quality in the presence of an electromagnetic disturbance.</p>
+      <p n="32">4. 'electromagnetic compatibility' means the ability of a device, unit of equipment or system to function satisfactorily in its electromagnetic environment without introducing intolerable electromagnetic disturbances to anything in that environment.</p>
+      <p n="33">5. 'competent body' means any body which meets the criteria listed in Annex II and is recognized as such.</p>
+      <p n="34">6. 'EC type-examination certificate' is a document in which a notified body referred to in Article 10 (6) certifies that the type of equipment examined complies with the provisions of this Directive which concern it.</p>
+      <p n="35">Article 2</p>
+      <p n="36">1. This Directive applies to apparatus liable to cause electromagnetic disturbance or the performance of which is liable to be affected by such disturbance.</p>
+      <p n="37">It defines the protection requirements and inspection procedures relating thereto.</p>
+      <p n="38">2. In so far as protection requirements specified in this Directive are harmonized, in the case of certain apparatus, by specific Directives, this Directive shall not apply or shall cease to apply with regard to such apparatus or protection requirements upon the entry into force of those specific Directives.</p>
+      <p n="39">3. Radio equipment used by radio amateurs within the meaning of Article 1, definition 53, of the radio regulations in the International Telecommunications Convention, shall be excluded from the scope of this Directive, unless the apparatus is available commercially.</p>
+      <p n="40">Article 3</p>
+      <p n="41">Member States shall take all appropriate measures to ensure that apparatus as referred to in Article 2 may be placed on the market or taken into service only if it complies with the requirements laid down by this Directive when it is properly installed and maintained and when it is used for the purposes for which it is intended.</p>
+      <p n="42">Article 4</p>
+      <p n="43">The apparatus referred to in Article 2 shall be so constructed that:</p>
+      <p n="44">(a) the electromagnetic disturbance it generates does not exceed a level allowing radio and telecommunications equipment and other apparatus to operate as intended;</p>
+      <p n="45">(b) the apparatus has an adequate level of intrinsic immunity of electromagnetic disturbance to enable it to operate as intended.</p>
+      <p n="46">The principal protection requirements are set out in Annex III.</p>
+      <p n="47">Article 5</p>
+      <p n="48">Member States shall not impede for reasons relating to electromagnetic compatibility the placing on the market and the taking into service on their territory of apparatus covered by this Directive which satisfies the requirements thereof.</p>
+      <p n="49">Article 6</p>
+      <p n="50">1. The requirements of this Directive shall not prevent the application in any Member State of the following special measures:</p>
+      <p n="51">(a) measures with regard to the taking into service and use of the apparatus taken for a specific site in order to overcome an existing or predicted electromagnetic compatibility problem;</p>
+      <p n="52">(b) measures with regard to the installation of the apparatus taken in order to protect the public telecommunications networks or receiving or transmitting stations used for safety purposes.</p>
+      <p n="53">2. Without prejudice to Directive 83/189/EEC, Member States shall inform the Commission and the other Member States of the special measures taken pursuant to paragraph 1.</p>
+      <p n="54">3. Special measures that have been recognized as justified shall be contained in an appropriate notice made by the Commission in the Official Journal of the European Communities.</p>
+      <p n="55">Article 7</p>
+      <p n="56">1. Member States shall presume compliance with the protection requirements referred to in Article 4 in the case of apparatus which is in conformity;</p>
+      <p n="57">(a) with the relevant national standards transposing the harmonized standards, the reference numbers of which have been published in the Official Journal of the European Communities. Member States shall publish the reference numbers of such national standards;</p>
+      <p n="58">(b) or with the relevant national standards referred to in paragraph 2 in so far as, in the areas covered by such standards, no harmonized standards exist.</p>
+      <p n="59">2. Member States shall communicate to the Commission the texts of their national standards, as referred to in paragraph 1 (b), which they regard as complying with the protection requirements referred to in Article 4. The Commission shall forward such texts forthwith to the other Member States. In accordance with the procedure provided for in Article 8 (2), it shall notify the Member States of those national standards in respect of which there is a presumption of conformity with the protection requirements referred to in Article 4.</p>
+      <p n="60">Member States shall publish the reference numbers of those standards. The Commission shall also publish them in the Official Journal of the European Communities.</p>
+      <p n="61">3. Member States shall accept that where the manufacturer has not applied, or has applied only in part, the standards referred to in paragraph 1, or where no such standards exist, apparatus shall be regarded as satisfying the protection requirements has been certified by the means of attestation provided for in Article 10 (2).</p>
+      <p n="62">Article 8</p>
+      <p n="63">1. Where a Member State or the Commission considers that the harmonized standards referred to in Article 7 (1) (a) do not entirely satisfy the requirements referred to in Article 4, the Member State concerned or the Commission shall bring the matter before the Standing Committee set up by Directive 83/189/EEC, hereinafter referred to as 'the Committee', giving the reasons therefor. The Committee shall deliver an opinion without delay.</p>
+      <p n="64">Upon receipt of the Committee's opinion, the Commission shall inform the Member States as soon as possible whether or not it is necessary to withdraw in whole or in part those standards from the publications referred to in Article 7 (1) (a). 2. After receipt of the communication referred to in Article 7 (2), the Commission shall consult the Committee. Upon receipt of the latter's opinion, the Commission shall inform the Member States as soon as possible whether or not the national standard in question shall enjoy the presumption of conformity and, if so, that the references thereof shall be published nationally.</p>
+      <p n="65">If the Commission or a Member State considers that a national standard no longer satisfies the necessary conditions for presumption of compliance with the protection requirements referred to in Article 4, the Commission shall consult the Committee, which shall give its opinion without delay. Upon receipt of the latter's opinion, the Commission shall inform the Member States as soon as possible whether or not the standard in question shall continue to enjoy a presumption of conformity and, if not, that it must be withdrawn in whole or in part from the publications referred to in Article 7 (2).</p>
+      <p n="66">Article 9</p>
+      <p n="67">1. Where a Member State ascertains that apparatus accompanied by one of the means of attestation provided for in Article 10 does not comply with the protection requirements referred to in Article 4, it shall take all appropriate measures to withdraw the apparatus from the market, prohibit its placing on the market or restrict its free movement.</p>
+      <p n="68">The Member State concerned shall immediately inform the Commission of any such measure, indicating the reasons for its decision and, in particular, whether non-compliance is due to:</p>
+      <p n="69">(a) failure to satisfy the protection requirements referred to in Article 4, where the apparatus does not meet the standards referred to in Article 7 (1);</p>
+      <p n="70">(b) incorrect application of the standards referred to in Article 7 (1);</p>
+      <p n="71">(c) shortcomings in the standards referred to in Article 7 (1) themselves.</p>
+      <p n="72">2. The Commission shall consult the parties concerned as soon as possible. If the Commission finds, after such consultations, that the action is justified, it shall forthwith so inform the Member State that took the action and the other Member States.</p>
+      <p n="73">Where the decision referred to in paragraph 1 is attributed to shortcomings in the standards, the Commission, after consulting the parties, shall bring the matter before the Committee within two months if the Member State which has taken the measures intends to uphold them, and shall initiate the procedures referred to in Article 8.</p>
+      <p n="74">3. Where apparatus which does not comply is accompanied by one of the means of attestation referred to in Article 10, the competent Member State shall take appropriate action against the author of the attestation and shall inform the Commission and the other Member States thereof.</p>
+      <p n="75">4. The Commission shall ensure that the Member States are kept informed of the progress and outcome of this procedure.</p>
+      <p n="76">Article 10</p>
+      <p n="77">1. In the case of apparatus for which the manufacturer has applied the standards referred to in Article 7 (1), the conformity of apparatus with this Directive shall be certified by an EC declaration of conformity issued by the manufacturer or his authorized representative established within the Community. The declaration shall be held at the disposal of the competent authority for ten years following the placing of the apparatus on the market.</p>
+      <p n="78">The manufacturer or his authorized representative established within the Community shall also affix the EC conformity mark to the apparatus or else to the packaging, instructions for use or guarantee certificate.</p>
+      <p n="79">Where neither the manufacturer nor his authorized representative is established within the Community, the above obligation to keep the EC declaration of conformity available shall be the responsibility of the person who places the apparatus on the Community market.</p>
+      <p n="80">The provisions governing the EC declaration and the EC mark are set out in Annex I.</p>
+      <p n="81">2. In the case of apparatus for which the manufacturer has not applied, or has applied only in part, the standards referred to in Article 7 (1) or failing such standards, the manufacturer or his authorized representative established within the Community shall hold at the disposal of the relevant competent authorities, as soon as the apparatus is placed on the market, a technical construction file. This file shall describe the apparatus, set out the procedures used to ensure conformity of the apparatus with the protection requirements referred to in Article 4 and include a technical report or certificate, one or other obtained from a competent body.</p>
+      <p n="82">The file shall be held at the disposal of the competent authorities for ten years following the placing of the apparatus on the market.</p>
+      <p n="83">Where neither the manufacturer nor his authorized representative is established within the Community, this obligation to keep a technical file available shall be the responsibility of the person who places the apparatus on the Community market.</p>
+      <p n="84">The conformity of apparatus with that described in the technical file shall be certified in accordance with the procedure laid down in paragraph 1.</p>
+      <p n="85">Member States shall presume, subject to the provisions of this paragraph, that such apparatus meets the protection requirements referred to in Article 4. 3. Where the standards referred to in Article 7 (1) are not yet in existence, and without prejudice to the provisions of paragraph 2 of this Article, the apparatus concerned may, on a transitional basis until 31 December 1992 at the latest, continue to be governed by the national arrangements in force on the date of adoption of this Directive, subject to the compatibility of such arrangements with the provisions of the Treaty.</p>
+      <p n="86">4. Conformity of apparatus covered by Article 2 (2) of Directive 86/361/EEC with the provisions of this Directive shall be certified in accordance with the procedure laid down in paragraph 1 once the manufacturer or his authorized representative established within the Community has obtained an EC type-examination certificate concerning this apparatus issued by one of the notified bodies referred to in paragraph 6 of this Article.</p>
+      <p n="87">5. The conformity of apparatus designed for the transmission of radiocommunications, as defined in the International Telecommunication Union Convention, with the provisions of this Directive shall be certified in accordance with the procedure laid down in paragraph 1 once the manufacturer or his authorized representative established within the Community has obtained an EC type-examination certificate concerning this apparatus issued by one of the notified bodies referred to in paragraph 6 below.</p>
+      <p n="88">This provision shall not apply to the above apparatus where it is designed and intended exclusively for radio amateurs within the meaning of Article 2 (3).</p>
+      <p n="89">6. Each Member State shall notify the Commission and the other Member States of the competent authorities referred to in this Article and of the bodies responsible for issuing the EC type-examination certificates referred to in paragraphs 4 and 5. The Commission shall publish a list of those authorities and bodies, for information purposes, in the Official Journal of the European Communities and shall ensure that the list is updated.</p>
+      <p n="90">Such notification shall state whether those bodies are competent for all apparatus covered by this Directive or whether their responsibility is limited to certain specific areas.</p>
+      <p n="91">Member States shall apply the criteria listed in Annex II for the assessment of the bodies to be notified.</p>
+      <p n="92">Bodies which comply with the assessment criteria fixed by the relevant harmonized standards shall be presumed to comply with the aforementioned criteria.</p>
+      <p n="93">A Member State which has notified a body must withdraw approval if it finds that the body no longer meets the criteria listed in Annex II. It shall forthwith inform the Commission and the other Member States thereof.</p>
+      <p n="94">Article 11</p>
+      <p n="95">Directive 76/889/EEC and Directive 76/890/EEC shall be repealed as from 1 January 1992.</p>
+      <p n="96">Article 12</p>
+      <p n="97">1. By 1 July 1991, Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive. They shall inform the Commission thereof.</p>
+      <p n="98">They shall apply these provisions as from 1 January 1992.</p>
+      <p n="99">2. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field covered by this Directive.</p>
+      <p n="100">Article 13</p>
+      <p n="101">This Directive is addressed to the Member States.</p>
+      <p n="102">Done at Brussels, 3 May 1989.</p>
+      <p n="103">For the Council</p>
+      <p n="104">The President</p>
+      <p n="105">P. SOLBES</p>
+      <p n="106">(1) OJ No C 322, 2. 12. 1987, p. 4.</p>
+      <p n="107">(2) OJ No C 262, 10. 10. 1988, p. 82 and OJ No C 69, 20. 3. 1989, p. 72.</p>
+      <p n="108">(3) OJ No C 134, 24. 5. 1988, p. 2.</p>
+      <p n="109">(4) OJ No L 217, 5. 8. 1986, p. 21.</p>
+      <p n="110">(1) OJ No L 109, 26. 4. 1983, p. 8.</p>
+      <p n="111">(2) OJ No L 81, 26. 3. 1988, p. 75.</p>
+      <p n="112">(3) OJ No L 336, 4. 12. 1976, p. 1.</p>
+      <p n="113">(4) OJ No L 336, 4. 12. 1976, p. 22.</p>
+      <p n="114">ANNEX I</p>
+      <p n="115">1. EC declaration of conformity</p>
+      <p n="116">The EC declaration of conformity must contain the following:</p>
+      <p n="117">- description of the apparatus to which it refers,</p>
+      <p n="118">- reference to the specifications under which conformity is declared, and, where appropriate, to the national measures implemented to ensure the conformity of the apparatus with the provisions of the Directive,</p>
+      <p n="119">- identification of the signatory empowered to bind the manufacturer or his authorized representative,</p>
+      <p n="120">- where appropriate, reference to the EC type-examination certificate issued by a notified body.</p>
+      <p n="121">2. EC conformity mark</p>
+      <p n="122">- The EC conformity mark shall consist of the letters CE as set out below and the figures of the year in which the mark was affixed.</p>
+      <p n="123">- This mark should, where appropriate, be accompanied by the distinctive letters used by the notified body issuing the EC type-examination certificate.</p>
+      <p n="124">- Where apparatus is the subject of other Directives providing for the EC conformity mark, the affixing of the EC mark shall also indicate conformity with the relevant requirements of those other Directives.</p>
+      <p n="125">ANNEX II</p>
+      <p n="126">Criteria for the assessment of the bodies to be notified</p>
+      <p n="127">The bodies designated by the Member States must fulfil the following minimum conditions:</p>
+      <p n="128">1. availability of personnel and of the necessary means and equipment;</p>
+      <p n="129">2. technical competence and professional integrity of personnel;</p>
+      <p n="130">3. independence, in carrying out the tests, preparing the reports, issuing the certificates and performing the verification function provided for in this Directive, of staff and technical personnel in relation to all circles, groups or persons directly or indirectly concerned with the product in question;</p>
+      <p n="131">4. maintenance of professional secrecy by personnel;</p>
+      <p n="132">5. possession of civil liability insurance unless such liability is covered by the State under national law.</p>
+      <p n="133">Fulfilment of the conditions under points 1 and 2 shall be verified at intervals by the competent authorities of the Member States.</p>
+      <p n="134">ANNEX III</p>
+      <p n="135">Illustrative list of the principal protection requirements</p>
+      <p n="136">The maximum electromagnetic disturbance generated by the apparatus shall be such as not to hinder the use of in particular the following apparatus:</p>
+      <p n="137">(a) domestic radio and television receivers</p>
+      <p n="138">(b) industrial manufacturing equipment</p>
+      <p n="139">(c) mobile radio equipment</p>
+      <p n="140">(d) mobile radio and commercial radiotelephone equipment</p>
+      <p n="141">(e) medical and scientific apparatus</p>
+      <p n="142">(f) information technology equipment</p>
+      <p n="143">(g) domestic appliances and household electronic equipment</p>
+      <p n="144">(h) aeronautical and marine radio apparatus</p>
+      <p n="145">(i) educational electronic equipment</p>
+      <p n="146">(j) telecommunications networks and apparatus</p>
+      <p n="147">(k) radio and television broadcast transmitters</p>
+      <p n="148">(l) lights and fluorescent lamps.</p>
+      <p n="149">Apparatus, and especially the apparatus referred to in (a) to (l), should be constructed in such a way that it has an adequate level of electromagnetic immunity in the usual electromagnetic compatibility environment where the apparatus is intended to work so as to allow its unhindered operation taking into account the levels of disturbance generated by apparatus complying with the standards laid down in Article 7.</p>
+      <p n="150">The information required to enable use in accordance with the intended purpose of the apparatus must be contained in the instructions accompanying the apparatus.</p>
+    </body>
+  </text>
+</TEI.2>

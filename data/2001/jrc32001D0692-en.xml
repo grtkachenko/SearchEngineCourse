@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32001D0692-en" n="32001D0692" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0692 English</title>
+        <title>2001/692/EC: Decision of the European Parliament and of the Council of 3 May 2001 on the adjustment of the financial perspective to take account of the conditions of implementation</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0692:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0692:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">5138</classCode>
+        <classCode scheme="eurovoc">5419</classCode>
+        <classCode scheme="eurovoc">5787</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0692-en." lang="en">
+    <body>
+      <head n="1">2001/692/EC: Decision of the European Parliament and of the Council of 3 May 2001 on the adjustment of the financial perspective to take account of the conditions of implementation</head>
+      <p n="2">Decision of the European Parliament and of the Council</p>
+      <p n="3">of 3 May 2001</p>
+      <p n="4">on the adjustment of the financial perspective to take account of the conditions of implementation</p>
+      <p n="5">(2001/692/EC)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to paragraphs 16 to 18 of the Interinstitutional Agreement of 6 May 1999 on budgetary discipline and improvement of the budgetary procedure(1),</p>
+      <p n="9">Having regard to the proposal from the Commission(2),</p>
+      <p n="10">Acting in accordance with the voting rules laid down in the fifth subparagraph of Article 272(9) of the Treaty,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The financial perspective for 2000-06 must be adjusted to take account of the implementation of the budget in 2000.</p>
+      <p n="13">(2) As a result of a delay in the adoption of certain programmes relating to structural operations, EUR 6152,3 million of the allocation provided for the Structural Funds could not be committed in 2000 nor carried over to 2001. Under paragraph 17 of the Interinstitutional Agreement, this amount must be transferred to subsequent financial years by increasing the corresponding expenditure ceilings for appropriations for commitments.</p>
+      <p n="14">(3) The 2000 budget outturn does not show any need for an adjustment to the overall ceiling for appropriations for payments at this stage. The situation in this respect will be reviewed at each future adjustment exercise,</p>
+      <p n="15">HAVE ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The annual ceilings for appropriations for commitments in the Structural Funds subheading of heading 2 of the financial perspective shall be raised by the following amounts, expressed in millions of euro in current prices.</p>
+      <p n="18">&gt;TABLE&gt;</p>
+      <p n="19">Article 2</p>
+      <p n="20">The financial perspective for EU-15 and the financial framework for EU-21, after the technical adjustment for 2002 in line with movements in GNP and prices and the adjustments covered by this Decision, are attached.</p>
+      <p n="21">Done at Brussels, 3 May 2001.</p>
+      <p n="22">For the European Parliament</p>
+      <p n="23">The President</p>
+      <p n="24">N. Fontaine</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">A. Lindh</p>
+      <p n="28">(1) OJ C 172, 18.6.1999, p. 1.</p>
+      <p n="29">(2) OJ C 180 E, 26.6.2001, p. 244.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">TABLE 1</p>
+      <p n="32">Financial Perspective (EU-15) - Adjusted to 2002 prices - After adjustment (for implementation) in 2001</p>
+      <p n="33">&gt;TABLE&gt;</p>
+      <p n="34">TABLE 2</p>
+      <p n="35">Financial Framework EU-21 - Adjusted to 2002 prices - After adjustment (for implementation) in 2001</p>
+      <p n="36">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

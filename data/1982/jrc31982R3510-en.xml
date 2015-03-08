@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31982R3510-en" n="31982R3510" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31982R3510 English</title>
+        <title>Commission Regulation (EEC) No 3510/82 of 23 December 1982 fixing the conversion factors applicable to tuna</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31982R3510:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31982R3510:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31982R3510-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 3510/82 of 23 December 1982 fixing the conversion factors applicable to tuna</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 3510/82</p>
+      <p n="4">of 23 December 1982</p>
+      <p n="5">fixing the conversion factors applicable to tuna</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN</p>
+      <p n="7">COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Regulation (EEC) No 3796/81 of 29 December 1981 on the common organization of the market in fishery products (1), and in particular Article 17 (6) thereof,</p>
+      <p n="10">Whereas a Community producer price is fixed every year for tuna intended for the canning industry;</p>
+      <p n="11">Whereas the conversion factors applicable to the different species, sizes and presentations of tuna should also be fixed;</p>
+      <p n="12">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fishery Products,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The conversion factors applicable to the different species, sizes and presentations of tuna shall be as listed in the Annex hereto.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on 1 January 1983.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 23 December 1982.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Giorgios CONTOGEORGIS</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ No L 379, 31. 12. 1981, p. 1.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">I. Conversion factors applicable to the different species of tuna</p>
+      <p n="26">1.2 // // // Species // Conversion factor // // // A. Yellowfin (Thunnus albacares) // // - weighing more than 10 kg each // 1 // - weighing not more than 10 kg each // 0;91 // B. Albacore (Thunnus alalunga) // // - weighing more than 10 kg each // 1;14 // - weighing not more than 10 kg each // 1;45 // C. Other species // 0;64 // //</p>
+      <p n="27">II. Conversion factors applicable to each of the species referred to in Section I depending on the presentation</p>
+      <p n="28">1.2 // // // Presentation // Conversion factor // // // A. Whole // 1 // B. Gutted and without gills // 1;14 // C. Other // 1;24 // //</p>
+    </body>
+  </text>
+</TEI.2>

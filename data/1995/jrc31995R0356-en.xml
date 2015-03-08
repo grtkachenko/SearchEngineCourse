@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31995R0356-en" n="31995R0356" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R0356 English</title>
+        <title>Council Regulation (EC) No 356/95 of 20 February 1995 amending Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (WTO)</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0356:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R0356:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">11</classCode>
+        <classCode scheme="eurovoc">2189</classCode>
+        <classCode scheme="eurovoc">2450</classCode>
+        <classCode scheme="eurovoc">2839</classCode>
+        <classCode scheme="eurovoc">3123</classCode>
+        <classCode scheme="eurovoc">3581</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R0356-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 356/95 of 20 February 1995 amending Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (WTO)</head>
+      <p n="2">COUNCIL REGULATION (EC) No 356/95 of 20 February 1995 amending Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (WTO)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas by Regulation (EC) No 3286/94 (1), the Council has adopted Community procedures to ensure the exercise of the Community's rights under international trade rules;</p>
+      <p n="7">Whereas Article 15 (2) of Regulation (EC) No 3286/94 repealed Council Regulation (EEC) No 2641/84 of 17 September 1984 on the strengthening of the common commercial policy with regard in particular to protection against illicit commercial practices (2);</p>
+      <p n="8">Whereas under Article 16 (1) thereof Regulation (EC) No 3286/94 applies to proceedings initiated after 1 January 1995;</p>
+      <p n="9">Whereas it is therefore appropriate to amend Articles 15 (2) and 16 (1) of Regulation (EC) No 3286/94 in order to state clearly that Regulation (EC) No 3286/94 also applies to proceedings still pending on 1 January 1995, but in relation to which Community examination procedures have been completed,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Regulation (EC) No 3286/94 shall be amended as follows:</p>
+      <p n="13">1. Article 15 (2) shall be replaced by the following:</p>
+      <p n="14">'2. Regulation (EEC) No 2641/84 is hereby repealed. References to the repealed Regulation shall be construed as references to this Regulation where appropriate.';</p>
+      <p n="15">2. Article 16 shall be replaced by the following:</p>
+      <p n="16">'Article 16</p>
+      <p n="17">Entry into force</p>
+      <p n="18">This Regulation shall enter into force on 1 January 1995.</p>
+      <p n="19">It shall apply to proceedings initiated after that date as well as to proceedings pending at that date and in relation to which Community examination procedures have been completed.'</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">It shall apply as from 1 January 1995.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 20 February 1995.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">E. ALPHANDÉRY</p>
+      <p n="28">(1) OJ No L 349, 31. 12. 1994, p. 71.</p>
+      <p n="29">(2) OJ No L 252, 29. 9. 1984, p. 1. Regulation as amended by Regulation (EC) No 522/94 (OJ No L 66, 10. 3. 1994, p. 10).</p>
+    </body>
+  </text>
+</TEI.2>

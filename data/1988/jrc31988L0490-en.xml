@@ -1,0 +1,48 @@
+<TEI.2 id="jrc31988L0490-en" n="31988L0490" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31988L0490 English</title>
+        <title>Commission Directive 88/490/EEC of 22 July 1988 on the tenth adaptation to technical progress of Council Directive 67/548/EEC on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31988L0490:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31988L0490:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31988L0490-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 88/490/EEC of 22 July 1988 on the tenth adaptation to technical progress of Council Directive 67/548/EEC on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances</head>
+      <p n="2">COMMISSION DIRECTIVE of 22 July 1988 on the tenth adaptation to technical progress of Council Directive 67/548/EEC on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (88/490/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances(1), as last amended by Directive 79/831/EEC(2), and in particular Article 19 thereof,</p>
+      <p n="6">Whereas Annex I to Directive 67/548/EEC contains a list of dangerous substances, together with particulars of the classification and labelling procedures in respect of each substance; whereas examination of the list of dangerous substances has shown that this list needs to be adapted in the light of present scientific and technical knowledge;</p>
+      <p n="7">Whereas Annex VI, D, to Directive 67/548/EEC contains a guide to the classification and labelling of dangerous substances and preparations; whereas it is necessary to correct in this Annex the criteria for the choice of a certain safety advice phrase (S phrase) in the French language;</p>
+      <p n="8">Whereas the provisions of this Directive are in accordance with the opinion of the Committee on the Adaptation to Technical Progress of the Directives for the Elimination of Technical Barriers to Trade in Dangerous Substances and Preparations,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1 Directive 67/548/EEC is hereby amended as follows:</p>
+      <p n="11">1.Annex I (list of dangerous substances):</p>
+      <p n="12">1.1.The following Note F is added after Note E in the foreword to Annex I:</p>
+      <p n="13">´Note F This substance may contain a stabilizer. If the stabilizer changes the dangerous properties of the substance as indicated by the label in Annex I a label should be provided in accordance with the rules for the labelling of dangerous preparations.' 1.2.The designation, Cas-number, classification and labelling of the substances in Annex I to this Directive replace those in Annex I to Directive 67/548/EEC with the same EEC-number.</p>
+      <p n="14">1.3.The substances listed in Annex II to this Directive are added to Annex I to Directive 67/548/EEC.</p>
+      <p n="15">2.Annex VI, D (guide to the classification and labelling of dangerous substances and preparations):</p>
+      <p n="16">In the French language in chapter 4 (choice of safety phrases), S16 (Tenir à l'écart de toute source d'ignition - ne pas fumer), under the indent ´applicabilité', the sentence ´substances et préparations susceptibles de réagir ou de se décomposer spontanément sous l'effet de la chaleur' is replaced by ´Liquides et gaz extrêmement inflammables ou facilement inflammables.' Article 2 Member States shall adopt and publish before 1 January 1990 the provisions necessary to comply with this Directive. They shall forthwith inform the Commission thereof.</p>
+      <p n="17">They shall apply these provisions as from 1 July 1990 at the latest.</p>
+      <p n="18">Article 3 This Directive is addressed to the Member States.</p>
+      <p n="19">Done at Brussels, 22 July 1988.</p>
+      <p n="20">For the CommissionStanley CLINTON DAVISMember of the Commission (1)OJ No 196, 16. 8. 1967, p. 1.</p>
+      <p n="21">(2)OJ No L 259, 15. 10. 1979, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

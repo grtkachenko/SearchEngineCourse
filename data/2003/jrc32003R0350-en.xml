@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R0350-en" n="32003R0350" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0350 English</title>
+        <title>Commission Regulation (EC) No 350/2003 of 25 February 2003 amending for the 13th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban, and repealing Council Regulation (EC) No 467/2001</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0350:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0350:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">261</classCode>
+        <classCode scheme="eurovoc">3474</classCode>
+        <classCode scheme="eurovoc">3483</classCode>
+        <classCode scheme="eurovoc">4452</classCode>
+        <classCode scheme="eurovoc">5788</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0350-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 350/2003 of 25 February 2003 amending for the 13th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban, and repealing Council Regulation (EC) No 467/2001</head>
+      <p n="2">Commission Regulation (EC) No 350/2003</p>
+      <p n="3">of 25 February 2003</p>
+      <p n="4">amending for the 13th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban, and repealing Council Regulation (EC) No 467/2001</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 881/2002 of 27 May 2002 imposing certain specific restrictive measures directed against certain persons and entities associated with Usama bin Laden, the Al-Qaida network and the Taliban, and repealing Council Regulation (EC) No 467/2001 prohibiting the export of certain goods and services to Afghanistan, strengthening the flight ban and extending the freeze of funds and other financial resources in respect of the Taliban of Afghanistan(1), as last amended by Commission Regulation (EC) No 342/2003(2), and in particular Article 7(1), first indent, thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Annex I to Regulation (EC) No 881/2002 lists the persons, groups and entities covered by the freezing of funds and economic resources under that Regulation.</p>
+      <p n="10">(2) On 24 February 2003, the Sanctions Committee decided to amend the list of persons, groups and entities to whom the freezing of funds and economic resources should apply and, therefore, Annex I should be amended accordingly.</p>
+      <p n="11">(3) In order to ensure that the measures provided for in this Regulation are effective, this Regulation must enter into force immediately,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Annex I to Regulation (EC) No 881/2002 is hereby amended in accordance with the Annex to this Regulation.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 25 February 2003.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Christopher Patten</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 139, 29.5.2002, p. 9.</p>
+      <p n="23">(2) OJ L 49, 22.2.2003, p. 13.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">Annex I to Regulation (EC) No 881/2002 is amended as follows:</p>
+      <p n="26">The following entry shall be added under the heading "Legal persons, groups and entities":</p>
+      <p n="27">Ansar al-Islam (alias Devotees of Islam, Jund al-Islam, Soldiers of Islam, Kurdistan Supporters of Islam, Supporters of Islam in Kurdistan, Followers of Islam in Kurdistan, Kurdistan Taliban); location: north-eastern Iraq.</p>
+    </body>
+  </text>
+</TEI.2>

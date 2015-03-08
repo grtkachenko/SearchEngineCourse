@@ -1,0 +1,210 @@
+<TEI.2 id="jrc32003R1177-en" n="32003R1177" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1177 English</title>
+        <title>Regulation (EC) No 1177/2003 of the European Parliament and of the Council of 16 June 2003 concerning Community statistics on income and living conditions (EU-SILC) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>174 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1177:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1177:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1864</classCode>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">3659</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">83</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1177-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 1177/2003 of the European Parliament and of the Council of 16 June 2003 concerning Community statistics on income and living conditions (EU-SILC) (Text with EEA relevance)</head>
+      <p n="2">Regulation (EC) No 1177/2003 of the European Parliament and of the Council</p>
+      <p n="3">of 16 June 2003</p>
+      <p n="4">concerning Community statistics on income and living conditions (EU-SILC)</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 285(1) thereof,</p>
+      <p n="8">Having regard to the proposals from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Economic and Social Committee(2),</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) In order to carry out the tasks assigned to it, particularly after the Lisbon, Nice, Stockholm and Laeken European Council meetings held in March 2000, December 2000, March 2001 and December 2001 respectively, the Commission should be kept informed of income distribution and of the level and composition of poverty and social exclusion in the Member States.</p>
+      <p n="13">(2) The new open method of coordination in the field of social inclusion as well as the structural indicators to be produced for the annual synthesis report increase the need for comparable and timely cross-sectional and longitudinal data on income distribution and on the level and composition of poverty and social exclusion for establishing reliable and relevant comparisons between the Member States.</p>
+      <p n="14">(3) Decision No 50/2002/EC of the European Parliament and of the Council of 7 December 2001 establishing a programme of Community action to encourage cooperation between Member States to combat social exclusion(4) has established, under Action 1.2 of Strand 1 concerning the "analysis of social exclusion", the necessary conditions in relation to the funding of measures concerning the collection and dissemination of comparable statistics and in particular supporting the improvement of surveys and analysis of poverty and social exclusion.</p>
+      <p n="15">(4) The best method of assessing the situation as regards income, poverty and social exclusion is to compile Community statistics using harmonised methods and definitions. Some Member States may require additional time to adapt their systems to these harmonised methods and definitions.</p>
+      <p n="16">(5) To reflect changes taking place in the distribution of income and in the level and composition of poverty and social exclusion, the statistics need to be updated annually.</p>
+      <p n="17">(6) To investigate major issues of social concern, especially new issues requiring specific research, the Commission needs cross-sectional and longitudinal micro-data at household and personal level.</p>
+      <p n="18">(7) Priority should be given to the production of timely and comparable annual cross-sectional data on income, poverty and social exclusion.</p>
+      <p n="19">(8) Flexibility in terms of data sources, in particular the use of existing national data sources, whether they be surveys or registers, and national sample designs should be encouraged and the integration of the new source(s) into established national statistical systems should be promoted.</p>
+      <p n="20">(9) Commission Regulation (EC) No 831/2002 of 17 May 2002 implementing Council Regulation (EC) No 322/97 on Community statistics, concerning access to confidential data for scientific purposes(5) has established, for the purpose of enabling statistical conclusions to be drawn for scientific purposes, the conditions pursuant to which access to confidential data transmitted to the Community authority may be granted.</p>
+      <p n="21">(10) The production of specific Community statistics is governed by the rules set out in Council Regulation (EC) No 322/97 of 17 February 1997 on Community Statistics(6).</p>
+      <p n="22">(11) The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(7).</p>
+      <p n="23">(12) The Statistical Programme Committee (SPC) has been consulted in accordance with Article 3 of Council Decision 89/382/EEC, Euratom(8),</p>
+      <p n="24">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="25">Article 1</p>
+      <p n="26">Aim</p>
+      <p n="27">The aim of this Regulation shall be to establish a common framework for the systematic production of Community statistics on income and living conditions (hereinafter referred to as EU-SILC), encompassing comparable and timely cross-sectional and longitudinal data on income and on the level and composition of poverty and social exclusion at national and European levels.</p>
+      <p n="28">Comparability of data between Member States shall be a fundamental objective and shall be pursued through the development of methodological studies from the outset of EU-SILC data collection, carried out in close cooperation between the Member States and Eurostat.</p>
+      <p n="29">Article 2</p>
+      <p n="30">Definitions</p>
+      <p n="31">For the purpose of this Regulation, the following definitions shall apply:</p>
+      <p n="32">(a) "Community statistics" shall have the meaning assigned to it in Article 2 of Regulation (EC) No 322/97;</p>
+      <p n="33">(b) "production of statistics" shall have the meaning assigned to it in Article 2 of Regulation (EC) No 322/97;</p>
+      <p n="34">(c) "year of survey": means the year in which the survey-data collection, or most of the collection, is carried out;</p>
+      <p n="35">(d) "fieldwork period": means the period of time in which the survey component is collected;</p>
+      <p n="36">(e) "reference period": means the period of time to which a particular item of information relates;</p>
+      <p n="37">(f) "private household": means a person living alone or a group of people who live together in the same private dwelling and share expenditures, including the joint provision of the essentials of living;</p>
+      <p n="38">(g) "cross-sectional data": means the data pertaining to a given time or a certain time period. Cross-sectional data may be extracted either from a cross-sectional sample survey with or without a rotational sample or from a pure panel sample survey (on condition that cross-sectional representativeness is guaranteed); such data may be combined with register data (data on persons, households or dwellings compiled from a unit-level administrative or statistical register);</p>
+      <p n="39">(h) "longitudinal data": means the data pertaining to individual-level changes over time, observed periodically over a certain duration. Longitudinal data may come either from a cross-sectional survey with a rotational sample where individuals once selected are followed up or from a pure panel survey; it may be combined with register data;</p>
+      <p n="40">(i) "sample persons": means the persons selected to constitute the sample in the first wave of a longitudinal panel. They may comprise all members of an initial sample of households, or a representative sample of individuals in a survey of persons;</p>
+      <p n="41">(j) "target primary areas": means the subject areas for which data are to be collected on an annual basis;</p>
+      <p n="42">(k) "target secondary areas": means the subject areas for which data are to be collected every four years or less frequently;</p>
+      <p n="43">(l) "gross income": means the total monetary and non-monetary income received by the household over a specified "income reference period", before deduction of income tax, regular taxes on wealth, employees', self-employed and unemployed (if applicable) persons' compulsory social insurance contributions and employers' social insurance contributions, but after including inter-household transfers received;</p>
+      <p n="44">(m) "disposable income": means gross income less income tax, regular taxes on wealth, employees', self-employed and unemployed (if applicable) persons' compulsory social insurance contributions, employers' social insurance contributions and inter-household transfers paid.</p>
+      <p n="45">Article 3</p>
+      <p n="46">Scope</p>
+      <p n="47">The EU-SILC shall cover cross-sectional data on income, poverty, social exclusion and other living conditions as well as longitudinal data restricted to income, labour and a limited number of non-monetary indicators of social exclusion.</p>
+      <p n="48">Article 4</p>
+      <p n="49">Time reference</p>
+      <p n="50">1. The cross-sectional and longitudinal data shall be produced annually as from 2004. In any given Member State, the timing of collection shall be kept the same from one year to the next as far as possible.</p>
+      <p n="51">2. By way of exception to paragraph 1, Germany, the Netherlands and the United Kingdom may start the annual cross-sectional and longitudinal data collection in 2005. This will be the case provided that those Member States supply comparable data for the year 2004 for the cross-sectional common European Union indicators, which have been adopted by the Council before 1 January 2003 in the context of the open method of coordination and which can be derived on the basis of the EU-SILC instrument.</p>
+      <p n="52">3. The income reference period shall be a 12-month period. This may be a fixed 12-month period (such as the previous calendar or tax year) or a moving 12-month period (such as the 12 months preceding the interview) or be based on a comparable measure.</p>
+      <p n="53">4. If a fixed income reference period is used, fieldwork for the survey component shall be carried out over a limited period as close as possible to the income reference period or to the tax declaration period so as to minimise time lag between income and current variables.</p>
+      <p n="54">Article 5</p>
+      <p n="55">Characteristics of the data</p>
+      <p n="56">1. In order to permit multi-dimensional analysis at the level of households and persons and in particular investigation of major issues of social concern that are new and require specific research, all household and individual data shall be linkable in the cross-sectional component.</p>
+      <p n="57">Similarly, all household and personal data shall be linkable in the longitudinal component.</p>
+      <p n="58">Longitudinal micro-data do not need to be linkable with cross-sectional micro-data.</p>
+      <p n="59">The longitudinal component shall cover at least four years.</p>
+      <p n="60">2. In order to reduce response burdens, to help in income imputation procedures and to test data quality, the national authorities shall have access to relevant administrative data sources in accordance with Regulation (EC) No 322/97.</p>
+      <p n="61">Article 6</p>
+      <p n="62">Data required</p>
+      <p n="63">1. The target primary areas and corresponding reference periods to be covered by the cross-sectional and the longitudinal components are laid down in Annex I.</p>
+      <p n="64">2. Target secondary areas shall be included every year starting from 2005 only in the cross-sectional component. They shall be defined in accordance with the procedure referred to in Article 14(2). One secondary area shall be covered each year.</p>
+      <p n="65">Article 7</p>
+      <p n="66">Collection unit</p>
+      <p n="67">1. The reference population for the EU-SILC shall be all private households and their current members residing in the territory of the Member State at the time of the data collection.</p>
+      <p n="68">2. The main information collected shall pertain to</p>
+      <p n="69">(a) private households, including data on household size, composition and basic characteristics of its current members; and</p>
+      <p n="70">(b) persons aged 16 and over.</p>
+      <p n="71">3. The collection unit, together with the mode of collection for household and personal information, shall be as laid down in Annex I.</p>
+      <p n="72">Article 8</p>
+      <p n="73">Sampling and tracing rules</p>
+      <p n="74">1. Cross-sectional and longitudinal data shall be based on nationally representative probability samples.</p>
+      <p n="75">2. By way of exception to paragraph 1, Germany shall supply cross-sectional data based on a nationally representative probability sample for the first time for the year 2008. For the year 2005, Germany shall supply data of which 25 % shall be based on probability sampling and 75 % shall be based on quota samples, the latter to be progressively replaced by random selection so as to achieve fully representative probability sampling by 2008.</p>
+      <p n="76">For the longitudinal component, Germany shall supply for the year 2006 one third of longitudinal data (data for years 2005 and 2006) based on probability sampling and two thirds based on quota samples. For the year 2007, half of the longitudinal data relating to years 2005, 2006 and 2007 shall be based on probability sampling and half on quota samples. After 2007 all longitudinal data shall be based on probability sampling.</p>
+      <p n="77">3. In the longitudinal component, individuals included in the initial sample, that is to say, sample persons, shall be followed over the duration of the panel. Every sample person who has moved to a private household within the national boundaries shall be followed up to the new location in accordance with tracing rules and procedures to be defined under the procedure referred to in Article 14(2).</p>
+      <p n="78">Article 9</p>
+      <p n="79">Sample sizes</p>
+      <p n="80">1. On the basis of various statistical and practical considerations and the precision requirements for the most critical variables, the minimum effective sample sizes to be achieved shall be as set out in the table in Annex II.</p>
+      <p n="81">2. Sample size for the longitudinal component refers, for any pair of consecutive years, to the number of households successfully interviewed in the first year in which all or at least a majority of the household members aged 16 or over are successfully interviewed in both the years.</p>
+      <p n="82">3. Member States using registers for income and other data may use a sample of persons rather than a sample of complete households in the interview survey. The minimum effective sample size in terms of the number of persons aged 16 or over to be interviewed in detail shall be taken as 75 % of the figures shown in columns 3 and 4 of the table in Annex II, for the cross-sectional and longitudinal components respectively.</p>
+      <p n="83">Information on income and other data shall also be collected for the household of each selected respondent and for all its members.</p>
+      <p n="84">Article 10</p>
+      <p n="85">Transmission of data</p>
+      <p n="86">1. Member States shall transmit to the Commission (Eurostat) in the form of micro-data files weighted cross-sectional and longitudinal data which has been fully checked, edited and imputed in relation to income.</p>
+      <p n="87">Member States shall transmit the data in electronic form, in conformity with an appropriate technical format to be adopted in accordance with the procedure referred to in Article 14(2).</p>
+      <p n="88">2. Regarding the cross-sectional component, Member States shall transmit the micro-data files relating to year of survey N to the Commission (Eurostat), preferably within 11 months after the end of the data collection. The extreme deadline for the transmission of micro-data to Eurostat shall be 30 November (N+1) for Member States where data are collected at the end of year N or through a continuous survey or through registers and 1 October (N+1) for other Member States.</p>
+      <p n="89">Together with the micro-data files, Member States shall transmit social cohesion indicators based on the cross-sectional sample of year N which will be included in the annual Spring report of year (N+2) to the European Council.</p>
+      <p n="90">The dates of transmission of data also apply for the transmission of comparable data for cross-sectional common EU indicators for those Member States which start annual collection of data after 2004 in accordance with Article 4(2).</p>
+      <p n="91">3. As for the longitudinal component, Member States shall transmit the micro-data files up to year N to the Commission (Eurostat) preferably within 15 months after the end of the fieldwork. The mandatory deadline for the transmission of micro-data to Eurostat shall be the end of March (N+2), each year starting from the second year of EU-SILC.</p>
+      <p n="92">The first transmission of data, covering longitudinally linked data for:</p>
+      <p n="93">- the survey years 2004 and 2005, in the case of Member States starting annual data collection in 2004, shall take place by the end of March 2007; and</p>
+      <p n="94">- the survey years 2005 and 2006, in the case of Member States starting annual data collection in 2005, shall take place by the end of March 2008.</p>
+      <p n="95">The next transmission shall cover the first three survey years 2004-2006 (2005-2007) and shall take place respectively by the end of March 2008 and 2009.</p>
+      <p n="96">Thereafter, each year longitudinal data shall be provided covering the preceding four survey years (revised from previous releases as necessary).</p>
+      <p n="97">Article 11</p>
+      <p n="98">Publication</p>
+      <p n="99">For the cross-sectional component, the Commission (Eurostat) shall publish an annual cross-sectional report at Community level by the end of June N+2, based on the data collected during year N.</p>
+      <p n="100">For those Member States which start annual data collection after 2004 in accordance with Article 4(2) the cross-sectional report for 2004 shall include the common cross-sectional EU indicators.</p>
+      <p n="101">As from 2006, the cross sectional report shall include the available results of methodological studies referred to in Article 16.</p>
+      <p n="102">Article 12</p>
+      <p n="103">Access for scientific purposes to EU-SILC confidential data</p>
+      <p n="104">1. The Community authority (Eurostat) may grant access on its premises to confidential data or release sets of anonymised micro-data from the EU-SILC source, for scientific purposes and under the conditions laid down in Regulation (EC) No 831/2002.</p>
+      <p n="105">2. For the cross-sectional component, micro-data files at Community level for data collected during year N shall be made available for scientific purposes by the end of February N+2.</p>
+      <p n="106">3. For the longitudinal component, micro-data files at Community level for data collected up to year N shall be made available for scientific purposes by the end of July N+2.</p>
+      <p n="107">The first issue of longitudinal micro-data files for those Member States which start data collection in 2004 shall cover the years 2004 and 2005 and shall take place at the end of July 2007.</p>
+      <p n="108">The second issue in July 2008 shall cover the years 2004-2006, for those Member States which start the data collection in 2004, and the years 2005 and 2006, for those Member States which start data collection in 2005.</p>
+      <p n="109">The third issue in July 2009 shall cover the years 2004-2007, for those Member States which start the data collection in 2004, and the years 2005-2007 for those Member States which start data collection in 2005.</p>
+      <p n="110">Thereafter, each July release shall cover longitudinal data at Community level for the four most recent years for which data are available.</p>
+      <p n="111">4. Reports produced by the Scientific Community based on cross-sectional micro-data files for data collected during year N shall not be disseminated before July N+2.</p>
+      <p n="112">Reports produced by the Scientific Community based on longitudinal micro-data files in relation to the year of the survey N shall not be disseminated before July N+3.</p>
+      <p n="113">Article 13</p>
+      <p n="114">Financing</p>
+      <p n="115">1. For the first four years of data collection in each Member State, that Member State shall receive a financial contribution from the Community towards the cost of the work involved.</p>
+      <p n="116">2. The amount of the appropriations allocated annually for the financial contribution referred to in paragraph 1 shall be fixed as part of the annual budgetary procedures.</p>
+      <p n="117">3. The budget authority shall grant the appropriations available for each year.</p>
+      <p n="118">Article 14</p>
+      <p n="119">Committee</p>
+      <p n="120">1. The Commission shall be assisted by the Statistical Programme Committee, set up by Decision 89/382 (EEC/Euratom).</p>
+      <p n="121">2. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.</p>
+      <p n="122">The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.</p>
+      <p n="123">3. The Committee shall adopt its rules of procedure.</p>
+      <p n="124">Article 15</p>
+      <p n="125">Implementing measures</p>
+      <p n="126">1. The measures necessary for the implementation of this Regulation, including measures to take account of economic and technical changes, shall be taken, at least 12 months before the beginning of the year of the survey, in accordance with the procedure referred to in Article 14(2).</p>
+      <p n="127">2. Such measures shall concern:</p>
+      <p n="128">(a) the definition of the list of target primary variables to be included in each area for the cross-sectional component and the list of target variables included in the longitudinal component, including the specification of variable codes and the technical format of transmission to Eurostat;</p>
+      <p n="129">(b) the detailed content of both intermediate and final quality reports;</p>
+      <p n="130">(c) the definitions and the updating of the definitions, in particular the bringing into operation of the income definitions given in points (l) and (m) of Article 2 (including the timetable for the inclusion of the various components);</p>
+      <p n="131">(d) the sampling aspects, including tracing rules;</p>
+      <p n="132">(e) the fieldwork aspects and the imputation procedures;</p>
+      <p n="133">(f) the list of target secondary areas and variables.</p>
+      <p n="134">3. By way of exception, the measures, including those which take into account economic and technical changes, necessary for the implementation of this Regulation regarding the 2004 data collection, shall relate only to points (a) to (e) of paragraph 2 and shall be taken at least six months before the beginning of the year of the survey.</p>
+      <p n="135">4. In each Member State the total duration of the interview relating to the target primary and target secondary variables of the cross-sectional component, including household and individual interviews, shall not exceed one hour on average.</p>
+      <p n="136">Article 16</p>
+      <p n="137">Reports and studies</p>
+      <p n="138">1. Member States shall produce by the end of the year N+1 an intermediate quality report relating to the common cross-sectional EU indicators based on the cross-sectional component of year N.</p>
+      <p n="139">Member States shall produce by the end of year N+2, final quality reports that cover both cross-sectional and longitudinal components in relation to the year of the survey N, focusing on the internal accuracy. By way of exception, the 2004 report (for Member States starting data collection in 2004) and 2005 report (for Member States starting data collection in 2005) shall only cover the cross-sectional component.</p>
+      <p n="140">Small departures from common definitions, such as those relating to private household definition and income reference period, shall be allowed, provided they affect comparability only marginally. The impact on comparability shall be reported in the quality reports.</p>
+      <p n="141">2. The Commission (Eurostat) shall produce by the end of June N+2 a comparative intermediate quality report relating to the common cross-sectional EU indicators of year N.</p>
+      <p n="142">The Commission (Eurostat) shall produce by 30 June N+3 a comparative final quality report that covers both cross-sectional and longitudinal components in relation to the year of the survey N. By way of exception, the 2004 report (for those Member States starting data collection in 2004) and the 2005 report (for those Member States starting data collection in 2005) shall cover only the cross-sectional component.</p>
+      <p n="143">3. No later than 31 December 2007, the Commission will submit a report to the European Parliament and the Council on the work done under this Regulation.</p>
+      <p n="144">4. The Commission (Eurostat) shall organise from 2004 methodological studies to estimate the impact on comparability of the national data sources used and to identify best practices to be followed. The results of these studies shall be included in the report referred to in paragraph 3.</p>
+      <p n="145">Article 17</p>
+      <p n="146">Entry into force</p>
+      <p n="147">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="148">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="149">Done at Luxembourg, 16 June 2003.</p>
+      <p n="150">For the European Parliament</p>
+      <p n="151">The President</p>
+      <p n="152">P. Cox</p>
+      <p n="153">For the Council</p>
+      <p n="154">The President</p>
+      <p n="155">G. Papandreou</p>
+      <p n="156">(1) OJ C 103 E, 30.4.2002, p. 198, and amended proposal of 15 November 2002.</p>
+      <p n="157">(2) OJ C 149, 21.6.2002, p. 24.</p>
+      <p n="158">(3) Opinion of the European Parliament of 14 May 2002 (not yet published in the Official Journal), Council Common Position of 6 March 2003 (OJ C 107 E, 6.5.2003, p. 26) and Decision of the European Parliament of 13 May 2003 (not yet published in the Official Journal).</p>
+      <p n="159">(4) OJ L 10, 12.1.2002, p. 1.</p>
+      <p n="160">(5) OJ L 133, 18.5.2002, p. 7.</p>
+      <p n="161">(6) OJ L 52, 22.2.1997, p. 1.</p>
+      <p n="162">(7) OJ L 184, 17.7.1999, p. 23.</p>
+      <p n="163">(8) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="164">ANNEX I</p>
+      <p n="165">PRIMARY AREAS COVERED IN THE CROSS-SECTIONAL COMPONENT AND AREAS COVERED IN THE LONGITUDINAL COMPONENT</p>
+      <p n="166">1. Household information</p>
+      <p n="167">&gt;TABLE&gt;</p>
+      <p n="168">2. Personal information</p>
+      <p n="169">&gt;TABLE&gt;</p>
+      <p n="170">ANNEX II</p>
+      <p n="171">Minimum effective sample sizes</p>
+      <p n="172">&gt;TABLE&gt;</p>
+      <p n="173">Note:</p>
+      <p n="174">The reference is to the effective sample size which is the size required if the survey were based on simple random sampling (design effect in relation to the "risk of poverty rate" variable = 1,0). The actual sample sizes will have to be larger to the extent that the design effects exceed 1,0 and to compensate for non-response of all kinds. Furthermore, the sample size refers to the number of valid households which are households for which, and for all members of which, all or nearly all the required information has been obtained.</p>
+    </body>
+  </text>
+</TEI.2>

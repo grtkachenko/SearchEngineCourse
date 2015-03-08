@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31998D0743-en" n="31998D0743" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0743 English</title>
+        <title>98/743/EC: Council Decision of 21 December 1998 on the detailed provisions concerning the composition of the Economic and Financial Committee</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0743:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0743:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3559</classCode>
+        <classCode scheme="eurovoc">4038</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+        <classCode scheme="eurovoc">5943</classCode>
+        <classCode scheme="eurovoc">6049</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0743-en." lang="en">
+    <body>
+      <head n="1">98/743/EC: Council Decision of 21 December 1998 on the detailed provisions concerning the composition of the Economic and Financial Committee</head>
+      <p n="2">COUNCIL DECISION of 21 December 1998 on the detailed provisions concerning the composition of the Economic and Financial Committee (98/743/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 109c(3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Central Bank (2),</p>
+      <p n="7">Having regard to the opinion of the Monetary Committee (3),</p>
+      <p n="8">(1) Whereas the Treaty provides that an Economic and Financial Committee should be set up at the start of the third stage of economic and monetary union;</p>
+      <p n="9">(2) Whereas the Treaty requires the Council to adopt detailed provisions concerning the composition of the Economic and Financial Committee; whereas the Member States, the Commission and the European Central Bank are each to appoint no more than two members of the Committee;</p>
+      <p n="10">(3) Whereas the tasks of the Economic and Financial Committee are set out in Article 109c(2) of the Treaty; whereas as part of those tasks the Economic and Financial Committee is to keep under review the economic and financial situation of the Member States and of the Community and to report regularly thereon to the Council and to the Commission in particular on financial relations with third countries and international institutions; whereas the Economic and Financial Committee is to contribute to the preparation of the work of the Council, inter alia, for recommendations required as part of multilateral surveillance and the broad economic guidelines set down in Article 103 of the Treaty, and for decisions required as part of the excessive deficit procedure set down in Article 104c of the Treaty; whereas given the nature and importance of those tasks, it is essential that members of the Committee and alternate members be selected from among experts possessing outstanding competence in the economic and financial field;</p>
+      <p n="11">(4) Whereas in its Resolution (4) on Economic Policy Coordination in stage 3 of EMU, the European Council of Luxembourg of 12 and 13 December 1997 concluded that the Economic and Financial Committee will provide the framework within which the dialogue between the Council and the European Central Bank can be prepared and continued at the level of senior officials; whereas those officials will come from the national central banks and the European Central Bank as well as from national administrations;</p>
+      <p n="12">(5) Whereas 'administration` refers to the services of the ministers attending the Council when meeting in the composition of Economic and Finance ministers;</p>
+      <p n="13">(6) Whereas the membership of the Committee of officials from the European Central Bank and national central banks is to be without prejudice to Article 107 of the Treaty,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Member States, the Commission and the European Central Bank shall each appoint two members of the Economic and Financial Committee. They may also appoint two alternate members of the Committee.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The members of the Committee and the alternates shall be selected from among experts possessing outstanding competence in the economic and financial field.</p>
+      <p n="19">Article 3</p>
+      <p n="20">The two members appointed by the Member States shall be selected respectively from among senior officials from the administration and the national central bank. The alternates shall be selected under the same conditions.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="23">It shall take effect as from 1 January 1999.</p>
+      <p n="24">Done at Brussels, 21 December 1998.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">M. BARTENSTEIN</p>
+      <p n="28">(1) OJ C 125, 23. 4. 1998, p. 17.</p>
+      <p n="29">(2) Opinion delivered on 26 November 1998 (not yet published in the Official Journal).</p>
+      <p n="30">(3) Opinion delivered on 17 November 1998 (not yet published in the Official Journal).</p>
+      <p n="31">(4) OJ C 35, 2. 2. 1998, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31996D0332-en" n="31996D0332" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0332 English</title>
+        <title>96/332/EC: Commission Decision of 3 May 1996 amending Decision 93/231/EEC, authorizing, in respect of the marketing of seed potatoes in all or part of the territory of certain Member States, more stringent measures against certain diseases than are provided for in Annexes I and II to Council Directive 66/403/EEC (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0332:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0332:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">1318</classCode>
+        <classCode scheme="eurovoc">1595</classCode>
+        <classCode scheme="eurovoc">2409</classCode>
+        <classCode scheme="eurovoc">2548</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0332-en." lang="en">
+    <body>
+      <head n="1">96/332/EC: Commission Decision of 3 May 1996 amending Decision 93/231/EEC, authorizing, in respect of the marketing of seed potatoes in all or part of the territory of certain Member States, more stringent measures against certain diseases than are provided for in Annexes I and II to Council Directive 66/403/EEC (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 3 May 1996 amending Decision 93/231/EEC, authorizing, in respect of the marketing of seed potatoes in all or part of the territory of certain Member States, more stringent measures against certain diseases than are provided for in Annexes I and II to Council Directive 66/403/EEC (Text with EEA relevance) (96/332/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 66/403/EEC of 14 June 1996 on the marketing of seed potatoes (1), as last amended by Council Directive 96/16/EC (2), and in particular Article 13 (2) thereof,</p>
+      <p n="6">Whereas Commission Decision 93/231/EEC (3), as last amended by Decision 95/21/EC (4), authorized certain Member States, in respect of listed regions, to restrict the marketing of seed potatoes to basic seed potatoes of certain Community grades;</p>
+      <p n="7">Whereas in Germany the region of Bundesland Mecklenburg-Vorpommern was one such listed region;</p>
+      <p n="8">Whereas, as a result of German unification, changes in the administrative structure of certain regions in Germany require that the entry relating to Germany in the said Decision be amended;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Annex to Decision 93/231/EEC is hereby amended in accordance with the Annex hereto.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 3 May 1996.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No 125, 11. 7. 1966, p. 2320/66.</p>
+      <p n="20">(2) OJ No L 6, 9. 1. 1996, p. 19.</p>
+      <p n="21">(3) OJ No L 106, 30. 4. 1993, p. 11.</p>
+      <p n="22">(4) OJ No L 28, 7. 2. 1995, p. 13.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">In the entry relating to Germany in the Annex to Decision 93/231/EEC, column 2 is replaced by the following:</p>
+      <p n="25">'Bundesland Mecklenburg-Vorpommern</p>
+      <p n="26">- Gemeinde Groß Lüsewitz</p>
+      <p n="27">- Ortsteile Lindenhof und Pentz der Gemeinde Metschow</p>
+      <p n="28">- Gemeinden Böhlendorf, Breesen, Langsdorf sowie Ortsteil Grammow der Gemeinde Grammow</p>
+      <p n="29">- Gemeinden Hohenbrünzow, Hohenmocker, Ortsteil Ganschendorf der Gemeinde Sarow sowie Ortsteil Leistenow der Gemeinde Utzedel</p>
+      <p n="30">- Gemeinden Ranzin, Lüssow und Gribow</p>
+      <p n="31">- Gemeinde Pelsin.`</p>
+    </body>
+  </text>
+</TEI.2>

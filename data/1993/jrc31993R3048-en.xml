@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31993R3048-en" n="31993R3048" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993R3048 English</title>
+        <title>Commission Regulation (EC) No 3048/93 of 4 November 1993 amending Regulation (EEC) No 675/88 laying down detailed rules for the production aid for certain varieties of rice</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R3048:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R3048:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993R3048-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 3048/93 of 4 November 1993 amending Regulation (EEC) No 675/88 laying down detailed rules for the production aid for certain varieties of rice</head>
+      <p n="2">COMMISSION REGULATION (EC) No 3048/93 of 4 November 1993 amending Regulation (EEC) No 675/88 laying down detailed rules for the production aid for certain varieties of rice</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1418/76 of 21 June 1976 on the common organization of the market in rice (1), as last amended by Regulation (EEC) No 1544/93 (2), and in particular Article 8a (5) thereof,</p>
+      <p n="6">Whereas Regulation (EEC) No 675/88 (3) laid down detailed rules for the implementation of production aid for certain varieties of rice;</p>
+      <p n="7">Whereas, in order to ensure that the scheme operates efficiently, monitoring arrangements should be laid down to guarantee that aid is granted only for the areas and products eligible; whereas the loss of an applicant's right to aid for all the areas contained in a false declaration is an excessive penalty; whereas, therefore, Regulation (EEC) No 675/88 should be amended;</p>
+      <p n="8">Whereas the amended rules should apply to applications in respect of rice planted during the 1992/93 marketing year for harvest in 1993;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Article 5 of Regulation (EEC) No 675/88 is hereby replaced by the following:</p>
+      <p n="13">'Article 5</p>
+      <p n="14">1. If, on inspection, the area actually determined is found to be greater than that declared in the application, the area declared shall be used for calculation of the aid.</p>
+      <p n="15">2. If the area actually determined is found to be less than that declared in an application, the area actually determined shall be used for calculation of the aid. However, except in cases of force majeure, the area actually determined shall be reduced:</p>
+      <p n="16">- by twice the difference found if this is more than 2 % or 2 hectares but not more than 10 % of the determined area,</p>
+      <p n="17">- by 30 % if the difference found is more than 10 % but not more than 20 % of the determined area.</p>
+      <p n="18">If the difference is more than 20 % of the determined area, or a false declaration is found to have been made intentionally or to be the result of serious negligence, no aid shall be granted.</p>
+      <p n="19">This paragraph shall apply without prejudice to any further sanctions provided for under national law.'</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">It shall apply with effect from 30 July 1993.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 4 November 1993.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">René STEICHEN</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ No L 166, 25. 6. 1976, p. 1.</p>
+      <p n="29">(2) OJ No L 154, 25. 6. 1993, p. 5.</p>
+      <p n="30">(3) OJ No L 70, 16. 3. 1988, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

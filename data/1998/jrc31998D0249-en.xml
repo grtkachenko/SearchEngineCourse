@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31998D0249-en" n="31998D0249" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0249 English</title>
+        <title>98/249/EC: Council Decision of 7 October 1997 on the conclusion of the Convention for the protection of the marine environment of the north-east Atlantic</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0249:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0249:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2110</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">5742</classCode>
+        <classCode scheme="eurovoc">5873</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0249-en." lang="en">
+    <body>
+      <head n="1">98/249/EC: Council Decision of 7 October 1997 on the conclusion of the Convention for the protection of the marine environment of the north-east Atlantic</head>
+      <p n="2">COUNCIL DECISION of 7 October 1997 on the conclusion of the Convention for the protection of the marine environment of the north-east Atlantic (98/249/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 130s(1), in conjunction with Article 228(2) and (3), first subparagraph thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Whereas the Commission, on behalf of the Community, took part in the negotiations on the drafting of the Convention for the protection of the marine environment of the north-east Atlantic;</p>
+      <p n="8">Whereas the Convention was signed on behalf of the Community on 22 September 1992;</p>
+      <p n="9">Whereas the Convention aims to prevent and eliminate pollution and to protect the maritime area against the adverse effects of human activities;</p>
+      <p n="10">Whereas the Community has adopted measures in the area covered by the Convention and should therefore undertake international commitments in that area; whereas the Community's action is a necessary complement to that of the Member States directly concerned and its participation in the Convention would appear to comply with the principle of subsidiarity;</p>
+      <p n="11">Whereas pursuant to Article 130r of the Treaty, Community policy on the environment contributes, inter alia, to pursuit of the objectives of preserving, protecting and improving the quality of the environment, protecting human health, and prudent and rational utilisation of natural resources; whereas, moreover, with their respective spheres of competence, the Community and the Member States cooperate with third countries and with the competent international organisations,</p>
+      <p n="12">HAS ADOPTED THIS DECISION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Convention for the protection of the marine environment of the north-east Atlantic, as signed in Paris on 22 September 1992, is hereby approved on behalf of the Community.</p>
+      <p n="15">The text of the Convention is attached to this Decision.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The President of the Council is hereby authorised to designate the person or persons empowered to deposit the instrument of approval with the Government of the French Republic in accordance with the provisions of Article 26 of the Convention.</p>
+      <p n="18">Article 3</p>
+      <p n="19">The Community shall be represented by the Commission as regards matters within the sphere of Community competence, in the commission established under Article 10 of the Convention.</p>
+      <p n="20">Done at Luxembourg, 7 October 1997.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">J.-C. JUNCKER</p>
+      <p n="24">(1) OJ C 89, 10.4.1995, p. 199.</p>
+    </body>
+  </text>
+</TEI.2>

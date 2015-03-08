@@ -1,0 +1,50 @@
+<TEI.2 id="jrc31978D0685-en" n="31978D0685" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31978D0685 English</title>
+        <title>78/685/EEC: Commission Decision of 26 July 1978 establishing a list of epizootic diseases in accordance with Directive 72/462/EEC</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31978D0685:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31978D0685:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31978D0685-en." lang="en">
+    <body>
+      <head n="1">78/685/EEC: Commission Decision of 26 July 1978 establishing a list of epizootic diseases in accordance with Directive 72/462/EEC</head>
+      <p n="2">COMMISSION DECISION of 26 July 1978 establishing a list of epizootic diseases in accordance with Directive 72/462/EEC (78/685/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 72/462/EEC of 12 December 1972 on health and veterinary inspection problems upon importation of bovine animals and swine and fresh meat from third countries (1), and in particular Articles 12 (3) (c) and 29 thereof,</p>
+      <p n="6">Whereas it may be necessary to proceed with the slaughter and destruction of all animals of a consignment which on arrival in the territory of the Community shows evidence or suspicion of an epizootic disease, in particular those which are exotic for the Community, in order to safeguard the health of man and animals and to avoid the very serious consequences which may result from the appearance or development of such diseases within the Community;</p>
+      <p n="7">Whereas the measure provided for in this Decision is in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="8">HAS ADOPTED THIS DECISION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">All animals in a consignment presented for importation may be slaughtered and destroyed, when the health inspection carried out on the arrival of the animals in the territory of the Community in accordance with Article 12 (1) of Directive 72/462/EEC, shows evidence or suspicion of one of the epizootic diseases on the list figuring in the Annex hereto.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Decision is addressed to the Member States.</p>
+      <p n="13">Done at Brussels, 26 July 1978.</p>
+      <p n="14">For the Commission</p>
+      <p n="15">Finn GUNDELACH</p>
+      <p n="16">Vice-President (1)OJ No L 302, 31.12.1972, p. 28.</p>
+      <p n="17">ANNEX</p>
+      <p n="18">Swine : Foot-and-mouth disease : all types of virus</p>
+      <p n="19">Classical and African swine fever</p>
+      <p n="20">Swine vesicular disease</p>
+      <p n="21">Teschen disease</p>
+      <p n="22">Bovine animals : Foot-and-mouth disease : all types of virus</p>
+      <p n="23">Rinderpest</p>
+    </body>
+  </text>
+</TEI.2>

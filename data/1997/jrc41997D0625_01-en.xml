@@ -1,0 +1,49 @@
+<TEI.2 id="jrc41997D0625_01-en" n="41997D0625(01)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41997D0625(01) English</title>
+      </titleStmt>
+      <extent>14 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0625(01):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0625(01):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2881</classCode>
+        <classCode scheme="eurovoc">3908</classCode>
+        <classCode scheme="eurovoc">3912</classCode>
+        <classCode scheme="eurovoc">4158</classCode>
+        <classCode scheme="eurovoc">4353</classCode>
+        <classCode scheme="eurovoc">5769</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41997D0625_01-en." lang="en">
+    <body>
+      <p n="2">DECISION OF THE REPRESENTATIVES OF THE GOVERNMENTS OF THE MEMBER STATES of 2 June 1997 determining the seat of the European Monitoring Centre on Racism and Xenophobia (97/C 194/02)</p>
+      <p n="3">THE REPRESENTATIVES OF THE GOVERNMENTS OF THE MEMBER STATES,</p>
+      <p n="4">Having regard to Article 17 of Council Regulation (EC) No 1035/97 of 2 June 1997 establishing a European Monitoring Centre on Racism and Xenophobia (1),</p>
+      <p n="5">Whereas it is necessary to determine the seat of the European Monitoring Centre on Racism and Xenophobia,</p>
+      <p n="6">HAVE DECIDED AS FOLLOWS:</p>
+      <p n="7">Article 1</p>
+      <p n="8">The European Monitoring Centre on Racism and Xenophobia shall have its seat in Vienna.</p>
+      <p n="9">Article 2</p>
+      <p n="10">This Decision, which shall be published in the Official Journal ot the European Communities, shall enter into force on the same day as Council Regulation (EC) No 1035/97 of 2 June 1997 establishing a European Monitoring Centre on Racism and Xenophobia.</p>
+      <p n="11">Done at Luxembourg, 2 June 1997.</p>
+      <p n="12">The President</p>
+      <p n="13">Hans VAN MIERLO</p>
+      <p n="14">(1) OJ No L 151, 10. 6. 1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

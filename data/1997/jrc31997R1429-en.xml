@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31997R1429-en" n="31997R1429" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1429 English</title>
+        <title>Commission Regulation (EC) No 1429/97 of 23 July 1997 amending Regulation (EC) No 832/97 laying down detailed rules for the application of Council Regulation (EC) No 2275/96 introducing specific measures for live plants and floricultural products</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1429:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1429:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1031</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">5792</classCode>
+        <classCode scheme="eurovoc">889</classCode>
+        <classCode scheme="eurovoc">976</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1429-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1429/97 of 23 July 1997 amending Regulation (EC) No 832/97 laying down detailed rules for the application of Council Regulation (EC) No 2275/96 introducing specific measures for live plants and floricultural products</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1429/97 of 23 July 1997 amending Regulation (EC) No 832/97 laying down detailed rules for the application of Council Regulation (EC) No 2275/96 introducing specific measures for live plants and floricultural products</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2275/96 of 22 November 1996 introducing specific measures for live plants and floricultural products (1), and in particular Article 5 thereof,</p>
+      <p n="6">Whereas Article 2 (3) of Commission Regulation (EC) No 832/97 (2), as amended by Regulation (EC) No 931/97 (3), provides that measures receiving other national or regional assistance shall not be eligible; whereas it was not intended that this provision should exclude the use in the framework of measures referred to in Regulation (EC) No 832/97 of funds deriving from compulsory charges on operators in the sector of live plants and floricultural products in respect of products obtained entirely in the Member State concerned; whereas in order to dispel uncertainty on this point, it is desirable to amend the provision;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Live Plants,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The following sentence is added to the first indent of Article 2 (3) of Regulation (EC) No 832/97:</p>
+      <p n="11">'The use of funds deriving from compulsory charges on operators in the sector of live plants and floricultural products in respect of products obtained entirely in the Member State concerned shall not be deemed to constitute national or regional assistance.`</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 23 July 1997.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 308, 29. 11. 1996, p. 7.</p>
+      <p n="20">(2) OJ No L 119, 8. 5. 1997, p. 17.</p>
+      <p n="21">(3) OJ No L 135, 27. 5. 1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

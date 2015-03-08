@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32003D0083-en" n="32003D0083" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0083 English</title>
+        <title>2003/83/EC: Commission Decision of 5 February 2003 amending Council Directive 95/70/EC introducing minimum Community measures for the control of certain diseases affecting bivalve molluscs (Text with EEA relevance) (notified under document number C(2003) 432)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0083:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0083:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">1961</classCode>
+        <classCode scheme="eurovoc">2999</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0083-en." lang="en">
+    <body>
+      <head n="1">2003/83/EC: Commission Decision of 5 February 2003 amending Council Directive 95/70/EC introducing minimum Community measures for the control of certain diseases affecting bivalve molluscs (Text with EEA relevance) (notified under document number C(2003) 432)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 5 February 2003</p>
+      <p n="4">amending Council Directive 95/70/EC introducing minimum Community measures for the control of certain diseases affecting bivalve molluscs</p>
+      <p n="5">(notified under document number C(2003) 432)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/83/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 95/70/EC of 22 December 1995 introducing minimum Community measures for the control of certain diseases affecting bivalve molluscs(1), as amended by Commission Decision 2001/293/EC(2), and in particular the second paragraph of Article 9 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Directive 95/70/EC lists serious mollusc diseases to which certain provisions for monitoring and disease control, as provided for in that Directive, are applicable.</p>
+      <p n="13">(2) In order to take account of the developments of the disease situation in the Community and in third countries, as well as the scientific knowledge and practical experience gained during recent years, the list of molluscs diseases, pathogens and sensitive species in Annex D to Directive 95/70/EC should be updated.</p>
+      <p n="14">(3) Particular attention should be paid to diseases which could cause serious damage to the mollusc stock if introduced into or spread within the Community, such as those notifiable to the International Office of Epizooties (OIE) and rare or exotic to the Community.</p>
+      <p n="15">(4) The species referred to as susceptible host species for the diseases and pathogens in question should be at least those laid down in the OIE most recent edition of the International Aquatic Animal Heath Code.</p>
+      <p n="16">(5) A period of time should be provided for the implementation of these new requirements.</p>
+      <p n="17">(6) Directive 95/70/EC should therefore be amended accordingly.</p>
+      <p n="18">(7) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="19">HAS ADOPTED THIS DECISION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Annex D to Directive 95/70/EC is replaced by the text in the Annex to this Decision.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision shall apply from 8 April 2003.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 5 February 2003.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">David Byrne</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 332, 30.12.1995, p. 33.</p>
+      <p n="31">(2) OJ L 100, 11.4.2001, p. 30.</p>
+      <p n="32">ANNEX</p>
+      <p n="33">"ANNEX D</p>
+      <p n="34">&gt;TABLE&gt;</p>
+      <p n="35">Note:</p>
+      <p n="36">Susceptible host species also includes any other species specified, for the pathogen in question, in the International Office of Epizooties' (OIE) most recent edition of the International Aquatic Animal Health Code."</p>
+    </body>
+  </text>
+</TEI.2>

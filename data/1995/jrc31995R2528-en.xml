@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31995R2528-en" n="31995R2528" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R2528 English</title>
+        <title>Commission Regulation (EC) No 2528/95 of 27 October 1995 amending Regulation (EC) No 1423/95 laying down detailed implementing rules for the import of products in the sugar sector other than molasses</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2528:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2528:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2733</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">4080</classCode>
+        <classCode scheme="eurovoc">5967</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R2528-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2528/95 of 27 October 1995 amending Regulation (EC) No 1423/95 laying down detailed implementing rules for the import of products in the sugar sector other than molasses</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2528/95 of 27 October 1995 amending Regulation (EC) No 1423/95 laying down detailed implementing rules for the import of products in the sugar sector other than molasses</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1785/81 of 30 June 1981 on the common organization of the markets in the sugar sector (1), as last amended by Regulation (EC) No 1101/95 (2), and in particular Articles 14 (2) and 15 (4) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 1423/95 of 23 June 1995 laying down detailed implementing rules for the import of products in the sugar sector other than molasses (3) lays down in particular the method to be used to determine the sucrose content and the dry matter content used for the application of import duties; whereas, in order to clarify the wording of the provisions in question, mention should be made of the products to which the method applies; whereas provision should also be made to specify that conversion into sucrose equivalent of the duties applicable to inulin syrups should be by application of the coefficient 1,9 used both to fix the production levies and export refunds and to fix, before 1 July 1995, the import levies;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Sugar,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Regulation (EC) No 1423/95 is hereby amended as follows:</p>
+      <p n="11">1. Article 5 (2) is replaced by the following:</p>
+      <p n="12">'2. For the products referred to in Article 1 (1) (d) of Regulation (EEC) No 1785/81, the sucrose content, including other sugars expressed as sucrose, shall be determined by the application of the Lane and Eynon method (copper reduction method) to the solution inverted according to Clerget-Herzfeld. The total sugar content thus determined shall be expressed as sucrose by multiplying by 0,95.</p>
+      <p n="13">Notwithstanding the preceding subparagraph, the sucrose content, including other sugars expressed as sucrose, of products containing less than 85 % sucrose or other sugars expressed as sucrose, and invert sugar expressed as sucrose shall be determined by ascertaining the dry matter content. The dry matter content shall be determined according to the specific gravity of the solution diluted in a proportion of 1 to 1 by weight and, for solid products, by drying. The dry matter content shall be expressed as sucrose by multiplying by the coefficient 1.` 2. In Article 5, the following paragraphs 3 and 4 are added:</p>
+      <p n="14">'3. For the products referred to in Article 1 (1) (f) and (g) of Regulation (EEC) No 1785/81, the dry matter content shall be determined in accordance with the second subparagraph of paragraph 2.</p>
+      <p n="15">4. For the products referred to in Article 1 (1) (h) of Regulation (EEC) No 1785/81, conversion into sucrose equivalent shall be by multiplying the dry matter determined in accordance with the second subparagraph of paragraph 2 by the coefficient 1,9.`</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 27 October 1995.</p>
+      <p n="20">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

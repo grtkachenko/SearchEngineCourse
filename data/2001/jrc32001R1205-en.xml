@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32001R1205-en" n="32001R1205" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1205 English</title>
+        <title>Commission Regulation (EC) No 1205/2001 of 19 June 2001 amending, for the first time, Council Regulation (EC) No 2488/2000 maintaining a freeze of funds in relation to Mr Milosevic and those persons associated with him</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1205:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1205:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1939</classCode>
+        <classCode scheme="eurovoc">3483</classCode>
+        <classCode scheme="eurovoc">3870</classCode>
+        <classCode scheme="eurovoc">5240</classCode>
+        <classCode scheme="eurovoc">5805</classCode>
+        <classCode scheme="eurovoc">6223</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1205-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1205/2001 of 19 June 2001 amending, for the first time, Council Regulation (EC) No 2488/2000 maintaining a freeze of funds in relation to Mr Milosevic and those persons associated with him</head>
+      <p n="2">Commission Regulation (EC) No 1205/2001</p>
+      <p n="3">of 19 June 2001</p>
+      <p n="4">amending, for the first time, Council Regulation (EC) No 2488/2000 maintaining a freeze of funds in relation to Mr Milosevic and those persons associated with him</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2488/2000 of 10 November 2000 maintaining a freeze of funds in relation to Mr Milosevic and those persons associated with him and repealing Regulations (EC) No 1294/1999 and (EC) No 607/2000 and Article 2 of Regulation (EC) No 926/98(1), and in particular Article 4(2)(a) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In accordance with Article 1 of Regulation (EC) No 2488/2000 all funds and other financial resources held outside the Federal Republic of Yugoslavia belonging to Mr Milosevic and to natural persons associated with him, are to be frozen and such funds and financial resources are not to be made available to or for the benefit of these persons, as listed in Annex I to the Regulation. The Commission is empowered to amend that Annex, taking into account decisions implementing Common Position 2000/696/CFSP(2).</p>
+      <p n="10">(2) By means of Common Position 2001/155/CFSP(3), the Council amended the provisions of its Common Position 2000/696/CFSP as regards the ban on admission to the European Union. It is, therefore, appropriate to amend Regulation (EC) No 2488/2000.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee referred to in Article 5 of Regulation (EC) No 2488/2000,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Annex I to Regulation (EC) No 2488/2000 is replaced by the text in the Annex to this Regulation.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 19 June 2001.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Christopher Patten</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 287, 14.11.2000, p. 19.</p>
+      <p n="23">(2) OJ L 287, 14.11.2000, p. 1.</p>
+      <p n="24">(3) OJ L 57, 27.2.2001, p. 3.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">"ANNEX I</p>
+      <p n="27">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

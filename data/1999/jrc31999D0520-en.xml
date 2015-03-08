@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31999D0520-en" n="31999D0520" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0520 English</title>
+        <title>99/520/EC: Commission Decision of 9 July 1999 amending Decision 98/589/EC concerning an extension of the maximum period laid down for the application of eartags to certain bovine animals belonging to the Spanish herd (notified under document number C(1999) 2039) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0520:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0520:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1821</classCode>
+        <classCode scheme="eurovoc">4821</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5962</classCode>
+        <classCode scheme="eurovoc">863</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0520-en." lang="en">
+    <body>
+      <head n="1">99/520/EC: Commission Decision of 9 July 1999 amending Decision 98/589/EC concerning an extension of the maximum period laid down for the application of eartags to certain bovine animals belonging to the Spanish herd (notified under document number C(1999) 2039) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 9 July 1999</p>
+      <p n="4">amending Decision 98/589/EC concerning an extension of the maximum period laid down for the application of eartags to certain bovine animals belonging to the Spanish herd</p>
+      <p n="5">(notified under document number C(1999) 2039)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(1999/520/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Regulation (EC) No 820/97 of 21 April 1997 establishing a system for the identification and registration of bovine animals and the labeling of beef and beef products(1), and in particular Article 4(2) thereof,</p>
+      <p n="11">Having regard to the request submitted by Spain,</p>
+      <p n="12">(1) whereas by Commission Decision 589/98/EC(2) the Kingdom of Spain has been granted an extension up to six months of the maximum period laid down for the application of the eartags to certain bovine animals due to practical difficulties;</p>
+      <p n="13">(2) whereas following a request submitted by the Spanish authorities, the Annex to this Decision should be amended as to include the whole of the province of Palencia instead of the three "comarcas" mentioned originally in the Annex to Commission Decision 589/98/EC;</p>
+      <p n="14">(3) whereas this amendment is justified as animals born in this province fulfill the conditions set by that Decision;</p>
+      <p n="15">(4) whereas the measures provided for in this Decision are in accordance with the opinion of the Committee for the European Agricultural Guidance and Guarantee Fund,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">In the Annex to the Commission Decision 589/98/EC, at the column "comarca", as regards to the "Provincia Palencia", the references "El Cerrato, Campos and Saldana-Valdavia" shall be replaced by the reference "Toda la Provincia".</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 9 July 1999.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz FISCHLER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 117, 7.5.1997, p. 1.</p>
+      <p n="26">(2) OJ L 283, 21.10.1998, p. 19.</p>
+    </body>
+  </text>
+</TEI.2>

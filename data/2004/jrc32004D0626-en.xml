@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32004D0626-en" n="32004D0626" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0626 English</title>
+        <title>Decision No 626/2004/EC of the European Parliament and of the Council of 31 March 2004 amending Decision No 508/2000/EC establishing the Culture 2000 programme (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0626:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0626:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">208</classCode>
+        <classCode scheme="eurovoc">2459</classCode>
+        <classCode scheme="eurovoc">5315</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0626-en." lang="en">
+    <body>
+      <head n="1">Decision No 626/2004/EC of the European Parliament and of the Council of 31 March 2004 amending Decision No 508/2000/EC establishing the Culture 2000 programme (Text with EEA relevance)</head>
+      <p n="2">Decision No 626/2004/EC of the European Parliament and of the Council</p>
+      <p n="3">of 31 March 2004</p>
+      <p n="4">amending Decision No 508/2000/EC establishing the Culture 2000 programme</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 151 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Having regard to the opinion of the Committee of the Regions(1),</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(2),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Decision No 508/2000/EC of the European Parliament and of the Council of 14 February 2000 establishing the Culture 2000 programme(3) set up a single financing and programming instrument for cultural cooperation for a period running from 1 January 2000 to 31 December 2004.</p>
+      <p n="13">(2) It is important to ensure the continuity of Community cultural action in implementation of the Community's responsibilities under Article 151 of the Treaty.</p>
+      <p n="14">(3) The Culture 2000 programme should therefore be extended for two years until 31 December 2006.</p>
+      <p n="15">(4) The revision of the financial perspective with a view to enlargement provides for an increased ceiling on heading 3 which has to be respected by the legislative authority when extending existing programmes.</p>
+      <p n="16">(5) It is essential that the Commission provide a full and detailed assessment report on the Culture 2000 Programme by 31 December 2005, so as to enable the European Parliament and the Council to consider the proposal for a new framework programme for Community action on culture, announced for 2004 and planned to enter into force in 2007,</p>
+      <p n="17">HAVE DECIDED AS FOLLOWS:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Decision No 508/2000/EC is hereby amended as follows:</p>
+      <p n="20">1. in Article 1, first paragraph, the date of 31 December 2004 is replaced by 31 December 2006;</p>
+      <p n="21">2. in Article 3, first paragraph, the amount of EUR 167 million is replaced by EUR 236,5 million.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="24">It shall apply from 1 January 2005.</p>
+      <p n="25">Done at Strasbourg, 31 March 2004.</p>
+      <p n="26">For the European Parliament</p>
+      <p n="27">The President</p>
+      <p n="28">P. Cox</p>
+      <p n="29">For the Council</p>
+      <p n="30">The President</p>
+      <p n="31">D. Roche</p>
+      <p n="32">(1) OJ C 23, 27.1.2004, p. 20.</p>
+      <p n="33">(2) Opinion of the European Parliament of 16 December 2003 (not yet published in the Official Journal) and Council Decision of 8 March 2004.</p>
+      <p n="34">(3) OJ L 63, 10.3.2000, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

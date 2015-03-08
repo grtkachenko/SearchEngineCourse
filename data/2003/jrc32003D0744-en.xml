@@ -1,0 +1,54 @@
+<TEI.2 id="jrc32003D0744-en" n="32003D0744" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0744 English</title>
+        <title>2003/744/Euratom: Council Decision of 22 September 2003 approving the conclusion by the Commission of an Agreement for cooperation in the peaceful uses of nuclear energy between the European Atomic Energy Community (Euratom) and the Government of the Republic of Uzbekistan</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0744:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0744:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4631</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">5770</classCode>
+        <classCode scheme="eurovoc">753</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0744-en." lang="en">
+    <body>
+      <head n="1">2003/744/Euratom: Council Decision of 22 September 2003 approving the conclusion by the Commission of an Agreement for cooperation in the peaceful uses of nuclear energy between the European Atomic Energy Community (Euratom) and the Government of the Republic of Uzbekistan</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 22 September 2003</p>
+      <p n="4">approving the conclusion by the Commission of an Agreement for cooperation in the peaceful uses of nuclear energy between the European Atomic Energy Community (Euratom) and the Government of the Republic of Uzbekistan</p>
+      <p n="5">(2003/744/Euratom)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular the second paragraph of Article 101 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) In accordance with Council directives, adopted by Council Decision of 26 June 2000, the Commission has negotiated an Agreement for cooperation in the peaceful uses of nuclear energy between the European Atomic Energy Community (Euratom) and the Government of the Republic of Uzbekistan.</p>
+      <p n="11">(2) The Commission should be authorised to conclude the Agreement,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Sole Article</p>
+      <p n="14">The Commission is hereby authorised to conclude an Agreement for cooperation in the peaceful uses of nuclear energy between the European Atomic Energy Community (Euratom) and the Government of the Republic of Uzbekistan.</p>
+      <p n="15">The text of the Agreement is attached to this Decision.</p>
+      <p n="16">Done at Brussels, 22 September 2003.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">F. Frattini</p>
+    </body>
+  </text>
+</TEI.2>

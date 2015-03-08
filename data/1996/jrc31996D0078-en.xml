@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31996D0078-en" n="31996D0078" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0078 English</title>
+        <title>96/78/EC: Commission Decision of 10 January 1996 laying down the criteria for entry and registration of equidae in stud-books for breeding purposes (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0078:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0078:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3408</classCode>
+        <classCode scheme="eurovoc">4810</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+        <classCode scheme="eurovoc">711</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0078-en." lang="en">
+    <body>
+      <head n="1">96/78/EC: Commission Decision of 10 January 1996 laying down the criteria for entry and registration of equidae in stud-books for breeding purposes (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 10 January 1996 laying down the criteria for entry and registration of equidae in stud-books for breeding purposes (Text with EEA relevance) (96/78/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/427/EEC of 26 June 1990 on the zootechnical and genealogical conditions govering intra-Community trade in equidae (1), and in particular Article 4 (2) (b) thereof,</p>
+      <p n="6">Whereas under Article 4 (2) (b) of Directive 90/427/EEC the harmonized criteria govering the entry of equidae in stud-books should be established;</p>
+      <p n="7">Whereas it is therefore necessary to lay down the criteria for the entry of equidae in stud-books for breeding purposes;</p>
+      <p n="8">Whereas precise conditions relating to lineage and identification must be met prior to entry in the stud-book;</p>
+      <p n="9">Whereas allowance should be made for the division of the stud-book into different sections and classes so that certain types of animals will not be excluded;</p>
+      <p n="10">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Zootechnics,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">1. To qualify for entry in the main section of the stud-book of its breed registered equidae must:</p>
+      <p n="14">- be descended from parents entered in the main section of a stud-book of that same breed and have a pedigree established in accordance with the rules of that stud-book,</p>
+      <p n="15">- be identified as foal at foot according to the rules of that stud-book, which at least should require the covering certificate.</p>
+      <p n="16">2. In derogation from the first indent of paragraph 1, an animal can be entered in the main section to take part in a cross breeding programme approved by the organization or association according to the rules of that stud-book. The cross breeding programme should mention the breeds which are allowed to take part.</p>
+      <p n="17">Article 2</p>
+      <p n="18">1. The main section of a stud-book may be divided in conformity with No 3 (b), fifth indent, of the Annex of Commission Decision 92/353/EEC (2) laying down the criteria for the approval or recognition of organizations and associations which maintain or establish stud-books for registered equidae into several classes according to the animals' merits. Only equidae meeting the criteria laid down in Article 1 may be entered in one of those classes.</p>
+      <p n="19">2. Where a stud-book contains several classes in the main section, an animal from another stud-book shall be entered in the class of the stud-book whose criteria it meets.</p>
+      <p n="20">Article 3</p>
+      <p n="21">1. An organization or association keeping a stud-book may decide that an animal, which does not meet the criteria laid down in Article 1, may be entered in a supplementary section of that stud-book. The animal must meet the following requirements:</p>
+      <p n="22">- be identified in accordance with the stud-book rules,</p>
+      <p n="23">- be judged to conform to the breed standard,</p>
+      <p n="24">- have a minimum performance as laid down in the stud-book rules.</p>
+      <p n="25">2. The organization or association should fix the rules allowing progeny of such animals to enter the main section.</p>
+      <p n="26">Article 4</p>
+      <p n="27">This Decision is addressed to the Member States.</p>
+      <p n="28">Done at Brussels, 10 January 1996.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">Franz FISCHLER</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ No L 224, 18. 8. 1990, p. 55.</p>
+      <p n="33">(2) OJ No L 192, 11. 7. 1992, p. 63.</p>
+    </body>
+  </text>
+</TEI.2>

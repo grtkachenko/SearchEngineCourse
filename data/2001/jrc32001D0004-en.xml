@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32001D0004-en" n="32001D0004" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0004 English</title>
+        <title>2001/4/EC: Council Decision of 19 December 2000 amending Decision 95/408/EC on the conditions for drawing up, for an interim period, provisional lists of third country establishments from which Member States are authorised to import certain products of animal origin, fishery products or live bivalve molluscs</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0004:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0004:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">1961</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">4689</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0004-en." lang="en">
+    <body>
+      <head n="1">2001/4/EC: Council Decision of 19 December 2000 amending Decision 95/408/EC on the conditions for drawing up, for an interim period, provisional lists of third country establishments from which Member States are authorised to import certain products of animal origin, fishery products or live bivalve molluscs</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 19 December 2000</p>
+      <p n="4">amending Decision 95/408/EC on the conditions for drawing up, for an interim period, provisional lists of third country establishments from which Member States are authorised to import certain products of animal origin, fishery products or live bivalve molluscs</p>
+      <p n="5">(2001/4/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to Council Decision 95/408/EC of 22 June 1995 on the conditions for drawing up, for an interim period, provisional lists of third country establishments from which Member States are authorised to import certain products of animal origin, fishery products or live bivalve molluscs(1) and in particular Article 9 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The interim period provided by Decision 95/408/EC ends on 31 December 2000.</p>
+      <p n="11">(2) For administrative reasons, the drawing up of the definitive lists of third country establishments from which Member States are authorised to import certain products in accordance with the Directives on health rules applicable to those products has been delayed.</p>
+      <p n="12">(3) The proposed revision of certain veterinary legislation as set out in the White Paper on Food Safety will include a modified regime for the approval of third country establishments from which Member States are authorised to import certain products.</p>
+      <p n="13">(4) In order to prevent any disruptions in traditional trade patterns, the interim period during which a simplified system may be applied to the drawing up of lists of third country establishments exporting certain products of animal origin, fishery products or live bivalve molluscs should be extended,</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">In Article 9 of Decision 95/408/EC the date "31 December 2000" shall be replaced by "31 December 2003".</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Decision is addressed to the Member States.</p>
+      <p n="19">Done at Brussels, 19 December 2000.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">J. Glavany</p>
+      <p n="23">(1) OJ L 243, 11.10.1995, p. 17. Decision as last amended by Decision 98/603/EC (OJ L 289, 28.10.1998, p. 36).</p>
+    </body>
+  </text>
+</TEI.2>

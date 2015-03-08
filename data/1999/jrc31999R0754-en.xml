@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31999R0754-en" n="31999R0754" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0754 English</title>
+        <title>Commission Regulation (EC) No 754/1999 of 12 April 1999 amending Regulation (EC) No 293/1999 laying down special measures derogating from Regulations (EEC) No 3665/87, (EEC) No 3719/88 and (EC) No 1372/95 as regards poultrymeat</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0754:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0754:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2121</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+        <classCode scheme="eurovoc">5876</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0754-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 754/1999 of 12 April 1999 amending Regulation (EC) No 293/1999 laying down special measures derogating from Regulations (EEC) No 3665/87, (EEC) No 3719/88 and (EC) No 1372/95 as regards poultrymeat</head>
+      <p n="2">COMMISSION REGULATION (EC) No 754/1999</p>
+      <p n="3">of 12 April 1999</p>
+      <p n="4">amending Regulation (EC) No 293/1999 laying down special measures derogating from Regulations (EEC) No 3665/87, (EEC) No 3719/88 and (EC) No 1372/95 as regards poultrymeat</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2777/75 of 29 October 1975 on the common organisation of the market in poultrymeat(1), as last amended by Commission Regulation (EC) No 2916/95(2), and in particular Articles 3(2) and 8(12) and Article 15 thereof,</p>
+      <p n="8">Whereas Commission Regulation (EC) No 293/1999(3) introduces special measures for regularising certain export transactions in the wake of the problems arising on the market in Russia since the second half of August 1998;</p>
+      <p n="9">Whereas there are continuing difficulties on the market in Russia and whereas the situation thereby created has seriously affected operators' possibilities of exporting to that destination; whereas the damaging consequences of this must accordingly be limited through the adoption of special measures to allow export licences granted for either of two categories to be used without distinction for both;</p>
+      <p n="10">Whereas, in the light of developments, this Regulation should enter into force immediately and should apply from 18 November 1998;</p>
+      <p n="11">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The following paragraph is added to Article 2 of Regulation (EC) No 293/1999: "Export licences as referred to above may be used without distinction for exports of categories 3 and/or 4."</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply from 18 November 1998.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 12 April 1999.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz FISCHLER</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 282, 1.11.1975, p. 77.</p>
+      <p n="24">(2) OJ L 305, 19.12.1995, p. 49.</p>
+      <p n="25">(3) OJ L 36, 10.2.1999, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

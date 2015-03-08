@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31996R0376-en" n="31996R0376" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0376 English</title>
+        <title>Commission Regulation (EC) No 376/96 of 29 February 1996 amending Regulation (EC) No 897/94 laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 as regards pilot projects relating to continuous position monitoring of Community fishing vessels</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0376:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0376:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2801</classCode>
+        <classCode scheme="eurovoc">4488</classCode>
+        <classCode scheme="eurovoc">4790</classCode>
+        <classCode scheme="eurovoc">4829</classCode>
+        <classCode scheme="eurovoc">5229</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0376-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 376/96 of 29 February 1996 amending Regulation (EC) No 897/94 laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 as regards pilot projects relating to continuous position monitoring of Community fishing vessels</head>
+      <p n="2">COMMISSION REGULATION (EC) No 376/96 of 29 February 1996 amending Regulation (EC) No 897/94 laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 as regards pilot projects relating to continuous position monitoring of Community fishing vessels</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2847/93 of 12 October 1993 establishing a control system applicable to the common fisheries policy (1), as last amended by Regulation (EC) No 2870/95 (2), and in particular Article 3 (4) thereof,</p>
+      <p n="6">Whereas under the terms of Council Decision 95/528/EC of 5 December 1995 amending Regulation (EEC) No 2847/93 and Decision 89/631/EEC as regards the time limit for implementing certain pilot projects on continuous position monitoring of Community fishing vessels and the Community contribution to the expenditure incurred in their implementation (3), the date of the completion of the pilot projects undertaken by the Member States, as well as that of the final Council decision concerning the application of the system of continuous location of the Community fishing vessels, set out in Regulation (EEC) No 2847/93, were deferred by six months;</p>
+      <p n="7">Whereas it is advisable consequently also to extend for a further six months the corresponding dates provided for in Commission Regulation (EC) No 897/94 (4);</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EC) No 897/94 is amended as follows:</p>
+      <p n="12">1. in Article 2 (3), '30 June 1995` shall be replaced by '31 December 1995`;</p>
+      <p n="13">2. in Article 7 (1), '31 December 1995` shall be replaced by '30 June 1996`;</p>
+      <p n="14">3. in Article 11, '31 August 1995` shall be replaced by '29 February 1996`.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation enters into force the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 29 February 1996.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Emma BONINO</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ No L 261, 20. 10. 1993, p. 1.</p>
+      <p n="23">(2) OJ No L 301, 14. 12. 1995, p. 1.</p>
+      <p n="24">(3) OJ No L 301, 14. 12. 1995, p. 35.</p>
+      <p n="25">(4) OJ No L 104, 23. 4. 1994, p. 18.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31996D0586-en" n="31996D0586" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0586 English</title>
+        <title>96/586/EC: Commission Decision of 9 April 1996 concerning the withdrawal of authorizations for plant protection products containing propham as an active substance (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0586:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0586:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2985</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">5451</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0586-en." lang="en">
+    <body>
+      <head n="1">96/586/EC: Commission Decision of 9 April 1996 concerning the withdrawal of authorizations for plant protection products containing propham as an active substance (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 9 April 1996 concerning the withdrawal of authorizations for plant protection products containing propham as an active substance (Text with EEA relevance) (96/586/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Commission Regulation (EEC) No 3600/92 of 11 December 1992 laying down the detailed rules for the implementation of the first stage of the programme of work referred to in Article 8 (2) of Council Directive 91/414/EEC concerning the placing of plant protection products on the market (1), as last amended by Regulation (EC) No 491/95 (2), and in particular Article 6 (5) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 933/94 (3) of 27 April 1994, as amended by Regulation (EC) No 491/95, has laid down the active substances of plant protection products and designated the rapporteur Member States for the implementation of Commission Regulation (EEC) No 3600/92;</p>
+      <p n="7">Whereas propham was one of the 90 active substances covered by the first stage of the work programme provided for in Article 8 (2) of Council Directive 91/414/EEC (4);</p>
+      <p n="8">Whereas for this substance the designated rapporteur Member State has informed the Commission that the notifier concerned informed them formally that they will not submit the information required under Article 6 (1) of Regulation (EEC) No 3600/92 to support the inclusion of an active substance in Annex I of Directive 91/414/EEC;</p>
+      <p n="9">Whereas no Member State has informed, in accordance with Article 6 (4) of the Regulation, the Commission of its wish to secure the inclusion of this substance in Annex I of Directive 91/414/EEC;</p>
+      <p n="10">Whereas therefore it has to be considered that the data required reevaluation of this substance will not be submitted in the framework of the work programme and that therefore an evaluation of this substance is not possible in this framework; whereas consequently a decision should be taken with the effect that current authorizations for plant protection products containing this active substance are withdrawn;</p>
+      <p n="11">Whereas this Decision does not exclude that in future propham may be evaluated in the framework of the proceedings for new active substances provided for in Article 6 of Directive 91/414/EEC;</p>
+      <p n="12">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Plant Health,</p>
+      <p n="13">HAS ADOPTED THIS DECISION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Member States shall ensure:</p>
+      <p n="16">1. that authorizations for plant protection products containing propham are withdrawn within a period of 12 months from the date of the present Decision;</p>
+      <p n="17">2. that from the date of the present Decision no authorizations for plant protection products containing propham will be granted or renewed under the derogation provided for in Article 8 (2) of Directive 91/414/EEC.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This decision is addressed to the Member States.</p>
+      <p n="20">Done at Brussels, 9 April 1996.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ No L 366, 15. 12. 1992, p. 10.</p>
+      <p n="25">(2) OJ No L 49, 4. 3. 1995, p. 50.</p>
+      <p n="26">(3) OJ No L 107, 28. 4. 1994, p. 8.</p>
+      <p n="27">(4) OJ No L 230, 19. 8. 1991, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31998R0203-en" n="31998R0203" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0203 English</title>
+        <title>Commission Regulation (EC) No 203/98 of 26 January 1998 amending Regulation (EEC) No 4154/87 laying down the methods of analysis and other technical provisions necessary for the application of the import procedure for goods obtained by processing agricultural products</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0203:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0203:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">1836</classCode>
+        <classCode scheme="eurovoc">239</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">5300</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0203-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 203/98 of 26 January 1998 amending Regulation (EEC) No 4154/87 laying down the methods of analysis and other technical provisions necessary for the application of the import procedure for goods obtained by processing agricultural products</head>
+      <p n="2">COMMISSION REGULATION (EC) No 203/98 of 26 January 1998 amending Regulation (EEC) No 4154/87 laying down the methods of analysis and other technical provisions necessary for the application of the import procedure for goods obtained by processing agricultural products</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as last amended by Commission Regulation (EC) No 2509/97 (2), and in particular Article 9 thereof,</p>
+      <p n="6">Whereas in order to ensure that goods subject to Council Regulation (EC) No 3448/93 (3) receive uniform treatment on import throughout the Community, the provisions of Commission Regulation (EEC) No 4154/87 (4) concerning determination of milk fats should be amended;</p>
+      <p n="7">Whereas studies and tests carried out by the laboratories responsible for such testing indicate that the most appropriate procedure is the one laid down in Article 1;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee, Tariff and Statistical Nomenclature Section,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Article 2(3) of Regulation (EEC) No 4154/87 is hereby replaced by the following text:</p>
+      <p n="12">'3. Milk fat content</p>
+      <p n="13">(a) Save as otherwise provided in paragraph (b), the milk fat content by weight shall be determined by extraction with light petroleum after hydrolysis with hydrochloric acid.</p>
+      <p n="14">(b) Where fats other than milk fats are also declared in the composition of the goods, the following procedure shall be applied:</p>
+      <p n="15">- the percentage of weight of the total fats in the goods shall be determined as mentioned in paragraph (a),</p>
+      <p n="16">- for the purposes of determining the milk fat content, a method based on extraction with light petroleum, preceded by hydrolysis with hydrochloric acid and followed by gas chromatography of the methyl esters of the fatty acids, shall be used. If the presence of milk fats is detected, the percentage proportion thereof shall be calculated by multiplying the percentage concentration of methyl butyrate by 25, multiplying the product by the total percentage fat content by weight of the goods and dividing by 100.`</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 26 January 1998.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Mario MONTI</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 256, 7. 9. 1987, p. 1.</p>
+      <p n="25">(2) OJ L 345, 16. 12. 1997, p. 44.</p>
+      <p n="26">(3) OJ L 318, 20. 12. 1993, p. 18.</p>
+      <p n="27">(4) OJ L 392, 31. 12. 1987, p. 19.</p>
+    </body>
+  </text>
+</TEI.2>

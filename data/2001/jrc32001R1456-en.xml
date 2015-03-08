@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32001R1456-en" n="32001R1456" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1456 English</title>
+        <title>Council Regulation (EC) No 1456/2001 of 16 July 2001 amending Regulation (EC) No 2549/2000 establishing additional technical measures for the recovery of the stock of cod in the Irish Sea (ICES Division VIIa)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1456:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1456:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1159</classCode>
+        <classCode scheme="eurovoc">133</classCode>
+        <classCode scheme="eurovoc">1872</classCode>
+        <classCode scheme="eurovoc">2437</classCode>
+        <classCode scheme="eurovoc">5228</classCode>
+        <classCode scheme="eurovoc">997</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1456-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1456/2001 of 16 July 2001 amending Regulation (EC) No 2549/2000 establishing additional technical measures for the recovery of the stock of cod in the Irish Sea (ICES Division VIIa)</head>
+      <p n="2">Council Regulation (EC) No 1456/2001</p>
+      <p n="3">of 16 July 2001</p>
+      <p n="4">amending Regulation (EC) No 2549/2000 establishing additional technical measures for the recovery of the stock of cod in the Irish Sea (ICES Division VIIa)</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The conditions laid down in Regulation (EC) No 2549/2000(4) are intended to ensure that the selectivity of fishing gears deployed in the Irish sea are such that few young cod are captured.</p>
+      <p n="12">(2) Article 2(1) and (2) stipulate that it is prohibited to use any demersal towed net other than beam trawls incorporating a cod/end and/or extension piece made entirely or partly of multiple twine netting materials and any demersal towed net other than beam trawls incorporating a cod-end and/or extension piece of which the thickness of the twine exceeds 6 mm.</p>
+      <p n="13">(3) However, recent scientific advice concurs with the opinion of fishermen that a cod-end and/or extension piece constructed of double twine of thickness no more than 4 mm is technically equivalent to a cod-end and/or extension piece as currently defined.</p>
+      <p n="14">(4) There is a requirement on the part of some fishermen to deploy double-twine cod-ends.</p>
+      <p n="15">(5) Article 3 of the current regulation refers to conditions which were relevant only during 2000 and it should therefore be replaced with provisions which set out the required amendment.</p>
+      <p n="16">(6) Regulation (EC) No 2549/2000 should accordingly be amended,</p>
+      <p n="17">HAS ADOPTED THIS REGULATION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Article 3 of Regulation (EC) No 2549/2000 shall be replaced by the following: "Article 3</p>
+      <p n="20">Notwithstanding the conditions laid down in Article 2(1) and (2), when fishing with towed gears in the Irish Sea, it shall be permitted to use a cod-end and/or extension piece constructed of double-twine netting material of which the thickness of any individual twine does not exceed 4 mm."</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 16 July 2001.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">L. Michel</p>
+      <p n="28">(1) OJ C 180 E, 26.6.2001, p. 311.</p>
+      <p n="29">(2) Opinion delivered 5.7.2001 (not yet published in the Official Journal)</p>
+      <p n="30">(3) Opinion delivered 30.5.2001 (not yet published in the Official Journal)</p>
+      <p n="31">(4) OJ L 292, 21.11.2000, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>

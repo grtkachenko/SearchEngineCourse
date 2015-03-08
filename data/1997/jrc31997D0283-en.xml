@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31997D0283-en" n="31997D0283" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0283 English</title>
+        <title>97/283/EC: Commission Decision of 21 April 1997 on harmonized measurement methods to determine the mass concentration of dioxins and furans in atmospheric emissions in accordance with Article 7 (2) of Directive 94/67/EC on the incineration of hazardous waste</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0283:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0283:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2527</classCode>
+        <classCode scheme="eurovoc">2611</classCode>
+        <classCode scheme="eurovoc">3648</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">5672</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0283-en." lang="en">
+    <body>
+      <head n="1">97/283/EC: Commission Decision of 21 April 1997 on harmonized measurement methods to determine the mass concentration of dioxins and furans in atmospheric emissions in accordance with Article 7 (2) of Directive 94/67/EC on the incineration of hazardous waste</head>
+      <p n="2">COMMISSION DECISION of 21 April 1997 on harmonized measurement methods to determine the mass concentration of dioxins and furans in atmospheric emissions in accordance with Article 7 (2) of Directive 94/67/EC on the incineration of hazardous waste (97/283/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 94/67/EC of 31 December 1994 on the incineration of hazardous waste (1), and in particular Article 7 (2) thereof,</p>
+      <p n="6">Whereas, in accordance with Article 7 (2) of Directive 94/67/EC, harmonized measurement methods to determine the mass concentration of dioxins and furans in atmospheric emissions must be made available at Community level in accordance with the procedure laid down in Article 16;</p>
+      <p n="7">Whereas to carry out this task the Commission is assisted by the committee set up by Article 16 of Directive 94/67/EC;</p>
+      <p n="8">Whereas the measures envisaged in this Decision are in accordance with the opinion delivered by that committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Measurement methods pr EN 1948 (June 1996) 'Stationary source emissions: determination of the mass concentration of PCDDs/PCDFs, part 1 - sampling, part 2 - extraction and clean-up, part 3 - identification and quantification` drawn up by the European Committee for Standardization (CEN) to determine the mass concentration of dioxins and furans in atmospheric emissions shall constitute the harmonized measurement methods referred to in Article 7 (2) of Directive 94/67/EC. The abovementioned reference pr EN 1948 (June 1996) will become EN 1948 upon final adoption by the CEN.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Decision is addressed to the Member States.</p>
+      <p n="14">Done at Brussels, 21 April 1997.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Ritt BJERREGAARD</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ No L 365, 31. 12. 1994, p. 34.</p>
+    </body>
+  </text>
+</TEI.2>

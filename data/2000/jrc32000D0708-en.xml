@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32000D0708-en" n="32000D0708" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0708 English</title>
+        <title>2000/708/EC: Commission Decision of 6 November 2000 amending for the third time Decision 1999/507/EC on certain protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia (notified under document number C(2000) 3178) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0708:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0708:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">1765</classCode>
+        <classCode scheme="eurovoc">1919</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">4160</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0708-en." lang="en">
+    <body>
+      <head n="1">2000/708/EC: Commission Decision of 6 November 2000 amending for the third time Decision 1999/507/EC on certain protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia (notified under document number C(2000) 3178) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 6 November 2000</p>
+      <p n="4">amending for the third time Decision 1999/507/EC on certain protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia</p>
+      <p n="5">(notified under document number C(2000) 3178)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/708/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/496/EEC of 15 July 1991 laying down the principles governing the organisation of veterinary checks on animals entering the Community from third countries and amending Directives 89/662/EEC, 90/425/EEC and 90/675/EEC(1), as last amended by Directive 96/43/EC(2), and in particular Article 18(7) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) By Decision 1999/507/EC(3), as last amended by Decision 2000/6/EC(4), of the Commission has adopted protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia, with regard to Nipah respective Hendra disease, including among others laboratory tests for dogs and cats destined for imports into the Community.</p>
+      <p n="13">(2) Hendra disease, being a notifiable disease in accordance with Australian law, has not been reported in Australia since the adoption of Decision 1999/507/EC. Therefore, the provisions of this Decision relating to Australia should be adapted to the disease situation in the country concerned, and in particular the requirement for laboratory testing for cats imported from Australia should be withdrawn.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Article 3 of Decision 1999/507/EC is amended as follows:</p>
+      <p n="18">1. The second indent of paragraph 2 is deleted.</p>
+      <p n="19">2. A third paragraph is added as follows:</p>
+      <p n="20">"3. The prohibition referred to in paragraph 1 shall not apply to cats in transit, provided they remain within the perimeter of an international airport."</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 6 November 2000.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 268, 24.9.1991, p. 56.</p>
+      <p n="28">(2) OJ L 162, 1.7.1996, p. 1.</p>
+      <p n="29">(3) OJ L 194, 27.7.1999, p. 66.</p>
+      <p n="30">(4) OJ L 3, 6.1.2000, p. 29.</p>
+    </body>
+  </text>
+</TEI.2>

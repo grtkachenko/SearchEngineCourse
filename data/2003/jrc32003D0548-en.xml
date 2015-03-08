@@ -1,0 +1,92 @@
+<TEI.2 id="jrc32003D0548-en" n="32003D0548" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0548 English</title>
+        <title>2003/548/EC: Commission Decision of 24 July 2003 on the minimum set of leased lines with harmonised characteristics and associated standards referred to in Article 18 of the Universal Service Directive</title>
+      </titleStmt>
+      <extent>54 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0548:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0548:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3010</classCode>
+        <classCode scheme="eurovoc">3017</classCode>
+        <classCode scheme="eurovoc">3645</classCode>
+        <classCode scheme="eurovoc">3646</classCode>
+        <classCode scheme="eurovoc">3648</classCode>
+        <classCode scheme="eurovoc">4424</classCode>
+        <classCode scheme="eurovoc">7136</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0548-en." lang="en">
+    <body>
+      <head n="1">2003/548/EC: Commission Decision of 24 July 2003 on the minimum set of leased lines with harmonised characteristics and associated standards referred to in Article 18 of the Universal Service Directive</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 24 July 2003</p>
+      <p n="4">on the minimum set of leased lines with harmonised characteristics and associated standards referred to in Article 18 of the Universal Service Directive</p>
+      <p n="5">(2003/548/EC)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Directive 2002/22/EC of the European Parliament and of the Council of 7 March 2002 on universal service and users' rights relating to electronic communications networks and services (Universal Service Directive)(1) and in particular Article 18(3) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Article 18(3) of the Universal Service Directive provides for the publication of the minimum set of leased lines with harmonised characteristics and associated standards to be published in the Official Journal of the European Union as part of the list of standards referred to in Article 17 of Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common regulatory framework for electronic communications networks and services (Framework Directive)(2).</p>
+      <p n="11">(2) The minimum set of leased lines was defined in Annex II to Council Directive 92/44/EEC of 5 June 1992 on the application of open network provision (ONP) to leased lines(3), as last amended by Commission Decision 98/80/EC(4). That Directive was repealed with effect from 25 July 2003 by the Framework Directive.</p>
+      <p n="12">(3) This Decision provides continuity of the legal basis for the minimum set of leased lines, for the purpose of implementation of the relevant provisions in the Framework Directive and the Universal Service Directive. The minimum set of leased lines in this Decision is the same as that in Directive 92/44/EEC, except that the references to European Telecommunications Standards (ETSs) have been replaced by references to European Standards (EN), as agreed by the European Telecommunications Standards Institute in 2001. However, leased lines that comply with the previous ETS standards should continue to be deemed in accordance with the requirements for the minimum set of leased lines.</p>
+      <p n="13">(4) This Decision identifies the minimum set of leased lines with harmonised characteristics and associated standards and forms an integral part of the list of standards published in accordance with Article 17 of the Framework Directive 2002/21/EC. The current version of the list of standards, only containing voluntary provisions, was published in the Official Journal of the European Union in December 2002(5). For reasons of differences in procedure and in legal effect, it is appropriate to distinguish the chapters of the list of standards that include mandatory provisions in this Decision from those chapters that only include voluntary provisions.</p>
+      <p n="14">(5) The measures provided for in this Decision are in accordance with the opinion of the Communications Committee,</p>
+      <p n="15">HAS DECIDED AS FOLLOWS:</p>
+      <p n="16">Sole Article</p>
+      <p n="17">The minimum set of leased lines with harmonised characteristics and associated standards are set out in the Annex.</p>
+      <p n="18">Done at Brussels, 24 July 2003.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Erkki Liikanen</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 108, 24.4.2002, p. 51.</p>
+      <p n="23">(2) OJ L 108, 24.4.2002, p. 33.</p>
+      <p n="24">(3) OJ L 165, 19.6.1992, p. 27.</p>
+      <p n="25">(4) OJ L 14, 20.1.1998, p. 27.</p>
+      <p n="26">(5) OJ C 331, 31.12.2002, p. 32.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">LIST OF STANDARDS AND/OR SPECIFICATIONS FOR ELECTRONIC COMMUNICATIONS NETWORKS, SERVICES AND ASSOCIATED FACILITIES AND SERVICES</p>
+      <p n="29">Mandatory part</p>
+      <p n="30">Identification of the minimum set of leased lines</p>
+      <p n="31">1. Purpose</p>
+      <p n="32">This publication identifies the minimum set of leased lines with harmonised characteristics and associated standards referred to in Article 18 of Directive 2002/22/EC (Universal Service Directive).</p>
+      <p n="33">This list forms part of the list of standards referred to in Article 17 of Directive 2002/21/EC (the Framework Directive).</p>
+      <p n="34">This publication is in addition to the list of standards and/or specifications for electronic communications networks, services and associated facilities and services published in the Official Journal of the European Communities in December 2002(1).</p>
+      <p n="35">2. Technical Standards</p>
+      <p n="36">The standards mentioned in this publication are ETSI deliverables under the current ETSI nomenclature. According to the "ETSI Directives"(2), these deliverables are defined as follows:</p>
+      <p n="37">European Standard (telecommunications series), EN: An ETSI deliverable containing normative provisions, approved for publication in a process involving the National Standards Organisations and/or ETSI National Delegations with implications concerning standstill and national transposition.</p>
+      <p n="38">Harmonised Standard: An EN (telecommunications series) the drafting of which has been entrusted to ETSI by a mandate from the European Commission pursuant to Directive 98/48/EC (latest amendment to Council Directive 83/189/EEC) and has been drafted taking into account the applicable essential requirements of the "New Approach" Directive and whose reference has subsequently been announced in the Official Journal of the European Communities.</p>
+      <p n="39">The version of the standards referred to in this list is the version valid at the time that the list is published.</p>
+      <p n="40">3. Addresses where documents referenced can be obtained</p>
+      <p n="41">ETSI Publications Office(3)</p>
+      <p n="42">&gt;TABLE&gt;</p>
+      <p n="43">4. References to EU legislation</p>
+      <p n="44">The list refers to the following legislative documents which may be found at http://europa.eu.int/ information_society/topics/ telecoms/regulatory/index_en.htm</p>
+      <p n="45">- Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common regulatory framework for electronic communications networks and services (Framework Directive) (OJ L 108, 24.4.2002, p. 33).</p>
+      <p n="46">- Directive 2002/22/EC of the European Parliament and of the Council of 7 March 2002 on Universal service and users' rights relating to electronic communications networks and services (Universal Service Directive) (OJ L 108, 24.4.2002, p. 51).</p>
+      <p n="47">Identification of the minimum set of leased lines with harmonised characteristics and associated standards</p>
+      <p n="48">ANALOGUE LEASED LINES</p>
+      <p n="49">&gt;TABLE&gt;</p>
+      <p n="50">DIGITAL LEASED LINES</p>
+      <p n="51">&gt;TABLE&gt;</p>
+      <p n="52">(1) OJ C 331, 31.12.2002, p. 32.</p>
+      <p n="53">(2) Available at http://portal.etsi.org/directives/.</p>
+      <p n="54">(3) ETSI documents can be downloaded from the ETSI Publications Download Area (http://pda.etsi.org/pda/ queryform.asp).</p>
+    </body>
+  </text>
+</TEI.2>

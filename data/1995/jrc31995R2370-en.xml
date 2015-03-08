@@ -1,0 +1,52 @@
+<TEI.2 id="jrc31995R2370-en" n="31995R2370" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R2370 English</title>
+        <title>Commission Regulation (EC) No 2370/95 of 10 October 1995 amending Regulation (EC) No 2280/95 on the supply of cereals as food aid</title>
+      </titleStmt>
+      <extent>15 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2370:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2370:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1611</classCode>
+        <classCode scheme="eurovoc">1744</classCode>
+        <classCode scheme="eurovoc">20</classCode>
+        <classCode scheme="eurovoc">5726</classCode>
+        <classCode scheme="eurovoc">807</classCode>
+        <classCode scheme="eurovoc">87</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R2370-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2370/95 of 10 October 1995 amending Regulation (EC) No 2280/95 on the supply of cereals as food aid</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2370/95 of 10 October 1995 amending Regulation (EC) No 2280/95 on the supply of cereals as food aid</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 3972/86 of 22 December 1986 on food-aid policy and food-aid management (1), as last amended by Regulation (EEC) No 1930/90 (2), and in particular Article 6 (1) (c) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 2280/95 (3) issued an invitation to tender for the supply, as food aid, of 20 274 tonnes of cereals; whereas some of the conditions specified in Annex I to that Regulation should be altered,</p>
+      <p n="7">HAS ADOPTED THIS REGULATION:</p>
+      <p n="8">Article 1</p>
+      <p n="9">For lot B, point 10 of Annex I to Regulation (EC) No 2280/95 is replaced by the following:</p>
+      <p n="10">'10. Packaging and marking (8) (9) (11): See OJ No C 114, 29. 4. 1991, p. 1 (II.A.(2) (c) and II.A. (3)) markings in English Bagging must be carried out before shipment`.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="13">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="14">Done at Brussels, 10 October 1995.</p>
+      <p n="15">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

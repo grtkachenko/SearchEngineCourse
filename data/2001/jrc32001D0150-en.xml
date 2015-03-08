@@ -1,0 +1,57 @@
+<TEI.2 id="jrc32001D0150-en" n="32001D0150" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0150 English</title>
+        <title>2001/150/EC: Decision of the European Central Bank of 10 November 2000 on the publication of certain legal acts and instruments of the European Central Bank (ECB/2000/12)</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0150:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0150:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">521</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">5313</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+        <classCode scheme="eurovoc">667</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0150-en." lang="en">
+    <body>
+      <head n="1">2001/150/EC: Decision of the European Central Bank of 10 November 2000 on the publication of certain legal acts and instruments of the European Central Bank (ECB/2000/12)</head>
+      <p n="2">Decision of the European Central Bank</p>
+      <p n="3">of 10 November 2000</p>
+      <p n="4">on the publication of certain legal acts and instruments of the European Central Bank</p>
+      <p n="5">(ECB/2000/12)</p>
+      <p n="6">(2001/150/EC)</p>
+      <p n="7">THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK,</p>
+      <p n="8">Having regard to the Statute of the European System of Central Banks and of the European Central Bank (hereinafter referred to as the "Statute") and in particular to Articles 10.4, 34.1 and 34.2 thereof,</p>
+      <p n="9">After consulting the General Council of the European Central Bank (ECB),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The ECB attaches great importance to enhancing the transparency of the regulatory framework of the European System of Central Banks (ESCB). In line with this approach, legal acts and instruments adopted by the ECB should be made available to the gernal public for public awareness even in the absence of an obligation to do so pursuant to the Treaty establishing the European Community or the Statute.</p>
+      <p n="12">(2) Transparency can best be served through the publication of ECB acts and instruments in all official Community languages in the Official Journal of the European Communities,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Guideline ECB/1998/NP10 of 3 November 1998 on the implementation of Article 52 of the Statute of the European System of Central Banks and of the European Central Bank (Annex I to this Decision), Guideline ECB/1999/NP11 of 22 April 1999 on the authorisation to issue national banknotes during the transitional period (Annex II to this Decision) and Guideline ECB/1998/NP28 of 22 December 1998 concerning the common rules and minimum standards to protect the confidentiality of the individual statistical information collected by the European Central Bank with the assistance of the national central banks (Annex III to this Decision); Decision ECB/1998/NP1 of 19 June 1998 on the appointment and on the duration of the mandate of the external auditor of the European Central Bank (Annex IV to this Decision); Decision ECB/1998/NP15 of 1 December 1998 concerning the performance by the European Central Bank of certain functions relating to medium-term financial assistance for Member States' balance of payments (Annex V to this Decision) and Recommendation ECB/1999/NP7 of 8 April 1999 on the accounting treatment of costs incurred in connection with the issue of banknotes (Annex VI to this Decision) are hereby published.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="18">Done at Frankfurt am Main, 10 November 2000.</p>
+      <p n="19">The President of the ECB</p>
+      <p n="20">Willem F. Duisenberg</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32002R2224-en" n="32002R2224" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2224 English</title>
+        <title>Commission Regulation (EC) No 2224/2002 of 13 December 2002 derogating from Regulation (EC) No 1623/2000 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2224:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2224:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1134</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+        <classCode scheme="eurovoc">6044</classCode>
+        <classCode scheme="eurovoc">863</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2224-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2224/2002 of 13 December 2002 derogating from Regulation (EC) No 1623/2000 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms</head>
+      <p n="2">Commission Regulation (EC) No 2224/2002</p>
+      <p n="3">of 13 December 2002</p>
+      <p n="4">derogating from Regulation (EC) No 1623/2000 laying down detailed rules for implementing Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 2585/2001(2), and in particular Article 33 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 1623/2000(3), as last amended by Regulation (EC) No 1795/2002(4), and in particular Article 93(6) thereof, lays down that all alcohol sold for use as bioethanol in the fuel sector must be collected from storage no more than six months after the date of notification of the Commission's decision to award the sale.</p>
+      <p n="10">(2) Commission Regulation (EC) No 774/2002 of 8 May 2002 opening public sales of wine alcohol for use as bioethanol in the European Community(5) opened a public sale of 300000 hectolitres of wine alcohol for use as bioethanol in the European Community to the approved firm Ecocarburantes Españoles SA. On 18 June 2002, the Commission notified the competent authorities in Spain and Ecocarburantes Españoles SA of the decision to award lot No 12/2002 to the firm.</p>
+      <p n="11">(3) By letter dated 21 October 2002, the Spanish Ministry of Agriculture, Fisheries and Food informed the Commission that, because of technical difficulties and the size of lot No 12/2002, the time limit laid down for the removal of the alcohol was insufficient.</p>
+      <p n="12">(4) In order to permit the firm concerned to complete the operation, the time limit for the removal of the alcohol should be increased by two months.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Notwithstanding Article 93(6) of Regulation (EC) No 1623/2000, the removal from storage of lot No 12/2002 referred to in Regulation (EC) No 774/2002 and awarded on 18 June 2002 must be completed before 18 February 2003.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 13 December 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="25">(2) OJ L 345, 29.12.2001, p. 10.</p>
+      <p n="26">(3) OJ L 194, 31.7.2000, p. 45.</p>
+      <p n="27">(4) OJ L 272, 10.10.2002, p. 15.</p>
+      <p n="28">(5) OJ L 123, 9.5.2002, p. 17.</p>
+    </body>
+  </text>
+</TEI.2>

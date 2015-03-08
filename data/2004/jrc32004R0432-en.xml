@@ -1,0 +1,81 @@
+<TEI.2 id="jrc32004R0432-en" n="32004R0432" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0432 English</title>
+        <title>Commission Regulation (EC) No 432/2004 of 5 March 2004 adapting for the eighth time to technical progress Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>47 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0432:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0432:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3107</classCode>
+        <classCode scheme="eurovoc">4047</classCode>
+        <classCode scheme="eurovoc">4533</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0432-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 432/2004 of 5 March 2004 adapting for the eighth time to technical progress Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 432/2004</p>
+      <p n="3">of 5 March 2004</p>
+      <p n="4">adapting for the eighth time to technical progress Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport(1), as last amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council(2), and in particular Article 17 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Annex I B to Council Regulation (EC) No 3821/85 sets out the technical specifications for the construction, testing, installation and inspection of recording equipment in road transport.</p>
+      <p n="11">(2) Paying particular attention to the overall security of the system and to the interoperability between the recording equipment and the tachograph cards, certain technical specifications, set out in Annex 1 B to Regulation (EC) No 3821/85 should be amended.</p>
+      <p n="12">(3) The measures provided for in this Regulation are in accordance with the opinion of the Committee established under Article 18 of Regulation (EC) No 3821/85,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Annex I B to Regulation (EEC) No 3821/85 is amended as follows:</p>
+      <p n="16">1. in Chapter IV, paragraph 1, requirement 172, the words "ΚΑΡΤΑ ΟΔΗΟΥ" shall be replaced by "ΚΑΡΤΑ ΟΔΗΓΟΥ";</p>
+      <p n="17">2. in Chapter IV, paragraph 5.3.9, requirement 227, the words "purpose of calibration (first installation, installation, periodic inspection)" shall be replaced by "purpose of calibration (activation, first installation, installation, periodic inspection)";</p>
+      <p n="18">3. in Appendix 1, paragraph 2.29, the last two lines shall be replaced by the following:</p>
+      <p n="19">"&gt;TABLE&gt;"</p>
+      <p n="20">4. in Appendix 1, at the end of paragraph 2.67, the following footnote shall be added:</p>
+      <p n="21">"Footnote: An updated list of codes identifying the manufacturers will be available on the website of the European Certification Authority."</p>
+      <p n="22">5. in Appendix 2, paragraph 3.6.3, requirement TCS_333, fifth indent, the formula "(Offset + Le &gt; EF size)" shall be replaced by "(Offset + Lc &gt; EF size)";</p>
+      <p n="23">6. in Appendix 2, paragraph 3.6.7, requirement TCS_348, third column, the value "Ceh" shall be replaced by "C2h";</p>
+      <p n="24">7. in Appendix 7, paragraph 2.2.2, in the fourth line of the eighth column the data "'8F' 'EA'" shall be replaced by "'EA' '8F'";</p>
+      <p n="25">8. in Appendix 7, paragraph 2.2.2.2, requirement DDP_006, the reference to "'8F' 'EA'" shall be replaced by "'EA' '8F'";</p>
+      <p n="26">9. in Appendix 7, paragraph 2.2.6.5, requirement DDP_033, the Length (Bytes) "(164)" shall be replaced by "(167)";</p>
+      <p n="27">10. in Appendix 8, paragraph 8.2, requirement CPR_075:</p>
+      <p n="28">(a) in the heading of table 40 the reference "recordDataIdentifier value &gt;REFERENCE TO A GRAPHIC&gt; F00B" shall be replaced by "recordDataIdentifier value &gt;REFERENCE TO A GRAPHIC&gt; F90B";</p>
+      <p n="29">(b) in the third column of table 40 (Operating range) the reference to "-59 to 59 min" shall be replaced by "-59 to +59 min";</p>
+      <p n="30">11. in Appendix 8, paragraph 8.2, requirement CPR_076, in the heading of table 41 the reference "recordDataIdentifier value &gt;REFERENCE TO A GRAPHIC&gt; F022" shall be replaced by "recordDataIdentifier value &gt;REFERENCE TO A GRAPHIC&gt; F922";</p>
+      <p n="31">12. in Appendix 8, paragraph 8.2, requirement CPR_078, in the heading of table 42 the reference "recordDataIdentifier value &gt;REFERENCE TO A GRAPHIC&gt; F07E" shall be replaced by "recordDataIdentifier value &gt;REFERENCE TO A GRAPHIC&gt; F97E";</p>
+      <p n="32">13. in Appendix 10, paragraph 4.2, the words "and company card" shall be inserted after the words "control card";</p>
+      <p n="33">14. in Appendix 10, paragraph 4.2.3, the words "The following assignments" shall be replaced by "Additionally the following assignments";</p>
+      <p n="34">15. in Appendix 10, paragraph 4.3.2, the words "GENERAL_READ: User data may be read from the TOE by any user, except cardholder identification data which may be read from control cards by VEHICLE_UNIT only." shall be replaced by "GENERAL_READ: User data may be read from the TOE by any user, except cardholder identification data which may be read from control cards and company cards by VEHICLE_UNIT only.";</p>
+      <p n="35">16. in Appendix 11, paragraph 2.2.1, requirement CSM_003, the words "Public exponent, e, for RSA calculations will be different from 2 inn all generated RSA keys." shall be replaced by "Public exponent, e, for RSA calculations is an integer between 3 and n-1 satisfying gcd(e, lcm(p-1, q-1))=1.";</p>
+      <p n="36">17. in Appendix 11, paragraph 3.3.1, requirement CSM_017, note 5, subparagraph 5.1, second table, in the second column the words "BCD coding" shall be replaced by "Integer";</p>
+      <p n="37">18. in Appendix 11, 3.3.2, requirement CSM_018, the words "except for its Annex A.4," shall be inserted after the words "in accordance with ISO/IEC 9796-2,";</p>
+      <p n="38">19. in Appendix 11, paragraph 4, requirement CSM_020, on the left side of the second diagram, in the tenth box, the word "signature" shall be replaced by "signature*".</p>
+      <p n="39">Article 2</p>
+      <p n="40">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="41">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="42">Done at Brussels, 5 March 2004.</p>
+      <p n="43">For the Commission</p>
+      <p n="44">Loyola De Palacio</p>
+      <p n="45">Vice-President</p>
+      <p n="46">(1) OJ L 370, 31.12.1985, p. 8.</p>
+      <p n="47">(2) OJ L 284, 31.10.2003, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

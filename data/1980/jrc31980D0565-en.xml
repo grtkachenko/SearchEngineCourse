@@ -1,0 +1,41 @@
+<TEI.2 id="jrc31980D0565-en" n="31980D0565" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31980D0565 English</title>
+        <title>80/565/Euratom: Council Decision of 9 June 1980 approving the conclusion by the Commission of the International Convention on the physical protection of nuclear material</title>
+      </titleStmt>
+      <extent>14 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31980D0565:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31980D0565:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31980D0565-en." lang="en">
+    <body>
+      <head n="1">80/565/Euratom: Council Decision of 9 June 1980 approving the conclusion by the Commission of the International Convention on the physical protection of nuclear material</head>
+      <p n="2">COUNCIL DECISION of 9 June 1980 approving the conclusion by the Commission of the International Convention on the physical protection of nuclear material (80/565/Euratom)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular the second paragraph of Article 101 thereof,</p>
+      <p n="5">Having regard to the Commission draft,</p>
+      <p n="6">Whereas the Commission has, in conformity with the Council Directives, negotiated the International Convention on the physical protection of nuclear material;</p>
+      <p n="7">Whereas, therefore, the conclusion of the said Convention by the Commission should be approved,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Sole Article</p>
+      <p n="10">The conclusion by the Commission of the International Convention on the physical protection of nuclear material is hereby approved.</p>
+      <p n="11">Done at Luxembourg, 9 June 1980.</p>
+      <p n="12">For the Council</p>
+      <p n="13">The President</p>
+      <p n="14">F. PANDOLFI</p>
+    </body>
+  </text>
+</TEI.2>

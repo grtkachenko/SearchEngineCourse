@@ -1,0 +1,85 @@
+<TEI.2 id="jrc32000D0709-en" n="32000D0709" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0709 English</title>
+        <title>2000/709/EC: Commission Decision of 6 November 2000 on the minimum criteria to be taken into account by Member States when designating bodies in accordance with Article 3(4) of Directive 1999/93/EC of the European Parliament and of the Council on a Community framework for electronic signatures (notified under document number C(2000) 3179) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>48 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0709:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0709:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2579</classCode>
+        <classCode scheme="eurovoc">3010</classCode>
+        <classCode scheme="eurovoc">3497</classCode>
+        <classCode scheme="eurovoc">4274</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">5606</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0709-en." lang="en">
+    <body>
+      <head n="1">2000/709/EC: Commission Decision of 6 November 2000 on the minimum criteria to be taken into account by Member States when designating bodies in accordance with Article 3(4) of Directive 1999/93/EC of the European Parliament and of the Council on a Community framework for electronic signatures (notified under document number C(2000) 3179) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 6 November 2000</p>
+      <p n="4">on the minimum criteria to be taken into account by Member States when designating bodies in accordance with Article 3(4) of Directive 1999/93/EC of the European Parliament and of the Council on a Community framework for electronic signatures</p>
+      <p n="5">(notified under document number C(2000) 3179)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/709/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Directive 1999/93/EC of the European Parliament and of the Council of 13 December 1999 on a Community framework for electronic signatures(1), and in particular Article 3(4) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) On 13 December 1999, the European Parliament and the Council adopted the Directive 1999/93/EC on a Community framework for electronic signatures.</p>
+      <p n="13">(2) Annex III to Directive 1999/93/EC contains the requirements for secure signature-creation-devices. According to Article 3(4) of the Directive, the conformity of secure signature-creation-devices with the requirements laid down in Annex III shall be determined by appropriate public or private bodies designated by Member States and the Commission shall establish criteria for Member States to determine whether a body should be designated for performing such conformity assessments.</p>
+      <p n="14">(3) The establishment of the above criteria by the Commission has to be made after consultation of the "Electronic Signature Committee" set up under Article 9(1) of Directive 1999/93/EC.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the "Electronic Signature Committee",</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The purpose of this Decision is to establish the criteria for Member States to determine whether a national body should be designated as responsible for the conformity assessments of secure signature-creation-devices.</p>
+      <p n="19">Article 2</p>
+      <p n="20">Where a designated body is part of an organisation involved in activities other than conformance assessment of secure signature-creation-devices with the requirements laid down in Annex III to Directive 1999/93/EC it must be identifiable within that organisation. Different activities must be clearly distinguished.</p>
+      <p n="21">Article 3</p>
+      <p n="22">The body and its staff must not engage in any activities that may conflict with their independence of judgement and integrity in relation to their task. In particular, the body must be independent of the parties involved. Therefore, the body, its executive officer and the staff responsible for carrying out the conformance assessment tasks must not be a designer, manufacturer, supplier or installer of secure signature-creation-devices, or a certification service provider issuing certificates to the public, nor the authorised representative of any of such parties.</p>
+      <p n="23">In addition, they must be financially independent and not become directly involved in the design, construction, marketing or maintenance of secure signature-creation-devices, nor represent the parties engaged in these activities. This does not preclude the possibility of exchange of technical information between the manufacturer and the designated body.</p>
+      <p n="24">Article 4</p>
+      <p n="25">The body and its personnel must be able to determine the conformity of secure signature-creation-devices with the requirements laid down in Annex III to Directive 1999/93/EC with a high degree of professional integrity, reliability and sufficient technical competence.</p>
+      <p n="26">Article 5</p>
+      <p n="27">The body shall be transparent in its conformity assessment practices and shall record all relevant information concerning these practices. All interested parties must have access to the services of the body. The procedures under which the body operates must be administered in a non-discriminatory manner.</p>
+      <p n="28">Article 6</p>
+      <p n="29">The body must have at its disposal the necessary staff and facilities to enable it to perform properly and swiftly the technical and administrative work associated with the task for which it has been designated.</p>
+      <p n="30">Article 7</p>
+      <p n="31">The personnel responsible for conformity assessment must have:</p>
+      <p n="32">- sound technical and vocational training, particularly in the field of electronic signature technologies and the related IT security aspects,</p>
+      <p n="33">- satisfactory knowledge of the requirements of the conformity assessments they carry out and adequate experience to carry out such assessments.</p>
+      <p n="34">Article 8</p>
+      <p n="35">The impartiality of staff shall be guaranteed. Their remuneration shall not depend on the number of conformity assessments carried out nor on the results of such conformity assessments.</p>
+      <p n="36">Article 9</p>
+      <p n="37">The body must have adequate arrangements to cover liabilities arising from its activities, for example, by obtaining appropriate insurance.</p>
+      <p n="38">Article 10</p>
+      <p n="39">The body must have adequate arrangements to ensure the confidentiality of the information obtained in carrying out its tasks under Directive 1999/93/EC or any provision of national law giving effect thereto, except vis-a-vis the competent authorities of the designating Member State.</p>
+      <p n="40">Article 11</p>
+      <p n="41">Where a designated body arranges for the carrying out of a part of the conformity assessments by another party, it must ensure and be able to demonstrate that this party is competent to perform the service in question. The designated body must take full responsibility for the work carried out under those arrangements. The final decision remains with the designated body.</p>
+      <p n="42">Article 12</p>
+      <p n="43">This Decision is addressed to the Member States.</p>
+      <p n="44">Done at Brussels, 6 November 2000.</p>
+      <p n="45">For the Commission</p>
+      <p n="46">Erkki Liikanen</p>
+      <p n="47">Member of the Commission</p>
+      <p n="48">(1) OJ L 13, 19.1.2000, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

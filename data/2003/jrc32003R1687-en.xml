@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32003R1687-en" n="32003R1687" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1687 English</title>
+        <title>Commission Regulation (EC) No 1687/2003 of 25 September 2003 authorising the acidification of grape must and wine produced in wine-growing zones A and B for the 2003/04 wine year</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1687:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1687:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2730</classCode>
+        <classCode scheme="eurovoc">4713</classCode>
+        <classCode scheme="eurovoc">5096</classCode>
+        <classCode scheme="eurovoc">5967</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1687-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1687/2003 of 25 September 2003 authorising the acidification of grape must and wine produced in wine-growing zones A and B for the 2003/04 wine year</head>
+      <p n="2">Commission Regulation (EC) No 1687/2003</p>
+      <p n="3">of 25 September 2003</p>
+      <p n="4">authorising the acidification of grape must and wine produced in wine-growing zones A and B for the 2003/04 wine year</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Article 46(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The exceptional weather conditions during the period of ripening of the grapes in wine-growing zones A and B have resulted in a significant and irreversible reduction in the acidity of the grapes and grape must. The particular weather conditions observed during the summer of 2003 are similar to those normally found in wine-growing areas located much further south.</p>
+      <p n="10">(2) The total level of acidity of the grapes harvested on maturity in the regions concerned is abnormally low and incompatible with good winemaking and the satisfactory conservation of the wine.</p>
+      <p n="11">(3) The Member States concerned should be permitted therefore to authorise the acidification of grape must and wine from zones A and B for the 2003 harvest under the conditions laid down in points E.2, E.3 and E.7 of Annex V to Regulation (EC) No 1493/1999.</p>
+      <p n="12">(4) The measure provided for in this Regulation is in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">In derogation from the rules laid down in Annex V, point E.1, to Regulation (EC) No 1493/1999, the Member States may authorise the acidification of grape must and wine from the 2003 harvest in wine-growing zones A and B under the conditions laid down in points E.2, E.3 and E.7 of that Annex.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 25 September 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="24">(2) OJ L 122, 16.5.2003, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31998R2140-en" n="31998R2140" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2140 English</title>
+        <title>Commission Regulation (EC) No 2140/98 of 6 October 1998 amending Regulation (EEC) No 1014/90 laying down detailed implementing rules on the definition, description and presentation of spirit drinks</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2140:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2140:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">4883</classCode>
+        <classCode scheme="eurovoc">5018</classCode>
+        <classCode scheme="eurovoc">5233</classCode>
+        <classCode scheme="eurovoc">601</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2140-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2140/98 of 6 October 1998 amending Regulation (EEC) No 1014/90 laying down detailed implementing rules on the definition, description and presentation of spirit drinks</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2140/98 of 6 October 1998 amending Regulation (EEC) No 1014/90 laying down detailed implementing rules on the definition, description and presentation of spirit drinks</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1576/89 of 29 May 1989 laying down general rules on the definition, description and presentation of spirit drinks (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 6 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 1014/90 (2), as last amended by Regulation (EC) No 2523/97 (3), lays down detailed implementing rules on the definition, description and presentation of spirit drinks; whereas, to protect the traditional drink Bierbrand or eau de vie de bière, whether or not sweetened in accordance with national traditions, against unfair competition, and to maintain a high quality level for that drink, the use of that term should be restricted to the spirit drink defined in this Regulation;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Implementation Committee for Spirit Drinks,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The following point 13 is added to the Annex to Regulation (EEC) No 1014/90:</p>
+      <p n="11">'13. Bierbrand or eau de vie de bière: a spirit drink:</p>
+      <p n="12">- obtained exclusively by direct distillation of fresh beer with an alcoholic strength by volume of less than 86 % such that the distillate obtained has organoleptic characteristics resulting from the beer,</p>
+      <p n="13">- with a minimum alcoholic strength by volume of 38 %, for supply for human consumption in the Community.`</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 6 October 1998.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 160, 12. 6. 1989, p. 1.</p>
+      <p n="22">(2) OJ L 105, 25. 4. 1990, p. 9.</p>
+      <p n="23">(3) OJ L 346, 17. 12. 1997, p. 46.</p>
+    </body>
+  </text>
+</TEI.2>

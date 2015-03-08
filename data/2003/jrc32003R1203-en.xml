@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32003R1203-en" n="32003R1203" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1203 English</title>
+        <title>Commission Regulation (EC) No 1203/2003 of 4 July 2003 amending Regulation (EC) No 1227/2000 laying down detailed rules for the application of Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine, as regards production potential</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1203:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1203:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2410</classCode>
+        <classCode scheme="eurovoc">2621</classCode>
+        <classCode scheme="eurovoc">2707</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1203-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1203/2003 of 4 July 2003 amending Regulation (EC) No 1227/2000 laying down detailed rules for the application of Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine, as regards production potential</head>
+      <p n="2">Commission Regulation (EC) No 1203/2003</p>
+      <p n="3">of 4 July 2003</p>
+      <p n="4">amending Regulation (EC) No 1227/2000 laying down detailed rules for the application of Council Regulation (EC) No 1493/1999 on the common organisation of the market in wine, as regards production potential</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Articles 10, 15 and Article 80(b) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In order to resolve a particular practical problem, the time limit laid down in the first subparagraph of Article 2(3) of Regulation (EC) No 1493/1999 for derogating from Article 2(2) should be postponed. Applying the various provisions regarding the grant of the derogation imposes a serious and complex administrative burden, particularly as regards checks and penalties. In the interests of sound administration, the date in question should thus be postponed to 31 July 2004.</p>
+      <p n="10">(2) In order to enable Member States to pay aid up to the end of a financial year, it is necessary to clarify the rules for taking into account expenditure validated for the period from 1 July to 15 October.</p>
+      <p n="11">(3) It is also important to specify that the penalties applicable to the financing of Member States' expenditure where they notify an area smaller than that indicated in the allocation for a given financial year may not be used in the context of the mechanism for making financial allocations during the financial year.</p>
+      <p n="12">(4) Commission Regulation (EC) No 1227/2000(3), as last amended by Regulation (EC) No 571/2003(4), should be amended accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EC) No 1227/2000 is hereby amended as follows:</p>
+      <p n="17">1. In Article 2, paragraph 1a is replaced by the following:</p>
+      <p n="18">"1a The deadline of 31 July 2002 laid down in Article 2(3) of Regulation (EC) No 1493/1999 shall be postponed to 31 July 2004."</p>
+      <p n="19">2. Article 17 is amended as follows:</p>
+      <p n="20">(a) paragraph 1 is replaced by the following:</p>
+      <p n="21">"1. For each Member State, expenditure actually incurred, validated and declared for any given financial year shall be financed within the limits of the amounts notified to the Commission under Article 16(1)(a) and (b), provided that those amounts do not exceed in total the financial amount allocated to the Member State pursuant to Article 14(1) of Regulation (EC) No 1493/1999."</p>
+      <p n="22">(b) in paragraph 4, the following fourth subparagraph is added:"Amounts not financed under this paragraph shall not be available for the purpose of applying paragraph 3."</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 4 July 2003.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Franz Fischler</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="31">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="32">(3) OJ L 143, 16.6.2000, p. 1.</p>
+      <p n="33">(4) OJ L 82, 29.3.2003, p. 19.</p>
+    </body>
+  </text>
+</TEI.2>

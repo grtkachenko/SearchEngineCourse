@@ -1,0 +1,160 @@
+<TEI.2 id="jrc31999L0076-en" n="31999L0076" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999L0076 English</title>
+        <title>Commission Directive 1999/76/EC of 23 July 1999 establishing a Community method of analysis for the determination of lasalocid sodium in feedingstuffs (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>124 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0076:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0076:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1997</classCode>
+        <classCode scheme="eurovoc">3813</classCode>
+        <classCode scheme="eurovoc">5967</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999L0076-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 1999/76/EC of 23 July 1999 establishing a Community method of analysis for the determination of lasalocid sodium in feedingstuffs (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 1999/76/EC</p>
+      <p n="3">of 23 July 1999</p>
+      <p n="4">establishing a Community method of analysis for the determination of lasalocid sodium in feedingstuffs</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 70/373/EEC of 20 July 1970 on the introduction of Community methods of sampling and analysis for the official control of feedingstuffs(1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 2 thereof,</p>
+      <p n="9">(1) Whereas Directive 70/373/EEC stipulates that official controls of feedingstuffs for the purpose of checking compliance with the requirements arising under the laws, regulations and administrative provisions governing their quality and composition must be carried out using Community methods of sampling and analysis;</p>
+      <p n="10">(2) Whereas Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs(2), as last amended by Commission Regulation (EC) No 866/1999 of 26 April 1999(3) stipulates that the lasalocid sodium content must be indicated on the labelling where these substances are added to premixtures and feedingstuffs;</p>
+      <p n="11">(3) Whereas Community methods of analysis must be established for checking these substances;</p>
+      <p n="12">(4) Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee for Feedingstuffs,</p>
+      <p n="13">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Member States shall provide that analyses conducted with a view to official controls of the lasalocid content of feedingstuffs and premixtures are carried out using the method set out in Annex hereto.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The Member States shall bring into force, not later than 31 January 2000, the laws, regulations or administrative provisions necessary to comply with the provisions of this Directive. They shall immediately inform the Commission thereof.</p>
+      <p n="18">They shall apply the measures from 1 February 2000.</p>
+      <p n="19">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">Article 4</p>
+      <p n="23">This Directive is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 23 July 1999.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz FISCHLER</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 170, 3.8.1970, p. 2.</p>
+      <p n="29">(2) OJ L 270, 14.12.1970, p. 1.</p>
+      <p n="30">(3) OJ L 108, 27.4.1999, p. 20.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">DETERMINATION OF LASALOCID SODIUM</p>
+      <p n="33">Sodium salt of a polyether monocarboxylic acid produced by Streptomyces lasaliensis</p>
+      <p n="34">1. Purpose and scope</p>
+      <p n="35">The method is for the determination of lasalocid sodium in feedingstuffs and premixtures. The limit of detection is 5 mg/kg, the limit of determination is 30 mg/kg.</p>
+      <p n="36">2. Principle</p>
+      <p n="37">Lasalocid sodium is extracted from the sample into acidified methanol and determined by reversed-phase high performance liquid chromatography (HPLC) using a spectrofluorimetric detector.</p>
+      <p n="38">3. Reagents</p>
+      <p n="39">3.1. Potassium dihydrogen phosphate (KH2PO4)</p>
+      <p n="40">3.2. Orthophosphoric acid, w = 85 %</p>
+      <p n="41">3.3. Orthophosphoric acid solution, σ = 20 %</p>
+      <p n="42">Dilute 23,5 ml of orthophosphoric acid (3.2) to 100 ml with water.</p>
+      <p n="43">3.4. 6-Methyl-2-heptylamine (1,5-dimethylhexylamine), w = 99 %</p>
+      <p n="44">3.5. Methanol, HPLC grade</p>
+      <p n="45">3.6. Hydrochloric acid, ρ20 1,19 g/ml</p>
+      <p n="46">3.7. Phosphate buffer solution, c = 0,01 mol/l</p>
+      <p n="47">Dissolve 1,36 g of KH2PO4 (3.1) in 500 ml of water (3.11 ), add 3,5 ml of orthophosphoric acid (3.2) and 10,0 ml of 6-methyl-2-heptylamine (3.4). Adjust the pH to 4,0 with orthophosphoric acid solution (3.3) and dilute to 1000 ml with water (3.11).</p>
+      <p n="48">3.8. Acidified methanol</p>
+      <p n="49">Transfer 5,0 ml of hydrochloric acid (3.6) into a 1000 ml graduated flask, make up to the mark with methanol (3.5) and mix. This solution must be prepared freshly before use.</p>
+      <p n="50">3.9. HPLC mobile phase, phosphate buffer-methanol solution 5 + 95 (V + V)</p>
+      <p n="51">Mix 5 ml of phosphate buffer solution (3.7) with 95 ml of methanol (3.5).</p>
+      <p n="52">3.10. Lasalocid sodium standard substance with guaranteed purity, C34H53O8Na (sodium salt of a polyether monocarboxylic acid produced by Streptomyces lasaliensis), E763</p>
+      <p n="53">3.10.1. Lasalocid sodium stock standard solution, 500 μg/ml</p>
+      <p n="54">Weigh to the nearest 0,1 mg, 50 mg of lasalocid sodium (3.10) into a 100 ml graduated flask, dissolve in acidified methanol (3.8), make up to the mark with the same solvent and mix. This solution must be freshly prepared before use.</p>
+      <p n="55">3.10.2. Lasalocid sodium intermediate standard solution, 50 μg/ml</p>
+      <p n="56">Pipette 10,0 ml of stock standard solution (3.10.1) into a 100 ml graduated flask, make up to the mark with acidified methanol (3.8) and mix. This solution must be prepared freshly before use.</p>
+      <p n="57">3.10.3. Calibration solutions</p>
+      <p n="58">Into a series of 50 ml graduated flasks transfer 1.0, 2.0, 4.0, 5.0 and 10.0 ml of the intermediate standard solution (3.10.2). Make up to the mark with acidified methanol (3.8) and mix. These solutions correspond to 1.0, 2.0, 4.0, 5.0 and 10.0 μg of lasalocid sodium per ml respectively. These solutions must be prepared freshly before use.</p>
+      <p n="59">3.11. Water, HPLC grade</p>
+      <p n="60">4. Apparatus</p>
+      <p n="61">4.1. Ultrasonic bath (or shaking water-bath) with temperature control</p>
+      <p n="62">4.2. Membrane filters, 0,45 μm</p>
+      <p n="63">4.3. HPLC equipment with injection system, suitable for injecting volumes of 20 μl.4.3.1. Liquid chromatographic column 125 mm x 4 mm, reversed-phase C18, 5 μm packing or equivalent</p>
+      <p n="64">4.3.2. Spectrofluorimeter with variable wavelength adjustment of excitation and emission wavelengths</p>
+      <p n="65">5. Procedure</p>
+      <p n="66">5.1. General</p>
+      <p n="67">5.1.1. Blank feed</p>
+      <p n="68">For the performance of the recovery test (5.1.2) a blank feed should be analysed to check that neither lasalocid sodium nor interfering substances are present. The blank feed should be similar in type to that of the sample and lasalocid sodium or interfering substances should not be detected.</p>
+      <p n="69">5.1.2. Recovery test</p>
+      <p n="70">A recovery test should be carried out by analysing the blank feed which has been fortified by addition of a quantity of lasalocid sodium, similar to that present in the sample. To fortify at a level of 100 mg/kg, transfer 10,0 ml of the stock standard (3.10.1) to a 250 ml conical flask and evaporate the solution to approximately 0,5 ml. Add 50 g of the blank feed, mix thoroughly and leave for 10 minutes mixing again several times before proceeding with the extraction step (5.2).</p>
+      <p n="71">Alternatively, if a blank feed similar in type to that of the sample is not available (see 5.1.1), a recovery test can be performed by means of the standard addition method. In this case the sample to be analysed is fortified with a quantity of lasalocid sodium similar to that already present in the sample. This sample is analysed together with the unfortified sample and the recovery calculated by subtraction.</p>
+      <p n="72">5.2. Extraction</p>
+      <p n="73">5.2.1. Feedingstuffs</p>
+      <p n="74">Weigh to the nearest 0,01 g, from 5 g to 10 g of the sample into a 250 ml conical flask with stopper. Add 100,0 ml of acidified methanol (3.8) by pipette. Stopper loosely and swirl to disperse. Place the flask in an ultrasonic bath (4.1) at approximately 40° C for 20 minutes, then remove and cool to room temperature. Allow to stand for about 1 hour until the suspended matter has settled, then filter an aliquot portion through a 0,45 μm membrane filter (4.2) into a suitable vessel. Proceed to the HPLC determination (5.3).</p>
+      <p n="75">5.2.2. Premixtures</p>
+      <p n="76">Weigh to the nearest 0,001 g about 2 g of the unground premix into a 250 ml graduated flask. Add 100,0 ml of acidified methanol (3.8) and swirl to disperse. Place the flask and contents in an ultrasonic bath (4.1) at approximately 40° C for 20 minutes, then remove and cool to room temperature. Dilute to the mark with acidified methanol (3.8) and mix thoroughly. Allow to stand for one hour until the suspended matter has settled, then filter an aliquot portion through a 0,45 μm membrane filter (4.2). Dilute an appropriate volume of the clear filtrate with acidified methanol (3.8) to produce a final test solution containing about 4 μg/ml of lasalocid sodium. Proceed to the HPLC determination (5.3).</p>
+      <p n="77">5.3. HPLC Determination</p>
+      <p n="78">5.3.1. Parameters</p>
+      <p n="79">The following conditions are offered for guidance; other conditions may be used, provided they yield equivalent results:</p>
+      <p n="80">&gt;TABLE&gt;</p>
+      <p n="81">Check the stability of the chromatographic system, injecting the calibration solution (3.10.3) containing 4,0 μg/ml several times, until constant peak heights (or areas) and retention times are achieved.</p>
+      <p n="82">5.3.2. Calibration graph</p>
+      <p n="83">Inject each calibration solution (3.10.3) several times and determine the mean peak heights (areas) for each concentration. Plot a calibration graph using the mean peak heights (areas) as the ordinates and the corresponding concentrations in μg/ml as the abscissae.</p>
+      <p n="84">5.3.3. Sample solution</p>
+      <p n="85">Inject the sample extracts obtained in 5.2.1 or 5.2.2 several times, using the same volume as taken for the calibration solution and determine the mean peak heights (areas) of the lasalocid sodium peaks.</p>
+      <p n="86">6. Calculation of results</p>
+      <p n="87">From the mean peak height (area) produced by injection of the sample solution (5.3.3) determine the concentration of lasalocid sodium (μg/ml) by reference to the calibration graph.</p>
+      <p n="88">6.1. Feedingstuffs</p>
+      <p n="89">The lasalocid sodium content, w (mg/kg) in the sample is given by the following formula:</p>
+      <p n="90">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="91">where:</p>
+      <p n="92">ß= lasalocid sodium concentration of the sample solution (5.2.1) in μg/ml</p>
+      <p n="93">V1= volume of the sample extract according to 5.2.1 in ml (i.e. 100)</p>
+      <p n="94">m= mass of the test portion in g</p>
+      <p n="95">6.2. Premixtures</p>
+      <p n="96">The lasalocid sodium content, w (mg/kg) in the sample is given by the following formula:</p>
+      <p n="97">&gt;REFERENCE TO A GRAPHIC&gt;</p>
+      <p n="98">where:</p>
+      <p n="99">ß= lasalocid sodium concentration of the sample solution (5.2.2) in μg/ml</p>
+      <p n="100">V2= volume of the sample extract according to 5.2.2 in ml (i.e. 250)</p>
+      <p n="101">f= dilution factor according to 5.2.2</p>
+      <p n="102">m= mass of the test portion in g</p>
+      <p n="103">7. Validation of the results</p>
+      <p n="104">7.1. Identity</p>
+      <p n="105">Methods based on spectrofluorimetry are less subject to interference than those in which UV detection is used. The identity of the analyte can be confirmed by co-chromatography.</p>
+      <p n="106">7.1.1. Co-chromatography</p>
+      <p n="107">A sample extract (5.2.1 or 5.2.2) is fortified by the addition of an appropriate amount of a calibration solution (3.10.3). The amount of added lasalocid sodium should be similar to the amount of lasalocid sodium found in the sample extract. Only the height of the lasalocid sodium peak should be enhanced to an extent based on the amount of lasalocid sodium added and the dilution of the extract. The peak width, at half height, must be within ± 10 % of the original peak width produced by the unfortified sample extract.</p>
+      <p n="108">7.2. Repeatability</p>
+      <p n="109">The difference between the results of two parallel determinations carried out on the same sample must not exceed:</p>
+      <p n="110">- 15 % relative to the higher value for lasalocid sodium contents from 30 mg/kg to 100 mg/kg;</p>
+      <p n="111">- 15 mg/kg for lasalocid sodium contents from 100 mg/kg to 200 mg/kg;</p>
+      <p n="112">- 7,5 % relative to the higher value for lasalocid sodium contents of more than 200 mg/kg.</p>
+      <p n="113">7.3. Recovery</p>
+      <p n="114">For the fortified (blank) feed sample, the recovery should be at least 80 %. For the fortified premixture samples, the recovery should be at least 90 %.</p>
+      <p n="115">8. Results of a collaborative study</p>
+      <p n="116">A collaborative study(1) was arranged in which 2 premixtures (samples 1 and 2) and 5 feeds (samples 3-7) were analysed by 12 laboratories. Duplicate analyses were performed on each sample. The results are given in the following table:</p>
+      <p n="117">&gt;TABLE&gt;</p>
+      <p n="118">L= number of laboratories</p>
+      <p n="119">n= number of single results</p>
+      <p n="120">Sr= standard deviation of repeatability</p>
+      <p n="121">SR= standard deviation of reproducibility</p>
+      <p n="122">CVr= coefficient of variation of repeatability, %</p>
+      <p n="123">CVR= coefficient of variation of reproducibility, %</p>
+      <p n="124">(1) Analyst, 1995, 120, 2175-2180.</p>
+    </body>
+  </text>
+</TEI.2>

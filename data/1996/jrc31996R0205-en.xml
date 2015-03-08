@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31996R0205-en" n="31996R0205" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0205 English</title>
+        <title>Commission Regulation (EC) No 205/96 of 2 February 1996 amending Regulation (EEC) No 1538/91 introducing detailed rules for implementing Regulation (EEC) No 1906/90 on certain marketing standards for poultrymeat</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0205:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0205:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0205-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 205/96 of 2 February 1996 amending Regulation (EEC) No 1538/91 introducing detailed rules for implementing Regulation (EEC) No 1906/90 on certain marketing standards for poultrymeat</head>
+      <p n="2">COMMISSION REGULATION (EC) No 205/96 of 2 February 1996 amending Regulation (EEC) No 1538/91 introducing detailed rules for implementing Regulation (EEC) No 1906/90 on certain marketing standards for poultrymeat</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1906/90 of 26 June 1990 on certain marketing standards for poultrymeat (1), as last amended by Regulation (EC) No 3204/93 (2), and in particular Article 9 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 1538/91 (3), as last amended by Regulation (EC) No 2390/95 (4), lays down the detailed rules for implementing marketing standards in the poultrymeat sector;</p>
+      <p n="7">Whereas the provisions on control of water content of frozen and quick-frozen chickens should be adapted regarding the frequency of checks carried out by or under the responsibility of the competent authorities and the taking over of the costs by the industry in certain cases; whereas the results of these checks should be made available to the national and Community reference laboratories for further evaluation, and should be examined by the Management Committee;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Article 14 (a) of Regulation (EEC) No 1538/91 is hereby amended as follows:</p>
+      <p n="12">1. in paragraph 4 the words 'a fortnight` are replaced by 'every two months`;</p>
+      <p n="13">2. in paragraph 5, the following sub-paragraph is added:</p>
+      <p n="14">'They shall in all cases, where a batch of frozen or quick-frozen chickens was deemed not to comply with this Regulation, resume testing at the minimum frequency of checks referred to in paragraph 4 only after three successive checks according to Annexes V or VI, to be carried out by sampling from three different days of production within a maximum of four weeks, have shown negative results. The costs for these check shall be paid by the slaughterhouse concerned.`;</p>
+      <p n="15">3. The following paragraph 12 (a) is inserted after paragraph 12:</p>
+      <p n="16">'12 (a) The competent authorities of the Member States shall inform the respective national reference laboratory without delay about the results of the checks carried out by them or under their responsibility.</p>
+      <p n="17">The national reference laboratories shall forward these data every six months to the Community reference Laboratory for further evaluation and discussion with national reference laboratories at least once a year. The findings shall be presented to the Management Committee for consideration in accordance with Article 18 of Regulation (EEC) No 2777/75.`</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on 1 March 1996.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 2 February 1996.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz FISCHLER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ No L 173, 6. 7. 1990, p. 1.</p>
+      <p n="26">(2) OJ No L 289, 24. 11. 1993, p. 3.</p>
+      <p n="27">(3) OJ No L 143, 7. 6. 1991, p. 11.</p>
+      <p n="28">(4) OJ No L 244, 12. 10. 1995, p. 60.</p>
+    </body>
+  </text>
+</TEI.2>

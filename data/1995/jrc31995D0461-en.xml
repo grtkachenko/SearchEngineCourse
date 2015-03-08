@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31995D0461-en" n="31995D0461" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0461 English</title>
+        <title>95/461/EC: Commission Decision of 27 October 1995 on protection measures in relation to Venezuelan equine encephalomyelitis in Venezuela and in Colombia</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0461:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0461:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">2961</classCode>
+        <classCode scheme="eurovoc">4662</classCode>
+        <classCode scheme="eurovoc">6036</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0461-en." lang="en">
+    <body>
+      <head n="1">95/461/EC: Commission Decision of 27 October 1995 on protection measures in relation to Venezuelan equine encephalomyelitis in Venezuela and in Colombia</head>
+      <p n="2">COMMISSION DECISION of 27 October 1995 on protection measures in relation to Venezuelan equine encephalomyelitis in Venezuela and in Colombia (Text with EEA relevance) (95/461/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 91/496/EEC of 15 July 1991 laying down the principles governing the organization of veterinary checks on animals entering the Community from third countries and amending Directives 89/662/EEC, 90/425/EEC and 90/675/EEC (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 18 thereof,</p>
+      <p n="6">Whereas the presence of Venezuelan equine encephalomyelitis has been confirmed in Venezuela and in Colombia;</p>
+      <p n="7">Whereas the appearance of Venezuelan equine encephalomyelitis in Venezuela and in Colombia constitutes a serious threat to equidae of the Member States, taking into account the various movements of equidae;</p>
+      <p n="8">Whereas, accordingly, it is necessary to prohibit the re-admission of registered horses after temporary export from Venezuela and Colombia;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Member States shall prohibit the re-admission after temporary export of registered horses from Venezuela and Colombia.</p>
+      <p n="13">Article 2</p>
+      <p n="14">Member States shall amend the measures they apply in respect of Venezuela and Colombia to bring them into line with this Decision. They shall inform the Commission thereof.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Decision is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 27 October 1995.</p>
+      <p n="18">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

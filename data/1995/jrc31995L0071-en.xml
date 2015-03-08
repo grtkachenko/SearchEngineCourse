@@ -1,0 +1,84 @@
+<TEI.2 id="jrc31995L0071-en" n="31995L0071" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995L0071 English</title>
+        <title>Council Directive 95/71/EC of 22 December 1995 amending the Annex to Directive 91/493/EEC laying down the health conditions for the production and the placing on the market of fishery products</title>
+      </titleStmt>
+      <extent>49 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0071:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0071:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995L0071-en." lang="en">
+    <body>
+      <head n="1">Council Directive 95/71/EC of 22 December 1995 amending the Annex to Directive 91/493/EEC laying down the health conditions for the production and the placing on the market of fishery products</head>
+      <p n="2">COUNCIL DIRECTIVE 95/71/EC</p>
+      <p n="3">of 22 December 1995</p>
+      <p n="4">amending the Annex to Directive 91/493/EEC laying down the health conditions for the production and the placing on the market of fishery products</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Directive 91/493/EEC of 22 July 1991 laying down the health conditions for the production and the placing on the market of fishery products (1) and in particular Article 13 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas Council Directive 92/48/EEC of 16 June 1992 laying down the minimum hygiene rules applicable to fishery products obtained on board certain vessels in accordance with Article 3 (1) (a) (i) of Directive 91/493/EEC (2) provides that freezer vessels shall be entered in a list kept regularly up to date by the competent authority;</p>
+      <p n="10">Whereas fishery products obtained on board freezer vessels which meet the hygiene requirements laid down in Directive 92/48/EEC should be permitted to be placed on the market on the same identification terms as fishery products frozen in establishments on land; whereas the Annex to Directive 91/493/EEC should therefore be amended accordingly;</p>
+      <p n="11">Whereas certain problems of application reported by the Member States call for the clarification of certain technical aspects of Directive 91/493/EEC, to enable the provisions to be uniformly applied in the Community, especially in connection with the identification of fishery products marketed,</p>
+      <p n="12">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Annex to Directive 91/493/EEC is hereby amended as follows:</p>
+      <p n="15">(1) Chapter I (II) (5) shall be replaced by the following:</p>
+      <p n="16">'5. On-board processing of fishery products must be carried out under the conditions of hygiene laid down in Section II, points 2 and 3, Section IV and Section V of Chapter IV of this Annex.'</p>
+      <p n="17">(2) The second sentence of Chapter IV (I) (3) shall be replaced by the following:</p>
+      <p n="18">'Fillets and slices must not remain on work tables any longer than is necessary for their preparation and must be protected from contamination by appropriate packaging.'</p>
+      <p n="19">(3) Chapter IV (IV), point 1 shall be replaced by the following:</p>
+      <p n="20">'Fresh, frozen and thawed products used for processing must comply with the requirements set out in I, II or III of this Chapter.'</p>
+      <p n="21">(4) The first sentence of Chapter IV (IV) (4) (d) shall be replaced by the following:</p>
+      <p n="22">'(d) samples must be taken of production each day at predetermined intervals to ensure the efficacy of sealing or of any other method of hermetic closure.'</p>
+      <p n="23">(5) In Chapter IV (V) (3) (c) the verb 'destroy' shall be replaced by the verb 'kill'.</p>
+      <p n="24">(6) The first sentence of the second paragraph of Chapter V (II) (3) (A) (b) shall be replaced by the following:</p>
+      <p n="25">'These limits apply only to fish species of the following families: scombridae, clupeidae, engraulidae and coryphaenidae.'</p>
+      <p n="26">(7) Chapter VII shall be replaced by the following:</p>
+      <p n="27">'CHAPTER VII</p>
+      <p n="28">IDENTIFICATION</p>
+      <p n="29">Without prejudice to the provisions of Directive 79/112/EEC, it must be possible to trace for inspection purposes the establishment of dispatch of consignments of fishery products, by means either of labelling or of the accompanying documents.</p>
+      <p n="30">For that purpose, the following information must appear on the packaging or, in the case of a non-packaged product, in the accompanying documents:</p>
+      <p n="31">- the country of dispatch, which may be written out in full or shown as an abbreviation, using capital letters, i. e. for the Member States of the Community, one of the following:</p>
+      <p n="32">B - DK - D - EL - E - F - IRL - I - L - NL - P - UK - AT - FI - SE,</p>
+      <p n="33">- identification of the establishment or factory vessel by its official approval number or, in the case of marketing from a freezer vessel covered by point 7 of Annex II to Directive 92/48/EEC, the identification number of the vessel, or, in the case of separate registering of auction or wholesale markets as laid down in the third subparagraph of Article 7 (1) of this Directive, the registration number of the auction or wholesale market,</p>
+      <p n="34">- one of the following abbreviations: CE - EC - EG - EK - EF - EY.</p>
+      <p n="35">All the letters and figures must be fully legible and grouped together on the packaging in a place where they are visible from the outside without any need to open the said packaging.'</p>
+      <p n="36">Article 2</p>
+      <p n="37">1. The Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 1 July 1997. They shall notify the Commission thereof. However, products prepared before the date on which this Directive is brought into effect shall not be covered by the provisions of Chapter VII of Directive 91/493/EEC as amended by this Directive.</p>
+      <p n="38">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such references on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.</p>
+      <p n="39">2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.</p>
+      <p n="40">Article 3</p>
+      <p n="41">This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="42">Article 4</p>
+      <p n="43">This Directive is addressed to the Member States.</p>
+      <p n="44">Done at Brussels, 22 December 1995.</p>
+      <p n="45">For the Council</p>
+      <p n="46">The President</p>
+      <p n="47">L. ATIENZA SERNA</p>
+      <p n="48">(1) OJ No L 268, 24. 9. 1991, p. 15. Directive as amended by the 1994 Act of Accession.</p>
+      <p n="49">(2) OJ No L 187, 7. 7. 1992, p. 41.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,77 @@
+<TEI.2 id="jrc32004D0025-en" n="32004D0025" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0025 English</title>
+        <title>2004/25/EC: Commission Decision of 22 December 2003 amending Decision 2002/657/EC as regards the setting of minimum required performance limits (MRPLs) for certain residues in food of animal origin (Text with EEA relevance) (notified under document number C(2003) 4961)</title>
+      </titleStmt>
+      <extent>41 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0025:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0025:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">1894</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">5300</classCode>
+        <classCode scheme="eurovoc">5734</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0025-en." lang="en">
+    <body>
+      <head n="1">2004/25/EC: Commission Decision of 22 December 2003 amending Decision 2002/657/EC as regards the setting of minimum required performance limits (MRPLs) for certain residues in food of animal origin (Text with EEA relevance) (notified under document number C(2003) 4961)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 22 December 2003</p>
+      <p n="4">amending Decision 2002/657/EC as regards the setting of minimum required performance limits (MRPLs) for certain residues in food of animal origin</p>
+      <p n="5">(notified under document number C(2003) 4961)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/25/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 96/23/EC of 29 April 1996 on measures to monitor certain substances and residues thereof in live animals and animal products and repealing Directives 85/358/EEC and 86/469/EEC and Decisions 89/187/EEC and 91/664/EEC(1), as last amended by Regulation (EC) No 806/2003(2), and in particular the second subparagraph of Article 15(1) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The presence of residues in products of animal origin is a matter of concern for public health. Commission Decision 2002/657/EC of 12 August 2002 implementing Council Directive 96/23/EC concerning the performance of analytical methods and the interpretation of results(3), as amended by Decision 2003/181/EC(4), provides for a procedure to progressively establish minimum required performance limits (MRPLs) of analytical methods employed to detect substances whose use is not authorised or is specifically prohibited in the Community.</p>
+      <p n="13">(2) As a result of the detection of residues from the pharmacologically active substance malachite green whose use in veterinary medicinal products for food producing animals is not authorised in the Community, and its metabolite leucomalachite green in aquaculture products, the level to be set for harmonised MRPL for that substance has been agreed in consultation with the Community Reference Laboratories, the National Reference Laboratories and the Member States.</p>
+      <p n="14">(3) It is necessary to provide harmonised levels for the control of that substance to ensure the same level of consumer protection in the Community.</p>
+      <p n="15">(4) Decision 2002/657/EC should therefore be amended accordingly.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Decision 2002/657/EC is amended as follows:</p>
+      <p n="20">1. Article 4 is replaced by the following:</p>
+      <p n="21">"Article 4</p>
+      <p n="22">Member States shall ensure that the analytical methods used for detecting the following substances meet the minimum required performance limits (MRPLs) set out in Annex II, against the matrixes referred to in that Annex:</p>
+      <p n="23">(a) chloramphenicol;</p>
+      <p n="24">(b) nitrofuran metabolites;</p>
+      <p n="25">(c) medroxyprogesterone;</p>
+      <p n="26">(d) malachite green.";</p>
+      <p n="27">2. Annex II to Decision 2002/657/EC, is amended as set out in the Annex to this Decision.</p>
+      <p n="28">Article 2</p>
+      <p n="29">This Decision is addressed to the Member States.</p>
+      <p n="30">Done at Brussels, 22 December 2003.</p>
+      <p n="31">For the Commission</p>
+      <p n="32">David Byrne</p>
+      <p n="33">Member of the Commission</p>
+      <p n="34">(1) OJ L 125, 23.5.1996, p. 10.</p>
+      <p n="35">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="36">(3) OJ L 221, 17.8.2002, p. 8.</p>
+      <p n="37">(4) OJ L 71, 15.3.2003, p. 17.</p>
+      <p n="38">ANNEX</p>
+      <p n="39">Commission Decision 2002/657/EC is amended as follows:</p>
+      <p n="40">In Annex II, the following row is added:</p>
+      <p n="41">"&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

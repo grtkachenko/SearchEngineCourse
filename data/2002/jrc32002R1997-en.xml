@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32002R1997-en" n="32002R1997" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1997 English</title>
+        <title>Commission Regulation (EC) No 1997/2002 of 8 November 2002 amending Regulation (EC) No 296/96 on data to be transmitted by the Member States and the monthly booking of expenditure financed under the Guarantee Section of the European Agricultural Guidance and Guarantee Fund (EAGGF)</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1997:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1997:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1005</classCode>
+        <classCode scheme="eurovoc">1476</classCode>
+        <classCode scheme="eurovoc">2448</classCode>
+        <classCode scheme="eurovoc">2609</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+        <classCode scheme="eurovoc">979</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1997-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1997/2002 of 8 November 2002 amending Regulation (EC) No 296/96 on data to be transmitted by the Member States and the monthly booking of expenditure financed under the Guarantee Section of the European Agricultural Guidance and Guarantee Fund (EAGGF)</head>
+      <p n="2">Commission Regulation (EC) No 1997/2002</p>
+      <p n="3">of 8 November 2002</p>
+      <p n="4">amending Regulation (EC) No 296/96 on data to be transmitted by the Member States and the monthly booking of expenditure financed under the Guarantee Section of the European Agricultural Guidance and Guarantee Fund (EAGGF)</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1258/1999 of 17 May 1999 on the financing of the common agricultural policy(1), and in particular Articles 5(3) and 7(5) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 16(1) of Council Regulation (EC, Euratom) No 1605/2002 of 25 June 2002 on the Financial Regulation applicable to the general budget of the European Communities(2) provides that the budget shall be drawn up and implemented in euro and the accounts shall be presented in euro.</p>
+      <p n="10">(2) Commission Regulation (EC) No 296/96(3), as last amended by Regulation (EC) No 1934/2001(4), should be amended so as to bring it in line with this new provision.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Committee for the European Agricultural Guidance and Guarantee Fund,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Article 4(1a) of Regulation (EC) No 296/96 is hereby deleted.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on 1 January 2003.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 8 November 2002.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 160, 26.6.1999, p. 103.</p>
+      <p n="23">(2) OJ L 248, 16.9.2002, p. 1.</p>
+      <p n="24">(3) OJ L 39, 17.2.1996, p. 5.</p>
+      <p n="25">(4) OJ L 262, 2.10.2001, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,69 @@
+<TEI.2 id="jrc31999R2745-en" n="31999R2745" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2745 English</title>
+        <title>Council Regulation (EC) No 2745/1999 of 17 December 1999 amending Regulation (EC) No 2505/96 opening and providing for the administration of autonomous Community tariff quotas for certain agricultural and industrial products</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2745:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2745:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2758</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2745-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2745/1999 of 17 December 1999 amending Regulation (EC) No 2505/96 opening and providing for the administration of autonomous Community tariff quotas for certain agricultural and industrial products</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2745/1999</p>
+      <p n="3">of 17 December 1999</p>
+      <p n="4">amending Regulation (EC) No 2505/96 opening and providing for the administration of autonomous Community tariff quotas for certain agricultural and industrial products</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 26 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) By virtue of Regulation (EC) No 2505/96(1), the Council opened Community tariff quotas for certain agricultural and industrial products; Community demand for the products in question should be met under the most favourable conditions; Community tariff quotas should therefore be opened at reduced or zero rates of duty for appropriate volumes, and increased or extended in the case of certain existing tariff quotas, while avoiding any disturbance to the markets for these products;</p>
+      <p n="10">(2) It is no longer in the Community's interest to maintain a Community tariff quota on some of the products covered by the above Regulation, and those products should therefore be removed from the table in Annex I;</p>
+      <p n="11">(3) In view of the large number of amendments coming into effect on 1 January 2000 and in order to clarify matters for the user, the table in Annex I to the above Regulation should be replaced by the table in the Annex to this Regulation;</p>
+      <p n="12">(4) Having regard to the economic importance of the said Regulation for European industry and the requirement that it enter into force on 1 January 2000, it is necessary to invoke the ground of urgency referred to in point I(3) of the additional Protocol to the Treaty of Amsterdam on the role of national parliaments in the European Union;</p>
+      <p n="13">(5) Regulation (EC) No 2505/96 should therefore be amended,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">For the quota period from 1 January to 31 December 1999, Annex I to Regulation (EC) No 2505/96 shall be amended as follows:</p>
+      <p n="17">- order number 09.2711: the amount of the tariff quota shall be altered to 1035000 tonnes,</p>
+      <p n="18">- order number 09.2939: the amount of the tariff quota shall be altered to 135000000 units,</p>
+      <p n="19">- order number 09.2943: the amount of the tariff quota shall be altered to 60000000 units,</p>
+      <p n="20">- order number 09.2944: the amount of the tariff quota shall be altered to 48000000 units,</p>
+      <p n="21">- order number 09.2959: the amount of the tariff quota shall be altered to 60000 tonnes,</p>
+      <p n="22">- order number 09.2966: the amount of the tariff quota shall be altered to 12000 tonnes.</p>
+      <p n="23">Article 2</p>
+      <p n="24">The table in Annex I to Regulation (EC) No 2505/96 shall be replaced by the table set out in the Annex to this Regulation.</p>
+      <p n="25">Article 3</p>
+      <p n="26">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="27">It shall apply from 1 January 2000, except for Article 1 which shall apply from 1 January 1999.</p>
+      <p n="28">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="29">Done at Brussels, 17 December 1999.</p>
+      <p n="30">For the Council</p>
+      <p n="31">The President</p>
+      <p n="32">K. HEMILÄ</p>
+      <p n="33">(1) OJ L 345, 31.12.1996, p. 1. Regulation as last amended by Regulation (EC) No 1969/1999 (OJ L 244, 16.9.1999, p. 38).</p>
+      <p n="34">ANNEX</p>
+      <p n="35">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

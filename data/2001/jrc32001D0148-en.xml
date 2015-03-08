@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32001D0148-en" n="32001D0148" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0148 English</title>
+        <title>2001/148/EC: Commission Decision of 21 February 2001 on the application of Article 3(3)(e) of Directive 1999/5/EC to avalanche beacons (Text with EEA relevance) (notified under document number C(2001) 194)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0148:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0148:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">30</classCode>
+        <classCode scheme="eurovoc">3051</classCode>
+        <classCode scheme="eurovoc">3076</classCode>
+        <classCode scheme="eurovoc">3860</classCode>
+        <classCode scheme="eurovoc">4162</classCode>
+        <classCode scheme="eurovoc">468</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0148-en." lang="en">
+    <body>
+      <head n="1">2001/148/EC: Commission Decision of 21 February 2001 on the application of Article 3(3)(e) of Directive 1999/5/EC to avalanche beacons (Text with EEA relevance) (notified under document number C(2001) 194)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 21 February 2001</p>
+      <p n="4">on the application of Article 3(3)(e) of Directive 1999/5/EC to avalanche beacons</p>
+      <p n="5">(notified under document number C(2001) 194)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/148/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Directive 1999/5/EC of the European Parliament and of the Council of 9 March 1999 on radio equipment and telecommunications terminal equipment and the mutual recognition of their conformity(1), and in particular Article 3(3)(e), thereof,</p>
+      <p n="11">Having regard to the Resolution of the European Parliament on the avalanche disasters in the Alps(2),</p>
+      <p n="12">Having regard to the proposal of the Commission,</p>
+      <p n="13">Whereas:</p>
+      <p n="14">(1) Avalanche beacons contribute to the efficient rescue of people submerged by snow following an avalanche.</p>
+      <p n="15">(2) The success of rescue actions would seriously be affected if such beacons could not be detected due to technical incompatibilities.</p>
+      <p n="16">(3) There is a substantial installed base of beacons, conforming to ETS 300 718. This standard ensures interoperability and operation under harsh conditions but contains requirements beyond the scope of Directive 1999/5/EC and thus needs to be reviewed.</p>
+      <p n="17">(4) There are doubts, that market forces would ensure the continued compatibility of avalanche beacons if the Community would not impose features ensuring access to emergency services.</p>
+      <p n="18">(5) The measures set out in this Decision are in accordance with the opinion of the Telecommunications Conformity Assessment and Market Surveillance Committee,</p>
+      <p n="19">HAS ADOPTED THIS DECISION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">This Decision applies to devices operating on 457 kHz and intended to locate people submerged by snow following an avalanche. They are further referred to as "avalance beacons".</p>
+      <p n="22">Article 2</p>
+      <p n="23">1. Avalanche beacons falling within the scope of Article 1 shall be designed so as to be able to interwork with new beacons as well as with the installed base of beacons, which was approved under national approval regulations based on ETS 300 718.</p>
+      <p n="24">2. Avalance beacons shall be so constructed that they will function reliably after having been exposed to an avalanche and continue to function when being submerged in snow following the avalanche for a longer period.</p>
+      <p n="25">Article 3</p>
+      <p n="26">The requirements of Article 2 of this Decision shall apply as from the date of its publication in the Official Journal of the European Communities.</p>
+      <p n="27">Article 4</p>
+      <p n="28">This Decision is addressed to the Member States.</p>
+      <p n="29">Done at Brussels, 21 February 2001.</p>
+      <p n="30">For the Commission</p>
+      <p n="31">Erkki Liikanen</p>
+      <p n="32">Member of the Commission</p>
+      <p n="33">(1) OJ L 91, 7.4.1999, p. 10.</p>
+      <p n="34">(2) OJ C 175, 21.6.1999, p. 259.</p>
+    </body>
+  </text>
+</TEI.2>

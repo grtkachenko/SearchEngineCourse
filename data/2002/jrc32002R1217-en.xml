@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32002R1217-en" n="32002R1217" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1217 English</title>
+        <title>Commission Regulation (EC) No 1217/2002 of 5 July 2002 requiring importers or manufacturers of certain Einecs substances to supply certain information and perform certain tests pursuant to Council Regulation (EEC) No 793/93</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1217:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1217:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2739</classCode>
+        <classCode scheme="eurovoc">3730</classCode>
+        <classCode scheme="eurovoc">4039</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1217-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1217/2002 of 5 July 2002 requiring importers or manufacturers of certain Einecs substances to supply certain information and perform certain tests pursuant to Council Regulation (EEC) No 793/93</head>
+      <p n="2">Commission Regulation (EC) No 1217/2002</p>
+      <p n="3">of 5 July 2002</p>
+      <p n="4">requiring importers or manufacturers of certain Einecs substances to supply certain information and perform certain tests pursuant to Council Regulation (EEC) No 793/93</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 793/93 of 23 March 1993 on the evaluation and control of the risks of existing substances(1), and in particular Article 12(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) A number of Member States have apprised the Commission of valid reasons for believing that certain substances in the European Inventory of Existing Commercial Chemical Substances (Einecs)(2) may, due to the degree of exposure entailed in their production or use, pose a serious risk to humans or the environment.</p>
+      <p n="10">(2) The manufacturers and importers concerned should therefore be required to provide the Commission with the information in their possession concerning those substances.</p>
+      <p n="11">(3) The manufacturers and importers concerned should also be required to test the substances in question, to draw up a report on those tests and to forward those reports, together with the results of the tests, to the Commission, subject to the possibility provided for by Article 12(3) of Regulation (EEC) No 793/93 that, where a substance is produced or imported as such or in a preparation by several manufacturers or importers, further testing may be performed by one or more manufacturers or importers acting on behalf of the others.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Committee established by Article 15 of Regulation (EEC) No 793/93,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Manufacturers and importers of one or more of the Einecs substances listed in the Annex to this Regulation shall:</p>
+      <p n="16">(a) provide the Commission with the information specified in the Annex within the time-limits laid down therein;</p>
+      <p n="17">(b) perform, in relation to each such substance, the tests indicated in the Annex in accordance with the protocols specified therein;</p>
+      <p n="18">(c) provide the Commission with a report on each test, including the results thereof, within the time-limits laid down in the Annex.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 5 July 2002.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Margot Wallström</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 84, 5.4.1993, p. 1.</p>
+      <p n="27">(2) OJ C 146 A, 15.6.1990, p.1.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">The testing/information requirements referred to in this Annex should be addressed to: European Commission Directorate-General for Environment</p>
+      <p n="30">Directorate C - Unit C.3 - Chemicals</p>
+      <p n="31">B - 1049 Brussels</p>
+      <p n="32">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

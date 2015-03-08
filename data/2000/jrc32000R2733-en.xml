@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32000R2733-en" n="32000R2733" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2733 English</title>
+        <title>Commission Regulation (EC) No 2733/2000 of 14 December 2000 amending Regulation (EC) No 2342/1999 laying down detailed rules for the application of premium schemes in the beef and veal sector</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2733:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2733:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2194</classCode>
+        <classCode scheme="eurovoc">2620</classCode>
+        <classCode scheme="eurovoc">4638</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2733-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2733/2000 of 14 December 2000 amending Regulation (EC) No 2342/1999 laying down detailed rules for the application of premium schemes in the beef and veal sector</head>
+      <p n="2">Commission Regulation (EC) No 2733/2000</p>
+      <p n="3">of 14 December 2000</p>
+      <p n="4">amending Regulation (EC) No 2342/1999 laying down detailed rules for the application of premium schemes in the beef and veal sector</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1254/1999 of 17 May 1999 on the common organisation of the market in beef and veal(1), as amended by Commission Regulation (EC) No 907/2000(2), and in particular Article 4(8), Article 6(4), Article 11(5) und Article 20 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 41 of Commission Regulation (EC) No 2342/1999 of 28 October 1999 laying down detailed rules for the application of Council Regulation (EC) No 1254/1999 on the common organisation of the market in beef and veal as regards premium schemes(3), as last amended by Regulation (EC) No 1900/2000(4), and repealing Regulation (EEC) No 3886/92(5), as last amended by Regulation (EC) No 1410/1999(6), lays down rules on the payment of advances. In view of the difficult situation on the beef and veal market resulting from a sharp fall in demand, linked in particular to the disaffection of anxious consumers and the increase in the number of cases of bovine spongiform encephalopathy, an increase in the advance on the special premium, the suckler cow premium, the slaughter premium and the additional payments should be authorised.</p>
+      <p n="10">(2) In view of the way the situation is developing, this Regulation should enter into force immediately.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Commitee for Beef and Veal,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">In Article 41(1) of Regulation (EC) No 2342/1999, the following last subparagraph is added:</p>
+      <p n="15">"However, as regards the 2000 calendar year, an advance equal to 80 % of the special premium, the suckler cow premium, the slaughter premium and the additional payments may be paid."</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 14 December 2000.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 160, 26.6.1999, p. 21.</p>
+      <p n="24">(2) OJ L 105, 3.5.2000, p. 6.</p>
+      <p n="25">(3) OJ L 281, 4.11.1999, p. 30.</p>
+      <p n="26">(4) OJ L 228, 8.9.2000, p. 25.</p>
+      <p n="27">(5) OJ L 391, 31.12.1992, p. 20.</p>
+      <p n="28">(6) OJ L 164, 30.6.1999, p. 53.</p>
+    </body>
+  </text>
+</TEI.2>

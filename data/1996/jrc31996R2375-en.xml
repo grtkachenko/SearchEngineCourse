@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31996R2375-en" n="31996R2375" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2375 English</title>
+        <title>Commission Regulation (EC) No 2375/96 of 13 December 1996 amending Regulation (EC) No 3223/94 on detailed rules for the application of the import arrangements for fruit and vegetables</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2375:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2375:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1119</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1608</classCode>
+        <classCode scheme="eurovoc">2657</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">3178</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2375-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2375/96 of 13 December 1996 amending Regulation (EC) No 3223/94 on detailed rules for the application of the import arrangements for fruit and vegetables</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2375/96 of 13 December 1996 amending Regulation (EC) No 3223/94 on detailed rules for the application of the import arrangements for fruit and vegetables</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1035/72 of 18 May 1972 on the common organization of the market in fruit and vegetables (1), as last amended by Commission Regulation (EC) No 1363/95 (2), and in particular Article 23 (2) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 3223/94 (3), as last amended by Regulation (EC) No 1890/96 (4), lays down detailed rules for the application of the import arrangements for fruit and vegetables;</p>
+      <p n="7">Whereas Article 4 (4) of Regulation (EC) No 3223/94 provides that the standard import values are to cease to apply where no average representative price has been communicated to the Commission for seven consecutive days; whereas, where, pursuant to those provisions, no standard import value applies to a given product, provision should be made for the standard import value applicable to that product to be equal to the last average of the standard values in force; whereas it should also be made clear that the use as a standard import value of the last unit value within the meaning of Articles 173 to 176 of Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code (5), as last amended by Regulation (EC) No 2153/96 (6), is to be limited to the beginning of each period of application set out in the Annex to that Regulation;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Article 4 (4) and (5) of Regulation (EC) No 3223/94 are hereby replaced by the following:</p>
+      <p n="12">'4. During the periods of application set out in Part A of the Annex, the standard import values shall remain applicable until they are changed. They shall cease to apply, however, where no average representative price has been communicated to the Commission for seven consecutive market days.</p>
+      <p n="13">Where, pursuant to the first subparagraph, no standard import value applies to a given product, the standard import value applicable to that product shall be equal to the last average standard import value.</p>
+      <p n="14">5. Notwithstanding paragraph 1, with effect from the first day of the periods of application set out in Part A of the Annex, where it has not been possible to calculate a standard import value, the standard import value applicable to a product shall be equal to the last unit value applicable to that product within the meaning of Articles 173 to 176 of Regulation (EEC) No 2454/93.`</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 13 December 1996.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz FISCHLER</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ No L 118, 20. 5. 1972, p. 1.</p>
+      <p n="23">(2) OJ No L 132, 16. 6. 1995, p. 8.</p>
+      <p n="24">(3) OJ No L 337, 24. 12. 1994, p. 66.</p>
+      <p n="25">(4) OJ No L 249, 1. 10. 1996, p. 29.</p>
+      <p n="26">(5) OJ No L 253, 11. 10. 1993, p. 1.</p>
+      <p n="27">(6) OJ No L 289, 12. 11. 1996, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

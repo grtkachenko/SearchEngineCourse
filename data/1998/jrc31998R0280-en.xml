@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31998R0280-en" n="31998R0280" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0280 English</title>
+        <title>Commission Regulation (EC) No 280/98 of 3 February 1998 derogating from certain provisions of Council Regulation (EC) No 2597/97 laying down additional rules on the common organisation of the market in milk and milk products as regards drinking milk produced in Finland and Sweden</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0280:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0280:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1019</classCode>
+        <classCode scheme="eurovoc">1284</classCode>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">1836</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">4320</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0280-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 280/98 of 3 February 1998 derogating from certain provisions of Council Regulation (EC) No 2597/97 laying down additional rules on the common organisation of the market in milk and milk products as regards drinking milk produced in Finland and Sweden</head>
+      <p n="2">COMMISSION REGULATION (EC) No 280/98 of 3 February 1998 derogating from certain provisions of Council Regulation (EC) No 2597/97 laying down additional rules on the common organisation of the market in milk and milk products as regards drinking milk produced in Finland and Sweden</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the Act of Accession of Austria, Finland and Sweden, and in particular Article 149(1) thereof,Whereas Council Regulation (EC) No 2596/97 (1) extends the period during which transitional measures may be adopted to facilitate the change-over from the arrangements applying in Austria, Finland and Sweden at the time of accession to those resulting from application of the common organisations of the market; whereas, with regard to the requirements for the fat content of drinking milk produced in Finland and Sweden, that period was extended to 31 December 1999;</p>
+      <p n="6">Whereas, under the Act of Accession, Finland and Sweden have a derogation from the requirements for the fat content of drinking milk laid down by Council Regulation (EEC) No 1411/71 (2), repealed and replaced from 1 January 1998 by Regulation (EC) No 2597/97 (3); whereas that derogation expires on 31 December 1997; whereas, in view of the special situation of the Member States concerned and the extent of the adjustments required, that derogation should be extended temporarily in order to permit them to adjust to the arrangements in force in the rest of the Community;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Notwithstanding Article 3(1) of Regulation (EC) No 2597/97, the requirements for fat content shall not apply to drinking milk produced in Finland and Sweden between 1 January 1998 and 31 December 1999. Drinking milk produced in those two Member States and covered by this derogation may only be marketed in the country of production or exported to a third country.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">It shall apply from 1 January 1998.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 3 February 1998.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ L 351, 23. 12. 1997, p. 12.</p>
+      <p n="20">(2) OJ L 148, 3. 7. 1971, p. 4.</p>
+      <p n="21">(3) OJ L 351, 23. 12. 1997, p. 13.</p>
+    </body>
+  </text>
+</TEI.2>

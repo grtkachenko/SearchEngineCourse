@@ -1,0 +1,71 @@
+<TEI.2 id="jrc31998D0514-en" n="31998D0514" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0514 English</title>
+        <title>98/514/EC: Commission Decision of 29 July 1998 amending Council Decision 96/411/EC on improving Community agricultural statistics (notified under document number C(1998) 2135) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0514:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0514:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2792</classCode>
+        <classCode scheme="eurovoc">4257</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4266</classCode>
+        <classCode scheme="eurovoc">5315</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0514-en." lang="en">
+    <body>
+      <head n="1">98/514/EC: Commission Decision of 29 July 1998 amending Council Decision 96/411/EC on improving Community agricultural statistics (notified under document number C(1998) 2135) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 29 July 1998 amending Council Decision 96/411/EC on improving Community agricultural statistics (notified under document number C(1998) 2135) (Text with EEA relevance) (98/514/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Decision 96/411/EC of 25 June 1996 on improving Community agricultural statistics (1), as amended by Decision 98/3/EC (2), and in particular Article 8 thereof,</p>
+      <p n="6">Whereas preserving the quality of the rural environment is one of the objectives of rural development policy;</p>
+      <p n="7">Whereas adequate instruments should be made available in order to provide reliable statistical information in this field;</p>
+      <p n="8">Whereas to that end Decision 96/411/EC should be amended by the replacement of Annex II thereto;</p>
+      <p n="9">Whereas the measures set out in this Decision are in accordance with the opinion delivered by the Standing Committee on Agricultural Statistics,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Annex II of Decision 96/411/EC is replaced by the Annex to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 29 July 1998.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Yves-Thibault DE SILGUY</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ L 162, 1. 7. 1996, p. 14.</p>
+      <p n="20">(2) OJ L 1, 3. 1. 1998, p. 9.</p>
+      <p n="21">ANNEX</p>
+      <p n="22">'ANNEX II</p>
+      <p n="23">AREAS WHERE THERE ARE NEW OR INCREASING NEEDS</p>
+      <p n="24">Topics</p>
+      <p n="25">1. Farm structure survey: adapting the list of characteristics to take account of new needs.</p>
+      <p n="26">2. Rapid estimates of sowings and planting intentions at the beginning of the winter for principal crops.</p>
+      <p n="27">3. Improvement to and rapid provision of the production statistics in certain sectors (fruit and vegetables, wine, eggs and poultry, flowers).</p>
+      <p n="28">4. Improved statistics on consumption and on stock levels and changes for main products with a view to regular production of supply balances at the European level.</p>
+      <p n="29">5. Livestock feed: overcoming certain delays in the fodder balances.</p>
+      <p n="30">6. Development of better harmonised Community forestry statistics.</p>
+      <p n="31">7. Agricultural price statistics: new selection of the absolute agricultural price series taking into account the technical progress and economic changes.</p>
+      <p n="32">8. Statistical data on rural development and on the environmental impact of agriculture.</p>
+      <p n="33">Methodology</p>
+      <p n="34">9. Improved and new methods to allow Member States to meet more efficiently existing and new information needs e.g. light surveys, administrative data, panels, remote sensing.`</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,76 @@
+<TEI.2 id="jrc31998R2581-en" n="31998R2581" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2581 English</title>
+        <title>Commission Regulation (EC) No 2581/98 of 30 November 1998 amending Regulation (EC) No 1372/95 laying down detailed rules for implementing the system of export licences in the poultrymeat sector</title>
+      </titleStmt>
+      <extent>41 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2581:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2581:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">3408</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+        <classCode scheme="eurovoc">4743</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2581-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2581/98 of 30 November 1998 amending Regulation (EC) No 1372/95 laying down detailed rules for implementing the system of export licences in the poultrymeat sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2581/98 of 30 November 1998 amending Regulation (EC) No 1372/95 laying down detailed rules for implementing the system of export licences in the poultrymeat sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2777/75 of 29 October 1975 on the common organisation of the market in poultrymeat (1), as last amended by Commission Regulation (EC) No 2916/95 (2), and in particular Articles 3(2) and 8(12) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 1372/95 (3), as last amended by Regulation (EC) No 1009/98 (4), lays down detailed rules for implementing the system of export licences in the poultrymeat sector;</p>
+      <p n="7">Whereas the lists of products attracting export refunds in the poultrymeat sector and of destinations qualifying for such refunds were recently amended by Regulation (EC) No 2580/98 (5); whereas Annexes I and III to Regulation (EC) No 1372/95 should be adapted accordingly;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Annexes I and III to Regulation (EC) No 1372/95 are replaced by the Annexes hereto.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 30 November 1998.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ L 282, 1. 11. 1975, p. 77.</p>
+      <p n="20">(2) OJ L 305, 19. 12. 1995, p. 49.</p>
+      <p n="21">(3) OJ L 133, 17. 6. 1995, p. 26.</p>
+      <p n="22">(4) OJ L 145, 15. 5. 1998, p. 8.</p>
+      <p n="23">(5) See page 31 of this Official Journal.</p>
+      <p n="24">ANNEX I</p>
+      <p n="25">'ANNEX I</p>
+      <p n="26">&gt;TABLE&gt;</p>
+      <p n="27">`</p>
+      <p n="28">ANNEX II</p>
+      <p n="29">'ANNEX III</p>
+      <p n="30">Angola</p>
+      <p n="31">Saudi Arabia</p>
+      <p n="32">Kuwait</p>
+      <p n="33">Bahrain</p>
+      <p n="34">Qatar</p>
+      <p n="35">Oman</p>
+      <p n="36">United Arab Emirates</p>
+      <p n="37">Jordan</p>
+      <p n="38">Republic of Yemen</p>
+      <p n="39">Lebanon</p>
+      <p n="40">Iran</p>
+      <p n="41">Iraq`</p>
+    </body>
+  </text>
+</TEI.2>

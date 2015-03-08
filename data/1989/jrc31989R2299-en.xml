@@ -1,0 +1,195 @@
+<TEI.2 id="jrc31989R2299-en" n="31989R2299" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31989R2299 English</title>
+        <title>Council Regulation (EEC) No 2299/89 of 24 July 1989 on a code of conduct for computerized reservation systems</title>
+      </titleStmt>
+      <extent>168 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989R2299:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31989R2299:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31989R2299-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EEC) No 2299/89 of 24 July 1989 on a code of conduct for computerized reservation systems</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL REGULATION (EEC) No 2299/89</p>
+      <p n="4">of 24 July 1989</p>
+      <p n="5">on a code of conduct for computerized reservation systems</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community, and in particular Article 84 (2) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission (1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="10">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="11">Whereas the bulk of airline reservations are made through computerized reservation systems;</p>
+      <p n="12">Whereas such systems can, if properly used, provide an important and useful service to air carriers, travel agents and the travelling public by affording easy access to up-to-date and accurate information on flights, fares and seat availability, making reservations and, in some cases, issuing tickets and boarding passes;</p>
+      <p n="13">Whereas abuses in the form of denial of access to the systems or discrimination in the provision, loading or display of data or unreasonable conditions imposed on participants or subscribers can seriously disadvantage air carriers, travel agents and ultimately consumers;</p>
+      <p n="14">Whereas this Regulation is without prejudice to the application of Articles 85 and 86 of the Treaty;</p>
+      <p n="15">Whereas Commission Regulation (EEC) No 2672/88 (4) exempts for the provisions of Article 85 (1) of the Treaty agreements for the common purchase, development and operation of computerized reservation systems;</p>
+      <p n="16">Whereas a mandatory code of conduct applicable to all computerized reservation systems and/or distribution facilities offered for use and/or used in the Community could ensure that such systems are used in a nondiscriminatory and transparent way, subject to certain safeguards, so avoiding their misuse while reinforcing undistorted competition between air carriers and between computerized reservation systems and thereby protecting the interests of consumers;</p>
+      <p n="17">Whereas it would not be appropriate to impose obligations on a computerized reservation system vendor or on a parent or participating carrier in respect of an air carrier of a third country which, alone or jointly with others, owns and/or controls another such system which does not conform with this code or offer equivalent treatment;</p>
+      <p n="18">Whereas a complaints investigation and enforcement procedure for non-compliance with such a code is desirable,</p>
+      <p n="19">HAS ADOPTED THIS REGULATION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">This Regulation shall apply to computerized reservation systems (CRSs) when offered for use and/or used in the territory of the Community for the distribution and sale of air transport products irrespective of:</p>
+      <p n="22">- the status or nationality of the system vendor,</p>
+      <p n="23">- the source of the information used or the location of the relevant central data processing unit,</p>
+      <p n="24">- the geographical location of the air transport product concerned.</p>
+      <p n="25">Article 2</p>
+      <p n="26">For the purpose of this Regulation:</p>
+      <p n="27">(a) 'air transport product' shall mean a scheduled passenger air service, including any related ancillary services and additional benefits offered for sale and/or sold as an integral part of the air service;</p>
+      <p n="28">(b) 'computerized reservation system (CRS) shall mean a computerized system containing information about, inter alia, air carriers'</p>
+      <p n="29">- schedules,</p>
+      <p n="30">- availability,</p>
+      <p n="31">- fares, and</p>
+      <p n="32">- related services</p>
+      <p n="33">with or without facilities through which</p>
+      <p n="34">- reservations can be made or</p>
+      <p n="35">- tickets may be issued</p>
+      <p n="36">to the extent that some or all of these services are made available to subscribers;</p>
+      <p n="37">(c) 'distribution facilities' shall mean facilities provided by a system vendor to a subscribor or consumer for the provision of information about air carriers' schedules, availability, fares and related services and for making reservations and/or issuing tickets, and for any other related services;</p>
+      <p n="38">(d) 'system vendor' shall mean any entity and its affiliates which are responsible for the operation or marketing of a CRS;</p>
+      <p n="39">(e) 'parent carrier' shall mean an air carrier which is a system vendor or which directly or indirectly, alone or jointly with others, owns or controls a system vendor;</p>
+      <p n="40">(f) 'participating carrier' shall mean an air carrier which has an agreement with a system vendor for the distribution of its air transport products through a CRS. To the extent that a parent carrier uses the distribution facilities of its own CRS, it shall be considered a participating carrier;</p>
+      <p n="41">(g) 'subscriber' shall mean a person or an undertaking, other than a participating carrier, using under contract or other arrangement with a system vendor a CRS for the sale of air transport products directly to individual members of the public;</p>
+      <p n="42">(h) 'consumer' shall mean any person seeking information about and/or intending to purchase an air transport product;</p>
+      <p n="43">(i) 'principal display' shall mean a comprehensive neutral display of data concerning services between city pairs, within a specified time period, containing inter alia all direct flights by participating carriers;</p>
+      <p n="44">(j) 'elapsed journey time' shall mean the time difference between scheduled departure and arrival time;</p>
+      <p n="45">(k) 'service enhancement' shall mean any product or service offered by a system vendor on its own behalf to subscribers or consumers in conjunction with a CRS other than distribution facilities;</p>
+      <p n="46">(l) 'scheduled air service' shall mean a series of flights each possessing all the following characteristics:</p>
+      <p n="47">- it is performed by aircraft for the transport of passengers or passengers and cargo and/or mail for remuneration, in such a manner that on each flight seats are available for individual purchase by members of the public (either directly from the air carrier or from its authorized agents),</p>
+      <p n="48">- it is operated so as to serve traffic between the same two or more points, either:</p>
+      <p n="49">1. according to a published timetable; or</p>
+      <p n="50">2. with flights so regular or frequent that they constitute a recognizably systematic series.</p>
+      <p n="51">Article 3</p>
+      <p n="52">1. A system vendor offering distribution facilities in respect of scheduled passenger air services shall allow any air carrier the opprotunity to participate, on an equal and non-discriminatory basis, in these facilities within the available capacity of the system concerned, subject to any technical constraints outside the control of the system vendor.</p>
+      <p n="53">2. (a) A system vendor shall not</p>
+      <p n="54">- attach unreasonable conditions to any contract with a participating carrier,</p>
+      <p n="55">- require the acceptance of supplementary conditions which, by their nature or according to commercial usage, have no connection with participation in its CRS and shall apply the same conditions for the same level of service.</p>
+      <p n="56">(b) A system vendor shall not make it a condition of participation in its CRS that a participating carrier may not at the same time be a paritipant in another system.</p>
+      <p n="57">(c) A participating carrier shall have the right to terminate his contract with a system vendor without penalty on giving notice which need not exceed six months, to expire no earlier than the end of the first year.</p>
+      <p n="58">3. Loading and processing facilities provided by the system vendor shall be offered to all participating carriers without discrimination.</p>
+      <p n="59">4. If the system vendor adds any improvement to the distribution facilities provided or the equipment used in the provision of the facilities, it shall offer these improvements to all participating carriers on the same terms and conditions, subject to current technical limitations. Article 4</p>
+      <p n="60">1. Participating carriers and others providing material for inclusion in a CRS shall ensure that the data submitted are comprehensive, accurate, non-misleading and transparent.</p>
+      <p n="61">2. A system vendor shall not manipulate the material referred to in paragraph 1 in a manner that would lead to inaccurate, misleading or discriminatory information being provided.</p>
+      <p n="62">3. A system vendor shall load and process data provided by participating carriers with equal care and timeliness, subject to the constraints of the loading method selected by individual participating carriers and to the standard formats used by the said vendor.</p>
+      <p n="63">Article 5</p>
+      <p n="64">1. A system vendor shall provide a principal display and shall include therein data provided by participating carriers on schedules, fares and seats available for individual purchase in a clear and comprehensive manner and without discrimination or bias, in particular as regards the order in which information is presented.</p>
+      <p n="65">2. A system vendor shall not intentionally or negligently display inaccurate or misleading information and, subject to Article 9 (5), in particular:</p>
+      <p n="66">- the criteria to be used for ranking information shall not be based on any factor directly or indirectly relating to carrier identity and shall be applied on a non-discriminatory basis to all participating carriers,</p>
+      <p n="67">- no discrimination on the basis of different airports serving the same city shall be exercised in constructing and selecting city-pairs.</p>
+      <p n="68">3. Ranking of flight options in the principal display, for the day or days requested, shall be as set out in the Annex unless requested in a different way by a consumer for an individual transaction.</p>
+      <p n="69">Article 6</p>
+      <p n="70">A system vendor shall provide information, statistical or otherwise, generated by its CRS, other than that offered as an integral part of the distribution facilities, only as follows:</p>
+      <p n="71">(a) information concerning individual bookings shall be made available on an equal basis to the air carrier or air carriers participating in the service covered by the booking;</p>
+      <p n="72">(b) information in aggregate or anonymous form when made available on request to any air carrier shall be offered to all participating air carriers on a nondiscriminatory basis;</p>
+      <p n="73">(c) other information generated by the CRS shall be made available with the consent of the air carrier concerned and subject to any agreement between a system vendor and participating carriers;</p>
+      <p n="74">(d) personal information concerning a consumer and generated by a travel agent shall be made available to others not involved in the transaction only with the consent of the consumer.</p>
+      <p n="75">Article 7</p>
+      <p n="76">1. The obligations of a system vendor under Articles 3 to 6 shall not apply in respect of a parent carrier of a third country to the extent that its CRS does not conform with this Regulation or does not offer Community air carriers equivalent treatment to that provided under this Regulation.</p>
+      <p n="77">2. The obligations of parent and participating carriers under Article 8 shall not apply in respect of a CRS controlled by air carriers of a third country to the extent that a parent or participating carrier is not accorded equivalent treatment in that country to that provided under this Regulation and under Commission Regulation (EEC) No 2672/88.</p>
+      <p n="78">3. A system vendor or an air carrier proposing to avail itself of the provisions of paragraphs 1 or 2 must notify the Commission of its intentions and the reasons therefor at least 14 days in advance of such action. In exceptional circumstances, the Commission may, at the request of the vendor or the air carrier concerned, grant a waiver from the 14-day rule.</p>
+      <p n="79">4. Upon receipt of a notification, the Commission shall without delay determine whether discrimination within the meaning of paragraphs 1 and 2 exists. If this is found to be the case, the Commission shall so inform all system vendors or the air carriers concerned in the Community as well as Member States. If discrimination within the meaning of paragraph 1 or 2 does not exist, the Commission shall so inform the system vendor or air carriers concerned.</p>
+      <p n="80">Article 8</p>
+      <p n="81">1. A parent or participating carrier shall not link the use of any specific CRS by a subscriber with the receipt of any commission or other incentive for the sale of or issue of tickets for any of its air transport products. 2. A parent or participating carrier shall not require use of any specific CRS by a subscriber for any sale or issue of tickets for any air transport products provided either directly or indirectly by itself.</p>
+      <p n="82">3. Paragraphs 1 and 2 shall be without prejudice to any condition which an air carrier may require of a travel agent when authorizing it to sell and issue tickets for its air transport products.</p>
+      <p n="83">Article 9</p>
+      <p n="84">1. A system vendor shall make any of the distribution facilities of a CRS available to any subscriber on a non-discriminatory basis.</p>
+      <p n="85">2. A system vendor shall not require a subscriber to sign an exclusive contract, nor directly or indirectly prevent a subscriber from subscribing to, or using, any other system or systems.</p>
+      <p n="86">3. A service enhancement offered to any other subscriber shall be offered by the system vendor to all subscribers on a non-discriminatory basis.</p>
+      <p n="87">4. A system vendor shall not attach unreasonable conditions to any contract with a subscriber and, in particular, a subscriber may terminate his contract with a system vendor, without penalty, on giving notice which need not exceed three months to expire no earlier than the end of the first year.</p>
+      <p n="88">5. A system vendor shall ensure, either through technical means or through the contract with the subscriber, that the principal display is provided for each individual transaction and that the subscriber does not manipulate material supplied by CRSs in a manner that would lead to inaccurate, misleading or discriminatory presentation of information to consumers. However, for any one transaction a subscriber may re-order data or use alternative displays to meet a preference expressed by a consumer.</p>
+      <p n="89">6. A system vendor shall not impose any obligation on a subscriber to accept an offer of technical equipment, but may require the use of equipment compatible with its own system.</p>
+      <p n="90">Article 10</p>
+      <p n="91">1. Any fee charged by a system vendor shall be non-discriminatory and reasonably related to the cost of the service provided and used, and shall, in particular, be the same for the same level of service.</p>
+      <p n="92">2. A system vendor shall, on request, provide to interested parties details of current procedures, fees, systems facilities, editing and display criteria used. However, this provision does not oblige a system vendor to disclose proprietary information such as software programmes.</p>
+      <p n="93">3. Any changes to fee levels, conditions or facilities offered and the basis therefor shall be communicated to all participating carriers and subscribers on a nondiscriminatory basis.</p>
+      <p n="94">Article 11</p>
+      <p n="95">1. Acting on receipt of a complaint or on its own initiative, the Commission shall initiate procedures to terminate infringement of the provisions of this Regulation.</p>
+      <p n="96">2. Complaints may be submitted by:</p>
+      <p n="97">(a) Member States;</p>
+      <p n="98">(b) natural or legal persons who claim a legitimate interest.</p>
+      <p n="99">3. The Commission shall immediately forward to the Member States copies of the complaints and applications and of all relevant documents sent to it or which it sends out in the course of such procedures.</p>
+      <p n="100">Article 12</p>
+      <p n="101">1. In carrying out the duties assigned to it by this Regulation, the Commission may obtain all necessary information from the Member States and from undertakings and associations of undertakings.</p>
+      <p n="102">2. The Commission may fix a time limit of not less than one month for the communication of the information requested.</p>
+      <p n="103">3. When sending a request for information to an undertaking or association of undertakings, the Commission shall forward a copy of the request at the same time to the Member State in whose territory the head office of the undertaking or association of undertakings is situated.</p>
+      <p n="104">4. In its request, the Commission shall state the legal basis and purpose of the request and also the penalties for supplying incorrect information provided for in Article 16 (1).</p>
+      <p n="105">5. The owners of the undertakings or their representatives and, in the case of legal persons or of companies, firms or associations not having legal personality, the person authorized to represent them by law or by their rules shall be bound to supply the information requested.</p>
+      <p n="106">Article 13</p>
+      <p n="107">1. In carrying out the duties assigned to it by this Regulation, the Commission may undertake all necessary investigations into undertakings and associations of undertakings. To this end, officials authorized by the Commission shall be empowered: (a) to examine the books and other business records;</p>
+      <p n="108">(b) to take copies of, or extracts from, the books and business records;</p>
+      <p n="109">(c) to ask for oral explanations on the spot;</p>
+      <p n="110">(d) to enter any premises, land and vehicles used by undertakings or associations of undertakings.</p>
+      <p n="111">2. The authorized officials of the Commission shall exercise their powers upon production of an authorization in writing specifying the subject matter and purpose of the investigation and the penalties provided for in Article 16 (1) in cases where production of the required books or other business records is incomplete. In good time before the investigation, the Commission shall inform the Member State, in whose territory the same is to be made, of the investigation and the identity of the authorized officials.</p>
+      <p n="112">3. Undertakings and associations of undertakings shall submit to investigations ordered by decision of the Commission. The decision shall specify the subject matter and purpose of the investigation, appoint the date on which it is to begin and indicate the penalties provided for in Article 16 (1) and the right to have the decision reviewed in the Court of Justice.</p>
+      <p n="113">4. The Commission shall take the decisions mentioned in paragraph 3 after consultation with the Member State in the territory of which the investigation is to be made.</p>
+      <p n="114">5. Officials of the Member State in the territory of which investigation is to be made may assist the Commission officials in carrying out their duties, at the request of the Member State or of the Commission.</p>
+      <p n="115">6. Where an undertaking opposes an investigation ordered pursuant to this Article, the Member State concerned shall afford the necessary assistance to the officials authorized by the Commission to enable them to make their investigation.</p>
+      <p n="116">Article 14</p>
+      <p n="117">1. Information acquired as a result of the application of Articles 12 and 13 shall be used only for the purposes of the relevant request or investigation.</p>
+      <p n="118">2. Without prejudice to Articles 11 and 20, the Commission and the competent authorities of the Member States, their officials and other servants shall not disclose information of a kind covered by the obligation of professional secrecy which has been acquired by them as a result of the application of this Regulation.</p>
+      <p n="119">3. Paragraphs 1 and 2 shall not prevent publication of general information or of surveys which do not contain information relating to particular undertakings or associations of undertakings.</p>
+      <p n="120">Article 15</p>
+      <p n="121">1. When an undertaking or association of undertakings does not supply the information requested within the time limit fixed by the Commission or supplies incomplete information, the Commission shall by decision require the information to be supplied. The decision shall specify what information is required, fix an appropriate time limit within which it is to be supplied and indicate the penalties provided for in Article 16 (1) as well as the right to have the decision reviewed by the Court of Justice.</p>
+      <p n="122">2. At the same time the Commission shall send a copy of its decision to the competent authority of the Member State in the territory of which the head office of the undertaking or association of undertakings is situated.</p>
+      <p n="123">Article 16</p>
+      <p n="124">1. The Commission may, by decision, impose fines on undertakings or associations of undertakings from ECU 1 000 to 50 000 where, intentionally or negligently:</p>
+      <p n="125">(a) they supply incorrect information in response to a request made pursuant to Article 12 or do not supply information within the time limit fixed;</p>
+      <p n="126">(b) they produce the required books or other business records in incomplete form during investigations or refuse to submit to an investigation pursuant to Article 13 (1).</p>
+      <p n="127">2. The Commission may, by decision, impose fines on system vendors, parent carriers, participating carriers and/or subscribers for infringements of this Regulation up to a maximum of 10 % of the annual turnover for the relevant activity of the undertaking concerned.</p>
+      <p n="128">In fixing the amount of the fine, regard shall be had both to the seriousness and to the duration of the infringement.</p>
+      <p n="129">3. Decisions taken pursuant to paragraphs 1 and 2 shall not be of a penal nature.</p>
+      <p n="130">Article 17</p>
+      <p n="131">The Court of Justice shall have unlimited jurisdiction within the meaning of Article 172 of the Treaty to review decisions whereby the Commission has imposed a fine; it may cancel, reduce or increase the fine.</p>
+      <p n="132">Article 18</p>
+      <p n="133">For the purposes of applying Article 16, the ecu shall be that adopted in drawing up the general budget of the European Communities in accordance with Articles 207 and 209 of the Treaty. Article 19</p>
+      <p n="134">1. Before taking decisions as provided for in Article 16, the Commission shall give the undertakings or associations of undertakings concerned the opportunity of being heard on the matters to which the Commission takes, or has taken, objection.</p>
+      <p n="135">2. Should the Commission or the competent authorities of the Member States consider it necessary, they may also hear other natural or legal persons. Applications by such persons to be heard shall be granted when they show a sufficient interest.</p>
+      <p n="136">Article 20</p>
+      <p n="137">1. The Commission shall publish the decisions which it adopts pursuant to Article 16.</p>
+      <p n="138">2. Such publication shall state the names of the parties and the main content of the decision; it shall have regard to the legitimate interest of undertakings in the protection of their business secrets.</p>
+      <p n="139">Article 21</p>
+      <p n="140">1. This Regulation shall apply from 1 August 1989 to all CRSs for scheduled passenger air services.</p>
+      <p n="141">2. Notwithstanding paragraph 1, Articles 5 (3) and 9 (5) shall not apply until 1 January 1990 to CRSs which have established their central administration and their principal place of business in the Community before 1 August 1989. The Commission may grant a further 12 months' waiver to CRSs which for technical reasons are unable to comply with these provisions by 1 January 1990.</p>
+      <p n="142">Article 22</p>
+      <p n="143">This Regulation shall be without prejudice to national legislation on security, public order and data protection.</p>
+      <p n="144">Article 23</p>
+      <p n="145">The Council shall decide on the revision of this Regulation by 31 December 1992, on the basis of a Commission proposal to be submitted by 31 March 1992 accompanied by a report on the application of this Regulation.</p>
+      <p n="146">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="147">Done at Brussels, 24 July 1989.</p>
+      <p n="148">For the Council</p>
+      <p n="149">The President</p>
+      <p n="150">H. NALLET</p>
+      <p n="151">(1) OJ No C 294, 18. 11. 1988, p. 12.</p>
+      <p n="152">(2) OJ No C 158, 26. 6. 1989.</p>
+      <p n="153">(3) OJ No C 56, 6. 3. 1989, p. 32.</p>
+      <p n="154">(4) OJ No L 239, 30. 8. 1988, p. 13.</p>
+      <p n="155">ANNEX</p>
+      <p n="156">RANKING CRITERIA</p>
+      <p n="157">General criteria</p>
+      <p n="158">1. A principal display shall, wherever practicable, include connecting flights of participating carriers constructed by using a minimum number of nine connecting points. A participating carrier may request the inclusion of an indirect service unless the routing is in excess of 130 % of the great circle distance between the two airports. Connecting points with routings in excess of 130 % need not be used.</p>
+      <p n="159">2. A system vendor shall not use the screen space in its principal displays in a manner which gives excessive exposure to one particular travel option or which displays unrealistic travel options.</p>
+      <p n="160">3. Where a system vendor chooses to display information for any city-pair in relation to the schedules or fares of non-participating carriers, such information shall be displayed in an accurate, non-misleading and non-discriminatory manner as between those carriers displayed.</p>
+      <p n="161">4. If information as to the number of direct air services and the identity of the air carriers concerned is not comprehensive, this shall be clearly stated on the relevant display.</p>
+      <p n="162">Criteria for scheduled air services</p>
+      <p n="163">1. Ranking of flight options in principal displays for scheduled air services, for the day or days requested, shall be in the following order unless requested in a different way by a consumer for an individual transaction:</p>
+      <p n="164">(i) all non-stop direct flights between the city-pairs concerned;</p>
+      <p n="165">(ii) other direct flights, not involving a change of aircraft, between the city-pairs concerned;</p>
+      <p n="166">(iii) connecting flights.</p>
+      <p n="167">A consumer shall at least be afforded the possibility of requesting the principal display ranked by departure or arrival time and/or elapsed journey time. Unless a consumer preference is expressed, a principal display shall be ranked by departure time for group (i) and elapsed journey time for groups (ii) and (iii).</p>
+      <p n="168">2. Scheduled flights involving stops en route, change of aircraft, change of airport and/or code-sharing shall be clearly identified. Code-sharing flights shall be treated as connecting flights.</p>
+    </body>
+  </text>
+</TEI.2>

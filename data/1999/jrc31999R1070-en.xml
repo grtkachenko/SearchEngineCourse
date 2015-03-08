@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31999R1070-en" n="31999R1070" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1070 English</title>
+        <title>Commission Regulation (EC) No 1070/1999 of 25 May 1999 amending the Annex to Regulation (EC) No 1107/96 on the registration of geographical indications and designations of origin under the procedure laid down in Article 17 of Council Regulation (EEC) No 2081/92</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1070:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1070:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1102</classCode>
+        <classCode scheme="eurovoc">1182</classCode>
+        <classCode scheme="eurovoc">1686</classCode>
+        <classCode scheme="eurovoc">3173</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1070-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1070/1999 of 25 May 1999 amending the Annex to Regulation (EC) No 1107/96 on the registration of geographical indications and designations of origin under the procedure laid down in Article 17 of Council Regulation (EEC) No 2081/92</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1070/1999</p>
+      <p n="3">of 25 May 1999</p>
+      <p n="4">amending the Annex to Regulation (EC) No 1107/96 on the registration of geographical indications and designations of origin under the procedure laid down in Article 17 of Council Regulation (EEC) No 2081/92</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2081/92 of 14 July 1992 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs(1), as last amended by Commission Regulation (EC) No 1068/97(2), and in particular Article 17(2) thereof,</p>
+      <p n="8">(1) Whereas the name Φέτα (Feta) notified by the Greek Government pursuant to Article 17 of Regulation (EEC) No 2081/92 was registered as a protected designation of origin by Commission Regulation (EC) No 1107/96(3), as last amended by Regulation (EC) No 590/1999(4);</p>
+      <p n="9">(2) Whereas, as a result of the Court of Judgement ruling of 16 March 1999, this Regulation has been annulled in so far as it registers Φέτα (Feta) as a protected designation of origin; whereas, as a result, the name in question is deleted from the "Register of protected designations of origin and geographical indications" and the Annex thereto,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">1. The name Φέτα (Feta) is deleted from the "Register of protected designations of origin and geographical indications".</p>
+      <p n="13">2. In the Annex to Regulation (EC) No 1107/96 under the headings "Cheeses" and "Greece" in Part A, "Products listed in Annex II to the EC Treaty, intended for human consumption", the name "Φέτα (Feta) (PDO)" is deleted.</p>
+      <p n="14">3. In accordance with Article 17(3) of Regulation (EEC) No 2081/92, the name Φέτα (Feta) remains protected at national level until such time as a decision is taken in this regard.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 25 May 1999.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz FISCHLER</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 208, 24.7.1992, p. 1.</p>
+      <p n="23">(2) OJ L 156, 13.6.1997, p. 10.</p>
+      <p n="24">(3) OJ L 148, 21.6.1996, p. 1.</p>
+      <p n="25">(4) OJ L 74, 19.3.1999, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

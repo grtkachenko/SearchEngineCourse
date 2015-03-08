@@ -1,0 +1,108 @@
+<TEI.2 id="jrc31981L0432-en" n="31981L0432" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31981L0432 English</title>
+        <title>Commission Directive 81/432/EEC of 29 April 1981 laying down the Community method of analysis for the official control of vinyl chloride released by materials and articles into foodstuffs</title>
+      </titleStmt>
+      <extent>81 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981L0432:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981L0432:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31981L0432-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 81/432/EEC of 29 April 1981 laying down the Community method of analysis for the official control of vinyl chloride released by materials and articles into foodstuffs</head>
+      <p n="2">COMMISSION DIRECTIVE of 29 April 1981 laying down the Community method of analysis for the official control of vinyl chloride released by materials and articles into foodstuffs (81/432/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 78/142/EEC of 30 January 1978 on the approximation of the laws of the Member States relating to materials and articles which contain vinyl chloride monomer and are intended to come into contact with foodstuffs (1), and in particular Article 3 thereof,</p>
+      <p n="6">Whereas Article 2 of Directive 78/142/EEC lays down that materials and articles must not pass on to the foodstuffs which are in, or have been brought into, contact with such materials and articles any vinyl chloride detectable by a method having a limit of detection of 0 701 mg/kg, and Article 3 that this limit must be controlled by a Community method of analysis;</p>
+      <p n="7">Whereas, on the basis of a series of inter-laboratory collaborative trials, the method described in the Annex has proved to be sufficiently accurate and reproducible to be adopted as a Community method;</p>
+      <p n="8">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Foodstuffs,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The analysis necessary for official control of vinyl chloride released by materials and articles into foodstuffs shall be performed according to the method described in the Annex hereto.</p>
+      <p n="12">Article 2</p>
+      <p n="13">The Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 1 October 1982. They shall forthwith inform the Commission thereof.</p>
+      <p n="14">Article 3</p>
+      <p n="15">This Directive is addressed to the Member States.</p>
+      <p n="16">Done at Brussels, 29 April 1981.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Karl-Heinz NARJES</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 44, 15.2.1978, p. 15.</p>
+      <p n="21">ANNEX DETERMINATION OF VINYL CHLORIDE RELEASED BY MATERIALS AND ARTICLES INTO FOODSTUFFS</p>
+      <p n="22">1. SCOPE AND FIELD OF APPLICATION</p>
+      <p n="23">The method determines the level of vinyl chloride in foodstuffs.</p>
+      <p n="24">2. PRINCIPLE</p>
+      <p n="25">The level of vinyl chloride (VC) in foodstuffs is determined by means of gas-chromatography using the "headspace" method.</p>
+      <p n="26">3. REAGENTS 3.1. Vinyl chloride (VC), of purity greater than 99 75 % (v/v).</p>
+      <p n="27">3.2. N, N-dimethylacetamide (DMA), free from any impurity with the same retention time as VC or as the internal standard (3.3) under the conditions of the test.</p>
+      <p n="28">3.3. Diethyl ether or cis-2-butene, in DMA (3.2) as the internal standard solution. These internal standards must not contain any impurity with the same retention time as VC, under the conditions of the test.</p>
+      <p n="29">3.4. Distilled water or demineralized water of equivalent purity.</p>
+      <p n="30">4. APPARATUS</p>
+      <p n="31">NB:</p>
+      <p n="32">An instrument or piece of apparatus is mentioned only if it is special, or made to particular specifications. Usual laboratory apparatus is assumed to be available. 4.1. Gas-chromatograph fitted with automatic headspace sampler or with facilities for manual sample injection.</p>
+      <p n="33">4.2. Flame ionization detector or other detectors mentioned in point 7.</p>
+      <p n="34">4.3. Gas-chromatographic column</p>
+      <p n="35">The column must permit the separation of the peaks of air, of VC and of the internal standard, if used.</p>
+      <p n="36">Furthermore, the combined 4.2 and 4.3 system must allow the signal obtained with a solution containing 0 7005 mg VC/litre DMA or 0 7005 mg VC/kg DMA to be equal to at least five times the background noise.</p>
+      <p n="37">4.4. Sample phials or flasks fitted with silicon or butyl rubber septa</p>
+      <p n="38">When using manual sampling techniques, the taking of a sample from the headspace with a syringe may cause a partial vacuum to form inside the phial or flask. Hence, for manual techniques where the phials are not pressurized before the sample is taken, the use of large phials is recommended.</p>
+      <p n="39">4.5. Micro-syringes.</p>
+      <p n="40">4.6. Gas-tight syringes for manual headspace sampling.</p>
+      <p n="41">4.7. Analytical balance accurate to 0 71 mg.</p>
+      <p n="42">5. PROCEDURE</p>
+      <p n="43">CAUTION : VC is a hazardous substance and a gas at ambient temperature therefore, the preparation of solutions should be carried out in a well-ventilated fume cupboard.</p>
+      <p n="44">NB:</p>
+      <p n="45">Take all the necessary precautions to ensure that no VC or DMA is lost.</p>
+      <p n="46">When employing manual sampling techniques, an internal standard (3.3) should be used.</p>
+      <p n="47">When using an internal standard, the same solution must be utilized throughout the procedure. 5.1. Preparation of standard VC solution (solution A) 5.1.1. Concentrated standard VC solution at approximately 2 000 mg/kg</p>
+      <p n="48">Accurately weigh to the nearest 0 71 mg a suitable glass vessel and place in it a quantity (e.g. 50 ml) of DMA (3.2). Re-weigh. Add to the DMA a quantity (e.g. 0 71 g) of VC (3.1) in liquid or gas form, injecting it slowly onto the DMA. The VC may also be added by bubbling it into the DMA, provided that a device is used which will prevent loss of DMA. Reweigh to the nearest 0 71 mg. Wait two hours to allow equilibrium to be attained. If an internal standard is to be employed, add internal standard so that the concentration of the internal standard in the concentrated standard VC solution is the same as in the internal standard solution prepared under point 3.3. Keep the standard solution in a refrigerator.</p>
+      <p n="49">5.1.2. Preparation of dilute standard VC solution</p>
+      <p n="50">Take a weighed amount of concentrated standard solution of VC (5.1.1) and dilute, to a known volume or a known weight, with DMA (3.2) or with internal standard solution (3.3). The concentration of the resultant dilute standard solution (solution A) is expressed as mg/litre or mg/kg respectively.</p>
+      <p n="51">5.1.3. Preparation of the response curve with solution A</p>
+      <p n="52">NB:</p>
+      <p n="53">The curve must comprise at least seven pairs of points.</p>
+      <p n="54">The repeatability of the responses (1) must be lower than 0 7002 mg VC/litre or kg of DMA.</p>
+      <p n="55">The curve must be calculated from these points by the least squares technique, i.e., the regression line must be calculated using the following equation: &gt;PIC FILE= "T0019847"&gt;</p>
+      <p n="56">(1) See recommendation ISO DIS 5725 : 1977. &gt;PIC FILE= "T0019848"&gt;</p>
+      <p n="57">Prepare two series of at least seven phials (4.4). Add to each phial volumes of dilute standard VC solution (5.1.2) and DMA (3.2) or internal standard solution in DMA (3.3) such that the final VC concentration of the duplicate solutions will be approximately equal to 0, 0 7005, 0 7010, 0 7020, 0 7030, 0 7040, 0 7050, etc., mg/litre or mg/kg of DMA and that each phial contains the same total volume of solution. The quantity of dilute standard VC solution (5.1.2) must be such that the ratio between the total volume (¶l) of added VC solution and quantity (g or ml) of DMA, or internal standard solution (3.3) does not exceed five. Seal the phials and proceed as described under points 5.4.2, 5.4.3 and 5.4.5. Construct a graph in which the ordinate values show the areas (or heights) of the VC peaks of the duplicate solutions, or the ratio of these areas (or heights) to those of the relevant internal standard peaks, and the abscissa values show the VC concentrations of the duplicate solutions.</p>
+      <p n="58">5.2. Validation of preparation of standard solutions obtained in point 5.1 5.2.1. Preparation of a second standard VC solution (solution B)</p>
+      <p n="59">Repeat the procedure described under points 5.1.1 and 5.1.2 to obtain a second dilute standard solution with, in this case, a concentration approximately equal to 0 702 mg VC : 1, or 0 702 mg VC/kg of DMA or internal standard solution. Add this solution to two phials (4.4). Seal the phials and proceed as described under points 5.4.2, 5.4.3 and 5.4.5.</p>
+      <p n="60">5.2.2. Validation of solution A</p>
+      <p n="61">If the average of two gas-chromatographic determinations relating to the solution B (5.2.1) does not differ by more than 5 % from the corresponding point of the response curve obtained in point 5.1.3, the solution A is validated. If the difference is greater than 5 %, reject all the solutions obtained in points 5.1 and 5.2 and repeat the procedure from the beginning.</p>
+      <p n="62">5.3. Preparation of the "addition" curve</p>
+      <p n="63">NB:</p>
+      <p n="64">The curve must comprise at least seven pairs of points.</p>
+      <p n="65">The curve must be calculated from these points by the least squares technique (5.1.3, third indent). &gt;PIC FILE= "T0019849"&gt; 5.3.1. Preparation of sample</p>
+      <p n="66">The sample of foodstuff to be analyzed must be representative of the foodstuff presented for analysis. The foodstuff must, therefore, be mixed or reduced to small pieces and mixed before the sample is taken.</p>
+      <p n="67">5.3.2. Procedure</p>
+      <p n="68">Prepare two series of at least seven phials (4.4). Add to each phial a quantity, not less than 5 g, of sample obtained from the foodstuff under investigation (5.3.1). Ensure that an equal quantity is added to each phial. Close the phial immediately. Add to each phial for each gram of sample 1 ml, preferably of distilled water, or demineralized water of at least equivalent purity, or an appropriate solvent if necessary. (Note : for homogeneous foodstuffs, addition of distilled of demineralized water is not necessary.) Add to each phial volumes of dilute standard VC solution (5.1.2), containing the internal standard (3.3), if considered useful, such that concentrations of VC added to the phials equal to 0, 0 7005, 0 7010, 0 7020, 0 7030, 0 7040 and 0 7050, etc., mg/kg of foodstuffs. Ensure that the total volume of DMA or DMA containing internal standard (3.3) in each phial is the same. The quantity of dilute standard VC solution (5.1.2) and additional DMA where used, must be such that the ratio between the total volume (¶l) of these solutions and the quantity (g) of foodstuff contained in the phial is as low as possible but not more than five and is the same in all phials. Seal the phials and proceed as described under point 5.4.</p>
+      <p n="69">5.4. Gas-chromatographic determinations 5.4.1. Agitate the phials avoiding contact between the contained liquid and the septum (4.4) to obtain a solution or a suspension of the samples of foodstuff as homogeneous as possible.</p>
+      <p n="70">5.4.2. Put all the sealed phials (5.2 and 5.3) in a waterbath for two hours at 60 ± 1 ºC to allow equilibrium to be attained. Agitate again, if necessary.</p>
+      <p n="71">5.4.3. Take a sample from the headspace in the phial. When utilizing manual sampling techniques care must be exercized in obtaining a reproducible sample (4.4) in particular the syringe must be pre-warmed to the temperature of the sample. Measure the area (or height) of the peaks relating to the VC and internal standard, if used.</p>
+      <p n="72">5.4.4. Construct a graph in which the ordinate value shows the areas (or heights) of the VC peaks or the ratio of the areas (or heights) of VC peaks to the areas (or heights) of the internal standard peaks and the abscissa values show the quantities of VC added (mg) relating to the quantities of the sample of foodstuff weighed in each phial (kg). Measure the abscissa intercept from the graph. The value so obtained is the concentration of VC in the sample of the foodstuff under investigation.</p>
+      <p n="73">5.4.5. Remove from the column (4.3) excess DMA using an appropriate method as soon as peaks of DMA appear on the chromatogram.</p>
+      <p n="74">6. RESULTS</p>
+      <p n="75">The VC released by materials and articles into the foodstuff under investigation expressed in mg/kg shall be defined as the average of the two determinations (5.4) provided that the repeatability criterion in point 8 is satisfied.</p>
+      <p n="76">7. CONFIRMATION OF THE VC</p>
+      <p n="77">In cases where the VC released by materials and articles into the foodstuffs as calculated under point 6, exceeds the criterion in Article 2 (2) of Council Directive 78/142/EEC of 30 January 1978, the values obtained in each of the two determinations (5.4) must be confirmed in one of three ways: (i) by using at least one other column (4.3) having a stationary phase of different polarity. This procedure should continue until a chromatogram is obtained with no evidence of overlap of the VC and/or internal standard peaks with constituents of the sample of foodstuff,</p>
+      <p n="78">(ii) by using other detectors, e.g. the micro-electrolytic conductivity detector (1),</p>
+      <p n="79">(iii) by using mass spectrometry ; in this case, if molecular ions with parent masses (m/e) of 62 and 64 are found in the ratio of 3 : 1 it may be regarded with high probability as (1) See Journal of Chromatographic Science (volume 12), March 1974, page 152. confirming the presence of VC. In case of doubt the total mass spectrum must be checked.</p>
+      <p n="80">8. REPEATABILITY</p>
+      <p n="81">The difference between the results of two determinations (5.4) carried out simultaneously or in rapid succession on the same sample, by the same analyst, under the same conditions, must not exceed 0 7003 mg VC/kg of foodstuff.</p>
+    </body>
+  </text>
+</TEI.2>

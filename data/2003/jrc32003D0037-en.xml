@@ -1,0 +1,102 @@
+<TEI.2 id="jrc32003D0037-en" n="32003D0037" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0037 English</title>
+        <title>2003/37/EC: Commission Decision of 16 January 2003 concerning guidance on a provisional reference method for the sampling and measurement of PM2.5 under Directive 1999/30/EC (Text with EEA relevance) (notified under document number C(2003) 10)</title>
+      </titleStmt>
+      <extent>63 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0037:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0037:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">177</classCode>
+        <classCode scheme="eurovoc">1878</classCode>
+        <classCode scheme="eurovoc">1896</classCode>
+        <classCode scheme="eurovoc">2159</classCode>
+        <classCode scheme="eurovoc">2213</classCode>
+        <classCode scheme="eurovoc">2428</classCode>
+        <classCode scheme="eurovoc">2522</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0037-en." lang="en">
+    <body>
+      <head n="1">2003/37/EC: Commission Decision of 16 January 2003 concerning guidance on a provisional reference method for the sampling and measurement of PM2.5 under Directive 1999/30/EC (Text with EEA relevance) (notified under document number C(2003) 10)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 16 January 2003</p>
+      <p n="4">concerning guidance on a provisional reference method for the sampling and measurement of PM2.5 under Directive 1999/30/EC</p>
+      <p n="5">(notified under document number C(2003) 10)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/37/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 1999/30/EC of 22 April 1999 relating to limit values for sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter and lead in ambient air(1), as amended by Commission Decision 2001/744/EC(2), and in particular Article 7(5), third subparagraph, thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Limit values for sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter and lead in ambient air are laid down in Directive 1999/30/EC.</p>
+      <p n="13">(2) A reference method for sampling and measurement of PM2.5 is currently being standardised by the European Committee for Standardisation (CEN). In absence of the reference method, guidance on a provisional reference method for sampling and measurement of PM2.5 has to be provided by the Commission in accordance with the procedure laid down in Section V of Annex IX to Directive 1999/30/EC.</p>
+      <p n="14">(3) Directive 96/62/EC of 27 September 1996 on ambient air quality assessment and management(3) provides that the Commission shall be assisted by the Committee referred to in Article 12 of the Directive, composed of the representatives of Member States and chaired by the representative of the Commission, and that the Commission shall take the utmost account of the opinion delivered by the Committee.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Committee instituted by Article 12(2) of Council Directive 96/62/EC,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The guidance on a provisional reference method for sampling and measurement of PM2.5 referred to in Section V of Annex IX to Directive 1999/30/EC is provided by means of the Annex to this Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 16 January 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Margot Wallström</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 163, 29.6.1999, p. 41.</p>
+      <p n="26">(2) OJ L 278, 23.10.2001, p. 35.</p>
+      <p n="27">(3) OJ L 296, 21.11.1996, p. 55.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">GUIDANCE ON PM2.5 MEASUREMENT UNDER DIRECTIVE 1999/30/EC</p>
+      <p n="30">The purpose of this document is to give recommendations to air quality managers and network operators on the selection of PM2.5 measurement devices required by the first Daughter Directive on air pollution for fine particles. These recommendations do not apply to other possible applications with different measurement objectives, as for example in the case of research activities, or in the case of indicative measurements.</p>
+      <p n="31">Background and CEN standardisation work</p>
+      <p n="32">Directive 1999/30/EC states in Article 5 that "Member States shall ensure that measuring stations to supply data on concentration of PM2.5 are installed and operated. Each Member State shall choose the number and the siting of the stations at which PM2.5 is to be measured as representative of concentrations of PM2.5 within that Member State. Where possible sampling points for PM2.5 shall be co-located with sampling points for PM10." Article 7 further mentions that "The provisional reference method for the sampling and measurement of PM2.5 shall be laid down in Section V of Annex IX." Annex IX finally asks for the preparation of a guideline to be developed by the European Commission in consultation with the committee referred to in Article 12 of Directive 96/62/EC.</p>
+      <p n="33">DG Environment has given a mandate to CEN to develop a standard European reference method for the measurement of PM2.5. This method is based on the gravimetric determination of the PM2.5 fraction of particles in air, sampled at ambient conditions. CEN TC 264/WG 15 started its work in 2000. The first two field validation campaigns (Madrid, Duisburg) have been completed; two more campaigns are currently on-going (Vredepeel, Vienna). Four further campaigns in Sweden, England, Greece and Italy are at the planning stage. The validation work is expected to be concluded by 2003. The final CEN standard method will therefore not be available before 2004.</p>
+      <p n="34">CEN WG 15 is currently testing various candidate devices based on the gravimetric determination method and equipped with different inlet types from European manufacturers as well as the United States Federal Reference sampler:</p>
+      <p n="35">- MINI-WRAC, single filter sampler, from Frauenhofer Institute for Toxicology and Aerosol Research (FhG-ITA), Germany,</p>
+      <p n="36">- RAAS 2.5-1, single filter sampler, from ESM Andersen, United States of America,</p>
+      <p n="37">- Partisol plus -SCC, sequential sampler, from Rupprecht and Patashnick, United States of America,</p>
+      <p n="38">- Partisol FRM, single filter sampler, from Rupprecht and Patashnick, United States of America,</p>
+      <p n="39">- SEQ 47/50, sequential sampler, from Leckel Company, Germany,</p>
+      <p n="40">- HVS-DHA 80, sequential sampler, from Digitel, Switzerland.</p>
+      <p n="41">In addition, CEN is also testing a number of automated measurement devices, based on the beta ray attenuation method and the tapered element oscillating microbalance (TEOM), for equivalency with the reference gravimetric method:</p>
+      <p n="42">- ADAM, beta ray attenuation, sequential, from OPSIS, Sweden,</p>
+      <p n="43">- FH 62 I-R, beta ray attenuation, filter tape, from ESM Andersen Company, United States of America,</p>
+      <p n="44">- BAM 1020, beta ray attenuation, filter tape, from Met One, United States of America,</p>
+      <p n="45">- TEOM SES, sharp cut cyclone, from Rupprecht and Patashnick, United States of America.</p>
+      <p n="46">Problems in mass concentration measurements of PM2.5</p>
+      <p n="47">Several problems, partially known from previous experiences with PM10 measurements, have to be taken into consideration when determining PM2.5 mass concentrations. Preliminary inter-comparison studies carried out in a number of Member States have shown significant differences between the results of manual PM2.5 samplers, ranging up to ±30 %. Reasons for the observed differences between the samplers are complex and can be divided into:</p>
+      <p n="48">- artefacts on the filter, e.g. evaporative losses during sampling or conditioning of the filter,</p>
+      <p n="49">- artefacts in the size fractionating inlet, e.g. poor design, changes of the cut-off due to poor volume flow control and particle deposition on the impaction plate,</p>
+      <p n="50">- artefacts due to the sampling system set-up; e.g. particle deposition in the sampling tube (especially for long or curved tubes).</p>
+      <p n="51">It has to be noted that the chemical composition of PM2.5 is significantly different from that of PM10 especially the semi-volatile particulate matter (e.g. ammonium nitrate, organic compounds) is enriched in the fine PM2.5 size fraction. The particulate matter in the size range between PM10 and PM2.5 mainly consists of inert components such as silica, metal oxides, etc. Hence the problems with losses of semi-volatile matter already observed when sampling PM10 may be even more pronounced for PM2.5 measurements.</p>
+      <p n="52">Losses will essentially depend on the composition of the aerosols and the presence of volatile particulate matter, as well as on the difference between ambient and sampling temperatures. The losses may therefore present important seasonal and geographical variations. As an example of this, losses close to 0 % were reported in Scandinavia during a spring episode (aerosols from road sanding), whereas losses up to 70 % were observed in Central Europe during a winter episode (aerosols with high ammonium nitrate content).</p>
+      <p n="53">With this background it can be anticipated that any heating of the sampling system will show significantly lower PM2.5 mass concentrations than a system kept under ambient conditions.</p>
+      <p n="54">Recommendations for monitoring PM2.5</p>
+      <p n="55">In the absence of conclusions from the CEN standardisation activities, the following recommendations for PM2.5 can be given:</p>
+      <p n="56">Regarding the measurement method:</p>
+      <p n="57">The mandate given by the Commission to CEN specified that the measurement method to be standardised is based on the gravimetric determination of the PM2.5 mass fraction of particulate matter collected on a filter under ambient conditions. Other methods, such as the beta ray attenuation method and the tapered element oscillating microbalance (TEOM), are currently tested for equivalence with the gravimetric method by CEN WG 15. Methods such as those based on optical methods (particle counting or nephelometry) are not considered for possible use under the directive.</p>
+      <p n="58">Regarding the PM2.5 specific inlet:</p>
+      <p n="59">Currently there are two main inlet designs available and in use for monitoring and research purposes: the impactor type inlet and the sharp cut-cyclone type. Various inlets of both types are currently under testing e.g. within the framework of CEN WG 15. The size fractionation efficiency of the inlet shall be as follows: 50 % of the particles with an aerodynamic diameter of 2,5 μm have to be collected on the filter.</p>
+      <p n="60">Regarding the instruments:</p>
+      <p n="61">Theory and former experience gained in the PM10 validation work suggests that the use of devices whereby the sampling probe and/or filter is heated during collection should be avoided for the measurement of PM2.5. In order to limit as far as possible the losses of volatile particles, instruments sampling as close as possible to ambient temperature should be preferred for PM2.5.</p>
+      <p n="62">Considering the incomplete manner and the lack of coherence of the results obtained thus far from the various studies, it is impossible for the present to select candidate instruments for the monitoring of PM2.5. When it comes to the selection of a particular measurement device, a careful approach is recommended. Preference should be given to an approach that does not entail important resource investment and that allows for the adaptation of the measurement requirements to future developments (e.g. the forthcoming European standard method on PM2.5 measurements, technical developments by instrument manufacturers, the upcoming regulation on heavy metals).</p>
+      <p n="63">When reporting PM2.5 data, it is essential to document fully the measurement methodology that was used to generate the data.</p>
+    </body>
+  </text>
+</TEI.2>

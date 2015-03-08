@@ -1,0 +1,130 @@
+<TEI.2 id="jrc31996R0295-en" n="31996R0295" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0295 English</title>
+        <title>Commission Regulation (EC) No 295/96 of 16 February 1996 laying down detailed rules for the application of Council Regulation (EEC) No 1892/87 as regards the recording of market prices of adult bovine animals, on the basis of the Community scale for the classification of carcases</title>
+      </titleStmt>
+      <extent>94 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0295:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0295:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1374</classCode>
+        <classCode scheme="eurovoc">2656</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5263</classCode>
+        <classCode scheme="eurovoc">6004</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0295-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 295/96 of 16 February 1996 laying down detailed rules for the application of Council Regulation (EEC) No 1892/87 as regards the recording of market prices of adult bovine animals, on the basis of the Community scale for the classification of carcases</head>
+      <p n="2">COMMISSION REGULATION (EC) No 295/96 of 16 February 1996 laying down detailed rules for the application of Council Regulation (EEC) No 1892/87 as regards the recording of market prices of adult bovine animals, on the basis of the Community scale for the classification of carcases</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1892/87 of 2 July 1987 on the recording of market prices in the beef and veal sector (1), and in particular Article 2 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 563/82 (2), as last amended by Regulation (EEC) No 2090/93 (3), lays down detailed rules for the application of Council Regulation (EEC) No 1208/81 (4), as amended by Regulation (EEC) No 1026/91 (5), by establishing the market prices of adult bovine animals on the basis of the Community scale for the classification of carcases;</p>
+      <p n="7">Whereas, in order to ensure that prices established are representative of national production, it is necessary to make price-reporting compulsory in relation to slaughterhouses which slaughter, or persons who send for slaughter, substantial numbers of adult bovine animals, so as to ensure that at least 25 % of slaughterings in the main production regions and at least 30 % of slaughterings in each Member State are covered, and to weight the prices reported from different regions in order to reflect their importance in relation to beef and veal production;</p>
+      <p n="8">Whereas it is for Member States to decide whether their territory should be divided, and if so, into how many regions; whereas, however, as intervention for beef in the United Kingdom is separate for Great Britain and for Northern Ireland, the regions decided upon in the United Kingdom should cover exclusively Great Britain or Northern Ireland;</p>
+      <p n="9">Whereas some Member States have established regional committees to determine prices; whereas, where their membership ensures a balanced and objective approach, the prices determined by them should be taken into account in the national price calculation;</p>
+      <p n="10">Whereas prices reported are likely, unless corrected to take into account supplementary payments made in relation to the beef sector by those required to record prices under this Regulation, to distort the calculation of the national price;</p>
+      <p n="11">Whereas Commission Regulation (EEC) No 3310/86 of 30 October 1986 on the Community recording of market prices on the basis of the scale for the classification of carcases of adult bovine animals (6), as last amended by Regulation (EEC) No 2089/93 (7), should be repealed;</p>
+      <p n="12">Whereas the Management Committee for Beef and Veal has not delivered an opinion within the time limit set by its chairman,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">1. National and Community recording of market prices on the basis of the scale for the classification of carcases of adult bovine animals shall be carried out each week and shall relate to the following conformation and fatness classes for the five categories specified in Article 3 (1) of Regulation (EEC) No 1208/81:</p>
+      <p n="16">(a) carcases of uncastrated young male animals of less than two years of age: U2, U3, R2, R3, O2, O3;</p>
+      <p n="17">(b) carcases of other uncastrated male animals: R3;</p>
+      <p n="18">(c) carcases of castrated male animals: U2, U3, U4, R3, R4, O3, O4;</p>
+      <p n="19">(d) carcases of female animals that have calved: R3, R4, O2, O3, O4, P2, P3;</p>
+      <p n="20">(e) carcases of other female animals: U2, U3, R2, R3, R4, O2, O3, O4.</p>
+      <p n="21">2. Member States shall decide whether their territory is to comprise a single region or whether to divide it into more than one region. This decision shall be taken on the basis of:</p>
+      <p n="22">- the size of their territory,</p>
+      <p n="23">- the existence, if any, of administrative decisions,</p>
+      <p n="24">- geographical variations in prices.</p>
+      <p n="25">However, the United Kingdom shall comprise at least two regions, namely Great Britain and Northern Ireland, which may be subdivided on the basis of the criteria referred to in the first subparagraph.</p>
+      <p n="26">Article 2</p>
+      <p n="27">1. The following shall be required to record prices:</p>
+      <p n="28">(a) the operator of any slaughterhouse which annually slaughters 20 000 or more adult bovine animals reared by it or on its behalf and/or adult bovine animals purchased by it;</p>
+      <p n="29">(b) the operator of any slaughterhouse which is designated by the Member State and which annually slaughters less than 20 000 adult bovine animals reared by it or on its behalf and/or adult bovine animals purchased by it;</p>
+      <p n="30">(c) any natural or legal person who sends 10 000 or more adult bovine animals for slaughter annually to a slaughterhouse; and</p>
+      <p n="31">(d) any natural or legal person who is designated by the Member State and who sends less than 10 000 adult bovine animals for slaughter annually to a slaughterhouse.</p>
+      <p n="32">The Member State must ensure that prices are recorded for at least:</p>
+      <p n="33">- 25 % of the slaughterings in those of its regions which together cover at least 75 % of the total slaughterings in that Member State, and</p>
+      <p n="34">- 30 % of the adult bovine animals slaughtered within its territory.</p>
+      <p n="35">2. Member States in which no one is required to record prices under paragraph 1 (a) and (c) may apply to the Commission for a derogation from paragraph 1. The Commission shall decide whether to grant such derogation taking into account the evolution of the structure of the slaughter industry in the Member State concerned; the throughput of animals in its slaughterhouse; and the objective of harmonization of the price recording and reporting system. Any derogation granted shall be for a limited period only.</p>
+      <p n="36">3. The prices recorded under paragraph 1 shall be those which relate to adult bovine animals slaughtered during the recording period concerned, on a deadweight basis.</p>
+      <p n="37">In the case of a slaughterhouse which slaughters adult bovine animals reared by it or on its behalf, the price recorded shall be the average price paid for carcases of the equivalent category and class, slaughtered during the same week in that slaughterhouse.</p>
+      <p n="38">The prices recorded for each class referred to in Article 1 (1) shall indicate the average carcase weight to which they relate and whether or not they have been corrected to take into account each of the elements referred to in Article 1 of Regulation (EEC) No 563/82.</p>
+      <p n="39">Article 3</p>
+      <p n="40">1. The prices, and the details referred to in the third subparagraph of Article 2 (3), recorded under Article 2 in the period from Monday to Sunday, shall:</p>
+      <p n="41">- be reported to the competent authority of the Member State in writing by the operator of the slaughterhouse or natural or legal person concerned by such time on the following Wednesday at the latest as is fixed by the Member State, or</p>
+      <p n="42">- at the option of the Member State, be made available to its competent authority at the slaughterhouse or the premises of the natural or legal person.</p>
+      <p n="43">However, where a Member State has established a committee to determine prices for a region, and where the membership of such committee is divided equally between buyers and sellers of adult bovine animals and their carcases, the chairman being employed by the competent authority, that Member State may direct that the prices and details be sent direct to the chairman of the committee in the relevant region. In the event that the Member State does not so direct, the competent authority shall send them to the chairman of that committee. The chairman shall ensure that the origin of each price cannot be identified when communicated to the members of the committee.</p>
+      <p n="44">2. The prices reported shall be the average price per class and shall be expressed in national currency.</p>
+      <p n="45">3. Any slaughterhouse or natural or legal person referred to in Article 2 (1) which makes supplementary payments to suppliers of adult bovine animals or their carcases, such payments not being taken into account in the prices reported, shall notify the competent authority of its Member State of the last supplementary payment made by it, and the period to which it relates. Thereafter it shall notify the Member State of the amount of any supplementary payments each time such payment is made.</p>
+      <p n="46">4. (a) The competent authority of the Member State shall determine average regional prices for each class referred to in Article 1 (1) from the prices reported to it under paragraph 1 of this Article.</p>
+      <p n="47">(b) The committees referred to in paragraph 1 shall determine average regional prices for each class referred to in Article 1 (1) from the prices reported to them under paragraph 1 of this Article and shall report them to the competent authority of the Member State.</p>
+      <p n="48">(c) In the case of flat rate purchases, where the carcases in a consignment relate to not more than three consecutive conformation classes and three consecutive fatness classes in the same category, the price shall be taken into account in the determination of prices under points (a) and (b) for the conformation class in which the largest number of carcases is classified or, if they are equally divided amongst the classes, for the middle of those classes, where such class exists. In all other cases the price shall not be taken into account.</p>
+      <p n="49">However, where flat rate purchases account for less than 35 % of total slaughterings of adult bovine animals in the Member State, it may decide not to take the prices for such purchases into account in the calculations under points (a) and (b).</p>
+      <p n="50">(d) An initial national price for each class shall then be calculated by the competent authority by weighting the regional prices to take into account the importance of the slaughterings in the region to which they relate for the category concerned in relation to the overall number of slaughterings for the category concerned in the Member State.</p>
+      <p n="51">(e) The competent authority shall correct the initial national price per class:</p>
+      <p n="52">- to take into account each of the elements referred to in Article 1 of Regulation (EEC) No 563/82 where such correction has not already been made, and</p>
+      <p n="53">- to take into account supplementary payments made, as referred to in paragraph 3, if the correction would amount to at least 1 % of the price for the class in question.</p>
+      <p n="54">The competent authority, in making the correction under the second indent, shall divide the total supplementary payments made in relation to the beef sector in the Member State concerned in the previous financial year, by the total annual throughput in tonnes of adult bovine animals for which prices are reported.</p>
+      <p n="55">5. Where, in the opinion of the competent authority of the Member State, the prices reported to it:</p>
+      <p n="56">- relate to an insignificant number of carcases, it shall not take these prices into account,</p>
+      <p n="57">- appear to be unreliable, it shall only take them into account if and when it has satisfied itself that they are reliable.</p>
+      <p n="58">Article 4</p>
+      <p n="59">1. Member States shall communicate to the Commission the prices calculated in accordance with Article 3 (4), in relation to the period from the previous Monday to Sunday between 2 p.m. on Tuesday and midnight on Wednesday of each week, at the latest. They shall not communicate those prices to any other body before they have communicated them to the Commission.</p>
+      <p n="60">2. Where, in exceptional circumstances or for reasons of seasonality of supply, prices relating to a significant number of carcases of one or more classes referred to in Article 1 (1) cannot be recorded in a Member State or region, the Commission may use the last prices recorded for the said class or classes before such occurrence; where such a situation continues for more than two consecutive weeks, the Commission may decide on the temporary elimination of the class or classes in question for price reporting purposes and on the temporary redistribution of the weighting or weightings allocated to those classes.</p>
+      <p n="61">Article 5</p>
+      <p n="62">1. For a given category:</p>
+      <p n="63">(a) the average Community price for each of the conformation and fatness classes listed in Article 1 (1) shall be the weighted average of the national market prices recorded for the class. Weighting shall be based on the proportion of quantities of that class slaughtered in each Member State to total Community slaughterings of that class;</p>
+      <p n="64">(b) the average Community price for each conformation class shall be the weighted average of the average Community prices for the fatness classes which constitute that conformation class; weighting shall be based on the proportion of slaughterings of each fatness class to total slaughterings of that conformation class in the Community;</p>
+      <p n="65">(c) the average Community price shall be the weighted average of the average Community prices referred to in point (a); weighting shall be based on the proportion of the quantities slaughtered in each class referred to in point (a) to total Community slaughterings in the category.</p>
+      <p n="66">2. The average Community price for all categories together shall be the weighted average of the average prices referred to in paragraph 1 (c); that weighing shall be based on the proportion of each category to total slaughterings of adult bovine animals in the Community.</p>
+      <p n="67">3. The weighting factors shall be revised periodically to take into account trends recorded at national and Community levels.</p>
+      <p n="68">Article 6</p>
+      <p n="69">The Member States shall forward to the Commission by 1 July 1996 and thereafter before 15 April each year:</p>
+      <p n="70">(a) a confidential list of slaughterhouses which record prices, whether under Article 2 (1) (a) or (b), indicating the throughput of adult bovine animals for each slaughterhouse, expressed in numbers and, if possible, in tonnes deadweight, in the previous calendar year;</p>
+      <p n="71">(b) a confidential list of natural or legal persons who record prices, whether under Article 2 (1) (c) or (d), indicating the number of adult bovine animals, if possible expressed also in tonnes deadweight, sent for slaughter by them in the previous calendar year; and</p>
+      <p n="72">(c) a list of the regions for which prices are recorded and the weighting attached to each under Article 3 (4), (d).</p>
+      <p n="73">Article 7</p>
+      <p n="74">Member States shall take all necessary measures:</p>
+      <p n="75">- to ensure the accuracy of the prices reported;</p>
+      <p n="76">- to ensure that the provisions of this Regulation are applied; and</p>
+      <p n="77">- to penalize breaches of any of the provisions of this Regulation.</p>
+      <p n="78">Article 8</p>
+      <p n="79">Regulation (EEC) No 3310/86 shall be repealed with effect from 1 July 1996.</p>
+      <p n="80">Article 9</p>
+      <p n="81">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="82">It shall apply to prices recorded from the week beginning 1 July 1996.</p>
+      <p n="83">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="84">Done at Brussels, 16 February 1996.</p>
+      <p n="85">For the Commission</p>
+      <p n="86">Franz FISCHLER</p>
+      <p n="87">Member of the Commission</p>
+      <p n="88">(1) OJ No L 182, 3. 7. 1987, p. 29.</p>
+      <p n="89">(2) OJ No L 67, 11. 3. 1982, p. 23.</p>
+      <p n="90">(3) OJ No L 190, 30. 7. 1993, p. 9.</p>
+      <p n="91">(4) OJ No L 123, 7. 5. 1981, p. 3.</p>
+      <p n="92">(5) OJ No L 106, 26. 4. 1991, p. 2.</p>
+      <p n="93">(6) OJ No L 305, 31. 10. 1986, p. 28.</p>
+      <p n="94">(7) OJ No L 190, 30. 7. 1993, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31998D0003-en" n="31998D0003" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0003 English</title>
+        <title>98/3/EC: Council Decision of 18 December 1997 amending Decision 96/411/EC on improving Community agricultural statistics</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0003:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0003:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2792</classCode>
+        <classCode scheme="eurovoc">4257</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4266</classCode>
+        <classCode scheme="eurovoc">5315</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0003-en." lang="en">
+    <body>
+      <head n="1">98/3/EC: Council Decision of 18 December 1997 amending Decision 96/411/EC on improving Community agricultural statistics</head>
+      <p n="2">COUNCIL DECISION of 18 December 1997 amending Decision 96/411/EC on improving Community agricultural statistics (98/3/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas Decision 96/411/EC (3) provides for the presentation of reports, on the one hand, by the Member States to the Commission, and on the other, by the Commission to the European Parliament and to the Council;</p>
+      <p n="8">Whereas the deadlines set for the transmission of these reports are proving to be too inflexible taking into account the experience gathered;</p>
+      <p n="9">Whereas, it is necessary therefore to postpone the dates laid down and to introduce more flexible deadlines,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Decision 96/411/EC is hereby amended as follows:</p>
+      <p n="13">1. in Article 5, the date '31 March` shall be replaced by '31 July`;</p>
+      <p n="14">2. in Article 11, the date '1 November 1997` shall be replaced by '1 November 1999`.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Decision is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 18 December 1997.</p>
+      <p n="18">For the Council</p>
+      <p n="19">The President</p>
+      <p n="20">F. BODEN</p>
+      <p n="21">(1) OJ C 337, 7. 11. 1997, p. 8.</p>
+      <p n="22">(2) Opinion delivered on 16 December 1997 (not yet published in the Official Journal).</p>
+      <p n="23">(3) OJ L 162, 1. 7. 1996, p. 14.</p>
+    </body>
+  </text>
+</TEI.2>

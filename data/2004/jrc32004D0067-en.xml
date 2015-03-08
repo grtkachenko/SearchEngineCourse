@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32004D0067-en" n="32004D0067" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0067 English</title>
+        <title>2004/67/EC: Commission Decision of 6 January 2004 amending for the second time Decision 2000/807/EC to take into account the revised regions in the Netherlands (Text with EEA relevance) (notified under document number C(2003) 5312)</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0067:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0067:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">2288</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0067-en." lang="en">
+    <body>
+      <head n="1">2004/67/EC: Commission Decision of 6 January 2004 amending for the second time Decision 2000/807/EC to take into account the revised regions in the Netherlands (Text with EEA relevance) (notified under document number C(2003) 5312)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 6 January 2004</p>
+      <p n="4">amending for the second time Decision 2000/807/EC to take into account the revised regions in the Netherlands</p>
+      <p n="5">(notified under document number C(2003) 5312)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/67/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 82/894/EEC of 21 December 1982 on the notification of animal diseases within the Community(1) and in particular Article 5 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 2000/807/EC(2) lays down the codified form and the codes for the notification of animal diseases pursuant to Directive 82/894/EEC.</p>
+      <p n="13">(2) During the development of their animal disease eradication plans, the Netherlands has adjusted the regions of their country. The boundaries of the new regions have been laid down, so as to make them easier to control in the case of an outbreak. The adjustment of the regions in the Netherlands affects the Animal Disease Notification System (ADNS) set out in Decision 2000/807/EC. The new regions (compartments) should therefore replace the current ones in the ADNS.</p>
+      <p n="14">(3) Decision 2000/807/EC should therefore be amended accordingly.</p>
+      <p n="15">(4) In order to protect confidentiality of the transmitted information, the Annex to this Decision should not be published.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Annex V to Decision 2000/807/EC is amended in accordance with the Annex to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision shall apply from 1 January 2004.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 6 January 2004.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">David Byrne</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 378, 31.12.1982, p. 58. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).</p>
+      <p n="29">(2) OJ L 326, 22.12.2000, p. 80. Decision as amended by Decision 2002/807/EC (OJ L 279, 17.10.2002, p. 50).</p>
+    </body>
+  </text>
+</TEI.2>

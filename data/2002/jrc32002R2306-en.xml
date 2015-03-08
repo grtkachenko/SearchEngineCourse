@@ -1,0 +1,113 @@
+<TEI.2 id="jrc32002R2306-en" n="32002R2306" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2306 English</title>
+        <title>Commission Regulation (EC) No 2306/2002 of 20 December 2002 laying down detailed rules for the application of Council Regulation (EC) No 104/2000 as regards the notification of the prices of imported fishery products</title>
+      </titleStmt>
+      <extent>77 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2306:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2306:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1447</classCode>
+        <classCode scheme="eurovoc">2320</classCode>
+        <classCode scheme="eurovoc">2635</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">4502</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2306-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2306/2002 of 20 December 2002 laying down detailed rules for the application of Council Regulation (EC) No 104/2000 as regards the notification of the prices of imported fishery products</head>
+      <p n="2">Commission Regulation (EC) No 2306/2002</p>
+      <p n="3">of 20 December 2002</p>
+      <p n="4">laying down detailed rules for the application of Council Regulation (EC) No 104/2000 as regards the notification of the prices of imported fishery products</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 104/2000 of 17 December 1999 on the common organisation of the markets in fishery and aquaculture products,(1) and in particular Article 29(5) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 29(4) of Regulation (EC) No 104/2000 requires Member States to notify the Commission regularly of the prices and quantities of imports of certain products recorded on their markets or in their ports.</p>
+      <p n="10">(2) A new list of the markets and ports at which imports are recorded should be established in order to take account of the actual volume of imports.</p>
+      <p n="11">(3) Provision should also be made for the rapid transmission, in a new electronic format, of the data needed to monitor the reference prices.</p>
+      <p n="12">(4) Commission Regulation (EC) No 2211/94 of 12 September 1994 laying down detailed rules for the application of Council Regulation (EEC) No 3759/92 as regards the notification of the prices of imported fishery products(2), as last amended by Regulation (EC) No 2805/1999(3), should therefore be repealed.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fishery Products,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">1. Member States shall notify the Commission of the prices and quantities of imports of the products listed in Annexes I, II, III and IV to Regulation (EC) No 104/2000 for which a reference price is set and which are released for free circulation. This information shall be broken down by TARIC code and by date of presentation of the import declaration.</p>
+      <p n="17">2. The requirement to notify the Commission shall apply to at least the products released for free circulation at the markets and ports listed in Table 3 of the Annex.</p>
+      <p n="18">3. Notification shall take place by the 25th day of each month or the first working day thereafter for products released for free circulation between the first and the 15th day of the month, and by the 10th day of the following month or the first working day thereafter for products released for free circulation between the 16th and the last day of the month. The Commission shall be notified by electronic mail in the format shown in the Annex.</p>
+      <p n="19">Article 2</p>
+      <p n="20">Regulation (EC) No 2211/94 is repealed.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Regulation shall enter into force on 1 January 2003.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 20 December 2002.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 17, 21.2.2000, p. 22.</p>
+      <p n="29">(2) OJ L 238, 13.9.1994, p. 1.</p>
+      <p n="30">(3) OJ L 340, 31.12.1999, p. 51.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">1. Data format</p>
+      <p n="33">&gt;TABLE&gt;</p>
+      <p n="34">2. Message format</p>
+      <p n="35">2.1. FIDES I format</p>
+      <p n="36">For Member State administrations not making full use of FIDES II, the following format shall be used. The file is a text file made up of seven separate records:</p>
+      <p n="37">- Each item of data is separated from the following item by a semi-colon.</p>
+      <p n="38">- Each message line is followed by a carriage return.</p>
+      <p n="39">It looks as follows:</p>
+      <p n="40">&lt; TTL &gt;MK-IMPORT</p>
+      <p n="41">&lt; RMS &gt;C(3)</p>
+      <p n="42">&lt; DSE &gt;YYYYMMDD;</p>
+      <p n="43">&lt; MTYP &gt;C(19);</p>
+      <p n="44">&lt; LOT &gt;C(16);</p>
+      <p n="45">&lt; MON &gt;C(3);</p>
+      <p n="46">&lt; DAT &gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8);</p>
+      <p n="47">&lt; DAT &gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8);</p>
+      <p n="48">&lt; DAT &gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8);</p>
+      <p n="49">...</p>
+      <p n="50">2.2. FIDES II format</p>
+      <p n="51">For Member State administrations making full use of FIDES II, the following format shall be used:</p>
+      <p n="52">&lt; FIDES2 &gt;</p>
+      <p n="53">&lt; HEAD &gt;</p>
+      <p n="54">&lt; REQUEST.NAME &gt;MK-IMPORT</p>
+      <p n="55">&lt; REQUEST.COUNTRY.ISO_A3 &gt;C(3)</p>
+      <p n="56">&lt; /HEAD &gt;</p>
+      <p n="57">&lt; BODY &gt;</p>
+      <p n="58">&lt; DSE &gt;YYYYMMDD;</p>
+      <p n="59">&lt; MTYP &gt;C(19);</p>
+      <p n="60">&lt; LOT &gt;C(16);</p>
+      <p n="61">&lt; MON &gt;C(3);</p>
+      <p n="62">&lt; DAT &gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8);</p>
+      <p n="63">&lt; DAT &gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8);</p>
+      <p n="64">&lt; DAT &gt;YYYYMMDD;C(3);C(3);C(10);C(4);C(4);N(15);N(15);C(8);</p>
+      <p n="65">...</p>
+      <p n="66">&lt; /BODY &gt;</p>
+      <p n="67">&lt; /FIDES2 &gt;</p>
+      <p n="68">3. Codes</p>
+      <p n="69">Table 1</p>
+      <p n="70">Member State codes</p>
+      <p n="71">&gt;TABLE&gt;</p>
+      <p n="72">Table 2</p>
+      <p n="73">Currency codes</p>
+      <p n="74">&gt;TABLE&gt;</p>
+      <p n="75">Table 3</p>
+      <p n="76">Entry ports</p>
+      <p n="77">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

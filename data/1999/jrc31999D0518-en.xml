@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31999D0518-en" n="31999D0518" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0518 English</title>
+        <title>99/518/EC: Commission Decision of 28 July 1999 amending Commission Decision 94/360/EC on the reduced frequency of physical checks of consignments of certain products to be imported from third countries, pursuant to Council Directive 90/675/EEC (notified under document number C(1999) 2517) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0518:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0518:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">343</classCode>
+        <classCode scheme="eurovoc">3815</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0518-en." lang="en">
+    <body>
+      <head n="1">99/518/EC: Commission Decision of 28 July 1999 amending Commission Decision 94/360/EC on the reduced frequency of physical checks of consignments of certain products to be imported from third countries, pursuant to Council Directive 90/675/EEC (notified under document number C(1999) 2517) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 28 July 1999</p>
+      <p n="4">amending Commission Decision 94/360/EC on the reduced frequency of physical checks of consignments of certain products to be imported from third countries, pursuant to Council Directive 90/675/EEC</p>
+      <p n="5">(notified under document number C(1999) 2517)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(1999/518/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 97/78/EC of 18 December 1997 laying down the principles governing the organisations of veterinary checks on products entering the Community from third countries(1) and in particular Article 22(6) thereof,</p>
+      <p n="11">(1) Whereas the competent authorities of Switzerland, on 16 July 1999, have informed the services of the Commission that diethylstilboestrol (DES) has been detected on two occasions in beef meat imported from an establishment in the United States of America (USA);</p>
+      <p n="12">(2) Whereas the use of DES, in view of its toxic properties, is banned by virtue of Article 2 (a) and Article 3 (a) of Council Directive 96/22/EC concerning the prohibition on the use in stockfarming of certain substances having a hormonal or thyrostatic action of beta agonists(2);</p>
+      <p n="13">(3) Whereas for the same reasons, the use of DES is also banned in the USA;</p>
+      <p n="14">(4) Whereas the Commission services have not received any official explanation from the authorities in the USA on this problem or on the measures taken to control the situation;</p>
+      <p n="15">(5) Whereas the inspection measures applied at Community border inspection posts should include specific testing for stilbenes;</p>
+      <p n="16">(6) Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">In Decision 94/360/EC(3), the second indent of paragraph 1 of Article 1(a) is replaced by the following text: "- two official samples shall be taken from each consignment and examined for residues of each of the xenobiotic hormones melengestrol acetate, trenbolone, zeranol, and stilbenes including diethylstilboestrol, and for abnormally high levels of residues of the natural hormones 17 beta oestradiol, progesterone and testosterone."</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 28 July 1999.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 24, 30.1.1998, p. 9.</p>
+      <p n="27">(2) OJ L 125, 23.5.1996, p. 3.</p>
+      <p n="28">(3) OJ L 158, 25.6.1994, p. 41.</p>
+    </body>
+  </text>
+</TEI.2>

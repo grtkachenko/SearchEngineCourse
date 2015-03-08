@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32003D0507-en" n="32003D0507" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0507 English</title>
+        <title>2003/507/EC: Council Decision of 13 June 2003 on the accession of the European Community, to the Protocol to the 1979 Convention on Long-Range Transboundary Air Pollution to Abate Acidification, Eutrophication and Ground-Level Ozone</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0507:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0507:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1707</classCode>
+        <classCode scheme="eurovoc">2215</classCode>
+        <classCode scheme="eurovoc">2527</classCode>
+        <classCode scheme="eurovoc">2540</classCode>
+        <classCode scheme="eurovoc">2542</classCode>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+        <classCode scheme="eurovoc">6407</classCode>
+        <classCode scheme="eurovoc">916</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0507-en." lang="en">
+    <body>
+      <head n="1">2003/507/EC: Council Decision of 13 June 2003 on the accession of the European Community, to the Protocol to the 1979 Convention on Long-Range Transboundary Air Pollution to Abate Acidification, Eutrophication and Ground-Level Ozone</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 13 June 2003</p>
+      <p n="4">on the accession of the European Community, to the Protocol to the 1979 Convention on Long-Range Transboundary Air Pollution to Abate Acidification, Eutrophication and Ground-Level Ozone</p>
+      <p n="5">(2003/507/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 175 paragraph 1, in conjunction with Article 300 paragraph 2, first sentence of the first subparagraph and paragraph 3, first subparagraph thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Acidification, eutrophication and ground-level ozone cause unacceptable damage to the environment and human health within the Community.</p>
+      <p n="12">(2) On 30 November 1999 the Executive Body to the Convention on Long-range Transboundary Air Pollution adopted the Protocol to Abate Acidification, Eutrophication and Ground-level Ozone (Gothenburg Protocol); the Gothenburg Protocol sets maximum permitted levels of emissions (emission ceilings) for each national Party for the four main precursor pollutants responsible for acidification, eutrophication and ground-level ozone: sulphur dioxyde, oxides of nitrogen, volatile organic compounds and ammonia; these ceilings are to be met by 2010.</p>
+      <p n="13">(3) Implementation of the Gothenburg Protocol will contribute to achieving Community goals for protection of the environment and human health.</p>
+      <p n="14">(4) Directive 2001/81/EC of the European Parliament and of the Council of 23 October 2001 on national emission ceilings for certain atmospheric pollutants(3) sets binding national emission ceilings, to be met by 2010 at the latest,which are equal to or more ambitious than those required by the Gothenburg Protocol for each Member State.</p>
+      <p n="15">(5) Directive 2001/80/EC of the European Parliament and of the Council of 23 October 2001 on the limitation of emissions of certain pollutants into the air from large combustion plants(4) sets new limit values for emissions from this sector, which are consistent with those set under the Gothenburg Protocol.</p>
+      <p n="16">(6) The Community, in consequence, should accede to the Gothenburg Protocol,</p>
+      <p n="17">HAS DECIDED AS FOLLOWS:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The accession of the Community to the Protocol to the 1979 Convention on Long-range Transboundary Air Pollution to Abate Acidification, Eutrophication and Ground-level Ozone is hereby approved on behalf of the Community.</p>
+      <p n="20">The text of the Protocol is contained in the Annex to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">The President of the Council is hereby authorised to designate the person(s) empowered to deposit the instrument of accession with the Secretary General of the United Nations, in accordance with Article 16 of the Protocol.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision shall be published in the Official Journal of the European Union.</p>
+      <p n="25">Done at Luxembourg, 13 June 2003.</p>
+      <p n="26">For the Council</p>
+      <p n="27">G. Papandreou</p>
+      <p n="28">The President</p>
+      <p n="29">(1) OJ C 151 E, 25.6.2002, p. 74.</p>
+      <p n="30">(2) Opinion of 4 July 2002 (not yet published in the Official Journal).</p>
+      <p n="31">(3) OJ L 309, 27.11.2001, p. 22.</p>
+      <p n="32">(4) OJ L 309, 27.11.2001, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

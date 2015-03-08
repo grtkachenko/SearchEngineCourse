@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31995D0528-en" n="31995D0528" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0528 English</title>
+        <title>95/524/EC: Council Decision of 5 December 1995 amending Regulation (EEC) No 2847/93 and Decision 89/631/EEC as regards the time limit for implementing certain pilot projects on continous position monitoring of Community fishing vessels and the Community contribution to the expenditure incurred in their implementation</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0528:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0528:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1005</classCode>
+        <classCode scheme="eurovoc">1159</classCode>
+        <classCode scheme="eurovoc">133</classCode>
+        <classCode scheme="eurovoc">4790</classCode>
+        <classCode scheme="eurovoc">4829</classCode>
+        <classCode scheme="eurovoc">5229</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0528-en." lang="en">
+    <body>
+      <head n="1">95/524/EC: Council Decision of 5 December 1995 amending Regulation (EEC) No 2847/93 and Decision 89/631/EEC as regards the time limit for implementing certain pilot projects on continous position monitoring of Community fishing vessels and the Community contribution to the expenditure incurred in their implementation</head>
+      <p n="2">COUNCIL DECISION of 5 December 1995 amending Regulation (EEC) No 2847/93 and Decision 89/631/EEC as regards the time limit for implementing certain pilot projects on continous position monitoring of Community fishing vessels and the Community contribution to the expenditure incurred in their implementation (95/528/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Communty, and in particular Aricle 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas, as a result of delays in implementing the pilot projects, provided for in Article 3 (2) of Council Regulation (EEC) No 2847/93 of 12 October 1993 establishing a control system applicable to the common fisheries policy (3), on continuous position monitoring of Community fishing vessels, whether land or satellite-based, some Member States have requested that the period in question be extended;</p>
+      <p n="8">Whereas these Member States should be granted additional time to complete their projects so that they can be of greatest use;</p>
+      <p n="9">Whereas the date on which the Council will decide on the application of the continuous position monitoring system referred to in Article 3 (1) of Regulation (EEC) No 2847/93 should consequently also be deferred;</p>
+      <p n="10">Whereas, to allow the Member States in question as a consequence top adjust their expenditure plans for executing their pilot projects, the period laid down in Article 2a (2) of Council Decision 89/631/EEC of 27 November 1989 on a Community financial contribution towards expenditure incurred by Member States for the purpose of ensuring compliance with the Community system for the conservation and management of fishery resources (4), should be adjusted, as should the time limit by which Member States must submit applications for reimbursement of expenditure on implementing the above pilot projects,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Regulation (EEC) No 2847/93 is hereby amended as follows:</p>
+      <p n="14">(1) in Article 3 (1) the date of '1 January 1996` shall be replaced by that of '1 July 1996`;</p>
+      <p n="15">(2) In Article 3 (2) the date of '30 June 1995` shall be replaced by that of '31 December 1995`.</p>
+      <p n="16">Article 2</p>
+      <p n="17">Decision 89/631/EEC is amended as follows:</p>
+      <p n="18">(1) in Article 2a (2) the date of '1 June 1995` shall be replaced by that of '31 December 1995`;</p>
+      <p n="19">(2) in paragraph 4 of Annex A the date of '1 October 1995` is replaced by that of '30 April 1996`.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 5 December 1995.</p>
+      <p n="23">For the Council The President J. A. GRIÑÁN</p>
+    </body>
+  </text>
+</TEI.2>

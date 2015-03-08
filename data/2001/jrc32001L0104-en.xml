@@ -1,0 +1,77 @@
+<TEI.2 id="jrc32001L0104-en" n="32001L0104" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001L0104 English</title>
+        <title>Directive 2001/104/EC of the European Parliament and of the Council of 7 December 2001 amending Council Directive 93/42/EEC concerning medical devices (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001L0104:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001L0104:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1594</classCode>
+        <classCode scheme="eurovoc">2479</classCode>
+        <classCode scheme="eurovoc">2773</classCode>
+        <classCode scheme="eurovoc">3813</classCode>
+        <classCode scheme="eurovoc">3844</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001L0104-en." lang="en">
+    <body>
+      <head n="1">Directive 2001/104/EC of the European Parliament and of the Council of 7 December 2001 amending Council Directive 93/42/EEC concerning medical devices (Text with EEA relevance)</head>
+      <p n="2">Directive 2001/104/EC of the European Parliament and of the Council</p>
+      <p n="3">of 7 December 2001</p>
+      <p n="4">amending Council Directive 93/42/EEC concerning medical devices</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee,</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(1),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) This Directive aims at including in the scope of Directive 93/42/EEC(2) only medical devices which incorporate, as an integral part, substances derived from human blood or human plasma. Medical devices incorporating other substances derived from human tissues remain excluded from the scope of the said Directive.</p>
+      <p n="13">(2) The essential aim of any rules governing the production, distribution or use of medical devices must be to safeguard public health.</p>
+      <p n="14">(3) National provisions for the safety and health protection of patients, users and, where appropriate, other persons, with regard to the use of medical devices should be harmonised in order to guarantee free movement of such devices within the internal market,</p>
+      <p n="15">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Article 1(5) of Directive 93/42/EEC is hereby amended as follows:</p>
+      <p n="18">(a) point (c) shall be replaced by the following: "(c) medicinal products covered by Directive 65/65/EEC, including medicinal products derived from blood as covered by Directive 89/381/EEC;";</p>
+      <p n="19">(b) point (e) shall be replaced by the following: "(e) human blood, blood products, plasma or blood cells of human origin or to devices which incorporate at the time of placing on the market such blood products, plasma or cells, with the exception of devices referred to in paragraph 4a;".</p>
+      <p n="20">Article 2</p>
+      <p n="21">Implementation, transitional provisions</p>
+      <p n="22">1. Before 13 December 2001, Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive. They shall immediately inform the Commission thereof.</p>
+      <p n="23">Member States shall apply these measures with effect from 13 June 2002.</p>
+      <p n="24">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.</p>
+      <p n="25">2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field governed by this Directive.</p>
+      <p n="26">3. Member States shall take the necessary action to ensure that the notified bodies which are responsible pursuant to Article 16 of Directive 93/42/EEC for conformity assessment take account of all relevant information regarding the characteristics and performance of devices incorporating stable derivatives of human blood or human plasma, including in particular the results of any pertinent tests and verification already carried out under the pre-existing national law, regulations or administrative provisions in respect of such devices.</p>
+      <p n="27">4. For a period of five years following the entry into force of this Directive, Member States shall accept the placing on the market of devices incorporating stable derivatives of human blood or human plasma which conform to the rules in force in their territory on the date on which this Directive enters into force. For a further period of two years, the said devices may be put into service.</p>
+      <p n="28">Article 3</p>
+      <p n="29">This Directive shall enter into force on the date of its publication in the Official Journal of the European Communities.</p>
+      <p n="30">Article 4</p>
+      <p n="31">This Directive is addressed to the Member States.</p>
+      <p n="32">Done at Brussels, 7 December 2001.</p>
+      <p n="33">For the European Parliament</p>
+      <p n="34">The President</p>
+      <p n="35">N. Fontaine</p>
+      <p n="36">For the Council</p>
+      <p n="37">The President</p>
+      <p n="38">I. Durant</p>
+      <p n="39">(1) Opinion of the European Parliament delivered on 23 October 2001 (not yet published in the Official Journal) and Council Decision of 3 December 2001.</p>
+      <p n="40">(2) OJ L 169, 12.7.1993, p. 1. Directive as last amended by Directive 2000/70/EC of the European Parliament and of the Council (OJ L 313, 13.12.2000, p. 22).</p>
+    </body>
+  </text>
+</TEI.2>

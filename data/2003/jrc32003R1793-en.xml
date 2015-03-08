@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32003R1793-en" n="32003R1793" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1793 English</title>
+        <title>Commission Regulation (EC) No 1793/2003 of 13 October 2003 fixing the minimum natural alcoholic strength by volume of "Vinho verde" quality wines psr originating in Portuguese wine-growing zone C I a) for the 2003/2004 and 2004/2005 wine years</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1793:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1793:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2563</classCode>
+        <classCode scheme="eurovoc">4717</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1793-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1793/2003 of 13 October 2003 fixing the minimum natural alcoholic strength by volume of "Vinho verde" quality wines psr originating in Portuguese wine-growing zone C I a) for the 2003/2004 and 2004/2005 wine years</head>
+      <p n="2">Commission Regulation (EC) No 1793/2003</p>
+      <p n="3">of 13 October 2003</p>
+      <p n="4">fixing the minimum natural alcoholic strength by volume of "Vinho verde" quality wines psr originating in Portuguese wine-growing zone C I a) for the 2003/2004 and 2004/2005 wine years</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Article 58 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Annex VI(E)(3) to Regulation (EC) No 1493/1999 fixes the minimum natural alcoholic strength by volume of quality wines psr at 8,5 % vol. for zone C I a).</p>
+      <p n="10">(2) By derogation from that limit, Commission Regulation (EC) No 2358/2000(3) fixes the minimum natural alcoholic strength by volume of quality wines psr originating in Portuguese zone C I a) at 7,5 % vol. Regulation (EC) No 2358/2000 expires at the end of the 2002/2003 wine year.</p>
+      <p n="11">(3) Given that the special conditions for traditional wine-growing and vine selection in Portuguese zone C I a) do not enable "Vinho verde" quality wine psr to reach the minimum natural alcoholic strength by volume of 8,5 % vol., a new derogation should be laid down for that wine for the 2003/2004 and 2004/2005 wine years.</p>
+      <p n="12">(4) The measure provided for in this Regulation is in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">By derogation from the limits laid down for the alcoholic strengths by volume in Annex VI(E)(3) to Regulation (EC) No 1493/1999, the natural alcoholic strength by volume of the quality wines psr originating in Portuguese zone C I a) bearing the name "Vinho verde" for the 2003/2004 and 2004/2005 wine years may be lower than 8,5 % vol. but may not be lower than 8 % vol.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 13 October 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="24">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="25">(3) OJ L 272, 25.10.2000, p. 16.</p>
+    </body>
+  </text>
+</TEI.2>

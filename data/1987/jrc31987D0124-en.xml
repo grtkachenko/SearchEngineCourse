@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31987D0124-en" n="31987D0124" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31987D0124 English</title>
+        <title>87/124/EEC: Commission Decision of 19 January 1987 on the list of establishments in Chile approved for the purpose of importing fresh meat into the Community</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987D0124:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987D0124:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31987D0124-en." lang="en">
+    <body>
+      <head n="1">87/124/EEC: Commission Decision of 19 January 1987 on the list of establishments in Chile approved for the purpose of importing fresh meat into the Community</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION DECISION</p>
+      <p n="4">of 19 January 1987</p>
+      <p n="5">on the list of establishments in Chile approved for the purpose of importing fresh meat into the Community</p>
+      <p n="6">(87/124/EEC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Directive 72/462/EEC of 12 December 1972 on health and veterinary inspection problems upon importation of bovine animals and swine and fresh meat from third countries (1), as last amended by Directive 86/469/EEC (2), and in particular Articles 4 (1) and 18 (1) thereof,</p>
+      <p n="10">Whereas establishments in third countries cannot be authorized to export fresh meat to the Community unless they satisfy the general and special conditions laid down in Directive 72/462/EEC;</p>
+      <p n="11">Whereas on the basis of a first inspection no establishments in Chile were judged satisfactory;</p>
+      <p n="12">Whereas a further inspection carried out pursuant to Article 5 of Directive 72/462/EEC and Article 2 (1) of Commission Decision 86/474/EEC of 11 September 1986 concerning the implementation of the on-the-spot inspections to be carried out in respect of the importation of bovine animals and swine and fresh meat from non-member countries (3) has shown that the standard of hygiene in one establishment has been raised and can thus be regarded as satisfactory;</p>
+      <p n="13">Whereas this establishment can, in these circumstances, be included in a list of establishments authorized to export to the Community;</p>
+      <p n="14">Whereas import of fresh meat from the establishment appearing in the Annex remains subject to provisions laid down elsewhere and to the general provisions of the Treaty; whereas in particular, import from third countries and dispatch to other Member States of certain categories of meat, such as meat containing residues of certain substances, are covered by harmonized Community rules, which are not yet fully implemented;</p>
+      <p n="15">Whereas the measures provided for this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">1. The establishment in Chile appearing in the Annex is hereby approved for the import of fresh meat into the Community pursuant to the said Annex.</p>
+      <p n="19">2. Imports from establishments listed in the Annex shall remain subject to the Community veterinary provisions laid down elsewhere.</p>
+      <p n="20">Article 2</p>
+      <p n="21">Member States shall prohibit imports of fresh meat coming from establishments not appearing in the Annex.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision shall apply with effect from 15 January 1987.</p>
+      <p n="24">Article 4</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 19 January 1987.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Frans ANDRIESSEN</p>
+      <p n="29">Vice-President</p>
+      <p n="30">(1) OJ No L 302, 31. 12. 1972, p. 28.</p>
+      <p n="31">(2) OJ No L 275, 26. 9. 1986, p. 36.</p>
+      <p n="32">(3) OJ No L 279, 30. 9. 1986, p. 55.</p>
+      <p n="33">ANNEX</p>
+      <p n="34">LIST OF ESTABLISHMENTS</p>
+      <p n="35">1.2.3 // // // // Approval No // Establishment // Address</p>
+      <p n="36">// // // SHEEPMEAT</p>
+      <p n="37">Slaughterhouse</p>
+      <p n="38">1.2.3 // // // // 1 // Frigorífico Cuerilán, SA // Punta Arenas // // //</p>
+    </body>
+  </text>
+</TEI.2>

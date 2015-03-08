@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31999R0183-en" n="31999R0183" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0183 English</title>
+        <title>Council Regulation (EC, ECSC, Euratom) No 183/1999 of 25 January 1999 amending Regulation (EC, Euratom, ECSC) No 840/95 amending Regulation (EEC, Euratom, ECSC) No 2290/77 determining the emoluments of the members of the Court of Auditors</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0183:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0183:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1048</classCode>
+        <classCode scheme="eurovoc">3751</classCode>
+        <classCode scheme="eurovoc">3843</classCode>
+        <classCode scheme="eurovoc">5308</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0183-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC, ECSC, Euratom) No 183/1999 of 25 January 1999 amending Regulation (EC, Euratom, ECSC) No 840/95 amending Regulation (EEC, Euratom, ECSC) No 2290/77 determining the emoluments of the members of the Court of Auditors</head>
+      <p n="2">COUNCIL REGULATION (EC, ECSC, EURATOM) No 183/1999 of 25 January 1999 amending Regulation (EC, Euratom, ECSC) No 840/95 amending Regulation (EEC, Euratom, ECSC) No 2290/77 determining the emoluments of the members of the Court of Auditors</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 188b(8) thereof,</p>
+      <p n="5">Having regard to the Treaty establishing the European Coal and Steel Community, and in particular Article 45b(8) thereof,</p>
+      <p n="6">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 160b(8) thereof,</p>
+      <p n="7">Whereas it is for the Council to determine the salaries, allowances and pensions of the President and members of the Court of Auditors;</p>
+      <p n="8">Whereas Regulation (EC, Euratom, ECSC) No 840/95 (1) amended the provisions of Regulation (EEC, Euratom, ECSC) No 2290/77 (2) relating to salaries and transitional termination-of-service allowances and provided in Article 2 that pensions acquired on its date of entry into force were not being altered by it;</p>
+      <p n="9">Whereas the Court of First Instance, in its Judgment of 30 September 1998 in Case T-121/97, established that Article 2 of the above Regulation was unlawful and, consequently, Regulation (EC, Euratom, ECSC) No 840/95 should be amended in order to remedy that unlawful situation,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Regulation (EC, Euratom, ECSC) No 840/95 is hereby amended as follows. Article 2 shall be replaced by the following:</p>
+      <p n="13">'Article 2</p>
+      <p n="14">Pensions acquired before 1 November 1993 shall not be altered by this Regulation.`</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 25 January 1999.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">J. FISCHER</p>
+      <p n="22">(1) OJ L 85, 19. 4. 1995, p. 10.</p>
+      <p n="23">(2) OJ L 268, 20. 10. 1977, p. 1. Regulation as last amended by Regulation (EC, Euratom, ECSC) No 840/95.</p>
+    </body>
+  </text>
+</TEI.2>

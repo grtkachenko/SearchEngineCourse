@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32003R0836-en" n="32003R0836" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0836 English</title>
+        <title>Commission Regulation (EC) No 836/2003 of 15 May 2003 amending Regulation (EC) No 2103/2002 approving operations to check conformity to the marketing standards applicable to fresh fruit and vegetables carried out in South Africa prior to import into the European Community</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0836:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0836:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1119</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1562</classCode>
+        <classCode scheme="eurovoc">1608</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">321</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0836-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 836/2003 of 15 May 2003 amending Regulation (EC) No 2103/2002 approving operations to check conformity to the marketing standards applicable to fresh fruit and vegetables carried out in South Africa prior to import into the European Community</head>
+      <p n="2">Commission Regulation (EC) No 836/2003</p>
+      <p n="3">of 15 May 2003</p>
+      <p n="4">amending Regulation (EC) No 2103/2002 approving operations to check conformity to the marketing standards applicable to fresh fruit and vegetables carried out in South Africa prior to import into the European Community</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Commission Regulation (EC) No 47/2003(2), and in particular Article 10 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2103/2002(3) sets out in its Annex II a model of certificate referred to in Article 7(3) of Commission Regulation (EC) No 1148/2001 of 12 June 2001 on checks on conformity to the marketing standards applicable to fruit and vegetables(4), as last amended by Regulation (EC) No 408/2003(5).</p>
+      <p n="10">(2) The South African authorities have informed the Commission that the certificate used has been amended.</p>
+      <p n="11">(3) Regulation (EC) No 2103/2002 should therefore be amended accordingly.</p>
+      <p n="12">(4) In order to avoid practical and commercial difficulties it should be possible to use the existing model certificate until 30 June 2003.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Annex II to Regulation (EC) No 2103/2002 is replaced by the text in the Annex to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="19">It shall apply as from 1 June 2003. However, certificates according to the model in Annex II to Regulation (EC) No 2103/2002 in its version of the 28 November 2002, can also be used until 30 June 2003.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 15 May 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="26">(2) OJ L 7, 11.1.2003, p. 64.</p>
+      <p n="27">(3) OJ L 324, 29.11.2002, p. 11.</p>
+      <p n="28">(4) OJ L 156, 13.6.2001, p. 9.</p>
+      <p n="29">(5) OJ L 62, 6.3.2003, p. 8.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">'ANNEX II</p>
+      <p n="32">MODEL CERTIFICATE REFERRED TO IN ARTICLE 7(3) OF REGULATION (EC) No 1148/2001</p>
+      <p n="33">&gt;PIC FILE= "L_2003121EN.000403.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

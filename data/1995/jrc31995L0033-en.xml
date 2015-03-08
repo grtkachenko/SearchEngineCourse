@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31995L0033-en" n="31995L0033" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995L0033 English</title>
+        <title>Commission Directive 95/33/EC of 10 July 1995 amending Council Directive 82/471/EEC concerning certain products used in animal nutrition</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0033:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0033:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">2775</classCode>
+        <classCode scheme="eurovoc">571</classCode>
+        <classCode scheme="eurovoc">720</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995L0033-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 95/33/EC of 10 July 1995 amending Council Directive 82/471/EEC concerning certain products used in animal nutrition</head>
+      <p n="2">COMMISSION DIRECTIVE 95/33/EC of 10 July 1995 amending Council Directive 82/471/EEC concerning certain products used in animal nutrition (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 82/471/EEC of 30 June 1982 concerning certain products used in animal nutrition (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 6 thereof,</p>
+      <p n="6">Whereas Directive 82/471/EEC provides for regular amendment of the content of its Annex to take account of advances in scientific and technical knowledge;</p>
+      <p n="7">Whereas the study of a new product belonging to the group of protein products obtained from micro-organisms, in this case from bacteria, has permitted to show a beneficial effect in pigs, calves and salmon; whereas authorization for the use of this product in animal nutrition should therefore be permitted under certain conditions;</p>
+      <p n="8">Whereas, for technological reasons of production, the minimum concentration of the concentrated liquid L-lysine authorized has to be amended;</p>
+      <p n="9">Whereas the Scientific Committee for Animal Nutrition and the Scientific Committee for Food issued an opinion on the use of the protein product of fermentation from natural gas obtained by culture of Methylococcus capsulatus (Bath), Alcaligenes acidorovans, Bacillus brevis and Bacillus firmus;</p>
+      <p n="10">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee for Feedingstuffs,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Annex to Directive 82/471/EEC is hereby amended as set out in the Annex of this Directive.</p>
+      <p n="14">Article 2</p>
+      <p n="15">1. Member States shall bring into force the laws, regulations or administrative provisions necessary to comply with this Directive by 30 June 1996 at the latest. They shall immediately inform the Commission thereof.</p>
+      <p n="16">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="17">2. Member States shall communicate to the Commission the text of the main provisions of domestic law which they adopt in the field governed by this Directive.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Directive shall enter into force on the twentieth day following its publication in the Official Journal of the European Communities.</p>
+      <p n="20">Article 4</p>
+      <p n="21">This Directive is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 10 July 1995.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ No L 213, 21. 7. 1982, p. 8.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">1. In group 1.1 'Bacteria`, the group of products and the following product are added:</p>
+      <p n="29">&gt;TABLE&gt;</p>
+      <p n="30">2. In group 3 'Amino acids and their salts`, in group 3.2 'Lysine`, item 3.2.2 'Concentrated liquid L-lysine (base)`, the text of column 5 is replaced by the following text: 'L-lysine: min. 50 %`.</p>
+    </body>
+  </text>
+</TEI.2>

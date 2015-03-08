@@ -1,0 +1,69 @@
+<TEI.2 id="jrc31999R2740-en" n="31999R2740" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2740 English</title>
+        <title>Commission Regulation (EC) No 2740/1999 of 21 December 1999 laying down detailed rules for the application of Council Regulation (EC) No 1447/1999 establishing a list of types of behaviour which seriously infringe the rules of the common fisheries policy</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2740:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2740:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2455</classCode>
+        <classCode scheme="eurovoc">5228</classCode>
+        <classCode scheme="eurovoc">5229</classCode>
+        <classCode scheme="eurovoc">5953</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2740-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2740/1999 of 21 December 1999 laying down detailed rules for the application of Council Regulation (EC) No 1447/1999 establishing a list of types of behaviour which seriously infringe the rules of the common fisheries policy</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2740/1999</p>
+      <p n="3">of 21 December 1999</p>
+      <p n="4">laying down detailed rules for the application of Council Regulation (EC) No 1447/1999 establishing a list of types of behaviour which seriously infringe the rules of the common fisheries policy</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1447/1999 of 24 June 1999 establishing a list of types of behaviour which seriously infringe the rules of the common fisheries policy(1), and in particular Article 2(4) thereof,</p>
+      <p n="8">(1) Whereas, under Article 2(1) of Regulation (EC) No 1447/1999, Member States must notify the Commission of instances of behaviour which seriously infringe the rules of the common fisheries policy discovered by the Member States' monitoring authorities and provide it with all information regarding action taken by the administrative and/or judicial authorities;</p>
+      <p n="9">(2) Whereas details of the information to be notified, the dates for such notifications and the format to be used should therefore be specified;</p>
+      <p n="10">(3) Whereas, under Article 2(2) of Regulation (EC) No 1447/1999, the Commission must make the information it receives from the Member States available to the Council, the European Parliament and the Advisory Committee on Fisheries;</p>
+      <p n="11">(4) Whereas detailed rules on making the information in question available to these bodies must therefore be laid down;</p>
+      <p n="12">(5) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">1. Member States shall notify the Commission, by electronic means under a specific case number, of all instances of behaviour which seriously infringe the rules of the common fisheries policy which have been discovered by the Member States' monitoring authorities and have been the subject of an official report, specifying the nature of such infringements in accordance with the typology laid down in Article 1 of Regulation (EC) No 1447/1999 and giving details of the infringements, in accordance with the model set out in Annex I and using the codes set out in Annex II.</p>
+      <p n="16">2. They shall notify the Commission of the type of proceedings initiated, the decision(s) taken (including all instances), and the nature of the penalties imposed, in specific terms.</p>
+      <p n="17">3. Member States shall send this information to the Commission, for the first time, before 31 March 2001 for the year 2000 and thereof, by 31 March each year, for the previous calendar year.</p>
+      <p n="18">4. The annual report by the Member States shall include all serious infringements, mentioned in paragraph 1, discovered in the previous year and infringements discovered earlier on which a decision has been taken in the previous year thus changing the dossier.</p>
+      <p n="19">5. The format for notifying the relevant information by electronic means shall be laid down in consultation with the Member States and the Commission.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The Commission shall present to the Council, the European Parliament and the Advisory Committee on Fisheries a general overview by Member State of the information received from the Member States under Article 1 not later than 1 June each year.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 21 December 1999.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz FISCHLER</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 167, 2.7.1999, p. 5.</p>
+      <p n="30">ANNEX I</p>
+      <p n="31">&gt;PIC FILE= "L_1999328EN.006302.EPS"&gt;</p>
+      <p n="32">ANNEX II</p>
+      <p n="33">Codes for notifying the types of behaviour which seriously infringe the rules of the common fisheries policy</p>
+      <p n="34">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

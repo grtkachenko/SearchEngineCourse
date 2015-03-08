@@ -1,0 +1,76 @@
+<TEI.2 id="jrc32001D0528-en" n="32001D0528" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0528 English</title>
+        <title>2001/528/EC: Commission Decision of 6 June 2001 establishing the European Securities Committee (Text with EEA relevance) (notified under document number C(2001) 1493)</title>
+      </titleStmt>
+      <extent>43 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0528:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0528:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4646</classCode>
+        <classCode scheme="eurovoc">6049</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0528-en." lang="en">
+    <body>
+      <head n="1">2001/528/EC: Commission Decision of 6 June 2001 establishing the European Securities Committee (Text with EEA relevance) (notified under document number C(2001) 1493)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 6 June 2001</p>
+      <p n="4">establishing the European Securities Committee</p>
+      <p n="5">(notified under document number C(2001) 1493)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/528/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The freedom to provide services and the free movement of capital constitute priority objectives of the Community, as referred to in Articles 49 and 56 of the EC Treaty.</p>
+      <p n="12">(2) Building a genuine internal market for financial services in accordance with the principle of an open market economy with free competition is crucial for increasing economic growth and job creation in the Community,</p>
+      <p n="13">(3) The Commission action plan for financial services(1) identifies a series of actions that are required in order to complete the single market for financial services and stresses the necessity to set up a securities committee in order to contribute to the elaboration of Community legislation in the securities field.</p>
+      <p n="14">(4) At its meeting in Lisbon in March 2000, the European Council called for the implementation of this action plan by 2005.</p>
+      <p n="15">(5) On 17 July 2000, the Council set up the Committee of Wise Men on the regulation of European securities markets.</p>
+      <p n="16">(6) In its final report, the Committee of Wise Men called for the establishment of two advisory committees, the European Securities Committee, comprising high-level representatives of Member States, and the Committee of European Securities Regulators, comprising senior representatives from the national public authorities competent in the field of securities in order, inter alia, to advise the Commission.</p>
+      <p n="17">(7) In its resolution on more effective securities market regulation in the European Union, the Stockholm European Council welcomed the intention of the Commission immediately to establish a securities committee of high-level officials from Member States, chaired by the Commission.</p>
+      <p n="18">(8) The final report of the Committee of Wise Men emphasised the fact that implementing measures will be necessary for the application of directives or regulations in order to take account of new developments on financial markets.</p>
+      <p n="19">(9) The European Securities Committee should serve as a body for reflection, debate and advice for the Commission in the field of securities.</p>
+      <p n="20">(10) The European Securities Committee should adopt its own rules of procedure.</p>
+      <p n="21">(11) This Decision establishes the European Securities Committee in its advisory capacity. Subject to specific legislative acts proposed by the Commission and adopted by the European Parliament and the Council, the Securities Committee should also function as a regulatory committee in accordance with the 1999 Decision on comitology to assist the Commission when it takes decisions on implementing measures under Article 202 of the EC Treaty,</p>
+      <p n="22">HAS DECIDED AS FOLLOWS:</p>
+      <p n="23">Article 1</p>
+      <p n="24">A committee on securities in the Community, called the "European Securities Committee" (hereinafter referred to as the "Committee"), is hereby established.</p>
+      <p n="25">Article 2</p>
+      <p n="26">The role of the Committee shall be to advise the Commission on policy issues as well as on draft legislative proposals the Commission might adopt in the field of securities</p>
+      <p n="27">Article 3</p>
+      <p n="28">The Committee shall be composed of high level representatives of Member States and be chaired by a representative of the Commission.</p>
+      <p n="29">The chairperson of the Committee of European Securities Regulators established by Commission Decision 2001/527/EC(2) shall participate at the meetings of the Committee as an observer.</p>
+      <p n="30">The Committee may invite experts and observers to attend meetings.</p>
+      <p n="31">Article 4</p>
+      <p n="32">The Committee may set up working groups.</p>
+      <p n="33">Article 5</p>
+      <p n="34">The Committee shall adopt its own rules of procedure.</p>
+      <p n="35">The secretariat of the Committee shall be provided by the Commission.</p>
+      <p n="36">Article 6</p>
+      <p n="37">The Committee shall take up its duties on 7 June 2001.</p>
+      <p n="38">Done at Brussels, 6 June 2001.</p>
+      <p n="39">For the Commission</p>
+      <p n="40">Frederik Bolkestein</p>
+      <p n="41">Member of the Commission</p>
+      <p n="42">(1) COM (1999) 232 final.</p>
+      <p n="43">(2) See page 43 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

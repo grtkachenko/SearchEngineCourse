@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31996D0493-en" n="31996D0493" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0493 English</title>
+        <title>96/493/EC: Council Decision of 29 March 1996 concerning the signing and provisional application of the International Tropical Timber Agreement 1994 on behalf of the European Community</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0493:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0493:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1567</classCode>
+        <classCode scheme="eurovoc">2179</classCode>
+        <classCode scheme="eurovoc">3461</classCode>
+        <classCode scheme="eurovoc">3466</classCode>
+        <classCode scheme="eurovoc">5219</classCode>
+        <classCode scheme="eurovoc">5467</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0493-en." lang="en">
+    <body>
+      <head n="1">96/493/EC: Council Decision of 29 March 1996 concerning the signing and provisional application of the International Tropical Timber Agreement 1994 on behalf of the European Community</head>
+      <p n="2">COUNCIL DECISION of 29 March 1996 concerning the signing and provisional application of the International Tropical Timber Agreement 1994 on behalf of the European Community (96/493/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas the International Tropical Timber Agreement 1994 negotiated on the basis of Resolution 93 (IV) of the text entitled 'A new partnership for development: Cartagena Commitment` and the relevant objectives in the final document 'Cartagena Spirit` adopted by the United Nations Trade and Development Conference was opened for signing from 1 April 1994 until one month after the date of its entry into force;</p>
+      <p n="7">Whereas the said Agreement has not yet entered into force;</p>
+      <p n="8">Whereas, pursuant to Article 42 (3) of the 1983 International Tropical Timber Agreement, that Agreement was extended until the provisional or definitive entry into force of the new Agreement;</p>
+      <p n="9">Whereas the objectives pursued by the new Agreement fit into the context of the common commercial policy;</p>
+      <p n="10">Whereas the Member States participate, through financial contributions, in the measures provided for in that Agreement;</p>
+      <p n="11">Whereas all the Member States have expressed their intention to sign and to contribute towards the provisional application of the Agreement; whereas the Community therefore should sign the Agreement lodged with the United Nations Secretary-General and, as soon as possible, notify its intention to apply the Agreement provisionally,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">1. The Community shall sign the International Tropical Timber Agreement 1994 lodged with the United Nations Secretary-General.</p>
+      <p n="15">The text of the Agreement is attached to this Decision.</p>
+      <p n="16">2. The Community shall notify the United Nations Secretary-General of its intention to apply the Agreement referred to in paragraph 1 provisionally, in accordance with Articles 40 and 41 (2) thereof.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is hereby authorized to designate the persons empowered to sign the Agreement on behalf of the Community and deposit the notification of its provisional application by the Community, together with the declaration attached to this Decision.</p>
+      <p n="19">Done at Brussels, 29 March 1996.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">T. TREU</p>
+      <p n="23">ANNEX</p>
+      <p n="24">Declaration by the European Community and its Member States</p>
+      <p n="25">The European Community and its Member States interpret the terms of the International Tropical Timber Agreement 1994 as follows:</p>
+      <p n="26">(a) unless the scope of the Agreement is changed pursuant to Article 35 of the Agreement, the Agreement shall refer solely to tropical timber and tropical forests;</p>
+      <p n="27">(b) any financial contribution other than the contribution to the administrative budget provided for in Article 19 of the Agreement shall be entirely voluntary.</p>
+    </body>
+  </text>
+</TEI.2>

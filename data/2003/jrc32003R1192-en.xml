@@ -1,0 +1,91 @@
+<TEI.2 id="jrc32003R1192-en" n="32003R1192" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1192 English</title>
+        <title>Commission Regulation (EC) No 1192/2003 of 3 July 2003 amending Regulation (EC) No 91/2003 of the European Parliament and of the Council on rail transport statistics (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>64 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1192:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1192:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc32003R1192-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1192/2003 of 3 July 2003 amending Regulation (EC) No 91/2003 of the European Parliament and of the Council on rail transport statistics (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 1192/2003</p>
+      <p n="3">of 3 July 2003</p>
+      <p n="4">amending Regulation (EC) No 91/2003 of the European Parliament and of the Council on rail transport statistics</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Regulation (EC) No 91/2003 of the European Parliament and of the Council of 16 December 2002 on rail transport statistics(1), and in particular Article 3(2) and Article 4(5) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) In accordance with Article 3 of Regulation (EC) No 91/2003, the definitions in that Regulation may be adapted by the Commission.</p>
+      <p n="11">(2) Additional definitions are necessary for the purposes of the collection of the data on the basis of common definitions in all Member States to ensure the harmonisation of the rail transport statistics.</p>
+      <p n="12">(3) In accordance with Article 4 of Regulation (EC) No 91/2003, the contents of the Annexes may be adapted by the Commission.</p>
+      <p n="13">(4) The specification of Table H1 needs to be modified to ensure a clear statement of the coverage of the statistics.</p>
+      <p n="14">(5) Regulation (EC) No 91/2003 should therefore be amended accordingly.</p>
+      <p n="15">(6) The measures provided for in this Regulation are in accordance with the opinion delivered by the Statistical Programme Committee, set up by Council Decision 89/382/EEC, Euratom(2),</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Regulation (EC) No 91/2003 is amended as follows:</p>
+      <p n="19">1. Article 3(1) is replaced by the following:</p>
+      <p n="20">"1. For the purposes of this Regulation the following definitions shall apply:</p>
+      <p n="21">1. 'reporting country' means the Member State transmitting data to Eurostat;</p>
+      <p n="22">2. 'national authorities' means national statistical institutes and other bodies responsible in each Member State for producing Community statistics;</p>
+      <p n="23">3. 'railway' means line of communication made up by rail exclusively for the use of railway vehicles;</p>
+      <p n="24">4. 'railway vehicle' means mobile equipment running exclusively on rails, moving either under its own power (tractive vehicles) or hauled by another vehicle (coaches, railcar trailers, vans and wagons);</p>
+      <p n="25">5. 'railway undertaking' means any public or private undertaking which provides services for the transport of goods and/or passengers by rail. Undertakings whose only business is to provide services for the transport of passengers by metro, tram and/or light rail are excluded;</p>
+      <p n="26">6. 'transport of goods by rail' means the movement of goods using railway vehicles between the place of loading and the place of unloading;</p>
+      <p n="27">7. 'transport of passengers by rail' means the movement of passengers using railway vehicles between the place of embarkation and the place of disembarkation. The transport of passengers by metro, tram and/or light rail is excluded;</p>
+      <p n="28">8. 'metro' (also known as 'subway', 'metropolitan railway' or 'underground') means an electric railway for the transport of passengers with the capacity for a heavy volume of traffic and characterised by exclusive rights-of-way, multi-car trains, high speed and rapid acceleration, sophisticated signalling as well as the absence of level crossings to allow a high frequency of trains and high platform load. Metros are also characterised by closely spaced stations, normally meaning a distance of 700 to 1200 m between the stations. 'High speed' refers to the comparison with trams and light rail, and means here approximately 30 to 40 km/h on shorter distances, 40 to 70 km/h on longer distances;</p>
+      <p n="29">9. 'tram (streetcar)' means a passenger road vehicle designed to seat more than nine persons (including the driver), which is connected to electric conductors or powered by diesel engine and which is rail-borne;</p>
+      <p n="30">10. 'light rail' means a railway for the transport of passengers that often uses electrically powered rail-borne cars operating singly or in short trains on fixed duo-rail lines. There is generally a distance of less than 1200 m between stations/stops. In comparison to metros, light rail is more lightly constructed, is designed for lower traffic volumes and usually travels at lower speeds. It is sometimes difficult to make a precise distinction between light rail and trams; trams are generally not separated from road traffic, whereas light rail may be separated from other systems;</p>
+      <p n="31">11. 'national transport' means rail transport between two places (a place of loading/embarkation and a place of unloading/disembarkation) located in the reporting country. It may involve transit through a second country;</p>
+      <p n="32">12. 'international transport' means rail transport between a place (of loading/embarkation or unloading/disembarkation) in the reporting country and a place (of loading/embarkation or unloading/disembarkation) in another country;</p>
+      <p n="33">13. 'transit' means rail transport through the reporting country between two places (a place of loading/embarkation and a place of unloading/disembarkation) outside the reporting country. Transport operations involving loading/embarkation or unloading/disembarkation of goods/passengers at the border of the reporting country from/onto another mode of transport are not considered as transit;</p>
+      <p n="34">14. 'rail passenger' means any person, excluding members of the train crew, who makes a trip by rail. For accident statistics, passengers trying to embark/disembark onto/from a moving train are included;</p>
+      <p n="35">15. 'number of passengers' means the number of trips by rail passengers, where each trip is defined as the movement from the place of embarkation to the place of disembarkation, with or without transfers from one rail vehicle to another. If passengers use the services of more than one railway undertaking, when possible they should not be counted more than once;</p>
+      <p n="36">16. 'passenger-km' means the unit of measure representing the transport of one passenger by rail over a distance of one kilometre. Only the distance on the national territory of the reporting country shall be taken into account;</p>
+      <p n="37">17. 'weight' means the quantity of goods in tonnes (1000 kilograms). The weight to be taken into consideration includes, in addition to the weight of the goods transported, the weight of packaging and the tare weight of containers, swap bodies, pallets as well as road vehicles transported by rail in the course of combined transport operations. If the goods are transported using the services of more than one railway undertaking, when possible the weight of goods should not be counted more than once;</p>
+      <p n="38">18. 'tonne-km' means the unit of measure of goods transport which represents the transport of one tonne (1000 kilograms) of goods by rail over a distance of one kilometre. Only the distance on the national territory of the reporting country shall be taken into account;</p>
+      <p n="39">19. 'train' means one or more railway vehicles hauled by one or more locomotives or railcars, or one railcar travelling alone, running under a given number or specific designation from an initial fixed point to a terminal fixed point. A light engine, i.e. a locomotive travelling on its own, is not considered to be a train;</p>
+      <p n="40">20. 'train-km' means the unit of measure representing the movement of a train over one kilometre. The distance used is the distance actually run, if available, otherwise the standard network distance between the origin and destination shall be used. Only the distance on the national territory of the reporting country shall be taken into account;</p>
+      <p n="41">21. 'full trainload' means any consignment comprising one or more wagonloads transported at the same time by the same sender at the same station and forwarded with no change in train composition to the address of the same consignee at the same destination station;</p>
+      <p n="42">22. 'full wagonload' means any consignment of goods for which the exclusive use of a wagon is required, whether the total loading capacity is utilised or not;</p>
+      <p n="43">23. 'TEU (Twenty-foot Equivalent Unit)' means a standard unit based on an ISO container of 20 feet length (6,10 m), used as a statistical measure of traffic flows or capacities. One standard 40' ISO Series 1 container equals 2 TEUs. Swap bodies under 20 feet correspond to 0,75 TEU, between 20 feet and 40 feet to 1,5 TEU and over 40 feet to 2,25 TEU;</p>
+      <p n="44">24. 'significant accident' means any accident involving at least one rail vehicle in motion, resulting in at least one killed or seriously injured person, or in significant damage to stock, track, other installations or environment, or extensive disruptions to traffic. Accidents in workshops, warehouses and depots are excluded;</p>
+      <p n="45">25. 'serious injury accident' means any accident involving at least one rail vehicle in motion, resulting in at least one killed or seriously injured person. Accidents in workshops, warehouses and depots are excluded;</p>
+      <p n="46">26. 'person killed' means any person killed immediately or dying within 30 days as a result of an accident, excluding suicides;</p>
+      <p n="47">27. 'person seriously injured' means any person injured who was hospitalised for more than 24 hours as a result of an accident, excluding attempted suicides;</p>
+      <p n="48">28. 'accident involving the transport of dangerous goods' means any accident or incident that is subject to reporting in accordance with RID/ADR section 1.8.5.</p>
+      <p n="49">29. 'suicide' means an act to deliberately injure oneself resulting in death, as recorded and classified by the competent national authority;</p>
+      <p n="50">30. 'attempted suicide' means an act to deliberately injure oneself resulting in serious injury, but not in death, as recorded and classified by the competent national authority."</p>
+      <p n="51">2. Annex H is replaced by the text in the Annex to this Regulation.</p>
+      <p n="52">Article 2</p>
+      <p n="53">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="54">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="55">Done at Brussels, 3 July 2003.</p>
+      <p n="56">For the Commission</p>
+      <p n="57">Pedro Solbes Mira</p>
+      <p n="58">Member of the Commission</p>
+      <p n="59">(1) OJ L 14, 21.1.2003, p. 1.</p>
+      <p n="60">(2) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="61">ANNEX</p>
+      <p n="62">"ANNEX H</p>
+      <p n="63">STATISTICS ON ACCIDENTS</p>
+      <p n="64">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

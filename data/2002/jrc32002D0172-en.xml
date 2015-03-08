@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32002D0172-en" n="32002D0172" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0172 English</title>
+        <title>2002/172/EC: Commission Decision of 25 February 2002 prolonging the period of validity of Decision 1999/476/EC establishing the ecological criteria for the award of the Community eco-label to laundry detergents (Text with EEA relevance) (notified under document number C(2002) 462)</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0172:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0172:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">1562</classCode>
+        <classCode scheme="eurovoc">2747</classCode>
+        <classCode scheme="eurovoc">2783</classCode>
+        <classCode scheme="eurovoc">3646</classCode>
+        <classCode scheme="eurovoc">5696</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0172-en." lang="en">
+    <body>
+      <head n="1">2002/172/EC: Commission Decision of 25 February 2002 prolonging the period of validity of Decision 1999/476/EC establishing the ecological criteria for the award of the Community eco-label to laundry detergents (Text with EEA relevance) (notified under document number C(2002) 462)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 25 February 2002</p>
+      <p n="4">prolonging the period of validity of Decision 1999/476/EC establishing the ecological criteria for the award of the Community eco-label to laundry detergents</p>
+      <p n="5">(notified under document number C(2002) 462)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/172/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Regulation (EC) No 1980/2000 of the European Parliament and of the Council of 17 July 2000 on a revised Community eco-label award scheme(1), and in particular Articles 4 and 6 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Regulation (EC) No 1980/2000 provides for the award of an eco-label to a product possessing characteristics which enable it to contribute significantly to improvements in relation to key environmental aspects.</p>
+      <p n="13">(2) According to Article 4 of Regulation (EC) No 1980/2000, specific eco-label criteria should be established according to product groups, and a review of the eco-label criteria as well as of the assessment and verification requirements related to the criteria should take place in due time before the end of the period of validity of the criteria specified for each product group, resulting in a proposal for prolongation, withdrawal or revision.</p>
+      <p n="14">(3) By Decision 1999/476/EC(2) the Commission established ecological criteria for the award of the Community eco-label to laundry detergents, which, according to Article 3 thereof, expire on 10 June 2002.</p>
+      <p n="15">(4) Following the review, it is considered appropriate to prolong the period of validity of the definition of the product group and the ecological criteria, unchanged, for a period of eighteen months, in particular to allow those companies that have been awarded the eco-label to continue using the eco-label at least until the revision of Decision 1999/476/EC is completed.</p>
+      <p n="16">(5) The period of validity set out in Article 3 of Decision 1999/476/EC should therefore be extended.</p>
+      <p n="17">(6) The measures set out in this Decision are in accordance with the opinion of the committee set up under Article 17 of Regulation (EC) No 1980/2000,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">The period of validity set out in Article 3 of Decision 1999/476/EC for the product group definition and the criteria of the product group bearing the administrative code number 006 is prolonged until 31 December 2003.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 25 February 2002.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Margot Wallström</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 237, 21.9.2000, p. 1.</p>
+      <p n="28">(2) OJ L 187, 20.7.1999, p. 52.</p>
+    </body>
+  </text>
+</TEI.2>

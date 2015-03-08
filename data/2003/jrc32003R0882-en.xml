@@ -1,0 +1,151 @@
+<TEI.2 id="jrc32003R0882-en" n="32003R0882" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0882 English</title>
+        <title>Council Regulation (EC) No 882/2003 of 19 May 2003 establishing a tuna tracking and verification system</title>
+      </titleStmt>
+      <extent>110 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0882:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0882:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1159</classCode>
+        <classCode scheme="eurovoc">134</classCode>
+        <classCode scheme="eurovoc">1372</classCode>
+        <classCode scheme="eurovoc">2282</classCode>
+        <classCode scheme="eurovoc">2298</classCode>
+        <classCode scheme="eurovoc">2437</classCode>
+        <classCode scheme="eurovoc">2830</classCode>
+        <classCode scheme="eurovoc">3544</classCode>
+        <classCode scheme="eurovoc">4829</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0882-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 882/2003 of 19 May 2003 establishing a tuna tracking and verification system</head>
+      <p n="2">Council Regulation (EC) No 882/2003</p>
+      <p n="3">of 19 May 2003</p>
+      <p n="4">establishing a tuna tracking and verification system</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) As the Community has fishing interests in the eastern Pacific and has started the procedure to accede to the InterAmerican Tropical Tuna Commission, hereinafter referred to as the "IATTC" and in accordance with its cooperation obligations under the United Nations Convention on the Law of the Sea the Community has decided to apply the measures adopted by the IATTC pending its accession to that organisation.</p>
+      <p n="11">(2) The Community has signed the Agreement on the International Dolphin Conservation Programme(3), hereinafter referred to as the "AIDCP", and has decided to apply it provisionally by means of Decision 1999/386/EC(4), pending its full approval. The Community must therefore apply the provisions of the Agreement, the Secretariat for which is provided by the IATTC.</p>
+      <p n="12">(3) In July 1999 the Contracting Parties to the AIDCP decided to establish a system to track and verify tuna caught in the Agreement's area of application. Accordingly, the Community should establish a tuna tracking and verification system for tuna caught in the Agreement area by vessels fishing under the AIDCP. The purpose of this system is to enable dolphin-safe tuna to be distinguished from non-dolphin-safe tuna from the time it is caught to the time it is ready for retail sale. The system is based on the premise that dolphin-safe tuna shall, from the time of capture, during unloading, storage, transfer, and processing, be identified as dolphin-safe tuna.</p>
+      <p n="13">(4) As this Decision has become binding on the Parties to the Agreement, the Community must therefore implement it.</p>
+      <p n="14">(5) Supervision of catch unloading and transport is the responsibility of each Member State, but it can delegate this responsibility to the State where unloading occurs by administrative arrangement or agreement.</p>
+      <p n="15">(6) Council Regulation (EEC) No 2847/93 of 12 October 1993 establishing a control system applicable to the common fisheries policy(5) applies to all fishing activity and all related activities carried out on the territory and in the maritime waters falling within the jurisdiction or sovereignty of the Member States, including the activities of Community fishing vessels operating in the waters of third countries or on the high seas, notwithstanding the fisheries agreements concluded between the Community and third countries or international conventions to which the Community is a signatory.</p>
+      <p n="16">(7) The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(6),</p>
+      <p n="17">HAS ADOPTED THIS REGULATION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Purpose</p>
+      <p n="20">This Regulation lays down the general principles and conditions relating to the Community's application of the tuna tracking and verification system adopted by the Agreement on the International Dolphin Conservation Programme (AIDCP).</p>
+      <p n="21">Article 2</p>
+      <p n="22">Scope</p>
+      <p n="23">This Regulation shall apply to fishing vessels flying the flag of a Member State and registered in the Community, hereinafter referred to as "Community fishing vessels", fishing for tuna in the Agreement Area.</p>
+      <p n="24">This Regulation also applies to all Community vessels, flying the flag of a Member State and registered in the Community, that carry tuna identified by a tracking form. It shall also apply to tuna caught in the Agreement Area, unloaded, stored, transferred or processed in the Community.</p>
+      <p n="25">Article 3</p>
+      <p n="26">Definitions</p>
+      <p n="27">For the purposes of this Regulation, the following definitions shall apply:</p>
+      <p n="28">1. "tuna" means species of the suborder Scombridae, with the exception of the genus Scomber;</p>
+      <p n="29">2. "dolphin" means species of the Delphinidae family, associated with yellowfin tuna fishing in the Agreement Area;</p>
+      <p n="30">3. "Agreement area" means the waters of the eastern Pacific as defined in Article 3 of the AIDCP;</p>
+      <p n="31">4. "dolphin-safe tuna" means tuna captured in sets in which there is no mortality or serious injury of dolphins;</p>
+      <p n="32">5. "non-dolphin-safe tuna" is tuna captured in sets in which mortality or serious injury of dolphins occurs; any tuna caught in sets in which dolphins were intentionally encircled by vessels without a dolphin mortality limit (DML) or whose captain is not on the list of qualified captains maintained by the secretariat, shall not be considered dolphin safe;</p>
+      <p n="33">6. "observer" is the person assigned to the vessel by the IATTC or the Contracting Party's national observer programme to record the vessel's fishing activities;</p>
+      <p n="34">7. "tracking form" is a document presented in accordance with model A in Annex I (dolphin-safe tuna) and model B in Annex II (non-dolphin-safe tuna) hereto;</p>
+      <p n="35">8. "set" is the act of deploying and retrieving the purse seine in order to catch tuna;</p>
+      <p n="36">9. "bin" is any container used to store tuna after unloading, during cold storage or for transport to processing.</p>
+      <p n="37">Article 4</p>
+      <p n="38">Member States' obligations</p>
+      <p n="39">1. The Member States shall be responsible for tracking and verifying, in accordance with this Regulation, tuna caught, transported and unloaded for processing on their territory.</p>
+      <p n="40">2. The obligation in paragraph 1 shall also apply to tuna unloaded outside the Agreement area by vessels operating in that area. In the case of those vessels, the tracking system shall involve confirmation of the weight unloaded.</p>
+      <p n="41">3. The AIDCP secretariat shall issue the tuna tracking forms to the on-board observers, except where the Member State having jurisdiction over the vessel has a national observers' programme in operation. In such cases, Member States shall provide the on-board observer with tracking forms for each of the vessels flying their flag and authorised to fish for tuna in the Agreement area.</p>
+      <p n="42">4. Member States shall take the necessary measures to ensure that the tuna caught in the Agreement area, which is stored, processed or marketed in their territory be clearly identified, until the time it is ready for retail sale, as the case may be, as dolphin-safe tuna or non-dolphin-safe tuna. These procedures shall include the following requirements, namely that:</p>
+      <p n="43">(a) any change in ownership of unprocessed tuna covered by a tracking form number shall be dealt with in accordance with Article 6(4), (5) and (7);</p>
+      <p n="44">(b) during processing, dolphin-safe and non-dolphin safe tuna shall not be processed on the same production line at the same time;</p>
+      <p n="45">(c) processors shall maintain records which are sufficiently clear to permit the lot numbers of processed tuna to be traced back to the corresponding tracking form number.</p>
+      <p n="46">Article 5</p>
+      <p n="47">Obligations during fishing operations</p>
+      <p n="48">1. The observer shall determine whether the tuna caught is "dolphin safe" or not and, based on this determination, the tuna shall be loaded into prepared holds identified to this effect.</p>
+      <p n="49">2. Upon completion of these loading operations, the species and estimated quantity of tuna loaded into each hold, per net, shall be indicated by the observer on the corresponding tracking form, in consultation with the captain or his representative. The captain or his representative and the observer shall initial each completed tracking form.</p>
+      <p n="50">3. Transfers of tuna at sea from the net of one fishing vessel to another fishing vessel must be indicated on the tracking form by the observers of both vessels, specifying the quantity involved, the species and dolphin-safe status of the tuna being transferred.</p>
+      <p n="51">4. At the end of the fishing trip, the captain and observer shall together review the tracking form, enter any additional comments and sign it. A fishing trip terminates when a vessel unloads two thirds or more of its catches, during a single unloading or during a series of partial unloadings.</p>
+      <p n="52">5. The Commission may adopt detailed rules for the application of this Article in accordance with the procedure laid down in Article 10(2).</p>
+      <p n="53">Article 6</p>
+      <p n="54">Unloading, transport, storage and processing operations</p>
+      <p n="55">1. No later than 72 hours before the estimated date of unloading, the vessel captain, the owner or his agent shall notify their national authorities of the dates and places of unloading of all or part of a catch, with a view to its verification.</p>
+      <p n="56">2. If a fishing trip terminates when the vessel has been unloaded, a new tracking form shall be issued for that vessel for its next fishing trip and any tuna retained on board shall be recorded as the first entry on the new form.</p>
+      <p n="57">3. If a fishing trip does not terminate when the vessel has been unloaded, the vessel shall retain the original tracking form and a copy shall be sent, with original signatures, to the national authorities of the port of unloading.</p>
+      <p n="58">4. Where tuna is unloaded from one fishing vessel and then loaded aboard a carrier vessel for transport to a processing location, the flag State of the carrier vessel shall be responsible for obtaining the relevant tuna tracking form, retaining the information on the unloading (including the total weight unloaded if it has been checked), verifying that the dolphin-safe tuna is kept separate from the non-dolphin-safe tuna during loading and transport and transmitting all relevant informations to the AIDCP secretariat, with a copy to the Commission. The two kinds of tuna may be stored in the same place during transport, provided that they remain physically separated by netting or similar material, and the non-dolphin-safe tuna is clearly identified as such.</p>
+      <p n="59">5. If the tuna is unloaded for immediate processing, the Member State where processing takes place shall be responsible for keeping the documentation on unloading and for recording the confirmed weight of the dolphin-safe and non-dolphin-safe tuna. The Member State in question shall use the original tuna tracking form for entering the requisite information into the database and for tracking of the processed tuna, and shall send a copy of this form to the flag Member State of the vessel that fished the tuna concerned.</p>
+      <p n="60">6. Unloaded tuna shall be placed in different bins, according to their dolphin-safe status or otherwise. Each bin shall be identified by the corresponding tuna tracking form number, the status of the tuna and the confirmed weight.</p>
+      <p n="61">7. Each sale of part of the catch must be accompanied by the corresponding reference number throughout all stages of processing. Every transfer of the catch must be notified to the competent authorities of the Member State of unloading/processing, specifying the tracking form number, the species and quantity of tuna involved, and the consignee.</p>
+      <p n="62">8. When tuna is landed in third country ports, the Member State may, under specific agreement, delegate the supervision of unloading and transport to the national authorities of the port involved.</p>
+      <p n="63">When the third country port State is a Party to the AIDCP, the responsibility of the tracking form becomes that of the port State.</p>
+      <p n="64">When the third country port State is not a Party to the AIDCP, the flag Member State of the vessel remains responsible for the tracking form, unless otherwise agreed in a specific bilateral arrangement.</p>
+      <p n="65">9. The Commission may adopt detailed rules for the application of this Article in accordance with the procedure provided for in Article 10(2).</p>
+      <p n="66">Article 7</p>
+      <p n="67">Data transmission</p>
+      <p n="68">1. For the implementation of these rules the Member States shall create a computer database to which the Commission must have computerised access.</p>
+      <p n="69">2. Within 10 days of receipt of a tuna tracking form, the Member States shall send the tracking form, signed by the observer and captain, to the AIDCP secretariat, and a copy to the Commission.</p>
+      <p n="70">3. Member States shall report to the AIDCP secretariat, with a copy to the Commission, the changes in ownership of unprocessed tuna pursuant to Article 4(4).</p>
+      <p n="71">4. Before 1 May each year, Member States shall send a report of their implementation of the tuna tracking and verification system to the Commission, which shall send a report on this basis to the AIDCP secretariat before each annual meeting.</p>
+      <p n="72">5. The Member States shall send the Commission the names and addresses of the officials responsible for implementing the tuna tracking and verification system as established by this Regulation.</p>
+      <p n="73">6. The Commission shall send the AIDCP secretariat the names and addresses of the Commission officials responsible for implementing the tuna tracking and verification system as established by this Regulation.</p>
+      <p n="74">Article 8</p>
+      <p n="75">Annexes</p>
+      <p n="76">Annexes I and II may be amended to apply AIDCP conservation measures which become obligatory for the Community, in accordance with the procedure laid down in Article 10(3).</p>
+      <p n="77">Article 9</p>
+      <p n="78">Implementation</p>
+      <p n="79">The measures necessary for the implementation of Article 5(5) and Article 6(9) shall be adopted in accordance with the procedure referred to in Article 10(2).</p>
+      <p n="80">The measures to be taken pursuant to Article 8 shall be adopted in accordance with the procedure referred to in Article 10(3).</p>
+      <p n="81">Article 10</p>
+      <p n="82">Committee procedures</p>
+      <p n="83">1. The Commission shall be assisted by the Committee established by Article 30 of Council Regulation (EC) No 2371/2002(7).</p>
+      <p n="84">2. Where reference is made to this paragraph, Articles 4 and 7 of Decision 1999/468/EC shall apply.</p>
+      <p n="85">3. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply.</p>
+      <p n="86">4. The period laid down in Article 4(3) and Article 5(6) of Decision 1999/468/EC shall be set at three months.</p>
+      <p n="87">5. The Committee shall adopt its Rules of Procedure.</p>
+      <p n="88">Article 11</p>
+      <p n="89">Entry into force</p>
+      <p n="90">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.</p>
+      <p n="91">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="92">Done at Brussels, 19 May 2003.</p>
+      <p n="93">For the Council</p>
+      <p n="94">The President</p>
+      <p n="95">A.-A. Tsochatzopoulos</p>
+      <p n="96">(1) OJ C 304 E, 30.10.2001, p. 212.</p>
+      <p n="97">(2) Opinion delivered on 27 March 2003 (not yet published in the Official Journal).</p>
+      <p n="98">(3) OJ L 132, 27.5.1999, p. 3.</p>
+      <p n="99">(4) OJ L 147, 12.6.1999, p. 23.</p>
+      <p n="100">(5) OJ L 261, 20.10.1993, p. 1; Regulation as last amended by Regulation (EC) No 2846/98 (OJ L 358, 31.12.1998, p. 5).</p>
+      <p n="101">(6) OJ L 184, 17.7.1999, p. 23.</p>
+      <p n="102">(7) OJ L 358, 31.12.2002, p. 59.</p>
+      <p n="103">ANNEX I</p>
+      <p n="104">Tracking document (model A) for dolphin-safe tuna</p>
+      <p n="105">&gt;PIC FILE= "L_2003127EN.000502.TIF"&gt;</p>
+      <p n="106">&gt;PIC FILE= "L_2003127EN.000601.TIF"&gt;</p>
+      <p n="107">ANNEX II</p>
+      <p n="108">Tracking document (model B) for non-dolphin-safe tuna</p>
+      <p n="109">&gt;PIC FILE= "L_2003127EN.000702.TIF"&gt;</p>
+      <p n="110">&gt;PIC FILE= "L_2003127EN.000801.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,108 @@
+<TEI.2 id="jrc31991R3924-en" n="31991R3924" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31991R3924 English</title>
+        <title>Council Regulation (EEC) No 3924/91 of 19 December 1991 on the establishment of a Community survey of industrial production</title>
+      </titleStmt>
+      <extent>81 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991R3924:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991R3924:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31991R3924-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EEC) No 3924/91 of 19 December 1991 on the establishment of a Community survey of industrial production</head>
+      <p n="2">COUNCIL REGULATION (EEC) N° 3924/91</p>
+      <p n="3">of 19 December 1991</p>
+      <p n="4">on the establishment of a Community survey of industrial production</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Economic Community, and in particular Article 213 thereof,</p>
+      <p n="7">Having regard to the draft Regulation submitted by the Commission,</p>
+      <p n="8">Whereas in order to carry out the tasks devolving on it from the Treaties, especially with the prospect of the internal market as provided for pursuant to Article 8a of the Treaty establishing the European Economic Community, the Commission must have full, up-to-date and reliable information on industrial production in the Community;</p>
+      <p n="9">Whereas companies need such information in order to know their markets; whereas the international dimension of these markets will favour an alignment between production statistics and external trade statistics;</p>
+      <p n="10">Whereas, if production statistics are to be useful and in order to make such an alignment practicable, they must be drawn up at a level of detail which is close to the first six digits of the combined nomenclature, which also corresponds to the coding used in the Harmonized System;</p>
+      <p n="11">Whereas the combined nomenclature is a product nomenclature with which companies are already familiar; whereas it is in their interests to refer thereto rather than create a nomenclature specific to production;</p>
+      <p n="12">Whereas standardized statistics cannot be drawn up with the reliability, speed, flexibility and level of detail required to manage the internal market unless the Member States use survey classification systems derived from the same product list;</p>
+      <p n="13">Whereas, in order to meet national requirements, Member States may legitimately retain or enter in their national nomenclatures supplementary items not contained in the Community product list,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">General</p>
+      <p n="17">Member States shall carry out a Community statistical survey of industrial production.</p>
+      <p n="18">Article 2</p>
+      <p n="19">Survey field and characteristics</p>
+      <p n="20">1. The field covered by the survey referred to in Article 1 shall be that of the activities listed in sections C, D and E of the classification of economic activities in the European Community hereafter referred to as 'NACE (Rev. 1)` set out in Regulation (EEC) N° 3037/90 (1).</p>
+      <p n="21">2. The production recorded in this field shall be defined by the list of products, hereinafter referred to as the 'Prodcom list`, the headings of which shall in principle consist of articles or groups of articles from the combined nomenclature linked with other Community product nomenclatures.</p>
+      <p n="22">3. The survey shall cover the following information for each heading:</p>
+      <p n="23">(a) the physical volume of production sold during the survey period;</p>
+      <p n="24">(b)</p>
+      <p n="25">the value of production sold during the survey period.</p>
+      <p n="26">4. In certain cases the information in question shall be replaced by one of the following:</p>
+      <p n="27">(a) the physical volume of actual production during the survey period, including any which is incorporated into the manufacture of other products from the same undertaking;</p>
+      <p n="28">(b)</p>
+      <p n="29">the value and/or physical volume of actual production during the survey period with a view to marketing.</p>
+      <p n="30">5. In each Member State, the production surveyed shall be only that production actually carried out on its territory; it shall not include production outside its territory on behalf of some of its undertakings.</p>
+      <p n="31">6. The Prodcom list, the information actually collected for each heading and the other implementation procedures of this Regulation shall be established in accordance with the procedure laid down in Article 10. The Prodcom list shall be updated in the same way.</p>
+      <p n="32">Article 3</p>
+      <p n="33">Representativeness</p>
+      <p n="34">1. The production of all undertakings in the Community must be recorded with sufficient accuracy for each NACE Rev. 1 class.</p>
+      <p n="35">2. Member States shall adopt survey methods designed to facilitate the collection of data from undertakings representing at least 90 % of national production per NACE Rev. 1 class. A different threshold may nonetheless be adopted, in exceptional cases, in accordance with the procedure laid down in Article 10.</p>
+      <p n="36">3. For the evaluation of production, account shall be taken of all undertakings employing at least 20 people. This threshold shall be reviewed in the light of the requirement of representativeness referred to in paragraph 2.</p>
+      <p n="37">4. Where the production of Member State's undertakings in a NACE Rev. 1 class represents less than 1 % of the Community total, the data on the headings in that class need not be collected.</p>
+      <p n="38">5. Detailed rules for applying this Article shall be adopted, as necessary, in accordance with the procedure laid down in Article 10.</p>
+      <p n="39">Article 4</p>
+      <p n="40">Survey periods</p>
+      <p n="41">The survey shall cover an annual period of one calendar year.</p>
+      <p n="42">However, for certain headings in the Prodcom list, monthly or quarterly surveys may be decided upon in accordance with the procedure laid down in Article 10.</p>
+      <p n="43">Article 5</p>
+      <p n="44">Collection of data</p>
+      <p n="45">1. The required information shall be collected by the Member States using survey questionnaires the content of which shall comply with the arrangements defined in accordance with the procedure laid down in Article 10.</p>
+      <p n="46">2. The undertakings called upon by Member States to supply information shall be obliged to give true and complete information within the prescribed periods.</p>
+      <p n="47">3. The survey may be waived where Member States already have information from other sources which is at least equivalent as regards precision and quality.</p>
+      <p n="48">4. Where the Statistical Office so requests, Member States shall send it any information, in particular concerning methodology, necessary for the implementation of this Regulation.</p>
+      <p n="49">Article 6</p>
+      <p n="50">Processing of results</p>
+      <p n="51">Member States shall process the completed questionnaires referred to in Article 5 (1) or information from other sources referred to in Article 5 (3) in accordance with the detailed rules adopted in accordance with the procedure laid down in Article 10.</p>
+      <p n="52">Article 7</p>
+      <p n="53">Transmission of results</p>
+      <p n="54">1. Member States shall send the findings relating to a one-year period to the Statistical Office of the European Communities within six months after the end of the reference year. These findings shall include data which are confidential under national law; their confidential nature shall be explicitly stated.</p>
+      <p n="55">2. Findings concerning headings with a survey period shorter than a year shall be sent under the arrangements adopted in accordance with the procedure laid down in Article 10.</p>
+      <p n="56">3. Findings transmitted to the Statistical Office of the European Communities shall be treated as confidential as required by Regulation (Euratom, EEC) N° 1588/90 (1).</p>
+      <p n="57">4. The first survey shall cover 1993. Together with the data for 1993 the Member States shall send retrospective information relating to 1992 using national statistics which correspond as closely as possible to the Prodcom list.</p>
+      <p n="58">Article 8</p>
+      <p n="59">Transitional period</p>
+      <p n="60">Articles 1 to 7 shall be the subject of progressive implementing measures for the surveys covering 1993 and 1994.</p>
+      <p n="61">Article 9</p>
+      <p n="62">The Committee</p>
+      <p n="63">The procedures for implementing this Regulation, including the measures for adjustment to technical progress concerning collection of data and the processing of the results shall be laid down by the Commission after consulting the Statistical Programme Committee set up by Decision 89/382/EEC, Euratom (1), in accordance with the procedure laid down in Article 10.</p>
+      <p n="64">Article 10</p>
+      <p n="65">Procedure</p>
+      <p n="66">1. The representative of the Commission shall submit to the Committee a draft of the measures to be taken. The Committee shall deliver its opinion on the draft, within a time limit which the chairman may lay down according to the urgency of the matter. The opinion shall be delivered by the majority laid down in Article 148 (2) of the Treaty in the case of decisions which the Council is required to adopt on a proposal from the Commission. The votes of the representatives of the Member States within the Committee shall be weighted in the manner set out in that Article. The clairman shall not vote.</p>
+      <p n="67">2. (a) The Commission shall adopt measures which shall apply immediately.</p>
+      <p n="68">(b)</p>
+      <p n="69">However, if these measures are not in accordance with the opinion of the Committee, they shall be communicated by the Commission to the Council forthwith. In that event the Commission shall defer application of the measures which it has decided for a period of three months from the date of such communication.</p>
+      <p n="70">The Council, acting by a qualified majority, may take a different decision within the time limit referred to in the first subparagraph.</p>
+      <p n="71">Article 11</p>
+      <p n="72">Entry into force</p>
+      <p n="73">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="74">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="75">Done at Brussels, 19 December 1991.</p>
+      <p n="76">For the Council</p>
+      <p n="77">The President</p>
+      <p n="78">P. DANKERT</p>
+      <p n="79">(1) OJ N° L 293, 24. 10. 1990, p. 1.</p>
+      <p n="80">(1) OJ N° L 151, 15. 6. 1990, p. 1.</p>
+      <p n="81">(1) OJ N° L 181, 28. 6. 1989, p. 47.</p>
+    </body>
+  </text>
+</TEI.2>

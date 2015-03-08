@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32001D0819-en" n="32001D0819" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0819 English</title>
+        <title>2001/819/EC: Commission Decision of 22 November 2001 amending Decision 98/695/EC laying down special conditions governing imports of fishery and aquaculture products originating in Mexico (Text with EEA relevance) (notified under document number C(2001) 3694)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0819:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0819:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1899</classCode>
+        <classCode scheme="eurovoc">2320</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0819-en." lang="en">
+    <body>
+      <head n="1">2001/819/EC: Commission Decision of 22 November 2001 amending Decision 98/695/EC laying down special conditions governing imports of fishery and aquaculture products originating in Mexico (Text with EEA relevance) (notified under document number C(2001) 3694)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 22 November 2001</p>
+      <p n="4">amending Decision 98/695/EC laying down special conditions governing imports of fishery and aquaculture products originating in Mexico</p>
+      <p n="5">(notified under document number C(2001) 3694)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/819/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/493/EEC of 22 July 1991 laying down the health conditions for the production and the placing on the market of fishery products(1), as last amended by Council Directive 97/79/EC(2), and in particular Article 11(5) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Article 1 of Commission Decision 98/695/EC of 24 November 1998 laying down special conditions governing imports of fishery and aquaculture products originating in Mexico(3), states that the "Dirección General de Calidad Sanitaria de Bienes y Servicios (DGCSBS) de la Secretaría de Salud" shall be the competent authority in Mexico for verifying and certifying compliance of fishery and aquaculture products with the requirements of Directive 91/493/EEC.</p>
+      <p n="13">(2) Following a restructuring of the Mexican administration, the competent authority for issuing health certificates for fishery products has changed to the "Dirección General de Control Sanitario de Productos y Servicios (DGCSPS) de la Secretaría de Salud". This new authority is capable of effectively verifying the application of the laws in force. It is therefore necessary to modify the nomination of the Competent Authority mentioned in Decision 98/695/EC and the model of health certificate included in Annex A to this Decision.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Decision 98/695/EC is modified as follows:</p>
+      <p n="18">1. Article 1 is replaced by the following: "Article 1</p>
+      <p n="19">The 'Dirección General de Control Sanitario de Productos y Servicios (DGCSPS) de la Secretaría de Salud' shall be the competent authority in Mexico for verifying and certifying compliance of fishery and aquaculture products with the requirements of Directive 91/493/EEC."</p>
+      <p n="20">2. Point 2 of the Article 3 is replaced by the following: "2. Certificates must bear the name, capacity and signature of the representative of the DGCSPS and the latter's official stamp in a colour different from that of other endorsements."</p>
+      <p n="21">3. Annex A is replaced by the Annex hereto.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 22 November 2001.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">David Byrne</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 268, 24.9.1991, p. 15.</p>
+      <p n="29">(2) OJ L 24, 30.1.1998, p. 31.</p>
+      <p n="30">(3) OJ L 332, 8.12.1998, p. 9.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">"ANNEX A</p>
+      <p n="33">&gt;PIC FILE= "L_2001307EN.002303.TIF"&gt;</p>
+      <p n="34">&gt;PIC FILE= "L_2001307EN.002401.TIF"&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

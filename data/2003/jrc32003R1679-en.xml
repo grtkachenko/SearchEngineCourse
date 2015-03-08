@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32003R1679-en" n="32003R1679" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1679 English</title>
+        <title>Commission Regulation (EC) No 1679/2003 of 24 September 2003 establishing the estimated production of unginned cotton for the 2003/2004 marketing year and the resulting provisional reduction of the guide price</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1679:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1679:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1182</classCode>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">252</classCode>
+        <classCode scheme="eurovoc">2563</classCode>
+        <classCode scheme="eurovoc">2645</classCode>
+        <classCode scheme="eurovoc">2723</classCode>
+        <classCode scheme="eurovoc">2957</classCode>
+        <classCode scheme="eurovoc">863</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1679-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1679/2003 of 24 September 2003 establishing the estimated production of unginned cotton for the 2003/2004 marketing year and the resulting provisional reduction of the guide price</head>
+      <p n="2">Commission Regulation (EC) No 1679/2003</p>
+      <p n="3">of 24 September 2003</p>
+      <p n="4">establishing the estimated production of unginned cotton for the 2003/2004 marketing year and the resulting provisional reduction of the guide price</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to the Act of Accession of Greece, and in particular Protocol 4 on cotton, as last amended by Council Regulation (EC) No 1050/2001(1),</p>
+      <p n="8">Having regard to Council Regulation (EC) No 1051/2001 of 22 May 2001 on production aid for cotton(2), and in particular the first indent of Article 19(2) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Article 16(1) of Commission Regulation (EC) No 1591/2001 of 2 August 2001 laying down detailed rules for applying the cotton aid scheme(3), as amended by Regulation (EC) No 1486/2002(4), lays down that the estimated production of unginned cotton referred to in the first subparagraph of Article 14(3) of Regulation (EC) No 1051/2001 and the resulting provisional reduction of the guide price must be established before 10 September of the marketing year concerned.</p>
+      <p n="11">(2) Article 19(2) of Regulation (EC) No 1051/2001 lays down that account must be taken of crop forecasts when establishing the estimated production.</p>
+      <p n="12">(3) The provisional reduction of the guide price is calculated in accordance with the first subparagraph of Article 14(3) of Regulation (EC) No 1051/2001, replacing, however, actual production with estimated production plus 15 %.</p>
+      <p n="13">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Natural Fibres,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">1. For the 2003/2004 marketing year, estimated production of unginned cotton is hereby fixed at:</p>
+      <p n="17">- 1065668 tonnes for Greece,</p>
+      <p n="18">- 334247 tonnes for Spain,</p>
+      <p n="19">- 1108 tonnes for Portugal.</p>
+      <p n="20">2. For the 2003/2004 marketing year, the provisional reduction of the guide price is hereby fixed at:</p>
+      <p n="21">- EUR 37,418/100 kg for Greece,</p>
+      <p n="22">- EUR 34,654/100 kg for Spain,</p>
+      <p n="23">- EUR 0/100 kg for Portugal.</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Brussels, 24 September 2003.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">Franz Fischler</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 148, 1.6.2001, p. 1.</p>
+      <p n="32">(2) OJ L 148, 1.6.2001, p. 3.</p>
+      <p n="33">(3) OJ L 210, 3.8.2001, p. 10.</p>
+      <p n="34">(4) OJ L 223, 20.8.2002, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

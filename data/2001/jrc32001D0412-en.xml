@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32001D0412-en" n="32001D0412" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0412 English</title>
+        <title>2001/412/Euratom: Commission Decision of 21 March 2001 concerning the conclusion of the Agreement for cooperation between the European Atomic Energy Community represented by the Commission and the Department of Energy of the United States of America in the field of fusion energy research and development (notified under document number C(2001) 735)</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0412:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0412:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1123</classCode>
+        <classCode scheme="eurovoc">2095</classCode>
+        <classCode scheme="eurovoc">5237</classCode>
+        <classCode scheme="eurovoc">5344</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0412-en." lang="en">
+    <body>
+      <head n="1">2001/412/Euratom: Commission Decision of 21 March 2001 concerning the conclusion of the Agreement for cooperation between the European Atomic Energy Community represented by the Commission and the Department of Energy of the United States of America in the field of fusion energy research and development (notified under document number C(2001) 735)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 21 March 2001</p>
+      <p n="4">concerning the conclusion of the Agreement for cooperation between the European Atomic Energy Community represented by the Commission and the Department of Energy of the United States of America in the field of fusion energy research and development</p>
+      <p n="5">(notified under document number C(2001) 735)</p>
+      <p n="6">(2001/412/Euratom)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 101, second paragraph thereof,</p>
+      <p n="9">Having regard to Council Decision 2001/411/Euratom of 8 March 2001, approving the conclusion, by the Commission, of the Agreement for cooperation between the European Atomic Energy Community represented by the Commission and the Department of Energy of the United States of America in the field of fusion energy research and development(1),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Council adopted a Decision on 22 December 1998 concerning the Fifth Framework Programme of the EAEC for research and training activities (1998-2002)(2) which includes the key action controlled thermonuclear fusion,</p>
+      <p n="12">(2) The Council in its Decision of 25 January 1999(3) adopted a research and training programme in the field of nuclear energy (Euratom) for the period from 1998 to 2002,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Agreement for cooperation between the European Atomic Energy Community represented by the Commission and the Departmentof Energy of the United States of America in the field of fusion energy research and development is hereby concluded for and on behalf of the European Atomic Energy Community.</p>
+      <p n="16">The text of the Agreement is appended to this Decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The Member of the Commission responsible for research or his designated representative is authorised to sign the Agreement on behalf of the European Atomic Energy Community for the purpose of binding the European Atomic Energy Community.</p>
+      <p n="19">Done at Brussels, 21 March 2001.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Philippe Busquin</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) See page 78 of this Official Journal.</p>
+      <p n="24">(2) OJ L 26, 1.2.1999, p. 34.</p>
+      <p n="25">(3) OJ L 64, 12.3.1999, p. 142.</p>
+    </body>
+  </text>
+</TEI.2>

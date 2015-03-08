@@ -1,0 +1,44 @@
+<TEI.2 id="jrc41999D0025-en" n="41999D0025" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41999D0025 English</title>
+        <title>The Schengen acquis - Decision of the Central Group of 22 March 1999 on general principles governing the payment of informers (SCH/C (99) 25)</title>
+      </titleStmt>
+      <extent>8 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0025:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0025:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1708</classCode>
+        <classCode scheme="eurovoc">3355</classCode>
+        <classCode scheme="eurovoc">3843</classCode>
+        <classCode scheme="eurovoc">5551</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41999D0025-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Central Group of 22 March 1999 on general principles governing the payment of informers (SCH/C (99) 25)</head>
+      <p n="2">DECISION OF THE CENTRAL GROUP</p>
+      <p n="3">of 22 March 1999</p>
+      <p n="4">on general principles governing the payment of informers</p>
+      <p n="5">(SCH/C (99)25)</p>
+      <p n="6">Informers play a valuable role in the fight against serious cross-border crime, and drug-related crime in particular, since they usually enjoy the trust of the offenders and thus use of such persons affords an opportunity to gain a general picture of the activities of clandestine criminal organisations and structures.</p>
+      <p n="7">The Working Group on Drugs has addressed this issue under the German Presidency and examined the laws and practices relating to the payment of informers in each Schengen State. Based on the results of this analysis, the Working Group on Drugs has devised common guiding principles for the payment of informers in the form of money or non-material benefits. These general principles are to be regarded as non-binding guidelines in the Schengen area and are intended to contribute to the further enhancement of police and customs cooperation in this sensitive sphere. They are also to serve as a possible guide for those Schengen States currently engaged in drafting or amplifying similar regulations.</p>
+      <p n="8">The Central Group acknowledges and endorses the - non-binding - "General principles governing the payment of informers" (Doc. SCH/Stup (98)72 Rev 2), subject to approval by the Executive Committee.</p>
+    </body>
+  </text>
+</TEI.2>

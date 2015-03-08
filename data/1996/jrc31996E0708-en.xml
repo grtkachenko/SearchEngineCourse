@@ -1,0 +1,51 @@
+<TEI.2 id="jrc31996E0708-en" n="31996E0708" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996E0708 English</title>
+        <title>96/708/CFSP: Common Position of 9 December 1996 defined by the Council on the basis of Article J.2 of the Treaty on European Union concerning the termination of restrictions on economic and financial relations with the Federal Republic of Yougoslavia (Serbia and Montenegro), the United Nations Protected Areas in the Republic of Croatia and those areas of the Republic of Bosnia and Herzegovina under the control of the Bosnian Serb forces</title>
+      </titleStmt>
+      <extent>14 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996E0708:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996E0708:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1616</classCode>
+        <classCode scheme="eurovoc">3112</classCode>
+        <classCode scheme="eurovoc">3219</classCode>
+        <classCode scheme="eurovoc">3490</classCode>
+        <classCode scheme="eurovoc">5931</classCode>
+        <classCode scheme="eurovoc">614</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996E0708-en." lang="en">
+    <body>
+      <head n="1">96/708/CFSP: Common Position of 9 December 1996 defined by the Council on the basis of Article J.2 of the Treaty on European Union concerning the termination of restrictions on economic and financial relations with the Federal Republic of Yougoslavia (Serbia and Montenegro), the United Nations Protected Areas in the Republic of Croatia and those areas of the Republic of Bosnia and Herzegovina under the control of the Bosnian Serb forces</head>
+      <p n="2">COMMON POSITION of 9 December 1996 defined by the Council on the basis of Article J.2 of the Treaty on European Union concerning the termination of restrictions on economic and financial relations with the Federal Republic of Yougoslavia (Serbia and Montenegro), the United Nations Protected Areas in the Republic of Croatia and those areas of the Republic of Bosnia and Herzegovina under the control of the Bosnian Serb forces (96/708/CFSP)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty on European Union, and in particular Article J.2 thereof,</p>
+      <p n="5">Having regard to paragraph 4 of Resolution 1022 (1995) and paragraph 2 of Resolution 1074 (1996) adopted by the United Nations Security Council,</p>
+      <p n="6">HAS DEFINED THE FOLLOWING COMMON POSITION:</p>
+      <p n="7">Article 1</p>
+      <p n="8">The relevant restrictive measures concerning the former Yugoslavia, taken in accordance with Resolutions 757 (1992), 787 (1992), 820 (1993), 942 (1994), 943 (1994), 988 (1995), 992 (1995), 1003 (1995) and 1015 (1995) of the United Nations Security Council will be repealed.</p>
+      <p n="9">Article 2</p>
+      <p n="10">This Common Position shall be published in the Official Journal of the European Communities.</p>
+      <p n="11">Done at Brussels, 9 December 1996</p>
+      <p n="12">For the Council</p>
+      <p n="13">The President</p>
+      <p n="14">B. HOWLIN</p>
+    </body>
+  </text>
+</TEI.2>

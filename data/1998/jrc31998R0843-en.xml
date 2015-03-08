@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31998R0843-en" n="31998R0843" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0843 English</title>
+        <title>Commission Regulation (EC) No 843/98 of 22 April 1998 amending Council Regulation (EC) No 2200/97 as regards the breakdown between the Member States of areas under apple trees, pear trees, peach trees and nectarine trees for which grubbing-up premiums can be granted</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0843:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0843:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1117</classCode>
+        <classCode scheme="eurovoc">1118</classCode>
+        <classCode scheme="eurovoc">2621</classCode>
+        <classCode scheme="eurovoc">4337</classCode>
+        <classCode scheme="eurovoc">4674</classCode>
+        <classCode scheme="eurovoc">80</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0843-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 843/98 of 22 April 1998 amending Council Regulation (EC) No 2200/97 as regards the breakdown between the Member States of areas under apple trees, pear trees, peach trees and nectarine trees for which grubbing-up premiums can be granted</head>
+      <p n="2">COMMISSION REGULATION (EC) No 843/98 of 22 April 1998 amending Council Regulation (EC) No 2200/97 as regards the breakdown between the Member States of areas under apple trees, pear trees, peach trees and nectarine trees for which grubbing-up premiums can be granted</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2200/97 of 30 October 1997 on the improvement of the Community production of apples, pears, peaches and nectarines (1), and in particular Article 1(2) thereof,</p>
+      <p n="6">Whereas Article 1(2) of Regulation (EC) No 2200/97 breaks down between the Member States the area in respect of which grubbing-up premiums as provided for in Article 1(1) of that Regulation can be granted; whereas Article 1(2) of that Regulation stipulates the limit and the procedure applying to amendments to that breakdown;</p>
+      <p n="7">Whereas, according to information received by the Commission up to 1 April 1998, applications for grubbing-up premiums in certain Member States cover areas smaller than those mentioned in Article 1(2) of the abovementioned Regulation; whereas the total areas still available amount to 630 hectares in the case of apple trees and pear trees and 1 264 hectares in the case of peach trees and nectarine trees; whereas those areas should be allocated to Member States where the areas covered by applications exceed those mentioned in Article 1(2) of the abovementioned Regulation and, as a priority, to those Member States where withdrawals represent the highest percentages of production; whereas, however, transfers should not involve areas of less than about 50 hectares;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The table in Article 1(2) of Regulation (EC) No 2200/97 is hereby replaced by the following.</p>
+      <p n="12">&gt;TABLE&gt;</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 22 April 1998.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 303, 6. 11. 1997, p. 3.</p>
+    </body>
+  </text>
+</TEI.2>

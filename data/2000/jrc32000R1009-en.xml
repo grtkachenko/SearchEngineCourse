@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32000R1009-en" n="32000R1009" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1009 English</title>
+        <title>Council Regulation (EC) No 1009/2000 of 8 May 2000 concerning capital increases of the European Central Bank</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1009:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1009:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4115</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+        <classCode scheme="eurovoc">5883</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1009-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1009/2000 of 8 May 2000 concerning capital increases of the European Central Bank</head>
+      <p n="2">Council Regulation (EC) No 1009/2000</p>
+      <p n="3">of 8 May 2000</p>
+      <p n="4">concerning capital increases of the European Central Bank</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Protocol on the Statute of the European System of Central Banks and of the European Central Bank (hereinafter referred to as the "Statute") and in particular Article 28(1) thereof,</p>
+      <p n="7">Having regard to the recommendation made by the European Central Bank (ECB)(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Having regard to the opinion of the Commission of the European Communities(3),</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 107(6) of the Treaty establishing the European Community ("the Treaty") and Article 42 of the Statute,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Articles 28(1) and 28(2) of the Statute require that the ECB be provided by the national central banks with capital of EUR 5000 million, which is to become operational upon the establishment of the ECB.</p>
+      <p n="13">(2) Article 28(1) of the Statute provides that the capital may be increased by such amounts as may be decided by the Governing Council of the ECB, within the limits and under the conditions set by the Council.</p>
+      <p n="14">(3) Article 123(1), in conjunction with Article 107(6) of the Treaty provides that immediately after 1 July 1998 the Council is to adopt the provision referred to in Article 28(1) of the Statute.</p>
+      <p n="15">(4) This Regulation establishes a limit for future increases in the ECB's capital, thereby enabling the Governing Council of the ECB to decide on an actual increase at some point in the future in order to sustain the adequacy of the capital base needed to support the operations of the ECB,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Increases in the capital of the ECB</p>
+      <p n="19">The Governing Council of the ECB may increase the capital of the ECB beyond the amount specified in the first sentence of Article 28(1) of the Statute by an additional amount of up to EUR 5000 million.</p>
+      <p n="20">Article 2</p>
+      <p n="21">Final provision</p>
+      <p n="22">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaty establishing the European Community.</p>
+      <p n="24">Done at Brussels, 8 May 2000.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">J. Pina Moura</p>
+      <p n="28">(1) OJ C 411, 31.12.1998, p. 10.</p>
+      <p n="29">(2) OJ C 219, 30.7.1999, p. 182.</p>
+      <p n="30">(3) Opinion delivered on 8 March 2000 (not yet published in the Official Journal).</p>
+    </body>
+  </text>
+</TEI.2>

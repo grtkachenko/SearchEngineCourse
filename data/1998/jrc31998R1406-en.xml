@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31998R1406-en" n="31998R1406" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1406 English</title>
+        <title>Commission Regulation (EC) No 1406/98 of 1 July 1998 repealing the measures set out in Article 1 of Council Regulation (EC) No 703/98 suspending certain concessions set out in Regulation (EC) No 3066/95 establishing certain concessions in the form of Community tariff quotas for certain agricultural products and providing for the adjustment, as an autonomous and transitional measure, of certain agricultural concessions provided for in the Europe Agreements to take account of the Agreement on agriculture concluded during the Uruguay Round multilateral trade negotiations</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1406:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1406:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1406-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1406/98 of 1 July 1998 repealing the measures set out in Article 1 of Council Regulation (EC) No 703/98 suspending certain concessions set out in Regulation (EC) No 3066/95 establishing certain concessions in the form of Community tariff quotas for certain agricultural products and providing for the adjustment, as an autonomous and transitional measure, of certain agricultural concessions provided for in the Europe Agreements to take account of the Agreement on agriculture concluded during the Uruguay Round multilateral trade negotiations</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1406/98 of 1 July 1998 repealing the measures set out in Article 1 of Council Regulation (EC) No 703/98 suspending certain concessions set out in Regulation (EC) No 3066/95 establishing certain concessions in the form of Community tariff quotas for certain agricultural products and providing for the adjustment, as an autonomous and transitional measure, of certain agricultural concessions provided for in the Europe Agreements to take account of the Agreement on agriculture concluded during the Uruguay Round multilateral trade negotiations</p>
+      <p n="3">THE EUROPEAN COMMISSION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 703/98 of 17 March 1998 suspending certain concessions set out in Regulation (EC) No 3066/95 establishing certain concessions in the form of Community tariff quotas for certain agricultural products and providing for the adjustment, as an autonomous and transitional measure, of certain agricultural concessions provided for in the Europe Agreements to take account of the Agreement on agriculture concluded during the Uruguay Round multilateral trade negotiations (1), and in particular Article 2 thereof,</p>
+      <p n="6">Whereas Council Regulation (EC) No 3066/95 (2), as last amended by Regulation (EC) No 1595/97 (3) establishes certain concessions in the form of Community tariff quotas for certain agricultural products and provides for the adjustment as an autonomous and transitional measure of certain agricultural concessions provided for in the Europe Agreements to take account of the Agreement on agriculture concluded during the Uruguay Round multilateral trade negotiations;</p>
+      <p n="7">Whereas Regulation (EC) No 703/98, in order to protect the Community's trade interests after the Czech Republic increased unilaterally the import duties for certain agricultural products originating in the Community, autonomously suspended in an equivalent way certain of the concessions set out in Regulation (EC) No 3066/95;</p>
+      <p n="8">Whereas the Czech Republic has now repealed the import duties for certain agricultural products, re-establishing the reciprocity of treatment;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committees concerned,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The measures set out in Article 1 of Regulation (EC) No 703/98 are hereby repealed.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 1 July 1998.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 98, 31. 3. 1998, p. 1.</p>
+      <p n="21">(2) OJ L 328, 30. 12. 1995, p. 31.</p>
+      <p n="22">(3) OJ L 216, 8. 8. 1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

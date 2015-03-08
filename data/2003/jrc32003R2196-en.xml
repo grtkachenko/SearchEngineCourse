@@ -1,0 +1,55 @@
+<TEI.2 id="jrc32003R2196-en" n="32003R2196" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2196 English</title>
+        <title>Commission Regulation (EC) No 2196/2003 of 16 December 2003 amending Council Regulation (EC) No 1260/2001 on the common organisation of the markets in the sugar sector</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2196:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2196:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4314</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2196-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2196/2003 of 16 December 2003 amending Council Regulation (EC) No 1260/2001 on the common organisation of the markets in the sugar sector</head>
+      <p n="2">Commission Regulation (EC) No 2196/2003</p>
+      <p n="3">of 16 December 2003</p>
+      <p n="4">amending Council Regulation (EC) No 1260/2001 on the common organisation of the markets in the sugar sector</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1260/2001 of 19 June 2001 on the common organisation of the markets in the sugar sector(1), and in particular the second subparagraph of Article 10(4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The basic quantities of sugar, isoglucose and inulin syrup laid down in Article 11(2) of Regulation (EC) No 1260/2001 are amended by the Act of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union, as from the date of entry into force of that Act. In order to take into account those basic quantities, the table setting out the coefficients in the first subparagraph of Article 10(4) of Regulation (EC) No 1260/2001 should be adapted with effect from the same date.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Sugar Management Committee,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The table in Article 10(4) of Regulation (EC) No 1260/2001 is replaced by the following:</p>
+      <p n="14">"&gt;TABLE&gt;"</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on 1 May 2004, subject to the entry into force of the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 16 December 2003.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 178, 30.6.2001, p. 1. Regulation as last amended by the Act of Accession of 2003.</p>
+    </body>
+  </text>
+</TEI.2>

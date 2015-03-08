@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31996D0587-en" n="31996D0587" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0587 English</title>
+        <title>96/587/EC: Commission Decision of 30 September 1996 on the publication of the list of recognized organizations which have been notified by Member States in accordance with Council Directive 94/57/EC (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0587:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0587:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1448</classCode>
+        <classCode scheme="eurovoc">2611</classCode>
+        <classCode scheme="eurovoc">3117</classCode>
+        <classCode scheme="eurovoc">3647</classCode>
+        <classCode scheme="eurovoc">4033</classCode>
+        <classCode scheme="eurovoc">4827</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0587-en." lang="en">
+    <body>
+      <head n="1">96/587/EC: Commission Decision of 30 September 1996 on the publication of the list of recognized organizations which have been notified by Member States in accordance with Council Directive 94/57/EC (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 30 September 1996 on the publication of the list of recognized organizations which have been notified by Member States in accordance with Council Directive 94/57/EC (Text with EEA relevance) (96/587/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 94/57/EC of 22 November 1994 on common rules and standards for ship inspection and survey organizations and for the relevant activities of maritime administrations (1), and in particular Article 4 (5) thereof,</p>
+      <p n="6">Whereas Member States have notified organizations recognized by them pursuant to Article 4 (1) of Directive 94/57/EC,</p>
+      <p n="7">HAS ADOPTED THIS DECISION:</p>
+      <p n="8">Article 1</p>
+      <p n="9">The organizations recognized by Member States pursuant to Article 4 (1) of Council Directive 94/57/EC are those listed in the Annex to this Decision.</p>
+      <p n="10">Article 2</p>
+      <p n="11">This Decision is addressed to the Member States.</p>
+      <p n="12">Done at Brussels, 30 September 1996.</p>
+      <p n="13">For the Commission</p>
+      <p n="14">Neil KINNOCK</p>
+      <p n="15">Member of the Commission</p>
+      <p n="16">(1) OJ No L 319, 12. 12. 1994, p. 20.</p>
+      <p n="17">ANNEX</p>
+      <p n="18">American Bureau of Shipping (ABS)</p>
+      <p n="19">Bureau Veritas (BV)</p>
+      <p n="20">China classification Society (CCS)</p>
+      <p n="21">Det Norske Veritas (DNV)</p>
+      <p n="22">Germanischer Lloyd (GL)</p>
+      <p n="23">Hellenic Register of Shipping (HR)</p>
+      <p n="24">Korean Register of Shipping (KR)</p>
+      <p n="25">Lloyd's Register of Shipping (LR)</p>
+      <p n="26">Nippon Kaiji Kyokai (NK)</p>
+      <p n="27">Registro italiano navale (RINA)</p>
+    </body>
+  </text>
+</TEI.2>

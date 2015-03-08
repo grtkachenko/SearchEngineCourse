@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32003R1554-en" n="32003R1554" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1554 English</title>
+        <title>Regulation (EC) No 1554/2003 of the European Parliament and of the Council of 22 July 2003 amending Council Regulation (EEC) No 95/93 on common rules for the allocation of slots at Community airports</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1554:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1554:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">195</classCode>
+        <classCode scheme="eurovoc">2400</classCode>
+        <classCode scheme="eurovoc">2457</classCode>
+        <classCode scheme="eurovoc">4505</classCode>
+        <classCode scheme="eurovoc">5152</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1554-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 1554/2003 of the European Parliament and of the Council of 22 July 2003 amending Council Regulation (EEC) No 95/93 on common rules for the allocation of slots at Community airports</head>
+      <p n="2">Regulation (EC) No 1554/2003 of the European Parliament and of the Council</p>
+      <p n="3">of 22 July 2003</p>
+      <p n="4">amending Council Regulation (EEC) No 95/93 on common rules for the allocation of slots at Community airports</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 80(2) thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Economic and Social Committee(2),</p>
+      <p n="9">After consulting the Committee of the Regions,</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The war launched in March 2003 against Iraq and the political developments that followed, as well as the outbreak of the Severe Acute Respiratory Syndrome (SARS), have seriously affected the air transport operations of air carriers and have triggered a significant reduction in demand in the beginning of the summer 2003 scheduling season.</p>
+      <p n="13">(2) In order to make sure that the non-utilisation of slots allocated for the 2003 season does not cause air carriers to lose their entitlement to those slots, it is necessary to provide clearly and unambiguously that the 2003 and 2004 scheduling seasons are adversely affected by the war and the SARS outbreak.</p>
+      <p n="14">(3) Regulation (EEC) No 95/93(4) should therefore be amended accordingly,</p>
+      <p n="15">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The following Article 10b shall be inserted in Council Regulation (EEC) No 95/93:</p>
+      <p n="18">"Article 10b</p>
+      <p n="19">For the purpose of Article 10(3), coordinators shall accept that air carriers are entitled to the same series of slots during the summer 2004 scheduling season as were allocated to them during the summer 2003 scheduling season."</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 22 July 2003.</p>
+      <p n="24">For the European Parliament</p>
+      <p n="25">The President</p>
+      <p n="26">P. Cox</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">G. Alemanno</p>
+      <p n="30">(1) OJ C 270, 25.9.2001, p. 131 E.</p>
+      <p n="31">(2) OJ C 125, 27.5.2002, p. 8.</p>
+      <p n="32">(3) Opinion of the European Parliament of 19 June 2003 (not yet published in the Official Journal) and Decision of the Council of 15 July 2003.</p>
+      <p n="33">(4) OJ L 14, 22.1.1993, p. 1. Regulation as amended by Regulation (EC) No 894/2002 of the European Parliament and of the Council (OJ L 142, 31.5.2002, p. 3).</p>
+    </body>
+  </text>
+</TEI.2>

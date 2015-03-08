@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31997R2520-en" n="31997R2520" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R2520 English</title>
+        <title>Commission Regulation (EC) No 2520/97 of 15 December 1997 adapting Council Regulation (EC) No 2200/96 as regards the combined nomenclature codes for tomatoes and table grapes</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2520:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2520:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1605</classCode>
+        <classCode scheme="eurovoc">2069</classCode>
+        <classCode scheme="eurovoc">2888</classCode>
+        <classCode scheme="eurovoc">4381</classCode>
+        <classCode scheme="eurovoc">5751</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R2520-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2520/97 of 15 December 1997 adapting Council Regulation (EC) No 2200/96 as regards the combined nomenclature codes for tomatoes and table grapes</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2520/97 of 15 December 1997 adapting Council Regulation (EC) No 2200/96 as regards the combined nomenclature codes for tomatoes and table grapes</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 234/79 of 5 February 1979 on the procedure for adjusting the Common Customs Tariff nomenclature used for agricultural products (1), as last amended by Regulation (EC) No 3290/94 (2), and in particular Article 2 (1) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 2086/97 of 4 November 1997 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (3) amends the combined nomenclature, in particular as regards tomatoes and table grapes;</p>
+      <p n="7">Whereas the table in Article 1 (2) of Council Regulation (EC) No 2200/96 of 18 October 1996 on the common organization of the market in fruit and vegetables (4) should be adapted;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fruit and Vegetables,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The table in Article 1 (2) of Regulation (EC) No 2200/96 is hereby amended as follows:</p>
+      <p n="12">&gt;TABLE&gt;</p>
+      <p n="13">is replaced by:</p>
+      <p n="14">&gt;TABLE&gt;</p>
+      <p n="15">&gt;TABLE&gt;</p>
+      <p n="16">is replaced by:</p>
+      <p n="17">&gt;TABLE&gt;</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on 1 January 1998.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 15 December 1997.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz FISCHLER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 34, 9. 2. 1979, p. 2.</p>
+      <p n="26">(2) OJ L 349, 31. 12. 1994, p. 105.</p>
+      <p n="27">(3) OJ L 312, 14. 11. 1997, p. 1.</p>
+      <p n="28">(4) OJ L 297, 21. 11. 1996, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

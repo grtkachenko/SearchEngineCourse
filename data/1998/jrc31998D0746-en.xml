@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31998D0746-en" n="31998D0746" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0746 English</title>
+        <title>98/746/EC: Council Decision of 21 December 1998 concerning the approval, on behalf of the Community, of amendments to Appendices II and III to the Berne Convention on the conservation of European wildlife and natural habitats adopted at the 17th meeting of the Convention's Standing Committee</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0746:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0746:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">2826</classCode>
+        <classCode scheme="eurovoc">2827</classCode>
+        <classCode scheme="eurovoc">3150</classCode>
+        <classCode scheme="eurovoc">3472</classCode>
+        <classCode scheme="eurovoc">865</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0746-en." lang="en">
+    <body>
+      <head n="1">98/746/EC: Council Decision of 21 December 1998 concerning the approval, on behalf of the Community, of amendments to Appendices II and III to the Berne Convention on the conservation of European wildlife and natural habitats adopted at the 17th meeting of the Convention's Standing Committee</head>
+      <p n="2">COUNCIL DECISION of 21 December 1998 concerning the approval, on behalf of the Community, of amendments to Appendices II and III to the Berne Convention on the conservation of European wildlife and natural habitats adopted at the 17th meeting of the Convention's Standing Committee (98/746/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 130s(1), the first sentence of Article 228(2), and the first subparagraph of Article 228(3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas the European Community is a Contracting Party to the Convention on the Conservation of European Wildlife and Natural Habitats by virtue of Decision 82/72/EEC (3);</p>
+      <p n="8">Whereas, thanks to decisive support from the Community, four species were added to Appendix II to the Convention and 22 to Appendix III to the Convention at the 17th meeting of the Berne Convention Standing Committee held in Strasbourg from 1 to 5 December 1997; whereas the Commission took part in that meeting on behalf of the Community;</p>
+      <p n="9">Whereas two of those species are covered by Council Directive 79/409/EEC of 2 April 1979 on the conservation of wild birds (4) and three of them are covered by Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (5);</p>
+      <p n="10">Whereas, in accordance with Article 17 of the Convention, any amendments to the Appendices to the Convention are to enter into force for all Contracting Parties, with the exception of any which notify objections pursuant to paragraph 3 of that Article, three months after their adoption by the Standing Committee;</p>
+      <p n="11">Whereas the Community must approve the said amendments to Appendices II and III to the Convention adopted at the 17th meeting of the Standing Committee, in accordance with Article 17 of the Convention,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The inclusion of the species Acipenser sturio, Puffinus yelkouan, Phalacrocorax aristotelis (in the Mediterranean) and Valencia leutourneuxi in Appendix II to the Convention on the Conservation of European Wildlife and Natural Habitats, and of the species Hippospongia communis, Spongia agaricina, Spongia officinalis, Spongia zimocca, Antipathes sp. plur., Corallium rubrun, Paracentrotus lividus, Homarus gammarus, Maja squinado, Palinurus elephas, Scyllarides latus, Scyllarides pigmaeus, Scyllarus arctus, Epinephelus marginatus, Isurus oxyrinchus, Lamna nasus, Mobula mobular, Prionace glauca, Raja alba, Scioena umbra, Squatina squatina, and Umbrina cirrosa (all 22 species in the Mediterranean) in Appendix III to that Convention is hereby approved on behalf of the European Community.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="17">Done at Brussels, 21 December 1998.</p>
+      <p n="18">For the Council</p>
+      <p n="19">The President</p>
+      <p n="20">M. BARTENSTEIN</p>
+      <p n="21">(1) OJ C 116, 16. 4. 1998, p. 24.</p>
+      <p n="22">(2) OJ C 328, 26. 10. 1998, p. 81.</p>
+      <p n="23">(3) OJ L 38, 10. 2. 1982, p. 1.</p>
+      <p n="24">(4) OJ L 103, 25. 4. 1979, p. 1. Directive as last amended by Directive 97/49/EC (OJ L 223, 13. 8. 1997, p. 9).</p>
+      <p n="25">(5) OJ L 206, 22. 7. 1992, p. 7. Directive as last amended by Directive 97/62/EC (OJ L 305, 8. 11. 1997, p. 42).</p>
+    </body>
+  </text>
+</TEI.2>

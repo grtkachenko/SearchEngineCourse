@@ -1,0 +1,48 @@
+<TEI.2 id="jrc31995E0379-en" n="31995E0379" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995E0379 English</title>
+        <title>95/379/CFSP: Common Position of 18 September 1995 defined by the Council on the basis of Article J.2 of the Treaty on European Union, concerning blinding lasers</title>
+      </titleStmt>
+      <extent>11 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995E0379:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995E0379:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2567</classCode>
+        <classCode scheme="eurovoc">3432</classCode>
+        <classCode scheme="eurovoc">3455</classCode>
+        <classCode scheme="eurovoc">3650</classCode>
+        <classCode scheme="eurovoc">4065</classCode>
+        <classCode scheme="eurovoc">4697</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995E0379-en." lang="en">
+    <body>
+      <head n="1">95/379/CFSP: Common Position of 18 September 1995 defined by the Council on the basis of Article J.2 of the Treaty on European Union, concerning blinding lasers</head>
+      <p n="2">COMMON POSITION of 18 September 1995 defined by the Council on the basis of Article J.2 of the Treaty on European Union, concerning blinding lasers (95/379/CFSP)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty on European Union, and in particular Article J.2 thereof,</p>
+      <p n="5">HAS DEFINED THE FOLLOWING COMMON POSITION:</p>
+      <p n="6">1. In the context of the Review Conference for the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be deemed to be Excessively Injurious or to have Indiscriminate Effects, hereafter referred to as the '1980 Convention`, the Member States shall actively promote, in addition to the objectives referred to in Title II of Council Decision 95/170/CFSP of 12 May 1995 concerning the joint action adopted by the Council on the basis of Article J.3 of the Treaty on European Union on anti-personnel mines (1), the adoption of an additional protocol to the 1980 Convention concerning blinding lasers which satisfies the humanitarian concern to avoid unnecessary suffering without limiting the legitimate military use of lasers.</p>
+      <p n="7">The Member States of the European Union will examine constructively the proposal contained in the final report submitted to the Conference by the group of government experts.</p>
+      <p n="8">2. This Common Position will be re-examined after the Review Conference for the 1980 Convention.</p>
+      <p n="9">3. This Common Position shall be published in the Official Journal.</p>
+      <p n="10">Done at Brussels, 18 September 1995.</p>
+      <p n="11">For the Council The President P. SOLBES MIRA</p>
+    </body>
+  </text>
+</TEI.2>

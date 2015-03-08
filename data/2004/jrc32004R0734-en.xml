@@ -1,0 +1,58 @@
+<TEI.2 id="jrc32004R0734-en" n="32004R0734" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0734 English</title>
+        <title>Commission Regulation (EC) No 734/2004 of 20 April 2004 establishing transitional measures for the application of Regulation (EC) No 2316/1999 as regards the minimum area for aid applications for the 2004/2005 marketing year by reason of the accession of Malta to the European Union</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0734:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0734:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">12</classCode>
+        <classCode scheme="eurovoc">1774</classCode>
+        <classCode scheme="eurovoc">755</classCode>
+        <classCode scheme="eurovoc">937</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0734-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 734/2004 of 20 April 2004 establishing transitional measures for the application of Regulation (EC) No 2316/1999 as regards the minimum area for aid applications for the 2004/2005 marketing year by reason of the accession of Malta to the European Union</head>
+      <p n="2">Commission Regulation (EC) No 734/2004</p>
+      <p n="3">of 20 April 2004</p>
+      <p n="4">establishing transitional measures for the application of Regulation (EC) No 2316/1999 as regards the minimum area for aid applications for the 2004/2005 marketing year by reason of the accession of Malta to the European Union</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular Article 2(3) thereof,</p>
+      <p n="8">Having regard to the Act of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular the first paragraph of Article 41 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Commission Regulation (EC) No 2316/1999 of 22 October 1999 laying down detailed rules for the application of Council Regulation (EC) No 1251/1999 establishing a support system for producers of arable crops(1) lays down the conditions for granting area payments. In particular it requires a minimum size of 0,3 hectare per aid application.</p>
+      <p n="11">(2) Malta has a very large number of small farms, less than 0,3 hectare in size. To avoid many farmers being disqualified from the aid scheme, the Maltese authorities should be permitted to set a lower threshold for the minimum area for the 2004/2005 marketing year.</p>
+      <p n="12">(3) The measures provided for in this regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">As an exception to Article 3(1)(d) of Regulation (EC) No 2316/1999, Malta may set the minimum size for applications for area payments, at less than 0,3 hectare for the 2004/2005 marketing year.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force subject to and on the date of entry into force of the Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 20 April 2004.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 280, 30.10.1999, p. 43. Regulation as last amended by Regulation (EC) No 206/2004 (OJ L 34, 6.2.2004, p. 4).</p>
+    </body>
+  </text>
+</TEI.2>

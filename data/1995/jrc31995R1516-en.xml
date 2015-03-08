@@ -1,0 +1,63 @@
+<TEI.2 id="jrc31995R1516-en" n="31995R1516" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1516 English</title>
+        <title>Commission Regulation (EC) No 1516/95 of 29 June 1995 amending Regulation (EEC) No 1722/93 laying down detailed rules for the application of Council Regulations (EEC) No 1766/92 and (EEC) No 1418/76 concerning production refunds in the cereals and rice sectors respectively</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1516:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1516:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1654</classCode>
+        <classCode scheme="eurovoc">3576</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1516-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1516/95 of 29 June 1995 amending Regulation (EEC) No 1722/93 laying down detailed rules for the application of Council Regulations (EEC) No 1766/92 and (EEC) No 1418/76 concerning production refunds in the cereals and rice sectors respectively</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1516/95 of 29 June 1995 amending Regulation (EEC) No 1722/93 laying down detailed rules for the application of Council Regulations (EEC) No 1766/92 and (EEC) No 1418/76 concerning production refunds in the cereals and rice sectors respectively</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the market in cereals (1), as last amended by the Act of Accession of Austria, Finland and Sweden and by Regulation (EC) No 3290/94 (2), and in particular Article 7 thereof,</p>
+      <p n="6">Having regard to Council Regulation (EEC) No 1418/76 of 21 June 1976 on the common organization of the market in rice (3), as last amended by Regulation (EC) No 3290/94, and in particular Article 9 thereof,</p>
+      <p n="7">Whereas Commission Regulation (EEC) No 1722/93 of 30 June 1993 laying down detailed rules for the application of Council Regulations (EEC) No 1766/92 and (EEC) No 1418/76 concerning production refunds in the cereals and rice sectors respectively (4), as last amended by Regulation (EC) No 3125/94 (5), must be adapted to take account of the import regime for cereals resulting from the Agreement on Agriculture concluded in the framework of the Uruguay Round of multilateral trade negotiations; whereas, in order to verify that the value of the production refund is correct, prices of maize and/or of wheat and of barley on the world and Community markets must be kept under observation;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EEC) No 1722/93 is hereby amended as follows:</p>
+      <p n="12">1. Article 1 (6) is replaced by the following:</p>
+      <p n="13">'6. Starches imported into the Community under an import scheme which gives rise to a reduction in import duty may not benefit from a production refund.`;</p>
+      <p n="14">2. paragraphs 2 and 3 of Article 3 are replaced by the following:</p>
+      <p n="15">'2. The refund per tonne of maize starch, wheat starch, potato starch, rice starch or broken rice starch shall be calculated on the basis, inter alia, of the difference between:</p>
+      <p n="16">(i) the intervention price for cereals for the month in question taking account of the differences in the market prices for maize;</p>
+      <p n="17">and (ii) the average of the representative prices on importation cif at Rotterdam used to calculate the import duty on maize during the two weeks preceding the month of application, multiplied by a coefficient of 1,60.</p>
+      <p n="18">3. The refund per tonne of barley starch or oat starch shall be calculated in particular on the basis of the difference between:</p>
+      <p n="19">(i) the intervention price for cereals for the month in question taking account of the differences in the market prices for barley;</p>
+      <p n="20">and (ii) the average of the representative prices on importation cif at Rotterdam used to calculate the import duty on barley during the two weeks preceding the month of application, multiplied by a coefficient of 2,7.`;</p>
+      <p n="21">3. Article 12 is replaced by the following:</p>
+      <p n="22">'Article 12 Within three months of the end of each period as defined in Article 3 (1), Member States shall notify the Commission of the type, quantities and origin of starch (maize, wheat, potato, barley, oats or rice) for which refunds have been paid and the type and quantities of products for which the starch has been used.`</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="25">It shall apply from 1 July 1995.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Brussels, 29 June 1995.</p>
+      <p n="28">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

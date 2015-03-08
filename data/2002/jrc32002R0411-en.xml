@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32002R0411-en" n="32002R0411" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0411 English</title>
+        <title>Commission Regulation (EC) No 411/2002 of 4 March 2002 adapting Council Regulation (EC) No 3072/95 as regards the Combined Nomenclature codes for certain products derived from rice</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0411:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0411:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2066</classCode>
+        <classCode scheme="eurovoc">2069</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+        <classCode scheme="eurovoc">4381</classCode>
+        <classCode scheme="eurovoc">5751</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0411-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 411/2002 of 4 March 2002 adapting Council Regulation (EC) No 3072/95 as regards the Combined Nomenclature codes for certain products derived from rice</head>
+      <p n="2">Commission Regulation (EC) No 411/2002</p>
+      <p n="3">of 4 March 2002</p>
+      <p n="4">adapting Council Regulation (EC) No 3072/95 as regards the Combined Nomenclature codes for certain products derived from rice</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 234/79 of 5 February 1979 on the procedure for adjusting the Common Customs Tariff nomenclature used for agricultural products(1), as last amended by Regulation (EC) No 3290/94(2), and in particular Article 2(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EC) No 2031/2001 of 6 August 2001 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff(3) amends the Combined Nomenclature particularly as regards groats, meal and pellets of rice.</p>
+      <p n="10">(2) The table in Article 1(1) of Council Regulation (EC) No 3072/95 of 22 December 1995 on the common organisation of the market in rice(4), as last amended by Regulation (EC) No 1987/2001(5), must accordingly be adapted.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The following text in the table in Article 1(1) of Regulation (EC) No 3072/95: "&gt;TABLE&gt;"</p>
+      <p n="15">is replaced by the following: "&gt;TABLE&gt;"</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 4 March 2002.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 34, 9.2.1979, p. 2.</p>
+      <p n="24">(2) OJ L 349, 31.12.1994, p. 105.</p>
+      <p n="25">(3) OJ L 279, 23.10.2001, p. 1.</p>
+      <p n="26">(4) OJ L 329, 30.12.1995, p. 18.</p>
+      <p n="27">(5) OJ L 271, 12.10.2001, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>

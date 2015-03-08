@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31999R2701-en" n="31999R2701" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2701 English</title>
+        <title>Council Regulation (EC) No 2701/1999 of 14 December 1999 amending Regulation (EC) No 2201/96 on the common organisation of the markets in processed fruit and vegetable products</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2701:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2701:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1118</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2563</classCode>
+        <classCode scheme="eurovoc">2730</classCode>
+        <classCode scheme="eurovoc">2731</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2701-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2701/1999 of 14 December 1999 amending Regulation (EC) No 2201/96 on the common organisation of the markets in processed fruit and vegetable products</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2701/1999</p>
+      <p n="3">of 14 December 1999</p>
+      <p n="4">amending Regulation (EC) No 2201/96 on the common organisation of the markets in processed fruit and vegetable products</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Union, and in particular Article 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Article 6 of Regulation (EC) No 2201/96(3) lays down that the quota fixed for granting production aid for products processed from tomatoes is to be shared out each year among the Member States; for the 1999/2000 marketing year this apportionment is to be calculated on the basis of the average quantities produced in compliance with minimum prices during 1997/1998 and 1998/1999; from 2000/2001 onwards it is to be based on the average quantities produced during the three marketing years preceding the marketing year for which the allocation is made;</p>
+      <p n="12">(2) In Portugal the 1997/1998 marketing year was characterised by extremely unfavourable weather conditions which led to an unusually sharp fall in production; an allocation of quotas on the basis of this unusually low production in Portugal would not take account of the production potential in this Member State under normal weather conditions;</p>
+      <p n="13">(3) Exceptionally, for the two marketing years concerned by the unusual fall in production of tomatoes for processing - 1999/2000 and 2000/2001 - only, Portugal should be given an additional quota for the production of tomato concentrates to make up for the loss of quota resulting from the abnormal conditions in 1997/1998 without injuring producers in the other Member States; this additional quantity should be fixed at 83468 tonnes for 1999/2000 and calculated, for 2000/2001, by replacing the quantity actually processed during the 1997/1998 marketing year by the quantity of 884592 tonnes originally allocated to Portugal;</p>
+      <p n="14">(4) This Regulation concerns the 1999/2000 marketing year; this marketing year started on 15 June 1999; this Regulation should apply from that date,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The following paragraph shall be inserted in Article 6 of Regulation (EC) No 2201/96:</p>
+      <p n="18">"3a. Notwithstanding paragraph 3, an additional quantity of fresh tomatoes intended for the production of concentrate shall be allocated to Portugal for 1999/2000 and 2000/2001. This quantity shall be:</p>
+      <p n="19">- 83468 tonnes for 1999/2000, and</p>
+      <p n="20">- for 2000/2001, the difference between the quantity calculated in accordance with paragraph 3 and that calculated by replacing the quantity of fresh tomatoes used in Portugal for the production of concentrate in the 1997/1998 marketing year by 884592 tonnes.</p>
+      <p n="21">The volume of fresh tomatoes referred to in paragraph 1 and the quantity of fresh tomatoes intended for the production of concentrate referred to in the first indent of the second subparagraph of paragraph 2 shall be increased, for these two marketing years concerned, by the additional quantity allocated to Portugal."</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">It shall apply from 15 June 1999.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 14 December 1999.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">K. HEMILÄ</p>
+      <p n="30">(1) Opinion delivered 2 December 1999 (not yet published in the Official Journal).</p>
+      <p n="31">(2) Opinion delivered on 20 October 1999 (not yet published in the Official Journal).</p>
+      <p n="32">(3) OJ L 297, 21.11.1996, p. 29. Regulation as last amended by Regulation (EC) No 2199/97 (OJ L 303, 6.11.1997, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

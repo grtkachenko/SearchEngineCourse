@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31981L0854-en" n="31981L0854" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31981L0854 English</title>
+        <title>Council Directive 81/854/EEC of 19 October 1981 adapting, consequent upon the accession of Greece, Directive 79/409/EEC on the conservation of wild birds</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981L0854:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981L0854:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31981L0854-en." lang="en">
+    <body>
+      <head n="1">Council Directive 81/854/EEC of 19 October 1981 adapting, consequent upon the accession of Greece, Directive 79/409/EEC on the conservation of wild birds</head>
+      <p n="2">COUNCIL DIRECTIVE of 19 October 1981 adapting, consequent upon the accession of Greece, Directive 79/409/EEC on the conservation of wild birds (81/854/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 235 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Whereas the Annexes to Directive 79/409/EEC (2) should be adapted to take account of the Accession of Greece,</p>
+      <p n="8">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Annexes I, II and III to Directive 79/409/EEC are hereby replaced by Annexes I, II and III to this Directive.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Directive is addressed to the Member States.</p>
+      <p n="13">Done at Luxembourg, 19 October 1981.</p>
+      <p n="14">For the Council</p>
+      <p n="15">The President</p>
+      <p n="16">P. WALKER</p>
+      <p n="17">(1) OJ No C 144, 15.6.1981, p. 37. (2) OJ No L 103, 25.4.1979, p. 1.</p>
+      <p n="18">ANNEX I</p>
+      <p n="19">&gt;PIC FILE= "T0020941"&gt;</p>
+      <p n="20">&gt;PIC FILE= "T0020942"&gt;</p>
+      <p n="21">&gt;PIC FILE= "T0020943"&gt;</p>
+      <p n="22">&gt;PIC FILE= "T0020944"&gt;</p>
+      <p n="23">ANNEX II/1</p>
+      <p n="24">&gt;PIC FILE= "T0020945"&gt;</p>
+      <p n="25">&gt;PIC FILE= "T0020946"&gt;</p>
+      <p n="26">ANNEX II/2</p>
+      <p n="27">&gt;PIC FILE= "T0020947"&gt;</p>
+      <p n="28">&gt;PIC FILE= "T0020948"&gt;</p>
+      <p n="29">&gt;PIC FILE= "T0020949"&gt;</p>
+      <p n="30">&gt;PIC FILE= "T0020950"&gt;</p>
+      <p n="31">ANNEX III/1 - ANNEX III/2</p>
+      <p n="32">&gt;PIC FILE= "T0020951"&gt;</p>
+      <p n="33">ANNEX III/3</p>
+      <p n="34">&gt;PIC FILE= "T0020952"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

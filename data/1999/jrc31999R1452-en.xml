@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31999R1452-en" n="31999R1452" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1452 English</title>
+        <title>Commission Regulation (EC) No 1452/1999 of 1 July 1999 amending Regulation (EEC) No 1964/82 laying down the conditions for granting special export refunds on certain cuts of boned meat of bovine animals</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1452:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1452:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">4688</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1452-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1452/1999 of 1 July 1999 amending Regulation (EEC) No 1964/82 laying down the conditions for granting special export refunds on certain cuts of boned meat of bovine animals</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1452/1999</p>
+      <p n="3">of 1 July 1999</p>
+      <p n="4">amending Regulation (EEC) No 1964/82 laying down the conditions for granting special export refunds on certain cuts of boned meat of bovine animals</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organisation of the market in beef and veal(1), as last amended by Regulation (EC) No 1633/98(2), and in particular Article 13(12) thereof,</p>
+      <p n="8">(1) Whereas Commission Regulation (EEC) No 1964/82(3), as amended by Regulation (EC) No 2469/97(4), lays down the conditions for granting special export refunds on certain cuts of boned meat from hindquarters of adult male cattle;</p>
+      <p n="9">(2) Whereas the grant of the special refund is subject to the requirement that all the quantity of meat obtained by boning the quarters be exported except in cases of force majeure and without prejudice to the requirements of Article 6(2) of that Regulation;</p>
+      <p n="10">(3) Whereas the circumstances in which the requirement to export all the meat obtained is not fully met without losing entitlement to the refund should be extended; whereas, however, that possibility should be limited and made subject to restrictions to prevent misuse;</p>
+      <p n="11">(4) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Article 6 of Regulation (EEC) No 1964/82 is replaced by the following: "Article 6</p>
+      <p n="15">1. The grant of the special refund shall be conditional, except in circumstances of force majeure, on exportation of the total quantity of cuts produced by boning covered by the supervision referred to in Article 2(3) and indicated in the certificate(s) referred to in Article 4(1).</p>
+      <p n="16">The operator may, however, sell within the Community fillet, with or without chain muscle, bones, large tendons, cartilages, pieces of fat and other scraps left over from boning. Should the operator wish to market the fillet within the Community, he shall indicate this in the declaration referred to in Article 2(1). In addition, the words 'without fillet' shall be entered in box 4 of the certificate(s) referred to in Article 4(1).</p>
+      <p n="17">2. If the quantity exported is less than the weight given in box 6 of the certificate referred to in Article 4(1) without the difference exceeding 10 % of that weight, the special refund shall be reduced. The percentage reduction shall be five times the percentage difference in weight established.</p>
+      <p n="18">3. Where the difference in weight exceeds 10 %, the special refund shall be the same as the refund on products falling within CN code 0201 30 00 91/50 applicable on the date given in box 21 of the export licence on the basis of which the formalities under Article 3(1) or Article 26(1) of Regulation (EEC) No 3665/87 were completed.</p>
+      <p n="19">4. The penalty laid down in Article 11(1)(a) of Regulation (EEC) No 3665/87 shall not apply in the cases referred to in paragraphs 2 and 3."</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="22">It shall apply to operations for which a final decision on payment or release of the security has not been taken on the date of entry into force of this Regulation.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 1 July 1999.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz FISCHLER</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 148, 28.6.1968, p. 24.</p>
+      <p n="29">(2) OJ L 210, 28.7.1998, p. 17.</p>
+      <p n="30">(3) OJ L 212, 21.7.1982, p. 48.</p>
+      <p n="31">(4) OJ L 341, 12.12.1997, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32002D0761-en" n="32002D0761" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0761 English</title>
+        <title>2002/761/EC: Council Decision of 22 July 2002 concerning the conclusion of the Interim Agreement on trade and trade-related matters between the European Community, of the one part, and the Republic of Lebanon, of the other part</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0761:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0761:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1613</classCode>
+        <classCode scheme="eurovoc">1631</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">3489</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+        <classCode scheme="eurovoc">5407</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0761-en." lang="en">
+    <body>
+      <head n="1">2002/761/EC: Council Decision of 22 July 2002 concerning the conclusion of the Interim Agreement on trade and trade-related matters between the European Community, of the one part, and the Republic of Lebanon, of the other part</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 22 July 2002</p>
+      <p n="4">concerning the conclusion of the Interim Agreement on trade and trade-related matters between the European Community, of the one part, and the Republic of Lebanon, of the other part</p>
+      <p n="5">(2002/761/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 133, in conjunction with the first sentence of the first subparagraph of Article 300(2) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Pending the entry into force of the Euro-Mediterranean Agreement establishing an Association between the European Community and its Member States, of the one part, and the Republic of Lebanon, of the other part, signed on behalf of the Community, in Luxembourg on 17 June 2002, it is necessary to approve the Interim Agreement on trade and trade-related matters between the European Community of the one part, and the Republic of Lebanon of the other part.</p>
+      <p n="11">(2) The Interim Agreement will replace relevant parts of the Cooperation Agreement between the European Economic Community and the Republic of Lebanon(1) and the Agreement between the Member States of the European Coal and Steel Community and Lebanon(2), signed in Brussels on 3 May 1997.</p>
+      <p n="12">(3) The Interim Agreement should therefore be approved on behalf of the Community,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">1. The Interim Agreement on trade and trade-related matters between the European Community, of the one part, and the Republic of Lebanon, of the other part, the Annexes and Protocols to the Agreement, as well as the joint declarations and the declarations by the European Community included in the Final Act, are hereby approved on behalf of the Community.</p>
+      <p n="16">2. The texts mentioned in paragraph 1 are attached to this Decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is hereby authorised to designate the person(s) empowered to proceed, on behalf of the Community, to deposit the act of notification envisaged by Article 42(2) of the Agreement.</p>
+      <p n="19">Done at Brussels, 22 July 2002.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">P. S. Møller</p>
+      <p n="23">(1) OJ L 267, 27.9.1978, p. 2.</p>
+      <p n="24">(2) OJ L 316, 12.12.1979, p. 24.</p>
+    </body>
+  </text>
+</TEI.2>

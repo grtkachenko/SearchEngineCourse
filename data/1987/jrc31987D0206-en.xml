@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31987D0206-en" n="31987D0206" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31987D0206 English</title>
+        <title>87/206/EEC: Commission Decision of 12 March 1987 amending, for the second time, Decision 76/806/EEC laying down additional provisions concerning statistical surveys to be carried out by the Member States in order to determine production potential of plantations of certain species of fruit trees</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987D0206:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31987D0206:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31987D0206-en." lang="en">
+    <body>
+      <head n="1">87/206/EEC: Commission Decision of 12 March 1987 amending, for the second time, Decision 76/806/EEC laying down additional provisions concerning statistical surveys to be carried out by the Member States in order to determine production potential of plantations of certain species of fruit trees</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION DECISION</p>
+      <p n="4">of 12 March 1987</p>
+      <p n="5">amending, for the second time, Decision 76/806/EEC laying down additional provisions concerning statistical surveys to be carried out by the Member States in order to determine production potential of plantations of certain species of fruit trees</p>
+      <p n="6">(87/206/EEC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Directive 76/625/EEC of 20 July 1976 concerning the statistical surveys to be carried out by the Member States in order to determine the production potential of plantations of certain species of fruit trees (1), as last amended by Directive 86/652/EEC (2), and in particular Article 2 (3) thereof,</p>
+      <p n="10">Whereas age and density classes have to be defined for new species to be surveyed;</p>
+      <p n="11">Whereas the measure provided for in this Decision are in accordance with the opinion of the Standing Committee for Agricultural Statistics,</p>
+      <p n="12">HAS ADOPTED THIS DECISION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The Annex to Commission Decision 76/806/EEC (3) is replaced by the Annex to this Decision.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Decision is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 12 March 1987.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Alois PFEIFFER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ No L 218, 11. 4. 1976, p. 10.</p>
+      <p n="22">(2) OJ No L 382, 31. 12. 1986, p. 16.</p>
+      <p n="23">(3) OJ No L 285, 16. 10. 1976, p. 34.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">AGE AND DENSITY CLASSES</p>
+      <p n="26">(a) The following classes shall be established:</p>
+      <p n="27">1.2.3.4 // // // // // // Apples, pears // Peaches, apricots // Orange, lemon and small-fuited citrus // // // // 1.2.3.4 // Age of trees (in years) // 0 - 4 5 - 9 10 - 14 15 - 24 25 and over // 0 - 4 5 - 9 10 - 14 15 - 19 20 and over // 0 - 4 5 - 9 10 - 14 15 - 24 25 - 39 40 and over // // // // // Density of plantation (trees/ha) // Less than 400 400 - 799 800 - 1 599 1 600 and over // Less than 300 300 - 399 400 - 599 600 - 799 800 and over // Less than 250 250 - 374 375 - 499 500 - 624 625 - 749 750 and over // // // //</p>
+      <p n="28">(b) For high-density apple and pear orchards, Member States may subdivide the class '15 - 24 years' to form the two following classes:</p>
+      <p n="29">'15 - 19 years',</p>
+      <p n="30">'20 - 24 years'.</p>
+    </body>
+  </text>
+</TEI.2>

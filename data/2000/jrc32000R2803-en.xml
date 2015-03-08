@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32000R2803-en" n="32000R2803" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2803 English</title>
+        <title>Council Regulation (EC) No 2803/2000 of 14 December 2000 opening and providing for the administration of autonomous Community tariff quotas for certain fishery products</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2803:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2803:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+        <classCode scheme="eurovoc">4080</classCode>
+        <classCode scheme="eurovoc">4350</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2803-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2803/2000 of 14 December 2000 opening and providing for the administration of autonomous Community tariff quotas for certain fishery products</head>
+      <p n="2">Council Regulation (EC) No 2803/2000</p>
+      <p n="3">of 14 December 2000</p>
+      <p n="4">opening and providing for the administration of autonomous Community tariff quotas for certain fishery products</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 26 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Community supplies of certain fishery products currently depend on imports from third countries. It is in the Community's interest to suspend in part or in whole the customs duties for the products in question, within Community tariff quotas of an appropriate volume. In order not to jeopardise the development prospects of this product in the Community and to ensure an adequate supply to satisfy user industries, such quotas should be opened, applying variable customs duties in accordance with the sensitivity of the various products on the Community market.</p>
+      <p n="10">(2) Equal and uninterrupted access to the said quotas should be ensured for all Community importers and the rates laid down for the quotas should be applied without interruption to all imports of the products concerned into all Member States until the quotas have been used up.</p>
+      <p n="11">(3) The decision on the opening of autonomous tariff quotas has to be taken by the Community. However, to ensure the efficiency of a common administration of these quotas, there is no obstacle to authorising the Member States to draw from the quota amount the necessary quantities corresponding to actual imports. However, this method of administration requires close cooperation between the Member States and the Commission and the latter must in particular be able to monitor the rate at which the quotas are used up and inform the Member States accordingly.</p>
+      <p n="12">(4) Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code(1) codified the management rules for tariff quotas to be used by following the chronological order of the dates of acceptance of the declarations of release for free circulation,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">1. The import duties on the products listed in the Annex shall be suspended at the indicated rates for the periods and up to the amounts indicated therein.</p>
+      <p n="16">2. Imports of the products in question shall not be covered by the quotas referred to in paragraph 1 unless the declared customs value is at least equal to the reference prices fixed, or to be fixed, in accordance with Article 29 of Council Regulation (EC) No 104/2000 of 17 December 1999 on the common organisation of the market in fishery and aquaculture products(2).</p>
+      <p n="17">Article 2</p>
+      <p n="18">The tariff quotas referred to in Article 1 shall be administered by the Commission in accordance with Articles 308a to 308c of Regulation (EEC) No 2454/93.</p>
+      <p n="19">Article 3</p>
+      <p n="20">Member States and the Commission shall cooperate closely to ensure that this Regulation is complied with.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="23">It shall apply from 1 January 2001.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 14 December 2000.</p>
+      <p n="26">For the Council</p>
+      <p n="27">D. Gillot</p>
+      <p n="28">The President</p>
+      <p n="29">(1) OJ L 253, 11.10.1993, p. 1. Regulation as last amended by Commission Regulation (EC) No 1602/2000 (OJ L 188, 26.7.2000, p. 1).</p>
+      <p n="30">(2) OJ L 17, 21.1.2000, p. 22.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

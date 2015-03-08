@@ -1,0 +1,50 @@
+<TEI.2 id="jrc41999D0003-en" n="41999D0003" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41999D0003 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 28 April 1999 on the Help Desk budget for 1999 (SCH/Com-ex (99) 3)</title>
+      </titleStmt>
+      <extent>15 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0003:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0003:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1509</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">5050</classCode>
+        <classCode scheme="eurovoc">560</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41999D0003-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 28 April 1999 on the Help Desk budget for 1999 (SCH/Com-ex (99) 3)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 28 April 1999</p>
+      <p n="4">on the Help Desk budget for 1999</p>
+      <p n="5">(SCH/Com-ex (99) 3)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement, hereinafter "the Schengen Convention"</p>
+      <p n="8">Having regard to Article 119 of the abovementioned Convention,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">1. The draft budget for 1999 for the Help Desk shall be fixed at BEF 1880000 for 1999.</p>
+      <p n="11">2. The contributions from the Parties shall be calculated according to the distribution key laid down in Article 119 of the Schengen Convention and pursuant to the Executive Committee Decision of 7 October 1997 (document SCH/Com-ex (97) 18).</p>
+      <p n="12">3. This Decision shall constitute a mandate for the Benelux Economic Union, which is a party to this contract, to launch the call for contributions from the Parties.</p>
+      <p n="13">Luxembourg, 28 April 1999.</p>
+      <p n="14">The Chairman</p>
+      <p n="15">C. H. Schapper</p>
+    </body>
+  </text>
+</TEI.2>

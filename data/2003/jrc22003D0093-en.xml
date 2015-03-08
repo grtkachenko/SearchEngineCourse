@@ -1,0 +1,69 @@
+<TEI.2 id="jrc22003D0093-en" n="22003D0093" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22003D0093 English</title>
+        <title>Decision of the EEA Joint Committee No 93/2003 of 11 July 2003 amending Annex XX (Environment) to the EEA Agreement</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0093:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0093:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">2747</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">5618</classCode>
+        <classCode scheme="eurovoc">5696</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22003D0093-en." lang="en">
+    <body>
+      <head n="1">Decision of the EEA Joint Committee No 93/2003 of 11 July 2003 amending Annex XX (Environment) to the EEA Agreement</head>
+      <p n="2">Decision of the EEA Joint Committee</p>
+      <p n="3">No 93/2003</p>
+      <p n="4">of 11 July 2003</p>
+      <p n="5">amending Annex XX (Environment) to the EEA Agreement</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as amended by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Annex XX to the Agreement was amended by Decision of the EEA Joint Committee No 57/2003 of 16 May 2003(1).</p>
+      <p n="10">(2) Commission Decision 2003/31/EC of 29 November 2002 establishing revised ecological criteria for the award of the Community eco-label to detergents for dishwashers and amending Decision 1999/427/EC(2) is to be incorporated into the Agreement,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Annex XX to the Agreement shall be amended as follows:</p>
+      <p n="14">1. Present point 2eq (Commission Decision 1999/427/EC) becomes point 2eqa.</p>
+      <p n="15">2. The following indent is added in point 2eqa (Commission Decision 1999/427/EC):</p>
+      <p n="16">"- 32003 D 0031: Commission Decision 2003/31/EC of 29 November 2002 (OJ L 9, 15.1.2003, p. 11)."</p>
+      <p n="17">3. The following point is inserted after point 2epa (Commission Decision 1999/205/EC, deleted):</p>
+      <p n="18">"2eq. 32003 D 0031: Commission Decision 2003/31/EC of 29 November 2002 establishing revised ecological criteria for the award of the Community eco-label to detergents for dishwashers and amending Decision 1999/427/EC (OJ L 9, 15.1.2003, p. 11)."</p>
+      <p n="19">4. Point 2eqa (Commission Decision 1999/427/EC) is deleted with effect from 31 May 2004.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The texts of Decision 2003/31/EC in the Icelandic and Norwegian languages, to be published in the EEA Supplement to the Official Journal of the European Union, shall be authentic.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision shall enter into force on 12 July 2003, provided that all the notifications in Article 103(1) of the Agreement have been made to the EEA Joint Committee(3).</p>
+      <p n="24">Article 4</p>
+      <p n="25">This Decision shall be published in the EEA section of, and in the EEA Supplement to, the Official Journal of the European Union.</p>
+      <p n="26">Done at Brussels, 11 July 2003.</p>
+      <p n="27">For the EEA Joint Committee</p>
+      <p n="28">The President</p>
+      <p n="29">H. S. H. Prinz Nikolaus von Liechtenstein</p>
+      <p n="30">(1) OJ L 193, 31.7.2003, p. 38.</p>
+      <p n="31">(2) OJ L 9, 15.1.2003, p. 11.</p>
+      <p n="32">(3) No constitutional requirements indicated.</p>
+    </body>
+  </text>
+</TEI.2>

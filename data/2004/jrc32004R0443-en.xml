@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32004R0443-en" n="32004R0443" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0443 English</title>
+        <title>Commission Regulation (EC) No 443/2004 of 10 March 2004 setting delivery obligations for cane sugar to be imported under the ACP Protocol and the Agreement with India for the 2003/2004 delivery period</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0443:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0443:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">3461</classCode>
+        <classCode scheme="eurovoc">3577</classCode>
+        <classCode scheme="eurovoc">4319</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0443-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 443/2004 of 10 March 2004 setting delivery obligations for cane sugar to be imported under the ACP Protocol and the Agreement with India for the 2003/2004 delivery period</head>
+      <p n="2">Commission Regulation (EC) No 443/2004</p>
+      <p n="3">of 10 March 2004</p>
+      <p n="4">setting delivery obligations for cane sugar to be imported under the ACP Protocol and the Agreement with India for the 2003/2004 delivery period</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1260/2001 of 19 June 2001 on the common organisation of the markets in the sugar sector(1),</p>
+      <p n="8">Having regard to Commission Regulation (EC) No 1159/2003 of 30 June 2003 laying down detailed rules of application for the 2003/2004, 2004/2005 and 2005/2006 marketing years for the import of cane sugar under certain tariff quotas and preferential agreements and amending Regulations (EC) No 1464/95 and (EC) No 779/96(2), and in particular Article 9(1) thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Article 9 of Regulation (EC) No 1159/2003 sets out the detailed rules for setting delivery obligations at zero duty in respect of products falling within CN code 1701, expressed in white-sugar equivalent, for imports originating in the countries that are signatories to the ACP Protocol and in India.</p>
+      <p n="11">(2) Application of Articles 3 and 7 of the ACP Protocol, Articles 3 and 7 of the Agreement with India and Articles 11 and 12 of Regulation (EC) No 1159/2003 has resulted in the Commission setting delivery obligations for 2003/2004, by calculating in particular the difference for each country between the amount of such delivery obligations and the quantities actually imported during past delivery periods,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The delivery obligations for imports originating in the countries that are signatories to the ACP Protocol and in India in respect of products falling within CN code 1701, expressed in white-sugar equivalent, in the 2003/2004 delivery period for each exporting country concerned, are hereby fixed as shown in the Annex hereto.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 10 March 2004.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 178, 30.6.2001, p. 1. Regulation last amended by Commission Regulation (EC) No 39/2004 (OJ L 6, 10.1.2004, p. 16).</p>
+      <p n="23">(2) OJ L 162, 1.7.2003, p. 25.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">The quantities of the delivery obligations for imports of preferential sugar originating in the countries that are signatories of the ACP Protocol and in India for the 2003/2004 delivery period, expressed in tonnes of white-sugar equivalent, shall be:</p>
+      <p n="26">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

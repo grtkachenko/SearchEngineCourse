@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31995D0356-en" n="31995D0356" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0356 English</title>
+        <title>95/356/Euratom: Commission Decision of 28 June 1995 concerning the conclusion of the Implementing Agreement between the European Atomic Energy Community, represented by the Commission of the European Communities, and Atomic Energy of Canada Limited designated as implementing agent by the Government of Canada on the involvement of Canada in the European Atomic Energy Community contribution to the Engineering Design Activities (EDA) for the International Thermonuclear Experimental Reactor (ITER), by the Commission, on behalf of the Community</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0356:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0356:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1379</classCode>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">2817</classCode>
+        <classCode scheme="eurovoc">2903</classCode>
+        <classCode scheme="eurovoc">5100</classCode>
+        <classCode scheme="eurovoc">5344</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0356-en." lang="en">
+    <body>
+      <head n="1">95/356/Euratom: Commission Decision of 28 June 1995 concerning the conclusion of the Implementing Agreement between the European Atomic Energy Community, represented by the Commission of the European Communities, and Atomic Energy of Canada Limited designated as implementing agent by the Government of Canada on the involvement of Canada in the European Atomic Energy Community contribution to the Engineering Design Activities (EDA) for the International Thermonuclear Experimental Reactor (ITER), by the Commission, on behalf of the Community</head>
+      <p n="2">COMMISSION DECISION of 28 June 1995 concerning the conclusion of the Implementing Agreement between the European Atomic Energy Community, represented by the Commission of the European Communities, and Atomic Energy of Canada Limited designated as implementing agent by the Government of Canada on the involvement of Canada in the European Atomic Energy Community contribution to the Engineering Design Activities (EDA) for the International Thermonuclear Experimental Reactor (ITER), by the Commission, on behalf of the Community (95/356/Euratom)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 101 (3) thereof,</p>
+      <p n="5">Whereas the memorandum of understanding for cooperation between the European Atomic Energy Community and the Government of Canada in the field of controlled nuclear fusion (1) was concluded on 25 July 1995;</p>
+      <p n="6">Whereas the Agreement between the European Atomic Energy Community, the Government of Japan, the Government of the Russian Federation, and the Government of the United States of America on cooperation in the engineering design activities for the International Thermonuclear Experimental Reactor (ITER) (2) was concluded on 21 July 1992,</p>
+      <p n="7">HAS DECIDED AS FOLLOWS:</p>
+      <p n="8">Article 1</p>
+      <p n="9">The Implementing Agreement between the European Atomic Energy Community, represented by the Commission of the European Communities, and Atomic Energy of Canada Limited designated as implementing agent by the Government of Canada on the involvement of Canada in the European Atomic Energy Community contribution to the Engineering Design Activities (EDA) for the International Thermonuclear Experimental Reactor (ITER), is hereby concluded on behalf of the Community.</p>
+      <p n="10">The text of the Implementing Agreement is appended to this Decision.</p>
+      <p n="11">Article 2</p>
+      <p n="12">The Member of the Commission responsible for science, research and development or her designated representative is authorized to sign the Implementing Agreement for the purpose of binding the European Atomic Energy Community.</p>
+      <p n="13">Done at Brussels, 28 June 1995.</p>
+      <p n="14">For the Commission</p>
+      <p n="15">Jacques SANTER</p>
+      <p n="16">The President</p>
+      <p n="17">(1) See page 31 of this Official Journal.</p>
+      <p n="18">(2) OJ No L 244, 26. 8. 1992, p. 13.</p>
+    </body>
+  </text>
+</TEI.2>

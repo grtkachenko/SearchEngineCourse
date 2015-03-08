@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32000D0460-en" n="32000D0460" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0460 English</title>
+        <title>2000/460/EC: Council Decision of 17 July 2000 amending Decision 1999/311/EC adopting the third phase of the trans-European cooperation scheme for higher education (Tempus III) (2000 to 2006)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0460:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0460:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3489</classCode>
+        <classCode scheme="eurovoc">5315</classCode>
+        <classCode scheme="eurovoc">5448</classCode>
+        <classCode scheme="eurovoc">800</classCode>
+        <classCode scheme="eurovoc">914</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0460-en." lang="en">
+    <body>
+      <head n="1">2000/460/EC: Council Decision of 17 July 2000 amending Decision 1999/311/EC adopting the third phase of the trans-European cooperation scheme for higher education (Tempus III) (2000 to 2006)</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 17 July 2000</p>
+      <p n="4">amending Decision 1999/311/EC adopting the third phase of the trans-European cooperation scheme for higher education (Tempus III) (2000 to 2006)</p>
+      <p n="5">(2000/460/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 308 thereof,</p>
+      <p n="8">Having regard to the proposal of the Commission,</p>
+      <p n="9">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="10">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="11">Having regard to the opinion of the Committee of the Regions(3),</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) By Decision 1999/311/EC(4) the Council adopted the third phase of the trans-European cooperation scheme for higher education (Tempus III) (2000 to 2006).</p>
+      <p n="14">(2) This programme is intended for the non-associated countries of central and eastern Europe eligible for economic aid by virtue of Regulation (EEC) No 3906/89 (PHARE programme)(5) or the programme intended to replace it and the new independent states of the former Soviet Union and Mongolia as laid down in Council Regulation (EC, Euratom) No 99/2000 of 29 December 1999 concerning the provision of assistance to the partner States in Eastern Europe and Central Asia(6) (which replaces the old TACIS programme).</p>
+      <p n="15">(3) The footnote inserted in Article 2 states that "at present" the programme relates to Albania, Bosnia-Herzegovina and the former Yugoslav Republic of Macedonia.</p>
+      <p n="16">(4) It is important to be able to extend the Tempus III programme to other countries in the region in future, in particular Croatia,</p>
+      <p n="17">HAS DECIDED AS FOLLOWS:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Decision 1999/311/EC is hereby amended as follows:</p>
+      <p n="20">1. In Article 2, the first paragraph shall be replaced by the following:"Tempus III concerns the non-associated countries of central and eastern Europe designated as eligible for economic aid by virtue of Regulation (EEC) No 3906/89 (PHARE programme) or the programme intended to replace it, and the new independent states of the former Soviet Union and Mongolia mentioned in Regulation (EC, Euratom) No 99/2000 (which replaces the old TACIS programme). These countries are hereinafter referred to as 'eligible countries'."</p>
+      <p n="21">2. Footnote 1 shall be deleted.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision shall take effect on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">Done at Brussels, 17 July 2000.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">L. Fabius</p>
+      <p n="28">(1) Opinion delivered on 14 June 2000 (not yet published in the Official Journal).</p>
+      <p n="29">(2) Opinion delivered on 29 May 2000 (not yet published in the Official Journal).</p>
+      <p n="30">(3) Opinion delivered on 14 June 2000 (not yet published in the Official Journal).</p>
+      <p n="31">(4) OJ L 120, 8.5.1999, p. 30.</p>
+      <p n="32">(5) OJ L 375, 23.12.1989, p. 11. Regulation as last amended by Regulation (EC) No 1266/1999 (OJ L 161, 20.6.1999, p. 68).</p>
+      <p n="33">(6) OJ L 12, 18.1.2000, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

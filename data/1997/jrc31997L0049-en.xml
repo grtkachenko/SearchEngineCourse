@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31997L0049-en" n="31997L0049" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997L0049 English</title>
+        <title>Commission Directive 97/49/EC of 29 July 1997 amending Council Directive 79/409/EEC on the conservation of wild birds</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0049:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0049:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2826</classCode>
+        <classCode scheme="eurovoc">3150</classCode>
+        <classCode scheme="eurovoc">4015</classCode>
+        <classCode scheme="eurovoc">4038</classCode>
+        <classCode scheme="eurovoc">5760</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997L0049-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 97/49/EC of 29 July 1997 amending Council Directive 79/409/EEC on the conservation of wild birds</head>
+      <p n="2">COMMISSION DIRECTIVE 97/49/EC of 29 July 1997 amending Council Directive 79/409/EEC on the conservation of wild birds</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 79/409/EEC of 2 April 1979 on the conservation of wild birds (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 15 thereof,</p>
+      <p n="6">Whereas Annex I to Directive 79/409/EEC should be amended to take account of the latest information on the situation as regards the bird subspecies Phalacrocorax carbo sinensis, and in particular the fact that this subspecies has reached a favourable conservation status;</p>
+      <p n="7">Whereas the measures provided for in this Directive are in accordance with the opinion of the Committee for Adaptation to Technical and Scientific Progress set up pursuant to Directive 79/409/EEC,</p>
+      <p n="8">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Annex I to Directive 79/409/EEC shall be replaced by the Annex to this Directive.</p>
+      <p n="11">Article 2</p>
+      <p n="12">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive no later than 30 September 1998. They shall forthwith inform the Commission thereof.</p>
+      <p n="13">When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="14">Article 3</p>
+      <p n="15">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">Article 4</p>
+      <p n="17">This Directive is addressed to the Member States.</p>
+      <p n="18">Done at Brussels, 29 July 1997.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Ritt BJERREGAARD</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ No L 103, 25. 4. 1979, p. 1.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">'ANEXO I - BILAG I - ANHANG I - ÐÁÑÁÑÔÇÌÁ I - ANNEX I - ANNEXE I - ALLEGATO I - BIJLAGE I - ANEXO I - LIITE I - BILAGA I</p>
+      <p n="25">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

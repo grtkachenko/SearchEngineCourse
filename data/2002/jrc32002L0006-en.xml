@@ -1,0 +1,155 @@
+<TEI.2 id="jrc32002L0006-en" n="32002L0006" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002L0006 English</title>
+        <title>Directive 2002/6/EC of the European Parliament and of the Council of 18 February 2002 on reporting formalities for ships arriving in and/or departing from ports of the Member States of the Community (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>118 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002L0006:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002L0006:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1447</classCode>
+        <classCode scheme="eurovoc">3115</classCode>
+        <classCode scheme="eurovoc">3648</classCode>
+        <classCode scheme="eurovoc">4522</classCode>
+        <classCode scheme="eurovoc">4827</classCode>
+        <classCode scheme="eurovoc">5070</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002L0006-en." lang="en">
+    <body>
+      <head n="1">Directive 2002/6/EC of the European Parliament and of the Council of 18 February 2002 on reporting formalities for ships arriving in and/or departing from ports of the Member States of the Community (Text with EEA relevance)</head>
+      <p n="2">Directive 2002/6/EC of the European Parliament and of the Council</p>
+      <p n="3">of 18 February 2002</p>
+      <p n="4">on reporting formalities for ships arriving in and/or departing from ports of the Member States of the Community</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 80(2) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="10">Having consulted the Committee of the Regions,</p>
+      <p n="11">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) The Community has an established policy to encourage sustainable transport, such as shipping, and, in particular, to promote short sea shipping.</p>
+      <p n="14">(2) Facilitation of maritime transport is an essential objective for the Community to further strengthen the position of shipping in the transport system as an alternative and complement to other transport modes in a door-to-door transport chain.</p>
+      <p n="15">(3) The documentary procedures required in maritime transport have caused concern and have been considered to hamper the development of the mode to its full potential.</p>
+      <p n="16">(4) The International Maritime Organisation's Convention on Facilitation of International Maritime Traffic adopted by the International Conference on Facilitation of Maritime Travel and Transport on 9 April 1965, as subsequently amended (hereinafter "the IMO FAL Convention"), has provided a set of models for standardised facilitation forms for ships to fulfil certain reporting formalities when they arrive in or depart from a port.</p>
+      <p n="17">(5) Most Member States use these facilitation forms but do not apply the models provided under the auspices of the IMO in a uniform manner.</p>
+      <p n="18">(6) Uniformity in the format of the forms required for a ship arriving in and departing from a port should facilitate the documentary procedures for port calls and be beneficial to the development of Community shipping.</p>
+      <p n="19">(7) Consequently, it is opportune to introduce the recognition of the IMO facilitation forms (hereinafter "IMO FAL forms") at Community level. The Member States should recognise the IMO FAL forms and the categories of information in them as sufficient proof that a ship has fulfilled the reporting formalities these forms are intended for.</p>
+      <p n="20">(8) However, the recognition of certain IMO FAL forms, in particular the cargo declaration and - for passenger ships - the passenger list, would add to the complexity of reporting formalities either because those forms cannot contain all necessary information or because well-established facilitation practices already exist. Consequently, obligatory recognition of those forms should not be introduced.</p>
+      <p n="21">(9) Maritime transport is a global activity and the introduction of the IMO FAL forms in the Community could pave the way towards their intensified application around the world.</p>
+      <p n="22">(10) Since the objectives of the proposed action, namely to facilitate maritime transport, cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale or effects of the action, be better achieved at Community level, the Community may adopt measures in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.</p>
+      <p n="23">(11) The measures necessary for the implementation of this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(4),</p>
+      <p n="24">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="25">Article 1</p>
+      <p n="26">Purpose</p>
+      <p n="27">The purpose of this Directive is to facilitate maritime transport by providing for standardisation of reporting formalities.</p>
+      <p n="28">Article 2</p>
+      <p n="29">Scope</p>
+      <p n="30">This Directive shall apply to the reporting formalities on arrival in and/or departure from ports of the Member States of the Community, as set out in Annex I, Part A, relating to a ship, its stores, its crew's effects, its crew list and, in the case of a ship certified to carry 12 passengers or fewer, its passenger list.</p>
+      <p n="31">Article 3</p>
+      <p n="32">Definitions</p>
+      <p n="33">For the purposes of this Directive, the following definitions shall apply:</p>
+      <p n="34">(a) "IMO FAL Convention" means the International Maritime Organisation's Convention on Facilitation of International Maritime Traffic adopted by the International Conference on Facilitation of Maritime Travel and Transport on 9 April 1965;</p>
+      <p n="35">(b) "IMO FAL forms" means A4 size standardised IMO model facilitation forms provided for under the IMO FAL Convention;</p>
+      <p n="36">(c) "reporting formality" means the information that, when required by a Member State, must be provided for administrative and procedural purposes when a ship arrives in or departs from a port;</p>
+      <p n="37">(d) "ship" means a seagoing vessel of any type operating in the marine environment;</p>
+      <p n="38">(e) "ship's stores" means goods for use in the ship, including consumable goods, goods carried for sale to passengers and crew members, fuel and lubricants, but excluding ship's equipment and spare parts;</p>
+      <p n="39">(f) "ship's equipment" means articles other than ship's spare parts which are on board a ship for use thereon and are removable but not of a consumable nature, including accessories, such as lifeboats, life-saving devices, furniture, ship's apparel and similar items;</p>
+      <p n="40">(g) "ship's spare parts" means articles of a repair or replacement nature for incorporation into the ship in which they are carried;</p>
+      <p n="41">(h) "crew's effects" means clothing, items in everyday use and other articles, which may include currency, belonging to the crew and carried on the ship;</p>
+      <p n="42">(i) "crew member" means any person actually employed for duties on board during a voyage in the working or service of a ship and included in the crew list.</p>
+      <p n="43">Article 4</p>
+      <p n="44">Acceptance of forms</p>
+      <p n="45">Member States shall accept that the reporting formalities referred to in Article 2 are satisfied when the information submitted is in accordance with:</p>
+      <p n="46">(a) the respective specifications set out in Annex I, Parts B and C, and</p>
+      <p n="47">(b) the corresponding model forms set out in Annex II with their categories of data.</p>
+      <p n="48">Article 5</p>
+      <p n="49">Amendment procedure</p>
+      <p n="50">Any amendments of Annexes I and II to this Directive and references to IMO instruments in order to bring them into line with Community or IMO measures which have entered into force shall be adopted in accordance with the regulatory procedure referred to in Article 6(2), in so far as such amendments do not broaden the scope of this Directive.</p>
+      <p n="51">Article 6</p>
+      <p n="52">Committee</p>
+      <p n="53">1. The Commission shall be assisted by the committee set up pursuant to Article 12(1) of Council Directive 93/75/EEC(5).</p>
+      <p n="54">2. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.</p>
+      <p n="55">The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.</p>
+      <p n="56">3. The Committee shall adopt its rules of procedure.</p>
+      <p n="57">Article 7</p>
+      <p n="58">Implementation</p>
+      <p n="59">1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 9 September 2003. They shall forthwith inform the Commission thereof.</p>
+      <p n="60">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.</p>
+      <p n="61">2. Member States shall communicate to the Commission the text of the provisions of national law which they adopt in the field covered by this Directive.</p>
+      <p n="62">Article 8</p>
+      <p n="63">Entry into force</p>
+      <p n="64">This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="65">Article 9</p>
+      <p n="66">Addressees</p>
+      <p n="67">This Directive is addressed to the Member States.</p>
+      <p n="68">Done at Brussels, 18 February 2002.</p>
+      <p n="69">For the European Parliament</p>
+      <p n="70">The President</p>
+      <p n="71">P. Cox</p>
+      <p n="72">For the Council</p>
+      <p n="73">The President</p>
+      <p n="74">J. Piqué i Camps</p>
+      <p n="75">(1) OJ C 180 E, 26.6.2001, p. 85.</p>
+      <p n="76">(2) OJ C 221, 7.8.2001, p. 149.</p>
+      <p n="77">(3) Opinion of the European Parliament of 25 October 2001 (not yet published in the Official Journal) and Council Decision of 7 December 2002.</p>
+      <p n="78">(4) OJ L 184, 17.7.1999, p. 23.</p>
+      <p n="79">(5) OJ L 247, 5.10.1993, p. 19. Directive as last amended by Commission Directive 98/74/EC (OJ L 276, 13.10.1998, p. 7).</p>
+      <p n="80">ANNEX I</p>
+      <p n="81">PART A</p>
+      <p n="82">List of reporting formalities referred to in Article 2 in respect of ships arriving in and/or departing from ports of the Member States of the Community</p>
+      <p n="83">1. IMO FAL form 1, general declaration</p>
+      <p n="84">The general declaration shall be the basic document on arrival and departure providing information required by the authorities of a Member State relating to the ship.</p>
+      <p n="85">2. IMO FAL form 3, ship's stores declaration</p>
+      <p n="86">The ship's stores declaration shall be the basic document on arrival and departure providing information required by the authorities of a Member State relating to a ship's stores.</p>
+      <p n="87">3. IMO FAL form 4, crew's effects declaration</p>
+      <p n="88">The crew's effects declaration shall be the basic document providing information required by the authorities of a Member State relating to the crew's effects. It shall not be required on departure.</p>
+      <p n="89">4. IMO FAL form 5, crew list</p>
+      <p n="90">The crew list shall be the basic document providing the authorities of a Member State with the information relating to the number and composition of the crew on the arrival and departure of a ship. Where the authorities require information about the crew of a ship on its departure, a copy of the crew list, presented on arrival, shall be accepted on departure if signed again and endorsed to indicate any change in the number or composition of the crew or to indicate that no such change has occurred.</p>
+      <p n="91">5. IMO FAL form 6, passenger list</p>
+      <p n="92">For ships certified to carry 12 passengers or fewer, the passenger list shall be the basic document providing the authorities of a Member State with information relating to passengers on the arrival and departure of a ship.</p>
+      <p n="93">PART B</p>
+      <p n="94">Signatories</p>
+      <p n="95">1. IMO FAL form 1, general declaration</p>
+      <p n="96">The authorities of the Member State shall accept a general declaration either dated and signed by the master, the ship's agent or some other person duly authorised by the master, or authenticated in a manner acceptable to the authority concerned.</p>
+      <p n="97">2. IMO FAL form 3, ship's stores declaration</p>
+      <p n="98">The authorities of the Member State shall accept a ship's stores declaration either dated and signed by the master or by some other ship's officer duly authorised by the master and having personal knowledge of the facts regarding the ship's stores, or authenticated in a manner acceptable to the authority concerned.</p>
+      <p n="99">3. IMO FAL form 4, crew's effects declaration</p>
+      <p n="100">The authorities of the Member State shall accept a crew's effects declaration either dated and signed by the master or by some other ship's officer duly authorised by the master, or authenticated in a manner acceptable to the authority concerned. The authorities of the Member State may also require each crew member to place his signature, or, if he is unable to do so, his mark, against the declaration relating to his effects.</p>
+      <p n="101">4. IMO FAL form 5, crew list</p>
+      <p n="102">The authorities of a Member State shall accept a crew list either dated and signed by the master or by some other ship's officer duly authorised by the master, or authenticated in a manner acceptable to the authority concerned.</p>
+      <p n="103">5. IMO FAL form 6, passenger list</p>
+      <p n="104">For ships certified to carry 12 passengers or fewer, the authorities of a Member State shall accept a passenger list either dated and signed by the master, the ship's agent or some other person duly authorised by the master, or authenticated in a manner acceptable to the authority concerned.</p>
+      <p n="105">PART C</p>
+      <p n="106">Technical specifications</p>
+      <p n="107">1. The formats of the IMO FAL forms shall follow the proportions of the models shown in Annex II as closely as technically possible. They shall be printed on separate A4 size paper sheets (210 mm × 297 mm) with portrait orientation. At least one third of the verso side of the forms shall be reserved for official use by the authorities of the Member States.</p>
+      <p n="108">For the purposes of the recognition of IMO FAL forms, the formats and layouts of the standardised facilitation forms recommended and reproduced by the IMO based on the IMO FAL Convention as in force on 1 May 1997 shall be considered equivalent to the formats reproduced in Annex II.</p>
+      <p n="109">2. The authorities of the Member State shall accept information conveyed by any legible and understandable medium, including forms filled in ink or indelible pencil or produced by automatic data processing techniques.</p>
+      <p n="110">3. Without prejudice to methods of transmitting data by electronic means, when a Member State accepts the provision of ship's reporting information in electronic form, it shall accept the transmission of that information when produced by electronic data processing or interchange techniques that conform with international standards, provided it is in legible and understandable form and contains the required information.</p>
+      <p n="111">Member States may subsequently process the acquired data in any format they consider appropriate.</p>
+      <p n="112">ANNEX II</p>
+      <p n="113">Models of IMO FAL forms referred to in Article 4 and Annex I</p>
+      <p n="114">&gt;PIC FILE= "L_2002067EN.003701.TIF"&gt;</p>
+      <p n="115">&gt;PIC FILE= "L_2002067EN.003901.TIF"&gt;</p>
+      <p n="116">&gt;PIC FILE= "L_2002067EN.004101.TIF"&gt;</p>
+      <p n="117">&gt;PIC FILE= "L_2002067EN.004301.TIF"&gt;</p>
+      <p n="118">&gt;PIC FILE= "L_2002067EN.004501.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

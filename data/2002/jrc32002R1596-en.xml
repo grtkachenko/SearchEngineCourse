@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32002R1596-en" n="32002R1596" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1596 English</title>
+        <title>Commission Regulation (EC) No 1596/2002 of 6 September 2002 amending Regulation (EC) No 2760/98 concerning the implementation of a programme for cross-border cooperation in the framework of the PHARE programme</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1596:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1596:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">12</classCode>
+        <classCode scheme="eurovoc">226</classCode>
+        <classCode scheme="eurovoc">427</classCode>
+        <classCode scheme="eurovoc">5315</classCode>
+        <classCode scheme="eurovoc">5781</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1596-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1596/2002 of 6 September 2002 amending Regulation (EC) No 2760/98 concerning the implementation of a programme for cross-border cooperation in the framework of the PHARE programme</head>
+      <p n="2">Commission Regulation (EC) No 1596/2002</p>
+      <p n="3">of 6 September 2002</p>
+      <p n="4">amending Regulation (EC) No 2760/98 concerning the implementation of a programme for cross-border cooperation in the framework of the PHARE programme</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 3906/89 of 18 December 1989 on economic aid to certain countries of central and eastern Europe(1), as last amended by Regulation (EC) No 2500/2001(2), and in particular Article 8 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The PHARE 2000 review communication "Strengthening preparation for membership" announced a more programme-oriented approach through the use of "schemes" (measures) which allows PHARE cross-border cooperation to co-finance projects similar in size and nature to Interreg projects.</p>
+      <p n="10">(2) The Commission communication of 28 April 2000 on Interreg III guidelines(3) provides in point 11 and Annex II an indicative list of priority topics and eligible measures related to cross-border cooperation (Interreg III strand A).</p>
+      <p n="11">(3) The experience gained since the entry into force of Commission Regulation (EC) No 2760/98(4), notably through setting up joint cooperation committees and implementing joint programming documents, has highlighted the need for a further alignment of the eligible actions with Interreg.</p>
+      <p n="12">(4) Regulation (EC) No 2760/98 should therefore be amended in order to remove the second subparagraph of Article 5(1) thereof, under which certain actions could only be financed under the terms of Article 5(2).</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Committee for Economic Restructuring in Certain Countries of Central and Eastern Europe,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">In Article 5(1) of Regulation (EC) No 2760/98 the second subparagraph is deleted.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 6 September 2002.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Günter Verheugen</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 375, 23.12.1989, p. 11.</p>
+      <p n="25">(2) OJ L 342, 27.12.2001, p. 1.</p>
+      <p n="26">(3) OJ C 143, 23.5.2000, p. 6.</p>
+      <p n="27">(4) OJ L 345, 19.12.1998, p. 49.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,66 @@
+<TEI.2 id="jrc41999D0006-en" n="41999D0006" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41999D0006 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 28 April 1999 on the Schengen acquis relating to telecommunications (SCH/Com-ex (99) 6)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0006:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41999D0006:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1047</classCode>
+        <classCode scheme="eurovoc">226</classCode>
+        <classCode scheme="eurovoc">5551</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41999D0006-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 28 April 1999 on the Schengen acquis relating to telecommunications (SCH/Com-ex (99) 6)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 28 April 1999</p>
+      <p n="4">on the Schengen acquis relating to telecommunications</p>
+      <p n="5">(SCH/Com-ex (99)6)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Article 44 of the abovementioned Convention,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">The tactical and operational requirements for a future cross-border digital radio system for the police and customs services in the Schengen States defined in accordance with the mandate pursuant to Article 44, the rules for manufacturing and administering uniform encryption algorithms, and other agreements established within the remit of the Subgroup on telecommunications, as set out in the following nine documents, are hereby approved.</p>
+      <p n="11">1. SCH/I-telecom (92)21 Rev. 2(1) of 12 June 1992</p>
+      <p n="12">"Definition of the telecommunications equipment needs of police and customs services"</p>
+      <p n="13">2. SCH/I-telecom (95)18 of 8 June 1995</p>
+      <p n="14">"Digital radiocommunications systems for security organisations (tactical and operational requirements)"</p>
+      <p n="15">3. SCH/I-telecom (96)44 Rev. 5 of 14 November 1997</p>
+      <p n="16">"Requirements for terminals and their user interfaces in the Schengen States' future digital trunk radio systems"</p>
+      <p n="17">4. SCH/I-telecom (95)33 Rev. 2 of 6 December 1995</p>
+      <p n="18">"Request to ETSI for a study of the European norms meeting Schengen functional requirements"</p>
+      <p n="19">5. SCH/I-telecom (95)35 of 21 November 1995</p>
+      <p n="20">"Schengen communication requirements and the TETRA standard"</p>
+      <p n="21">6. SCH/I-telecom-crypto (95)37 Rev. 4 of 8 July 1996</p>
+      <p n="22">"Digital radio communications network for security organisations (security requirements)"</p>
+      <p n="23">7. SCH/I-telecom-crypto (97)7 Rev. 5 of 24 February 1998</p>
+      <p n="24">"Agreement for use and custody of Schengen algorithms"</p>
+      <p n="25">8. SCH/I-telecom-crypto (97)10 Rev. 2 of 24 February 1998</p>
+      <p n="26">"Criteria for manufacturing Schengen specific algorithms"</p>
+      <p n="27">9. SCH/I (98)17 Rev. 4 of 26 May 1998</p>
+      <p n="28">"Amendment to the mandate of the Subgroup on telecommunications to examine the interoperability aspects of different digital radio communications systems"</p>
+      <p n="29">Luxembourg, 28 April 1999.</p>
+      <p n="30">The Chairman,</p>
+      <p n="31">C. H. Schapper</p>
+      <p n="32">(1) Restricted document.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31990L0517-en" n="31990L0517" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31990L0517 English</title>
+        <title>Council Directive 90/517/EEC of 9 October 1990 adapting to technical progress for the 11th time Directive 67/548/EEC on the approximation of the laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990L0517:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31990L0517:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31990L0517-en." lang="en">
+    <body>
+      <head n="1">Council Directive 90/517/EEC of 9 October 1990 adapting to technical progress for the 11th time Directive 67/548/EEC on the approximation of the laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances</head>
+      <p n="2">*****</p>
+      <p n="3">COUNCIL DIRECTIVE</p>
+      <p n="4">of 9 October 1990</p>
+      <p n="5">adapting to technical progress for the 11th time Directive 67/548/EEC on the approximation of the laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances</p>
+      <p n="6">(90/517/EEC)</p>
+      <p n="7">THE COUNCIL OF THE EUROPEAN COMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Directive 67/548/EEC (1), as last amended by Directive 79/831/EEC (2), and in particular Articles 19, 20 and 21 thereof,</p>
+      <p n="10">Having regard to the proposal from the Commission,</p>
+      <p n="11">Whereas Denmark has requested a change in the labelling of dichloromethane and notified the Commission accordingly under Article 23 of Directive 67/548/EEC;</p>
+      <p n="12">Whereas the Commission has examined the evidence for the carcinogenicity of dichloromethane, and has consulted the appropriate experts designated by Member States and having special qualifications with respect to carcinogenicity;</p>
+      <p n="13">Whereas this classification reflects a majority of current scientific opinion;</p>
+      <p n="14">Whereas it is recognized that a greater understanding of the mechanisms of action of chemical substances in man and the extrapolation of effects seen in other species to man are under continuous development; whereas in the case of further scientific evidence or change in the criteria for classification relating especially to the carcinogenic or neurotoxicological effects of this substance, the classification will be reviewed in the light of this new information;</p>
+      <p n="15">Whereas the Committee on the Adaptation to Technical Progress of the Directives for the Elimination of Technical Barriers to Trade in Dangerous Substances and Preparations gave an unfavourable opinion on the draft of the measure which was submitted to it by the Commission;</p>
+      <p n="16">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Annex I (list of dangerous substances) to Directive 67/548/EEC:</p>
+      <p n="19">No 602-004-00-3: The designation, CAS-number, classification and labelling of the substance are replaced by the following:</p>
+      <p n="20">1.2.3 // // // // Cas No 75-09-2 // // No 602-004-00-3 // // // // // H Cl - C - Cl H // 1.2 // ES: // diclorometano; cloruro de metileno // DA: // dichlormethan; methylenchlorid // DE: // Dichlormethan; Methylenchlorid // EL: // Dichloromethánio; methylenodichlorídio // EN: // dichloromethane; methylene chloride; methylene dichloride // FR: // Dichlorométhane; chlorure de méthylène // IT: // diclorometano; metilene cloruro // NL: // dichloormethaan; methyleenchloride // PT: // diclorometano; cloreto de metileno</p>
+      <p n="21">Xn</p>
+      <p n="22">R: 40</p>
+      <p n="23">S: 23-24/25-36/37</p>
+      <p n="24">Article 2</p>
+      <p n="25">Not later than 7 June 1991 Member States shall adopt and publish the provisions necessary to comply with this Directive and shall forthwith inform the Commission thereof. They shall apply such provisions with effect from 7 December 1991.</p>
+      <p n="26">Article 3</p>
+      <p n="27">This Directive is addressed to the Member States.</p>
+      <p n="28">Done at Luxembourg, 9 October 1990.</p>
+      <p n="29">For the Council</p>
+      <p n="30">The President</p>
+      <p n="31">P. ROMITA</p>
+      <p n="32">(1) OJ No 196, 16. 8. 1967, p. 1.</p>
+      <p n="33">(2) OJ No L 259, 15. 10. 1979, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31997R1434-en" n="31997R1434" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1434 English</title>
+        <title>Commission Regulation (EC) No 1434/97 of 23 July 1997 amending Regulation (EC) No 1267/94 applying the agreements between the European Union and third countries on the mutual recognition of certain spirit drinks</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1434:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1434:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">1899</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">5018</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1434-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1434/97 of 23 July 1997 amending Regulation (EC) No 1267/94 applying the agreements between the European Union and third countries on the mutual recognition of certain spirit drinks</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1434/97 of 23 July 1997 amending Regulation (EC) No 1267/94 applying the agreements between the European Union and third countries on the mutual recognition of certain spirit drinks</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1576/89 of 29 May 1989 laying down general rules on the definition, description and presentation of spirit drinks (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 11 thereof,</p>
+      <p n="6">Whereas the European Union has signed an agreement with the United Mexican States on the mutual recognition and protection of designations in the spirit drinks sector; whereas that agreement provides for the application in the European Union of the measures necessary to ensure the protection of Mexican designations; whereas, in order to provide the aforementioned products with the guarantees laid down in the agreement with regard to control and protection, they should be added to the list of products covered by the agreements concluded by the European Union given in the Annex to Commission Regulation (EC) No 1267/94 of 1 June 1994 applying the agreements between the European Union and third countries on the mutual recognition of certain spirit drinks (2);</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Implementation Committee for Spirit Drinks,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Annex to Regulation (EC) No 1267/94 is hereby supplemented by the information set out in the Annex hereto.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="14">Done at Brussels, 23 July 1997.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Franz FISCHLER</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ No L 160, 12. 6. 1989, p. 1.</p>
+      <p n="19">(2) OJ No L 138, 2. 6. 1994, p. 7.</p>
+      <p n="20">ANNEX</p>
+      <p n="21">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

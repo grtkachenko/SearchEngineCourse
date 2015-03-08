@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32004R0590-en" n="32004R0590" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0590 English</title>
+        <title>Commission Regulation (EC) No 590/2004 of 30 March 2004 amending Regulation (EEC) No 2921/90 as regards the amount of the aid for the production of casein and caseinates from skimmed milk</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0590:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0590:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1570</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">4227</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0590-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 590/2004 of 30 March 2004 amending Regulation (EEC) No 2921/90 as regards the amount of the aid for the production of casein and caseinates from skimmed milk</head>
+      <p n="2">Commission Regulation (EC) No 590/2004</p>
+      <p n="3">of 30 March 2004</p>
+      <p n="4">amending Regulation (EEC) No 2921/90 as regards the amount of the aid for the production of casein and caseinates from skimmed milk</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), and in particular Article 15(b) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 2(1) of Commission Regulation (EEC) No 2921/90 of 10 October 1990 on aid for the production of casein and caseinates from skimmed milk(2) sets the amount of aid for the production of casein and caseinates from skimmed milk. In view of the development in the price of casein and caseinates on the Community and world markets, the amount of the aid should be reduced.</p>
+      <p n="10">(2) Regulation (EEC) No 2921/90 should be amended accordingly.</p>
+      <p n="11">(3) The Management Committee for Milk and Milk Products has not delivered an opinion within the time limit set by its chairman,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">In Article (2)1 of Regulation (EEC) No 2921/90, "EUR 6,30" is hereby replaced by "EUR 6,00".</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 30 March 2004.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 160, 26.6.1999, p. 48. Regulation as last amended by Commission Regulation (EC) No 186/2004 (OJ L 29, 3.2.2004, p. 6).</p>
+      <p n="23">(2) OJ L 279, 11.10.1990, p. 22. Regulation as last amended by Regulation (EC) No 2208/2003 (OJ L 330, 18.12.2003, p. 19).</p>
+    </body>
+  </text>
+</TEI.2>

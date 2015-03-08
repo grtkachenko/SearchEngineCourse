@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32001R1413-en" n="32001R1413" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1413 English</title>
+        <title>Commission Regulation (EC) No 1413/2001 of 12 July 2001 amending for the sixth time Regulation (EC) No 785/95 laying down detailed rules for the application of Council Regulation (EC) No 603/95 on the common organisation of the market in dried fodder</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1413:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1413:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4327</classCode>
+        <classCode scheme="eurovoc">4854</classCode>
+        <classCode scheme="eurovoc">5363</classCode>
+        <classCode scheme="eurovoc">755</classCode>
+        <classCode scheme="eurovoc">80</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1413-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1413/2001 of 12 July 2001 amending for the sixth time Regulation (EC) No 785/95 laying down detailed rules for the application of Council Regulation (EC) No 603/95 on the common organisation of the market in dried fodder</head>
+      <p n="2">Commission Regulation (EC) No 1413/2001</p>
+      <p n="3">of 12 July 2001</p>
+      <p n="4">amending for the sixth time Regulation (EC) No 785/95 laying down detailed rules for the application of Council Regulation (EC) No 603/95 on the common organisation of the market in dried fodder</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 603/95 of 21 February 1995 on the common organisation of the market in dried fodder(1), as last amended by Regulation (EC) No 1347/95(2), and in particular Article 18 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The third indent of Article 2(1)(a) of Commission Regulation (EC) No 785/95 of 6 April 1995 laying down detailed rules for the application of Council Regulation (EC) No 603/95 on the common organisation of the market in dried fodder(3), as last amended by Regulation (EC) No 676/1999(4), states that whole plants, harvested green with unripe grain, of the cereals listed in point 1 of Annex I to Council Regulation (EEC) No 1765/92(5) and having been cultivated on land which was not declared in the area aid application with a view to the aid for arable crops provided for in that Regulation are deemed to be "dried fodder" in order to prevent aid from being paid twice on the same parcels.</p>
+      <p n="10">(2) Abovementioned Regulation (EEC) No 1765/95 was repealed and replaced by Council Regulation (EC) No 1251/1999(6).</p>
+      <p n="11">(3) Regulation (EC) No 785/95 should therefore be amended accordingly.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Dried Fodder,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The third indent of Article 2(1)(a) of Regulation (EC) No 785/95 is replaced by the following: "- whole plants, harvested green with unripe grain, of the cereals listed in point I of Annex I to Council Regulation (EC) No 1251/1999(7) and having been cultivated on land which was not declared in the area aid application with a view to the aid for arable crops provided for in that Regulation,"</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 12 July 2001.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 63, 21.3.1995, p. 1.</p>
+      <p n="24">(2) OJ L 131, 15.6.1995, p. 1.</p>
+      <p n="25">(3) OJ L 79, 7.4.1995, p. 5.</p>
+      <p n="26">(4) OJ L 83, 27.3.1999, p. 40.</p>
+      <p n="27">(5) OJ L 181, 1.7.1992, p. 12.</p>
+      <p n="28">(6) OJ L 160, 26.6.1999, p. 1.</p>
+      <p n="29">(7) OJ L 160, 26.6.1999, p.1.</p>
+    </body>
+  </text>
+</TEI.2>

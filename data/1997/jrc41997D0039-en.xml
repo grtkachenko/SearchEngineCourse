@@ -1,0 +1,75 @@
+<TEI.2 id="jrc41997D0039-en" n="41997D0039" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41997D0039 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 15 December 1997 on the guiding principles for means of proof and indicative evidence within the framework of readmission agreements between Schengen States (SCH/Com-ex (97) 39 rev.)</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0039:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0039:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1915</classCode>
+        <classCode scheme="eurovoc">4005</classCode>
+        <classCode scheme="eurovoc">488</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41997D0039-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 15 December 1997 on the guiding principles for means of proof and indicative evidence within the framework of readmission agreements between Schengen States (SCH/Com-ex (97) 39 rev.)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 15 December 1997</p>
+      <p n="4">on the guiding principles for means of proof and indicative evidence within the framework of readmission agreements between Schengen States</p>
+      <p n="5">(SCH/Com-ex (97)39 rev.)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Article 23(4) of the abovementioned Convention,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">Document SCH/II-Read (97)3 rev. 7 on the guiding principles for means of proof and indicative evidence under readmission agreements between Schengen States, attached hereto, is hereby approved. The application of these principles is recommended as of the date of adoption of this Decision.</p>
+      <p n="11">Vienna, 15 December 1997.</p>
+      <p n="12">The President</p>
+      <p n="13">K. Schlögl</p>
+      <p n="14">Subject: Guiding principles for means of proof and indicative evidence under readmission agreements between Schengen States</p>
+      <p n="15">SCH/II-Read (97)3 rev. 7</p>
+      <p n="16">Whereas problems have arisen in practice when applying readmission agreements, notably with the means of proof establishing the illegal residence in or transit through the territory of the requested Contracting Party by foreign nationals;</p>
+      <p n="17">The Contracting Parties have adopted the following guiding principles which may be of use to the Contracting Parties when applying future readmission agreements:</p>
+      <p n="18">1. The following documents, inter alia, may be deemed to provide proof of residence or transit:</p>
+      <p n="19">- an entry stamp affixed to the travel document by the requested Contracting Party,</p>
+      <p n="20">- an exit stamp of a State adjacent to a Contracting Party, taking into account the travel route and date of the frontier crossing,</p>
+      <p n="21">- an entry stamp affixed to a false or falsified travel document by the requested Contracting Party,</p>
+      <p n="22">- travel tickets issued by name which can formally establish entry,</p>
+      <p n="23">- fingerprints,</p>
+      <p n="24">- a valid residence permit,</p>
+      <p n="25">- a valid visa issued by the requested Contracting Party,</p>
+      <p n="26">- an embarkation/disembarkation card showing the date of entry into the territory of the requested Contracting Party.</p>
+      <p n="27">2. A presumption of residence or transit may be established, inter alia, by the following indicative evidence:</p>
+      <p n="28">- statements by officials,</p>
+      <p n="29">- statements by third parties,</p>
+      <p n="30">- statements by the person to be transferred,</p>
+      <p n="31">- an expired residence permit issued by the requested Contracting Party, whatever the type,</p>
+      <p n="32">- an expired visa issued by the requested Contracting Party,</p>
+      <p n="33">- documents issued by name in the territory of the requested Contracting Party,</p>
+      <p n="34">- travel tickets,</p>
+      <p n="35">- hotel bills,</p>
+      <p n="36">- cards for access to public or private amenities in the Contracting Parties,</p>
+      <p n="37">- appointment cards for doctors, dentists, etc.,</p>
+      <p n="38">- data showing that the person to be transferred has used the services of a facilitator or travel agency.</p>
+      <p n="39">3. In so far as the Schengen Partners take into account the means of proof listed under point 1 when concluding future readmission agreements, these shall provide conclusive proof of residence or transit. In principle, no further investigation shall be carried out. Evidence to the contrary shall, however, be admissible (e.g. showing a document to be falsified or forged).</p>
+      <p n="40">4. In so far as the Schengen Partners take into account the evidence listed under point 2 when concluding future readmission agreements, such evidence shall establish a presumption of residence or transit. It is by nature rebuttable by evidence to the contrary.</p>
+    </body>
+  </text>
+</TEI.2>

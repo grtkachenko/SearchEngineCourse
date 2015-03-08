@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31997D0685-en" n="31997D0685" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0685 English</title>
+        <title>97/685/EC: Commission Decision of 10 October 1997 amending Decision 92/160/EEC establishing the regionalization of certain third countries for imports of equidae in relation to imports of equidae from Russia (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0685:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0685:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">3031</classCode>
+        <classCode scheme="eurovoc">5876</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0685-en." lang="en">
+    <body>
+      <head n="1">97/685/EC: Commission Decision of 10 October 1997 amending Decision 92/160/EEC establishing the regionalization of certain third countries for imports of equidae in relation to imports of equidae from Russia (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 10 October 1997 amending Decision 92/160/EEC establishing the regionalization of certain third countries for imports of equidae in relation to imports of equidae from Russia (Text with EEA relevance) (97/685/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/426/EEC of 26 June 1990 on animal health conditions governing the movement and imports from third countries of equidae (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 13 (2) thereof,</p>
+      <p n="6">Whereas Commission Decision 92/160/EEC (2), as last amended by Decision 97/350/EC (3), establishes the regionalization of certain third countries for imports of equidae; whereas this regionalization is based on the animal health situation of the third country;</p>
+      <p n="7">Whereas the competent veterinary authorities of Russia have provided sufficient guarantees for the freedom from dourine of the province of Kaliningrad of the Russian Federation; whereas therefore Commission Decision 92/160/EEC must be amended;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The word 'Kaliningrad` is inserted after the words 'the provinces of` in the first indent of the part relating to Russia in the Annex of Decision 92/160/EEC.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Decision is addressed to the Member States.</p>
+      <p n="14">Done at Brussels, 10 October 1997.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Franz FISCHLER</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ L 224, 18. 8. 1990, p. 42.</p>
+      <p n="19">(2) OJ L 71, 18. 3. 1992, p. 27.</p>
+      <p n="20">(3) OJ L 150, 7. 6. 1997, p. 44.</p>
+    </body>
+  </text>
+</TEI.2>

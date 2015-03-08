@@ -1,0 +1,49 @@
+<TEI.2 id="jrc31981R1946-en" n="31981R1946" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31981R1946 English</title>
+        <title>Council Regulation (EEC) No 1946/81 of 30 June 1981 restricting investment aids for milk production</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981R1946:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31981R1946:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31981R1946-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EEC) No 1946/81 of 30 June 1981 restricting investment aids for milk production</head>
+      <p n="2">COUNCIL REGULATION (EEC) No 1946/81 of 30 June 1981 restricting investment aids for milk production</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas Article 8 (1) (b) of Council Directive 72/159/EEC of 17 April 1972 on the modernization of farms (4), as last amended by Directive 81/528/EEC (5), provides for the granting of aid for the investments necessary for carrying out a development plan ; whereas, in order to take account of the objective of market equilibrium in the Community, aid should not be granted for investment in milk production except under certain specific conditions,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">1. Aids for investments in milk production shall be prohibited except in the case of those granted to farmers implementing a development plan in accordance with Directive 72/159/EEC, or farm improvement plans in the framework of common measures.</p>
+      <p n="12">2. The aids referred to in paragraph 1 shall be limited to the investment such as will permit the achievement of the comparable earned income defined in Article 4 (2) of Directive 72/159/EEC for a maximum number of 1 75 man-work units per farm, and shall be subject to the condition that the investment does not increase the number of dairy cows at the end of the plan to more than 40 per man-work unit.</p>
+      <p n="13">However, for farms with more than 1 75 man-work units, aids may be granted for investments such as will permit the increase in the number of dairy cows by no more than 15 % at the end of the plan.</p>
+      <p n="14">3. Member States are authorized to grant investment aids to farmers who do not present a development plan provided that the investment does not increase the number of dairy cows to more than 40 per farm.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Luxembourg, 30 June 1981.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">G. BRAKS</p>
+      <p n="22">(1) OJ No C 124, 17.5.1979, p. 1. (2) OJ No C 85, 8.4.1980, p. 57. (3) OJ No C 53, 3.3.1980, p. 22. (4) OJ No L 96, 23.4.1972, p. 1. (5) See page 41 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

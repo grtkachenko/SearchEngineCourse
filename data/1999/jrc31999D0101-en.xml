@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31999D0101-en" n="31999D0101" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0101 English</title>
+        <title>1999/101/ECSC, Euratom: Commission Decision of 11 December 1998 concerning the conclusion on behalf of the European Coal and Steel Community and the European Atomic Energy Community of the Interim Agreement on trade and trade-related matters between the European Community, the European Coal and Steel Community and the European Atomic Energy Community, of the one part, and the Republic of Azerbaijan, of the other part (notified under document number C(1998) 4008) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0101:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0101:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">5327</classCode>
+        <classCode scheme="eurovoc">5344</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+        <classCode scheme="eurovoc">5407</classCode>
+        <classCode scheme="eurovoc">5454</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0101-en." lang="en">
+    <body>
+      <head n="1">1999/101/ECSC, Euratom: Commission Decision of 11 December 1998 concerning the conclusion on behalf of the European Coal and Steel Community and the European Atomic Energy Community of the Interim Agreement on trade and trade-related matters between the European Community, the European Coal and Steel Community and the European Atomic Energy Community, of the one part, and the Republic of Azerbaijan, of the other part (notified under document number C(1998) 4008) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 11 December 1998 concerning the conclusion on behalf of the European Coal and Steel Community and the European Atomic Energy Community of the Interim Agreement on trade and trade-related matters between the European Community, the European Coal and Steel Community and the European Atomic Energy Community, of the one part, and the Republic of Azerbaijan, of the other part (notified under document number C(1998) 4008) (Text with EEA relevance) (1999/101/ECSC, Euratom)</p>
+      <p n="3">THE EUROPEAN COMMISSION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Coal and Steel Community, and in particular the first paragraph of Article 95 thereof,</p>
+      <p n="5">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular the second paragraph of Article 101 thereof,</p>
+      <p n="6">Whereas, pending the entry into force of the partnership and cooperation Agreement signed in Luxembourg on 22 April 1996, it is necessary to approve the Interim Agreement signed in Brussels on 8 October 1997 between the European Community, the European Coal and Steel Community and the European Atomic Energy Community, of the one part, and the Republic of Azerbaijan, of the other part, on trade and trade-related matters;</p>
+      <p n="7">Whereas the conclusion of the Interim Agreement is necessary to attain the objectives of the Community set out in Articles 2 and 3 of the Treaty establishing the European Coal and Steel Community and whereas the Treaty did not make provision for all the cases covered by this Decision;</p>
+      <p n="8">Having consulted the Consultative Committee and with the assent and approval of the Council, given on 13 October 1998,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Interim Agreement between the European Community, the European Coal and Steel Community and the European Atomic Energy Community, of the one part, and the Republic of Azerbaijan of the other part, on trade and trade-related matters, together with the Protocol and the declarations, is hereby approved on behalf of the European Coal and Steel Community and the European Atomic Energy Community.</p>
+      <p n="12">These text are attached to this Decision (1),</p>
+      <p n="13">Article 2</p>
+      <p n="14">The President of the Commission shall give the notification provided for in Article 32 of the Interim Agreement on behalf of the European Coal and Steel Community and the European Atomic Energy Community.</p>
+      <p n="15">Done at Brussels, 11 December 1998.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Hans VAN DEN BROEK</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ L 285, 22. 10. 1998, p. 2, et seq.</p>
+    </body>
+  </text>
+</TEI.2>

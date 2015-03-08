@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32000D0729-en" n="32000D0729" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0729 English</title>
+        <title>2000/729/EC: Commission Decision of 10 November 2000 on a standard contract covering the terms of use of the Community Eco-label (notified under document number C(2000) 3278) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0729:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0729:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1562</classCode>
+        <classCode scheme="eurovoc">164</classCode>
+        <classCode scheme="eurovoc">5312</classCode>
+        <classCode scheme="eurovoc">5696</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0729-en." lang="en">
+    <body>
+      <head n="1">2000/729/EC: Commission Decision of 10 November 2000 on a standard contract covering the terms of use of the Community Eco-label (notified under document number C(2000) 3278) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 10 November 2000</p>
+      <p n="4">on a standard contract covering the terms of use of the Community Eco-label</p>
+      <p n="5">(notified under document number C(2000) 3278)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/729/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof,</p>
+      <p n="10">Having regard to Regulation (EC) No 1980/2000 of the European Parliament and of the Council of 17 July 2000, on a revised Community Eco-label Award Scheme(1), and in particular Article 9 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Article 9 of Regulation (EC) No 1980/2000 provides that a standard contract shall be adopted in accordance with the procedure laid down in Article 17,</p>
+      <p n="13">(2) It is appropriate, in order not only to avoid distortions of competition but also to ensure that the interests of consumers and users are protected, that the terms of use of the label should be uniform throughout the Community,</p>
+      <p n="14">(3) The competent bodies should, however, be able, subject to compatibility with Regulation (EC) No 1980/2000, to include additional provisions in the contract.</p>
+      <p n="15">(4) It is appropriate that the contract should include provisions for compliance monitoring which should allow the competent body to ensure that the label is used only for products which meet the objectives and principles specified in Article 1 of Regulation (EC) No 1980/2000 and are in accordance with the terms of the contract.</p>
+      <p n="16">(5) It is further appropriate that, in cases of non-compliance with the objectives and principles of the said Regulation and the terms of the contract, provisions should be made for suspension or withdrawal of the award of the label.</p>
+      <p n="17">(6) The measures set out in this Decision are in accordance with the opinion of the Committee set up pursuant to Article 17 of Regulation (EC) No 1980/2000,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">The contract which shall be concluded between the competent body and each applicant in accordance with Article 9 of Regulation (EC) No 1980/2000 shall be in the form set out in the Annex to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">Without prejudice to Article 1, the competent body may include in the contract additional provisions provided that such additional provisions are compatible with Regulation (EC) 1980/2000.</p>
+      <p n="23">Article 3</p>
+      <p n="24">Commission Decision 93/517/EEC of 15 September 1993 on a standard contract covering the terms of use of the Community eco-label(2) is hereby repealed.</p>
+      <p n="25">Article 4</p>
+      <p n="26">This decision is addressed to the Member States.</p>
+      <p n="27">Done at Brussels, 10 November 2000.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">Margot Wallström</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 237, 21.9.2000, p. 1.</p>
+      <p n="32">(2) OJ L 243, 29.9.1993, p. 13.</p>
+      <p n="33">ANNEX</p>
+      <p n="34">&gt;PIC FILE= "L_2000293EN.002102.EPS"&gt;</p>
+      <p n="35">&gt;PIC FILE= "L_2000293EN.002201.EPS"&gt;</p>
+      <p n="36">&gt;PIC FILE= "L_2000293EN.002301.EPS"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

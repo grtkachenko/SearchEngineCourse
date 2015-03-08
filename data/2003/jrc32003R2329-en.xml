@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32003R2329-en" n="32003R2329" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2329 English</title>
+        <title>Council Regulation (EC) No 2329/2003 of 22 December 2003 on the conclusion of the Fisheries Agreement between the European Community and the Republic of Mozambique</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2329:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2329:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2018</classCode>
+        <classCode scheme="eurovoc">2556</classCode>
+        <classCode scheme="eurovoc">5254</classCode>
+        <classCode scheme="eurovoc">544</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2329-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2329/2003 of 22 December 2003 on the conclusion of the Fisheries Agreement between the European Community and the Republic of Mozambique</head>
+      <p n="2">Council Regulation (EC) No 2329/2003</p>
+      <p n="3">of 22 December 2003</p>
+      <p n="4">on the conclusion of the Fisheries Agreement between the European Community and the Republic of Mozambique</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 37, in conjunction with Article 300(2) and the first subparagraph of Article 300(3) thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The Community and the Republic of Mozambique have negotiated and initialled a Fisheries Agreement providing Community fishermen with fishing opportunities in the waters over which Mozambique has sovereignty or jurisdiction in respect of fisheries.</p>
+      <p n="11">(2) In addition, that Agreement provides for economic, financial, technical and scientific cooperation in the fisheries sector with a view to guaranteeing the conservation and sustainable exploitation of resources, as well as partnerships between undertakings aimed at developing in the common interest economic activities in the fisheries sector and related activities.</p>
+      <p n="12">(3) That Agreement should be approved.</p>
+      <p n="13">(4) The allocation of the fishing opportunities among the Member States should be defined,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Fisheries Agreement between the European Community and the Republic of Mozambique (hereinafter referred to as "the Agreement") is hereby approved on behalf of the Community.</p>
+      <p n="17">The text of the Agreement is attached to this Regulation.</p>
+      <p n="18">Article 2</p>
+      <p n="19">The fishing opportunities set out in the Protocol to the Agreement shall be allocated among the Member States as follows:</p>
+      <p n="20">&gt;TABLE&gt;</p>
+      <p n="21">If licence applications from these Member States do not cover all the fishing opportunities fixed by the Protocol, the Commission may take into consideration licence applications from any other Member State.</p>
+      <p n="22">Article 3</p>
+      <p n="23">The Member States whose vessels fish under this Agreement shall notify the Commission of the quantities of each stock caught within the Mozambican fishing zone in accordance with Commission Regulation (EC) No 500/2001 of 14 March 2001 laying down detailed rules for the application of Council Regulation (EEC) No 2847/93 on the monitoring of catches taken by Community fishing vessels in third-country waters and on the high seas(2).</p>
+      <p n="24">Article 4</p>
+      <p n="25">The President of the Council is hereby authorised to designate the person(s) empowered to sign the Agreement in order to bind the Community(3).</p>
+      <p n="26">Article 5</p>
+      <p n="27">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Union.</p>
+      <p n="28">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="29">Done at Brussels, 22 December 2003.</p>
+      <p n="30">For the Council</p>
+      <p n="31">The President</p>
+      <p n="32">A. Matteoli</p>
+      <p n="33">(1) Opinion delivered on 4 December 2003 (not yet published in the Official Journal).</p>
+      <p n="34">(2) OJ L 73, 15.3.2001, p. 8.</p>
+      <p n="35">(3) The date of entry into force of the Agreement will be published in the Official Journal of the European Union by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

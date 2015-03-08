@@ -1,0 +1,165 @@
+<TEI.2 id="jrc32000R1072-en" n="32000R1072" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1072 English</title>
+        <title>Commission Regulation (EC) No 1072/2000 of 19 May 2000 amending Regulation (EEC) No 1538/91 introducing detailed rules for implementing Regulation (EEC) No 1906/90 on certain marketing standards for poultrymeat</title>
+      </titleStmt>
+      <extent>128 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1072:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1072:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">4687</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1072-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1072/2000 of 19 May 2000 amending Regulation (EEC) No 1538/91 introducing detailed rules for implementing Regulation (EEC) No 1906/90 on certain marketing standards for poultrymeat</head>
+      <p n="2">Commission Regulation (EC) No 1072/2000</p>
+      <p n="3">of 19 May 2000</p>
+      <p n="4">amending Regulation (EEC) No 1538/91 introducing detailed rules for implementing Regulation (EEC) No 1906/90 on certain marketing standards for poultrymeat</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 1906/90 of 26 June 1990 on certain marketing standards for poultrymeat(1), as last amended by Regulation (EC) No 1101/98(2), and in particular Articles 7 and 9 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Commission Regulation (EEC) No 1538/91(3), as last amended by Regulation (EC) No 1000/96(4), lays down the detailed rules for implementing marketing standards in the poultrymeat sector.</p>
+      <p n="10">(2) By Regulation (EC) No 1101/98 the scope of Regulation (EEC) No 1906/90 was extended to cover the control of water content of poultry cuts. It is therefore necessary to lay down the detailed provisions for such controls which are similar to those for whole frozen and quick frozen carcases and which include the list of products concerned and the appropriate method of control.</p>
+      <p n="11">(3) The provisions on water control should also be adapted regarding national measures for checks at all stages of marketing and to update the list of reference laboratories.</p>
+      <p n="12">(4) The age of slaughter for young geese, in which the sternum is not yet ossified must be laid down in the context of the indication of particular types of farming.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Committee for Poultrymeat and Eggs,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Regulation (EEC) No 1538/91 is amended as follows:</p>
+      <p n="17">1. The following point (n) is added in Article 1(2):</p>
+      <p n="18">"(n) deboned turkey leg meat: turkey thighs and/or drumsticks, deboned, i.e. without femur, tibia and fibula, whole, diced or cut into strips."</p>
+      <p n="19">2. Article 14(a) is amended as follows:</p>
+      <p n="20">- in paragraph 3 first subparagraph, "four" is replaced by "eight",</p>
+      <p n="21">- paragraph 13 is replaced by the following:</p>
+      <p n="22">"13. The Member States shall adopt the practical measures for the checks provided for in this Article at all stages of marketing including checks of imports from third countries at the time of customs clearance in accordance with Annexes V and VI. They shall inform the other Member States and the Commission before 1 September 2000 of these measures. Any relevant changes shall be communicated immediately to the other Member States and to the Commission."</p>
+      <p n="23">3. The following Article 14(b) is inserted:</p>
+      <p n="24">"Article 14b</p>
+      <p n="25">1. The following fresh, frozen and quick-frozen poultry cuts may be marketed by way of business or trade within the Community only if the water content does not exceed the technically unavoidable values determined by the method of analysis described in Annex VIa (chemical method):</p>
+      <p n="26">(a) chicken breast fillet, with or without wishbone, without skin;</p>
+      <p n="27">(b) chicken breast, with skin;</p>
+      <p n="28">(c) chicken thighs, drumsticks, legs, legs with a portion of the back, leg-quarters, with skin;</p>
+      <p n="29">(d) turkey breast fillet, without skin;</p>
+      <p n="30">(e) turkey breast, with skin;</p>
+      <p n="31">(f) turkey thighs, drumsticks, legs, with skin;</p>
+      <p n="32">(g) deboned turkey leg meat, without skin.</p>
+      <p n="33">2. The competent authorities designated by each Member State shall ensure that the slaughterhouses and cutting plants whether or not attached to slaughterhouses adopt all measures necessary to comply with the provisions of paragraph 1 and in particular that:</p>
+      <p n="34">- regular checks on water absorbed are carried out in the slaughterhouses in accordance with Article 14a(3) also for chicken and turkey carcases intended for the production of the fresh, frozen and quick-frozen cuts listed in paragraph 1. These checks shall be carried out at least once each working period of eight hours. The limit values fixed in Annex VII(9) shall also apply for turkey carcases,</p>
+      <p n="35">- results of the checks are recorded and kept for a period of one year,</p>
+      <p n="36">- each batch is marked in such a way that its date of production can be identified; this batch mark must appear on the production record.</p>
+      <p n="37">3. At least once every three months checks on the water content referred to in paragraph 1 shall be carried out, by sampling, on frozen and quick-frozen poultry cuts from each cutting-plant producing such cuts, according to Annex VIa. These checks shall not be conducted for poultry cuts in respect of which proof is provided to the satisfaction of the competent authority that they are intended exclusively for export.</p>
+      <p n="38">After one year of satisfactory testing in a particular cutting plant, the frequency of tests shall be reduced to once every six months. Any failure to comply with the criteria laid down in Annex VIa thereafter shall result in reinstatement of checks at least every three months for a period of not less than two years before the reduced frequency can be applied again.</p>
+      <p n="39">4. Paragraphs 5 to 13 of Article 14a shall apply, mutatis mutandis, for poultry cuts referred to in paragraph 1."</p>
+      <p n="40">4. In Annex IV the following is added in relation to minimum age of slaughter:</p>
+      <p n="41">- under (b) "extensive indoor":</p>
+      <p n="42">- "young geese (goslings): 60 days or later",</p>
+      <p n="43">- under (d) "traditional free range":</p>
+      <p n="44">- "60 days for young geese (goslings)".</p>
+      <p n="45">5. The Annex to this Regulation is inserted as Annex VIa.</p>
+      <p n="46">6. Annex VII is amended as follows:</p>
+      <p n="47">- point 1 is replaced by the following:</p>
+      <p n="48">"1. At least once each working period of eight hours:</p>
+      <p n="49">select at random 25 carcases from the evisceration line immediately after evisceration and the removal of the offal and fat and before the first subsequent washing",</p>
+      <p n="50">- the following point 8a is inserted:</p>
+      <p n="51">"8a Instead of manual weighing as described under points 1 to 8 automatic weighing lines may be used for the determination of the percentage moisture absorption for the same number of carcases and according to the same principles, provided that the automatic weighing line is approved in advance for this purpose by the competent authority."</p>
+      <p n="52">7. In Annex VIII, the addresses of the following reference laboratories are changed to read as indicated hereafter:COMMUNITY REFERENCE LABORATORY:</p>
+      <p n="53">ID/Lelystad Postbus 65 Edelhertweg 15 8200 AB Lelystad The Netherlands</p>
+      <p n="54">BELGIUM</p>
+      <p n="55">Faculteit Diergeneeskunde Vakgroep "Diergeneeskundig toezicht op eetwaren"</p>
+      <p n="56">Universiteit Gent</p>
+      <p n="57">Salisburylaan 133 B - 9820 Merelbeke</p>
+      <p n="58">GREECE</p>
+      <p n="59">Ministry of Agriculture Veterinary Laboratory of Patra 15, Notara Street GR - 264 42 Patra</p>
+      <p n="60">ITALY</p>
+      <p n="61">Ispettorato Centrale Repressione Frodi Via Jacopo Cavedone n.29 I - 41100 Modena</p>
+      <p n="62">NETHERLANDS</p>
+      <p n="63">ID/Lelystad Postbus 65 Edelhertweg 15 8200 AB Lelystad</p>
+      <p n="64">UNITED KINGDOM</p>
+      <p n="65">CSL Food Science Laboratory Sand Hutton York Y04 1LZ United Kingdom</p>
+      <p n="66">AUSTRIA</p>
+      <p n="67">Bundesamt und Forschungszentrum für Landwirtschaft Spargelfeldstr. 191 A - 1220 Wien.</p>
+      <p n="68">Article 2</p>
+      <p n="69">This Regulation shall enter into force on the seventhieth day following its publication in the Official Journal of the European Communities. It shall be applicable from 1 July 2000. However, points 2, 3 and 5 of Article 1 shall be applicable from 1 September 2000.</p>
+      <p n="70">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="71">Done at Brussels, 19 May 2000.</p>
+      <p n="72">For the Commission</p>
+      <p n="73">Franz Fischler</p>
+      <p n="74">Member of the Commission</p>
+      <p n="75">(1) OJ L 173, 6.7.1990, p. 1.</p>
+      <p n="76">(2) OJ L 157, 30.5.1998, p. 12.</p>
+      <p n="77">(3) OJ L 143, 7.6.1991, p. 11.</p>
+      <p n="78">(4) OJ L 134, 5.6.1996, p. 9.</p>
+      <p n="79">ANNEX</p>
+      <p n="80">"ANNEX VIa</p>
+      <p n="81">DETERMINATION OF THE TOTAL WATER CONTENT OF POULTRY CUTS</p>
+      <p n="82">(Chemical test)</p>
+      <p n="83">1. Object and scope</p>
+      <p n="84">This method shall be used to determine the total water content of certain poultry cuts. The method shall involve determination of the water and protein contents of samples from the homogenised poultry cuts. The total water content as determined shall be compared with the limit value given by the formulae indicated in paragraph 6.4, to determine whether or not excess water has been taken up during processing. If the analyst suspects the presence of any substance which may interfere with the assessment, it shall be for him or her to take the necessary appropriate precautions.</p>
+      <p n="85">2. Definitions and sampling procedures</p>
+      <p n="86">The definitions given in Article 1(2) are applicable to the poultry cuts referred to in Article 14b. The sample sizes should be at least as follows:</p>
+      <p n="87">chicken breast, chicken breast fillet: half of the (deboned) breast</p>
+      <p n="88">turkey breast, turkey breast fillet and deboned leg meat: portions of about 100 g</p>
+      <p n="89">other cuts: as defined in Article 1(2).</p>
+      <p n="90">In the case of frozen or quick frozen bulk products (cuts not individually packed) the large packs from which samples are to be taken may be kept at 0 °C until individual cuts can be removed.</p>
+      <p n="91">3. Principle</p>
+      <p n="92">Water and protein contents shall be determined in accordance with recognised ISO (International Organisation for Standardisation) methods or other methods or analysis approved by the Council.</p>
+      <p n="93">The highest permissible total water content of the poultry cuts will be estimated from the protein content of the cuts, which can be related to the physiological water content.</p>
+      <p n="94">4. Apparatus and reagents</p>
+      <p n="95">4.1. Scales for weighing the cuts and wrappings, capable of weighing with an accuracy better than +- 1 g.</p>
+      <p n="96">4.2. Meat axe or saw for cutting cuts into pieces of appropriate size for the mincer.</p>
+      <p n="97">4.3. Heavy-duty mincing machine and blender capable of homogenising poultry cuts or parts thereof.</p>
+      <p n="98">Note:</p>
+      <p n="99">No special mincer shall be recommended. It should have sufficient power to mince also frozen or quick-frozen meat and bones to produce a homogeneous mixture corresponding to that obtained from a mincer fitted with a 4 mm hole disc.</p>
+      <p n="100">4.4. Apparatus as specified in ISO 1442, for the determination of water content.</p>
+      <p n="101">4.5. Apparatus as specified in ISO 937, for the determination of protein content.</p>
+      <p n="102">5. Procedure</p>
+      <p n="103">5.1. Five cuts shall be taken at random from the quantity of poultry cuts to be checked and in each case kept frozen or refrigerated as the case may be until analysis in accordance with points 5.2 to 5.6 begins.</p>
+      <p n="104">Samples from frozen or quick-frozen bulk products referred to under point 2 may be kept at 0 °C until analysis begins.</p>
+      <p n="105">It may be conducted either as an analysis of each of the five cuts, or as an analysis of a composite sample of the five cuts.</p>
+      <p n="106">5.2. The preparation shall be commenced within the hour following the removal of the cuts from the freezer or refrigerator.</p>
+      <p n="107">5.3. (a) The outside of the pack shall be wiped to remove superficial ice and water. Each cut shall be weighed and removed from any wrapping material. After cutting up the cuts into smaller pieces, the weight of the poultry cut shall be determined to the nearest gram after deduction of the weight of any wrapping material removed to give "P1".</p>
+      <p n="108">(b) In the case of a composite sample analysis, the total weight of the five cuts, prepared in accordance with 5.3(a), shall be determined to give "P5".</p>
+      <p n="109">5.4. (a) The whole cut of which the weight is P1, shall be minced in a mincer as specified under point 4.3 (and, if necessary, mixed with the use of a blender as well) to obtain a homogeneous material from which a sample representative of each cut may then be taken.</p>
+      <p n="110">(b) In the case of a composite sample analysis, all five cuts of which the weight is P5 shall be minced in a mincer as specified under point 4.3 (and, if necessary, mixed with the use of a blender as well) to obtain a homogeneous material from which two samples representative of the five cuts may then be taken.</p>
+      <p n="111">The two samples are to be analysed as described in points 5.5 and 5.6.</p>
+      <p n="112">5.5. A sample of the homogenised material shall be taken and used immediately to determine the water content in accordance with ISO 1442 to give the water content "a %".</p>
+      <p n="113">5.6. A sample of the homogenised material shall also be taken and used immediately to determine the nitrogen content in accordance with ISO 937. This nitrogen content shall be converted to crude protein content "b %" by multiplying it by the factor 6,25.</p>
+      <p n="114">6. Calculation of results</p>
+      <p n="115">6.1. (a) The weight of water (W) in each cut shall be given by aP1/100 and the weight of protein (RP) by bP1/100, both of which are to be expressed in grams.</p>
+      <p n="116">The sums of the weights of water (W5) and the weights of protein (RP5) in the five cuts analysed shall be determined.</p>
+      <p n="117">(b) In the case of a composite sample analysis, the average content of water and protein from the two samples analysed shall be determined to give a % and b %, respectively. The weight of the water (W5) in the five cuts shall be given by aP5/100, and the weight of protein (RP5) by bP5/100, both of which are to be expressed in grams.</p>
+      <p n="118">6.2. The average weight of water (WA) and protein (RPA) shall be calculated by dividing W5 and RP5 respectively, by five.</p>
+      <p n="119">6.3. The mean physiological W/RP ratio as determined by this method is as follows:</p>
+      <p n="120">- chicken breast fillet: 3,19 +- 0,12</p>
+      <p n="121">- chicken legs and leg quarters: 3,78 +- 0,19</p>
+      <p n="122">- turkey breast fillet: 3,05 +- 0,15</p>
+      <p n="123">- turkey legs: 3,58 +- 0,15</p>
+      <p n="124">- deboned turkey leg meat: 3,65 +- 0,17.</p>
+      <p n="125">6.4. Assuming that the minimum technically unavoidable water content absorbed during preparation amounts to 2 %, 4 % or 6 %(1) depending on the type of products and chilling methods applied, the highest permissible W/RP ratio as determined by this method shall be as follows:</p>
+      <p n="126">&gt;TABLE&gt;</p>
+      <p n="127">If the average WA/RPA ratio of the five cuts as calculated from the values under point 6.2 does not exceed the ratio given in point 6.4, the quantity of poultry cuts subjected to the check shall be considered up to standard.</p>
+      <p n="128">(1) Calculated on the basis of the cut, exclusive of absorbed extraneous water. For (skinless) fillet and deboned turkey leg meat, the percentage is 2 % for each of the chilling methods."</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32003R0130-en" n="32003R0130" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0130 English</title>
+        <title>Commission Regulation (EC) No 130/2003 of 24 January 2003 fixing the aid for tomatoes for processing for the 2003/04 marketing year under Council Regulation (EC) No 2201/96</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0130:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0130:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1605</classCode>
+        <classCode scheme="eurovoc">2731</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0130-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 130/2003 of 24 January 2003 fixing the aid for tomatoes for processing for the 2003/04 marketing year under Council Regulation (EC) No 2201/96</head>
+      <p n="2">Commission Regulation (EC) No 130/2003</p>
+      <p n="3">of 24 January 2003</p>
+      <p n="4">fixing the aid for tomatoes for processing for the 2003/04 marketing year under Council Regulation (EC) No 2201/96</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2201/96 of 28 October 1996 on the common organisation of the markets in processed fruit and vegetable products(1), as last amended by Commission Regulation (EC) No 453/2002(2), and in particular Article 6(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 2(3) of Commission Regulation (EC) No 449/2001 of 2 March 2001 laying down detailed rules for the implementation of Regulation (EC) No 2201/96 as regards the aid scheme for products processed from fruit and vegetables(3), as last amended by Regulation (EC) No 1426/2002(4), stipulates that the Commission is to publish the amount of the aid for tomatoes after verifying that the thresholds fixed in Annex III to Regulation (EC) No 2201/96 have been complied with.</p>
+      <p n="10">(2) Article 5(3)(c) of Regulation (EC) No 2201/96 provides that for the 2003/04 marketing year the overrun of the processing threshold is to be calculated on the basis of the average quantity supplied for processing with aid during the 2001/02 and 2002/03 years.</p>
+      <p n="11">(3) The average quantities of tomatoes delivered for processing with aid during the 2001/02 and 2002/03 marketing years as notified by the Member States under Article 23(2)(a) of Regulation (EC) No 449/2001 are below the Community threshold. Since the threshold has not been overrun, the aid for the 2003/04 marketing year should be kept at the level fixed in Article 4(2) of Regulation (EC) No 2201/96.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Products Processed from Fruit and Vegetables,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">For the 2003/04 marketing year the aid for tomatoes referred to in Article 2 of Regulation (EC) No 2201/96 shall be EUR 34,50/tonne.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 24 January 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 297, 21.11.1996, p. 29.</p>
+      <p n="24">(2) OJ L 72, 14.3.2002, p. 9.</p>
+      <p n="25">(3) OJ L 64, 6.3.2001, p. 16.</p>
+      <p n="26">(4) OJ L 206, 3.8.2002, p. 4.</p>
+    </body>
+  </text>
+</TEI.2>

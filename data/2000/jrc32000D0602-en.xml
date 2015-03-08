@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32000D0602-en" n="32000D0602" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0602 English</title>
+        <title>2000/602/EC: Council Decision of 28 September 2000 on the conclusion of an agreement between the European Community and the Kingdom of Norway on the participation of Norway in the work of the European Monitoring Centre for Drugs and Drug Addiction</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0602:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0602:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">3422</classCode>
+        <classCode scheme="eurovoc">5757</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0602-en." lang="en">
+    <body>
+      <head n="1">2000/602/EC: Council Decision of 28 September 2000 on the conclusion of an agreement between the European Community and the Kingdom of Norway on the participation of Norway in the work of the European Monitoring Centre for Drugs and Drug Addiction</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 28 September 2000</p>
+      <p n="4">on the conclusion of an agreement between the European Community and the Kingdom of Norway on the participation of Norway in the work of the European Monitoring Centre for Drugs and Drug Addiction</p>
+      <p n="5">(2000/602/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 30 in conjunction with the second sentence of the first subparagraph of Article 300(2) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Council Regulation (EEC) No 302/93 of 8 February 1993 on the establishment of a European Monitoring Centre for Drugs and Drug Addiction(3), provides, in Article 13 thereof, that the Centre is to be open to the participation of non-Community countries which share the Community's interests and those of its Member States in the Centre's objectives and work.</p>
+      <p n="12">(2) The Agreement between the Community and Norway on the participation of the latter in the European Monitoring Centre for Drugs and Drug Addiction, negotiated, on behalf of the European Community, by the Commission should be approved,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Agreement between the European Community and the Kingdom of Norway on the participation of Norway in the work of the European Monitoring Centre for Drugs and Drug Addiction is hereby approved on behalf of the Community.</p>
+      <p n="16">The text of the Agreement is attached to this Decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is authorised to designate the person who shall be empowered to sign the Agreement in order to bind the Community and to give the notification by means of the diplomatic note provided for in Article 12 of the Agreement(4).</p>
+      <p n="19">Done at Brussels, 28 September 2000.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">D. Vaillant</p>
+      <p n="23">(1) OJ C 376 E, 28.12.1999, p. 58.</p>
+      <p n="24">(2) Opinion delivered on 16 June 2000 (not yet published in the Official Journal).</p>
+      <p n="25">(3) OJ L 36, 12.2.1993, p. 1. Regulation as amended by Regulation (EC) No 3294/94 (OJ L 341, 30.12.1994, p. 7.)</p>
+      <p n="26">(4) The date of the entry into force of the Agreement will be published in the Official Journal of the European Communities by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

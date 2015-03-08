@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31996D0624-en" n="31996D0624" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0624 English</title>
+        <title>96/624/EC: Commission Decision of 17 October 1996 amending Council Decision 79/542/EEC drawing up a list of third countries from which the Member States authorize imports of bovine animals, swine, equidae, sheep and goats, fresh meat and meat products (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0624:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0624:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2738</classCode>
+        <classCode scheme="eurovoc">4689</classCode>
+        <classCode scheme="eurovoc">5962</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0624-en." lang="en">
+    <body>
+      <head n="1">96/624/EC: Commission Decision of 17 October 1996 amending Council Decision 79/542/EEC drawing up a list of third countries from which the Member States authorize imports of bovine animals, swine, equidae, sheep and goats, fresh meat and meat products (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 17 October 1996 amending Council Decision 79/542/EEC drawing up a list of third countries from which the Member States authorize imports of bovine animals, swine, equidae, sheep and goats, fresh meat and meat products (Text with EEA relevance) (96/624/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 72/462/EEC of 12 December 1972 on health and veterinary inspection problems upon importation of bovine, ovine and caprine animals and swine, fresh meat or meat products from third countries (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 3 thereof,</p>
+      <p n="6">Whereas Council Decision 79/542/EEC (2), as last amended by Commission Decision 96/605/EC (3), draws up a list of third countries from which Member States authorize imports of bovine animals, swine, equidae, sheep and goats, fresh meat and meat products;</p>
+      <p n="7">Whereas the authorities of Argentina and Uruguay have provided the Commission with satisfactory information on the health situation and veterinary structures responsible for checking, in both of these countries, the meat of wild cloven-hoofed animals;</p>
+      <p n="8">Whereas the authorities of the Czech Republic have provided the Commission with satisfactory information on the health situation and the veterinary structures responsible for the prevention of classical swine fever in wild boar;</p>
+      <p n="9">Whereas Decision 79/542/EEC must be amended as a result;</p>
+      <p n="10">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The Annex to Decision 79/542/EEC is replaced by the Annex to this Decision.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Decision is addressed to the Member States.</p>
+      <p n="16">Done at Brussels, 17 October 1996.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 302, 31. 12. 1972, p. 28.</p>
+      <p n="21">(2) OJ No L 146, 14. 6. 1979, p. 15.</p>
+      <p n="22">(3) OJ No L 267, 19. 10. 1996, p. 29.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">'ANNEX</p>
+      <p n="25">This is a list in principle, imports shall fulfil the appropriate animal and public health requirements</p>
+      <p n="26">PART 1</p>
+      <p n="27">LIVE ANIMALS, FRESH MEAT AND MEAT PRODUCTS</p>
+      <p n="28">&gt;TABLE&gt;</p>
+      <p n="29">PART 2</p>
+      <p n="30">SPECIAL COLUMN FOR REGISTERED HORSES</p>
+      <p n="31">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

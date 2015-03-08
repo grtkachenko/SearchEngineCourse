@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32002D0235-en" n="32002D0235" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0235 English</title>
+        <title>2002/235/EC: Commission Decision of 13 March 2002 amending Decision 97/245/EC, Euratom laying down the arrangements for the transmission by Member States to the Commission of certain information under the Communities' own resources system (notified under document number C(2002) 416)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0235:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0235:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1092</classCode>
+        <classCode scheme="eurovoc">3258</classCode>
+        <classCode scheme="eurovoc">3259</classCode>
+        <classCode scheme="eurovoc">3560</classCode>
+        <classCode scheme="eurovoc">5648</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0235-en." lang="en">
+    <body>
+      <head n="1">2002/235/EC: Commission Decision of 13 March 2002 amending Decision 97/245/EC, Euratom laying down the arrangements for the transmission by Member States to the Commission of certain information under the Communities' own resources system (notified under document number C(2002) 416)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 13 March 2002</p>
+      <p n="4">amending Decision 97/245/EC, Euratom laying down the arrangements for the transmission by Member States to the Commission of certain information under the Communities' own resources system</p>
+      <p n="5">(notified under document number C(2002) 416)</p>
+      <p n="6">(2002/235/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Decision 94/728/EC, Euratom of 31 October 1994 on the system of the Communities' own resources(1), and in particular Article 8(2) thereof,</p>
+      <p n="10">Having regard to Council Regulation (EC, Euratom) No 1150/2000 of 22 May 2000 on the system of the Communities' own resources(2), implementing Decision 94/728/EC, Euratom in particular Article 8(2) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) In Regulation (EC, Euratom) No 1355/96(3), the Council adopted provisions designed to improve certain parts of the arrangements for Member States to report to the Commission about action they have taken to recover own resources, in particular where fraud and irregularities are involved.</p>
+      <p n="13">(2) On that basis, the Commission adopted Decision 97/245/EC, Euratom on 20 March 1997 laying down the arrangements for the transmission of information to the Commission by the Member States under the own resources system(4).</p>
+      <p n="14">(3) For reasons of cost-effectiveness, the use of the available sources of information should be rationalised by concentrating in particular on information relating to cases of fraud and irregularities that are representative in terms of impact.</p>
+      <p n="15">(4) Steps should be taken to capitalise on the experience acquired in the transmission of requests for write-offs and to improve the presentation of the form used to that end.</p>
+      <p n="16">(5) The measures provided for in this Decision are consistent with the opinion of the Advisory Committee on own resources provided for in Article 20 of Regulation (EC, Euratom) No 1150/2000,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Annex VI of Decision 97/245/EC, Euratom is hereby replaced by the new Annex 6 attached to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 13 March 2002.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Michaele Schreyer</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 293, 12.11.1994, p. 9.</p>
+      <p n="27">(2) OJ L 130, 31.5.2000, p. 1.</p>
+      <p n="28">(3) OJ L 175, 13.7.1996, p. 3.</p>
+      <p n="29">(4) OJ L 97, 12.4.1997, p. 12.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">'</p>
+      <p n="32">ANNEX VI</p>
+      <p n="33">&gt;PIC FILE= "L_2002079EN.006203.TIF"&gt;</p>
+      <p n="34">&gt;PIC FILE= "L_2002079EN.006301.TIF"&gt;</p>
+      <p n="35">&gt;PIC FILE= "L_2002079EN.006401.TIF"&gt;</p>
+      <p n="36">&gt;PIC FILE= "L_2002079EN.006501.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31997L0075-en" n="31997L0075" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997L0075 English</title>
+        <title>Council Directive 97/75/EC of 15 December 1997 amending and extending, to the United Kingdom of Great Britain and Northern Ireland, Directive 96/34/EC on the framework agreement on parental leave concluded by UNICE, CEEP and the ETUC</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0075:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997L0075:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">105</classCode>
+        <classCode scheme="eurovoc">1379</classCode>
+        <classCode scheme="eurovoc">1505</classCode>
+        <classCode scheme="eurovoc">2501</classCode>
+        <classCode scheme="eurovoc">3774</classCode>
+        <classCode scheme="eurovoc">5739</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997L0075-en." lang="en">
+    <body>
+      <head n="1">Council Directive 97/75/EC of 15 December 1997 amending and extending, to the United Kingdom of Great Britain and Northern Ireland, Directive 96/34/EC on the framework agreement on parental leave concluded by UNICE, CEEP and the ETUC</head>
+      <p n="2">COUNCIL DIRECTIVE 97/75/EC of 15 December 1997 amending and extending, to the United Kingdom of Great Britain and Northern Ireland, Directive 96/34/EC on the framework agreement on parental leave concluded by UNICE, CEEP and the ETUC</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 100 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas the Council, acting in accordance with the Agreement on social policy annexed to Protocol 14 to the Treaty, and in particular Article 4(2) thereof, adopted Directive 96/34/EC (4); whereas, as a result, the said Directive does not apply to the United Kingdom of Great Britain and Northern Ireland;</p>
+      <p n="9">Whereas the Amsterdam European Council, held on 16 and 17 June 1997, noted with approval the agreement of the Intergovernmental Conference to incorporate the Agreement on social policy in the Treaty and also noted that a means had to be found to give legal effect to the wish of the United Kingdom of Great Britain and Northern Ireland to accept the Directives already adopted on the basis of that Agreement before the signature of the Amsterdam Treaty; whereas this Directive seeks to achieve this aim by extending Directive 96/34/EC to the United Kingdom;</p>
+      <p n="10">Whereas the fact that Directive 96/34/EC is not applicable in the United Kingdom directly affects the functioning of the internal market; whereas implementation of the framework agreement annexed to the said Directive and, in particular, the principle of reconciliation of parental and professional responsibilities for working parents, in all the Member States will improve the functioning of the internal market;</p>
+      <p n="11">Whereas implementation of the framework agreement aims, in particular, at achieving the objective of equal treatment between men and women with regard to labour opportunities and treatment at work, and the reconciliation of working and family life;</p>
+      <p n="12">Whereas the adoption of this Directive will make Directive 96/34/EC applicable in the United Kingdom; whereas, from the date on which this Directive enters into force, the term 'Member States` in Directive 96/34/EC should be construed as including the United Kingdom,</p>
+      <p n="13">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Without prejudice to Article 2, Directive 96/34/EC shall apply to the United Kingdom of Great Britain and Northern Ireland.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The following paragraph shall be inserted in Article 2 of Directive 96/34/EC:</p>
+      <p n="18">'1a. As regards the United Kingdom of Great Britain and Northern Ireland, the date of 3 June 1998 in paragraph 1 shall be replaced by 15 December 1999.`</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Directive is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 15 December 1997.</p>
+      <p n="22">For the Council</p>
+      <p n="23">The President</p>
+      <p n="24">J.-C. JUNCKER</p>
+      <p n="25">(1) OJ C 335, 6. 11. 1997.</p>
+      <p n="26">(2) OJ C 371, 8. 12. 1997.</p>
+      <p n="27">(3) OJ C 355, 21. 11. 1997.</p>
+      <p n="28">(4) OJ L 145, 19. 6. 1996, p. 4.</p>
+    </body>
+  </text>
+</TEI.2>

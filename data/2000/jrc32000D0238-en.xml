@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32000D0238-en" n="32000D0238" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0238 English</title>
+        <title>2000/238/EC: Commission Decision of 9 March 2000 amending Decision 97/830/EC as regards points of entry for Germany (notified under document number C(2000) 501) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0238:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0238:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1116</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1501</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">181</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0238-en." lang="en">
+    <body>
+      <head n="1">2000/238/EC: Commission Decision of 9 March 2000 amending Decision 97/830/EC as regards points of entry for Germany (notified under document number C(2000) 501) (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 9 March 2000</p>
+      <p n="4">amending Decision 97/830/EC as regards points of entry for Germany</p>
+      <p n="5">(notified under document number C(2000) 501)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2000/238/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 93/43/EEC of 14 June 1993 on the hygiene of foodstuffs(1), and in particular Article 10(1) thereof,</p>
+      <p n="11">After consulting the Member States,</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) The Commission, in Decision 97/830/EC(2), as amended by Decision 98/400/EC(3), adopted measures imposing special conditions on the importation of pistachios and certain products derived from pistachios originating in, or consigned from Iran.</p>
+      <p n="14">(2) It is necessary to add to Annex II to Decision 97/830/EC two more points of entry for Germany through which those pistachios and products may be imported.</p>
+      <p n="15">(3) For the sake of clarity, therefore, Annex II should be replaced,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Annex II to Decision 97/830/EC is replaced by the Annex to this Decision.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 9 March 2000.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Erkki Liikanen</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 175, 19.7.1993, p. 1.</p>
+      <p n="26">(2) OJ L 343, 13.12.1997, p. 30.</p>
+      <p n="27">(3) OJ L 176, 20.6.1998, p. 37.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">"ANNEX II</p>
+      <p n="30">List of points of entry through which pistachios and products derived from pistachios originating in, or consigned from Iran may be imported into the European Community</p>
+      <p n="31">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

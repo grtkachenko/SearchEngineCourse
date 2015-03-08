@@ -1,0 +1,66 @@
+<TEI.2 id="jrc22003D0001-en" n="22003D0001" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 22003D0001 English</title>
+        <title>Decision of the EEA Joint Committee No 1/2003 of 31 January 2003 amending Annex I (Veterinary and phytosanitary matters) to the EEA Agreement</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0001:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:22003D0001:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1464</classCode>
+        <classCode scheme="eurovoc">1596</classCode>
+        <classCode scheme="eurovoc">1649</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">3422</classCode>
+        <classCode scheme="eurovoc">4125</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc22003D0001-en." lang="en">
+    <body>
+      <head n="1">Decision of the EEA Joint Committee No 1/2003 of 31 January 2003 amending Annex I (Veterinary and phytosanitary matters) to the EEA Agreement</head>
+      <p n="2">Decision of the EEA Joint Committee</p>
+      <p n="3">No 1/2003</p>
+      <p n="4">of 31 January 2003</p>
+      <p n="5">amending Annex I (Veterinary and phytosanitary matters) to the EEA Agreement</p>
+      <p n="6">THE EEA JOINT COMMITTEE,</p>
+      <p n="7">Having regard to the Agreement on the European Economic Area, as amended by the Protocol adjusting the Agreement on the European Economic Area, hereinafter referred to as "the Agreement", and in particular Article 98 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Annex I to the Agreement was amended by Decision of the EEA Joint Committee No 157/2002 of 6 December 2002(1).</p>
+      <p n="10">(2) Decision of the EEA Joint Committee No 54/2001 of 18 May 2001 amending Annex I (Veterinary and phytosanitary matters) to the EEA Agreement(2) provides for a prolongation of the transitional period for Liechtenstein with regard to Chapter I of Annex I to the Agreement until 31 December 2001 pending a lasting arrangement to be implemented by that date.</p>
+      <p n="11">(3) The European Community, Liechtenstein and the Swiss Confederation agree on the application to Liechtenstein of Annex 11 (Veterinary matters) of the Agreement on trade in agricultural products between the European Communities and the Swiss Confederation on the basis of the Swiss-Liechtenstein Customs Treaty.</p>
+      <p n="12">(4) Given that this solution provides for the application of Swiss veterinary legislation it is appropriate to exempt Liechtenstein from the provisions of this Chapter I,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The text of the first paragraph of the "SECTORAL ADAPTATIONS" to Annex I to the Agreement shall be replaced by the following:</p>
+      <p n="16">"Chapter I, 'Veterinary issues', shall not apply to Liechtenstein."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Decision shall enter into force on 1 February 2003, provided that all the notifications under Article 103(1) of the Agreement have been made to the EEA Joint Committee(3).</p>
+      <p n="19">It shall apply from 1 January 2002.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Decision shall be published in the EEA Section of, and in the EEA Supplement to, the Official Journal of the European Union.</p>
+      <p n="22">Done at Brussels, 31 January 2003.</p>
+      <p n="23">For the EEA Joint Committee</p>
+      <p n="24">The President</p>
+      <p n="25">P. Westerlund</p>
+      <p n="26">(1) OJ L 38, 13.2.2003, p. 3.</p>
+      <p n="27">(2) OJ L 165, 21.6.2001, p. 58.</p>
+      <p n="28">(3) No constitutional requirements indicated.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31999R0039-en" n="31999R0039" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0039 English</title>
+        <title>Commission Regulation (EC) No 39/1999 of 8 January 1999 amending Regulation (EEC) No 2131/93 laying down the procedure and conditions for the sale of cereals held by intervention agencies</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0039:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0039:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1447</classCode>
+        <classCode scheme="eurovoc">20</classCode>
+        <classCode scheme="eurovoc">3170</classCode>
+        <classCode scheme="eurovoc">4663</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+        <classCode scheme="eurovoc">5898</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0039-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 39/1999 of 8 January 1999 amending Regulation (EEC) No 2131/93 laying down the procedure and conditions for the sale of cereals held by intervention agencies</head>
+      <p n="2">COMMISSION REGULATION (EC) No 39/1999 of 8 January 1999 amending Regulation (EEC) No 2131/93 laying down the procedure and conditions for the sale of cereals held by intervention agencies</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organisation of the market in cereals (1), as last amended by Commission Regulation (EC) No 923/96 (2), and in particular Article 5 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 2131/93 (3), as last amended by Regulation (EC) No 2193/96 (4), lays down the procedure and conditions for the sale of cereals held by intervention agencies;</p>
+      <p n="7">Whereas transport costs vary considerably with time and some of those costs cannot be predicted, in particular where river transport is concerned; whereas for budget reasons a maximum amount should be set for such costs; whereas that amount must be set by the intervention agencies and quoted in the call for tenders;</p>
+      <p n="8">Whereas the Slovenian port of Koper was the traditional port of exit for Austria before its accession to the European Union; whereas it is therefore necessary to include Koper as a place of exit for Community cereals so that transport costs can be reimbursed;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">In Article 7 of Regulation (EEC) No 2131/93, paragraph 2a is replaced by the following:</p>
+      <p n="13">'2a. However, where Member States have no sea ports, provision may be made to derogate from the preceding paragraph and to provide, in the case of export from a sea port, for the financing of the lowest transport costs between the place of storage and the actual place of exit, within the maximum amounts indicated in the call for tenders. For the purposes of this paragraph, the Slovenian port of Koper may be regarded as a place of exit.`</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Brussels, 8 January 1999.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Franz FISCHLER</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 181, 1. 7. 1992, p. 21.</p>
+      <p n="22">(2) OJ L 126, 24. 5. 1996, p. 37.</p>
+      <p n="23">(3) OJ L 191, 31. 7. 1993, p. 76.</p>
+      <p n="24">(4) OJ L 293, 16. 11. 1996, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

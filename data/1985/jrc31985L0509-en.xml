@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31985L0509-en" n="31985L0509" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31985L0509 English</title>
+        <title>Second Commission Directive 85/509/EEC of 6 November 1985 amending the Annex to Council Directive 82/471/EEC concerning certain products used in animal nutrition</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985L0509:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985L0509:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31985L0509-en." lang="en">
+    <body>
+      <head n="1">Second Commission Directive 85/509/EEC of 6 November 1985 amending the Annex to Council Directive 82/471/EEC concerning certain products used in animal nutrition</head>
+      <p n="2">*****</p>
+      <p n="3">SECOND COMMISSION DIRECTIVE</p>
+      <p n="4">of 6 November 1985</p>
+      <p n="5">amending the Annex to Council Directive 82/471/EEC concerning certain products used in animal nutrition</p>
+      <p n="6">(85/509/EEC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="9">Having regard to Council Directive 82/471/EEC of 30 June 1982 concerning certain products used in animal nutrition (1), as last amended by Commission Directive 84/443/EEC (2), and in particular Article 6 thereof,</p>
+      <p n="10">Whereas Directive 82/471/EEC provides for regular amendment of the content of the Annexes thereto as a result of developments in scientific or technical knowledge;</p>
+      <p n="11">Whereas it is unnecessary to require on the label or packaging of compound feedingstuffs a declaration stating 'by-products from the production of L-glutamic acid' or 'by-products from the production of L-lysine' as the other labelling requirements in respect of those products are sufficient to identify them;</p>
+      <p n="12">Whereas studies on certain amino acids have shown that these products fulfil the requirements of Directive 82/471/EEC and that their use in animal nutrition may therefore be permitted under certain conditions;</p>
+      <p n="13">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee for Feedingstuffs,</p>
+      <p n="14">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Annex to Directive 82/471/EEC is amended as set out in the Annex hereto.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 1 not later than 30 June 1986. They shall immediately inform the Commission thereof.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Directive is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 6 November 1985.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Frans ANDRIESSEN</p>
+      <p n="24">Vice-President</p>
+      <p n="25">(1) OJ No L 213, 21. 7. 1982, p. 8.</p>
+      <p n="26">(2) OJ No L 245, 14. 9. 1984, p. 21.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">1. Under group 2.3. 'By-products from the production of amino-acids by fermentation' in column 7 headed 'Special provisions' the first indent under 'Declarations to be made on the label or packaging of compound feedingstuffs' is to be deleted.</p>
+      <p n="29">2. Under point 3 'Amino acids and their salts' the following products are added:</p>
+      <p n="30">1.2.3.4.5.6.7 // // // // // // // // '1 // 2 // 3 // 4 // 5 // 6 // 7 // // // // // // // // Name of product group // Name of product // Designation of nutritive principle or identity of micro-organism // Culture substrate (specifications, if any) // Composition characteristics of products // Animal species // Special provisions // // // // // // // // // 3.7. L-tryptophan, technically pure // (C8H5NH)-CH2-CH(NH2)-COOH // - // L-tryptophan minimum 98 % // All animal species // Declarations to be made on the label or packaging of the product: - the name: 'L-tryptophan', - L-tryptophan and moisture contents // // 3.8. DL-tryptophan, technically pure // (C8H5NH)-CH2-CH(NH2)-COOH // - // DL-tryptophan minimum 98 % // All animal species // Declarations to be made on the label or packaging of the product: - the name: 'DL-tryptophan', - DL-tryptophan and moisture contents' // // // // // // //</p>
+    </body>
+  </text>
+</TEI.2>

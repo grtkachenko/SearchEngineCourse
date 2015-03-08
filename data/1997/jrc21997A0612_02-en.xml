@@ -1,0 +1,56 @@
+<TEI.2 id="jrc21997A0612_02-en" n="21997A0612(02)" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 21997A0612(02) English</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21997A0612(02):en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:21997A0612(02):en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4350</classCode>
+        <classCode scheme="eurovoc">5018</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+        <classCode scheme="eurovoc">888</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc21997A0612_02-en." lang="en">
+    <body>
+      <p n="2">AGREEMENT In the form of a Memorandum of Understanding between the European Community and the United States of America on spirituous beverages</p>
+      <p n="3">MEMORANDUM OF UNDERSTANDING</p>
+      <p n="4">ex 2208 Spirits, liqueurs and other spirituous beverages</p>
+      <p n="5">As agreed in Singapore we have engaged in detailed negotiations regarding the elimination of duties on certain spirituous beverages.</p>
+      <p n="6">Subject to the completion of our respective internal procedures, and with the exception of rum (2208 40) for which the special provisions set out in the Annex apply, the EC and US will eliminate their duties scheduled to be in force on 1 July 1997 for the HS 96 headings listed below in four equal stages commencing 1 July 1997, followed by further reductions on 1 January 1998, 1 January 1999 and 1 January 2000:</p>
+      <p n="7">&gt;TABLE&gt;</p>
+      <p n="8">ANNEX</p>
+      <p n="9">Subject: 2208 40 - Rum and Taffia</p>
+      <p n="10">A. EC duties</p>
+      <p n="11">1. The reductions in duties on rum with a content of volatile substances other than ethyl and methyl alcohol equal to or exceeding 225 grams per hectolitre of pure alcohol with a 10 % tolerance shall be as set out below:</p>
+      <p n="12">&gt;TABLE&gt;</p>
+      <p n="13">2. The EC duty on rum and taffia, other than that specified in paragraph 1 above, of a value specified in the following table shall be subject to the reduced duty rates below within the tariff quota amounts indicated until duty-free treatment is reached on 1 January 2003. The tariff quota amounts cover rum in whatever size of container.</p>
+      <p n="14">&gt;TABLE&gt;</p>
+      <p n="15">3. Rum and taffia below the price breaks indicated above as well as rum and taffia not covered by tariff quota amounts shall be subject to the same duty rates as shown in paragraph 1 above.</p>
+      <p n="16">4. The European Community shall promptly notify the United States of any changes between 1 January 2000 and 1 January 2003 in the preferential treatment accorded to its imports of rum. The European Community shall, upon request, promptly enter into consultations with the United States with respect to any matter concerning US exports of rum, under paragraph 2 above, to the Community, with a view to reaching a mutually agreed solution on any matter raised in the consultations.</p>
+      <p n="17">B. US duties</p>
+      <p n="18">5. The following reduction in duties shall apply to rum and taffia.</p>
+      <p n="19">&gt;TABLE&gt;</p>
+      <p n="20">EC-Spirits-Schedule CXL</p>
+      <p n="21">&gt;TABLE&gt;</p>
+      <p n="22">APPENDIX A</p>
+      <p n="23">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

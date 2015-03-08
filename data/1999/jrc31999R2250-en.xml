@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31999R2250-en" n="31999R2250" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R2250 English</title>
+        <title>Council Regulation (EC) No 2250/1999 of 22 October 1999 concerning the tariff quota for butter of New Zealand origin</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2250:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R2250:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">2089</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">4860</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R2250-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2250/1999 of 22 October 1999 concerning the tariff quota for butter of New Zealand origin</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2250/1999</p>
+      <p n="3">of 22 October 1999</p>
+      <p n="4">concerning the tariff quota for butter of New Zealand origin</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Community concessions referred to in the agreements concluded under the Uruguay Round of multilateral trade negotiations and contained in Schedule CXL/European Communities, include a tariff quota of 76667 tonnes of butter of New Zealand origin, at least six weeks old, of a fat content by weight of not less than 80 % but less than 82 % manufactured directly from milk or cream;</p>
+      <p n="10">(2) The eligibility under the tariff quota of butter manufactured in New Zealand using the processes referred to as "Ammix" and "Spreadable" has been questioned;</p>
+      <p n="11">(3) In the interest of legal certainty it is appropriate to specify that such butter manufactured from milk or cream without the use of stored materials is not excluded from the tariff quota by virtue of the fact that it is manufactured by a process which may involve the cream passing through a stage of concentrated milkfat and/or the fractionation of such milkfat,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">For the purpose of the implementation of the tariff quota for butter of New Zealand origin, the phrase "manufactured directly from milk or cream" does not exclude butter manufactured from milk or cream, without the use of stored materials, in a single, self-contained and uninterrupted process which may involve the cream passing through a stage of concentrated milkfat and/or the fractionation of such milkfat.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Luxembourg, 22 October 1999.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">S. MÖNKÄRE</p>
+    </body>
+  </text>
+</TEI.2>

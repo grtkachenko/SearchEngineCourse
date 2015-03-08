@@ -1,0 +1,162 @@
+<TEI.2 id="jrc41997D0035-en" n="41997D0035" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41997D0035 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 15 December 1997 amending the Financial Regulation on C.SIS (SCH/Com-ex (97) 35)</title>
+      </titleStmt>
+      <extent>127 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0035:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41997D0035:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1509</classCode>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">4359</classCode>
+        <classCode scheme="eurovoc">560</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41997D0035-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 15 December 1997 amending the Financial Regulation on C.SIS (SCH/Com-ex (97) 35)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 15 December 1997</p>
+      <p n="4">amending the Financial Regulation on C.SIS</p>
+      <p n="5">(SCH/Com-ex (97) 35)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Articles 92 and 119 of the abovementioned Convention,</p>
+      <p n="9">Having regard to Articles 2 and 3 of the Cooperation Agreement between the Contracting Parties to the Schengen Agreement and the Schengen Convention of the one part and the Republic of Iceland and the Kingdom of Norway of the other,</p>
+      <p n="10">HAS DECIDED AS FOLLOWS:</p>
+      <p n="11">The version of the Financial Regulation on the costs of installing and operating the Schengen C.SIS (SCH/Com-ex (93) 16 rev.), dated 20 December 1996, is hereby amended as follows.</p>
+      <p n="12">Vienna, 15 December 1997.</p>
+      <p n="13">The Chairman</p>
+      <p n="14">K. Schlögl</p>
+      <p n="15">SCH/Com-ex (93)16 Rev. 2</p>
+      <p n="16">THE EXECUTIVE COMMITTEE,</p>
+      <p n="17">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="18">Having regard to Articles 92 and 119 of the abovementioned Convention,</p>
+      <p n="19">Having regard to Articles 2 and 3 of the Cooperation Agreement between the Contracting Parties to the Schengen Agreement and the Schengen Convention of the one part and the Republic of Iceland and the Kingdom of Norway of the other,</p>
+      <p n="20">HAS DECIDED AS FOLLOWS:</p>
+      <p n="21">The Financial Regulation for the costs of installing and operating for the technical support function for the Schengen Information System (C.SIS), attached hereto, is hereby adopted.</p>
+      <p n="22">FINANCIAL REGULATION</p>
+      <p n="23">FOR THE INSTALLATION AND OPERATION OF THE SCHENGEN C.SIS</p>
+      <p n="24">TITLE I</p>
+      <p n="25">GENERAL PROVISIONS</p>
+      <p n="26">The budget for the technical support function of the Schengen Information System in Strasbourg provided for in Articles 92 and 119 of the Schengen Agreement of 14 June 1985, hereinafter the "C.SIS", shall be made up of:</p>
+      <p n="27">- the installation budget for the central information system, for which expenditure shall be approved by the Executive Committee, after receiving the Central Group's opinion,</p>
+      <p n="28">- the operating budget, for which the annual amount of expenditure shall be approved by the Executive Committee, after receiving the Central Group's opinion.</p>
+      <p n="29">The installation and operating budgets for the C.SIS shall as far as possible take into account the multiannual table for the SIS installation and operating budgets.</p>
+      <p n="30">The multiannual table for the SIS installation and operating budgets, covering at least three years, shall contain an estimate of predicted expenditure.</p>
+      <p n="31">The multiannual table for the SIS installation and operating budgets shall be updated each year by the SIS Steering Committee and approved by the Central Group during the first quarter of the calendar year.</p>
+      <p n="32">1. C.SIS own resources</p>
+      <p n="33">C.SIS own resources for both the installation and operating budgets shall be composed of the contributions of the Contracting Parties and the States of the Cooperation Agreement, hereinafter "the cooperating States". The cooperating States' contributions shall be determined on the basis of their share in the GDP aggregate of all the Contracting Parties and cooperating States. The Contracting Parties' contributions shall be determined on the basis of each Contracting Party's share in the uniform VAT assessment base within the meaning of Article 2(1)(c) of the Council Decision of 24 June 1988 on the system of the Communities' own resources.</p>
+      <p n="34">The breakdown of contributions among the Contracting Parties of the one part and the cooperating States of the other shall be determined on the basis of the share of each Contracting Party and cooperating State in the GDP aggregate of all the Contracting Parties and cooperating States for the preceding year. The breakdown of contributions among the Contracting Parties shall be determined each year, taking into account the cooperating States' contributions, on the basis of each Contracting Party's share of own resources in the European Communities' VAT resources, as established by the last amendment to the Community budget for the preceding financial year.</p>
+      <p n="35">The contributions of the Contracting Parties and cooperating States to each budget shall be calculated and laid down in French francs by the French Contracting Party.</p>
+      <p n="36">2. Payment of contributions</p>
+      <p n="37">Each Contracting Party and cooperating State shall transfer its contributions to the following account:</p>
+      <p n="38">Compte Tresor Public</p>
+      <p n="39">Banque de France</p>
+      <p n="40">No 9000-3</p>
+      <p n="41">(agence centrale comptable du trésor)</p>
+      <p n="42">Each payment shall be lodged in a support fund set up under the French Republic's budget (fonds de concours No 09.1.4.782) with the Ministry of the Interior as beneficiary.</p>
+      <p n="43">3. Accession of new States</p>
+      <p n="44">If a new Contracting Party accedes, the following shall apply as of the date of accession:</p>
+      <p n="45">- the contributions of the Contracting Parties and the cooperating States shall be adjusted pursuant to Title I.1 of this Financial Regulation;</p>
+      <p n="46">- the contributions of the Contracting Parties and the cooperating States shall be adjusted with a view to fixing the new Contracting Party's contribution to C.SIS operating costs as of the year of accession;</p>
+      <p n="47">- the contributions of the Contracting Parties and the cooperating States shall be adjusted with a view to allocating to the new Contracting Party a proportion of the costs previously incurred for the installation of the C.SIS. This amount shall be calculated according to the share of the new Contracting Party's VAT resources in the total European Communities' VAT resources for the years in which costs were incurred for the installation of the C.SIS prior to the new Contracting Party's accession. This amount shall be reimbursed to the other States in proportion to their contribution, calculated pursuant to Title I.1 of this Regulation.</p>
+      <p n="48">TITLE II</p>
+      <p n="49">INSTALLATION BUDGET</p>
+      <p n="50">The French Republic shall bear all the advance costs of C.SIS installation in accordance with the rules of law governing French public finances. The amounts fixed as the contribution of each Member State and cooperating State shall be calculated and laid down in French francs by the French Contracting Party pursuant to Title I.1 of this Financial Regulation.</p>
+      <p n="51">1. Forecast expenditure</p>
+      <p n="52">During the year before the budget is due to be implemented, the French Contracting Party shall draw up an annual draft budget for C.SIS installation expenditure taking into account as far as possible the provisional multiannual table for SIS installation and operations. This draft budget shall be submitted to the Central Group for its opinion and to the Executive Committee for adoption at least six months before the beginning of the financial year.</p>
+      <p n="53">If the draft budget is rejected, the French Contracting Party shall prepare a new draft within one month which, following the Central Group's opinion, shall be submitted immediately to the Executive Committee for adoption.</p>
+      <p n="54">At the end of each quarter of the financial year, the Central Group shall, after receiving the SIS Steering Committee's opinion, authorise C.SIS installation expenditure as well as any unforeseen expenditure, which shall be justified in a supporting document.</p>
+      <p n="55">In the six months following the closure of the financial year, the French Contracting Party shall draw up a multiannual table of the C.SIS installation expenditure that is authorised by the Central Group until the end of the financial year.</p>
+      <p n="56">This table shall be submitted to the Executive Committee for approval at the same time as the annual draft budget for C.SIS installation expenditure.</p>
+      <p n="57">The contributions of the respective States shall fall due for payment upon the Executive Committee's approval of expenditure and shall be paid pursuant to the procedure laid down in Title II.2.</p>
+      <p n="58">The Contracting Parties and cooperating States undertake to cover all installation expenditure up to the amount approved by the Executive Committee.</p>
+      <p n="59">The Contracting Parties and cooperating States may choose to pay their contributions for C.SIS installation in the form of an advance covering part or all of their forecast contribution.</p>
+      <p n="60">2. Method of payment</p>
+      <p n="61">As a rule, the contributions of the Contracting Parties and the cooperating States shall fall due on the date on which the French Contracting Party makes the payments.</p>
+      <p n="62">Nevertheless, and with a view to restricting the number of calls for payment, the French Contracting Party shall send calls for payment to the States twice a year, on 30 April and 31 October, to take into account the States' deadlines for operating expenditure commitments.</p>
+      <p n="63">The French Contracting Party shall send a letter containing a call for payment to the States via the designated administrative authorities, details of which have been given to it.</p>
+      <p n="64">This letter shall state:</p>
+      <p n="65">- the legal bases for the call for payment,</p>
+      <p n="66">- the amount of the C.SIS installation budget approved,</p>
+      <p n="67">- the amount to be paid for the period in question,</p>
+      <p n="68">- the necessary information for payment of the contribution, as stipulated under Title I.2 of this Financial Regulation.</p>
+      <p n="69">The following documents shall be attached to this letter:</p>
+      <p n="70">- a table showing the shares of the cooperating States, calculated on the basis of GDP, and a table showing each State's share of the C.SIS operating budget for the expenditure incurred during the given period, calculated on the basis of its VAT share in the SIS;</p>
+      <p n="71">- copies of documents warranting the amount to be transferred.</p>
+      <p n="72">To ensure the smooth transfer of payments, each State should attach to its transfer a note containing the following information:</p>
+      <p n="73">OBJET: versement de la quote-part 199... de l'Etat ... au budget d'installation du système informatique Schengen</p>
+      <p n="74">MONTANT: ... francs</p>
+      <p n="75">BENEFICIAIRE: Ministère de l'Intérieur, Direction des transmissions et de l'informatique</p>
+      <p n="76">(SUBJECT: payment of the 199... contribution from ... (State) to the installation budget of the Schengen Information System</p>
+      <p n="77">AMOUNT: ... francs</p>
+      <p n="78">BENEFICIARY: Ministry of the Interior, Department of data transmission and informatics)</p>
+      <p n="79">3. Financing by a State other than the French Republic</p>
+      <p n="80">If, in agreement with the other Contracting Parties and the cooperating States, a Contracting Party or cooperating State directly bears part of the C.SIS installation costs, this expenditure shall be apportioned to the Contracting States in accordance with the distribution key laid down by the French Contracting Party for the financial year in which the expenditure is made.</p>
+      <p n="81">The Contracting Party or cooperating State having directly borne this expenditure shall inform the French Contracting Party, which shall call in the contributions of the contracting Parties and the Cooperating States, calculated pursuant to this Financial Regulation.</p>
+      <p n="82">The French Contracting Party shall reimburse the payment made as soon as the contributions owing have been received from the other Contracting Parties and cooperating States.</p>
+      <p n="83">TITLE III</p>
+      <p n="84">OPERATING BUDGET</p>
+      <p n="85">The French Republic shall bear the advance costs of C.SIS operations in accordance with the rules of law governing French public finances. The amounts fixed as the contribution of each Contracting Party and cooperating State shall be calculated and laid down in French francs by the French Contracting Party pursuant to Title I.1 of this Financial Regulation.</p>
+      <p n="86">1. Draft operating budget</p>
+      <p n="87">During the year before the budget is due to be implemented, the French Contracting Party shall draw up the draft budget for C.SIS operating expenditure. The draft budget shall be submitted to the Central Group for its opinion and to the Executive Committee for adoption at least six months before the beginning of the financial year.</p>
+      <p n="88">This draft budget shall take into account as far as possible the multiannual table on SIS installation and operations.</p>
+      <p n="89">Documents on forecast expenditure shall be annexed to the draft budget.</p>
+      <p n="90">The budget shall be adopted unanimously by the Contracting Parties.</p>
+      <p n="91">If the draft budget is rejected, the French Contracting Party shall prepare a new draft within one month which, following the Central Group's opinion, shall be immediately submitted to the Executive Committee for adoption.</p>
+      <p n="92">During the period between the two consultations or failing adoption of the draft budget, the French Contracting Party may call in the contributions of the Contracting Parties and the cooperating States and initiate the implementation of the budget by provisional twelfths until such time as the budget for the current financial year is adopted.</p>
+      <p n="93">The French Contracting Party may submit an amending draft budget to the Executive Committee. This shall be submitted to the latter for adoption following the Central Group's opinion.</p>
+      <p n="94">Any deficit or surplus arising during the financial year must be cleared the following year in the course of the budget's implementation.</p>
+      <p n="95">2. Method of payment</p>
+      <p n="96">The Executive Committee decision adopting the budget shall be duly notified to all the Contracting Parties and cooperating States by the Presidency-in-office; the contributions of the Contracting Parties and cooperating States shall fall due for payment immediately thereafter.</p>
+      <p n="97">To this end, the French Contracting Party shall send each Contracting Party and cooperating State a call for payment of contributions owing and shall forward the Presidency a copy thereof.</p>
+      <p n="98">The Contracting Parties and the cooperating States shall pay their contributions in full by 30 April of the current financial year.</p>
+      <p n="99">If a Contracting Party does not honour its financial obligations by that date, the Community regulations in force governing the interest to be paid in default in payment of contributions to the Community budget shall apply. These regulations shall apply mutatis mutandis in cases where a cooperating State does not honour its financial obligations in due time.</p>
+      <p n="100">The French Contracting Party shall send a letter containing a call for payment to the States via the designated administrative authorities, details of which have been given to it, at the beginning of the financial year in which the adopted operating budget is to be implemented.</p>
+      <p n="101">The letter shall state:</p>
+      <p n="102">- the legal bases for the call for payment,</p>
+      <p n="103">- the amount of the operating budget adopted by the Executive Committee for the year in question.</p>
+      <p n="104">A table showing the contributions of the cooperating States, calculated on the basis of GDP, and a table showing each Contracting Party's contribution to the C.SIS operating budget calculated on the basis of its VAT share in the SIS, shall be attached to this letter. A table showing the calculation of the GDP share and the VAT share in the SIS for the year in which the expenditure is to be made shall also be annexed.</p>
+      <p n="105">To ensure the smooth transfer of payments, each State should attach to its transfer a note containing the following information:</p>
+      <p n="106">OBJET: versement de la quote-part 199... de l'Etat ... au budget de fonctionnement du système informatique Schengen</p>
+      <p n="107">MONTANT: ... francs</p>
+      <p n="108">BENEFICIAIRE: Ministère de l'Intérieur, Direction des transmissions et de l'informatique</p>
+      <p n="109">(SUBJECT: payment of the 199... contribution from ... (State) to the operating budget of the Schengen Information System</p>
+      <p n="110">AMOUNT: ... francs</p>
+      <p n="111">BENEFICIARY: Ministry of the Interior, Department of data transmission and informatics)</p>
+      <p n="112">The Contracting Parties and cooperating States may choose to advance an amount to cover their estimated contributions for a number of financial years.</p>
+      <p n="113">TITLE IV</p>
+      <p n="114">APPROVAL OF ACCOUNTS</p>
+      <p n="115">At the beginning of each financial year, the French Contracting Party shall send the States a document, drawn up on the basis of the provisions of this Financial Regulation, required for the Executive Committee to give final discharge for the preceding financial year following the Central Group's opinion.</p>
+      <p n="116">The document shall contain:</p>
+      <p n="117">1. For the installation budget</p>
+      <p n="118">- a statement of the expenditure made by the French Contracting Party and, where appropriate, by the other Contracting Parties or the cooperating States pursuant to the provisions of Title II.3 of this Financial Regulation;</p>
+      <p n="119">- the amount and breakdown of the contributions paid into the support fund (fonds de concours) by each State and, where appropriate, any outstanding amounts to be recovered.</p>
+      <p n="120">2. For the operating budget</p>
+      <p n="121">- a statement of expenditure made during the preceding financial year. This table shall indicate the deficit or surplus as compared with the adopted budget pursuant to Title III.1 of this Financial Regulation, so that the States may be charged or reimbursed the appropriate amounts;</p>
+      <p n="122">- the amount and breakdown of the contributions paid into the support fund and, where appropriate, any amounts owing by the States.</p>
+      <p n="123">The document shall be certified by a financial controller of the French Ministry of the Interior and sent to all the Contracting Parties and cooperating States by the Presidency-in-office.</p>
+      <p n="124">The Executive Committee's approval of the said document shall constitute the final discharge of the accounts presented by the French Republic for the financial year in question. Approval shall be given during the first quarter of the year following the budgetary year in question.</p>
+      <p n="125">A table showing the contributions of each State for the following financial year, calculated pursuant to Title I.1 of this Financial Regulation, shall be attached to the document.</p>
+      <p n="126">If a State decides to pay its contributions partly or wholly in the form of an advance, the document shall indicate the outstanding balance following deduction of amounts owing for the budgetary year in question.</p>
+      <p n="127">This decision shall enter into force once all the Contracting Parties to the Schengen Convention have given notification that the procedures required by their legal systems for these decisions to be binding on their territory have been completed.</p>
+    </body>
+  </text>
+</TEI.2>

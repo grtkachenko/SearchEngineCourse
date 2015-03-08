@@ -1,0 +1,79 @@
+<TEI.2 id="jrc31999R1924-en" n="31999R1924" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1924 English</title>
+        <title>Commission Regulation (EC) No 1924/1999 of 8 September 1999 implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community as regards the 2000 to 2002 programme of ad hoc modules to the labour force survey</title>
+      </titleStmt>
+      <extent>43 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1924:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1924:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2550</classCode>
+        <classCode scheme="eurovoc">4213</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">623</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1924-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1924/1999 of 8 September 1999 implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community as regards the 2000 to 2002 programme of ad hoc modules to the labour force survey</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1924/1999</p>
+      <p n="3">of 8 September 1999</p>
+      <p n="4">implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community as regards the 2000 to 2002 programme of ad hoc modules to the labour force survey</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 577/98 of 9 March 1998 on the organisation of a labour force sample survey in the Community(1), and in particular Article 4(2) thereof,</p>
+      <p n="8">(1) Whereas in accordance with Article 4(2) of Regulation (EC) No 577/98 a programme of ad hoc modules covering several years must be drawn up each year;</p>
+      <p n="9">(2) Whereas the measures provided for in this Regulation are in accordance with the opinion delivered by the Statistical Programme Committee established by Council Decision 89/382/EEC, Euratom(2),</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">A programme of ad hoc modules covering years 2000 to 2002 is laid down in the Annex to the present Regulation.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 8 September 1999.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Yves-Thibault DE SILGUY</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 77, 14.3.1998, p. 3.</p>
+      <p n="21">(2) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="22">ANNEX</p>
+      <p n="23">LABOUR FORCE SURVEY</p>
+      <p n="24">Multi-annual programme of ad hoc modules</p>
+      <p n="25">1. Transition from school to working life</p>
+      <p n="26">List of variables: see Commission Regulation (EC) No 1925/1999 on 8 September 1999 implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community concerning the specification of the 2000 ad hoc module on transition from school to working life(1)</p>
+      <p n="27">Reference period: second quarter 2000 (third quarter of 2000 of Italy)</p>
+      <p n="28">Member States and regions concerned: all with exception of Germany</p>
+      <p n="29">Sample: persons who had left education in the last five/ten years (including persons who have left education for at least one year and re-entered education subsequently); if the individual is the sample unit no information on the members of the household is requested</p>
+      <p n="30">Transmission of the results: before 31 March 2001</p>
+      <p n="31">2. Length and patterns of working time</p>
+      <p n="32">List of variables: to be defined before March 2000</p>
+      <p n="33">Reference period: second quarter 2001</p>
+      <p n="34">Member States and regions concerned: to be defined</p>
+      <p n="35">Sample: as for the standard modules; however, if the individual is the sample unit no information on the members of the household is requested</p>
+      <p n="36">Transmission of the results: before 31 March 2002</p>
+      <p n="37">3. Disabled people's employment</p>
+      <p n="38">List of variables: to be defined before March 2001</p>
+      <p n="39">Reference period: second quarter 2002</p>
+      <p n="40">Member States and regions concerned: to be defined</p>
+      <p n="41">Sample: disabled persons; if the individual is the sample unit no information on the members of the household is requested</p>
+      <p n="42">Transmission of the results: before 31 March 2003</p>
+      <p n="43">(1) See page 16 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,71 @@
+<TEI.2 id="jrc31996R0774-en" n="31996R0774" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0774 English</title>
+        <title>Commission Regulation (EC) No 774/96 of 26 April 1996 amending Commission Regulation (EC) No 716/96 adopting exceptional measures for the beef market in the United Kingdom</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0774:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0774:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1857</classCode>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">3774</classCode>
+        <classCode scheme="eurovoc">4395</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0774-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 774/96 of 26 April 1996 amending Commission Regulation (EC) No 716/96 adopting exceptional measures for the beef market in the United Kingdom</head>
+      <p n="2">COMMISSION REGULATION (EC) No 774/96 of 26 April 1996 amending Commission Regulation (EC) No 716/96 adopting exceptional measures for the beef market in the United Kingdom</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organization of the market in beef and veal (1), as last amended by Commission Regulation (EC) No 2417/95 (2), and in particular Article 23 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 716/96 (3) provided for the payment by the United Kingdom competent authority of ECU 1 per kilogram liveweight in respect of bovine animals aged more than 30 months purchased by it under that Regulation; whereas such expenditure is co-financed by the Community; whereas however, the United Kingdom should be authorized, at its own expense, to make supplementary payments in respect of bovine animals particularly affected by the measure;</p>
+      <p n="7">Whereas, by mistake, the English version of the text of Regulation (EC) No 716/96 does not correspond to that presented for the opinion of the Management Committee; whereas this mistake should be corrected;</p>
+      <p n="8">Whereas the Management Committee for Beef and Veal has not delivered an opinion within the time limit set by its chairman,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">In Regulation (EC) No 716/96:</p>
+      <p n="12">1. Article 1 (2) is replaced by the following:</p>
+      <p n="13">'2. The animals referred to in paragraph 1 shall be killed in specially designated slaughterhouses, the heads, internal organs and carcases shall be permanently stained. The stained material shall be transported in sealed containers to specially authorized incineration or rendering plants, where it shall be processed and then destroyed. No part of the abovementioned animals may enter into the human food or animal feed chains or be used for cosmetic or pharmaceutical products. A representative of the United Kingdom competent authority shall be permanently present in the slaughterhouse referred to above in order to supervise the operations in question.</p>
+      <p n="14">Notwithstanding the first subparagraph:</p>
+      <p n="15">- the United Kingdom competent authority may allow the on-farm slaughter of an animal where existing animal welfare practice would require this,</p>
+      <p n="16">- the hides of the animals referred to in paragraph 1 do not have to be stained or destroyed provided that they have been treated in such a way that they can only be used for leather production.`</p>
+      <p n="17">2. Article 2 is replaced by the following:</p>
+      <p n="18">'Article 2</p>
+      <p n="19">1. The price to be paid to producers or their agents by the United Kingdom competent authority under Article 1 (1) shall be ECU 1 per kilogram liveweight.</p>
+      <p n="20">The Community shall co-finance the expenditure incurred by the United Kingdom for the purchases referred to under Article 1 (1) at a rate ECU 392 per purchased animal which has been destroyed in accordance with the provisions of Article 1.</p>
+      <p n="21">2. Notwithstanding paragraph 1, the United Kingdom competent authority is authorized to pay a supplementary amount in respect of bovine animals purchased under this scheme which the United Kingdom considers merit an additional payment. The Community shall not co-finance such expenditure.</p>
+      <p n="22">The supplementary amount referred to in the first subparagraph shall be limited to the amount necessary to compensate the difference between ECU 1 per kilogram liveweight and the market value of the animal concerned.</p>
+      <p n="23">3. The conversion rate to be applied shall be the agricultural rate in force on the first day of the month of purchase of the animal in question.`</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="26">It shall be applicable from 29 April 1996.</p>
+      <p n="27">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="28">Done at Brussels, 26 April 1996.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">Franz FISCHLER</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ No L 148, 28. 6. 1968, p. 24.</p>
+      <p n="33">(2) OJ No L 248, 14. 10. 1995, p. 39.</p>
+      <p n="34">(3) OJ No L 99, 20. 4. 1996, p. 14.</p>
+    </body>
+  </text>
+</TEI.2>

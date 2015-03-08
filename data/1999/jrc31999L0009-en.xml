@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31999L0009-en" n="31999L0009" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999L0009 English</title>
+        <title>Commission Directive 1999/9/EC of 26 February 1999 amending Directive 97/17/EC implementing Council Directive 92/75/EEC with regard to energy labelling of household dishwashers (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0009:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0009:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">142</classCode>
+        <classCode scheme="eurovoc">1425</classCode>
+        <classCode scheme="eurovoc">3861</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999L0009-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 1999/9/EC of 26 February 1999 amending Directive 97/17/EC implementing Council Directive 92/75/EEC with regard to energy labelling of household dishwashers (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 1999/9/EC of 26 February 1999 amending Directive 97/17/EC implementing Council Directive 92/75/EEC with regard to energy labelling of household dishwashers (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 92/75/EEC of 22 September 1992 on the indication by labelling and standard product information of the consumption of energy and other resources of household appliances (1), and in particular Article 9 thereof,</p>
+      <p n="6">Whereas Commission Directive 97/17/EC (2) implements Directive 92/75/EEC with regard to energy labelling of household dishwashers;</p>
+      <p n="7">Whereas there has been a delay in the development and adoption of measurement methods (EN 50242); whereas in the absence of a harmonised measurement standard, it is impossible for suppliers to fulfil their obligations pursuant to Directive 97/17/EC; whereas the application of that Directive must therefore be deferred;</p>
+      <p n="8">Whereas the measures provided for in this Directive are in accordance with the opinion of the committee set up under Article 10 of Directive 92/75/EEC,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Article 4(1) of Directive 97/17/EC is replaced by the following:</p>
+      <p n="12">'1. Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive by 28 February 1999. They shall immediately inform the Commission thereof. They shall apply those provisions from 1 March 1999.</p>
+      <p n="13">However, Member States shall allow until 31 July 1999:</p>
+      <p n="14">- the placing on the market, the commercialisation and/or the display of products, and</p>
+      <p n="15">- the distribution of printed communications referred to in Article 2(4),</p>
+      <p n="16">which do not conform to this Directive.</p>
+      <p n="17">When Member States adopt the provisions referred to in the first subparagraph, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.`</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Directive shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Directive is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 26 February 1999.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Christos PAPOUTSIS</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 297, 13. 10. 1992, p. 16.</p>
+      <p n="27">(2) OJ L 118, 7. 5. 1997, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

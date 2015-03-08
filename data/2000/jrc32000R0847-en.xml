@@ -1,0 +1,129 @@
+<TEI.2 id="jrc32000R0847-en" n="32000R0847" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R0847 English</title>
+        <title>Commission Regulation (EC) No 847/2000 of 27 April 2000 laying down the provisions for implementation of the criteria for designation of a medicinal product as an orphan medicinal product and definitions of the concepts 'similar medicinal product' and 'clinical superiority'</title>
+      </titleStmt>
+      <extent>94 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0847:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R0847:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1594</classCode>
+        <classCode scheme="eurovoc">3813</classCode>
+        <classCode scheme="eurovoc">5451</classCode>
+        <classCode scheme="eurovoc">5752</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R0847-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 847/2000 of 27 April 2000 laying down the provisions for implementation of the criteria for designation of a medicinal product as an orphan medicinal product and definitions of the concepts 'similar medicinal product' and 'clinical superiority'</head>
+      <p n="2">Commission Regulation (EC) No 847/2000</p>
+      <p n="3">of 27 April 2000</p>
+      <p n="4">laying down the provisions for implementation of the criteria for designation of a medicinal product as an orphan medicinal product and definitions of the concepts "similar medicinal product" and "clinical superiority"</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Regulation (EC) No 141/2000 of the European Parliament and of the Council of 16 December 1999 on orphan medicinal products(1), and in particular Articles 3 and 8 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Regulation (EC) No 141/2000 calls on the Commission to adopt provisions necessary for the implementation of Article 3 and to adopt definitions of "similar medicinal product" and "clinical superiority".</p>
+      <p n="10">(2) In order to implement Article 3 of Regulation (EC) No 141/2000, additional details on the factors that should be considered when establishing prevalence, likely return on investment and the satisfactory nature of alternative methods of diagnosis, prevention and treatment may be helpful for sponsors and the Committee for Orphan Medicinal Products.</p>
+      <p n="11">(3) This information should be presented in accordance with the guidance drawn up by the Commission pursuant to Article 5(3) of Regulation (EC) No 141/2000.</p>
+      <p n="12">(4) Given the nature of the medicinal products concerned, and the probability that the conditions to be treated are rare, it is not appropriate to lay down overly prescriptive requirements to establish that the criteria are met.</p>
+      <p n="13">(5) The assessment of the criteria referred to in Article 3 should be on the basis of information that is as objective as possible.</p>
+      <p n="14">(6) Other Community measures in the field of rare diseases should be taken into account.</p>
+      <p n="15">(7) In order to ensure appropriate respect of the market exclusivity provisions laid down in Article 8 of Regulation (EC) No 141/2000, it is necessary to lay down definitions of the concepts of "similar medicinal product" and "clinical superiority"; these definitions should take into account the work and experience of the Committee for Proprietary Medicinal Products in evaluating existing medicinal products, and the relevant opinions of the Scientific Committee on Medicinal Products and Medical Devices.</p>
+      <p n="16">(8) The definitions should be further supported by the guidelines foreseen by Article 8(5) of Regulation (EC) No 141/2000.</p>
+      <p n="17">(9) These provisions should be updated regularly in the light of scientific and technical knowledge and experience with the designation and regulation of orphan medicinal products.</p>
+      <p n="18">(10) The measures provided for in this Regulation are in conformity with the opinion of the Standing Committee on Medicinal Products for Human Use,</p>
+      <p n="19">HAS ADOPTED THIS REGULATION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Purpose</p>
+      <p n="22">This Regulation lays down factors to be considered when implementing Article 3 of Regulation (EC) No 141/2000 on orphan medicinal products and establishes definitions of "similar medicinal product" and "clinical superiority" for the purposes of implementing Article 8 of the abovementioned Regulation. It is intended to assist potential sponsors, the Committee for Orphan Medicinal Products, and competent authorities in the interpretation of Regulation (EC) No 141/2000.</p>
+      <p n="23">Article 2</p>
+      <p n="24">Criteria for designation</p>
+      <p n="25">1. Prevalence of a condition in the Community</p>
+      <p n="26">For the purpose of establishing, pursuant to the first subparagraph of Article 3(1)(a) of Regulation (EC) No 141/2000, that a medicinal product is intended for the diagnosis, prevention or treatment of a life-threatening or chronically debilitating condition affecting not more than five in 10000 persons in the Community, the following specific rules shall apply and the documentation listed below shall be provided in accordance with the guidance drawn up pursuant to Article 5(3) of Regulation (EC) No 141/2000:</p>
+      <p n="27">(a) the documentation shall include appended authoritative references which demonstrate that the disease or conditions for which the medicinal product would be administered, affects not more than five in 10000 persons in the Community at the time at which the application for designation is submitted, where these are available;</p>
+      <p n="28">(b) the data shall include appropriate details on the condition intended to be treated and a justification of the life-threatening or chronically debilitating nature of the condition supported by scientific or medical references;</p>
+      <p n="29">(c) the documentation submitted by the sponsor shall include or refer to a review of the relevant scientific literature, and shall provide information from relevant databases in the Community, where these are available. Where no database in the Community is available, reference may be made to databases available in third countries, provided the appropriate extrapolations are made;</p>
+      <p n="30">(d) where a disease or condition has been considered within the framework of other Community activities on rare diseases, this information shall be provided. In the case of diseases or conditions included in projects financially supported by the Community in order to improve information on rare diseases, a relevant extract from this information, including in particular, details of the prevalence of the disease or condition in question, shall be provided.</p>
+      <p n="31">2. Potential for return on investment</p>
+      <p n="32">For the purpose of establishing, pursuant to the second subparagraph of Article 3(1)(a) of Regulation (EC) No 141/2000, that a medicinal product is intended for the diagnosis, prevention or treatment of a life-threatening, seriously debilitating or serious and chronic condition in the Community, and that without incentives it is unlikely that the marketing of the medicinal product in the Community would generate sufficient return to justify the necesary investment, the following specific rules shall apply and the appropriate documentation shall be provided in accordance with the guidance drawn up pursuant to Article 5(3) of Regulation (EC) No 141/2000:</p>
+      <p n="33">(a) the data shall include appropriate details on the condition intended to be treated and a justification of the life-threatening or seriously debilitating or serious and chronic nature of the condition supported by scientific or medical references;</p>
+      <p n="34">(b) the documentation submitted by the sponsor shall include data on all costs that the sponsor has incurred in the course of developing the medicinal product;</p>
+      <p n="35">(c) the documentation provided shall include details of any grants, tax incentives or other cost recovery provisions received either within the Community or in third countries;</p>
+      <p n="36">(d) in cases where the medicinal product is already authorised for any indication or where the medicinal product is under investigation for one or more other indications, a clear explanation of and justification for the method that is used to apportion the development costs among the various indications shall be provided;</p>
+      <p n="37">(e) a statement of and justification for all development costs that the sponsor expects to incur after the submission of the application for designation shall be provided;</p>
+      <p n="38">(f) a statement of and justification for all production and marketing costs that the sponsor has incurred in the past and expects to incur during the first 10 years that the medicinal product is authorised shall be provided;</p>
+      <p n="39">(g) an estimate and justification for the expected revenues from sales of the medicinal product in the Community during the first 10 years after authorisation;</p>
+      <p n="40">(h) all cost and revenue data shall be determined in accordance with generally accepted accounting practices and shall be certified by a registered accountant in the Community;</p>
+      <p n="41">(i) the documentation provided shall include information on the prevalence and incidence in the Community of the condition for which the medicinal product would be administered at the time at which the application for designation is submitted.</p>
+      <p n="42">3. Existence of other methods of diagnosis, prevention or treatment</p>
+      <p n="43">An application for designation of a medicinal product as an orphan medicinal product may be submitted in accordance with either paragraph 1 or paragraph 2 of this Article. Irrespective of whether an application for designation is submitted in accordance with paragraph 1 or 2, the sponsor must additionally establish that there exists no satisfactory method of diagnosis, prevention or treatment of the condition in question, or if such method exists that the medicinal product will be of significant benefit to those affected by that condition.</p>
+      <p n="44">For the purpose of establishing, pursuant to Article 3(1)(b) of Regulation (EC) No 141/2000 that there exists no satisfactory method of diagnosis, prevention or treatment of the condition in question, or if such method exists that the medicinal product will be of significant benefit to those affected by that condition, the following rules shall apply:</p>
+      <p n="45">(a) details of any existing diagnosis, prevention or treatment methods of the condition in question that have been authorised in the Community shall be provided, making reference to scientific and medical literature or other relevant information. These may include authorised medicinal products, medical devices or other methods of diagnosis, prevention or treatment which are used in the Community;</p>
+      <p n="46">(b) either a justification as to why the methods referred to in paragraph (a) are not considered satisfactory;</p>
+      <p n="47">or</p>
+      <p n="48">(c) a justification for the assumption that the medicinal product for which designation is sought will be of significant benefit to those affected by the condition.</p>
+      <p n="49">4. General provisions</p>
+      <p n="50">(a) A sponsor applying for designation of a medicinal product as an orphan medicinal product shall apply for designation at any stage of the development of the medicinal product before the application for marketing authorisation is made. An application for designation may however be submitted for a new therapeutic indication for an already authorised medicinal product. In this case, the marketing authorisation holder shall apply for a separate marketing authorisation which will cover only the orphan indication(s).</p>
+      <p n="51">(b) More than one sponsor may obtain designation as an orphan medicinal product for the same medicinal product intended to prevent, treat or diagnose the same disease or condition, provided that a complete application for designation as laid down by the guidelines specified in Article 5(3) is submitted in each case.</p>
+      <p n="52">(c) Where a medicinal product is designated by the Committee for Orphan Medicinal Products reference to the criteria for designation will be made either to Article 2(1) or to Article 2(2) of this Regulation.</p>
+      <p n="53">Article 3</p>
+      <p n="54">Definitions</p>
+      <p n="55">1. The definitions in Article 2 of Regulation (EC) No 141/2000 apply to those terms when used in this Regulation:</p>
+      <p n="56">- "substance" means a substance used in the manufacture of a medicinal product for human use as defined in Article 1 of Directive 65/65/EEC.</p>
+      <p n="57">2. For the purposes of the implementation of Article 3 of Regulation (EC) No 141/2000 on orphan medicinal products, the following definition shall apply:</p>
+      <p n="58">- "significant benefit" means a clinically relevant advantage or a major contribution to patient care.</p>
+      <p n="59">3. For the purposes of the implementation of Article 8 of Regulation (EC) No 141/2000 on orphan medicinal products, the following definitions shall apply:</p>
+      <p n="60">(a) "active substance" means a substance with physiological or pharmacological activity;</p>
+      <p n="61">(b) "similar medicinal product" means a medicinal product containing a similar active substance of substances as contained in a currently authorised orphan medicinal product, and which is intended for the same therapeutic indication;</p>
+      <p n="62">(c) "similar active substance" means an identicial active substance, or an active substance with the same principal molecular structural features (but not necessarily all of the same molecular structural features) and which acts via the same mechanism.</p>
+      <p n="63">This includes:</p>
+      <p n="64">(1) isomers, mixture of isomers, complexes, esters, salts and non-covalent derivatives of the original active substance, or an active substance that differs from the original active substance only with respect to minor changes in the molecular structure, such as a structural analogue;</p>
+      <p n="65">or</p>
+      <p n="66">(2) the same macromolecule or one that differs from the original macromolecule only with respect to changes in the molecular structure such as:</p>
+      <p n="67">(2.1) proteinaceous substances where:</p>
+      <p n="68">- the difference is due to infidelity of transcription or translation,</p>
+      <p n="69">- the difference in structure between them is due to post-translational events (such as different glycosylation patterns) or different tertiary structures,</p>
+      <p n="70">- the difference in the amino acid sequence is not major. Therefore, two pharmacologically related protein substances of the same group (for example, two biological compounds having the same International Non-proprietary name (INN) sub-stem) would normally be considered similar,</p>
+      <p n="71">- the monoclonal antibodies bind to the same target epitope. These would normally be considered similar;</p>
+      <p n="72">(2.2) polysaccharide substances having identical saccharide repeating units, even if the number of units varies and even if there are post-polymerisation modifications (including conjugation);</p>
+      <p n="73">(2.3) polynucleotide substances (including gene transfer and antisense substances), consisting of two or more distinct nucleotides where:</p>
+      <p n="74">- the difference in the nucleotide sequence of the purine and pyrimidine bases or their derivatives is not major. Therefore for antisense substances, the addition or deletion of nucleotide(s) not significantly affecting the kinetics of hybridisation to the target would normally be considered similar. For gene transfer substances, unless the differences in the sequence were significant the substances would normally be considered similar,</p>
+      <p n="75">- the difference in structure between them relates to modifications to the ribose or deoxyribose sugar backbone or to the replacement of the backbone by synthetic analogues,</p>
+      <p n="76">- the difference is in the vector or transfer system;</p>
+      <p n="77">(2.4) closely related complex partly definable substances (such as two related viral vaccines, or two related cell therapy products);</p>
+      <p n="78">or</p>
+      <p n="79">(3) the same radiopharmaceutical active substance, or one differing from the original in radionuclide, ligand, site of labelling or molecule-radionuclide coupling mechanism linking the molecule and radionuclide provided that it acts via the same mechanism;</p>
+      <p n="80">(d) "clinically superior" means that a medicinal product is shown to provide a significant therapeutic or diagnostic advantage over and above that provided by an authorised orphan medicinal product in one or more of the following ways:</p>
+      <p n="81">(1) greater efficacy than an authorised orphan medicinal product (as assessed by effect on a clinically meaningful endpoint in adequate and well controlled clinical trials). Generally, this would represent the same kind of evidence needed to support a comparative efficacy claim for two different medicinal products. Direct comparative clinical trials are generally necessary, however comparisons based on other endpoints, including surrogate endpoints may be used. In any case, the methodological approach should be justified;</p>
+      <p n="82">or</p>
+      <p n="83">(2) greater safety in a substantial portion of the target population(s). In some cases direct comparative clinical trials will be necessary;</p>
+      <p n="84">or</p>
+      <p n="85">(3) in exceptional cases, where neither greater safety nor greater efficacy has been shown, a demonstration that the medicinal product otherwise makes a major contribution to diagnosis or to patient care.</p>
+      <p n="86">Article 4</p>
+      <p n="87">Entry into force</p>
+      <p n="88">This Regulation shall enter into force on the day following its adoption by the Commission and shall apply from the same day.</p>
+      <p n="89">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="90">Done at Brussels, 27 April 2000.</p>
+      <p n="91">For the Commission</p>
+      <p n="92">Erkki Liikanen</p>
+      <p n="93">Member of the Commission</p>
+      <p n="94">(1) OJ L 18, 22.1.2000, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

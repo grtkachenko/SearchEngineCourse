@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32004D0160-en" n="32004D0160" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0160 English</title>
+        <title>2004/160/EC: Commission Decision of 16 February 2004 amending Decision 2003/71/EC as regards its period of validity (Text with EEA relevance) (notified under document number C(2004) 394)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0160:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0160:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1294</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">2437</classCode>
+        <classCode scheme="eurovoc">3579</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0160-en." lang="en">
+    <body>
+      <head n="1">2004/160/EC: Commission Decision of 16 February 2004 amending Decision 2003/71/EC as regards its period of validity (Text with EEA relevance) (notified under document number C(2004) 394)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 16 February 2004</p>
+      <p n="4">amending Decision 2003/71/EC as regards its period of validity</p>
+      <p n="5">(notified under document number C(2004) 394)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/160/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/496/EEC of 15 July 1991 laying down the principles governing the organisation of veterinary checks on animals entering the Community from third countries and amending Directives 89/662/EEC, 90/425/EEC and 90/675/EEC(1), and in particular Article 18(7) thereof,</p>
+      <p n="11">Having regard to Council Directive 97/78/EC of 18 December 1997 laying down the principles governing the organisation of veterinary checks on products entering the Community from third countries(2), and in particular Article 22(6) thereof,</p>
+      <p n="12">Having regard to Council Directive 2002/99/EC of 16 December 2002 laying down the animal health rules governing the production, processing, distribution and introduction of products of animal origin for human consumption(3), and in particular Article 8(4) thereof,</p>
+      <p n="13">Whereas:</p>
+      <p n="14">(1) The occurrence of infectious salmon anaemia (ISA) in the Faroe Islands led to the adoption of Commission Decision 2003/71/EC of 29 January 2003 on certain protective measures in respect of infectious salmon anaemia in the Faroe Islands(4).</p>
+      <p n="15">(2) Despite the measures undertaken by the Faroe Islands, further outbreaks of ISA were notified by that State in 2003, and a rapid eradication of that disease cannot therefore be envisaged.</p>
+      <p n="16">(3) In view of the disease situation in the Faroe Islands, the protective measures contained in Decision 2003/71/EC should remain applicable until February 2005.</p>
+      <p n="17">(4) Decision 2003/71/EC should therefore be amended in order to extend its period of validity.</p>
+      <p n="18">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="19">HAS ADOPTED THIS DECISION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">In Article 6 of Decision 2003/71/EC, "1 February 2004" is replaced by "31 January 2005".</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 16 February 2004.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">David Byrne</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 268, 24.9.1991, p. 56. Directive as amended by Directive 96/43/EC (OJ L 162, 1.7.1996, p. 1).</p>
+      <p n="29">(2) OJ L 24, 30.1.1998, p. 9.</p>
+      <p n="30">(3) OJ L 18, 21.1.2003, p. 11.</p>
+      <p n="31">(4) OJ L 26, 31.1.2003, p. 80. Decision as amended by Decision 2003/392/EC (OJ L 135, 3.6.2003, p. 27).</p>
+    </body>
+  </text>
+</TEI.2>

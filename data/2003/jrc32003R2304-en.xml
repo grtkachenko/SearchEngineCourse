@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32003R2304-en" n="32003R2304" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R2304 English</title>
+        <title>Commission Regulation (EC) No 2304/2003 of 29 December 2003 amending Regulation (EC) No 2808/98 laying down detailed rules for the application of the agrimonetary system for the euro in agriculture</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2304:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R2304:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2511</classCode>
+        <classCode scheme="eurovoc">4370</classCode>
+        <classCode scheme="eurovoc">4390</classCode>
+        <classCode scheme="eurovoc">665</classCode>
+        <classCode scheme="eurovoc">755</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R2304-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2304/2003 of 29 December 2003 amending Regulation (EC) No 2808/98 laying down detailed rules for the application of the agrimonetary system for the euro in agriculture</head>
+      <p n="2">Commission Regulation (EC) No 2304/2003</p>
+      <p n="3">of 29 December 2003</p>
+      <p n="4">amending Regulation (EC) No 2808/98 laying down detailed rules for the application of the agrimonetary system for the euro in agriculture</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2799/98 of 15 December 1998 establishing agrimonetary arrangements for the euro(1), and in particular Article 9 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Under Article 4(1) of Commission Regulation (EC) No 2808/98(2), the operative event for the exchange rate in the case of aid per hectare is the start of the marketing year in respect of which the aid is granted.</p>
+      <p n="10">(2) Council Regulation (EC) No 1782/2003 of 29 September 2003 establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers and amending Regulations (EEC) No 2019/93, (EC) No 1452/2001, (EC) No 1453/2001, (EC) No 1454/2001, (EC) No 1868/94, (EC) No 1251/1999, (EC) No 1254/1999, (EC) No 1673/2000, (EEC) No 2358/71 and (EC) No 2529/2001(3), includes aid for energy crops, which applies from 1 January 2004.</p>
+      <p n="11">(3) This aid for energy crops is granted for the calendar year and not the marketing year. The operative event for the exchange rate for this aid should therefore be established.</p>
+      <p n="12">(4) Regulation (EC) No 2808/98 should therefore be amended accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinions of the Management Committees concerned,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The following second subparagraph is added to Article 4(1) of Regulation (EC) No 2808/98:"However, for the aid referred to in Chapter 5 of Title IV of Council Regulation (EC) No 1782/2003(4), the operative event for the exchange rate shall be 1 January of the year in which the aid is granted."</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.</p>
+      <p n="19">It shall apply from 1 January 2004.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 29 December 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 349, 24.12.1998, p. 1.</p>
+      <p n="26">(2) OJ L 349, 24.12.1998, p. 36. Regulation as last amended by Regulation (EC) No 816/2003 (OJ L 116, 13.5.2003, p. 12).</p>
+      <p n="27">(3) OJ L 270, 21.10.2003, p. 1.</p>
+      <p n="28">(4) OJ L 270, 21.10.2003, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

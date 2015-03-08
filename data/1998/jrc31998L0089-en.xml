@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31998L0089-en" n="31998L0089" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998L0089 English</title>
+        <title>Commission Directive 98/89/EC of 20 November 1998 adapting to technical progress Council Directive 74/152/EEC relating to the maximum design speed and load platforms of wheeled agricultural or forestry tractors (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0089:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998L0089:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">3143</classCode>
+        <classCode scheme="eurovoc">4476</classCode>
+        <classCode scheme="eurovoc">4655</classCode>
+        <classCode scheme="eurovoc">5383</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998L0089-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 98/89/EC of 20 November 1998 adapting to technical progress Council Directive 74/152/EEC relating to the maximum design speed and load platforms of wheeled agricultural or forestry tractors (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 98/89/EC of 20 November 1998 adapting to technical progress Council Directive 74/152/EEC relating to the maximum design speed and load platforms of wheeled agricultural or forestry tractors (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 74/150/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to the type approval of wheeled agricultural or forestry tractors (1), as last amended by Directive 97/54/EC of the European Parliament and of the Council (2), and in particular Article 13 thereof,</p>
+      <p n="6">Having regard to Council Directive 74/152/EEC of 4 March 1974 on the approximation of the laws of the Member States relating to the maximum design speed and load platforms of wheeled agricultural forestry tractors (3), as last amended by Directive 97/54/EC, and in particular Article 5 thereof,</p>
+      <p n="7">Whereas, in view of the increase in maximum design speed to 40 km/h and of developments in the state of the art, it is now appropriate to adapt the requirement concerning the tolerance in speed measurement referred to in point 1.5 of the Annex to Directive 74/152/EEC;</p>
+      <p n="8">Whereas the measures provided for in this Directive are in accordance with the opinion of the Committee on adaptation to technical progress introduced by Directive 74/150/EEC,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Point 1.5 of the Annex to Directive 74/152/EEC shall be amended as follows: 'that the measured speed will exceed the value for the maximum design speed by 5 %`.</p>
+      <p n="12">Article 2</p>
+      <p n="13">1. From 1 January 2000 no Member State may:</p>
+      <p n="14">- refuse, in respect of a type of tractor, to grant EC type approval, to issue the document referred to in Article 10(1), final indent of Directive 74/150/EEC, or to grant national type approval, or</p>
+      <p n="15">- prohibit the entry into service of tractors,</p>
+      <p n="16">if those tractors meet the requirements of Directive 74/152/EEC, as amended by this Directive.</p>
+      <p n="17">2. From 1 October 2004, Member States:</p>
+      <p n="18">- may no longer issue the document referred to in Article 10(1), final indent, of Directive 74/150/EEC for a type of tractor if this does not meet the requirements of Directive 74/152/EEC, as amended by this Directive,</p>
+      <p n="19">- may refuse to grant national type approval in respect of a type of tractor if this does not meet the requirements of Directive 74/152/EEC as amended by this Directive.</p>
+      <p n="20">Article 3</p>
+      <p n="21">1. Member States shall implement the laws, regulations and administrative provisions necessary to comply with this Directive by, at the latest, 31 December 1999. They shall forthwith inform the Commission thereof.</p>
+      <p n="22">Where the Member States adopt these provisions, the latter shall contain a reference to this Directive or shall be accompanied by such a reference when published in their Official Journal. The conditions applying to that reference shall be introduced by the Member States.</p>
+      <p n="23">2. The Member States shall send to the Commission the text of the essential provisions of national law that they adopt in the area covered by this Directive.</p>
+      <p n="24">Article 4</p>
+      <p n="25">This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="26">Article 5</p>
+      <p n="27">This Directive is addressed to the Member States.</p>
+      <p n="28">Done at Brussels, 20 November 1998.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">Martin BANGEMANN</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ L 84, 28. 3. 1974, p. 10.</p>
+      <p n="33">(2) OJ L 277, 10. 10. 1997, p. 24.</p>
+      <p n="34">(3) OJ L 84, 28. 3. 1974, p. 33.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31995D0342-en" n="31995D0342" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0342 English</title>
+        <title>95/342/EC: Commission Decision of 27 July 1995 on treatment of milk and milk-based products for human consumption from third countries or parts of third countries where there is a risk of foot-and-mouth disease</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0342:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0342:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">4416</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">994</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0342-en." lang="en">
+    <body>
+      <head n="1">95/342/EC: Commission Decision of 27 July 1995 on treatment of milk and milk-based products for human consumption from third countries or parts of third countries where there is a risk of foot-and-mouth disease</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 27 July 1995</p>
+      <p n="4">on treatment of milk and milk-based products for human consumption from third countries or parts of third countries where there is a risk of foot-and-mouth disease</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">(95/342/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Directive 92/46/EEC of 16 June 1992 laying down the health rules for the production and placing on the market of raw milk, heat-treated milk and milk-based products (1) as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 23 (3) (d) thereof;</p>
+      <p n="10">Whereas milk and milk-based products for human consumption from certain third countries or parts of third countries may present a risk from the point of view of foot-and-mouth disease;</p>
+      <p n="11">Whereas the types of treatment to be prescribed for milk and milk-based products for human consumption from such third countries or parts of third countries should be established;</p>
+      <p n="12">Whereas the types of treatment are to be listed on the model health certificates for imports of milk and milk-based products from third countries or parts of third countries where there is a risk of foot-and-mouth disease;</p>
+      <p n="13">Whereas the types of treatment to be prescribed must have a scientific basis of the sort recommended by the Scientific Veterinary Committee and must take account of public and animal health protection requirements;</p>
+      <p n="14">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Milk and milk-based products for human consumption from third countries or parts of third countries where an outbreak of foot-and-mouth disease has occurred within the last 12 months or which have carried out vaccination against foot-and-mouth disease in the last 12 months must, before they are introduced onto Community territory, undergo:</p>
+      <p n="18">(a) sterilization such that it has an F° value equal to or higher than 3; or</p>
+      <p n="19">(b) an initial heat treatment having an effect at least equivalent to that achieved by pasteurization at a temperature of at least 72 °C for at least 15 seconds, so as to produce a negative reaction to the phosphatase test, followed by:</p>
+      <p n="20">(i) a second heat treatment involving high-temperature pasteurization, UHT or sterilization, so as to produce a negative reaction to the peroxidase test; or</p>
+      <p n="21">(ii) in the case of milk powder or a dry milk-based product, a second heat treatment having an effect at least equivalent to that achieved by the first heat treatment, so as to produce a negative reaction to the phosphatase test, followed by a drying process; or</p>
+      <p n="22">(iii) an acidification process such that the pH value is lowered and kept below 6 for at least one hour.</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Decision shall apply from 2 February 1996.</p>
+      <p n="25">Article 3</p>
+      <p n="26">This Decision is addressed to the Member States.</p>
+      <p n="27">Done at Brussels, 27 July 1995.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">Franz FISCHLER</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ No L 268, 14. 9. 1992, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

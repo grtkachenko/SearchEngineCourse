@@ -1,0 +1,70 @@
+<TEI.2 id="jrc31999D0622-en" n="31999D0622" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0622 English</title>
+        <title>1999/622/EC, Euratom: Commission Decision of 8 September 1999 on the treatment of repayments of VAT to non-taxable units and to taxable units for their exempt activities, for the purpose of implementing Council Directive 89/130/EEC, Euratom on the harmonisation of the compilation of gross national product at market prices (notified under document number C(1999) 2533) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0622:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0622:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">202</classCode>
+        <classCode scheme="eurovoc">2656</classCode>
+        <classCode scheme="eurovoc">2769</classCode>
+        <classCode scheme="eurovoc">3263</classCode>
+        <classCode scheme="eurovoc">4585</classCode>
+        <classCode scheme="eurovoc">935</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0622-en." lang="en">
+    <body>
+      <head n="1">1999/622/EC, Euratom: Commission Decision of 8 September 1999 on the treatment of repayments of VAT to non-taxable units and to taxable units for their exempt activities, for the purpose of implementing Council Directive 89/130/EEC, Euratom on the harmonisation of the compilation of gross national product at market prices (notified under document number C(1999) 2533) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 8 September 1999</p>
+      <p n="4">on the treatment of repayments of VAT to non-taxable units and to taxable units for their exempt activities, for the purpose of implementing Council Directive 89/130/EEC, Euratom on the harmonisation of the compilation of gross national product at market prices</p>
+      <p n="5">(notified under document number C(1999) 2533)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(1999/622/EC, Euratom)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to the Treaty establishing the European Atomic Energy Community,</p>
+      <p n="11">Having regard to Council Directive 89/130/EEC, Euratom of 13 February 1989 on the harmonisation of the compilation of gross national product at market prices(1), and in particular Article 1 thereof,</p>
+      <p n="12">(1) Whereas the European System of Integrated Economic Accounts (ESA second edition), does not specify explicitly the treatment of repayments of VAT to non-taxable units and to taxable units, for their exempt activities;</p>
+      <p n="13">(2) Whereas for the purpose of the calculation of gross national product at market prices (GNPmp) pursuant to Article 1 of Directive 89/130/EEC, Euratom, it is necessary to clarify the treatment of repayments of VAT to non-taxable units and to taxable units, for their exempt activities, for the purpose of ESA second edition;</p>
+      <p n="14">(3) Whereas the sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonisation of the laws of the Member States relating to turnover taxes - Common system of value added tax: uniform basis of assessment(2), as last amended by Directive 1999/59/EC(3), specifies the notions of taxable person, of non-taxable person and of exempt activity;</p>
+      <p n="15">(4) Whereas the measures provided for in this Decision are in accordance with the opinion of the committee established by Article 6 of Directive 89/130/EEC, Euratom,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">In compiling national accounts aggregates for the purpose of the implementation of Directive 89/130/EEC, Euratom, repayments of VAT incurred on their purchases, made to</p>
+      <p n="19">- non-taxable persons,</p>
+      <p n="20">- taxable persons, for their exempt activities,</p>
+      <p n="21">shall be treated under ESA second edition as current transfers (in the distribution of income account - C3) or capital transfers (in the capital account - C5), and not as if they were deductible VAT.</p>
+      <p n="22">For a harmonised application of this Decision, non-taxable persons are as defined in Article 4 of the sixth Directive 77/388/EEC, Euratom, and the exempt activities envisaged are those listed in Article 13 of the sixth Directive 77/388/EEC, Euratom.</p>
+      <p n="23">Article 2</p>
+      <p n="24">The provisions of Article 1 shall apply to GNP data transmitted pursuant to Directive 89/130/EEC, Euratom, for the years from 1988 onwards.</p>
+      <p n="25">Article 3</p>
+      <p n="26">This Decision is adressed to the Member States.</p>
+      <p n="27">Done at Brussels, 8 September 1999.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">Yves-Thibault DE SILGUY</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 49, 21.2.1989, p. 26.</p>
+      <p n="32">(2) OJ L 145, 13.6.1977, p. 1.</p>
+      <p n="33">(3) OJ L 162, 26.6.1999, p. 63.</p>
+    </body>
+  </text>
+</TEI.2>

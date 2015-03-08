@@ -1,0 +1,74 @@
+<TEI.2 id="jrc32002R0893-en" n="32002R0893" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0893 English</title>
+        <title>Regulation (EC) No 893/2002 of the European Parliament and of the Council of 27 May 2002 amending Regulation (EC) No 685/2001 in order to provide for the distribution among Member States of authorisations received pursuant to the Agreement establishing certain conditions for the carriage of goods by road and the promotion of combined transport between the European Community and Romania</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0893:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0893:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">3763</classCode>
+        <classCode scheme="eurovoc">4506</classCode>
+        <classCode scheme="eurovoc">4509</classCode>
+        <classCode scheme="eurovoc">4533</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0893-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 893/2002 of the European Parliament and of the Council of 27 May 2002 amending Regulation (EC) No 685/2001 in order to provide for the distribution among Member States of authorisations received pursuant to the Agreement establishing certain conditions for the carriage of goods by road and the promotion of combined transport between the European Community and Romania</head>
+      <p n="2">Regulation (EC) No 893/2002 of the European Parliament and of the Council</p>
+      <p n="3">of 27 May 2002</p>
+      <p n="4">amending Regulation (EC) No 685/2001 in order to provide for the distribution among Member States of authorisations received pursuant to the Agreement establishing certain conditions for the carriage of goods by road and the promotion of combined transport between the European Community and Romania</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 71 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="9">Following consultation of the Committee of the Regions,</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) By Council Decision 2002/409/EC(4), the European Community concluded an Agreement with Romania establishing certain conditions for the carriage of goods by road and the promotion of combined transport.</p>
+      <p n="13">(2) This Agreement provides for the Community to receive road transit authorisations from Romania, as is the case under the almost identical agreements concluded with Bulgaria and Hungary.</p>
+      <p n="14">(3) Reasons of consistency call for the rules governing the distribution of these authorisations to be identical to those established for the distribution of the authorisations received pursuant to the agreements with Bulgaria and Hungary.</p>
+      <p n="15">(4) Regulation (EC) No 685/2001(5) should be amended accordingly,</p>
+      <p n="16">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Regulation (EC) No 685/2001 is hereby amended as follows:</p>
+      <p n="19">1. The title shall be replaced by the following: "Regulation (EC) No 685/2001 of the European Parliament and of the Council of 4 April 2001 concerning the distribution among Member States of authorisations received pursuant to the Agreements establishing certain conditions for the carriage of goods by road and the promotion of combined transport between the European Community and the Republic of Bulgaria, between the European Community and the Republic of Hungary and between the European Community and Romania."</p>
+      <p n="20">2. Article 1 shall be replaced by the following: "Article 1</p>
+      <p n="21">This Regulation lays down the rules for the distribution among Member States of authorisations available to the Community by virtue of Article 6(2) of the Agreements concluded between the European Community and the Republic of Bulgaria, between the European Community and the Republic of Hungary and between the European Community and Romania establishing certain conditions for the carriage of goods by road and the promotion of combined transport (hereinafter referred to as the 'Agreements')."</p>
+      <p n="22">3. The Annex shall be replaced by the following:</p>
+      <p n="23">"&gt;TABLE&gt;"</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Brussels, 27 May 2002.</p>
+      <p n="28">For the European Parliament</p>
+      <p n="29">The President</p>
+      <p n="30">P. Cox</p>
+      <p n="31">For the Council</p>
+      <p n="32">The President</p>
+      <p n="33">M. Arias Cañete</p>
+      <p n="34">(1) OJ C 278 E, 25.9.2001, p. 102.</p>
+      <p n="35">(2) OJ C 36, 8.2.2002, p. 27.</p>
+      <p n="36">(3) Opinion of the European Parliament of 5 September 2001 (OJ C 72, 21.3.2002, p. 141) and Council Decision of 22 April 2002.</p>
+      <p n="37">(4) See page 74 of this Official Journal.</p>
+      <p n="38">(5) OJ L 108, 18.4.2001, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

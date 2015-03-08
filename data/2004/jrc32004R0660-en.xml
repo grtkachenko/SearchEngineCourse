@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32004R0660-en" n="32004R0660" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0660 English</title>
+        <title>Commission Regulation (EC) No 660/2004 of 7 April 2004 amending the Annex to Council Regulation No 79/65/EEC as regards the list of divisions</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0660:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0660:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3424</classCode>
+        <classCode scheme="eurovoc">362</classCode>
+        <classCode scheme="eurovoc">4839</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0660-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 660/2004 of 7 April 2004 amending the Annex to Council Regulation No 79/65/EEC as regards the list of divisions</head>
+      <p n="2">Commission Regulation (EC) No 660/2004</p>
+      <p n="3">of 7 April 2004</p>
+      <p n="4">amending the Annex to Council Regulation No 79/65/EEC as regards the list of divisions</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation No 79/65/EEC of 15 June 1965 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Economic Community(1), and in particular Article 2a thereof,</p>
+      <p n="8">Having regard to the request of Belgium,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) A list of divisions within the meaning of Article 2(d) of Regulation No 79/65/EEC is laid down in the Annex to that Regulation.</p>
+      <p n="11">(2) According to that Annex, Belgium constitutes a single division. For the purposes of Regulation No 79/65/EEC Belgium has requested to split the single division in three divisions.</p>
+      <p n="12">(3) Regulation No 79/65/EEC should therefore be amended accordingly.</p>
+      <p n="13">(4) The measures provided for in this Regulation are in accordance with the opinion of the Community Committee for the Farm Accountancy Data Network,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Annex to Regulation 79/65/EEC is amended in accordance with the Annex to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="19">It shall apply from the 2004 accounting year.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 7 April 2004.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ 109, 23.6.1965, p. 1859/65. Regulation as last amended by Regulation (EC) No 2059/2003 (OJ L 308, 25.11.2003, p. 1).</p>
+      <p n="26">ANNEX</p>
+      <p n="27">In the Annex to Regulation No 79/65/EEC, the words "BELGIUM constitutes a single division" are replaced by the following:</p>
+      <p n="28">"BELGIUM</p>
+      <p n="29">1. Vlaanderen</p>
+      <p n="30">2. Bruxelles - Brussel</p>
+      <p n="31">3. Wallonie."</p>
+    </body>
+  </text>
+</TEI.2>

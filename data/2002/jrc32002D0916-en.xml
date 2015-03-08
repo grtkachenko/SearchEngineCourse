@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32002D0916-en" n="32002D0916" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0916 English</title>
+        <title>2002/916/EC: Commission Decision of 21 November 2002 amending Decision 94/652/EC as regards updating the inventory of tasks to be undertaken within the framework of cooperation by Member States in the scientific examination of questions relating to food (Text with EEA relevance) (notified under document number C(2002) 4447)</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0916:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0916:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">2735</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0916-en." lang="en">
+    <body>
+      <head n="1">2002/916/EC: Commission Decision of 21 November 2002 amending Decision 94/652/EC as regards updating the inventory of tasks to be undertaken within the framework of cooperation by Member States in the scientific examination of questions relating to food (Text with EEA relevance) (notified under document number C(2002) 4447)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 21 November 2002</p>
+      <p n="4">amending Decision 94/652/EC as regards updating the inventory of tasks to be undertaken within the framework of cooperation by Member States in the scientific examination of questions relating to food</p>
+      <p n="5">(notified under document number C(2002) 4447)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2002/916/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 93/5/EEC of 25 February 1993 on assistance to the Commission and cooperation by the Member States in the scientific examination of questions relating to food(1), and in particular the fourth indent of Article 3(2) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 94/458/EC of 29 June 1994(2) lays down rules on the administrative management of cooperation in the scientific examination of questions relating to food.</p>
+      <p n="13">(2) Commission Decision 94/652/EC(3), as last amended by Decision 2001/773/EC(4), establishes the inventory and distribution of tasks to be undertaken within the framework of cooperation by Member States in the scientific examination of questions relating to food.</p>
+      <p n="14">(3) The updating of the inventory of tasks should take account of the need for the protection of public health within the Community and the requirements of Community legislation in the foodstuffs sector.</p>
+      <p n="15">(4) The tasks should be distributed having regard to the scientific expertise and resources available within the Member States, and in particular the institutes which will be participating in the scientific cooperation.</p>
+      <p n="16">(5) Decision 94/652/EC should be amended accordingly.</p>
+      <p n="17">(6) The measures provided for by this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">The Annex to Decision 94/652/EC is replaced by the text in the Annex to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 21 November 2002.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 52, 4.3.1993, p. 18.</p>
+      <p n="28">(2) OJ L 189, 23.7.1994, p. 84.</p>
+      <p n="29">(3) OJ L 253, 29.9.1994, p. 29.</p>
+      <p n="30">(4) OJ L 290, 7.11.2001, p. 9.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">"ANNEX</p>
+      <p n="33">Inventory of tasks to be undertaken by Member States within the framework of cooperation by the Member States in the scientific examination of questions relating to food</p>
+      <p n="34">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

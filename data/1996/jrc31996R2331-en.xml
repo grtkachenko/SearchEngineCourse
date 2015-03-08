@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31996R2331-en" n="31996R2331" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R2331 English</title>
+        <title>Council Regulation (EC) No 2331/96 of 2 December 1996 amending Regulation (EC) No 384/96 on protection against dumped imports from countries not members of the European Community</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2331:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R2331:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1591</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2450</classCode>
+        <classCode scheme="eurovoc">519</classCode>
+        <classCode scheme="eurovoc">588</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R2331-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2331/96 of 2 December 1996 amending Regulation (EC) No 384/96 on protection against dumped imports from countries not members of the European Community</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2331/96 of 2 December 1996 amending Regulation (EC) No 384/96 on protection against dumped imports from countries not members of the European Community</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas, by Regulation (EC) No 384/96 (3), the Council adopted common rules for protection against dumped imports from countries not members of the European Community;</p>
+      <p n="8">Whereas paragraph 10 of Article 2 of Regulation (EC) No 384/96 provides for a limited number of allowances which can be made to the normal value and export prices before these are compared to establish whether dumping is taking place; whereas, since it is conceivable that differences in selling expenses, other than those listed in the said Regulation, may in certain circumstances affect price comparability, it is prudent to eliminate the exclusive nature of this provision in relation to allowances;</p>
+      <p n="9">Whereas it is also appropriate to clarify the requirements for an adjustment for differences in levels of trade when information on price effects for two levels of trade does not exist for the market concerned, as well as to provide for an adjustment in order to fine-tune the allocation of costs between different levels of trade on the domestic market of the exporting country,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Paragraph 10 of Article 2 of Regulation (EC) No 384/96 is hereby amended as follows:</p>
+      <p n="13">1. Subparagraph (d) shall be replaced by the following:</p>
+      <p n="14">'(d) Level of trade</p>
+      <p n="15">(i) An adjustment for differences in levels of trade, including any differences which may arise in OEM (Original Equipment Manufacturer) sales, shall be made where, in relation to the distribution chain in both markets, it is shown that the export price, including a constructed export price, is at a different level of trade from the normal value and the difference has affected price comparability which is demonstrated by consistent and distinct differences in functions and prices of the seller for the different levels of trade in the domestic market of the exporting country. The amount of the adjustment shall be based on the market value of the difference.</p>
+      <p n="16">(ii) However, in circumstances not envisaged under (i), when an existing difference in level of trade cannot be quantified because of the absence of the relevant levels on the domestic market of the exporting countries, or where certain functions are shown clearly to relate to levels of trade other than the one which is to be used in the comparison, a special adjustment may be granted.`</p>
+      <p n="17">2. The following subparagraph shall be added:</p>
+      <p n="18">'(k) Other factors</p>
+      <p n="19">An adjustment may also be made for differences in other factors not provided for under subparagraphs (a) to (j) if it is demonstrated that they affect price comparability as required under this paragraph, in particular that customers consistently pay different prices on the domestic market because of the difference in such factors.`</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall apply to proceedings initiated after the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 2 December 1996.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">R. QUINN</p>
+      <p n="27">(1) OJ No C 159, 4. 6. 1996, p. 6.</p>
+      <p n="28">(2) OJ No C 198, 8. 7. 1996, p. 25.</p>
+      <p n="29">(3) OJ No L 56, 6. 3. 1996, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

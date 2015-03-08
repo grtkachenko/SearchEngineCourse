@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31995R2401-en" n="31995R2401" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R2401 English</title>
+        <title>Commission Regulation (EC) No 2401/95 of 12 October 1995 amending Regulation (EEC) No 1274/91 introducing detailed rules for implementing Council Regulation (EEC) No 1907/90 on certain marketing standards for eggs</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2401:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2401:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2121</classCode>
+        <classCode scheme="eurovoc">5726</classCode>
+        <classCode scheme="eurovoc">715</classCode>
+        <classCode scheme="eurovoc">87</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R2401-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2401/95 of 12 October 1995 amending Regulation (EEC) No 1274/91 introducing detailed rules for implementing Council Regulation (EEC) No 1907/90 on certain marketing standards for eggs</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2401/95 of 12 October 1995 amending Regulation (EEC) No 1274/91 introducing detailed rules for implementing Council Regulation (EEC) No 1907/90 on certain marketing standards for eggs</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1907/90 of 26 June 1990 on certain marketing standards for eggs (1), as last amended by Regulation (EC) No 3117/94 (2), and in particular Article 10 (3) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 1274/91 (3), as last amended by Regulation (EC) No 786/95 (4), lays down the necessary provisions for the implementation of marketing standards;</p>
+      <p n="7">Whereas, in view of certain current commercial practices and regarding the case of the optional use of indications relating to types of farming, there is a need to include the battery system among the optional indications of labelling;</p>
+      <p n="8">Whereas Council Directive 88/166/EEC of 7 March 1988 laying down minimum standards for the protection of laying hens kept in battery cages (5), defines the battery system and establishes Community measures necessary for the protection of laying hens; whereas the mentioned Directive allows stricter national technical measures;</p>
+      <p n="9">Whereas the Management Committee for Poultrymeat and Eggs has not delivered an opinion within the time limit set by the chairman,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Regulation (EEC) No 1274/91 is hereby amended as follows:</p>
+      <p n="13">1. Article 18 is amended as follows:</p>
+      <p n="14">- the following point (e) is inserted in paragraph 1:</p>
+      <p n="15">&gt;TABLE&gt;</p>
+      <p n="16">- the following paragraph 7a is inserted:</p>
+      <p n="17">'7a. The provisions of paragraphs 2 to 6 do not apply when the term referred to in paragraph 1 (e) is used.` - paragraph 8 is replaced by the following:</p>
+      <p n="18">'8. The provisions of paragraphs 1 to 7 shall apply without prejudice to national technical measures going beyond the minimum requirements set out in Annex II, which are applicable only to producers of the Member State concerned, provided that they are compatible with Community law and are in conformity with the common marketing standards for eggs.` 2. Annex II is amended as follows:</p>
+      <p n="19">- The title is replaced by the following:</p>
+      <p n="20">'Minimum criteria to be met by poultry enterprises producing eggs as referred to in Article 18 (1) (a), (b), (c), (d) and (e)`;</p>
+      <p n="21">- The following point (e) is inserted:</p>
+      <p n="22">'(e) Eggs in small packs bearing the words "Eggs from caged hens" must be produced in poultry enterprises in which is used the "Battery system" provided for in Council Directive 88/166/EEC.`</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 12 October 1995.</p>
+      <p n="27">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

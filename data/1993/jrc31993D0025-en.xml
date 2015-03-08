@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31993D0025-en" n="31993D0025" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993D0025 English</title>
+        <title>93/25/EEC: Commission Decision of 11 December 1992 approving certain treatments to inhibit the development of pathogenic micro-organisms in bivalve molluscs and marine gastropods</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0025:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993D0025:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993D0025-en." lang="en">
+    <body>
+      <head n="1">93/25/EEC: Commission Decision of 11 December 1992 approving certain treatments to inhibit the development of pathogenic micro-organisms in bivalve molluscs and marine gastropods</head>
+      <p n="2">COMMISSION DECISION of 11 December 1992 approving certain treatments to inhibit the development of pathogenic micro-organisms in bivalve molluscs and marine gastropods</p>
+      <p n="3">(93/25/EEC)THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 91/493/EEC of 22 July 1991 laying down the health conditions for the production and the placing on the market of fishery products (1), and in particular Chapter IV (IV) (2) of the Annex thereto,</p>
+      <p n="6">Whereas bivalve molluscs and marine gastropods harvested in the areas referred to in Chapter I (1) (b) and (1) (c) of the Annex to Council Directive 91/492/EEC of 15 July 1991 laying down the health conditions for the production and the placing on the market of live bivalve molluscs (2) constitute a potential threat to consumers if they are not subjected to appropriate treatment;</p>
+      <p n="7">Whereas Spain and United Kingdom have put forward treatments to inhibit the development of pathogens in bivalve molluscs and marine gastropods;</p>
+      <p n="8">Whereas these processes are adequate to ensure the health of the products and it is not necessary therefore to subject them in advance to purification or relaying;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The treatments set out in the Annex to this Decision for inhibiting the development of pathogenic micro-organisms in bivalve molluscs and marine gastropods harvested in the areas referred to in Chapter I (1) (b) and (1) (c) or the Annex to Directive 91/492/EEC and which have not been subjected to relaying or purification before being placed on the market are hereby approved.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Decision is addressed to the Member States.</p>
+      <p n="15">Done at Brussels, 11 December 1992.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Ray MAC SHARRY</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 268, 24. 9. 1991, p. 15.</p>
+      <p n="20">(2) OJ No L 268, 24. 9. 1991, p. 1.</p>
+      <p n="21">ANNEX</p>
+      <p n="22">A. Sterilization Bivalve molluscs and marine gastropods may be subjected to sterilization in hermetically sealed containers which comply with the requirements of Chapter IV (IV) (4) of the Annex to Directive 91/493/EEC.</p>
+      <p n="23">B. Other heat treatments Bivalve molluscs and marine gastropods in shell and not frozen may undergo one of the following processes:</p>
+      <p n="24">1. - immersion in boiling water for the period required to raise the internal temperature of the mollusc flesh to not less than 90 °C;</p>
+      <p n="25">- maintenance of this minimum temperature for a period of not less than 90 seconds;</p>
+      <p n="26">2. - cooking for three to five minutes in an enclosed space where:</p>
+      <p n="27">- the temperature is between 120 and 160 °C,</p>
+      <p n="28">- the pressure is between 2 and 5 kg/cm2, followed by shelling and freezing of the flesh to a core temperature of 20 °C.</p>
+    </body>
+  </text>
+</TEI.2>

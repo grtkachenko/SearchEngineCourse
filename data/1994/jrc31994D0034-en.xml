@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31994D0034-en" n="31994D0034" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994D0034 English</title>
+        <title>94/34/EC: Commission Decision of 24 January 1994 on the implementation of the Animo computerized network</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0034:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0034:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994D0034-en." lang="en">
+    <body>
+      <head n="1">94/34/EC: Commission Decision of 24 January 1994 on the implementation of the Animo computerized network</head>
+      <p n="2">COMMISSION DECISION of 24 January 1994 on the implementation of the Animo computerized network (94/34/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Directive 92/118/EEC (2), and in particular Article 20 (3) thereof,</p>
+      <p n="6">Whereas the Commission has adopted several decisions concerning the Animo computerized network, in particular Decision 91/398/EEC of 19 July 1991 on a computerized network linking veterinary authorities (Animo) (3), Decision 92/486/EEC of 25 September 1992 establishing the form of cooperation between the Animo host centre and Member States (4) and Decision 93/227/EEC of 5 April 1993 on the provisional setting-up of the Animo computerized network in Italy (5);</p>
+      <p n="7">Whereas the Animo computerized network is now operable in a large part of the Community;</p>
+      <p n="8">Whereas the aim is to make the network operable throughout the Community; whereas it is accordingly necessary to set time limits for the implementation of the system as a whole;</p>
+      <p n="9">Whereas it is necessary, however, to lay down rules applicable in the event that a Member State is not in a position to participate fully in the network;</p>
+      <p n="10">Whereas this Decision is without prejudice to earlier provisions concerning the Animo network, in particular those contained in Decisions 92/486/EEC and 93/227/EEC;</p>
+      <p n="11">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="12">HAS ADOPTED THIS DECISION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Member States shall ensure that their central units are connected to the Animo network (sending and receipt of all messages provided for under the Animo system) by 1 February 1994 at the latest.</p>
+      <p n="15">Article 2</p>
+      <p n="16">Member States shall ensure that all local units and border inspection posts are connected to the Animo network by 1 June 1994 at the latest.</p>
+      <p n="17">Article 3</p>
+      <p n="18">If a Member State is unable, in accordance with Article 1, to use the Animo computerized network as from 1 February 1994, the central authority of that Member State shall send by fax to the central authority of the country of destination all messages which the Animo system is intended to handle.</p>
+      <p n="19">Article 4</p>
+      <p n="20">If a local unit in a Member State is unable to use the Animo computerized network as from 1 June 1994, the central authority of that Member State shall ensure that all messages which that unit is intended to handle under the Animo system are taken over by the central unit.</p>
+      <p n="21">Article 5</p>
+      <p n="22">The provisions of this Decision shall apply without prejudice to earlier provisions concerning the Animo system, in particular those contained in Decisions 92/486/EEC and 93/227/EEC.</p>
+      <p n="23">Article 6</p>
+      <p n="24">The situation concerning the implementation of the Animo system will be re-examined in March 1994.</p>
+      <p n="25">Article 7</p>
+      <p n="26">This Decision is addressed to the Member States.</p>
+      <p n="27">Done at Brussels, 24 January 1994.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">René STEICHEN</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ No L 224, 18. 8. 1990, p. 29.</p>
+      <p n="32">(2) OJ No L 62, 15. 3. 1993, p. 49.</p>
+      <p n="33">(3) OJ No L 221, 9. 8. 1991, p. 30.</p>
+      <p n="34">(4) OJ No L 291, 7. 10. 1992, p. 20.</p>
+      <p n="35">(5) OJ No L 97, 23. 4. 1993, p. 31.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,244 @@
+<TEI.2 id="jrc31999R1498-en" n="31999R1498" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1498 English</title>
+        <title>Commission Regulation (EC) No 1498/1999 of 8 July 1999 laying down rules for the implementation of Council Regulation (EEC) No 804/68 as regards communications between the Member States and the Commission in the milk and milk products sector</title>
+      </titleStmt>
+      <extent>207 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1498:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1498:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1486</classCode>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">4038</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1498-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1498/1999 of 8 July 1999 laying down rules for the implementation of Council Regulation (EEC) No 804/68 as regards communications between the Member States and the Commission in the milk and milk products sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1498/1999</p>
+      <p n="3">of 8 July 1999</p>
+      <p n="4">laying down rules for the implementation of Council Regulation (EEC) No 804/68 as regards communications between the Member States and the Commission in the milk and milk products sector</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organisation of the market in milk and milk products(1), as last amended by Regulation (EC) No 1587/96(2), and in particular Article 28 thereof,</p>
+      <p n="8">(1) Whereas Commission Regulation (EEC) No 210/69 of 31 January 1969 on communications between Member States and the Commission with regard to milk and milk products(3), as last amended by Regulation (EC) No 427/98(4), has been substantially amended several times; whereas, for the sake of clarity, that Regulation should be recast since further amendments are to be made;</p>
+      <p n="9">(2) Whereas appraisal of the production and market situation in the milk and milk products sector necessitates a regular exchange of information on the operation of the intervention measures provided for in Regulation (EEC) No 804/68, particularly with regard to changes in stocks of the products concerned, both held by intervention agencies and in private storage;</p>
+      <p n="10">(3) Whereas aid for skimmed milk processed into casein and refunds can be fixed only on the basis of information on changes in prices in international trade;</p>
+      <p n="11">(4) Whereas the accurate and detailed monitoring of trade flows to assess the effect of refunds requires information on exports of products for which refunds are fixed, particularly the quantities awarded under tendering procedures;</p>
+      <p n="12">(5) Whereas the implementation of the Agreement on Agriculture concluded under the Uruguay Round of multilateral trade negotiations(5) (hereinafter referred to as "the Agreement on Agriculture") requires additional and more detailed information to be provided on imports and exports, in particular with regard to licence applications and the way licences are used, in order to ensure compliance with undertakings under the Agreement; whereas rapid information on export trends is needed in order to make maximum use of those undertakings; whereas under that Agreement food-aid exports are not subject to the constraints applying to subsidised exports; whereas it should be provided that communications relating to export licence applications must accordingly specify which licence applications cover food-aid supplies;</p>
+      <p n="13">(6) Whereas Commission Regulation (EC) No 147/1999(6) lays down detailed rules for exports of cheese to Canada, Switzerland and the United States; whereas provision should be made for the relevant information to be communicated;</p>
+      <p n="14">(7) Whereas Regulation {EC) No 147/1999 introduces specific arrangements for the grant of refunds on ingredients of Community origin in processed cheese manufactured under the inward processing arrangements; whereas provision should be made for the relevant information to be communicated;</p>
+      <p n="15">(8) Whereas Article 5 of Regulation (EC) No 174/1999 provides that, in certain cases, export licences can be valid for exportation of a product with a code other than that entered in Section 16 of the licence; whereas provision should be made for the relevant information to be communicated;</p>
+      <p n="16">(9) Whereas Commission Regulation (EC) No 1374/98(7), as amended by Regulation (EC) No 1339/1999(8), provides for certain import quotas to be administered by means of IMA 1 certificates issued by the authorities of third countries; whereas the Member States inform the Commission of the quantity of products for which import licences are issued on the basis of IMA 1 certificates; whereas experience has shown that such notification is not always sufficient to allow such imports to be monitored closely at each stage; whereas provision should be made for additional information to be communicated;</p>
+      <p n="17">(10) Whereas the method of communicating certain information should be changed; whereas the communication of that information is essential in order to monitor compliance with certain import quotas starting on 1 July 1999 under the Agreement on Agriculture; whereas, in order to ensure the continuity of the management of the system, it is accordingly necessary that this Regulation apply from that date;</p>
+      <p n="18">(11) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="19">HAS ADOPTED THIS REGULATION:</p>
+      <p n="20">CHAPTER I</p>
+      <p n="21">Stocks and intervention</p>
+      <p n="22">Article 1</p>
+      <p n="23">Member States shall communicate the following information to the Commission not later than the 10th of each month for the previous month:</p>
+      <p n="24">1. in the case of intervention measures taken under Article 6(1) of Regulation (EEC) No 804/68:</p>
+      <p n="25">(a) the quantities of butter in storage at the end of the month concerned and the quantities entering and leaving storage during that month, in accordance with Annex I, Part A;</p>
+      <p n="26">(b) a breakdown of the quantities of butter leaving storage during the month concerned, according to the regulations by which they are covered, in accordance with Annex I, Part B;</p>
+      <p n="27">(c) a breakdown by age of the quantities of butter in storage at the end of the month concerned, in accordance with Annex I, Part C;</p>
+      <p n="28">2. in the case of intervention measures taken under Article 6(2) of Regulation (EEC) No 804/68, in accordance with Annex II:</p>
+      <p n="29">(a) the quantities of butter and cream converted into butter equivalent covered by storage contracts concluded during the month concerned;</p>
+      <p n="30">(b) the quantities of butter and cream converted into butter equivalent covered by storage contracts which expired during the month concerned;</p>
+      <p n="31">(c) the total quantity of butter and cream converted into butter equivalent covered by storage contracts at the end of the month concerned.</p>
+      <p n="32">Article 2</p>
+      <p n="33">In the case of intervention measures taken under Article 7(1) of Regulation (EEC) No 804/68, the Member States shall communicate, not later than the 10th of each month for the month preceding the communication:</p>
+      <p n="34">(a) the quantities of skimmed-milk powder in storage at the end of the month concerned and the quantities entering and leaving storage during that month, in accordance with Annex III, Part A;</p>
+      <p n="35">(b) a breakdown of the quantities of skimmed-milk powder leaving storage during the month concerned, according to the regulations by which they are covered, in accordance with Annex III, Part B;</p>
+      <p n="36">(c) a breakdown by age of the quantities of skimmed-milk powder in storage at the end of the month concerned, in accordance with Annex III, Part C.</p>
+      <p n="37">Article 3</p>
+      <p n="38">In the case of intervention measures taken under Article 8(1) of Regulation (EEC) No 804/68, the Member States shall communicate, not later than the 10th of each month for the month preceding the communication:</p>
+      <p n="39">(a) the quantities of the following cheeses:</p>
+      <p n="40">- Grana Padano,</p>
+      <p n="41">- Parmigiano Reggiano,</p>
+      <p n="42">- Provolone,</p>
+      <p n="43">covered by storage contracts at the beginning of the month concerned;</p>
+      <p n="44">(b) the quantities of cheese covered by storage contracts concluded during the month concerned, broken down by the categories listed at (a);</p>
+      <p n="45">(c) the quantities of cheese covered by storage contracts which expired during the month concerned, broken down by the categories listed at (a);</p>
+      <p n="46">(d) the quantities of cheese covered by storage contracts at the end of the month concerned, broken down by the categories listed at (a).</p>
+      <p n="47">Article 4</p>
+      <p n="48">For the purposes of this Chapter:</p>
+      <p n="49">(a) "quantities entering" means quantities physically placed in storage, whether or not taken over by the intervention agency;</p>
+      <p n="50">(b) "quantities leaving" means quantities which have been removed or, if taken over by the purchaser before removal, quantities taken over.</p>
+      <p n="51">CHAPTER II</p>
+      <p n="52">Aid for skimmed milk and skimmed-milk powder</p>
+      <p n="53">Article 5</p>
+      <p n="54">Member States shall communicate the following information to the Commission:</p>
+      <p n="55">1. in the case of aid granted under Article 10(1) of Regulation (EEC) No 804/68 for skimmed milk used in feedingstuffs:</p>
+      <p n="56">(a) not later than the 20th of each month for the month preceding the communication:</p>
+      <p n="57">(i) the quantities of skimmed milk produced and processed in dairies and sold to farms for use in feedingstuffs and covered by aid applications submitted during the month concerned;</p>
+      <p n="58">(ii) the quantities of skimmed milk used in feedingstuffs and for which cream was delivered to dairies;</p>
+      <p n="59">(iii) the quantities of skimmed milk used in the manufacture of compound feedingstuffs covered by aid applications submitted during the month concerned;</p>
+      <p n="60">(b) not later than 30 January each year for the year preceding the communication, the quantities of skimmed milk used in feedingstuffs on the farms where it was produced and covered by aid applications submitted under Article 10(1) of Regulation (EC) No 804/68;</p>
+      <p n="61">2. in the case of aid granted under Article 10(1) of Regulation (EEC) No 804/68 for skimmed-milk powder used in feedingstuffs, not later than the 20th of each month for the month preceding the communication:</p>
+      <p n="62">(a) the quantities of denatured skimmed-milk powder covered by aid applications submitted during the month concerned, exluding the quantities referred to at (c);</p>
+      <p n="63">(b) the quantities of skimmed-milk powder used in the manufacture of compound feedingstuffs covered by aid applications submitted during the month concerned, excluding the quantities referred to at (c);</p>
+      <p n="64">(c) the quantities of skimmed-milk powder denatured or processed into compound feedingstuffs under the third indent of Article 3(1) of Council Regulation (EEC) No 986/68(9), indicating the Member State of processing;</p>
+      <p n="65">3. in the case of aid granted under Article 11 of Regulation (EEC) No 804/68 for skimmed milk processed into casein, not later than the 20th of each month for the month preceding the communication, the quantities of skimmed milk covered by aid applications submitted during the month concerned. Such quantities shall be broken down according to the quality of the casein or caseinates produced.</p>
+      <p n="66">CHAPTER III</p>
+      <p n="67">Prices</p>
+      <p n="68">Article 6</p>
+      <p n="69">1. Member States shall communicate to the Commission:</p>
+      <p n="70">(a) via the "Interactive Data Entry System" (IDES): not later than Thursday each week, the prices (before tax) applied in their territory for the products listed in Annex IV, specifying the marketing stage (ex-factory, wholesale, retail) and characteristics of the product;</p>
+      <p n="71">(b) by fax: not later than the 25th of each month, the most recent prices for casein and caseinates applied on the world market and in the Community, specifying the marketing stage.</p>
+      <p n="72">2. Member States shall take the necessary steps to ensure that their communications on the prices applied in the Community are as recent, representative, accurate and complete as possible.</p>
+      <p n="73">CHAPTER IV</p>
+      <p n="74">Trade</p>
+      <p n="75">SECTION 1</p>
+      <p n="76">Imports</p>
+      <p n="77">Article 7</p>
+      <p n="78">The Member States shall communicate to the Commission, via IDES if possible, otherwise by fax:</p>
+      <p n="79">1. not later than the 10th of each month for the previous month, the quantities of products covered by import licences issued under Sections 1 and 3 of Chapter II of Regulation (EC) No 1374/98, broken down by Combined Nomenclature (CN) code and by country of origin code (IDES computer code 6);</p>
+      <p n="80">2. not later than the 10th of the month following the month of issue, the quantities of products covered by import licences issued under Section 2 of Chapter II of Regulation (EC) No 1374/98, broken down by CN code and by country of origin code (IDES computer code 7);</p>
+      <p n="81">3. not later than the 10th of each month for the previous month, the quantities of products covered by import licences issued under Chapter III of Regulation (EC) No 1374/98, including the products falling within CN codes 0406 90 02 to 0406 90 06 referred to in Article 23 of that Regulation, broken down by CN code and by country of origin code (IDES computer code 6);</p>
+      <p n="82">4. not later than the 10th of the month following the month of issue, the quantities of products covered by import licences issued under Commission Regulation (EC) No 2508/97(10), broken down by CN code and by country of origin code (IDES computer code 5);</p>
+      <p n="83">5. not later than the 10th of each month for the previous month, the quantities of products, broken down by CN code and by country of origin code, covered by import licences subject to the application of non-preferential duties as referred to in the common customs tariff (IDES computer code 8).</p>
+      <p n="84">Where applicable, the Member States shall inform the Commission that no certificates have been issued for the previous month.</p>
+      <p n="85">Article 8</p>
+      <p n="86">Before 1 April in respect of the previous year, using the model in Annex V, the Member States shall communicate the following data to the Commission, broken down by CN code, concerning the import licences issued on presentation of an IMA 1 certificate, where such certificates ensure compliance with a quota under Chapter II of Regulation (EC) No 1374/98, specifying the IMA 1 certificate numbers:</p>
+      <p n="87">(a) the quantity of products covered by the certificate and the date of issue of the import licence,</p>
+      <p n="88">(b) the quantity of products in respect of which the security has been released.</p>
+      <p n="89">SECTION 2</p>
+      <p n="90">Exports</p>
+      <p n="91">Article 9</p>
+      <p n="92">Member States shall communicate the following information to the Commission:</p>
+      <p n="93">1. by 6 p.m. on each working day, with the exception of quantities covered by export licence applications either where no refund is applied for or where they are for supplies of food aid within the meaning of Article 10(4) of the Agreement on Agriculture concluded under the Uruguay Round:</p>
+      <p n="94">(a) the quantities, broken down by code of the export refund nomenclature for milk products and by destination code, covered by applications submitted that day for licences:</p>
+      <p n="95">(i) as referred to in Article 1 of Regulation (EC) No 174/1999, with the exception of those referred to in Article 17 of that Regulation (IDES computer code 1);</p>
+      <p n="96">(ii) as referred to in Article 17 of Regulation (EC) No 174/1999 (IDES computer code 9);</p>
+      <p n="97">where appropriate, the fact that none has been applied for;</p>
+      <p n="98">(b) the quantities, broken down by code of the export refund nomenclature for milk products and by destination code, covered by applications for provisional licences as referred to in Article 8 of Regulation (EC) No 174/1999 submitted on that day, indicating the closing date for submitting tenders and the quantity of products covered by the invitation to tender or, in the case of an invitation to tender opened by the armed forces within the meaning of Article 36(1)(c) of Commission Regulation (EC) No 800/1999(11) not specifying the quantity, the approximate quantity broken down as specified above (IDES computer code 2);</p>
+      <p n="99">(c) the quantities, broken down by code of the export refund nomenclature for milk products and by destination code, for which provisional licences as referred to in Article 8 of Regulation (EC) No 174/ 1999 were definitively issued or cancelled that day, indicating the body issuing the invitation to tender, the date of the provisional licence and the quantity it covers;</p>
+      <p n="100">2. Before the 16th of each month for the previous month:</p>
+      <p n="101">(a) the quantities, broken down by code of the export refund nomenclature for milk products, covered by licence applications cancelled under Article 10(3), first subparagraph (b), of Regulation (EC) No 174/1999, indicating the refund rate;</p>
+      <p n="102">(b) the quantities, broken down by code of the export refund nomenclature for milk products, covered by licences returned before expiry of the period of validity, indicating separately the quantities covered by definitive licences issued under Article 20 of Regulation (EC) No 174/1999 and other quantities, with the relevant refund rate;</p>
+      <p n="103">(c) the quantities, broken down by code of the export refund nomenclature for milk products, not exported after expiry of the period of validity of the relevant licences, indicating separately the unexported quantities covered by definitive licences issued under Article 20 of Regulation (EC) No 174/1999 and other quantities, with the relevant refund rate;</p>
+      <p n="104">(d) the quantities, broken down by code of the export refund nomenclature for milk products, covered by definitive licences issued under Article 20 of Regulation (EC) No 174/1999;</p>
+      <p n="105">(e) the quantities, broken down by code of the export refund nomenclature for milk products and by destination code, covered by export licence applications for supplies of food aid within the meaning of Article 10(4) of the Agreement on Agriculture concluded under the Uruguay Round;</p>
+      <p n="106">(f) the quantities of milk products, broken down by CN code and by code of the country of origin, which are not in one of the situations referred to in Article 23(2) of the Treaty and are imported for use in the manufacture of products falling within CN code 0406 30, in accordance with the third indent of Article 11(6) of Regulation (EC) No 800/1999 and for which the authorisation referred to in Article 17(1) of Regulation (EC) No 174/1999 has been granted;</p>
+      <p n="107">(g) the quantities for which application of Article 5(3) of Regulation (EC) No 174/1999 has been accepted, indicating the export refund nomenclature for milk products entered in Section 16 of the export licence issued and that for the product actually exported;</p>
+      <p n="108">3. before the 16th of each month for month n - 4:</p>
+      <p n="109">(a) the quantities, broken down by CN code and destination code, for which the formalities for export without a refund have been completed;</p>
+      <p n="110">(b) the quantities, broken down by code of the export refund nomenclature for milk products, to which Article 18(3) of Regulation (EC) No 800/1999 has been applied, in so far as the refund rate applied is different to that indicated on the licence, and the differences between the refund for the destination indicated on the licence and that actually applied;</p>
+      <p n="111">4. before the 16th of each month for the previous month, the quantities, broken down by CN code or, where applicable, by the code of the export refund nomenclature for milk products, covered by licence applications and where no refund is applied for, as referred to in:</p>
+      <p n="112">(a) Article 18 of Regulation (EC) No 174/1999;</p>
+      <p n="113">(b) Article 19 of Regulation (EC) No 174/1999.</p>
+      <p n="114">5. The data referred to at point 1(a) and (b) shall be notified via IDES if possible, otherwise by fax; other data shall be notified by fax or telex.</p>
+      <p n="115">SECTION 3</p>
+      <p n="116">Inward processing traffic</p>
+      <p n="117">Article 10</p>
+      <p n="118">Before the 16th of each month for month n - 2, the Member States shall inform the Commission of the quantity, broken down by CN code and country of origin, of products as referred to in Article 1 of Regulation (EEC) No 804/68 intended for the manufacture of products as referred to in that Article or of goods as referred to in the Annex to that Regulation, under the inward processing arrangements defined in Article 114 of Council Regulation (EEC) No 2913/92(12), except for the data referred to in Article 9(2)(f).</p>
+      <p n="119">CHAPTER V</p>
+      <p n="120">General and final provisions</p>
+      <p n="121">Article 11</p>
+      <p n="122">The Commission shall keep available for the Member States the data transmitted by them.</p>
+      <p n="123">Article 12</p>
+      <p n="124">Regulation (EC) No 210/69 is hereby repealed.</p>
+      <p n="125">References to the repealed Regulation shall be construed as references to this Regulation.</p>
+      <p n="126">Regulation (EEC) No 210/69 shall continue to apply to the monthly transmission of data relating to the period before the application of this Regulation.</p>
+      <p n="127">Article 13</p>
+      <p n="128">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="129">It shall apply with effect from 1 July 1999.</p>
+      <p n="130">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="131">Done at Brussels, 8 July 1999.</p>
+      <p n="132">For the Commission</p>
+      <p n="133">Franz FISCHLER</p>
+      <p n="134">Member of the Commission</p>
+      <p n="135">(1) OJ L 148, 28.6.1968, p. 13.</p>
+      <p n="136">(2) OJ L 206, 16.8.1996, p. 21.</p>
+      <p n="137">(3) OJ L 28, 5.2.1969, p. 1.</p>
+      <p n="138">(4) OJ L 53, 24.2.1998, p. 6.</p>
+      <p n="139">(5) OJ L 336, 23.12.1994, p. 1.</p>
+      <p n="140">(6) OJ L 20, 27.1.1999, p. 8.</p>
+      <p n="141">(7) OJ L 185, 30.6.1998, p. 21.</p>
+      <p n="142">(8) OJ L 159, 25.6.1999, p. 22.</p>
+      <p n="143">(9) OJ L 169, 18.7.1968, p. 4.</p>
+      <p n="144">(10) OJ L 345, 16.12.1997, p. 31.</p>
+      <p n="145">(11) OJ L 102, 17.4.1999, p. 11.</p>
+      <p n="146">(12) OJ L 302, 19.10.1992, p. 1.</p>
+      <p n="147">ANNEX I</p>
+      <p n="148">A. Application of Article 1 of Regulation (EC) No 1498/1999</p>
+      <p n="149">&gt;PIC FILE= "L_1999174EN.000802.EPS"&gt;</p>
+      <p n="150">B. Application of Article 1 of Regulation (EC) No 1498/1999</p>
+      <p n="151">&gt;PIC FILE= "L_1999174EN.000901.EPS"&gt;</p>
+      <p n="152">C. Application of Article 1 of Regulation (EC) No 1498/1999</p>
+      <p n="153">&gt;PIC FILE= "L_1999174EN.001001.EPS"&gt;</p>
+      <p n="154">ANNEX II</p>
+      <p n="155">Application of Article 1 of Regulation (EC) No 1498/1999</p>
+      <p n="156">&gt;PIC FILE= "L_1999174EN.001102.EPS"&gt;</p>
+      <p n="157">ANNEX III</p>
+      <p n="158">A. Application of Article 2 of Regulation (EC) No 1498/1999</p>
+      <p n="159">&gt;PIC FILE= "L_1999174EN.001202.EPS"&gt;</p>
+      <p n="160">B. Application of Article 2 of Regulation (EC) No 1498/1999</p>
+      <p n="161">&gt;PIC FILE= "L_1999174EN.001301.EPS"&gt;</p>
+      <p n="162">C. Application of Article 2 of Regulation (EC) No 1498/1999</p>
+      <p n="163">&gt;PIC FILE= "L_1999174EN.001401.EPS"&gt;</p>
+      <p n="164">ANNEX IV</p>
+      <p n="165">List of products referred to in Article 6(1)(a)</p>
+      <p n="166">1. Whey powder</p>
+      <p n="167">2. Skimmed-milk powder</p>
+      <p n="168">3. Whole-milk powder</p>
+      <p n="169">4. Unsweetened condensed milk</p>
+      <p n="170">5. Sweetened condensed milk</p>
+      <p n="171">6. Butter</p>
+      <p n="172">7. Butter oil</p>
+      <p n="173">8. Emmental</p>
+      <p n="174">9. Blue-veined cheese</p>
+      <p n="175">10. Grana Padano</p>
+      <p n="176">11. Parmigiano Reggiano</p>
+      <p n="177">12. Other Grana cheeses</p>
+      <p n="178">13. Pecorino (Romano, Sardo)</p>
+      <p n="179">14. Other Pecorino cheeses</p>
+      <p n="180">15. Manchego</p>
+      <p n="181">16. Cheddar</p>
+      <p n="182">17. Provolone</p>
+      <p n="183">18. Asiago</p>
+      <p n="184">19. Gouda</p>
+      <p n="185">20. Edam</p>
+      <p n="186">21. Danbo, Samsø, Svenbo</p>
+      <p n="187">22. Kasseri</p>
+      <p n="188">23. Mozzarella</p>
+      <p n="189">24. Havarti, Tilsit</p>
+      <p n="190">25. Butterkäse</p>
+      <p n="191">26. Esrom</p>
+      <p n="192">27. Italico</p>
+      <p n="193">28. Saint-Paulin</p>
+      <p n="194">29. Cantal</p>
+      <p n="195">30. Salted Ricotta</p>
+      <p n="196">31. Feta</p>
+      <p n="197">32. Lactose</p>
+      <p n="198">Note:</p>
+      <p n="199">indicate as appropriate for the product concerned:</p>
+      <p n="200">- composition (fat content, dry matter content, water content in the non-fatty matter),</p>
+      <p n="201">- quality class,</p>
+      <p n="202">- age or maturing time,</p>
+      <p n="203">- presentation and packaging,</p>
+      <p n="204">- other essential characteristics,</p>
+      <p n="205">- comments on the representativeness of the prices notified.</p>
+      <p n="206">ANNEX V</p>
+      <p n="207">&gt;PIC FILE= "L_1999174EN.001602.EPS"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

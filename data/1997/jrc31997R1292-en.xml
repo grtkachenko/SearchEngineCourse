@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31997R1292-en" n="31997R1292" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1292 English</title>
+        <title>Commission Regulation (EC) No 1292/97 of 3 July 1997 laying down, pursuant to Article 10 (2) of Council Regulation (EEC) No 2847/93 establishing a control system applicable to the common fisheries policy, notification deadlines for fishing vessels flying the flag of, or registered in, certain third countries (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1292:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1292:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1509</classCode>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">2282</classCode>
+        <classCode scheme="eurovoc">2455</classCode>
+        <classCode scheme="eurovoc">5229</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1292-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1292/97 of 3 July 1997 laying down, pursuant to Article 10 (2) of Council Regulation (EEC) No 2847/93 establishing a control system applicable to the common fisheries policy, notification deadlines for fishing vessels flying the flag of, or registered in, certain third countries (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1292/97 of 3 July 1997 laying down, pursuant to Article 10 (2) of Council Regulation (EEC) No 2847/93 establishing a control system applicable to the common fisheries policy, notification deadlines for fishing vessels flying the flag of, or registered in, certain third countries (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2847/93 of 12 October 1993 establishing a control system applicable to the common fisheries policy (1), as last amended by Regulation (EC) No 686/97 (2), and in particular Article 10 (2) thereof,</p>
+      <p n="6">Whereas, pursuant to Article 10 (1) (c) of Regulation (EEC) No 2847/93, the master of a fishing vessel flying the flag of, or registered in, a third country must notify the competent authorities of the Member State whose landing facilities he wishes to use at least 72 hours in advance of his time of arrival at the port of landing;</p>
+      <p n="7">Whereas, however, pursuant to Article 5 of Protocol 9 to the Agreement on the European Economic Area (3), vessels flying the flag of a third country that is a Contracting Party to the Agreement enjoy the same access to Community ports as Community fishing vessels; whereas the same notification deadline should accordingly be laid down for fishing vessels flying the flag of, or registered in, Norway and Iceland as for Community fishing vessels;</p>
+      <p n="8">Whereas Article 10 (2) of Regulation (EEC) No 2847/93 allows the Commission to exempt certain categories of third country fishing vessels from this obligation for a limited and renewable period or make provision for another notification period taking into account, inter alia, the distance between the fishing grounds, the landing locations and the ports where the vessels in question are registered or listed;</p>
+      <p n="9">Whereas the distances between the fishing grounds, the landing facilities and the ports where the vessels in question are registered or listed, justify a shorter notification deadline in the case of fishing vessels flying the flag of, or registered in, third countries bordering the Baltic Sea which wish to land catches in the ports of certain Member States;</p>
+      <p n="10">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">By way of derogation from Article 10 (1) (c) of Regulation (EEC) No 2847/93:</p>
+      <p n="14">- the master of a fishing vessel flying the flag of, or registered in, Norway or Iceland who wishes to use landing facilities in a Member State must notify the competent authorities of that Member State at least two hours in advance of his time of arrival at the port of landing,</p>
+      <p n="15">- the master of a fishing vessel flying the flag of, or registered in, a third country bordering the Baltic Sea who wishes to use landing facilities in Denmark, Germany, Sweden or Finland must notify the competent authorities of the Member State concerned at least six hours in advance of his time of arrival at the port of landing.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 3 July 1997.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Emma BONINO</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ No L 261, 20. 10. 1993, p. 1.</p>
+      <p n="24">(2) OJ No L 102, 19. 4. 1997, p. 1.</p>
+      <p n="25">(3) OJ No L 1, 3. 1. 1994, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31998D0646-en" n="31998D0646" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0646 English</title>
+        <title>98/646/EC: Council Decision of 13 November 1998 adopted on the basis of Article J.4(2) of the Treaty on European Union, on the monitoring of the situation in Kosovo</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0646:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0646:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">4597</classCode>
+        <classCode scheme="eurovoc">5695</classCode>
+        <classCode scheme="eurovoc">5744</classCode>
+        <classCode scheme="eurovoc">5788</classCode>
+        <classCode scheme="eurovoc">5931</classCode>
+        <classCode scheme="eurovoc">6030</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0646-en." lang="en">
+    <body>
+      <head n="1">98/646/EC: Council Decision of 13 November 1998 adopted on the basis of Article J.4(2) of the Treaty on European Union, on the monitoring of the situation in Kosovo</head>
+      <p n="2">COUNCIL DECISION of 13 November 1998 adopted on the basis of Article J.4(2) of the Treaty on European Union, on the monitoring of the situation in Kosovo (98/646/CFSP)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty on European Union, and in particular Article J.4(2) thereof,</p>
+      <p n="5">Having regard to the Declaration (No 30) on Western European Union included in the Final Act signed upon the adoption of the Treaty,</p>
+      <p n="6">Whereas the Council adopted a declaration on 26 October 1998 defining a comprehensive approach to Kosovo including full support by the European Union to the agreements signed in Belgrade on 16 October 1998 between the Federal Republic of Yugoslavia (FRY) and the OSCE and on 15 October 1998 between the FRY and NATO, full support for the OSCE and for the Kosovo Verification Mission, as well as the European Union's readiness to contribute to the assistance to refugees and displaced persons;</p>
+      <p n="7">Whereas the European Union action as defined above requires a precise knowledge of the situation on the ground in Kosovo; whereas such knowledge would be facilitated by information resulting from the interpretation of space imagery;</p>
+      <p n="8">Whereas the Western European Union (WEU) Satellite Center has, among its missions, the supply of 'information resulting from the interpretation of space imagery`, inter alia, for general security surveillance, including general surveillance of areas of interest for the WEU on the basis of a mandate of the Council and support for treaty verification;</p>
+      <p n="9">Whereas under these conditions the European Union should have recourse to the WEU,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The European Union requests the WEU to provide relevant information made available by the WEU Satellite Center concerning:</p>
+      <p n="13">- the state of the implementation of the agreements signed in Belgrade on 16 October 1998 between the FRY and the OSCE and on 15 October 1998 between the FRY and NATO,</p>
+      <p n="14">and</p>
+      <p n="15">- the situation of refugees and displaced persons and of the infrastructure in this respect</p>
+      <p n="16">with a view for the European Union to contribute to the monitoring necessary for the overall success of the OSCE and NATO relevant missions.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Decision shall be notified to the WEU in accordance with the conclusions adopted by the Council on 14 May 1996 on the transmission to the WEU of documents of the European Union.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Decision shall enter into force on the date of its adoption.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This Decision shall be published in the Official Journal.</p>
+      <p n="23">Done at Brussels, 13 November 1998.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">J. FARNLEITNER</p>
+      <p n="27">Declaration by the Danish delegation</p>
+      <p n="28">In accordance with section C of the Decision adopted at the European Council in Edinburgh on 11 and 12 December 1992, Denmark does not participate in the elaboration and the implementation of decisions and actions of the Union which have defence implications.</p>
+      <p n="29">The Danish Government has decided that Denmark will not participate in the Council Decision on the basis of Article J.4(2) on the monitoring of the situation in Kosovo.</p>
+      <p n="30">In accordance with the Edinburgh Decision, Denmark will not prevent the development of closer cooperation between Member States in this area. Accordingly, the position indicated above does not prevent the adoption of the Council Decision.</p>
+    </body>
+  </text>
+</TEI.2>

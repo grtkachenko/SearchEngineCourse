@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32000R2801-en" n="32000R2801" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2801 English</title>
+        <title>Council Regulation (EC) No 2801/2000 of 14 December 2000 amending Regulation (EC) No 1255/96 temporarily suspending the autonomous common customs tariff duties on certain industrial and agricultural products</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2801:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2801:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">2758</classCode>
+        <classCode scheme="eurovoc">3824</classCode>
+        <classCode scheme="eurovoc">4080</classCode>
+        <classCode scheme="eurovoc">4350</classCode>
+        <classCode scheme="eurovoc">4381</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2801-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2801/2000 of 14 December 2000 amending Regulation (EC) No 1255/96 temporarily suspending the autonomous common customs tariff duties on certain industrial and agricultural products</head>
+      <p n="2">Council Regulation (EC) No 2801/2000</p>
+      <p n="3">of 14 December 2000</p>
+      <p n="4">amending Regulation (EC) No 1255/96 temporarily suspending the autonomous common customs tariff duties on certain industrial and agricultural products</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 26 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) It is in the interest of the Community to suspend partially or totally the autonomous common customs tariff duties for a number of new products not listed in the Annex to Regulation (EC) No 1255/96(1).</p>
+      <p n="10">(2) For the sake of administrative rationalisation and security for the users, the fishery products should be included in this Regulation.</p>
+      <p n="11">(3) For ease of comprehension, in view of the large number of amendments coming into force on 1 January 2001, the Annex to Regulation (EC) No 1255/96 should be replaced by a completely new version,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Regulation (EC) No 1255/96 is amended as follows:</p>
+      <p n="15">1. in the title and the fourth "recital" the words "industrial and agricultural products" shall be replaced by "industrial, agricultural and fishery products";</p>
+      <p n="16">2. the Annex shall be replaced by the Annex to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">It shall apply from 1 January 2001.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 14 December 2000.</p>
+      <p n="22">For the Council</p>
+      <p n="23">D. Gillot</p>
+      <p n="24">The President</p>
+      <p n="25">(1) OJ L 158, 29.6.1996, p. 1. Regulation as last amended by Regulation (EC) No 1297/2000 (OJ L 153, 26.6.2000, p. 1).</p>
+      <p n="26">ANNEX</p>
+      <p n="27">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

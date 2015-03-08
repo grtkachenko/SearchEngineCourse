@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32004R0064-en" n="32004R0064" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0064 English</title>
+        <title>Council Regulation (EC, Euratom) No 64/2004 of 9 January 2004 laying down the weightings applicable from 1 July 2003 to the remuneration of officials of the European Communities serving in third countries</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0064:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0064:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1048</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">274</classCode>
+        <classCode scheme="eurovoc">3843</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0064-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC, Euratom) No 64/2004 of 9 January 2004 laying down the weightings applicable from 1 July 2003 to the remuneration of officials of the European Communities serving in third countries</head>
+      <p n="2">Council Regulation (EC, Euratom) No 64/2004</p>
+      <p n="3">of 9 January 2004</p>
+      <p n="4">laying down the weightings applicable from 1 July 2003 to the remuneration of officials of the European Communities serving in third countries</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to the Staff Regulations of officials of the European Communities and the conditions of employment of other servants of the Communities laid down by Regulation (EEC, Euratom, ECSC) No 259/68(1), and in particular the first paragraph of Article 13 of Annex X thereto,</p>
+      <p n="8">Having regard to the proposal from the Commission,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Account should be taken of changes in the cost of living in countries outside the Community and the weightings applicable from 1 July 2003 to remuneration paid in the currency of the country of employment to officials serving in third countries should be determined accordingly.</p>
+      <p n="11">(2) The weightings, in respect of which payment has been made on the basis of Regulation (EC, Euratom) No 1338/2003(2), may lead to retrospective upward or downward adjustments to remuneration.</p>
+      <p n="12">(3) Provision should be made for back-payments in the event of an increase in remuneration as a result of the new weightings.</p>
+      <p n="13">(4) Provision should be made for the recovery of sums overpaid in the event of a reduction in remuneration as a result of the new weightings for the period between 1 July 2003 and the date of entry into force of this Regulation.</p>
+      <p n="14">(5) Provision should be made for any such recovery to be restricted to a period of no more than six months preceding the decision laying down the weightings and for its effects to be spread over a period of no more than twelve months following the date of that decision, as is the case with the weightings applicable within the European Community to remuneration and pensions of officials and other servants of the European Communities,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">With effect from 1 July 2003, the weightings applicable to the remuneration of officials of the European Communities serving in third countries payable in the currency of the country of employment shall be as shown in the Annex.</p>
+      <p n="18">The exchange rates for the calculation of such remuneration shall be those used for implementation of the general budget of the European Union for the month preceding the date referred to in the first paragraph.</p>
+      <p n="19">Article 2</p>
+      <p n="20">1. The institutions shall make back-payments in the event of an increase in remuneration as a result of the weightings shown in the annex.</p>
+      <p n="21">2. The institutions shall make retrospective downward adjustments to remuneration in the event of a reduction as a result of the weightings shown in the annex for the period between 1 July 2003 and the date of entry into force of this Regulation.</p>
+      <p n="22">Retrospective adjustments involving the recovery of sums overpaid shall be restricted to a period of no more than six months preceding the date of entry into force of this Regulation. Recovery shall be spread over no more than twelve months from that date.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 9 January 2004.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">B. Cowen</p>
+      <p n="30">(1) OJ L 56, 4.3.1968, p. 1. Regulation as last amended by Regulation (EC, Euratom) No 2182/2003 (OJ L 327, 16.12.2003, p. 1).</p>
+      <p n="31">(2) OJ L 189, 29.7.2003, p. 1.</p>
+      <p n="32">ANNEX</p>
+      <p n="33">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

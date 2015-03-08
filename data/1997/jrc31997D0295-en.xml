@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31997D0295-en" n="31997D0295" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0295 English</title>
+        <title>97/295/EC: Council Decision of 18 September 1995 on the conclusion of additional Protocols to the Europe Agreements on trade in textile products between the European Community and certain countries of Central and Eastern Europe (Bulgaria, Hungary, Poland, Romania, the Czech and Slovak Republics)</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0295:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0295:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2783</classCode>
+        <classCode scheme="eurovoc">2850</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+        <classCode scheme="eurovoc">914</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0295-en." lang="en">
+    <body>
+      <head n="1">97/295/EC: Council Decision of 18 September 1995 on the conclusion of additional Protocols to the Europe Agreements on trade in textile products between the European Community and certain countries of Central and Eastern Europe (Bulgaria, Hungary, Poland, Romania, the Czech and Slovak Republics)</head>
+      <p n="2">COUNCIL DECISION of 18 September 1995 on the conclusion of additional Protocols to the Europe Agreements on trade in textile products between the European Community and certain countries of Central and Eastern Europe (Bulgaria, Hungary, Poland, Romania, the Czech and Slovak Republics) (97/295/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof, in conjunction with Article 228 (2), first sentence,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas the Commission has negotiated on behalf of the Community additional Protocols to the Europe Agreements on trade in textile products with the Republic of Bulgaria, the Republic of Hungary, the Republic of Poland, Romania, the Czech Republic and the Slovak Republic;</p>
+      <p n="7">Whereas those additional Protocols should be approved,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The additional Protocols to the Europe Agreements on trade in textile products between the European Community and the Republic of Bulgaria, the Republic of Hungary, the Republic of Poland, Romania, the Czech Republic and the Slovak Republic are hereby approved on behalf of the Community.</p>
+      <p n="11">The texts of the additional Protocols are attached to this Decision.</p>
+      <p n="12">Article 2</p>
+      <p n="13">The President of the Council is hereby authorized to designate the person empowered to sign the additional Protocols on behalf of the European Community.</p>
+      <p n="14">Article 3</p>
+      <p n="15">The President of the Council shall give the notification provided for in Article 15 of each of the additional Protocols on behalf of the European Community.</p>
+      <p n="16">Article 4</p>
+      <p n="17">This Decision shall be published in the Official Journal of the European Communities.</p>
+      <p n="18">Done at Brussels, 18 September 1995.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">P. SOLBES MIRA</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,73 @@
+<TEI.2 id="jrc31999D0547-en" n="31999D0547" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0547 English</title>
+        <title>1999/547/EC: Commission Decision of 14 July 1999 amending Decisions 94/432/EC and 94/433/EC laying down detailed for the application of Council Directives 93/23/EEC and 93/24/EEC on the statistical surveys to be carried out on pig and bovine animal livestock and production (notified under document number C(1999) 2080)</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0547:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0547:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">2560</classCode>
+        <classCode scheme="eurovoc">2711</classCode>
+        <classCode scheme="eurovoc">4257</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+        <classCode scheme="eurovoc">5962</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0547-en." lang="en">
+    <body>
+      <head n="1">1999/547/EC: Commission Decision of 14 July 1999 amending Decisions 94/432/EC and 94/433/EC laying down detailed for the application of Council Directives 93/23/EEC and 93/24/EEC on the statistical surveys to be carried out on pig and bovine animal livestock and production (notified under document number C(1999) 2080)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 14 July 1999</p>
+      <p n="4">amending Decisions 94/432/EC and 94/433/EC laying down detailed for the application of Council Directives 93/23/EEC and 93/24/EEC on the statistical surveys to be carried out on pig and bovine animal livestock and production</p>
+      <p n="5">(notified under document number C(1999) 2080)</p>
+      <p n="6">(1999/547/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Directive 93/23/EEC of 1 June 1993 on the statistical surveys to be carried out on pig production(1), as last amended by Directive 97/77/EC(2), and in particular Article 6(2) and (3),</p>
+      <p n="10">Having regard to Council Directive 93/24/EEC of 1 June 1993, on the statistical survey to be carried out on bovine animal production(3), as last amended by Directive 97/77/EC, and in particular Article 1(2) and (3),</p>
+      <p n="11">(1) Whereas, Commission Decisions 94/432/EC(4) and 94/433/EC(5), as modified by Decision 95/380/EC(6) and by Decision 99/47/EC(7) lay down detailed rules for the application of Council Directives 93/23/EEC and 93/24/EEC;</p>
+      <p n="12">(2) Whereas the Member States may, at their request, be authorised to provide the breakdown at regional level for the final results of the April or May/June or August pig survey;</p>
+      <p n="13">(3) Whereas, Member States whose bovine animal population is less than 1,5 million head may, at their request, be authorised to dispense altogether with one of the two surveys in May/June or November/December;</p>
+      <p n="14">(4) Whereas Belgium and Greece have made applications for the type of authorisation mentioned above;</p>
+      <p n="15">(5) Whereas the envisaged measures of this Decision are in line with the opinion of the Standing Committee on Agricultural Statistics set up by the Council Decision 72/279/EEC(8).</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Decision 94/432/EC shall be amended as follows:</p>
+      <p n="19">In Annex IV point (d) under the heading "May/June", the text "Belgium" shall be inserted.</p>
+      <p n="20">Article 2</p>
+      <p n="21">Decision 94/433/EC shall be amended as follows:</p>
+      <p n="22">In Annex V point (b) under the heading "November/December", the text "Greece" shall be deleted, under the heading "May/June", the text "Greece" shall be inserted.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 14 July 1999.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Yves-Thibault DE SILGUY</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 149, 21.6.1993, p. 1.</p>
+      <p n="30">(2) OJ L 10, 16.1.1998, p. 28.</p>
+      <p n="31">(3) OJ L 149, 21.6.1993, p. 5.</p>
+      <p n="32">(4) OJ L 179, 13.7.1994, p. 22.</p>
+      <p n="33">(5) OJ L 179, 13.7.1994, p. 27.</p>
+      <p n="34">(6) OJ L 228, 23.9.1995, p. 25.</p>
+      <p n="35">(7) OJ L 15, 20.1.1999, p. 10.</p>
+      <p n="36">(8) OJ L 179, 7.8.1972, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

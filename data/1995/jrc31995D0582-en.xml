@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31995D0582-en" n="31995D0582" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995D0582 English</title>
+        <title>95/582/EC: Council Decision of 20 December 1995 on the conclusion of the Agreements in the form of exchanges of letters between the European Community, of the one part, and the Republic of Iceland, the Kingdom of Norway and the Swiss Confederation, of the other part, concerning certain agricultural products</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0582:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995D0582:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">1509</classCode>
+        <classCode scheme="eurovoc">2084</classCode>
+        <classCode scheme="eurovoc">2734</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">4324</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995D0582-en." lang="en">
+    <body>
+      <head n="1">95/582/EC: Council Decision of 20 December 1995 on the conclusion of the Agreements in the form of exchanges of letters between the European Community, of the one part, and the Republic of Iceland, the Kingdom of Norway and the Swiss Confederation, of the other part, concerning certain agricultural products</head>
+      <p n="2">COUNCIL DECISION of 20 December 1995 on the conclusion of the Agreements in the form of exchanges of letters between the European Community, of the one part, and the Republic of Iceland, the Kingdom of Norway and the Swiss Confederation, of the other part, concerning certain agricultural products (95/582/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 in conjunction with the first sentence of Article 228 (2) thereof,</p>
+      <p n="5">Having regard to the Act of Accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden,</p>
+      <p n="6">Having regard to the proposal from the Commission,</p>
+      <p n="7">Whereas the Agreements in the form of exchanges of letters between the European Community, of the one part, and the Republic of Iceland, the Kingdom of Norway and the Swiss Confederation, of the other part, concerning certain agricultural products should be approved to take account of the accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden to the European Union,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Agreements in the form of exchanges of letters between the European Community, of the one part, and the Republic of Iceland, the Kingdom of Norway and the Swiss Confederation, of the other part, concerning certain agricultural products are hereby approved on behalf of the Community.</p>
+      <p n="11">The texts of the Agreements are attached to this Decision.</p>
+      <p n="12">Article 2</p>
+      <p n="13">Detailed rules for the application of this Decision shall be adopted by the Commission in accordance with the procedure laid down in Article 30 of Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organization of the market in milk and milk products (1) or the corresponding provisions of other regulations on the common organization of the markets.</p>
+      <p n="14">Article 3</p>
+      <p n="15">The President of the Council is hereby authorized to designate the person empowered to sign the Agreements referred to in Article 1 in order to bind the Community (2).</p>
+      <p n="16">Done at Brussels, 20 December 1995.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">J. M. EGUIAGARAY</p>
+      <p n="20">(1) OJ No L 148, 28. 6. 1968, p. 13.</p>
+      <p n="21">(2) The dates of entry into force of the Agreements will be published in the Official Journal of the European Communities by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

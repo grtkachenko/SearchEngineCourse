@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31998D0588-en" n="31998D0588" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0588 English</title>
+        <title>98/588/EC: Council Decision of 13 October 1998 on the conclusion by the European Community of the Interim Agreement on trade and trade-related matters between the European Community, the European Coal and Steel Community and the European Atomic Energy Community, of the one part, and the Republic of Azerbaijan, of the other part</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0588:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0588:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1567</classCode>
+        <classCode scheme="eurovoc">5327</classCode>
+        <classCode scheme="eurovoc">5343</classCode>
+        <classCode scheme="eurovoc">5344</classCode>
+        <classCode scheme="eurovoc">5407</classCode>
+        <classCode scheme="eurovoc">5454</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0588-en." lang="en">
+    <body>
+      <head n="1">98/588/EC: Council Decision of 13 October 1998 on the conclusion by the European Community of the Interim Agreement on trade and trade-related matters between the European Community, the European Coal and Steel Community and the European Atomic Energy Community, of the one part, and the Republic of Azerbaijan, of the other part</head>
+      <p n="2">COUNCIL DECISION of 13 October 1998 on the conclusion by the European Community of the Interim Agreement on trade and trade-related matters between the European Community, the European Coal and Steel Community and the European Atomic Energy Community, of the one part, and the Republic of Azerbaijan, of the other part (98/588/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 in conjunction with the first sentence of Article 228(2) and the first subparagraph of Article 228(3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Having regard to the opinion of the European Parliament (1),</p>
+      <p n="7">Whereas, pending the entry into force of the Partnership and Cooperation Agreement between the European Communities and their Member States, of the one part, and the Republic of Azerbaijan, of the other part, signed in Luxembourg on 22 April 1996, it is necessary to approve, on behalf of the European Community, the Interim Agreement on trade and trade-related matters between the European Community, the European Coal and Steel Community and the European Atomic Energy Community, of the one part, and the Republic of Azerbaijan, of the other part,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Interim Agreement on trade and trade-related matters between the European Community, the European Coal and Steel Community and the European Atomic Energy Community, of the one part, and the Republic of Azerbaijan, of the other part, together with the declarations relating thereto, are hereby approved on behalf of the European Community.</p>
+      <p n="11">The Interim Agreement and declarations are attached to this Decision.</p>
+      <p n="12">Article 2</p>
+      <p n="13">The President of the Council is hereby authorised to designate the persons empowered to sign the Interim Agreement on behalf of the European Community (2).</p>
+      <p n="14">Article 3</p>
+      <p n="15">The President of the Council shall give the notification provided for in Article 32 of the Interim Agreement on behalf of the European Community.</p>
+      <p n="16">Done at Luxembourg, 13 October 1998.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">C. EINEM</p>
+      <p n="20">(1) OJ C 313, 12.10.1998.</p>
+      <p n="21">(2) The date of entry into force of the Agreement will be published in the Official Journal of the European Communities by the General Secretariat of the Council.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,55 @@
+<TEI.2 id="jrc32003D0158-en" n="32003D0158" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0158 English</title>
+        <title>2003/158/EC,Euratom: Decision of the European Parliament of 15 January 2003 appointing the European Ombudsman</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0158:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0158:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2140</classCode>
+        <classCode scheme="eurovoc">3559</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0158-en." lang="en">
+    <body>
+      <head n="1">2003/158/EC,Euratom: Decision of the European Parliament of 15 January 2003 appointing the European Ombudsman</head>
+      <p n="2">Decision of the European Parliament</p>
+      <p n="3">of 15 January 2003</p>
+      <p n="4">appointing the European Ombudsman(1)</p>
+      <p n="5">(2003/158/EC, Euratom)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 21, second paragraph, and Article 195 thereof,</p>
+      <p n="8">Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 107d thereof,</p>
+      <p n="9">Having regard to its decision of 9 March 1994 on the regulations and general conditions governing the performance of the Ombudsman's duties(2), as amended by its decision of 14 March 2002(3),</p>
+      <p n="10">Having regard to Rule 177 of its Rules of Procedure,</p>
+      <p n="11">Having regard to the call for nominations(4),</p>
+      <p n="12">Having regard to its votes of 14 and 15 January 2003,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Mr Nikiforos DIAMANDOUROS has been appointed European Ombudsman with effect from 1 April 2003.</p>
+      <p n="15">Done at Strasbourg, 15 January 2003.</p>
+      <p n="16">For the European Parliament</p>
+      <p n="17">The President</p>
+      <p n="18">P. Cox</p>
+      <p n="19">(1) This decision annuls and replaces Decision 2002/103/EC, Euratom of the European Parliament (OJ L 43, 18.2.2003, p. 43).</p>
+      <p n="20">(2) OJ L 113, 4.5.1994, p. 15.</p>
+      <p n="21">(3) OJ L 92, 9.4.2002, p. 13.</p>
+      <p n="22">(4) OJ C 213, 7.9.2002, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32004D0164-en" n="32004D0164" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0164 English</title>
+        <title>2004/164/EC: Commission Decision of 19 February 2004 amending Decision 2004/130/EC providing for the temporary marketing of certain seed of the species Vicia faba L., not satisfying the requirements of Council Directive 66/401/EEC (Text with EEA relevance) (notified under document number C(2004) 492)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0164:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0164:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">1609</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">4081</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0164-en." lang="en">
+    <body>
+      <head n="1">2004/164/EC: Commission Decision of 19 February 2004 amending Decision 2004/130/EC providing for the temporary marketing of certain seed of the species Vicia faba L., not satisfying the requirements of Council Directive 66/401/EEC (Text with EEA relevance) (notified under document number C(2004) 492)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 19 February 2004</p>
+      <p n="4">amending Decision 2004/130/EC providing for the temporary marketing of certain seed of the species Vicia faba L., not satisfying the requirements of Council Directive 66/401/EEC</p>
+      <p n="5">(notified under document number C(2004) 492)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/164/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 66/401/EEC of 14 June 1966 on the marketing of fodder plant seed(1), as last amended by Directive 2003/61/EC(2), and in particular Article 17, paragraph 1 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Pursuant to Commission Decision 2004/130/EC(3), the marketing in the Community of seed of spring field beans which does not satisfy the minimum germination requirements laid down in Directive 66/401/EEC was authorised in accordance with defined terms and subject to certain conditions for a period expiring on 15 February 2004.</p>
+      <p n="13">(2) The period left to market seed at the less stringent germination requirements, until 15 February 2004, will be insufficient.</p>
+      <p n="14">(3) Consequently, the authorisation should be extended and Decision 2004/130/EC should therefore be amended accordingly.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="16">HAS ADOPTED THIS DECISION</p>
+      <p n="17">Article 1</p>
+      <p n="18">In Article 1 of Decision 2004/130/EC the date "15 February 2004" is replaced by the date "31 March 2004".</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 19 February 2004.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">David Byrne</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ 125, 11.7.1966, p. 2298/66.</p>
+      <p n="26">(2) OJ L 165, 3.7.2003, p. 23.</p>
+      <p n="27">(3) OJ L 37, 10.2.2004, p. 32.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32003R0667-en" n="32003R0667" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0667 English</title>
+        <title>Commission Regulation (EC) No 667/2003 of 11 April 2003 amending Regulation (EC) No 716/96 adopting exceptional support measures for the beef market in the United Kingdom</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0667:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0667:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">1857</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">3774</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">5025</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0667-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 667/2003 of 11 April 2003 amending Regulation (EC) No 716/96 adopting exceptional support measures for the beef market in the United Kingdom</head>
+      <p n="2">Commission Regulation (EC) No 667/2003</p>
+      <p n="3">of 11 April 2003</p>
+      <p n="4">amending Regulation (EC) No 716/96 adopting exceptional support measures for the beef market in the United Kingdom</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1254/1999 of 17 May 1999 on the common organisation of the market in beef and veal(1), as last amended by Commission Regulation (EC) No 2345/2001(2), and in particular Article 39 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 2(1) and (3) of Commission Regulation (EC) No 716/96(3), as last amended by Regulation (EC) No 1176/2000(4), lays down, respectively, the price to be paid per kilogram of animals going into the scheme provided by that Regulation, and the rate per animal at which the Community shall co-finance the purchases of the animals.</p>
+      <p n="10">(2) In order to establish the current estimated value of the relevant animals, account should be taken of the evolution in market prices in the United Kingdom since 1997, date of the last amendment of prices and rates. However, in that period no price quotations were registered for cows in that Member State and it is therefore appropriate instead to take account of the price evolution for such animals in neighbouring markets.</p>
+      <p n="11">(3) Consequently, the purchase price for cows should be reduced by 20 %, and the purchase price for other animals over 30 months, by 8 %. The rate of Community co-financing should be reduced accordingly.</p>
+      <p n="12">(4) Regulation (EC) No 716/96 should be amended accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Article 2 of Regulation (EC) No 716/96 is amended as follows:</p>
+      <p n="17">1. Paragraph 1 is replaced by the following:</p>
+      <p n="18">"1. The price to be paid to producers or their agents by the United Kingdom competent authority pursuant to Article 1(1) shall be:</p>
+      <p n="19">- EUR 0,64 per kilogram live weight for cows,</p>
+      <p n="20">- EUR 0,83 per kilogram live weight for other animals."</p>
+      <p n="21">2. The first subparagraph of paragraph 3 is replaced by the following:</p>
+      <p n="22">"3. The Community shall cofinance the expenditure incurred by the United Kingdom for the purchases referred to under Article 1(1) at a rate of EUR 233 per head in the case of cows, and EUR 302 per head in the case of animals other than cows, for each purchased animal destroyed in accordance with the provisions of Article 1."</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="25">It shall apply to animals purchased from 28 April 2003.</p>
+      <p n="26">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="27">Done at Brussels, 11 April 2003.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">Franz Fischler</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 160, 26.6.1999, p. 21.</p>
+      <p n="32">(2) OJ L 315, 1.12.2001, p. 29.</p>
+      <p n="33">(3) OJ L 99, 20.4.1996, p. 14.</p>
+      <p n="34">(4) OJ L 131, 1.6.2000, p. 37.</p>
+    </body>
+  </text>
+</TEI.2>

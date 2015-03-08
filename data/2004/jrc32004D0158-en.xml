@@ -1,0 +1,64 @@
+<TEI.2 id="jrc32004D0158-en" n="32004D0158" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0158 English</title>
+        <title>2004/158/EC: Commission Decision of 16 February 2004 amending Decision 92/216/EEC as regards the publication of the list of coordinating authorities (Text with EEA relevance) (notified under document number C(2004) 390)</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0158:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0158:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3613</classCode>
+        <classCode scheme="eurovoc">6030</classCode>
+        <classCode scheme="eurovoc">711</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0158-en." lang="en">
+    <body>
+      <head n="1">2004/158/EC: Commission Decision of 16 February 2004 amending Decision 92/216/EEC as regards the publication of the list of coordinating authorities (Text with EEA relevance) (notified under document number C(2004) 390)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 16 February 2004</p>
+      <p n="4">amending Decision 92/216/EEC as regards the publication of the list of coordinating authorities</p>
+      <p n="5">(notified under document number C(2004) 390)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2004/158/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/428/EEC of 26 June 1990 on trade in equidae intended for competitions and laying down the conditions for participation therein(1), and in particular Article 4(3) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Under the rules adopted for implementing Article 4 of Directive 90/428/EEC each Member State should first designate a coordinating authority responsible for collecting the necessary data.</p>
+      <p n="13">(2) Commission Decision 92/216/EEC of 26 March 1992 on the collection of data concerning competitions for equidae as referred to in Article 4(2) of Council Directive 90/428/EEC(2) provides for a publication of a list of such authorities in the Official Journal, C series.</p>
+      <p n="14">(3) It appears more efficient for the information of interested public to publish this list on the website of the Commission.</p>
+      <p n="15">(4) Decision 92/216/EEC should therefore be amended accordingly.</p>
+      <p n="16">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on Zootechnics,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">The second paragraph of Article 1 of Decision 92/216/EEC is replaced by the following:</p>
+      <p n="20">"2. Each Member State shall communicate to the Commission the name and address of the coordinating authority appointed in accordance with paragraph 1. On the basis of these communications, the Commission shall draw up a list of the coordinating authorities. This list will be published on the following website:</p>
+      <p n="21">http://forum.europa.eu.int/Public/ irc/sanco/vets/information".</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 16 February 2004.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">David Byrne</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 224, 18.8.1990, p. 60.</p>
+      <p n="29">(2) OJ L 104, 22.4.1992, p. 77.</p>
+    </body>
+  </text>
+</TEI.2>

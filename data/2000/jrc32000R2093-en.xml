@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32000R2093-en" n="32000R2093" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2093 English</title>
+        <title>Council Regulation (EC) No 2093/2000 of 28 September 2000 prohibiting imports of Atlantic swordfish (Xiphias gladius) originating in Belize and Honduras</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2093:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2093:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1253</classCode>
+        <classCode scheme="eurovoc">2110</classCode>
+        <classCode scheme="eurovoc">2437</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">3579</classCode>
+        <classCode scheme="eurovoc">4841</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2093-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2093/2000 of 28 September 2000 prohibiting imports of Atlantic swordfish (Xiphias gladius) originating in Belize and Honduras</head>
+      <p n="2">Council Regulation (EC) No 2093/2000</p>
+      <p n="3">of 28 September 2000</p>
+      <p n="4">prohibiting imports of Atlantic swordfish (Xiphias gladius) originating in Belize and Honduras</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Fishery resources, which are an exhaustible natural resource, must be protected in the interests of biological balances and global food security.</p>
+      <p n="10">(2) The International Commission for the Conservation of Atlantic Tuna (ICCAT), to which the European Community is a Contracting Party, adopted in 1995, an Action Plan to ensure the effectiveness of the conservation Programme for Atlantic Tuna, to ensure the effective conservation of this species.</p>
+      <p n="11">(3) The stock concerned cannot be managed effectively by the ICCAT contracting parties, whose fishermen are obliged to reduce their catches of Atlantic swordfish, unless all non-contracting parties cooperate with ICCAT and comply with its conservation and management measures.</p>
+      <p n="12">(4) In 1998 ICCAT identified Belize and Honduras as countries whose vessels fish Atlantic swordfish in a manner which diminishes the effectiveness of the organisation's swordfish conservation measures, substantiating its findings with data concerning catches, trade and the observation of vessels.</p>
+      <p n="13">(5) ICCAT's attempts to encourage the two countries to comply with measures for the conservation and management of Atlantic swordfish have been to no avail.</p>
+      <p n="14">(6) ICCAT has recommended the contracting parties to take appropriate measures to prohibit imports from Belize and Honduras of Atlantic swordfish products in any form; these measures will be lifted as soon as it is established that the countries in question have brought their fishing practices into line with ICCAT's measures; these measures must therefore be implemented by the Community, having the sole competence in this matter.</p>
+      <p n="15">(7) These measures are compatible with the Community's obligations under other international agreements,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The release for free circulation in the Community of Atlantic swordfish (Xiphias gladius) of CN codes ex 0301 99 90, 0302 69 87, 0303 79 87, ex 0304 10 38, ex 0304 10 98, 0304 20 87, 0304 90 65, ex 0305 20 00, ex 0305 30 90, ex 0305 49 80, ex 0305 59 90, ex 0305 69 90, ex 1604 19 91, ex 1604 19 98 and ex 1604 20 70, originating in Belize and Honduras, is hereby prohibited.</p>
+      <p n="19">The landing of products mentioned in paragraph 1 for the purposes of Community transit is hereby prohibited.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall not apply to quantities of the products referred to in Article 1(1) which can be shown to the satisfaction of the competent national authorities to have been under way to Community territory on the date of its entry into force and which are released for free circulation no later than 14 days after that date.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 28 September 2000.</p>
+      <p n="26">For the Council</p>
+      <p n="27">The President</p>
+      <p n="28">D. Vaillant</p>
+    </body>
+  </text>
+</TEI.2>

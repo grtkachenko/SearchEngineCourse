@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32001R1105-en" n="32001R1105" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1105 English</title>
+        <title>Council Regulation (EC) No 1105/2001 of 30 May 2001 amending Regulation (EEC) No 1911/91 on the application of the provisions of Community law to the Canary Islands</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1105:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1105:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1464</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">2324</classCode>
+        <classCode scheme="eurovoc">3178</classCode>
+        <classCode scheme="eurovoc">4080</classCode>
+        <classCode scheme="eurovoc">4172</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1105-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1105/2001 of 30 May 2001 amending Regulation (EEC) No 1911/91 on the application of the provisions of Community law to the Canary Islands</head>
+      <p n="2">Council Regulation (EC) No 1105/2001</p>
+      <p n="3">of 30 May 2001</p>
+      <p n="4">amending Regulation (EEC) No 1911/91 on the application of the provisions of Community law to the Canary Islands</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to the Act of Accession of Spain and Portugal, and in particular the first subparagraph of Article 25(4) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the Opinion of the European Parliament(2),</p>
+      <p n="10">Having regard to the Opinion of the Economic and Social Committee(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Article 5(1) of Regulation (EEC) No 1911/91(4) established a transitional period which authorised the Spanish authorities to impose a tax on production and imports (APIM) on all products entering or produced in the Canary Islands.</p>
+      <p n="13">(2) Article 6(1) of that Regulation established a transitional period to introduce progressively the Common Customs Tariff (CCT) in the Canary Islands.</p>
+      <p n="14">(3) Both transitional periods expired on 31 December 2000.</p>
+      <p n="15">(4) In October and November 2000 the Spanish authorities requested that the said transitional periods and the measures introduced on the basis of Regulation (EEC) No 1911/91 be extended.</p>
+      <p n="16">(5) In July and October 2000, the Spanish authorities gave notification of a new tax which would apply to the Canary Islands and is intended to compensate for the handicaps referred to in Article 299(2) of the Treaty.</p>
+      <p n="17">(6) The request contained documentation which indicated that even though the economic situation on the Canary Islands had improved during the transitional period, the full integration of the region would lead to a decline in industrial and commercial activity, and thus in employment, in the different sectors concerned.</p>
+      <p n="18">(7) However, in the short period available it was not possible to evaluate the full impact of the termination or modification of the existing measures on the economic and social situation of the Canary Islands.</p>
+      <p n="19">(8) In order to ensure that the economic operators concerned are afforded a certain continuity in the legal framework affecting their business, it is appropriate to extend the said transitional periods by one year.</p>
+      <p n="20">(9) Once the abovementioned evaluation has been completed, the Commission will make, if necessary, a new proposal taking into account the aims of Article 299(2) of the Treaty,</p>
+      <p n="21">HAS ADOPTED THIS REGULATION:</p>
+      <p n="22">Article 1</p>
+      <p n="23">In Article 5(1) and (6) and Article 6(1) of Regulation (EEC) No 1911/91 the date "31 December 2000" shall be replaced by "31 December 2001".</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="26">It shall apply from 1 January 2001.</p>
+      <p n="27">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="28">Done at Brussels, 30 May 2001.</p>
+      <p n="29">For the Council</p>
+      <p n="30">The President</p>
+      <p n="31">B. Lejon</p>
+      <p n="32">(1) Proposal of 9 February 2001 (not yet published in the Official Journal).</p>
+      <p n="33">(2) Opinion delivered on 3 April 2001 (not yet published in the Official Journal).</p>
+      <p n="34">(3) Opinion delivered on 1 April 2001 (not yet published in the Official Journal).</p>
+      <p n="35">(4) OJ L 171, 29.6.1991, p. 1. Regulation as last amended by Regulation (EC) No 2674/99 (OJ L 326, 18.12.1988, p. 3).</p>
+    </body>
+  </text>
+</TEI.2>

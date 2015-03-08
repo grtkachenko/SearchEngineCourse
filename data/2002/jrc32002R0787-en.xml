@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32002R0787-en" n="32002R0787" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0787 English</title>
+        <title>Commission Regulation (EC) No 787/2002 of 13 May 2002 amending Regulation (EC) No 174/1999, laying down detailed rules for the application of Council Regulation (EEC) No 804/68 as regards export licences and export refunds in the case of milk and milk products, as regards exports to Switzerland</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0787:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0787:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1565</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4324</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0787-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 787/2002 of 13 May 2002 amending Regulation (EC) No 174/1999, laying down detailed rules for the application of Council Regulation (EEC) No 804/68 as regards export licences and export refunds in the case of milk and milk products, as regards exports to Switzerland</head>
+      <p n="2">Commission Regulation (EC) No 787/2002</p>
+      <p n="3">of 13 May 2002</p>
+      <p n="4">amending Regulation (EC) No 174/1999, laying down detailed rules for the application of Council Regulation (EEC) No 804/68 as regards export licences and export refunds in the case of milk and milk products, as regards exports to Switzerland</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), as last amended by Commission Regulation (EC) No 509/2002(2), and in particular Article 26(3) and Article 31(14) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 19 of Commission Regulation (EC) No 174/1999(3), as last amended by Regulation (EC) No 156/2002(4), lays down that for the cheeses referred to in Annex III to that Regulation, exported to Switzerland, an export licence must be presented attesting that the products concerned originate in the Community and specifying whether or not an export refund has been paid. Following the abolition of export refunds for all Community cheeses exported to Switzerland provided for in the Bilateral Agreement between the European Community and the Swiss Confederation on trade in agricultural products (hereafter referred to as "the Agreement"), signed in Luxembourg on 21 June 1999, and approved by Council Decision of 28 February 2002(5), and in the interests of the simplification of customs formalities, the export of cheeses to Switzerland will be allowed on the basis of a simple export declaration accompanied by proof of origin, in accordance with Protocol No 3, concerning the definition of the concept 'of originating products' and methods of administrative cooperation, to the Agreement between the European Economic Community and the Swiss Confederation of 22 July 1972, as last amended by Decision No 1/2001 of the EC-Switzerland Joint Committee of 24 January 2001(6), approved by Council Regulation (EEC) No 2840/72 of 19 December 1972(7). That provision should therefore be amended and Annex III should be deleted.</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Regulation (EC) No 174/1999 is amended as follows:</p>
+      <p n="14">1. Article 19 is replaced by the following: "Article 19</p>
+      <p n="15">In order to qualify for a reduction in or an exemption from customs duties on import into Switzerland of the cheeses listed in Appendix 2 to Annex III to the Agreement between the European Community and the Swiss Confederation on trade in agricultural products, an export declaration accompanied by proof of origin issued pursuant to Protocol No 3 to the Agreement between the European Economic Community and the Swiss Confederation of 22 July 1972 shall be required."</p>
+      <p n="16">2. Annex III is deleted.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the third day after its publication in the Official Journal of the European Communities.</p>
+      <p n="19">It shall apply from 1 June 2002.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 13 May 2002.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 160, 26.6.1999, p. 48.</p>
+      <p n="26">(2) OJ L 79, 22.3.2002, p. 15.</p>
+      <p n="27">(3) OJ L 20, 27.1.1999, p. 8.</p>
+      <p n="28">(4) OJ L 25, 29.1.2002, p. 24.</p>
+      <p n="29">(5) Not yet published in the Official Journal.</p>
+      <p n="30">(6) OJ L 51, 21.2.2001, p. 40.</p>
+      <p n="31">(7) OJ L 300, 31.12.1972, p. 188.</p>
+    </body>
+  </text>
+</TEI.2>

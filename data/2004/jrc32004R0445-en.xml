@@ -1,0 +1,73 @@
+<TEI.2 id="jrc32004R0445-en" n="32004R0445" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0445 English</title>
+        <title>Commission Regulation (EC) No 445/2004 of 10 March 2004 amending Annex I to Council Directive 92/118/EEC as regards animal casings, lard and rendered fats and rabbit meat and farmed game meat (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>38 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0445:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0445:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0445-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 445/2004 of 10 March 2004 amending Annex I to Council Directive 92/118/EEC as regards animal casings, lard and rendered fats and rabbit meat and farmed game meat (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 445/2004</p>
+      <p n="3">of 10 March 2004</p>
+      <p n="4">amending Annex I to Council Directive 92/118/EEC as regards animal casings, lard and rendered fats and rabbit meat and farmed game meat</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 92/118/EEC of 17 December 1992 laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A(I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC(1), as last amended by Commission Decision 2003/42/EC(2), and in particular the second paragraph of Article 15 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Directive 92/118/EEC sets out Community rules concerning animal and public health requirements governing trade in and importation into the Community of products of animal origin.</p>
+      <p n="11">(2) Regulation (EC) No 1774/2002 of the European Parliament and of the Council of 3 October 2002 laying down health rules concerning animal by-products not intended for human consumption(3), as last amended by Commission Regulation (EC) No 808/2003(4), sets out Community rules on animal products not intended for human consumption.</p>
+      <p n="12">(3) Directive 2002/33/EC of the European Parliament and of the Council of 21 October 2002 amending Council Directives 90/425/EEC and 92/118/EC as regards health requirements for animal by-products(5), significantly amended Directive 92/118/EEC, in particular in order to reduce its scope so that it only covered animal products intended for human consumption and pathogens.</p>
+      <p n="13">(4) In the interests of clarity of Community legislation, it is appropriate to further clarify the scope of Directive 92/118/EEC.</p>
+      <p n="14">(5) Directive 92/118/EEC should therefore be amended accordingly.</p>
+      <p n="15">(6) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="16">HAS ADOPTED THIS REGULATION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Amendments to Directive 92/118/EEC</p>
+      <p n="19">1. The title of Chapter 2 of Annex I to Directive 92/118/EEC is replaced by the following:</p>
+      <p n="20">"Animal casings intended for human consumption".</p>
+      <p n="21">2. The title of Chapter 9 of Annex I to Directive 92/118/EEC is replaced by the following:</p>
+      <p n="22">"Lard and rendered fats intended for human consumption".</p>
+      <p n="23">3. The title of Chapter 11 of Annex I to Directive 92/118/EEC is replaced by the following:</p>
+      <p n="24">"Rabbit meat and farmed game meat intended for human consumption".</p>
+      <p n="25">Article 2</p>
+      <p n="26">Entry into force and applicability</p>
+      <p n="27">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="28">It shall apply from 1 May 2004.</p>
+      <p n="29">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="30">Done at Brussels, 10 March 2004.</p>
+      <p n="31">For the Commission</p>
+      <p n="32">David Byrne</p>
+      <p n="33">Member of the Commission</p>
+      <p n="34">(1) OJ L 62, 15.3.1993, p. 49.</p>
+      <p n="35">(2) OJ L 13, 18.1.2003, p. 24.</p>
+      <p n="36">(3) OJ L 273, 10.10.2002, p. 1.</p>
+      <p n="37">(4) OJ L 117, 13.5.2003, p. 1.</p>
+      <p n="38">(5) OJ L 315, 19.11.2002, p. 14.</p>
+    </body>
+  </text>
+</TEI.2>

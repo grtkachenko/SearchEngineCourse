@@ -1,0 +1,76 @@
+<TEI.2 id="jrc31994D0096-en" n="31994D0096" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994D0096 English</title>
+        <title>94/96/EC: Commission Decision of 3 February 1994 based on Article 16 of Council Directive 91/628/EEC introducing special rules regarding the welfare of animals during transport in certain parts of Greece</title>
+      </titleStmt>
+      <extent>49 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0096:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994D0096:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994D0096-en." lang="en">
+    <body>
+      <head n="1">94/96/EC: Commission Decision of 3 February 1994 based on Article 16 of Council Directive 91/628/EEC introducing special rules regarding the welfare of animals during transport in certain parts of Greece</head>
+      <p n="2">COMMISSION DECISION of 3 February 1994 based on Article 16 of Council Directive 91/628/EEC introducing special rules regarding the welfare of animals during transport in certain parts of Greece (94/96/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 91/628/EEC of 19 November 1991 on the protection of animals during transport and amending Directives 90/425/EEC and 91/496/EEC (1), as amended by Decision 92/438/EEC (2), and in particular Article 16 thereof,</p>
+      <p n="6">Whereas Directive 91/628/EEC set out requirements applicable to all transport of animals within, to, and from the Member States;</p>
+      <p n="7">Whereas in several parts of Greece there are natural constraints applying to these parts, in particular their remoteness from the mainland of Greece;</p>
+      <p n="8">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The rules laid down in Article 5 (1) (b), in Article 5 (2) (b), (c) and (f), and in points 3, 4, 18, 19, 20, 21, 22, 23, 25 and 26 of the Annex to Directive 91/628/EEC shall not apply to the transport of animals referred to in Article 1 (1) (a) thereof within the areas as laid down in the Annex hereto and the transport between those areas and the mainland of Greece, provided that the provisions of Article 2 are complied with.</p>
+      <p n="12">Article 2</p>
+      <p n="13">The following rules shall apply to the areas referred to in Article 1.</p>
+      <p n="14">1. Any transport of animals must be notified to the competent veterinary authority. The person responsible for the transport operation must provide the latter with full particulars concerning:</p>
+      <p n="15">(a) the means of transport;</p>
+      <p n="16">(b) the type and number of animals transported;</p>
+      <p n="17">(c) their origin and ownership;</p>
+      <p n="18">(d) the place of departure and of destination;</p>
+      <p n="19">(e) the date and time of departure; and</p>
+      <p n="20">(f) the route, irrespective of the duration of the journey.</p>
+      <p n="21">2. The competent authority shall take the appropriate steps with regard to the loading and unloading of animals on/from the means of transport used and shall check that:</p>
+      <p n="22">(a) the accompanying documents satisfy the Community and national requirements laid down;</p>
+      <p n="23">(b) the facilities in place are such that the animals can be transported safely; and</p>
+      <p n="24">(c) the animals are in a proper state of health prior to transportation.</p>
+      <p n="25">3. The loading and unloading of the animals must be carried out using suitable equipment and in a manner not prejudicial to their health.</p>
+      <p n="26">Article 3</p>
+      <p n="27">This Decision is addressed to the Member States.</p>
+      <p n="28">Done at Brussels, 3 February 1994.</p>
+      <p n="29">For the Commission</p>
+      <p n="30">René STEICHEN</p>
+      <p n="31">Member of the Commission</p>
+      <p n="32">(1) OJ No L 340, 11. 12. 1991, p. 17.</p>
+      <p n="33">(2) OJ No L 243, 25. 8. 1992, p. 27.</p>
+      <p n="34">ANNEX</p>
+      <p n="35">Areas of the territory of Greece in respect of which specific rules on the welfare of animals during transport may apply:</p>
+      <p n="36">1. Dodekanisa</p>
+      <p n="37">2. Zakinthos</p>
+      <p n="38">3. Iraklio</p>
+      <p n="39">4. Kerkira</p>
+      <p n="40">5. Kefallinia</p>
+      <p n="41">6. Kiklades</p>
+      <p n="42">7. Lesvos</p>
+      <p n="43">8. Lasithi</p>
+      <p n="44">9. Levkada</p>
+      <p n="45">10. Rethimno</p>
+      <p n="46">11. Samos</p>
+      <p n="47">12. Khios</p>
+      <p n="48">13. Khania</p>
+      <p n="49">14. The islands parts of the prefectures of Evros, Evvia, Kavala, Magnisia and Pireas.</p>
+    </body>
+  </text>
+</TEI.2>

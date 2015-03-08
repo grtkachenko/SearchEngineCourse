@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32002R1947-en" n="32002R1947" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R1947 English</title>
+        <title>Commission Regulation (EC) No 1947/2002 of 31 October 2002 amending Regulation (EC) No 3223/94 on detailed rules for application of the import arrangements for fruit and vegetables</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1947:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R1947:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1119</classCode>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1608</classCode>
+        <classCode scheme="eurovoc">2657</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">3178</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R1947-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1947/2002 of 31 October 2002 amending Regulation (EC) No 3223/94 on detailed rules for application of the import arrangements for fruit and vegetables</head>
+      <p n="2">Commission Regulation (EC) No 1947/2002</p>
+      <p n="3">of 31 October 2002</p>
+      <p n="4">amending Regulation (EC) No 3223/94 on detailed rules for application of the import arrangements for fruit and vegetables</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Regulation (EC) No 545/2002(2), and in particular Article 32(5) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) The Belgian and Italian authorities have informed the Commission that Antwerp and Bologna are no longer representative import markets for fruit and vegetables. They should therefore be withdrawn from the list in Article 3(1) of Commission Regulation (EC) No 3223/94(3), as last amended by Regulation (EC) No 453/2002(4).</p>
+      <p n="10">(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for fresh Fruit and Vegetables,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">Article 3(1) of Regulation (EC) No 3223/94 is amended as follows:</p>
+      <p n="14">1. The first indent is replaced by:</p>
+      <p n="15">"- Kingdom of Belgium and Grand Duchy of Luxembourg: Brussels,"</p>
+      <p n="16">2. The eighth indent is replaced by:</p>
+      <p n="17">"- Italian Republic: Milan,"</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 31 October 2002.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="26">(2) OJ L 84, 28.3.2002, p. 1.</p>
+      <p n="27">(3) OJ L 337, 24.12.1994, p. 66.</p>
+      <p n="28">(4) OJ L 72, 14.3.2002, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

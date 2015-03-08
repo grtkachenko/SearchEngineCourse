@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31995R1366-en" n="31995R1366" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1366 English</title>
+        <title>Council Regulation (EC) No 1366/95 of 12 June 1995 amending Regulation (EEC) No 3906/89 in order to extend economic aid to Croatia</title>
+      </titleStmt>
+      <extent>18 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1366:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1366:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1346</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">5563</classCode>
+        <classCode scheme="eurovoc">5840</classCode>
+        <classCode scheme="eurovoc">899</classCode>
+        <classCode scheme="eurovoc">914</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1366-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1366/95 of 12 June 1995 amending Regulation (EEC) No 3906/89 in order to extend economic aid to Croatia</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1366/95 of 12 June 1995 amending Regulation (EEC) No 3906/89 in order to extend economic aid to Croatia</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 235 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas Regulation (EEC) No 3906/89 (3) provides for aid operations of an economic and humanitarian nature in support of the process of economic and social reform in certain countries of Central and Eastern Europe;</p>
+      <p n="8">Whereas the Annex to that Regulation lists the countries which may receive such aid;</p>
+      <p n="9">Whereas, in the light of Croatia's independence, that country should be added to the list of recipients so that it can receive aid under Regulation (EEC) No 3906/89;</p>
+      <p n="10">Whereas the conditions to allow for Croatia to be included amongst the beneficiary countries can now be considered to have been fulfilled,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The following country shall be added to the list in the Annex to Regulation (EEC) No 3906/89: 'Croatia`.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="16">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="17">Done at Luxembourg, 12 June 1995.</p>
+      <p n="18">For the Council The President H. de CHARETTE</p>
+    </body>
+  </text>
+</TEI.2>

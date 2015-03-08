@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31982L0528-en" n="31982L0528" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31982L0528 English</title>
+        <title>Council Directive 82/528/EEC of 19 July 1982 amending Annex II to Directive 76/895/EEC relating to the fixing of maximum levels for pesticide residues in and on fruit and vegetables</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31982L0528:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31982L0528:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31982L0528-en." lang="en">
+    <body>
+      <head n="1">Council Directive 82/528/EEC of 19 July 1982 amending Annex II to Directive 76/895/EEC relating to the fixing of maximum levels for pesticide residues in and on fruit and vegetables</head>
+      <p n="2">COUNCIL DIRECTIVE of 19 July 1982 amending Annex II to Directive 76/895/EEC relating to the fixing of maximum levels for pesticide residues in and on fruit and vegetables (82/528/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 76/895/EEC of 23 November 1976 relating to the fixing of maximum levels for pesticide residues in and on fruit and vegetables (1), as last amended by Directive 81/36/EEC (2), and in particular Article 5 thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission (3),</p>
+      <p n="7">Whereas Article 5 of Directive 76/895/EEC provides that the contents of the Annexes be regularly amended and that in making amendments account shall be taken of technical and scientific progress as well as of the requirements of health and agriculture;</p>
+      <p n="8">Whereas, since it is sufficient to identify pesticide residues by their common names and chemical formulae, it seems desirable to simplify the presentation of Annex II to the said Directive accordingly;</p>
+      <p n="9">Whereas the pesticides aramite and chlorfenson are no longer of economic importance and their residues are unlikely to occur in foodstuffs ; whereas it is therefore appropriate to delete them from the said Annex II;</p>
+      <p n="10">Whereas, in the light of the development of technical and scientific knowledge, it is necessary to amend the provisions, particularly the maximum levels, contained in Annex II relating to atrazine, azinphos-ethyl, azinphos-methyl, barban, binapacryl, carbaryl, chlorbenzilate, diallate, endosulphan, lindane, parathion including paraoxon and folpet;</p>
+      <p n="11">Whereas, for the same reasons, it seems desirable to bring the Directive up to date by adding provisions relating to further pesticides whose residues may occur in fruit and vegetables, namely, bromophos-ethyl, bromopropylate, captafol, chlorpropham, chlorbufam, chlorfenvinphos, chlormequat, DDT, diazinon, dichlofluanid, dichlorvos, dicofol, dioxathion, diquat, fentin, heptachlor, methyl bromide, paraquat, pyrethrins, triallate, vamidothion and chinomethionat;</p>
+      <p n="12">Whereas it also seems desirable, in accordance with current international practice, to replace the maximum levels relating to amitrole, endrin and TEPP, hitherto expressed as "zero", by finite levels set at or about the lower limit of determination;</p>
+      <p n="13">Whereas, having regard to the errors, particularly of sampling and analysis, inherent in the control of maximum levels, the latter should be expressed to an appropriate number of significant figures ; whereas the levels relating to chlorbenside and methyl parathion including methyl-paraoxon should therefore be corrected, (1) OJ No L 340, 9.12.1976, p. 26. (2) OJ No L 46, 19.2.1981, p. 33. (3) OJ No C 95, 16.4.1982, p. 6.</p>
+      <p n="14">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Annex II to Directive 76/895/EEC is hereby amended as follows: 1. The column headed "EEC No (1)" and footnote 1 shall be deleted;</p>
+      <p n="17">2. The entries "aramite" and "chlorfenson" shall be deleted;</p>
+      <p n="18">3. For the pesticide residues set out below, the particulars contained in the Table, with the exception of the chemical formulae, which remain unchanged, shall be replaced by the following: &gt;PIC FILE= "T0021997"&gt;</p>
+      <p n="19">4. The following pesticide residues together with their corresponding particulars shall be inserted: &gt;PIC FILE= "T0021998"&gt;</p>
+      <p n="20">&gt;PIC FILE= "T0021999"&gt;</p>
+      <p n="21">5. The headings "barban" and "diallate" shall be replaced by groups relating respectively to "barban, chlorpropham, chlorbufam", and "diallate, triallate" as follows: &gt;PIC FILE= "T0022000"&gt;</p>
+      <p n="22">Article 2</p>
+      <p n="23">The Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 1 not later than 1 July 1984. They shall forthwith inform the Commission thereof.</p>
+      <p n="24">Article 3</p>
+      <p n="25">This Directive is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 19 July 1982.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">B. WESTH</p>
+    </body>
+  </text>
+</TEI.2>

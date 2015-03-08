@@ -1,0 +1,77 @@
+<TEI.2 id="jrc32003D0779-en" n="32003D0779" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0779 English</title>
+        <title>2003/779/EC: Commission Decision of 31 October 2003 laying down animal health requirements and the veterinary certification for the import of animal casings from third countries (Text with EEA relevance) (notified under document number C(2003) 3988)</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0779:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0779:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0779-en." lang="en">
+    <body>
+      <head n="1">2003/779/EC: Commission Decision of 31 October 2003 laying down animal health requirements and the veterinary certification for the import of animal casings from third countries (Text with EEA relevance) (notified under document number C(2003) 3988)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 31 October 2003</p>
+      <p n="4">laying down animal health requirements and the veterinary certification for the import of animal casings from third countries</p>
+      <p n="5">(notified under document number C(2003) 3988)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/779/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 92/118/EEC of 17 December 1992 laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A(1) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC(1), as last amended by Commission Decision 2003/721/EC(2), and in particular Article 10(2)(a) and (c) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Commission Decision 94/187/EC of 18 March 1994 laying down animal health requirements and the veterinary certification for the import of animal casings from third countries(3) has been substantially amended several times(4). In the interests of clarity and rationality, the said Decision should be codified.</p>
+      <p n="13">(2) Annex I(2) to Directive 92/118/EEC allows the importation from any third country of animal casings which have undergone a prescribed treatment.</p>
+      <p n="14">(3) The animal health conditions and veterinary certification must be laid down in order to guarantee that the prescribed treatment of the casings is carried out.</p>
+      <p n="15">(4) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Member States shall authorise the importation from any third country of animal casings accompanied by a health certificate as laid down in Annex I, which shall consist of one sheet and shall be completed in at least one official language of the Member State carrying out the import control.</p>
+      <p n="19">Article 2</p>
+      <p n="20">Decision 94/187/EC is repealed.</p>
+      <p n="21">References to the repealed Decision shall be construed as references to this Decision and read in accordance with the correlation table in Annex III.</p>
+      <p n="22">Article 3</p>
+      <p n="23">This Decision is addressed to the Member States.</p>
+      <p n="24">Done at Brussels, 31 October 2003.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">David Byrne</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 62, 15.3.1993, p. 49.</p>
+      <p n="29">(2) OJ L 260, 11.10.2003, p. 21.</p>
+      <p n="30">(3) OJ L 89, 6.4.1994, p. 18.</p>
+      <p n="31">(4) See Annex II to this Decision.</p>
+      <p n="32">ANNEX I</p>
+      <p n="33">&gt;PIC FILE= "L_2003285EN.003902.TIF"&gt;</p>
+      <p n="34">&gt;PIC FILE= "L_2003285EN.004001.TIF"&gt;</p>
+      <p n="35">ANNEX II</p>
+      <p n="36">Repealed Decision and its successive amendments</p>
+      <p n="37">&gt;TABLE&gt;</p>
+      <p n="38">ANNEX III</p>
+      <p n="39">CORRELATION TABLE</p>
+      <p n="40">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

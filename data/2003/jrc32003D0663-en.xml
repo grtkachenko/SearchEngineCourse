@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32003D0663-en" n="32003D0663" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0663 English</title>
+        <title>2003/663/CFSP: Council Decision 2003/663/CFSP of 10 December 2002 concerning the conclusion of the Agreements between the European Union and Bulgaria, Cyprus, the Czech Republic, Estonia, Hungary, Iceland, Latvia, Lithuania, Norway, Romania, the Slovak Republic, Slovenia, Switzerland, Turkey and Ukraine on the participation of these States to the European Union Police Mission (EUPM) in Bosnia and Herzegovina</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0663:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0663:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">4324</classCode>
+        <classCode scheme="eurovoc">4580</classCode>
+        <classCode scheme="eurovoc">5469</classCode>
+        <classCode scheme="eurovoc">5551</classCode>
+        <classCode scheme="eurovoc">5774</classCode>
+        <classCode scheme="eurovoc">5781</classCode>
+        <classCode scheme="eurovoc">5898</classCode>
+        <classCode scheme="eurovoc">5946</classCode>
+        <classCode scheme="eurovoc">5989</classCode>
+        <classCode scheme="eurovoc">911</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0663-en." lang="en">
+    <body>
+      <head n="1">2003/663/CFSP: Council Decision 2003/663/CFSP of 10 December 2002 concerning the conclusion of the Agreements between the European Union and Bulgaria, Cyprus, the Czech Republic, Estonia, Hungary, Iceland, Latvia, Lithuania, Norway, Romania, the Slovak Republic, Slovenia, Switzerland, Turkey and Ukraine on the participation of these States to the European Union Police Mission (EUPM) in Bosnia and Herzegovina</head>
+      <p n="2">Council Decision 2003/663/CFSP</p>
+      <p n="3">of 10 December 2002</p>
+      <p n="4">concerning the conclusion of the Agreements between the European Union and Bulgaria, Cyprus, the Czech Republic, Estonia, Hungary, Iceland, Latvia, Lithuania, Norway, Romania, the Slovak Republic, Slovenia, Switzerland, Turkey and Ukraine on the participation of these States to the European Union Police Mission (EUPM) in Bosnia and Herzegovina</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty on European Union, and in particular Article 24 thereof,</p>
+      <p n="7">Having regard to the recommendation from the Presidency,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) On 11 March 2002, the Council adopted Joint Action 2002/210/CFSP on the European Union Police Mission(1).</p>
+      <p n="10">(2) Article 8(3) of that Joint Action provides that detailed arrangements regarding the participation of third States to the EUPM shall be subject to agreements pursuant to Article 24 of the Treaty on European Union.</p>
+      <p n="11">(3) Following the Council decision of 14 October 2002 authorising the Presidency to open negotiations, the Presidency negotiated agreements with Bulgaria, Cyprus, the Czech Republic, Estonia, Hungary, Iceland, Latvia, Lithuania, Norway, Romania, the Slovak Republic, Slovenia, Switzerland, Turkey and Ukraine on their participation to the EUPM.</p>
+      <p n="12">(4) These agreements should be approved,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The agreements between the European Union and Bulgaria, Cyprus, the Czech Republic, Estonia, Hungary, Iceland, Latvia, Lithuania, Norway, Romania, the Slovak Republic, Slovenia, Switzerland, Turkey and Ukraine on the participation of these States to the European Union Police Mission (EUPM) in Bosnia and Herzegovina are hereby approved on behalf of the European Union.</p>
+      <p n="16">The texts of these agreements are attached to this Decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is hereby authorised to designate the person(s) empowered to sign these agreements in order to bind the European Union.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Decision shall be published in the Official Journal of the European Union.</p>
+      <p n="21">Article 4</p>
+      <p n="22">This decision shall take effect on the day of its publication.</p>
+      <p n="23">Done at Brussels, 10 December 2002.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">P. S. Møller</p>
+      <p n="27">(1) OJ L 70, 13.3.2002, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31998R1400-en" n="31998R1400" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1400 English</title>
+        <title>Commission Regulation (EC) No 1400/98 of 30 June 1998 amending Regulation (EEC) No 2235/92 laying down detailed rules for the application of the aid for the consumption of fresh milk products in the Canary Islands</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1400:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1400:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">139</classCode>
+        <classCode scheme="eurovoc">2763</classCode>
+        <classCode scheme="eurovoc">4172</classCode>
+        <classCode scheme="eurovoc">5232</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1400-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1400/98 of 30 June 1998 amending Regulation (EEC) No 2235/92 laying down detailed rules for the application of the aid for the consumption of fresh milk products in the Canary Islands</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1400/98 of 30 June 1998 amending Regulation (EEC) No 2235/92 laying down detailed rules for the application of the aid for the consumption of fresh milk products in the Canary Islands</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1601/92 of 15 June 1992 concerning specific measures for the Canary Islands with regard to certain agricultural products (1), as last amended by Regulation (EC) No 2348/96 (2), and in particular Article 11 thereof,</p>
+      <p n="6">Whereas Article 1 of Commission Regulation (EEC) No 2235/92 (3), as last amended by Regulation (EC) No 1802/95 (4), provides for the grant of aid for the human consumption of fresh cows' milk products produced in the Canary Islands within the limit of consumption requirements in those islands; Whereas, in view of the shift in local consumption habits towards more skimmed-milk products, and as a result of a request by the Spanish authorities, the list of fresh milk products set out in the Annex to Regulation (EEC) No 2235/92 should be amended;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk Products,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The Annex to Regulation (EEC) No 2235/92 is hereby replaced by the Annex to this Regulation.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="13">It shall apply from 1 July 1998.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 30 June 1998.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Franz FISCHLER</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ L 173, 27. 6. 1992, p. 13.</p>
+      <p n="20">(2) OJ L 320, 11. 12. 1996, p. 1.</p>
+      <p n="21">(3) OJ L 218, 1. 8. 1992, p. 105.</p>
+      <p n="22">(4) OJ L 174, 26. 7. 1995, p. 27.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">'ANNEX</p>
+      <p n="25">List of products eligible for the Community aid referred to in Article 11(1) of Regulation (EC) No 1601/92:</p>
+      <p n="26">1. drinking milk;</p>
+      <p n="27">2. cream;</p>
+      <p n="28">3. yoghurt;</p>
+      <p n="29">4. fresh cheese with a fat content by weight of dry matter of not less than 40 %`.</p>
+    </body>
+  </text>
+</TEI.2>

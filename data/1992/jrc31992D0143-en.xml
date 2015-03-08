@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31992D0143-en" n="31992D0143" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992D0143 English</title>
+        <title>92/143/EEC: Council Decision of 25 February 1992 on radionavigation systems for Europe</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0143:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0143:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992D0143-en." lang="en">
+    <body>
+      <head n="1">92/143/EEC: Council Decision of 25 February 1992 on radionavigation systems for Europe</head>
+      <p n="2">COUNCIL DECISION of 25 February 1992 on radionavigation systems for Europe (92/143/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 84 (2) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas the 1974 International Convention for the Safety of Life at Sea (Solas 1974) drafted under the auspices of the International Maritime Organization (IMO), requires contracting parties to arrange for the establishment and maintenance of such aids to navigation as the volume of traffic and the degree of risk warrant;</p>
+      <p n="9">Whereas, in its Resolution A.666 (16), the IMO refers both to the need for a worldwide radionavigation system and to the possibility of regional applications of terrestrial systems such as Chayka, Decca Navigator, Loran-C, Omega and Differential Omega;</p>
+      <p n="10">Whereas the International Association of Lighthouse Authorities confirms that, in order to meet the needs of maritime navigation, a terrestrial radionavigation system is necessary until general-purpose satellite systems are widely available, and also thereafter in parallel to such systems for the foreseeable future;</p>
+      <p n="11">Whereas it is a concern of the Community to ensure the highest degree of safety of navigation and protection of the marine environment;</p>
+      <p n="12">Whereas the United States Coastguard has decided to terminate its Loran-C commitments outside the United States of America as from 1994 and intends to offer the Loran-C facilities to the relevant host nations;</p>
+      <p n="13">Whereas certain Member States intend to participate in one or more regional agreements on the establishment of Loran-C chains covering North-West Europe and the North Atlantic, the Mediterranean, the Iberian Peninsula and the Baltic, while a number of these areas are already covered by terrestrial systems, such as Decca and Omega;</p>
+      <p n="14">Whereas Member States are not required to abandon existing radionavigation systems, such as Decca and Omega, provided they fulfil their Loran-C obligations in accordance with regional agreements;</p>
+      <p n="15">Whereas the Loran-C system in particular satisfies international requirements and its more general application does not prejudice the development of satellite aids to navigation, especially as combined coverage by satellite and Loran-C will offer an excellent degree of system verification and continuity of radionavigation coverage for the benefit of maritime safety and environmental protection;</p>
+      <p n="16">Whereas the establishment of regional Loran-C systems must ensure coherent and complete coverage of the European maritime area, avoiding as much as possible the imposition of additional costs upon the users of existing terrestrial radionavigation systems,</p>
+      <p n="17">HAS ADOPTED THIS DECISION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">1. Without prejudice to existing radionavigation systems, Member States which participate in or join regional agreements on Loran-C shall do so in a way which fulfils international objectives.</p>
+      <p n="20">2. With regard to their participation in the regional agreements referred to in paragraph 1, Member States shall seek to achieve the radionavigation configurations which cover the widest possible geographical area in Europe and in neighbouring waters.</p>
+      <p n="21">Article 2</p>
+      <p n="22">The Commission shall:</p>
+      <p n="23">- ensure coordination between the Member States participating in the regional agreements referred to in paragraph 1 with a view to ensuring compatibility between the Loran-C chains introduced at regional level,</p>
+      <p n="24">- encourage the development of receivers, which take account of the ongoing development of satellite systems and the enhancement of the present Loran-C system,</p>
+      <p n="25">- pursue its work with a view to setting up a radionavigation plan which takes into account the development of satellite navigation systems, of existing terrestrial systems and of the radionavigation plans of the Member States, and</p>
+      <p n="26">- propose the necessary measures to the Council should the need arise.</p>
+      <p n="27">Article 3</p>
+      <p n="28">As members or observers within the International Association of Lighthouse Authorities, Member States and the Commission shall support efforts to set up a worldwide radionavigation system including European regional Loran-C chains with the purpose of enlarging worldwide Loran-C coverage in order to improve the safety of navigation and protection of the marine environment.</p>
+      <p n="29">Article 4</p>
+      <p n="30">This Decision is addressed to the Member States. Done at Brussels, 25 February 1992. For the Council</p>
+      <p n="31">The President</p>
+      <p n="32">Vitor MARTINS</p>
+      <p n="33">(1) OJ No C 53, 28. 2. 1991, p. 71, and OJ No C 317, 7. 12. 1991, p. 16. (2) OJ No C 280, 28. 10. 1991, p. 32. (3) OJ No C 159, 17. 6. 1991, p. 22.</p>
+    </body>
+  </text>
+</TEI.2>

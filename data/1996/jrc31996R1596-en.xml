@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31996R1596-en" n="31996R1596" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R1596 English</title>
+        <title>Council Regulation (EC) No 1596/96 of 30 July 1996 amending Regulation (EEC) No 2392/86 establishing a Community vineyard register</title>
+      </titleStmt>
+      <extent>22 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1596:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1596:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3342</classCode>
+        <classCode scheme="eurovoc">4708</classCode>
+        <classCode scheme="eurovoc">5070</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R1596-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1596/96 of 30 July 1996 amending Regulation (EEC) No 2392/86 establishing a Community vineyard register</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1596/96 of 30 July 1996 amending Regulation (EEC) No 2392/86 establishing a Community vineyard register</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 822/87 of 16 March 1987 on the common organization of the market in wine (1), and in particular Article 80 thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission (2),</p>
+      <p n="7">Whereas the measures provided for in Regulation (EEC) No 2392/86 (3) must be sufficiently flexible to allow them to be adjusted to developments in the common organization of the market in wine; whereas the technical difficulties encountered by some Member States to establish a vineyard register make it necessary to extend the time limits laid down in Article 4 (4) of Regulation (EEC) No 2392/86,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">In Article 4 (4) of Regulation (EEC) No 2392/86:</p>
+      <p n="11">(a) in the first subparagraph, '31 December 1996` shall be replaced by '31 December 1998`;</p>
+      <p n="12">(b) in the fifth subparagraph, '31 December 1996` shall be replaced by '31 December 1997`.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 30 July 1996.</p>
+      <p n="17">For the Council</p>
+      <p n="18">The President</p>
+      <p n="19">H. COVENEY</p>
+      <p n="20">(1) OJ No L 84, 27. 3. 1987, p. 1. Regulation as last amended by Regulation (EC) No 1592/96 (see p. 31 of this Official Journal).</p>
+      <p n="21">(2) OJ No C 125, 27. 4. 1996, p. 50.</p>
+      <p n="22">(3) OJ No L 208, 31. 7. 1986, p. 1. Regulation as last amended by Regulation (EC) No 1549/95 (OJ No L 148, 30. 6. 1995, p. 37).</p>
+    </body>
+  </text>
+</TEI.2>

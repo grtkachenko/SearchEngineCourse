@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32002R0894-en" n="32002R0894" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0894 English</title>
+        <title>Regulation (EC) No 894/2002 of the European Parliament and of the Council of 27 May 2002 amending Council Regulation (EEC) No 95/93 on common rules for the allocation of slots at Community airports</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0894:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0894:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">195</classCode>
+        <classCode scheme="eurovoc">2400</classCode>
+        <classCode scheme="eurovoc">2457</classCode>
+        <classCode scheme="eurovoc">4505</classCode>
+        <classCode scheme="eurovoc">5152</classCode>
+        <classCode scheme="eurovoc">75</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0894-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 894/2002 of the European Parliament and of the Council of 27 May 2002 amending Council Regulation (EEC) No 95/93 on common rules for the allocation of slots at Community airports</head>
+      <p n="2">Regulation (EC) No 894/2002 of the European Parliament and of the Council</p>
+      <p n="3">of 27 May 2002</p>
+      <p n="4">amending Council Regulation (EEC) No 95/93 on common rules for the allocation of slots at Community airports</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 80(2) thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="9">Following consultation of the Committee of the Regions,</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The terrorist attacks of 11 September 2001 in the United States and the political developments that followed those events seriously affected the air transport operations of air carriers and resulted in a significant drop in demand during the remainder of the summer 2001 and winter 2001/2002 scheduling seasons.</p>
+      <p n="13">(2) In order to make sure that the non-utilisation of slots allocated for those seasons does not cause operators to lose their entitlement to those slots, it appears necessary to provide clearly and unambiguously that those scheduling seasons were adversely affected by the terrorist attacks of 11 September 2001.</p>
+      <p n="14">(3) Council Regulation (EEC) No 95/93 of 18 January 1993 on common rules for the allocation of slots at Community airports(4) should therefore be accordingly amended,</p>
+      <p n="15">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">The following Article shall be inserted in Council Regulation (EEC) No 95/93: "Article 10a</p>
+      <p n="18">The events of 11 September 2001</p>
+      <p n="19">For the purposes of Article 10(3), coordinators shall accept that air carriers are entitled to the same series of slots during summer scheduling season 2002 and winter scheduling season 2002/2003 as had been allocated to them on the date of 11 September 2001 for the summer scheduling season 2001 and the winter scheduling season 2001/2002 respectively."</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 27 May 2002.</p>
+      <p n="24">For the European Parliament</p>
+      <p n="25">The President</p>
+      <p n="26">P. Cox</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">M. Arias Cañete</p>
+      <p n="30">(1) OJ C 103 E, 30.4.2002, p. 350.</p>
+      <p n="31">(2) Opinion delivered on 20 March 2002 (not yet published in the Official Journal).</p>
+      <p n="32">(3) Opinion of the European Parliament of 6 February 2002 (not yet published in the Official Journal), Council Common Position of 25 March 2002 (not yet published in the Official Journal) and Decision of the European Parliament of 15 May 2002.</p>
+      <p n="33">(4) OJ L 14, 22.1.1993, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

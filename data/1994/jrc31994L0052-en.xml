@@ -1,0 +1,54 @@
+<TEI.2 id="jrc31994L0052-en" n="31994L0052" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994L0052 English</title>
+        <title>Directive 94/52/EC of the European Parliament and of the Council of 7 December 1994 amending for the second time Directive 88/344/EEC on the approximation of the laws of the Member States on extraction solvents used in the production of foodstuffs and food ingredients</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994L0052:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994L0052:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994L0052-en." lang="en">
+    <body>
+      <head n="1">Directive 94/52/EC of the European Parliament and of the Council of 7 December 1994 amending for the second time Directive 88/344/EEC on the approximation of the laws of the Member States on extraction solvents used in the production of foodstuffs and food ingredients</head>
+      <p n="2">DIRECTIVE 94/52/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 December 1994 amending for the second time Directive 88/344/EEC on the approximation of the laws of the Member States on extraction solvents used in the production of foodstuffs and food ingredients</p>
+      <p n="3">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the Economic and Social Committee (2),</p>
+      <p n="7">Acting in accordance with the procedure referred to in Article 189b of the Treaty (3),</p>
+      <p n="8">Whereas Directive 88/344/EEC (4), deleted from Part III of the Annex, as from 1 January 1994 the solvent cyclohexane, used in the preparation of flavourings;</p>
+      <p n="9">Whereas, on the basis of complementary information meanwhile received, the Scientific Committee for Food has decided to re-instate its previous temporary acceptance for this substance; whereas the use of the solvent can therefore be continued, pending the definitive opinion of that Committee,</p>
+      <p n="10">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Annex to Directive 88/344/EEC is hereby amended as follows:</p>
+      <p n="13">in Part III: The solvent cyclohexane shall be reinstated with a maximum residue limit of 1mg/kg.</p>
+      <p n="14">Article 2</p>
+      <p n="15">1. Member States shall amend their laws, regulations and administrative provisions in such a way as to permit trade in products complying with this Directive at the latest by 7 December 1995.</p>
+      <p n="16">They shall forthwith inform the Commission thereof.</p>
+      <p n="17">2. When Member States adopt the measures referred to in paragraph 1, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Directive shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="20">Article 4</p>
+      <p n="21">This Directive is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 7 December 1994.</p>
+      <p n="23">For the European Parliament The President K. HAENSCH For the Council The President G. REXRODT</p>
+      <p n="24">(1) OJ No C 15, 18. 1. 1994, p. 17.</p>
+      <p n="25">(2) OJ No C 133, 16. 5. 1994, p. 21.</p>
+      <p n="26">(3) Opinion of the European Parliament of 9 February 1994. (OJ No C 61, 28. 2. 1994, p. 101), Council common position of 10 March 1994 (OJ No C 172, 24. 6. 1994, p. 1) and Decision of the European Parliament of 15 September 1994 (OJ No C 276, 3. 10. 1994, p. 13).</p>
+      <p n="27">(4) OJ No L 157, 24. 6. 1988, p. 28. Directive as amended by Directive 92/115/EEC, (OJ No L 409, 31. 12. 1992, p. 31).</p>
+    </body>
+  </text>
+</TEI.2>

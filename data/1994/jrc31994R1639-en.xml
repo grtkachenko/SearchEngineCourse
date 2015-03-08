@@ -1,0 +1,50 @@
+<TEI.2 id="jrc31994R1639-en" n="31994R1639" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994R1639 English</title>
+        <title>Commission Regulation (EC) No 1639/94 of 5 July 1994 concerning the classification of certain goods in the combined nomenclature</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R1639:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994R1639:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994R1639-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1639/94 of 5 July 1994 concerning the classification of certain goods in the combined nomenclature</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1639/94 of 5 July 1994 concerning the classification of certain goods in the combined nomenclature</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (1), as last amended by Commission Regulation (EC) No 882/94 (2), and in particular Article 9,</p>
+      <p n="6">Whereas in order to ensure uniform application of the combined nomenclature annexed to the said Regulation, it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation;</p>
+      <p n="7">Whereas Regulation (EEC) No 2658/87 has set down the general rules for the interpretation of the combined nomenclature and those rules also apply to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific Community provisions, with a view to the application of tariff and other measures relating to trade in goods;</p>
+      <p n="8">Whereas, pursuant to the said general rules, the goods described in column 1 of the table annexed to the present Regulation must be classified under the appropriate CN codes indicated in column 2, by virtue of the reasons set out in column 3;</p>
+      <p n="9">Whereas the Tariff and Statistical Nomenclature Section of the Customs Code Committee has not delivered an opinion within the time limit set by it chairman,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 5 July 1994.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Christiane SCRIVENER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 256, 7. 9. 1987, p. 1.</p>
+      <p n="21">(2) OJ No L 103, 22. 4. 1994, p. 5.</p>
+      <p n="22">ANNEX</p>
+      <p n="23">"" ID="1"&gt;Emulsion of natural bitumen in water consisting of approximately 70 % bitumen, 30 % water and 0,2 % surface active agent to help form the emulsion.&gt; ID="2"&gt;2714 90 00&gt; ID="3"&gt;Classification is determined by the provisons of general rules 1 and 6 for the interpretation of the Combined Nomenclature and by the wording of CN codes 2714 and 2714 90 00"&gt; ID="1"&gt;The purpose of the emulsion in water is to transport the bitumen."&gt; ID="1"&gt;The product is used as a fuel in special burners: the water is eliminated by evaporation before the bitumen is burned."&gt;</p>
+    </body>
+  </text>
+</TEI.2>

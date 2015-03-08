@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31998D0118-en" n="31998D0118" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0118 English</title>
+        <title>98/118/EC: Council Decision of 16 December 1997 concerning the conclusion of the Protocol of Accession of the Principality of Monaco to the Convention on the Protection of the Alps</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0118:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0118:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1965</classCode>
+        <classCode scheme="eurovoc">226</classCode>
+        <classCode scheme="eurovoc">2792</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">5845</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0118-en." lang="en">
+    <body>
+      <head n="1">98/118/EC: Council Decision of 16 December 1997 concerning the conclusion of the Protocol of Accession of the Principality of Monaco to the Convention on the Protection of the Alps</head>
+      <p n="2">COUNCIL DECISION of 16 December 1997 concerning the conclusion of the Protocol of Accession of the Principality of Monaco to the Convention on the Protection of the Alps (98/118/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 130s(1) thereof, in conjunction with Article 228(2) and the first subparagraph of Article 228(3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas the European Community is a Contracting Party to the Convention on the Protection of the Alps (Alpine Convention) (3);</p>
+      <p n="8">Whereas the protection of the Alps is of great importance to all Member States owing to the cross-frontier nature of the environmental, economic and social problems of the Alpine area;</p>
+      <p n="9">Whereas the Community took part in negotiations concerning the Protocol of Accession of the Principality of Monaco to the Convention on the Protection of the Alps and signed it on 20 December 1994;</p>
+      <p n="10">Whereas consent to be bound by the Alpine Convention also presupposes consent to be bound by the Protocol, which extends the geographical area to which the Convention applies;</p>
+      <p n="11">Whereas the extension of the Alpine Convention to the Principality of Monaco makes more effective protection of the Alps throughout the entire Alpine area possible;</p>
+      <p n="12">Whereas the Community should therefore approve the Protocol,</p>
+      <p n="13">HAS ADOPTED THIS DECISION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Protocol of Accession of the Principality of Monaco to the Convention on the Protection of the Alps is hereby approved on behalf of the European Community.</p>
+      <p n="16">The text of the Protocol is attached to this Decision.</p>
+      <p n="17">Article 2</p>
+      <p n="18">The President of the Council is hereby authorised to designate the person(s) empowered to deposit, on behalf of the Community, the instrument of approval with the Republic of Austria in accordance with Article 11(2) of the Convention.</p>
+      <p n="19">Done at Brussels, 16 December 1997.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">J. LAHURE</p>
+      <p n="23">(1) OJ C 347, 18. 11. 1997, p. 7.</p>
+      <p n="24">(2) OJ C 339, 10. 11. 1997.</p>
+      <p n="25">(3) OJ L 61, 12. 3. 1996, p. 31.</p>
+    </body>
+  </text>
+</TEI.2>

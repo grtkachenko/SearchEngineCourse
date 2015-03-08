@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32004R0426-en" n="32004R0426" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0426 English</title>
+        <title>Commission Regulation (EC) No 426/2004 of 4 March 2004 fixing the Community selling prices for the fishery products listed in Annex II to Council Regulation (EC) No 104/2000 for the 2004 fishing year</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0426:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0426:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2664</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0426-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 426/2004 of 4 March 2004 fixing the Community selling prices for the fishery products listed in Annex II to Council Regulation (EC) No 104/2000 for the 2004 fishing year</head>
+      <p n="2">Commission Regulation (EC) No 426/2004</p>
+      <p n="3">of 4 March 2004</p>
+      <p n="4">fixing the Community selling prices for the fishery products listed in Annex II to Council Regulation (EC) No 104/2000 for the 2004 fishing year</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 104/2000 of 17 December 1999 on the common organisation of the markets in fishery and aquaculture products(1), and in particular Article 25(1) and (6) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) A Community selling price is to be fixed for each of the products listed in Annex II to Regulation (EC) No 104/2000 before the beginning of the fishing year, at a level at least equal to 70 % and not exceeding 90 % of the guide price.</p>
+      <p n="10">(2) Council Regulation (EC) No 2326/2003(2) fixes the guide prices for the 2004 fishing year for all the products concerned.</p>
+      <p n="11">(3) Market prices vary considerably depending on the species and how the products are presented, particularly in the case of squid and hake.</p>
+      <p n="12">(4) Conversion factors should therefore be fixed for the different species and presentations of frozen products landed in the Community in order to determine the price level that trigger the intervention measure provided for in Article 25(2) of Regulation (EC) No 104/2000.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fishery Products,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Community selling prices applicable during the 2004 fishing year for the products listed in Annex II to Regulation (EC) No 104/2000 and the presentations and conversion factors to which they relate are set out in the Annex to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.</p>
+      <p n="19">It shall apply from 1 January 2004.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 4 March 2004.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 17, 21.1.2000, p. 22.</p>
+      <p n="26">(2) OJ L 345, 31.12.2003, p. 27.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">Selling prices and conversion factors</p>
+      <p n="29">&gt;TABLE&gt;</p>
+      <p n="30">Forms of commercial presentation:</p>
+      <p n="31">- whole, not cleaned: product which has not undergone any treatment,</p>
+      <p n="32">- cleaned: product which has at least been gutted,</p>
+      <p n="33">- tube: squid body which has at least been gutted and had the head removed.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31999D0819-en" n="31999D0819" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0819 English</title>
+        <title>1999/819/Euratom: Commission Decision of 16 November 1999 concerning the accession to the 1994 Convention on Nuclear Safety by the European Atomic Energy Community (Euratom) (notified under document number C(1999) 3223)</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0819:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0819:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">4042</classCode>
+        <classCode scheme="eurovoc">5344</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0819-en." lang="en">
+    <body>
+      <head n="1">1999/819/Euratom: Commission Decision of 16 November 1999 concerning the accession to the 1994 Convention on Nuclear Safety by the European Atomic Energy Community (Euratom) (notified under document number C(1999) 3223)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 16 November 1999</p>
+      <p n="4">concerning the accession to the 1994 Convention on Nuclear Safety by the European Atomic Energy Community (Euratom)</p>
+      <p n="5">(notified under document number C(1999) 3223)</p>
+      <p n="6">(1999/819/Euratom)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Atomic Energy Community and in particular the second paragraph of Article 101 thereof,</p>
+      <p n="9">Having regard to the Council Decision of 7 December 1998 approving the accession of the European Atomic Energy Community to the Convention on Nuclear Safety,</p>
+      <p n="10">Whereas all Member States are Contracting Parties to the Convention on Nuclear Safety;</p>
+      <p n="11">Whereas the European Atomic Energy Community should accede to the Convention on Nuclear Safety,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Accession to the Convention on Nuclear Safety is hereby approved on behalf of the European Atomic Energy Community.</p>
+      <p n="15">The text of the Convention and the declaration by the European Atomic Energy Community according to the provisions of Article 30(4)(iii) of the Convention are attached to this Decision.</p>
+      <p n="16">Article 2</p>
+      <p n="17">The instruments of accession shall be deposited with the Director-General of the International Atomic Energy Agency, depositary of the Convention, the day following the adoption of this Decision.</p>
+      <p n="18">Done at Brussels, 16 November 1999.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Margot WALLSTRÖM</p>
+      <p n="21">Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

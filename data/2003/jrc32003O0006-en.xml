@@ -1,0 +1,114 @@
+<TEI.2 id="jrc32003O0006-en" n="32003O0006" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003O0006 English</title>
+        <title>Guideline of the European Central Bank of 4 April 2003 amending Guideline ECB/2001/3 on a Trans-European Automated Real-time Gross settlement Express Transfer system (TARGET), as amended on 27 February 2002 (ECB/2003/6)</title>
+      </titleStmt>
+      <extent>77 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003O0006:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003O0006:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1339</classCode>
+        <classCode scheme="eurovoc">2220</classCode>
+        <classCode scheme="eurovoc">4370</classCode>
+        <classCode scheme="eurovoc">4763</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+        <classCode scheme="eurovoc">5864</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003O0006-en." lang="en">
+    <body>
+      <head n="1">Guideline of the European Central Bank of 4 April 2003 amending Guideline ECB/2001/3 on a Trans-European Automated Real-time Gross settlement Express Transfer system (TARGET), as amended on 27 February 2002 (ECB/2003/6)</head>
+      <p n="2">Guideline of the European Central Bank</p>
+      <p n="3">of 4 April 2003</p>
+      <p n="4">amending Guideline ECB/2001/3 on a Trans-European Automated Real-time Gross settlement Express Transfer system (TARGET), as amended on 27 February 2002</p>
+      <p n="5">(ECB/2003/6)</p>
+      <p n="6">(2003/309/EC)</p>
+      <p n="7">THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK,</p>
+      <p n="8">Having regard to the Statute of the European System of Central Banks and of the European Central Bank, and in particular to Article 3.1, Article 12.1, Article 14.3 and Articles 17, 18 and 22 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) The fourth indent of Article 105(2) of the Treaty establishing the European Community and the fourth indent of Article 3.1 of the Statute empower the European Central Bank (ECB) and the national central banks (NCBs) to promote the smooth operation of payment systems.</p>
+      <p n="11">(2) In accordance with Article 22 of the Statute, the ECB and the NCBs may provide facilities to ensure efficient and sound clearing and payment systems within the Community and with other countries.</p>
+      <p n="12">(3) The Governing Council of the ECB (the Governing Council) decided on 27 November 2002 that the TARGET reimbursement scheme contained in Article 3(h) of Guideline ECB/2001/3(1) of 26 April 2001 on a Trans-European Automated Real-Time Gross Settlement Express Transfer System (TARGET), as amended by Guideline ECB/2002/1(2) of 27 February 2002 (the TARGET Guideline) should be replaced by a new TARGET Compensation Scheme that better reflects existing market practices than the present TARGET reimbursement scheme.</p>
+      <p n="13">Since the Governing Council decided that compensation offered under the TARGET Compensation Scheme is to be the common compensation offered by the European System of Central Banks (ESCB) in cases of a TARGET malfunctioning, the TARGET Compensation Scheme should be incorporated as a common rule for all national RTGS systems in a separate Article of the TARGET Guideline and not, as in the case of the TARGET reimbursement scheme, in an Article determining minimum common features of national RTGS systems.</p>
+      <p n="14">(4) In accordance with the principle decision taken by the Governing Council on 29 August 2002 to phase out the use of collateral that may be used to collateralise intraday credit for each NCB, which has declared its intention to use certain collateral located in a Member State that has not adopted the single currency, Article 3(g) of and Annex V to the TARGET Guideline have to be deleted and Article 3(f)5 of the TARGET Guideline has to be amended.</p>
+      <p n="15">(5) In accordance with Articles 12.1 and 14.3 of the Statute, ECB Guidelines form an integral part of Community law,</p>
+      <p n="16">HAS ADOPTED THIS GUIDELINE:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The TARGET Guideline shall be amended as follows:</p>
+      <p n="19">1. in Article 1(1), in the definition of "indirect participant" the wording between brackets shall be amended to read as follows: "(as defined in this Article)";</p>
+      <p n="20">2. in Article 1(1), the definitions of "TARGET reimbursement scheme" or the "reimbursement scheme" or the "scheme" shall be deleted;</p>
+      <p n="21">3. in Article 1(1), the following definitions shall be added:</p>
+      <p n="22">"- 'deposit facility' shall mean the deposit facility organised by the Eurosystem,"</p>
+      <p n="23">"- 'marginal lending facility' shall mean the marginal lending facility organised by the Eurosystem,";</p>
+      <p n="24">4. the definitions contained in Article 1(1) shall be rearranged in alphabetical order;</p>
+      <p n="25">5. Article 3(f)5 shall be amended as follows:</p>
+      <p n="26">"5. Intraday credit provided in accordance with Article 3(f) shall be free of interest.";</p>
+      <p n="27">6. Article 3(g) shall be deleted;</p>
+      <p n="28">7. Article 3(h) shall be deleted;</p>
+      <p n="29">8. a new Article 8 shall be inserted as follows:</p>
+      <p n="30">"Article 8</p>
+      <p n="31">TARGET Compensation Scheme</p>
+      <p n="32">1. General principles</p>
+      <p n="33">(a) In the event of a malfunctioning of TARGET, direct and indirect participants (for the purposes of this Article hereinafter referred to as TARGET participants) shall be entitled to submit claims for compensation in accordance with the rules laid down in this Article.</p>
+      <p n="34">(b) The TARGET Compensation Scheme shall apply to all national RTGS systems and to the ECB payment mechanism (EPM) and shall be available for all TARGET participants (including TARGET participants of national RTGS systems of participating Member States that are not counterparties to the Eurosystem monetary policy operations and TARGET participants of national RTGS systems of non-participating Member States) in relation to all TARGET payments (without distinguishing between domestic payments and cross-border payments). The TARGET Compensation Scheme shall not apply to customers in the EPM in accordance with the Terms and Conditions governing the use of the EPM, which are available on the ECB's web site (www.ecb.int) and are updated from time to time.</p>
+      <p n="35">(c) Unless otherwise decided by the Governing Council of the ECB, the TARGET Compensation Scheme shall not apply where the malfunctioning of TARGET is caused by:</p>
+      <p n="36">(i) external events beyond the control of the ESCB; or</p>
+      <p n="37">(ii) the failure of a third party other than the operator of the national RTGS system where the malfunctioning occurred.</p>
+      <p n="38">(d) Offers under the TARGET Compensation Scheme (compensation offers) shall be the only compensation offered by the ESCB in cases of a malfunctioning. The TARGET Compensation Scheme does not exclude the possibility for TARGET participants to avail themselves of other legal means to claim compensation in case of a malfunctioning of TARGET. However, the acceptance of a compensation offer by a TARGET participant shall constitute its irrevocable agreement that it thereby waives all claims (including any claims for consequential damages) it may have against any member of the ESCB, in accordance with national laws or otherwise, and that the receipt by it of the corresponding compensation payment shall be in full and final settlement of all such claims. The TARGET participant shall indemnify the ESCB up to the amount received under the TARGET Compensation Scheme from any further compensation which might be claimed by any other TARGET participant concerning the respective payment order.</p>
+      <p n="39">(e) The making of any compensation offers and/or payments shall not constitute an admission of liability by any NCB or the ECB in respect of a malfunctioning.</p>
+      <p n="40">2. Conditions for compensation</p>
+      <p n="41">(a) With respect to a sending TARGET participant, a claim for compensation shall be considered if due to a malfunctioning:</p>
+      <p n="42">(i) the same day processing of a payment order was not completed; or</p>
+      <p n="43">(ii) such TARGET participant can show that it had the intention to enter a payment order into TARGET but was unable to do so due to a stop-sending status of a national RTGS system.</p>
+      <p n="44">(b) With respect to a receiving TARGET participant, a claim for compensation shall be considered if due to a malfunctioning:</p>
+      <p n="45">(i) such TARGET participant did not receive a TARGET payment that it was expecting to receive on the day of malfunctioning; and</p>
+      <p n="46">(ii) such TARGET participant had recourse to the marginal lending facility or, if a TARGET participant does not have access to the marginal lending facility, such TARGET participant was left with a debit balance or had a spill-over from intraday credit into overnight credit on its RTGS account at the close of business of TARGET or had to borrow amounts from the respective NCB; and</p>
+      <p n="47">(iii) either the NCB of the national RTGS system where the malfunctioning occurred (the malfunctioning NCB) was the receiving NCB, or the malfunctioning occurred so late in the TARGET operating day that it was technically impossible or impracticable for the receiving TARGET participant to have recourse to the money market.</p>
+      <p n="48">3. Calculation of compensation</p>
+      <p n="49">3.1. Compensation of sending TARGET participants</p>
+      <p n="50">(a) The compensation offer under the TARGET Compensation Scheme shall consist of an administration fee only or an administration fee and an interest compensation.</p>
+      <p n="51">(b) The administration fee shall be determined at EUR 100 for the first payment order not completed on the processing date and, in case of multiple payment adjustments, EUR 50 for each of the next four payment orders and EUR 25 for each payment order thereafter. The administration fee shall be determined by reference to each receiving TARGET participant.</p>
+      <p n="52">(c) The interest compensation shall be determined by applying the rate (the reference rate), from day-to-day whichever is the lower of the EONIA rate (the euro overnight index average) and the marginal lending rate, to the amount of the payment order not processed as a result of a malfunctioning for each day in the period starting on the date of the entering or the intended entering of the payment order into TARGET and ending on the date that the payment order was or could have been successfully completed (the period of malfunctioning). When calculating the interest compensation, the proceeds of any actual use of funds by having recourse to the deposit facility (or, in the case of TARGET participants of national RTGS systems of participating Member States that are not counterparties to the Eurosystem monetary policy operations, the remuneration received on excess funds in the settlement account, or, in the case of TARGET participants of national RTGS systems of non-participating Member States, the remuneration received for incurring additional positive end-of-day balances on the RTGS account) shall be deducted from the amount of compensation.</p>
+      <p n="53">(d) In the case of the placing of funds in the market or using the funds for the fulfilment of minimum reserve requirements, the TARGET participant shall not receive any interest compensation.</p>
+      <p n="54">(e) With respect to sending TARGET participants of national RTGS systems of non-participating Member States, any limit to the remuneration on the aggregate amount of overnight deposits on the RTGS accounts of such TARGET participants shall be disregarded to the extent that such amount can be attributed to the malfunctioning.</p>
+      <p n="55">3.2. Compensation of receiving TARGET participants</p>
+      <p n="56">(a) The compensation offer under the TARGET Compensation Scheme shall consist of an interest compensation only.</p>
+      <p n="57">(b) The calculation method for the interest compensation as referred to in 3.1(c) above shall apply, except that the interest compensation shall be based on the difference between the marginal lending rate and the reference rate, and shall be calculated on the amount of the recourse to the marginal lending facility as a result of the malfunctioning.</p>
+      <p n="58">(c) With respect to receiving TARGET participants of (i) national RTGS systems of participating Member States that are not counterparties to the Eurosystem monetary policy operations, and (ii) national RTGS systems of non-participating Member States, to the extent that a debit balance or a spill-over from intraday credit into overnight credit or the need to borrow amounts from the respective NCB can be attributed to the malfunctioning, that part of the applicable penalty rate (as stipulated by the applicable RTGS rules in such cases) which is above the marginal lending rate, shall be waived (and disregarded in future cases of spill-over) and for TARGET participants of national RTGS systems referred to in (ii) above, it shall be ignored for the purpose of access to intraday credit and/or continued participation in the national RTGS system concerned.</p>
+      <p n="59">4. Procedural rules</p>
+      <p n="60">(a) Any claim for compensation shall be submitted on a claim form (the content and form of which shall be as determined and made public by the ECB from time to time) together with any relevant information and evidence required thereby. A sending TARGET participant shall submit one separate claim form in respect of each receiving TARGET participant. A receiving TARGET participant shall submit one separate claim form in respect of each sending TARGET participant. Claims in relation to a specific TARGET payment can be submitted only once, either by a direct or an indirect participant on their own behalf or by a direct participant on behalf of an indirect participant.</p>
+      <p n="61">(b) TARGET participants shall submit their claim form(s) to the NCB where the RTGS account that has or should have been debited or credited is maintained (the home NCB) within two weeks of the date of the malfunctioning. Any additional information and evidence requested by the home NCB shall be supplied within two weeks of such request being made.</p>
+      <p n="62">(c) The Governing Council of the ECB shall carry out the assessment of all claims received and decide whether compensation offers shall be made. Unless otherwise decided by the Governing Council of the ECB and communicated to the TARGET participants, such assessment shall be made no later than twelve weeks after the malfunctioning.</p>
+      <p n="63">(d) The malfunctioning NCB shall communicate the result of the assessment referred to in (c) above to the relevant TARGET participants. If the assessment comprises a compensation offer, the TARGET participants concerned shall, within four weeks of the communication of such offer, either reject the offer or accept it, in respect of each payment order comprised within each claim, by signing a standard letter of acceptance (the content and form of which shall be determined and made public by the ECB from time to time). If such letter has not been received by the malfunctioning NCB within that four week period, the TARGET participants concerned shall be treated as having rejected the compensation offer.</p>
+      <p n="64">(e) Compensation payments shall be made by the malfunctioning NCB upon receipt of the TARGET participant's letter of acceptance. There shall be no interest payable on any compensation payment."</p>
+      <p n="65">9. Articles 8, 9 and 10 shall be renumbered as Articles 9, 10 and 11 respectively;</p>
+      <p n="66">10. Annex V shall be deleted.</p>
+      <p n="67">Article 2</p>
+      <p n="68">Final provisions</p>
+      <p n="69">1. This Guideline is addressed to the national central banks of participating Member States.</p>
+      <p n="70">2. This Guideline shall enter into force on 1 July 2003.</p>
+      <p n="71">3. This Guideline shall be published in the Official Journal of the European Union.</p>
+      <p n="72">Done at Frankfurt am Main, 4 April 2003.</p>
+      <p n="73">On behalf of the Governing Council of the ECB</p>
+      <p n="74">The President</p>
+      <p n="75">Willem F. Duisenberg</p>
+      <p n="76">(1) OJ L 140, 24.5.2001, p. 72.</p>
+      <p n="77">(2) OJ L 67, 9.3.2002, p. 74.</p>
+    </body>
+  </text>
+</TEI.2>

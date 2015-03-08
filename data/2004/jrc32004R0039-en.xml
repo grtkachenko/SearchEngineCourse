@@ -1,0 +1,58 @@
+<TEI.2 id="jrc32004R0039-en" n="32004R0039" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0039 English</title>
+        <title>Commission Regulation (EC) No 39/2004 of 9 January 2004 amending Annex V to Council Regulation (EC) No 1260/2001 on the common organisation of the markets in the sugar sector</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0039:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0039:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4314</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0039-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 39/2004 of 9 January 2004 amending Annex V to Council Regulation (EC) No 1260/2001 on the common organisation of the markets in the sugar sector</head>
+      <p n="2">Commission Regulation (EC) No 39/2004</p>
+      <p n="3">of 9 January 2004</p>
+      <p n="4">amending Annex V to Council Regulation (EC) No 1260/2001 on the common organisation of the markets in the sugar sector</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1260/2001 of 19 June 2001 on the common organisation of the markets in the sugar sector(1), and in particular Article 27(15) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 27 of Regulation (EC) No 1260/2001 provides for export refunds to be granted on certain products referred to in that Regulation when exported in the form of goods listed in Annex V thereto, in particular live yeast falling within CN codes 2102 10 31 and 2102 10 39.</p>
+      <p n="10">(2) Under Article 1(2)(f) of Commission Regulation (EC) No 314/2002 of 20 February 2002 laying down detailed rules for the application of the quota system in the sugar sector(2) from 1 February 2004 quantities of syrups used in making live yeast are excluded from the calculation of sugar production for the purposes of Articles 13 to 18 of Regulation (EC) No 1260/2001. In the interests of consistency, the possibility of granting export refunds for quantities of sugar used for the production of live yeast should be abolished from the same date.</p>
+      <p n="11">(3) Annex V to Regulation (EC) No 1260/2001 should therefore be amended accordingly.</p>
+      <p n="12">(4) The Management Committee for Sugar has not delivered an opinion within the time limit set by its chairman,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">In Annex V to Regulation (EC) No 1260/2001, the lines corresponding to CN codes ex 2102, 2102 10, 2102 10 31 and 2102 10 39 are deleted.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.</p>
+      <p n="18">It shall apply from 1 February 2004.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 9 January 2004.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz Fischler</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 178, 30.6.2001, p. 1. Regulation as last amended by Commission Regulation (EC) No 2196/2003 (OJ L 328, 17.11.2003, p. 17).</p>
+      <p n="25">(2) OJ L 50, 21.2.2002, p. 40. Regulation as last amended by Regulation (EC) No 38/2004 (see p. 13 of this Official Journal).</p>
+    </body>
+  </text>
+</TEI.2>

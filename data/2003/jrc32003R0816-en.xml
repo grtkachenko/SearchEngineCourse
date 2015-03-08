@@ -1,0 +1,61 @@
+<TEI.2 id="jrc32003R0816-en" n="32003R0816" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0816 English</title>
+        <title>Commission Regulation (EC) No 816/2003 of 12 May 2003 amending Regulation (EC) No 2808/98 laying down detailed rules for the application of the agrimonetary system for the euro in agriculture</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0816:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0816:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1974</classCode>
+        <classCode scheme="eurovoc">2443</classCode>
+        <classCode scheme="eurovoc">2511</classCode>
+        <classCode scheme="eurovoc">4370</classCode>
+        <classCode scheme="eurovoc">4390</classCode>
+        <classCode scheme="eurovoc">4395</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0816-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 816/2003 of 12 May 2003 amending Regulation (EC) No 2808/98 laying down detailed rules for the application of the agrimonetary system for the euro in agriculture</head>
+      <p n="2">Commission Regulation (EC) No 816/2003</p>
+      <p n="3">of 12 May 2003</p>
+      <p n="4">amending Regulation (EC) No 2808/98 laying down detailed rules for the application of the agrimonetary system for the euro in agriculture</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2799/98 of 15 December 1998 establishing agrimonetary arrangements for the euro(1), and in particular Article 9 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 4 of Commission Regulation (EC) No 2808/98(2), as last amended by Regulation (EC) No 2452/2000(3), provides that the exchange rate to be used for the conversion into national currency of the aid per hectare and the amounts of a structural or environmental character is the average of the exchange rates applicable during the month preceding the date of the operative event calculated pro rata temporis. How that average is calculated should be laid down.</p>
+      <p n="10">(2) Regulation (EC) No 2808/98 should be amended accordingly.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinions of the Management Committees concerned,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The following sentence is added to Article 4(3) of Regulation (EC) No 2808/98:"The average of the exchange rates shall be fixed by the Commission during the month following the date of the operative event."</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 12 May 2003.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 349, 24.12.1998, p. 1.</p>
+      <p n="23">(2) OJ L 349, 24.12.1998, p. 36.</p>
+      <p n="24">(3) OJ L 282, 8.11.2000, p. 9.</p>
+    </body>
+  </text>
+</TEI.2>

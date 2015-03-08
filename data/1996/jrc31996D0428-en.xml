@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31996D0428-en" n="31996D0428" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0428 English</title>
+        <title>96/428/EC: Council Decision of 25 June 1996 on acceptance by the Community of the Agreement to promote compliance with international conservation and management measures by fishing vessels on the high seas</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0428:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0428:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1159</classCode>
+        <classCode scheme="eurovoc">134</classCode>
+        <classCode scheme="eurovoc">216</classCode>
+        <classCode scheme="eurovoc">4829</classCode>
+        <classCode scheme="eurovoc">5420</classCode>
+        <classCode scheme="eurovoc">5873</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0428-en." lang="en">
+    <body>
+      <head n="1">96/428/EC: Council Decision of 25 June 1996 on acceptance by the Community of the Agreement to promote compliance with international conservation and management measures by fishing vessels on the high seas</head>
+      <p n="2">COUNCIL DECISION of 25 June 1996 on acceptance by the Community of the Agreement to promote compliance with international conservation and management measures by fishing vessels on the high seas (96/428/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof, in conjunction with the first sentence of Article 228 (2) and with the first subparagraph of Article 228 (3),</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas international cooperation is essential to ensure the conservation and the rational, responsible and sustainable utilization of the biological resources of the high seas;</p>
+      <p n="8">Whereas the Community has signed the United Nations Convention on the Law of the Sea, which obliges all members of the international community to cooperate in the conservation and management of the biological resources of the high seas;</p>
+      <p n="9">Whereas, as regards maritime fishing, the Community has the authority to adopt fishery resource conservation and management measures and to conclude agreements in this field with third countries or international organizations, as set out in the Declaration of Competence which the Community submitted at the time it joined the Food and Agriculture Organization of the United Nations;</p>
+      <p n="10">Whereas the practice of requesting the allocation or change of flag by flying vessels in order to circumvent international measures for the conservation and management of living marine resources should be discouraged;</p>
+      <p n="11">Whereas each Member State must therefore meet its responsibilities to ensure that the fishing vessels authorized to fly its flag comply with international conservation and management measures by appropriate and effective means coordinated at international level;</p>
+      <p n="12">Whereas to that end the Community took part in international negotiations which culminated in the approval by the conference of the Food and Agriculture Organization of the United Nations at its twenty-seventh session in November 1993 of the Agreement to promote compliance with international conservation and management measures by fishing vessels on the high seas;</p>
+      <p n="13">Whereas that Agreement is a useful framework for strengthening international cooperation to ensure that the effectiveness of international conservation and management measures is not undermined;</p>
+      <p n="14">Whereas that Agreement will form an integral part of the International Code of Conduct for Responsible Fishing called for in the Declaration of Cancún of May 1992;</p>
+      <p n="15">Whereas Community fishermen fish on the high seas and it is therefore in the Community's interest to accept that Agreement,</p>
+      <p n="16">HAS DECIDED AS FOLLOWS:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The European Community hereby accepts the Agreement to promote compliance with international conservation and management measures by fishing vessels on the high seas.</p>
+      <p n="19">The text of the Agreement is attached to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The President of the Council shall designate the person authorized to lodge the instrument of acceptance with the Director-General of the Food and Agriculture Organization of the United Nations in accordance with Article X (2) of the Agreement.</p>
+      <p n="22">Done at Luxembourg, 25 June 1996.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">M. PINTO</p>
+      <p n="26">(1) OJ No C 229, 18. 8. 1994, p. 10.</p>
+      <p n="27">(2) OJ No C 18, 23. 1. 1995, p. 438.</p>
+    </body>
+  </text>
+</TEI.2>

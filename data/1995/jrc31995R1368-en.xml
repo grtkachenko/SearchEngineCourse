@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31995R1368-en" n="31995R1368" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R1368 English</title>
+        <title>Commission Regulation (EC) No 1368/95 of 16 June 1995 amending Regulation (EEC) No 2921/90 on aid for the production of casein and caseinates from skimmed milk</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1368:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R1368:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1570</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">4227</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R1368-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1368/95 of 16 June 1995 amending Regulation (EEC) No 2921/90 on aid for the production of casein and caseinates from skimmed milk</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1368/95 of 16 June 1995 amending Regulation (EEC) No 2921/90 on aid for the production of casein and caseinates from skimmed milk</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 804/68 of 27 June 1968 on the common organization of the market in milk and milk products (1), as last amended by the Act of Accession of Austria, Finland and Sweden and by Regulation (EC) No 3290/94 (2), and in particular Article 11 (3) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EEC) No 2921/90 (3), as last amended by Regulation (EEC) No 1756/93 (4), provides that aid for the production of casein and caseinates from skimmed milk is only granted where the casein or caseinates produced meet certain composition requirements; whereas experience gained shows that casein containing more than 5 % but not more than 17 % milk protein other than casein no longer meets the current requirements of the market, which is shifting to high-quality products; whereas the aid for such casein should accordingly be discontinued;</p>
+      <p n="7">Whereas, in view of the trend on the market in such products on the one hand and in skimmed-milk powder on the other, the aid fixed in that Regulation for skimmed milk processed into casein or caseinates should be reduced;</p>
+      <p n="8">Whereas the Management Committee for Milk and Milk Products has not delivered an opinion within the time limit set by its chairman,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EEC) No 2921/90 is hereby amended as follows:</p>
+      <p n="12">1. Article 2 (1) is replaced by the following:</p>
+      <p n="13">'1. The aid per 100 kilograms of skimmed milk processed into casein or caseinates as referred to in paragraph 2 shall be ECU 6,75.`;</p>
+      <p n="14">2. Article 2 (2) (d) is deleted and Article 2 (2) (e) becomes Article 2 (2) (d);</p>
+      <p n="15">3. the second sentence of Article 3 (a) is replaced by the following:</p>
+      <p n="16">'The description to be shown on products as referred to in Annex III shall be as follows:</p>
+      <p n="17">"Caseinates containing more than 5 % but not more than 17 %, calculated on the total milk protein content, of simultaneously precipitated milk protein other than casein.";`;</p>
+      <p n="18">4. Annex III is replaced by the Annex hereto.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 16 June 1995.</p>
+      <p n="23">For the Commission Franz FISCHLER Member of the Commission</p>
+      <p n="24">ANNEX</p>
+      <p n="25">'ANNEX III COMPOSITION REQUIREMENTS Caseinates with a milk protein content not including casein of not more than 17 % of total milk protein content &gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

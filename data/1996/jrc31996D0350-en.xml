@@ -1,0 +1,89 @@
+<TEI.2 id="jrc31996D0350-en" n="31996D0350" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0350 English</title>
+        <title>96/350/EC: Commission Decision of 24 May 1996 adapting Annexes IIA and IIB to Council Directive 75/442/EEC on waste (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>53 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0350:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0350:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1158</classCode>
+        <classCode scheme="eurovoc">2825</classCode>
+        <classCode scheme="eurovoc">3885</classCode>
+        <classCode scheme="eurovoc">6049</classCode>
+        <classCode scheme="eurovoc">718</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0350-en." lang="en">
+    <body>
+      <head n="1">96/350/EC: Commission Decision of 24 May 1996 adapting Annexes IIA and IIB to Council Directive 75/442/EEC on waste (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 24 May 1996 adapting Annexes IIA and IIB to Council Directive 75/442/EEC on waste (Text with EEA relevance) (96/350/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 75/442/EEC of 15 July 1975 on waste (1), as amended by Directive 91/692/EEC (2), and in particular Article 17 thereof,</p>
+      <p n="6">Whereas the aforesaid provision enables the Commission to adapt Annexes IIA and IIB to Directive 75/442/EEC;</p>
+      <p n="7">Whereas the Commission is assisted in the task by the Committee, composed of representatives of the Member States and chaired by the representative of the Commission, established pursuant to Article 18 of Directive 75/442/EEC;</p>
+      <p n="8">Whereas the measures envisaged by this Decision are in accordance with the opinion expressed by the aforesaid Committee,</p>
+      <p n="9">HAS ADOPTED THIS DECISION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Annexes IIA and IIB to Directive 75/442/EEC are replaced by Annexes IIA and IIB to the present Decision.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Decision is addressed to the Member States.</p>
+      <p n="14">Done at Brussels, 24 May 1996.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Ritt BJERREGAARD</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ No L 194, 25. 7. 1975, p. 47.</p>
+      <p n="19">(2) OJ No L 377, 31. 12. 1991, p. 48.</p>
+      <p n="20">ANNEX IIA</p>
+      <p n="21">DISPOSAL OPERATIONS</p>
+      <p n="22">NB: This Annex is intended to list disposal operations such as they occur in practice. In accordance with Article 4 waste must be disposed of without endangering human health and without the use of processes or methods likely to harm the environment.</p>
+      <p n="23">D 1 Deposit into or onto land (e.g. landfill, etc.)</p>
+      <p n="24">D 2 Land treatment (e.g. biodegradation of liquid or sludgy discards in soils, etc.)</p>
+      <p n="25">D 3 Deep injection (e.g. injection of pumpable discards into wells, salt domes or naturally occurring repositories, etc.)</p>
+      <p n="26">D 4 Surface impoundment (e.g. placement of liquid or sludgy discards into pits, ponds or lagoons, etc.)</p>
+      <p n="27">D 5 Specially engineered landfill (e.g. placement into lined discrete cells which are capped and isolated from one another and the environment, etc.)</p>
+      <p n="28">D 6 Release into a water body except seas/oceans</p>
+      <p n="29">D 7 Release into seas/oceans including sea-bed insertion</p>
+      <p n="30">D 8 Biological treatment not specified elsewhere in this Annex which results in final compounds or mixtures which are discarded by means of any of the operations numbered D 1 to D 12</p>
+      <p n="31">D 9 Physico-chemical treatment not specified elsewhere in this Annex which results in final compounds or mixtures which are discarded by means of any of the operations numbered D 1 to D 12 (e.g. evaporation, drying, calcination, etc.)</p>
+      <p n="32">D 10 Incineration on land</p>
+      <p n="33">D 11 Incineration at sea</p>
+      <p n="34">D 12 Permanent storage (e.g. emplacement of containers in a mine, etc.)</p>
+      <p n="35">D 13 Blending or mixing prior to submission to any of the operations numbered D 1 to D 12</p>
+      <p n="36">D 14 Repackaging prior to submission to any of the operations numbered D 1 to D 13</p>
+      <p n="37">D 15 Storage pending any of the operations numbered D 1 to D 14 (excluding temporary storage, pending collection, on the site where it is produced)</p>
+      <p n="38">ANNEX IIB</p>
+      <p n="39">RECOVERY OPERATIONS</p>
+      <p n="40">NB: This Annex is intended to list recovery operations as they occur in practice. In accordance with Article 4 waste must be recovered without endangering human health and without the use of processes or methods likely to harm the environment.</p>
+      <p n="41">R 1 Use principally as a fuel or other means to generate energy</p>
+      <p n="42">R 2 Solvent reclamation/regeneration</p>
+      <p n="43">R 3 Recycling/reclamation of organic substances which are not used as solvents (including composting and other biological transformation processes)</p>
+      <p n="44">R 4 Recycling/reclamation of metals and metal compounds</p>
+      <p n="45">R 5 Recycling/reclamation of other inorganic materials</p>
+      <p n="46">R 6 Regeneration of acids or bases</p>
+      <p n="47">R 7 Recovery of components used for pollution abatement</p>
+      <p n="48">R 8 Recovery of components from catalysts</p>
+      <p n="49">R 9 Oil re-refining or other reuses of oil</p>
+      <p n="50">R 10 Land treatment resulting in benefit to agriculture or ecological improvement</p>
+      <p n="51">R 11 Use of wastes obtained from any of the operations numbered R 1 to R 10</p>
+      <p n="52">R 12 Exchange of wastes for submission to any of the operations numbered R 1 to R 11</p>
+      <p n="53">R 13 Storage of wastes pending any of the operations numbered R 1 to R 12 (excluding temporary storage, pending collection, on the site where it is produced)</p>
+    </body>
+  </text>
+</TEI.2>

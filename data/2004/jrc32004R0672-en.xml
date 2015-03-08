@@ -1,0 +1,58 @@
+<TEI.2 id="jrc32004R0672-en" n="32004R0672" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0672 English</title>
+        <title>Commission Regulation (EC) No 672/2004 of 13 April 2004 setting, for the 2003/2004 marketing year, the amounts to be paid to olive oil producer organisations and associations thereof recognised under Council Regulation No 136/66/EEC</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0672:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0672:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1264</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0672-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 672/2004 of 13 April 2004 setting, for the 2003/2004 marketing year, the amounts to be paid to olive oil producer organisations and associations thereof recognised under Council Regulation No 136/66/EEC</head>
+      <p n="2">Commission Regulation (EC) No 672/2004</p>
+      <p n="3">of 13 April 2004</p>
+      <p n="4">setting, for the 2003/2004 marketing year, the amounts to be paid to olive oil producer organisations and associations thereof recognised under Council Regulation No 136/66/EEC</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation No 136/66/EEC of 22 September 1966 on the establishment of a common organisation of the market in oils and fats(1), and in particular Article 20d(4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 20d(1) of Regulation No 136/66/EEC provides for a percentage of production aid to be withheld to help finance the work of recognised producer organisations and associations thereof. For the 1998/1999, 1999/2000, 2000/2001, 2001/2002, 2002/2003 and 2003/2004 marketing years that percentage is 0,8 %.</p>
+      <p n="10">(2) Article 21(1) of Commission Regulation (EC) No 2366/98 of 30 October 1998 laying down detailed rules for the application of the system of production aid for olive oil for the 1998/1999, 1999/2000, 2000/2001, 2001/2002, 2002/2003 and 2003/2004 marketing years(2) provides that the unit amounts to be paid to producer organisations and associations thereof are to be fixed on the basis of the forecasts of the overall sum to be distributed. The funds that will become available in each Member State as a result of the amount withheld as referred to above must be distributed in an appropriate way among those eligible.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Oils and Fats,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">For the 2003/04 marketing year, the amounts provided for in Article 21(1)(a) and (b) of Regulation (EC) No 2366/98 shall be as follows:</p>
+      <p n="15">&gt;TABLE&gt;</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 13 April 2004.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ 172, 30.9.1966, p. 3025/66. Regulation as last amended by Regulation (EC) No 1513/2001 (OJ L 201, 26.7.2001, p. 4).</p>
+      <p n="24">(2) OJ L 293, 31.10.1998, p. 50. Regulation as last amended by Regulation (EC) No 1780/2003 (OJ L 260, 11.10.2003, p. 6).</p>
+    </body>
+  </text>
+</TEI.2>

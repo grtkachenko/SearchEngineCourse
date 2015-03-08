@@ -1,0 +1,56 @@
+<TEI.2 id="jrc31984L0443-en" n="31984L0443" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31984L0443 English</title>
+        <title>Commission Directive 84/443/EEC of 26 July 1984 amending the Annex to Council Directive 82/471/EEC concerning certain products used in animal nutrition</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31984L0443:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31984L0443:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31984L0443-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 84/443/EEC of 26 July 1984 amending the Annex to Council Directive 82/471/EEC concerning certain products used in animal nutrition</head>
+      <p n="2">COMMISSION DIRECTIVE of 26 July 1984 amending the Annex to Council Directive 82/471/EEC concerning certain products used in animal nutrition (84/443/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 82/471/EEC of 30 June 1982 concerning certain products used in animal nutrition (1), and in particular Article 6 thereof,</p>
+      <p n="6">Whereas Directive 82/471/EEC provides for the content of the Annexes to be constantly adjusted to the progress of scientific and technical knowledge;</p>
+      <p n="7">Whereas it is appropriate to subdivide the group "non-protein nitrogenous compounds and similar products" in order to establish a clear distinction between those products belonging respectively to the groups "non-protein nitrogenous compounds", "amino acids and their salts", and "hydroxy-analogues of aminoacids" ; whereas, as a result of this subdivision and in the light of the studies which have been made, the use of new products should be authorized under certain conditions;</p>
+      <p n="8">Whereas it has been found necessary to alter the composition characteristics and special provisions laid down for certain products contained in the Annex;</p>
+      <p n="9">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee for Feedingstuffs,</p>
+      <p n="10">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Annex to Directive 82/471/EEC shall be amended in accordance with the Annex hereto.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 1, not later than 30 June 1985. They shall immediately inform the Commission thereof.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Directive is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 26 July 1984.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Poul DALSAGER</p>
+      <p n="20">Member of the Commission (1) OJ No L 213, 21.7.1982, p. 8.</p>
+      <p n="21">ANNEX</p>
+      <p n="22">1. The heading of column 3, "Chemical designation of product or identity of micro-organism", is replaced by "Designation of nutritive principle or identity of micro-organism".</p>
+      <p n="23">2. In the English text, the heading of column 4 "Nutrient substrate (specifications, if any)", is replaced by the heading "Culture substrate (specifications, if any)".</p>
+      <p n="24">3. The following footnote is added : "The contents laid down or to be declared in accordance with columns 5 and 7 refer to the product as such."</p>
+      <p n="25">4. Point 2, "Non-protein nitrogenous compounds and similar products in the following groups", is replaced by the following: &gt;PIC FILE= "T0026201"&gt;</p>
+      <p n="26">&gt;PIC FILE= "T0026202"&gt;</p>
+      <p n="27">&gt;PIC FILE= "T0026203"&gt;</p>
+      <p n="28">&gt;PIC FILE= "T0026204"&gt;</p>
+      <p n="29">&gt;PIC FILE= "T0026205"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

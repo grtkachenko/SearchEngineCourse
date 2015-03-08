@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32003D0011-en" n="32003D0011" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0011 English</title>
+        <title>2003/11/EC: Commission Decision of 10 January 2003 amending Council Directive 85/511/EEC as regards the lists of laboratories authorised to handle live foot-and-mouth disease virus (Text with EEA relevance) (notified under document number C(2002) 5559)</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0011:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0011:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1598</classCode>
+        <classCode scheme="eurovoc">3660</classCode>
+        <classCode scheme="eurovoc">837</classCode>
+        <classCode scheme="eurovoc">994</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0011-en." lang="en">
+    <body>
+      <head n="1">2003/11/EC: Commission Decision of 10 January 2003 amending Council Directive 85/511/EEC as regards the lists of laboratories authorised to handle live foot-and-mouth disease virus (Text with EEA relevance) (notified under document number C(2002) 5559)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 10 January 2003</p>
+      <p n="4">amending Council Directive 85/511/EEC as regards the lists of laboratories authorised to handle live foot-and-mouth disease virus</p>
+      <p n="5">(notified under document number C(2002) 5559)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/11/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 85/511/EEC of 18 November 1985 introducing Community measures for the control of foot-and-mouth disease(1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular the second subparagraph of Article 13(2) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) The cessation of routine vaccination against foot-and-mouth disease virus in the Community in 1991 has increased the susceptibility of Community herds to this disease. It is therefore essential to ensure that laboratories which handle the virus do so under secure conditions, to avoid the dissemination of the virus which might endanger the Community herds.</p>
+      <p n="13">(2) Directive 85/511/EEC lists the national and commercial laboratories authorised to handle the live foot-and-mouth disease virus. That Directive requires those laboratories to comply with the minimum standards recommended by the Food and Agriculture Organisation (FAO) of the United Nations.</p>
+      <p n="14">(3) Certain Member States have decided to discontinue the handling of the foot-and-mouth disease virus in certain laboratories, while other Member States have provided the necessary guarantees that the required standards are complied with by laboratories which they have approved for that purpose. In addition, the details of certain laboratories listed in Directive 85/511/EEC have changed.</p>
+      <p n="15">(4) It is therefore necessary to update the lists of laboratories as set out in Annexes A and B to Directive 85/511/EEC.</p>
+      <p n="16">(5) Directive 85/511/EEC should therefore be amended accordingly.</p>
+      <p n="17">(6) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">Annexes A and B to Council Directive 85/511/EEC are replaced by the text in the Annex to this Decision.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 10 January 2003.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 315, 26.11.1985, p. 11.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">""</p>
+      <p n="30">ANNEX A</p>
+      <p n="31">Commercial laboratories authorised to handle live foot-and-mouth disease virus for vaccine production</p>
+      <p n="32">&gt;TABLE&gt;</p>
+      <p n="33">ANNEX B</p>
+      <p n="34">National laboratories authorised to handle live foot-and-mouth disease virus</p>
+      <p n="35">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

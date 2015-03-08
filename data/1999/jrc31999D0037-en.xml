@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31999D0037-en" n="31999D0037" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0037 English</title>
+        <title>1999/37/EC: Council Decision of 26 November 1998 on the position to be taken by the European Community on the rules concerning the conduct of the conciliation of transit disputes to be adopted by the Energy Charter Conference</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0037:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0037:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2498</classCode>
+        <classCode scheme="eurovoc">3112</classCode>
+        <classCode scheme="eurovoc">4507</classCode>
+        <classCode scheme="eurovoc">5485</classCode>
+        <classCode scheme="eurovoc">5525</classCode>
+        <classCode scheme="eurovoc">5816</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0037-en." lang="en">
+    <body>
+      <head n="1">1999/37/EC: Council Decision of 26 November 1998 on the position to be taken by the European Community on the rules concerning the conduct of the conciliation of transit disputes to be adopted by the Energy Charter Conference</head>
+      <p n="2">COUNCIL DECISION of 26 November 1998 on the position to be taken by the European Community on the rules concerning the conduct of the conciliation of transit disputes to be adopted by the Energy Charter Conference (1999/37/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Article 3(2) of Council and Commission Decision 98/181/EC, ECSC, Euratom (1),</p>
+      <p n="6">Having regard to the initiative from the Commission,</p>
+      <p n="7">Whereas the Energy Charter Treaty was signed on 17 December 1994 by the European Communities and their Member States;</p>
+      <p n="8">Whereas the European Communities and a large majority of their Member States deposited their instruments of approval or ratification of the Energy Charter Treaty on 16 December 1997 with the Depositary, the Government of the Portuguese Republic;</p>
+      <p n="9">Whereas the remaining Member States will ratify the Energy Charter Treaty soon;</p>
+      <p n="10">Whereas the Energy Charter Treaty entered into force on 16 April 1998;</p>
+      <p n="11">Whereas Article 7 of the Energy Charter Treaty provides that each Contracting Party is to take the necessary measures to facilitate the transit of energy materials and products consistent with the principle of freedom of transit and without distinction as to the origin, destination or ownership of such energy materials and products or discrimination as to pricing on the basis of such distinctions, and without imposing any unreasonable delays, restrictions or charges;</p>
+      <p n="12">Whereas the said Article also contains provisions which are applicable to a dispute over any matter arising from transit;</p>
+      <p n="13">Whereas Article 7 of the Energy Charter Treaty provides that the Charter Conference is to adopt standard provisions concerning the conduct of conciliation and the compensation of conciliators;</p>
+      <p n="14">Whereas draft rules concerning the conduct of the conciliation of transit disputes were discussed at the Charter Conference held on 23/24 April 1998; whereas the Charter Conference agreed that these draft rules should serve as guidance pending their formal approval;</p>
+      <p n="15">Whereas the Charter Conference to be held on 3/4 December 1998 should formally adopt these draft rules as finalized in the meantime;</p>
+      <p n="16">Whereas the Community should approve these draft rules in the Charter Conference,</p>
+      <p n="17">HAS DECIDED AS FOLLOWS:</p>
+      <p n="18">Sole Article</p>
+      <p n="19">The rules concerning the conduct of the conciliation of transit disputes, as set out in the Annex, shall be approved on behalf of the Community in the Charter Conference (2).</p>
+      <p n="20">Done at Brussels, 26 November 1998.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">M. BARTENSTEIN</p>
+      <p n="24">(1) OJ L 69, 9. 3. 1998, p. 1.</p>
+      <p n="25">(2) These rules were formally adopted by the Charter Conference on 3 December 1998.</p>
+    </body>
+  </text>
+</TEI.2>

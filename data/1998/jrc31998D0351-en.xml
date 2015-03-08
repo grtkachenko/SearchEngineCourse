@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31998D0351-en" n="31998D0351" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0351 English</title>
+        <title>98/351/EC: Commission Decision of 29 May 1998 setting the date on which dispatch from Northern Ireland of bovine products under the Export Certified Herds Scheme may commence by virtue of Article 6(5) of Council Decision 98/256/EC (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0351:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0351:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1505</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+        <classCode scheme="eurovoc">3730</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">5034</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0351-en." lang="en">
+    <body>
+      <head n="1">98/351/EC: Commission Decision of 29 May 1998 setting the date on which dispatch from Northern Ireland of bovine products under the Export Certified Herds Scheme may commence by virtue of Article 6(5) of Council Decision 98/256/EC (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 29 May 1998 setting the date on which dispatch from Northern Ireland of bovine products under the Export Certified Herds Scheme may commence by virtue of Article 6(5) of Council Decision 98/256/EC (Text with EEA relevance) (98/351/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Directive 92/118/EEC (2),</p>
+      <p n="6">Having regard to Council Directive 89/662/EEC of 11 December 1989 concerning veterinary checks in intra-Community trade with a view to the completion of the internal market (3), as last amended by Directive 92/118/EEC,</p>
+      <p n="7">Having regard to Council Decision 98/256/EC of 16 March 1998 concerning emergency measures to protect against bovine spongiform encephalopathy, amending Decision 94/474/EC and repealing Decision 96/239/EC (4) and in particular Article 6(5) thereof,</p>
+      <p n="8">Whereas Article 6(5) of Decision 98/256/EC requires the Commission to set the date on which dispatch of products referred to in this Article may commence, after having carried out Community inspections and after having informed the Member States;</p>
+      <p n="9">Whereas inspections carried out by the Commission services in Northern Ireland from 20 to 22 April 1998, in particular to assess the system of veterinary checks pursuant to Articles 6 and 7 of Decision 98/256/EC, have shown that the conditions are complied with satisfactorily;</p>
+      <p n="10">Whereas at the time of adoption of Decision 98/256/EC, the Commission undertook to present, in accordance with its normal practice for inspection reports, to the Member States convened in the Veterinary Standing Committee, the results of the inspection referred to in Article 6(5) and the consequences it draws from them; whereas this presentation has taken place; whereas therefore, the date is set at 1 June 1998,</p>
+      <p n="11">HAS ADOPTED THIS DECISION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The date referred to in Article 6(5) of Decision 98/256/EC shall be 1 June 1998.</p>
+      <p n="14">Article 2</p>
+      <p n="15">This Decision is addressed to the Member States.</p>
+      <p n="16">Done at Brussels, 29 May 1998.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 224, 18. 8. 1990, p. 29.</p>
+      <p n="21">(2) OJ L 62, 15. 3. 1993, p. 49.</p>
+      <p n="22">(3) OJ L 395, 30. 12. 1989, p. 13.</p>
+      <p n="23">(4) OJ L 113, 15. 4. 1998, p. 32.</p>
+    </body>
+  </text>
+</TEI.2>

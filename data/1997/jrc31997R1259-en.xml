@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31997R1259-en" n="31997R1259" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1259 English</title>
+        <title>Commission Regulation (EC) No 1259/97 of 1 July 1997 amending Regulation (EC) No 1501/95 laying down certain detailed rules for the application of Council Regulation (EEC) No 1766/92 on the granting of export refunds on cereals and the measures to be taken in the event of disturbance on the market for cereals</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1259:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1259:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">20</classCode>
+        <classCode scheme="eurovoc">2729</classCode>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4399</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1259-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1259/97 of 1 July 1997 amending Regulation (EC) No 1501/95 laying down certain detailed rules for the application of Council Regulation (EEC) No 1766/92 on the granting of export refunds on cereals and the measures to be taken in the event of disturbance on the market for cereals</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1259/97 of 1 July 1997 amending Regulation (EC) No 1501/95 laying down certain detailed rules for the application of Council Regulation (EEC) No 1766/92 on the granting of export refunds on cereals and the measures to be taken in the event of disturbance on the market for cereals</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the market in cereals (1), as last amended by Commission Regulation (EC) No 923/96 (2), and in particular Article 13 thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 1501/95 (3), as last amended by Regulation (EC) No 95/96 (4), lays down certain detailed rules on the granting of export refunds on cereals, in particular in the context of invitations to tender;</p>
+      <p n="7">Whereas Article 18 of Commission Regulation (EEC) No 3665/87 of 27 November 1987 laying down common detailed rules for the application of the system of export refunds on agricultural products (5), as last amended by Regulation (EC) No 815/97 (6), lays down general rules regarding proof of completion of customs formalities for release for consumption; whereas Article 13 of Regulation (EC) No 1501/95 provides for derogation from these requirements in cases where export takes place by sea; whereas, in the interest of clarity, the cases in which such a derogation applies should be defined more precisely, in particular as regards the fact that this exemption is only admissible where the refund has been fixed in a contract awarded for all third countries without exception;</p>
+      <p n="8">Whereas it should be made possible to award contracts fixing refunds or export taxes without disrupting continuity in transitional market situations; whereas, therefore, bids relating to refunds should be compatible with bids relating to taxes and there should not be any blockage of the tender procedure in an intermediate situation;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The first paragraph of Article 13 of Regulation (EC) No 1501/95 is hereby replaced by the following:</p>
+      <p n="13">'Notwithstanding Article 18 of Regulation (EEC) No 3665/87, proof of completion of customs formalities for release for consumption shall not be required for payment of refunds fixed in a contract awarded for refunds on exports to all third countries, provided that the operator provides proof that a quantity of at least 1 500 tonnes of cereal product have left the customs territory of the Community on board a vessel suitable for sea transport.`</p>
+      <p n="14">Article 2</p>
+      <p n="15">The first subparagraph of Article 7 (2) of Regulation (EC) No 1501/95 is hereby replaced by the following:</p>
+      <p n="16">'2. Where a maximum export refund is fixed, the contract shall be awarded to the tenderer or tenderers whose bids are equal to or lower than the maximum refund, as well as to the tenderer or tenderers whose bid relates to an export tax.`</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 1 July 1997.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ No L 181, 1. 7. 1992, p. 21.</p>
+      <p n="25">(2) OJ No L 126, 24. 5. 1996, p. 37.</p>
+      <p n="26">(3) OJ No L 147, 30. 6. 1995, p. 7.</p>
+      <p n="27">(4) OJ No L 18, 24. 1. 1996, p. 10.</p>
+      <p n="28">(5) OJ No L 351, 14. 12. 1987, p. 1.</p>
+      <p n="29">(6) OJ No L 116, 6. 5. 1997, p. 22.</p>
+    </body>
+  </text>
+</TEI.2>

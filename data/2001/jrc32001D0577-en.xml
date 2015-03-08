@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32001D0577-en" n="32001D0577" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0577 English</title>
+        <title>2001/577/EC: Commission Decision of 25 July 2001 setting the date on which dispatch from Portugal of bovine products under the Date-Based Export Scheme may commence by virtue of Article 22(2) of Decision 2001/376/EC (Text with EEA relevance) (notified under document number C(2001) 2363)</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0577:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0577:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">2563</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">6112</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+        <classCode scheme="eurovoc">946</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0577-en." lang="en">
+    <body>
+      <head n="1">2001/577/EC: Commission Decision of 25 July 2001 setting the date on which dispatch from Portugal of bovine products under the Date-Based Export Scheme may commence by virtue of Article 22(2) of Decision 2001/376/EC (Text with EEA relevance) (notified under document number C(2001) 2363)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 25 July 2001</p>
+      <p n="4">setting the date on which dispatch from Portugal of bovine products under the Date-Based Export Scheme may commence by virtue of Article 22(2) of Decision 2001/376/EC</p>
+      <p n="5">(notified under document number C(2001) 2363)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/577/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 89/662/EEC of 11 December 1989 concerning veterinary checks in intra-Community trade with a view to the completion of the internal market(1), as last amended by Directive 92/118/EEC,</p>
+      <p n="11">Having regard to Commission Decision 2001/376/EC of 18 April 2001 concerning measures made necessary by the occurrence of bovine spongiform encephalopathy in Portugal and implementing a date-based export scheme(2), and in particular Article 22(2) thereof,</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) Article 22(2) of Decision 2001/376/EC requires the Commission to set the date on which dispatch of products referred to in Article 11 of that Decision may commence, after having carried out Community inspections and after having informed the Member States.</p>
+      <p n="14">(2) Inspections carried out by the Commission services in Portugal from 14 to 18 May and 25 to 27 June 2001, in particular to assess the system of veterinary checks pursuant to Articles 11 and 12 and Annex IV to Decision 2001/376/EC, have shown that the conditions are complied with satisfactorily.</p>
+      <p n="15">(3) The Commission has presented the results of the inspections and the consequences it draws from them to the Member States convened in the Standing Veterinary Committee. The Commission has received from Portugal guarantees on the full application and effective enforcement of Community legislation on surveillance for and eradication of TSEs, in addition to those guarantees requested by the report of the Food and Veterinary Office,</p>
+      <p n="16">HAS ADOPTED THIS DECISION:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The date referred to in Article 22(2) of Decision 2001/376/EC, upon which the dispatch of products referred to in Article 11 of that Decision may commence or recommence in accordance with the conditions laid down, shall be 1 August 2001.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 25 July 2001.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">David Byrne</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 395, 30.12.1989, p. 13.</p>
+      <p n="26">(2) OJ L 132, 15.5.2001, p. 17.</p>
+    </body>
+  </text>
+</TEI.2>

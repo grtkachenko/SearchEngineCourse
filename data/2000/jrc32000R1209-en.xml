@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32000R1209-en" n="32000R1209" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1209 English</title>
+        <title>Commission Regulation (EC) No 1209/2000 of 8 June 2000 determining procedures for effecting the communications prescribed under Article 41 of the Treaty establishing the European Atomic Energy Community</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1209:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1209:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2798</classCode>
+        <classCode scheme="eurovoc">4038</classCode>
+        <classCode scheme="eurovoc">5334</classCode>
+        <classCode scheme="eurovoc">5344</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1209-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1209/2000 of 8 June 2000 determining procedures for effecting the communications prescribed under Article 41 of the Treaty establishing the European Atomic Energy Community</head>
+      <p n="2">Commission Regulation (EC) No 1209/2000</p>
+      <p n="3">of 8 June 2000</p>
+      <p n="4">determining procedures for effecting the communications prescribed under Article 41 of the Treaty establishing the European Atomic Energy Community</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the provisions of the Treaty establishing the European Atomic Energy Community, and in particular Article 41,</p>
+      <p n="7">Having regard to the provisions of the Council Regulation (Euratom) No 2587/1999 of 2 December 1999(1), defining the investment project(s) to be communicated to the Commission in pursuance of Article 41 of the Treaty,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">It is the responsibility of the Commission, to the extent necessary for the fulfilment of the task devolving on it under Chapter IV of the Treaty, to determine procedure for carrying out the obligation imposed on persons and undertakings by Article 41 to communicate investment projects relating to new installations and also to replacements or conversions which fulfil the critera as to type and size laid down by the Council,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Investment projects relating to new installations and also to replacement or conversions which fulfil the criteria as to type and size laid down by the Regulation (Euratom) No 2587/1999 shall be communicated to the Commission by means of a form, the model for which is annexed to this Regulation.</p>
+      <p n="13">Article 2</p>
+      <p n="14">The obligation to communicate to the Commission the investment projects referred to in Article 41 of the Treaty devolves on persons and undertakings engaged in the industrial activities listed in Annex II to the Treaty, in respect of all installations already established or to be established within the Community; (the obligation shall, in appropriate cases, be discharged by the local management in the case of undertakings having their seat outside the Community).</p>
+      <p n="15">Article 3</p>
+      <p n="16">Where information to be notified pursuant to article 41 of the Treaty has already been provided in the context of the submission of general data under article 37 of the Treaty, the notification can be limited to a cross reference to such previous submission and, in addition, all other information to be notified according to the content of the form which is annexed to this Regulation.</p>
+      <p n="17">Article 4</p>
+      <p n="18">Any change made in the course of carrying out investment projects communicated to the Commission in accordance with this Regulation shall be made the subject of a further communication under the same conditions.</p>
+      <p n="19">Article 5</p>
+      <p n="20">Any change made to the said form shall be published by the Commission in the Official Journal of the European Communities.</p>
+      <p n="21">Article 6</p>
+      <p n="22">Regulation No 1 of the Commission of the EAEC of 5 November 1958(2) is repealed with effect of the date of entry into force of the present Regulation.</p>
+      <p n="23">This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 8 June 2000.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Loyola De Palacio</p>
+      <p n="28">Vice-President</p>
+      <p n="29">(1) OJ L 315, 9.12.1999, p. 1.</p>
+      <p n="30">(2) OJ 25, 27.11.1958, p. 511/58.</p>
+      <p n="31">ANNEX</p>
+      <p n="32">INVESTMENT PROJECT</p>
+      <p n="33">(model)</p>
+      <p n="34">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

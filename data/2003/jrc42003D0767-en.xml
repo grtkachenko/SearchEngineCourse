@@ -1,0 +1,58 @@
+<TEI.2 id="jrc42003D0767-en" n="42003D0767" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 42003D0767 English</title>
+        <title>2003/767/EC: Decision taken by common accord, at the level of Heads of State or Government, by the Governments of the Member States having the euro as their currency of 16 October 2003 appointing the President of the European Central Bank</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:42003D0767:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:42003D0767:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3559</classCode>
+        <classCode scheme="eurovoc">4175</classCode>
+        <classCode scheme="eurovoc">5455</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc42003D0767-en." lang="en">
+    <body>
+      <head n="1">2003/767/EC: Decision taken by common accord, at the level of Heads of State or Government, by the Governments of the Member States having the euro as their currency of 16 October 2003 appointing the President of the European Central Bank</head>
+      <p n="2">Decision taken by common accord, at the level of Heads of State or Government, by the Governments of the Member States having the euro as their currency</p>
+      <p n="3">of 16 October 2003</p>
+      <p n="4">appointing the President of the European Central Bank</p>
+      <p n="5">(2003/767/EC)</p>
+      <p n="6">THE HEADS OF STATE OR GOVERNMENT OF THE MEMBER STATES OF THE EUROPEAN COMMUNITY HAVING THE EURO AS THEIR CURRENCY,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 112(2)(b) and Article 122(4) thereof, and to Articles 11.2 and 43.3 of the Protocol on the Statute of the European System of Central Banks and of the European Central Bank,</p>
+      <p n="8">Having regard to the recommendation of the Council(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Having regard to the opinion of the Governing Council of the European Central Bank(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Mr Wim Duisenberg, President of the European Central Bank, announced in a letter dated 9 January 2003 to the Secretary-General of the Council of the European Union that he intended to step down as President of the Bank as from 9 July 2003.</p>
+      <p n="13">(2) In a letter dated 17 April 2003 to the President of the European Council, Mr Wim Duisenberg agreed to remain in function until the date on which his successor was appointed,</p>
+      <p n="14">HAVE DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Mr Jean-Claude TRICHET is hereby appointed President of the European Central Bank for a term of office of eight years as from 1 November 2003, Mr Wim Duisenberg's resignation having been accepted and taking effect on that day.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Decision shall be published in the Official Journal of the European Union.</p>
+      <p n="19">Done at Brussels, 16 October 2003.</p>
+      <p n="20">The President</p>
+      <p n="21">S. Berlusconi</p>
+      <p n="22">(1) OJ L 181, 19.7.2003, p. 45.</p>
+      <p n="23">(2) Opinion of 23 September 2003 (not yet published in the Official Journal).</p>
+      <p n="24">(3) OJ C 187, 7.8.2003, p. 16.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31997R2494-en" n="31997R2494" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R2494 English</title>
+        <title>Commission Regulation (EC) No 2494/97 of 12 December 1997 on the issuing of import licences for rice falling within CN code 1006 and originating in the overseas countries and territories under the specific measures introduced by Regulation (EC) No 2352/97</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2494:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2494:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2296</classCode>
+        <classCode scheme="eurovoc">3591</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R2494-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2494/97 of 12 December 1997 on the issuing of import licences for rice falling within CN code 1006 and originating in the overseas countries and territories under the specific measures introduced by Regulation (EC) No 2352/97</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2494/97 of 12 December 1997 on the issuing of import licences for rice falling within CN code 1006 and originating in the overseas countries and territories under the specific measures introduced by Regulation (EC) No 2352/97</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Decision 91/482/EEC of 25 July 1991 on the association of the overseas countries and territories with the European Economic Community (1), as last amended by Commission Decision 97/803/EC (2),</p>
+      <p n="6">Having regard to Commission Regulation (EC) No 2352/97 of 27 November 1997 introducing specific measures in respect of imports of rice originating in the overseas countries and territories (3), and in particular Article 4 (3) thereof,</p>
+      <p n="7">Whereas Regulation (EC) No 2352/97 introduces specific measures in respect of imports of rice originating in the overseas countries and territories, hereinafter referred to as 'OCTs`; whereas those measures provide for exemption from customs duties on importation under a system of surveillance; whereas they provide in particular for a daily limit per operator in respect of licence applications; whereas Article 4 (3) of that Regulation provides that where the quantities applied for exceed the monthly total of 13 300 tonnes of rice expressed as husked rice equivalent and where, on the basis of an assessment of the situation on the Community market, that overrun is likely to result in substantial disturbance of the latter, the Commission is, within 10 working days of the day of the overrun, to fix a percentage reduction to be applied to all applications lodged on the day of the overrun, reject applications submitted after the day of the overrun, and suspend the lodging of further applications for that month;</p>
+      <p n="8">Whereas the quantities applied for on 2 December 1997 in excess of the monthly total of 13 300 tonnes amount to 7 072 tonnes; whereas those quantities have been considered specifically by the Commission in the light of an assessment of the situation and trends on the Community market for rice; whereas that consideration has shown that, since the indica rice harvest in the 1997/98 marketing year is back to normal levels and in view of the prices for that type of rice on the Community market, those quantities are likely to bring about serious disturbance of the market, in particular by ousting Community indica rice production and reducing its price; whereas Article 4 (3) of Regulation (EC) No 2352/97 should accordingly be applied,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Import licences shall be issued for the quantities set out in applications for rice and broken rice falling within CN code 1006 submitted in accordance with the arrangements laid down in Regulation (EC) No 2352/97, reduced by the following percentage:</p>
+      <p n="12">69,8575 % for applications submitted on 2 December 1997.</p>
+      <p n="13">Article 2</p>
+      <p n="14">No import licences shall be issued under the arrangements laid down in Regulation (EC) No 2352/97 for rice and broken rice falling within CN code 1006 in respect of applications submitted from 3 December 1997.</p>
+      <p n="15">Article 3</p>
+      <p n="16">The submission of import licence applications for rice and broken rice falling within CN code 1006 under the arrangements laid down in Regulation (EC) No 2352/97 is hereby suspended until 31 December 1997.</p>
+      <p n="17">Article 4</p>
+      <p n="18">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 12 December 1997.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Franz FISCHLER</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 263, 19. 9. 1991, p. 1.</p>
+      <p n="25">(2) OJ L 329, 29. 11. 1997, p. 50.</p>
+      <p n="26">(3) OJ L 326, 28. 11. 1997, p. 21.</p>
+    </body>
+  </text>
+</TEI.2>

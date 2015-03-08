@@ -1,0 +1,72 @@
+<TEI.2 id="jrc31991D0638-en" n="31991D0638" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31991D0638 English</title>
+        <title>91/638/EEC: Commission Decision of 3 December 1991 on the designation of a common host centre for the computerized network Animo'</title>
+      </titleStmt>
+      <extent>45 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991D0638:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31991D0638:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31991D0638-en." lang="en">
+    <body>
+      <head n="1">91/638/EEC: Commission Decision of 3 December 1991 on the designation of a common host centre for the computerized network Animo'</head>
+      <p n="2">COMMISSION DECISION of 3 December 1991 on the designation of a common host centre for the computerized network 'Animo' (91/638/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Regulation (EEC) No 91/496/EEC (2), and in particular Article 20 (3) thereof,</p>
+      <p n="6">Whereas on 19 July 1991 the Commission adopted Decision 91/398/EEC on a computerized network linking veterinary authorities (Animo) (3);</p>
+      <p n="7">Whereas, in order to ensure the smooth functioning of the network, provision should be made for a host centre to be used; whereas it is first necessary to specify the procedure to be followed for the designation of such a host centre; whereas the next step will be to designate the host centre in accordance with the procedure laid down in Article 20 (3) of Directive 90/425/EEC;</p>
+      <p n="8">Whereas the host centre must meet precise technical specifications;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">1. The Commission shall be responsible for issuing an invitation to tender with a view to selecting a host centre for the computerized network Animo.</p>
+      <p n="13">2. The invitation to tender referred to in paragraph 1 shall include the technical specifications defined in the Annex.</p>
+      <p n="14">3. Following the invitation to tender provided for in paragraph 1, with a view to the designation of the host centre, the Commission will select at least three offers meeting the specifications referred to in paragraph 2.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Decision is addressed to the Member States. Done at Brussels, 3 December 1991. For the Commission</p>
+      <p n="17">Ray MAC SHARRY</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 224, 18. 8. 1990, p. 29. (2) OJ No L 268, 24. 9. 1991, p. 56. (3) OJ No L 221, 9. 8. 1991, p. 30.</p>
+      <p n="20">ANNEX</p>
+      <p n="21">TECHNICAL SPECIFICATIONS FOR THE COMMUNITY COMMON HOST CENTRE</p>
+      <p n="22">1. Description</p>
+      <p n="23">The host centre must be operational by 1 July 1992 at the latest.</p>
+      <p n="24">It must be composed of the following elements in particular:</p>
+      <p n="25">- memory for storing information. It is intended to store messages for four weeks,</p>
+      <p n="26">- computers capable of managing large quantities of data; to be consulted by many users simultaneously,</p>
+      <p n="27">- management and documentation software permitting information to be distributed,</p>
+      <p n="28">- equipment (hardware and software) for the management of communications between the public networks (network x 25 and telephone network),</p>
+      <p n="29">- electronic messenger services which conform to the international standards,</p>
+      <p n="30">- file transfer services,</p>
+      <p n="31">- facilities for archiving during one year,</p>
+      <p n="32">- restart facilities in case of failure.</p>
+      <p n="33">The host centre must be able to interoperate with existing systems or systems which will be in place in the national veterinary services, in accordance with the international standards.</p>
+      <p n="34">The host centre must be available seven days a week and 24 hours out of 24.</p>
+      <p n="35">2. Security rules</p>
+      <p n="36">The host centre must have a set of strict and coherent provisions for data protection and integrity. Access to the system must be controlled by a series of security procedures, particularly by changeable passwords with rules regarding the number of retries, so as to minimize the danger of accidental or improper consultation.</p>
+      <p n="37">3. Size and format of information</p>
+      <p n="38">The size of the message formatted for transmission may be up to 4 000 characters. The formatted message will be in ASCII format with defined characters. The estimated number of messages per day will be about 3 000. Estimated management will require about 3 000 entry operations and 6 000 dispatch operations per day.</p>
+      <p n="39">4. System capacity</p>
+      <p n="40">The system must be able to manage 2 450 potential users. However, usertime overlaps may vary. The estimated number of simultaneous users (sending and receiving) will be on average 70 and not more than 100. Capacity must be expandible if necessary. The system must be able to manage waiting codes.</p>
+      <p n="41">5. Assistance</p>
+      <p n="42">A help service must be available 12 hours a day, from 7 a.m. to 7 p.m. at the location of the host centre, in order to deal with any communication problems.</p>
+      <p n="43">6. Maintenance</p>
+      <p n="44">A series of safeguard measures and facilities for restoring the files must be available for the system and operational at the host centre to ensure that no information is lost.</p>
+      <p n="45">The host centre must have all the qualified staff necessary.</p>
+    </body>
+  </text>
+</TEI.2>

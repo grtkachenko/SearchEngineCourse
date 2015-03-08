@@ -1,0 +1,72 @@
+<TEI.2 id="jrc32004L0055-en" n="32004L0055" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004L0055 English</title>
+        <title>Commission Directive 2004/55/EC of 20 April 2004 amending Council Directive 66/401/EEC on the marketing of fodder plant seed (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004L0055:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004L0055:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2412</classCode>
+        <classCode scheme="eurovoc">4081</classCode>
+        <classCode scheme="eurovoc">5334</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004L0055-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 2004/55/EC of 20 April 2004 amending Council Directive 66/401/EEC on the marketing of fodder plant seed (Text with EEA relevance)</head>
+      <p n="2">Commission Directive 2004/55/EC</p>
+      <p n="3">of 20 April 2004</p>
+      <p n="4">amending Council Directive 66/401/EEC on the marketing of fodder plant seed</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 66/401/EEC of 14 June 1966 on the marketing of fodder plant seed(1), and in particular Article 2(1a) and 21a thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Directive 66/401/EEC contains a list of the genera and species of plants which are considered as fodder plants within the meaning of that Directive. That list includes hybrids resulting from the crossing of meadow fescue (Festuca pratensis Hudson) with Italian ryegrass (Lolium multiflorum Lam).</p>
+      <p n="11">(2) The scope of Directive 66/401/EEC should be extended to cover crossings of Festuca spp. with Lolium spp.</p>
+      <p n="12">(3) The abovementioned directive, within the conditions to be satisfied by the seed, has established the minimum germination ( % of pure seed) of seed of field bean (Vicia faba L.).</p>
+      <p n="13">(4) The minimum germination of seed of field beans (Vicia faba L.) currently achieved in the Community is lower than that required by Directive 66/401/EEC.</p>
+      <p n="14">(5) Directive 66/401/EEC should therefore be amended accordingly.</p>
+      <p n="15">(6) The measures provided for in this Directive are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="16">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="17">Article 1</p>
+      <p n="18">Directive 66/401/EEC is amended as follows:</p>
+      <p n="19">1. in point (a) of Part A of paragraph 1 of Article 2 the words</p>
+      <p n="20">"&gt;TABLE&gt;"</p>
+      <p n="21">are replaced by the words</p>
+      <p n="22">"&gt;TABLE&gt;"</p>
+      <p n="23">2. Annexes II and IV are amended as follows:</p>
+      <p n="24">(a) in column 2 of the table in Section I.2.A of Annex II, in the entry relating to Vicia faba, "85" is replaced by "80".</p>
+      <p n="25">(b) in point I (a) 4 and (c) 4 of Section A of Annex IV the following sentence is added:</p>
+      <p n="26">"In the case of x Festulolium the names of the species within the genus Festuca and Lolium shall be indicated"</p>
+      <p n="27">Article 2</p>
+      <p n="28">1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 30 September 2004 at the latest. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive.</p>
+      <p n="29">When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.</p>
+      <p n="30">2. Member States shall communicate to the Commission the texts of the main provisions of national law, which they adopt in the field covered by this Directive.</p>
+      <p n="31">Article 3</p>
+      <p n="32">This Directive is addressed to the Member States.</p>
+      <p n="33">Done at Brussels, 20 April 2004.</p>
+      <p n="34">For the Commission</p>
+      <p n="35">David Byrne</p>
+      <p n="36">Member of the Commission</p>
+      <p n="37">(1) OJ 125, 11.7.1966, p. 2298/66. Directive as last amended by Directive 2003/61/EC (OJ L 165, 3.7.2003, p. 23).</p>
+    </body>
+  </text>
+</TEI.2>

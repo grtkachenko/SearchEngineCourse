@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31998R2513-en" n="31998R2513" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2513 English</title>
+        <title>Commission Regulation (EC) No 2513/98 of 20 November 1998 amending Regulation (EC) No 1501/95 laying down certain detailed rules for the application of Council Regulation (EEC) No 1766/92 on the granting of export refunds on cereals and the measures to be taken in the event of disturbance on the market for cereals</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2513:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2513:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1772</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2513-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2513/98 of 20 November 1998 amending Regulation (EC) No 1501/95 laying down certain detailed rules for the application of Council Regulation (EEC) No 1766/92 on the granting of export refunds on cereals and the measures to be taken in the event of disturbance on the market for cereals</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2513/98 of 20 November 1998 amending Regulation (EC) No 1501/95 laying down certain detailed rules for the application of Council Regulation (EEC) No 1766/92 on the granting of export refunds on cereals and the measures to be taken in the event of disturbance on the market for cereals</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organisation of the market in cereals (1), as last amended by Commission Regulation (EC) No 923/96 (2), and in particular Article 13(11) thereof,</p>
+      <p n="6">Whereas, pursuant to Commission Regulation (EC) No 1501/95 (3), as last amended by Regulation (EC) No 2094/98 (4), in order to calculate the export refunds on processed products, the processing coefficients applicable must be known; whereas those coefficients are in fact the figures set out in Annex I to that Regulation; whereas, in view of technical progress in the sector, the figures laid down for unroasted and roasted malt need to be adjusted; whereas Regulation (EC) No 2094/98 updates those coefficients;</p>
+      <p n="7">Whereas the new coefficients are applicable from 1 September 1998; whereas, however, for export licences for malt used in September the coefficients valid before the change provided for in that Regulation continue to apply for the purpose of calculating the monthly increase;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">'1 300` and '1 520` in the last column of Annex I to Regulation (EC) No 1501/95 for malt, not roasted, covered by CN codes 1107 10 19 and 1107 10 99 and malt, roasted, covered by CN code 1107 20 00 are replaced by '1 270` and '1 490` respectively.</p>
+      <p n="12">Article 2</p>
+      <p n="13">Regulation (EC) No 2094/98 is repealed.</p>
+      <p n="14">Article 3</p>
+      <p n="15">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="16">It shall apply with effect from 1 September 1998.</p>
+      <p n="17">However, for export licences used between 1 and 30 September 1998, the amount of the monthly increase shall be calculated on the basis of the processing coefficients valid before 1 September 1998.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 20 November 1998.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz FISCHLER</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 181, 1. 7. 1992, p. 21.</p>
+      <p n="24">(2) OJ L 126, 24. 5. 1996, p. 37.</p>
+      <p n="25">(3) OJ L 147, 30. 6. 1995, p. 7.</p>
+      <p n="26">(4) OJ L 266, 1. 10. 1998, p. 61.</p>
+    </body>
+  </text>
+</TEI.2>

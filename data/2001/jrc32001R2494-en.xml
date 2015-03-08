@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32001R2494-en" n="32001R2494" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R2494 English</title>
+        <title>Commission Regulation (EC) No 2494/2001 of 19 December 2001 amending Regulation (EC) No 80/2001 as regards the options for disposing of fishery products withdrawn from the market</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2494:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2494:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1201</classCode>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">2718</classCode>
+        <classCode scheme="eurovoc">3618</classCode>
+        <classCode scheme="eurovoc">4667</classCode>
+        <classCode scheme="eurovoc">500</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R2494-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2494/2001 of 19 December 2001 amending Regulation (EC) No 80/2001 as regards the options for disposing of fishery products withdrawn from the market</head>
+      <p n="2">Commission Regulation (EC) No 2494/2001</p>
+      <p n="3">of 19 December 2001</p>
+      <p n="4">amending Regulation (EC) No 80/2001 as regards the options for disposing of fishery products withdrawn from the market</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 104/2000 of 17 December 1999 on the common organisation of the markets in fishery and aquaculture products(1), and in particular Article 34(2) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In accordance with Commission Regulation (EC) No 80/2001 of 16 January 2001 laying down detailed rules for the application of Council Regulation (EC) No 104/2000 as regards notifications concerning recognition of producer organisations, the fixing of prices and intervention within the scope of the common organisation of the market in fishery and aquaculture products(2), Member States notify the Commission, for each product withdrawn from the market, of the value and quantities disposed of, broken down by the disposal options set out in Commission Regulation (EEC) No 1501/83(3).</p>
+      <p n="10">(2) Regulation (EEC) No 1501/83 has been repealed and replaced by Regulation (EC) No 2493/2001(4) which increases the number of disposal options available.</p>
+      <p n="11">(3) Regulation (EC) No 80/2001 should therefore be amended accordingly.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fishery Products,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Table 9 in Annex VIII to Regulation (EC) No 80/2001 is replaced by the following:</p>
+      <p n="16">"TABLE 9</p>
+      <p n="17">Use of withdrawals</p>
+      <p n="18">&gt;TABLE&gt;"</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">It shall apply from 1 January 2002.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 19 December 2001.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz Fischler</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 17, 21.1.2000, p. 22.</p>
+      <p n="28">(2) OJ L 13, 17.1.2001, p. 3.</p>
+      <p n="29">(3) OJ L 152, 10.6.1983, p. 22.</p>
+      <p n="30">(4) See page 20 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31996D0082-en" n="31996D0082" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0082 English</title>
+        <title>96/82/EC: Commission Decision of 12 January 1996 amending Decisions 93/196/EEC and 93/197/EEC concerning animal health certificates for imports of equidae for slaughter, registered equidae and equidae for breeding and production, with regard to piroplasmosis (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>28 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0082:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0082:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">1888</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">711</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0082-en." lang="en">
+    <body>
+      <head n="1">96/82/EC: Commission Decision of 12 January 1996 amending Decisions 93/196/EEC and 93/197/EEC concerning animal health certificates for imports of equidae for slaughter, registered equidae and equidae for breeding and production, with regard to piroplasmosis (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 12 January 1996 amending Decisions 93/196/EEC and 93/197/EEC concerning animal health certificates for imports of equidae for slaughter, registered equidae and equidae for breeding and production, with regard to piroplasmosis (Text with EEA relevance) (96/82/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 90/426/EEC of 26 June 1990 on animal health conditions governing the movement and imports from third countries of equidae (1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Articles 15 and 16 thereof,</p>
+      <p n="6">Whereas the health conditions and veterinary certification for imports of equidae for slaughter are laid down in Commission Decision 93/196/EEC (2) and for imports of registered equidae and equidae for breeding and production in Commission Decision 93/197/EEC (3), both as last amended by Decision 96/81/EC (4);</p>
+      <p n="7">Whereas piroplasmosis (B. equi and B. caballi) is present in certain Member States of the European Community; whereas equidae seropositive for piroplasmosis are present in certain Member States;</p>
+      <p n="8">Whereas therefore the negative serological test results required for imports of certain categories of equidae from certain third countries are no longer appropriate;</p>
+      <p n="9">Whereas treatment of equidae to eliminate infection may be detrimental to the animals; whereas however following the treatment a shortlasting seronegativity in the required serological test does not exclude infectivity for vector ticks;</p>
+      <p n="10">Whereas the abovementioned Decisions must be amended accordingly;</p>
+      <p n="11">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="12">HAS ADOPTED THIS DECISION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">In Annex II, chapter 'III. Health information` of Decision 93/196/EEC paragraph (j), fourth indent, is deleted.</p>
+      <p n="15">Article 2</p>
+      <p n="16">In the certificates D and E of Annex II, chapter 'III. Health information` of Decision 93/197/EEC paragraph (j), fourth indent, is deleted.</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Decision shall apply from the 15th day after its notification to the Member States.</p>
+      <p n="19">Article 4</p>
+      <p n="20">This Decision is addressed to the Member States.</p>
+      <p n="21">Done at Brussels, 12 January 1996.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz FISCHLER</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ No L 224, 18. 8. 1990, p. 42.</p>
+      <p n="26">(2) OJ No L 86, 6. 4. 1993, p. 7.</p>
+      <p n="27">(3) OJ No L 86, 6. 4. 1993, p. 16.</p>
+      <p n="28">(4) See page 53 of this Official Journal.</p>
+    </body>
+  </text>
+</TEI.2>

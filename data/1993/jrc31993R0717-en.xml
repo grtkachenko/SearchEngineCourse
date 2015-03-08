@@ -1,0 +1,51 @@
+<TEI.2 id="jrc31993R0717-en" n="31993R0717" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31993R0717 English</title>
+        <title>Commission Regulation (EEC) No 717/93 of 26 March 1993 amending Regulation (EEC) No 3076/78 on the importation of hops from non-member countries</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R0717:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31993R0717:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31993R0717-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 717/93 of 26 March 1993 amending Regulation (EEC) No 3076/78 on the importation of hops from non-member countries</head>
+      <p n="2">COMMISSION REGULATION (EEC) No 717/93 of 26 March 1993 amending Regulation (EEC) No 3076/78 on the importation of hops from non-member countries</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1696/71 of 26 June 1971 on the common organization of the market in hops (1), as last amended by Regulation (EEC) No 3124/92 (2), and in particular Article 5 (3) thereof,</p>
+      <p n="6">Whereas, pursuant to Article 1 (2) of Commission Regulation (EEC) No 3076/78 of 21 December 1978 on the importation of hops from non-member countries (3), as last amended by Regulation (EEC) No 2940/92 (4), hops imported from non-member countries must be accompanied by an attestation of equivalence; whereas a temporary derogation - in the form of a control attestation - is given to certain countries not listed in the Annex to Commission Regulation (EEC) No 3077/78 of 21 December 1978 on the equivalence with Community certificates of attestations accompanying hops imported from non-member countries (5), as last amended by Regulation (EEC) No 2238/91 (6); whereas these control attestations provide only very little information as regards the characteristics of the product and no information at all on its origin and year of harvest; whereas, therefore, provision should be made for hops imported with a control attestation and hop products prepared from such hops not to be covered by a certification procedure;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Hops,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The following subparagraph is added to Article 4 (1) of Regulation (EEC) No 3076/78:</p>
+      <p n="11">'Hops imported with a control attestation and hop products prepared from hops imported with such an attestation may not be covered by a certification procedure.`</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 26 March 1993.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">René STEICHEN</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ No L 175, 4. 8. 1971, p. 1.</p>
+      <p n="20">(2) OJ No L 313, 30. 10. 1992, p. 1.</p>
+      <p n="21">(3) OJ No L 367, 28. 12. 1978, p. 17.</p>
+      <p n="22">(4) OJ No L 294, 10. 10. 1992, p. 8.</p>
+      <p n="23">(5) OJ No L 367, 28. 12. 1978, p. 28.</p>
+      <p n="24">(6) OJ No L 204, 27. 7. 1991, p. 13.</p>
+    </body>
+  </text>
+</TEI.2>

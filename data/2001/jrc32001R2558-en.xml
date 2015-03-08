@@ -1,0 +1,91 @@
+<TEI.2 id="jrc32001R2558-en" n="32001R2558" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R2558 English</title>
+        <title>Regulation (EC) No 2558/2001 of the European Parliament and of the Council of 3 December 2001 amending Council Regulation (EC) No 2223/96 as regards the reclassification of settlements under swaps arrangements and under forward rate agreements (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>55 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2558:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R2558:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1476</classCode>
+        <classCode scheme="eurovoc">164</classCode>
+        <classCode scheme="eurovoc">294</classCode>
+        <classCode scheme="eurovoc">4369</classCode>
+        <classCode scheme="eurovoc">4502</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R2558-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 2558/2001 of the European Parliament and of the Council of 3 December 2001 amending Council Regulation (EC) No 2223/96 as regards the reclassification of settlements under swaps arrangements and under forward rate agreements (Text with EEA relevance)</head>
+      <p n="2">Regulation (EC) No 2558/2001 of the European Parliament and of the Council</p>
+      <p n="3">of 3 December 2001</p>
+      <p n="4">amending Council Regulation (EC) No 2223/96 as regards the reclassification of settlements under swaps arrangements and under forward rate agreements</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 285(1) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Central Bank(2),</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Council Regulation (EC) No 2223/96 of 25 June 1996 on the European System of national and regional accounts in the Community(4) contains the reference framework of common standards, definitions, classifications and accounting rules for drawing up the accounts of the Member States for the statistical requirements of the European Community, in order to obtain comparable results between Member States.</p>
+      <p n="13">(2) In ESA 95, as in SNA 93, swaps are defined (5.67) as "contractual arrangements between two parties who agree to exchange, over time and according to predetermined rules, streams of payments on the same amounts of indebtedness" and it is specified that "the two most prevalent varieties are interest rate swaps and currency swaps".</p>
+      <p n="14">(3) In original versions of ESA 95 and SNA 93, interest flows exchanged between two counterparts under any kinds of swaps and under forward rate agreements have been considered as non-financial transactions, recorded in property income, under the item interest.</p>
+      <p n="15">(4) Problems have been raised by this statement and the Commission thus considers that it is necessary to exclude these interest flows from property income, in a manner similar to revised SNA 93.</p>
+      <p n="16">(5) It is therefore appropriate to record these flows in financial transactions under the item financial derivatives, included in ESA 95 in F3 entitled "Securities other than shares".</p>
+      <p n="17">(6) A specific treatment of these flows should be defined for the data transmitted under the excessive deficit procedure.</p>
+      <p n="18">(7) The Committee on the statistical programmes of the European Communities, established by Decision 89/382/EEC, Euratom(5), and the Committee on Monetary, Financial and Balance of Payments Statistics, established by Decision 91/115/EEC(6), have each been consulted in accordance with Article 3 of the said Decisions,</p>
+      <p n="19">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">Annex A of Council Regulation (EC) No 2223/96 shall be amended in accordance with the Annex to this Regulation.</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 3 December 2001.</p>
+      <p n="26">For the European Parliament</p>
+      <p n="27">The President</p>
+      <p n="28">N. Fontaine</p>
+      <p n="29">For the Council</p>
+      <p n="30">The President</p>
+      <p n="31">F. Vandenbroucke</p>
+      <p n="32">(1) OJ C 116 E, 26.4.2000, p. 63.</p>
+      <p n="33">(2) OJ C 103, 3.4.2001, p. 8.</p>
+      <p n="34">(3) Opinion of the European Parliament of 15 March 2001 (not yet published in the Official Journal) and Decision of the Council of 8 November 2001.</p>
+      <p n="35">(4) OJ L 310, 30.11.1996, p. 1. Regulation as last amended by Commission Regulation (EC) No 995/2001 (OJ L 139, 23.5.2001, p. 3).</p>
+      <p n="36">(5) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="37">(6) OJ L 59, 6.3.1991, p. 19. Decision as amended by Decision 96/174/EC (OJ L 51, 1.3.1996, p. 48).</p>
+      <p n="38">ANNEX</p>
+      <p n="39">Annex A of Council Regulation (EC) No 2223/96 is amended as follows:</p>
+      <p n="40">1. In Chapter 4, paragraph 4.47 is replaced by the following: "4.47. No payment resulting from any kind of swap arrangement is to be considered as interest and recorded under property income. (See paragraphs 5.67(d) and 5.139(c) relative to financial derivatives).</p>
+      <p n="41">Similarly, transactions under forward rate agreements are not to be recorded as property income. (See paragraph 5.67(e))."</p>
+      <p n="42">2. In Chapter 5: (a) in paragraph 5.67, points (d) and (e) are replaced by the following: "(d) swaps, but only if they have a market value because they are tradable or can be offset. Swaps are contractual arrangements between two parties who agree to exchange, over time and according to predetermined rules, streams of payment of the same amount of indebtedness. The most prevalent varieties are interest rate swaps, foreign exchange swaps and currency swaps (also named cross-currency interest swaps). Interest rate swaps involve an exchange of interest payments of different character, such as fixed rate for floating rate, two different floating rates, fixed rate in one currency and floating rate in another, etc. Foreign exchange swaps (including all forward contracts) are transactions in foreign currencies at a rate of exchange stated in advance. Currency swaps involve an exchange of specified amounts of two different currencies with subsequent repayments, which include both interest and repayment flows, over time according to predetermined rules. None of the resulting payments is considered as property income in the system and all settlements are to be recorded in the financial account;</p>
+      <p n="43">(e) forward rate agreements (FRAs), but only if they have a market value because they are tradable or can be offset. FRAs are contractual arrangements in which two parties, in order to protect themselves against interest rate changes, agree on an interest to be paid, at a settlement date, based on a notional amount of principal that is never exchanged. The payments are related to the difference between the agreement rate and the prevailing market rate at the time of settlement. These payments are not considered as property income in the system but are to be recorded under the item financial derivatives."</p>
+      <p n="44">(b) in paragraph 5.139, points (c) and (d) are replaced by the following: "(c) any explicit commissions paid or received from brokers or intermediaries for arranging options, futures, swaps, and other derivatives contracts are treated as payments for services in the appropriate accounts. The parties to a swap are not considered to be providing a service to each other, but any payment to a third party for arranging the swap should be treated as payment for a service. Under a swap arrangement, where principal amounts are exchanged the corresponding flows are to be recorded as transactions in the underlying instrument; streams of other payments (excluding commissions) are to be recorded under the item financial derivatives (F.34). While the premium paid to the seller of an option can conceptually be considered to include a service charge, in practice it is usually not possible to distinguish the service element. Therefore, the full price is to be recorded as acquisition of a financial asset by the buyer and as incidence of a liability by the seller;</p>
+      <p n="45">(d) where swap contracts involve an exchange of principal amounts, for example as occurs with currency swaps, the initial exchange is to be recorded as a transaction in the underlying instrument exchanged and not a transaction in financial derivatives (F.34). Where contracts do not involve an exchange of principal, no transaction is recorded at inception. In both cases, implicitly, a financial derivative with zero initial value is created at that point. Subsequently, the value of a swap will be equal to:</p>
+      <p n="46">1. for principal amounts, the current market value of the difference between the expected future market values of the amounts to be re-exchanged and the amounts specified in the contract;</p>
+      <p n="47">2. for other payments, the current market value of the future streams specified in the contract.</p>
+      <p n="48">Changes in the value of the derivative over time should be recorded in the revaluation account.</p>
+      <p n="49">Subsequent re-exchanges of principal will be governed by the terms and conditions of the swap contract and may imply financial assets being exchanged at a price different from the prevailing market price of such assets. The counterpart payment between the parties to the swap contract will be that specified within the contract. The difference between the market price and the contract price is then equal to the liquidation value of the asset/liability as it applies on the due date and should be recorded as a transaction in financial derivatives (F.34). On the contrary, other flows under a swap arrangement are recorded as a transaction in financial derivatives for the amounts effectively exchanged. All transactions in financial derivatives must match the total revaluation gain or loss throughout the duration of the swap contract. This treatment is analogous to that set out with respect to options, which proceed to delivery (see point (a)).</p>
+      <p n="50">For an institutional unit, a swap or a forward rate agreement is recorded under the item financial derivatives on the assets side where it has a net asset value, positive net payments increasing the net value (and conversely). Where the swap has a net liability value, it is recorded on the liabilities side, negative net payments increasing the net value (and conversely)."</p>
+      <p n="51">3. The following Annex is added:</p>
+      <p n="52">"ANNEX V</p>
+      <p n="53">DEFINITION OF GOVERNMENT DEFICIT FOR THE PURPOSE OF THE EXCESSIVE DEFICIT PROCEDURE</p>
+      <p n="54">For the purpose of the Member States' reports to the Commission under the excessive deficit procedure laid down in Council Regulation (EC) No 3605/93(1), "Government deficit" is the balancing item "net borrowing/net lending" of General Government, including streams of interest payments resulting from swaps arrangements and forward rate agreements. This balancing item is codified as EDPB9. For this purpose, interest includes the abovementioned flows and is codified as EDPD41.</p>
+      <p n="55">(1) OJ L 332, 31.12.1993, p. 7. Regulation as last amended by Regulation (EC) No 475/2000 (OJ L 58, 3.3.2000, p. 1)."</p>
+    </body>
+  </text>
+</TEI.2>

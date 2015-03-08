@@ -1,0 +1,192 @@
+<TEI.2 id="jrc32000L0004-en" n="32000L0004" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000L0004 English</title>
+        <title>Directive 2000/4/EC of the European Parliament and of the Council of 28 February 2000 amending Council Directive 74/60/EEC on the approximation of the laws of the Member States relating to the interior fittings of motor vehicles (interior parts of the passenger compartment other than the interior rear-view mirrors, layout of controls, the roof or sliding roof, the backrest and rear part of the seats)</title>
+      </titleStmt>
+      <extent>157 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000L0004:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000L0004:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">4654</classCode>
+        <classCode scheme="eurovoc">4658</classCode>
+        <classCode scheme="eurovoc">848</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000L0004-en." lang="en">
+    <body>
+      <head n="1">Directive 2000/4/EC of the European Parliament and of the Council of 28 February 2000 amending Council Directive 74/60/EEC on the approximation of the laws of the Member States relating to the interior fittings of motor vehicles (interior parts of the passenger compartment other than the interior rear-view mirrors, layout of controls, the roof or sliding roof, the backrest and rear part of the seats)</head>
+      <p n="2">Directive 2000/4/EC of the European Parliament and of the Council</p>
+      <p n="3">of 28 February 2000</p>
+      <p n="4">amending Council Directive 74/60/EEC on the approximation of the laws of the Member States relating to the interior fittings of motor vehicles (interior parts of the passenger compartment other than the interior rear-view mirrors, layout of controls, the roof or sliding roof, the backrest and rear part of the seats)</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="9">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) It is desirable to introduce into Council Directive 74/60/EEC(4), requirements concerning power-operated windows with the aim of eliminating the danger to children, which can occur when closing these windows; similar requirements should also apply to power-operated roof panel systems and partition systems; for this purpose the title and the scope of Directive 74/60/EEC should be amended accordingly.</p>
+      <p n="12">(2) Directive 74/60/EEC is one of the separate directives of the EC type-approval procedure which has been established by Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers(5); consequently, the provisions laid down in Directive 70/156/EEC relating to vehicles, vehicle systems, components and separate technical units apply to Directive 74/60/EEC.</p>
+      <p n="13">(3) In particular, Articles 3(4) and 4(3) of Directive 70/156/EEC require that each separate Directive has attached to it an information document incorporating the relevant items of Annex I to Directive 70/156/EEC and also a type-approval certificate based on Annex VI to Directive 70/156/EEC in order that type-approval may be computerised.</p>
+      <p n="14">(4) It is important that vehicles in categories other than M1, in particular those in categories M2 and N1, are able at the earliest opportunity to afford the driver and passengers, more particularly children, the level of safety provided by Directive 74/60/EEC; to that end it should be made possible for the scope of Directive 74/60/EEC to be extended to cover such vehicles in accordance with the procedure laid down in Article 13 of Directive 70/156/EEC.</p>
+      <p n="15">(5) The amendments to Directive 74/60/EEC relate only to its administrative provisions and to power-operated windows, roof panel and/or partition systems; it is not necessary therefore to invalidate existing approvals granted under Directive 74/60/EEC nor to prevent the registration, sale and entry into service of new vehicles, which are not fitted with power-operated windows, roof panel and/or partition systems and which are covered by such approvals.</p>
+      <p n="16">(6) In accordance with the principle of proportionality as set out in the third paragraph of Article 5 of the Treaty, the measures contained in this Directive do not go beyond what is necessary to achieve the objectives of the Treaty,</p>
+      <p n="17">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="18">Article 1</p>
+      <p n="19">Directive 74/60/EEC is hereby amended as follows:</p>
+      <p n="20">1. The title shall be replaced by the following:</p>
+      <p n="21">"Council Directive 74/60/EEC of 17 December 1973 on the approximation of the laws of the Member States relating to the interior fittings of motor vehicles."</p>
+      <p n="22">2. Articles 1, 2 and 3 shall be replaced by the following:</p>
+      <p n="23">"Article 1</p>
+      <p n="24">For the purpose of this Directive, 'vehicle' means any vehicle as defined in Article 2 of Directive 70/156/EEC.</p>
+      <p n="25">Article 2</p>
+      <p n="26">No Member State may refuse to grant EC type-approval or national type-approval of a vehicle on grounds relating to the interior fittings of the vehicles if these meet the requirements set out in the Annexes hereto.</p>
+      <p n="27">Article 3</p>
+      <p n="28">No Member State may refuse to register or prohibit the sale, entry into service or use of any vehicle on grounds relating to the interior fittings of the vehicles if these meet the requirements set out in the Annexes."</p>
+      <p n="29">3. Articles 4 and 5 shall be deleted.</p>
+      <p n="30">4. The Annexes shall be amended in accordance with the Annex to this Directive.</p>
+      <p n="31">Article 2</p>
+      <p n="32">1. With effect from 8 April 2001, Member States may not, on grounds relating to the interior fittings of the motor vehicles,</p>
+      <p n="33">- refuse, in respect of a type of vehicle, to grant EC type-approval or national type-approval, or</p>
+      <p n="34">- prohibit the registration, sale or entry into service of vehicles,</p>
+      <p n="35">if the vehicles comply with the requirements of Directive 74/60/EEC.</p>
+      <p n="36">2. With effect from 8 April 2002, Member States shall no longer grant EC type-approval for a new type of vehicle on grounds relating to the interior fittings of the motor vehicles if the requirements of Directive 74/60/EEC are not complied with.</p>
+      <p n="37">3. With effect from 8 April 2003, Member States:</p>
+      <p n="38">- shall consider certificates of conformity which accompany new vehicles in accordance with the provisions of Directive 70/156/EEC to be no longer valid for the purposes of Article 7(1) of that Directive, and</p>
+      <p n="39">- may refuse the registration, sale and entry into service of new vehicles which are not accompanied by a certificate of conformity unless Article 8(2) of Directive 70/156/EEC is invoked,</p>
+      <p n="40">on grounds relating to the interior fittings of motor vehicles if the vehicles are fitted with power-operated windows, roof panel and/or partition systems and the requirements of Directive 74/60/EEC, are not complied with.</p>
+      <p n="41">4. This Directive will not invalidate any approval for types of vehicles which are not fitted with power-operated windows, roof panel and/or partition systems previously granted under Directive 74/60/EEC nor prevent extensions of such approvals under the terms of the Directive under which they where originally granted.</p>
+      <p n="42">Article 3</p>
+      <p n="43">1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 8 April 2001 and shall forthwith inform the Commission thereof.</p>
+      <p n="44">2. When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.</p>
+      <p n="45">3. Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field governed by this Directive.</p>
+      <p n="46">Article 4</p>
+      <p n="47">This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="48">Article 5</p>
+      <p n="49">This Directive is addressed to the Member States.</p>
+      <p n="50">Done at Brussels, 28 February 2000.</p>
+      <p n="51">For the European Parliament</p>
+      <p n="52">The President</p>
+      <p n="53">N. Fontaine</p>
+      <p n="54">For the Council</p>
+      <p n="55">The President</p>
+      <p n="56">J. Pina Moura</p>
+      <p n="57">(1) OJ C 149, 15.5.1998, p. 10.</p>
+      <p n="58">(2) OJ C 407, 28.12.1998, p. 56.</p>
+      <p n="59">(3) Opinion of the European Parliament of 9 February 1999 (OJ C 150, 28.5.1999, p. 26), Council Common Position of 28 October 1999 (OJ C 346, 2.12.1999, p. 17) and Decision of the European Parliament of 3 February 2000.</p>
+      <p n="60">(4) OJ L 38, 11.2.1974, p. 2. Directive as amended by Commission Directive 78/632/EEC (OJ L 206, 29.7.1978, p. 26).</p>
+      <p n="61">(5) OJ L 42, 23.2.1970, p. 1. Directive as last amended by Directive 98/91/EC of the European Parliament and of the Council (OJ L 11, 16.1.1999, p. 25).</p>
+      <p n="62">ANNEX</p>
+      <p n="63">AMENDMENTS TO THE ANNEXES TO DIRECTIVE 74/60/EEC</p>
+      <p n="64">1. The following List of Annexes shall be inserted between the Articles and Annex I:</p>
+      <p n="65">"LIST OF ANNEXES</p>
+      <p n="66">&gt;TABLE&gt;"</p>
+      <p n="67">2. Annex I is amended as follows.</p>
+      <p n="68">(a) Footnote 1 is deleted.</p>
+      <p n="69">(b) The title is replaced by the following:</p>
+      <p n="70">"SCOPE, DEFINITIONS, APPLICATION FOR EC TYPE-APPROVAL OF A VEHICLE TYPE, SPECIFICATIONS, GRANTING OF EC TYPE-APPROVAL OF A VEHICLE TYPE, MODIFICATIONS OF THE TYPE AND AMENDMENTS TO APPROVALS AND CONFORMITY OF PRODUCTION".</p>
+      <p n="71">(c) Item 1 is replaced by the following:</p>
+      <p n="72">"1. SCOPE</p>
+      <p n="73">This Directive applies to vehicles of category M1 as defined in Annex II, Section A to Directive 70/156/EEC".</p>
+      <p n="74">(d) Items 2.1 and 2.2 are replaced by the following:</p>
+      <p n="75">"2.1. 'Interior fittings' are:</p>
+      <p n="76">2.1.1. interior parts of the passenger compartment other than the interior rear-view mirrors;</p>
+      <p n="77">2.1.2. the layout of the controls;</p>
+      <p n="78">2.1.3. the roof or opening roof;</p>
+      <p n="79">2.1.4. the backrest and the rear part of the seats;</p>
+      <p n="80">2.1.5. power-operated windows, roof panel and partition systems.</p>
+      <p n="81">2.2. 'Vehicle type' with respect to the interior fittings of a passenger compartment means motor vehicles which do not differ in such essential respects as:".</p>
+      <p n="82">(e) The following items are inserted:</p>
+      <p n="83">"2.2.3. the roof or opening roof;</p>
+      <p n="84">2.2.4. the backrest and the rear part of the seats;</p>
+      <p n="85">2.2.5. power-operated windows, roof panel and partition systems".</p>
+      <p n="86">(f) The following items are inserted:</p>
+      <p n="87">"2.10. 'Power-operated windows' means windows which are closed by power supply of the vehicle.</p>
+      <p n="88">2.11. 'Power-operated roof-panel systems' means movable panels in the vehicle roof which are closed by power supply of the vehicle by either a sliding or tilting motion, and which do not include convertible top systems.</p>
+      <p n="89">2.12. 'Power-operated partition systems' means systems which divide a passenger car compartment into at least two sections and which are closed using the power supply of the vehicle.</p>
+      <p n="90">2.13. 'Opening' is the maximum unobstructed aperture between the upper edge or the leading edge, depending on the closing direction, of a power-operated window or partition or roof panel and the vehicle structure which forms the boundary of the window, partition or roof panel, when viewed from the interior of the vehicle or, in the case of partition system, from the rear part of the passenger compartment.</p>
+      <p n="91">To measure an opening, a cylindrical test rod shall (without exerting force) be placed through it normally perpendicular to the window, roof panel or partition as shown in Figure 1, from the interior of the vehicle or, as applicable, from the rear part of passenger compartment".</p>
+      <p n="92">(g) Items 3 to 3.3 are replaced by the following:</p>
+      <p n="93">"3. APPLICATION FOR EC TYPE-APPROVAL OF A VEHICLE TYPE</p>
+      <p n="94">3.1. The application for EC type-approval pursuant to Article 3(4) of Directive 70/156/EEC of a vehicle type with regard to its interior fittings shall be submitted by the manufacturer.</p>
+      <p n="95">3.2. A model of the information document is given in Appendix 1.</p>
+      <p n="96">3.3. The following must be submitted to the technical service responsible for conducting the type-approval tests:".</p>
+      <p n="97">(h) The following items are inserted:</p>
+      <p n="98">"5.5.2. Power-operated roof-panel systems</p>
+      <p n="99">5.5.2.1. In addition, power-operated roof-panel systems and their controls shall meet the requirements of Item 5.8 below".</p>
+      <p n="100">(i) Items 5.8 and 5.8.1 are renumbered as Items 5.9 and 5.9.1.</p>
+      <p n="101">(j) The following items are inserted:</p>
+      <p n="102">"5.8. Power-operated windows, roof-panel systems and partition systems</p>
+      <p n="103">5.8.1. The requirements below apply to power-operated windows/roof-panel systems/partition systems to minimise the possibility of injuries caused by accidental or improper operation.</p>
+      <p n="104">5.8.2. Normal operating requirements</p>
+      <p n="105">Except as provided in Item 5.8.3, power-operated windows/roof-panel systems/partition systems may be closed under one or more of the following conditions:</p>
+      <p n="106">5.8.2.1. when the ignition key is inserted in the ignition control in any position of use;</p>
+      <p n="107">5.8.2.2. by muscular force unassisted by power supply of the vehicle;</p>
+      <p n="108">5.8.2.3. on continuous activation by a locking system on the outside of the vehicle;</p>
+      <p n="109">5.8.2.4. during the interval of time between the moment the ingnition has been switched from 'on' to 'off' and/or the key has been removed and the moment that neither of the two front doors has been opened sufficiently to permit egress of occupants;</p>
+      <p n="110">5.8.2.5. when the closing movement of a power-operated window, roof panel or partition starts at an opening not exceeding 4 mm;</p>
+      <p n="111">5.8.2.6. when the power-operated window of a vehicle's door without an upper door frame closes automatically whenever the pertinent door is closed. In this case the maximum opening, as defined in Item 2.13, prior to window closing, shall not exceed 12 mm.</p>
+      <p n="112">5.8.2.7. Remote closing shall be allowed by continuous activation of a remote actuation device, provided one of the following conditions is fulfilled:</p>
+      <p n="113">5.8.2.7.1. the remote actuation device shall be incapable of closing the power-operated window/roof panel/partition from a distance of more than 11 metres from the vehicle;</p>
+      <p n="114">5.8.2.7.2. the remote actuation device shall be incapable of closing the power-operated window/roof panel/partition:</p>
+      <p n="115">- if the actuation device and the vehicle are separated by an opaque surface</p>
+      <p n="116">and</p>
+      <p n="117">- if from the distance between the remote actuation device and the vehicle is more than 6 metres.</p>
+      <p n="118">5.8.2.8. One-touch closing shall be permitted only for the power-operated window of the driver's door and the roof panel, and only during the time when the ignition key is in the engine running position.</p>
+      <p n="119">5.8.3. Auto-reversing requirements</p>
+      <p n="120">5.8.3.1. None of the requirements in Item 5.8.2 shall apply if a power-operated window/roof panel system/partition is fitted with an auto-reversing device.</p>
+      <p n="121">5.8.3.1.1. This device shall reverse the window/roof panel/partition before it exerts a pinch force of more than 100 N within the opening of 200 mm to 4 mm above the top edge of a power-operated window/partition or in front of the leading edge of a sliding roof panel and at the trailing edge of a tilting roof panel.</p>
+      <p n="122">5.8.3.1.2. After such an auto-reversal, the window or roof panel or partition shall open to one of the following positions:</p>
+      <p n="123">5.8.3.1.2.1. a position that permits a semi-rigid cylindrical rod of a diameter of 200 mm to be placed through the opening at the same contact point(s) used to determine the reversing behaviour in Item 5.8.3.1.1;</p>
+      <p n="124">5.8.3.1.2.2. a position that represents at least the initial position before closing was initiated;</p>
+      <p n="125">5.8.3.1.2.3. a position at least 50 mm more open than the position at the time when reversing was initiated;</p>
+      <p n="126">5.8.3.1.2.4. in the case of tilting motion of a roof panel, the maximum angular opening.</p>
+      <p n="127">5.8.3.1.3. To check power-operated windows/roof-panel systems/partition systems with reversing devices, a measuring instrument/test rod shall be placed through the opening from the inside of the vehicle or, in the case of a partition system, from the rear part of the passenger compartment in such a way that the cylindrical surface of the rod contacts any part of the vehicle structure which forms the boundary of the window/roof-panel aperture/partition. The force deflection ratio of the measuring instrument shall be not more than 10 N/mm. The position of the test rods (normally located perpendicular to the window/roof panel/-partition) are illustrated in Appendix 3, Figure 1.</p>
+      <p n="128">5.8.4. Switch location and operation</p>
+      <p n="129">5.8.4.1. Switches of power-operated windows/roof panels/partitions shall be located or operated in such a way to minimise the risk of accidental closing. The switches shall require continuous actuation for closing except in the case of Items 5.8.2.6, 5.8.2.8 or 5.8.3.</p>
+      <p n="130">5.8.4.2. All rear-window, roof-panel and partition switches intended for use by occupants in the rear of the vehicle shall be capable of being switched off by a driver-controlled switch which is located forward of a vertical transverse plane passing through the R points of the front seats. The driver controlled switch is not required if a rear window, roof panel or partition is equipped with an auto-reversing device. If, however, the driver-controlled switch is present, it shall not be able to override the auto-reversing device.</p>
+      <p n="131">The driver-controlled switch shall be located so as to minimise any accidental manipulating. It shall be identified by the symbol shown in Appendix 4.</p>
+      <p n="132">5.8.5. Protection devices</p>
+      <p n="133">All protection devices which are used to prevent damage to the power source in the case of an overload or stalling shall be capable of resetting automatically while the switch controlling the window/roof panel/partition is activated.</p>
+      <p n="134">5.8.6. Handbook instructions</p>
+      <p n="135">5.8.6.1. The owner's manual of the vehicle shall contain clear instructions relating to the power-operated window/roof panel/partition, including:</p>
+      <p n="136">5.8.6.1.1. explanation of possible consequences (entrapment),</p>
+      <p n="137">5.8.6.1.2. use of the driver-controlled switch,</p>
+      <p n="138">5.8.6.1.3. a 'WARNING' message indicating the dangers, particularly to children in the case of improper use/activation of the power-operated windows/roof-panel systems/partition systems. This information should indicate the responsibilities of the driver, including instructions for other occupants and the recommendation to leave the vehicle only if the key is removed from the ignition lock,</p>
+      <p n="139">5.8.6.1.4. a 'WARNING' message indicating that special care should be taken when using remote closing systems (see Item 5.8.2.7), for example to actuate it only when the operator has a clear view of the vehicle to be sure that nobody can be trapped by power-operated windows/roof-panel/partition equipment".</p>
+      <p n="140">(k) Items 6, 7 and 8 are replaced by the following:</p>
+      <p n="141">"6. GRANTING OF EC TYPE-APPROVAL OF A VEHICLE TYPE</p>
+      <p n="142">6.1. If the relevant requirements are satisfied, EC type-approval shall be granted pursuant to Article 4(3) of Directive 70/156/EEC.</p>
+      <p n="143">6.2. A model for the EC type-approval certificate is given in Appendix 2.</p>
+      <p n="144">6.3. An approval number in accordance with Annex VII to Directive 70/156/EEC shall be assigned to each type of vehicle approved. The same Member State shall not assign the same number to another type of vehicle.</p>
+      <p n="145">7. MODIFICATIONS OF THE TYPE AND AMENDMENTS TO APPROVALS</p>
+      <p n="146">7.1. In the case of modifications of the type approved pursuant to this Directive, the provisions of Article 5 of Directive 70/156/EEC shall apply.</p>
+      <p n="147">8. CONFORMITY OF PRODUCTION</p>
+      <p n="148">8.1. Measures to ensure the conformity of production shall be taken in accordance with the provisions laid down in Article 10 to Directive 70/156/EEC".</p>
+      <p n="149">(l) The following Appendices are inserted:</p>
+      <p n="150">"Appendix 1</p>
+      <p n="151">&gt;PIC FILE= "L_2000087EN.002802.EPS"&gt;</p>
+      <p n="152">Appendix 2</p>
+      <p n="153">&gt;PIC FILE= "L_2000087EN.002902.EPS"&gt;</p>
+      <p n="154">Appendix 3</p>
+      <p n="155">&gt;PIC FILE= "L_2000087EN.003002.EPS"&gt;</p>
+      <p n="156">Appendix 4</p>
+      <p n="157">&gt;PIC FILE= "L_2000087EN.003102.EPS"&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

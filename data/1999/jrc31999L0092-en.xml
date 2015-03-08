@@ -1,0 +1,241 @@
+<TEI.2 id="jrc31999L0092-en" n="31999L0092" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999L0092 English</title>
+        <title>Directive 1999/92/EC of the European Parliament and of the Council of 16 December 1999 on minimum requirements for improving the safety and health protection of workers potentially at risk from explosive atmospheres (15th individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC)</title>
+      </titleStmt>
+      <extent>205 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0092:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999L0092:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1280</classCode>
+        <classCode scheme="eurovoc">4039</classCode>
+        <classCode scheme="eurovoc">4074</classCode>
+        <classCode scheme="eurovoc">5234</classCode>
+        <classCode scheme="eurovoc">945</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999L0092-en." lang="en">
+    <body>
+      <head n="1">Directive 1999/92/EC of the European Parliament and of the Council of 16 December 1999 on minimum requirements for improving the safety and health protection of workers potentially at risk from explosive atmospheres (15th individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC)</head>
+      <p n="2">DIRECTIVE 1999/92/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</p>
+      <p n="3">of 16 December 1999</p>
+      <p n="4">on minimum requirements for improving the safety and health protection of workers potentially at risk from explosive atmospheres (15th individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC)</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 137 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1), submitted after consultation with the Advisory Committee on Safety, Hygiene and Health Protection at Work and the Safety and Health Commission for the Mining and Other Extractive Industries,</p>
+      <p n="8">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="9">After consulting the Committee of the Regions,</p>
+      <p n="10">Acting in accordance with the procedure referred to in Article 251 of the Treaty, in the light of the joint text approved by the Conciliation Committee on 21 October 1999(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Article 137 of the Treaty provides that the Council may adopt, by means of Directives, minimum requirements for encouraging improvements, especially in the working environment, to guarantee a better level of protection of the health and safety of workers;</p>
+      <p n="13">(2) Under the terms of that Article, those Directives are to avoid imposing administrative, financial and legal constraints in a way which would hold back the creation and development of small and medium-sized undertakings;</p>
+      <p n="14">(3) The improvement of occupational safety, hygiene and health is an objective which should not be subordinated to purely economic considerations;</p>
+      <p n="15">(4) Compliance with the minimum requirements for improving the safety and health protection of workers potentially at risk from explosive atmospheres is essential if workers' safety and health protection is to be ensured;</p>
+      <p n="16">(5) This Directive is an individual Directive within the meaning of Article 16(1) of Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work(4); therefore, the provisions of the said Directive, in particular those relating to worker information, to the consultation and participation of workers and to the training of workers, are also fully applicable to cases in which workers are potentially at risk from explosive atmospheres, without prejudice to more restrictive or specific provisions contained in this Directive;</p>
+      <p n="17">(6) This Directive constitutes a practical step towards the achievement of the social dimension of the internal market;</p>
+      <p n="18">(7) Directive 94/9/EC of the European Parliament and of the Council of 23 March 1994 on the approximation of the laws of the Member States concerning equipment and protective systems intended for use in potentially explosive atmospheres(5) states that it is intended to prepare an additional Directive based on Article 137 of the Treaty covering, in particular, explosion hazards which derive from a given use and/or types and methods of installation of equipment;</p>
+      <p n="19">(8) Explosion protection is of particular importance to safety; whereas explosions endanger the lives and health of workers as a result of the uncontrolled effects of flame and pressure, the presence of noxious reaction products and consumption of the oxygen in the ambient air which workers need to breathe;</p>
+      <p n="20">(9) The establishment of a coherent strategy for the prevention of explosions requires that organisational measures complement the technical measures taken at the workplace; Directive 89/391/EEC requires the employer to be in possession of an assessment of the risks to workers' health and safety at work; this requirement is to be regarded as being specified by this Directive in that it provides that the employer is to draw up an explosion protection document, or set of documents, which satisfies the minimum requirements laid down in this Directive and is to keep it up to date; the explosion protection document includes the identification of the hazards, the evaluation of risks and the definition of the specific measures to be taken to safeguard the health and safety of workers at risk from explosive atmospheres, in accordance with Article 9 of Directive 89/391/EEC; the explosion protection document may be part of the assessment of the risks to health and safety at work required by Article 9 of Directive 89/391/EEC;</p>
+      <p n="21">(10) An assessment of explosion risks may be required under other Community acts; whereas, in order to avoid unnecessary duplication of work, the employer should be allowed, in accordance with national practice, to combine documents, parts of documents or other equivalent reports produced under other Community acts to form a single "safety report";</p>
+      <p n="22">(11) The prevention of the formation of explosive atmospheres also includes the application of the substitution principle;</p>
+      <p n="23">(12) Coordination should take place when workers from several undertakings are present at the same workplace;</p>
+      <p n="24">(13) Preventive measures must be supplemented if necessary by additional measures which become effective when ignition has taken place; maximum safety can be achieved by combining preventive measures with other additional measures limiting the detrimental effects of explosions on workers;</p>
+      <p n="25">(14) Council Directive 92/58/EEC of 24 June 1992 on the minimum requirements for the provision of safety and/or health signs at work (ninth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC)(6) is fully applicable, in particular to places immediately contiguous to hazardous areas, where smoking, crosscutting, welding and other activities introducing flames or sparks may interact with the hazardous area;</p>
+      <p n="26">(15) Directive 94/9/EC divides the equipment and protective systems which it covers into equipment groups and categories; this Directive provides for a classification by the employer of the places where explosive atmospheres may occur in terms of zones and determines which equipment and protective systems groups and categories should be used in each zone,</p>
+      <p n="27">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="28">SECTION I</p>
+      <p n="29">GENERAL PROVISIONS</p>
+      <p n="30">Article 1</p>
+      <p n="31">Object and scope</p>
+      <p n="32">1. This Directive, which is the 15th individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC, lays down minimum requirements for the safety and health protection of workers potentially at risk from explosive atmospheres as defined in Article 2.</p>
+      <p n="33">2. This Directive shall not apply to:</p>
+      <p n="34">(a) areas used directly for and during the medical treatment of patients;</p>
+      <p n="35">(b) the use of appliances burning gaseous fuels in accordance with Directive 90/396/EEC(7);</p>
+      <p n="36">(c) the manufacture, handling, use, storage and transport of explosives or chemically unstable substances;</p>
+      <p n="37">(d) mineral-extracting industries covered by Directive 92/91/EEC(8) or Directive 92/104/EEC(9);</p>
+      <p n="38">(e) the use of means of transport by land, water and air, to which the pertinent provisions of the international agreements (e.g. ADNR, ADR, ICAO, IMO, RID), and the Community Directives giving effect to those agreements, apply. Means of transport intended for use in a potentially explosive atmosphere shall not be excluded.</p>
+      <p n="39">3. The provisions of Directive 89/391/EEC and the relevant individual Directives are fully applicable to the domain referred to in paragraph 1, without prejudice to more restrictive and/or specific provisions contained in this Directive.</p>
+      <p n="40">Article 2</p>
+      <p n="41">Definition</p>
+      <p n="42">For the purposes of this Directive, "explosive atmosphere" means a mixture with air, under atmospheric conditions, of flammable substances in the form of gases, vapours, mists or dusts in which, after ignition has occurred, combustion spreads to the entire unburned mixture.</p>
+      <p n="43">SECTION II</p>
+      <p n="44">OBLIGATIONS OF THE EMPLOYER</p>
+      <p n="45">Article 3</p>
+      <p n="46">Prevention of and protection against explosions</p>
+      <p n="47">With a view to preventing, within the meaning of Article 6(2) of Directive 89/391/EEC, and providing protection against explosions, the employer shall take technical and/or organisational measures appropriate to the nature of the operation, in order of priority and in accordance with the following basic principles:</p>
+      <p n="48">- the prevention of the formation of explosive atmospheres, or where the nature of the activity does not allow that,</p>
+      <p n="49">- the avoidance of the ignition of explosive atmospheres, and</p>
+      <p n="50">- the mitigation of the detrimental effects of an explosion so as to ensure the health and safety of workers.</p>
+      <p n="51">These measures shall where necessary be combined and/or supplemented with measures against the propagation of explosions and shall be reviewed regularly and, in any event, whenever significant changes occur.</p>
+      <p n="52">Article 4</p>
+      <p n="53">Assessment of explosion risks</p>
+      <p n="54">1. In carrying out the obligations laid down in Articles 6(3) and 9(1) of Directive 89/391/EEC the employer shall assess the specific risks arising from explosive atmospheres, taking account at least of:</p>
+      <p n="55">- the likelihood that explosive atmospheres will occur and their persistence,</p>
+      <p n="56">- the likelihood that ignition sources, including electrostatic discharges, will be present and become active and effective,</p>
+      <p n="57">- the installations, substances used, processes, and their possible interactions,</p>
+      <p n="58">- the scale of the anticipated effects.</p>
+      <p n="59">Explosion risks shall be assessed overall.</p>
+      <p n="60">2. Places which are or can be connected via openings to places in which explosive atmospheres may occur shall be taken into account in assessing explosion risks.</p>
+      <p n="61">Article 5</p>
+      <p n="62">General obligations</p>
+      <p n="63">To ensure the safety and health of workers, and in accordance with the basic principles of risk assessment and those laid down in Article 3, the employer shall take the necessary measures so that:</p>
+      <p n="64">- where explosive atmospheres may arise in such quantities as to endanger the health and safety of workers or others, the working environment is such that work can be performed safely,</p>
+      <p n="65">- in working environments where explosive atmospheres may arise in such quantities as to endanger the safety and health of workers, appropriate supervision during the presence of workers is ensured in accordance with the risk assessment by the use of appropriate technical means.</p>
+      <p n="66">Article 6</p>
+      <p n="67">Duty of coordination</p>
+      <p n="68">Where workers from several undertakings are present at the same workplace, each employer shall be responsible for all matters coming under his control.</p>
+      <p n="69">Without prejudice to the individual responsibility of each employer as provided for in Directive 89/391/EEC, the employer responsible for the workplace in accordance with national law and/or practice shall coordinate the implementation of all the measures concerning workers' health and safety and shall state, in the explosion protection document referred to in Article 8, the aim of that coordination and the measures and procedures for implementing it.</p>
+      <p n="70">Article 7</p>
+      <p n="71">Places where explosive atmospheres may occur</p>
+      <p n="72">1. The employer shall classify places where explosive atmospheres may occur into zones in accordance with Annex I.</p>
+      <p n="73">2. The employer shall ensure that the minimum requirements laid down in Annex II are applied to places covered by paragraph 1.</p>
+      <p n="74">3. Where necessary, places where explosive atmospheres may occur in such quantities as to endanger the health and safety of workers shall be marked with signs at their points of entry in accordance with Annex III.</p>
+      <p n="75">Article 8</p>
+      <p n="76">Explosion protection document</p>
+      <p n="77">In carrying out the obligations laid down in Article 4, the employer shall ensure that a document, hereinafter referred to as the "explosion protection document", is drawn up and kept up to date.</p>
+      <p n="78">The explosion protection document shall demonstrate in particular:</p>
+      <p n="79">- that the explosion risks have been determined and assessed,</p>
+      <p n="80">- that adequate measures will be taken to attain the aims of this Directive,</p>
+      <p n="81">- those places which have been classified into zones in accordance with Annex I,</p>
+      <p n="82">- those places where the minimum requirements set out in Annex II will apply,</p>
+      <p n="83">- that the workplace and work equipment, including warning devices, are designed, operated and maintained with due regard for safety,</p>
+      <p n="84">- that in accordance with Council Directive 89/655/EEC(10), arrangements have been made for the safe use of work equipment.</p>
+      <p n="85">The explosion protection document shall be drawn up prior to the commencement of work and be revised when the workplace, work equipment or organisation of the work undergoes significant changes, extensions or conversions.</p>
+      <p n="86">The employer may combine existing explosion risk assessments, documents or other equivalent reports produced under other Community acts.</p>
+      <p n="87">Article 9</p>
+      <p n="88">Special requirements for work equipment and workplaces</p>
+      <p n="89">1. Work equipment for use in places where explosive atmospheres may occur which is already in use or is made available in the undertaking or establishment for the first time before 30 June 2003 shall comply from that date with the minimum requirements laid down in Annex II, Part A, if no other Community Directive is applicable or is so only partially.</p>
+      <p n="90">2. Work equipment for use in places where explosive atmospheres may occur which is made available in the undertaking or establishment for the first time after 30 June 2003 shall comply with the minimum requirements laid down in Annex II, Parts A and B.</p>
+      <p n="91">3. Workplaces which contain places where explosive atmospheres may occur and which are used for the first time after 30 June 2003 shall comply with minimum requirements set out in this Directive.</p>
+      <p n="92">4. Where workplaces which contain places where explosive atmospheres may occur are already in use before 30 June 2003, they shall comply with the minimum requirements set out in this Directive no later than three years after that date.</p>
+      <p n="93">5. If, after 30 June 2003, any modification, extension or restructuring is undertaken in workplaces containing places where explosive atmospheres may occur, the employer shall take the necessary steps to ensure that these comply with the minimum requirements set out in this Directive.</p>
+      <p n="94">SECTION III</p>
+      <p n="95">MISCELLANEOUS PROVISIONS</p>
+      <p n="96">Article 10</p>
+      <p n="97">Adjustments to the annexes</p>
+      <p n="98">Purely technical adjustments to the annexes made necessary by:</p>
+      <p n="99">- the adoption of Directives on technical harmonisation and standardisation in the field of explosion protection, and/or</p>
+      <p n="100">- technical progress, changes in international regulations or specifications, and new findings on the prevention of and protection against explosions,</p>
+      <p n="101">shall be adopted in accordance with the procedure laid down in Article 17 of Directive 89/391/EEC.</p>
+      <p n="102">Article 11</p>
+      <p n="103">Guide of good practice</p>
+      <p n="104">The Commission shall draw up practical guidelines in a guide of good practice of a non-binding nature. This guide shall address the topics referred to in Articles 3, 4, 5, 6, 7 and 8, Annex I and Annex II, Part A.</p>
+      <p n="105">The Commission shall first consult the Advisory Committee on Safety, Hygiene and Health Protection at Work in accordance with Council Decision 74/325/EEC(11).</p>
+      <p n="106">In the context of the application of this Directive, Member States shall take the greatest possible account of the abovementioned guide in drawing up their national policies for the protection of the health and safety of workers</p>
+      <p n="107">Article 12</p>
+      <p n="108">Information to undertakings</p>
+      <p n="109">Member States shall, on request, endeavour to make relevant information available to employers in accordance with Article 11, with particular reference to the guide of good practice</p>
+      <p n="110">Article 13</p>
+      <p n="111">Final provisions</p>
+      <p n="112">1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 30 June 2003. They shall forthwith inform the Commission thereof.</p>
+      <p n="113">When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.</p>
+      <p n="114">2. Member States shall communicate to the Commission the text of the provisions of domestic law which they have already adopted or adopt in the field governed by this Directive.</p>
+      <p n="115">3. Member States shall report to the Commission every five years on the practical implementation of the provisions of this Directive, indicating the points of view of employers and workers. The Commission shall inform thereof the European Parliament, the Council, the Economic and Social Committee and the Advisory Committee on Safety, Hygiene and Health Protection at Work.</p>
+      <p n="116">Article 14</p>
+      <p n="117">This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="118">Article 15</p>
+      <p n="119">This Directive is addressed to the Member States.</p>
+      <p n="120">Done at Brussels, 16 December 1999.</p>
+      <p n="121">For the European Parliament</p>
+      <p n="122">The President</p>
+      <p n="123">N. FONTAINE</p>
+      <p n="124">For the Council</p>
+      <p n="125">The President</p>
+      <p n="126">K. HEMILÄ</p>
+      <p n="127">(1) OJ C 332, 9.12.1995, p. 10 and OJ C 184, 17.6.1997, p. 1.</p>
+      <p n="128">(2) OJ C 153, 28.5.1996, p. 35.</p>
+      <p n="129">(3) Opinion of the European Parliament of 20 June 1996 (OJ C 198, 8.7.1996, p. 160) confirmed on 4 May 1999 (OJ C 279, 1.10.1999, p 55), Council Common Position of 22 December 1998 (OJ C 55, 25.2.1999, p. 45), Decision of the European Parliament of 6 May 1999 (OJ C 279, 1.10.1999, p. 386). Decision of the European Parliament of 2 December 1999 and Council Decision of 6 December 1999.</p>
+      <p n="130">(4) OJ L 183, 29.6.1989, p. 1.</p>
+      <p n="131">(5) OJ L 100, 19.4.1994, p. 1.</p>
+      <p n="132">(6) OJ L 245, 26.8.1992, p. 23.</p>
+      <p n="133">(7) OJ L 196, 26.7.1990, p. 15. Directive as amended by Directive 93/68/EEC (OJ L 220, 30.8.1993, p. 1).</p>
+      <p n="134">(8) OJ L 348, 28.11.1992, p. 9.</p>
+      <p n="135">(9) OJ L 404, 31.12.1992, p. 10.</p>
+      <p n="136">(10) OJ L 393, 30.12.1989, p. 13. Directive as amended by Directive 95/63/EC (OJ L 335, 30.12.1995, p. 28).</p>
+      <p n="137">(11) OJ L 185, 9.7.1974, p. 15. Decision as last amended by the 1994 Act of Accession.</p>
+      <p n="138">ANNEX I</p>
+      <p n="139">CLASSIFICATION OF PLACES WHERE EXPLOSIVE ATMOSPHERES MAY OCCUR</p>
+      <p n="140">Preliminary note</p>
+      <p n="141">The following system of classification must be applied to places where precautions in accordance with Articles 3, 4, 7 and 8 are taken.</p>
+      <p n="142">1. Places where explosive atmospheres may occur</p>
+      <p n="143">A place in which an explosive atmosphere may occur in such quantities as to require special precautions to protect the health and safey of the workers concerned is deemed to be hazardous within the meaning of this Directive.</p>
+      <p n="144">A place in which an explosive atmosphere is not expected to occur in such quantities as to require special precautions is deemed to be non-hazardous within the meaning of this Directive.</p>
+      <p n="145">Flammable and/or combustible substances are considered as materials which may form an explosive atmosphere unless an investigation of their properties has shown that in mixtures with air they are incapable of independently propagating an explosion.</p>
+      <p n="146">2. Classification of hazardous places</p>
+      <p n="147">Hazardous places are classified in terms of zones on the basis of the frequency and duration of the occurrence of an explosive atmosphere.</p>
+      <p n="148">The extent of the measures to be taken in accordance with Annex II, Part A, is determined by this classification.</p>
+      <p n="149">Zone 0</p>
+      <p n="150">A place in which an explosive atmosphere consisting of a mixture with air of flammable substances in the form of gas, vapour or mist is present continuously or for long periods or frequently.</p>
+      <p n="151">Zone 1</p>
+      <p n="152">A place in which an explosive atmosphere consisting of a mixture with air or flammable substances in the form of gas, vapour or mist is likely to occur in normal operation occasionally.</p>
+      <p n="153">Zone 2</p>
+      <p n="154">A place in which an explosive atmosphere consisting of a mixture with air of flammable substances in the form of gas, vapour or mist is not likely to occur in normal operation but, if it does occur, will persist for a short period only.</p>
+      <p n="155">Zone 20</p>
+      <p n="156">A place in which an explosive atmosphere in the form of a cloud of combustable dust in air is present continously, or for long periods or frequently.</p>
+      <p n="157">Zone 21</p>
+      <p n="158">A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is likely to occur in normal operation occasionally.</p>
+      <p n="159">Zone 22</p>
+      <p n="160">A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is not likely to occur in normal operation but, if it does occur, will persist for a short period only.</p>
+      <p n="161">Notes:</p>
+      <p n="162">1. Layers, deposits and heaps of combustible dust must be considered as any other source which can form an explosive atmosphere.</p>
+      <p n="163">2. "Normal operation" means the situation when installations are used within their design parameters.</p>
+      <p n="164">ANNEX II</p>
+      <p n="165">A. MINIMUM REQUIREMENTS FOR IMPROVING THE SAFETY AND HEALTH PROTECTION OF WORKERS POTENTIALLY AT RISK FROM EXPLOSIVE ATMOSPHERES</p>
+      <p n="166">Preliminary note</p>
+      <p n="167">The obligations laid down in this Annex apply to:</p>
+      <p n="168">- places classified as hazardous in accordance with Annex I whenever required by the features of workplaces, workstations, the equipment or substances used or the danger caused by the activity related to the risks from explosive atmospheres,</p>
+      <p n="169">- equipment in non-hazardous places which is required for, or helps to ensure, the safe operation of equipment located in hazardous places.</p>
+      <p n="170">1. Organisational measures</p>
+      <p n="171">1.1. Training of workers</p>
+      <p n="172">The employer must provide those working in places where explosive atmospheres may occur with sufficient and appropriate training with regard to explosion protection.</p>
+      <p n="173">1.2. Written instructions and permits to work</p>
+      <p n="174">Where required by the explosion protection document:</p>
+      <p n="175">- work in hazardous places must be carried out in accordance with written instructions issued by the employer,</p>
+      <p n="176">- a system of permits to work must be applied for carrying out both hazardous activities and activities which may interact with other work to cause hazards.</p>
+      <p n="177">Permits to work must be issued by a person with responsibility for this function prior to the commencement of work.</p>
+      <p n="178">2. Explosion protection measures</p>
+      <p n="179">2.1. Any escape and/or release, whether or not intentional, of flammable gases, vapours, mists or combustible dusts which may give rise to explosion hazards must be suitably diverted or removed to a safe place or, if that is not practicable, safely contained or rendered safe by some other suitable method.</p>
+      <p n="180">2.2. If an explosive atmosphere contains several types of flammable and/or combustible gases, vapours, mists or dusts, protective measures shall be appropriate to the greatest potential risk.</p>
+      <p n="181">2.3. Prevention of ignition hazards in accordance with Article 3 must also take account of electrostatic discharges, where workers or the working environment act as charge carrier or charge producer. Workers must be provided with appropriate working clothes consisting of materials which do not give rise to electrostatic discharges that can ignite explosive atmospheres.</p>
+      <p n="182">2.4. Plant, equipment, protective systems and any associated connecting devices must only be brought into service if the explosion protection document indicates that they can be safely used in an explosive atmosphere. This applies also to work equipment and associated connecting devices which are not regarded as equipment or protective systems within the meaning of Directive 94/9/EC if their incorporation into an installation can in itself give rise to an ignition hazard. Necessary measures must be taken to prevent confusion between connecting devices.</p>
+      <p n="183">2.5. All necessary measures must be taken to ensure that the workplace, work equipment and any associated connecting device made available to workers have been designed, constructed, assembled and installed, and are maintained and operated, in such a way as to minimise the risks of an explosion and, if an explosion does occur, to control or minimise its propagation within that workplace and/or work equipment. For such workplaces appropriate measures must be taken to minimise the risks to workers from the physical effects of an explosion.</p>
+      <p n="184">2.6. Where necessary, workers must be given optical and/or acoustic warnings and withdrawn before the explosion conditions are reached.</p>
+      <p n="185">2.7. Where required by the explosion protection document, escape facilities must be provided and maintained to ensure that, in the event of danger, workers can leave endangered places promptly and safely.</p>
+      <p n="186">2.8. Before a workplace containing places where explosive atmospheres may occur is used for the first time, its overall explosion safety must be verified. Any conditions necessary for ensuring explosion protection must be maintained.</p>
+      <p n="187">Such verification must be carried out by persons competent in the field of explosion protection as a result of their experience and/or professional training.</p>
+      <p n="188">2.9. Where the risk assessment shows it is necessary:</p>
+      <p n="189">- it must be possible, where power failure can give rise to the spread of additional risks, to maintain equipment and protective systems in a safe state of operation independently of the rest of the installation in the event of power failure,</p>
+      <p n="190">- manual override must be possible in order to shut down the equipment and protective systems incorporated within automatic processes which deviate from the intended operating conditions, provided that this does not compromise safety. Only workers competent to do so may take such action,</p>
+      <p n="191">- on operation of the emergency shutdown, accumulated energy must be dissipated as quickly and as safely as possible or isolated so that it no longer constitutes a hazard.</p>
+      <p n="192">B. CRITERIA FOR THE SELECTION OF EQUIPMENT AND PROTECTIVE SYSTEMS</p>
+      <p n="193">If the explosion protection document based on a risk assessment does not state otherwise, equipment and protective systems for all places in which explosive atmospheres may occur must be selected on the basis of the categories set out in Directive 94/9/EC.</p>
+      <p n="194">In particular, the following categories of equipment must be used in the zones indicated, provided they are suitable for gases, vapours or mists and/or dusts as appropriate:</p>
+      <p n="195">- in zone 0 or zone 20, category 1 equipment,</p>
+      <p n="196">- in zone 1 or zone 21, category 1 or 2 equipment,</p>
+      <p n="197">- in zone 2 or zone 22, category 1, 2 or 3 equipment.</p>
+      <p n="198">ANNEX III</p>
+      <p n="199">Warning sign for places where explosive atmospheres may occur, pursuant to Article 7(3):</p>
+      <p n="200">Place where explosive atmospheres may occur</p>
+      <p n="201">&gt;PIC FILE= "L_2000023EN.006402.EPS"&gt;</p>
+      <p n="202">Distinctive features:</p>
+      <p n="203">- triangular shape,</p>
+      <p n="204">- black letters on a yellow background with black edging (the yellow part to take up at least 50 % of the area of the sign).</p>
+      <p n="205">Member States may add other explanatory data if they wish.</p>
+    </body>
+  </text>
+</TEI.2>

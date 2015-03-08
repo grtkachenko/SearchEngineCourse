@@ -1,0 +1,64 @@
+<TEI.2 id="jrc31994L0014-en" n="31994L0014" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31994L0014 English</title>
+        <title>Commission Directive 94/14/EC of 29 March 1994 amending Seventh Directive 76/372/EEC establishing Community methods of analysis for the official control of feedingstuffs</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994L0014:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31994L0014:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31994L0014-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 94/14/EC of 29 March 1994 amending Seventh Directive 76/372/EEC establishing Community methods of analysis for the official control of feedingstuffs</head>
+      <p n="2">COMMISSION DIRECTIVE 94/14/EC of 29 March 1994 amending Seventh Directive 76/372/EEC establishing Community methods of analysis for the official control of feedingstuffs</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 70/373/EEC of 20 July 1970 on the introduction of Community methods of sampling and analysis for the official control of feedingstuffs (1), as last amended by Regulation (EEC) No 3768/85 (2), and in particular Article 2 thereof,</p>
+      <p n="6">Whereas the Seventh Commission Directive 76/372/EEC (3), as last amended by Directive 92/95/EEC (4), prescribes the methods to be used for the determination of aflatoxin B1;</p>
+      <p n="7">Whereas it is necessary to revise once more the dosage method used at present, in order to state precisely the operating procedure for preparing the sample and to define the rules for the expression of the results;</p>
+      <p n="8">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee for Feedingstuffs,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Annex to Directive 76/372/EEC is amended as shown in the Annex.</p>
+      <p n="12">Article 2</p>
+      <p n="13">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with the provisions of this Directive, not later than one year after its entry into force. They shall immediately inform the Commission thereof.</p>
+      <p n="14">When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="15">Article 3</p>
+      <p n="16">This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">Article 4</p>
+      <p n="18">This Directive is addressed to the Member States.</p>
+      <p n="19">Done at Brussels, 29 March 1994.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">René STEICHEN</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ No L 170, 3. 8. 1970, p. 2.</p>
+      <p n="24">(2) OJ No L 362, 31. 12. 1985, p. 8.</p>
+      <p n="25">(3) OJ No L 102, 15. 4. 1976, p. 8.</p>
+      <p n="26">(4) OJ No L 327, 13. 11. 1992, p. 54.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">Part C of the Annex to Directive 76/372/EEC is replaced by the following:</p>
+      <p n="29">'C. Observations concerning Methods A and B</p>
+      <p n="30">1. Defatting</p>
+      <p n="31">Samples containing more than 5 % fats must be defatted with light petroleum (bp 40 to 60 °C) after the preparations indicated in 5.1.</p>
+      <p n="32">In such cases, the analytical results must be expressed in terms of the weight of the non-defatted sample.</p>
+      <p n="33">2. Reproducibility of the results for Method A</p>
+      <p n="34">The reproducibility of the results, i.e. the variation between the results obtained by two or more laboratories on the same sample has been estimated at:</p>
+      <p n="35">± 50 % of the mean value for mean values of aflatoxin B, from 10 and up to 20 mg/kg;</p>
+      <p n="36">± 10 mg/kg on the mean value for mean values greater than 20 and up to 50 mg/kg;</p>
+      <p n="37">± 20 % of the mean value for mean values above 50 mg/kg.'</p>
+    </body>
+  </text>
+</TEI.2>

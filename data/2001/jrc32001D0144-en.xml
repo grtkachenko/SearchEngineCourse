@@ -1,0 +1,69 @@
+<TEI.2 id="jrc32001D0144-en" n="32001D0144" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0144 English</title>
+        <title>2001/144/EC: Commission Decision of 12 February 2001 amending Decision 93/195/EEC on animal health conditions and veterinary certification for the re-entry of registered horses for racing, competition and cultural events after temporary export (Text with EEA relevance) (notified under document number C(2001) 347)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0144:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0144:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1780</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">5369</classCode>
+        <classCode scheme="eurovoc">5723</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+        <classCode scheme="eurovoc">97</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0144-en." lang="en">
+    <body>
+      <head n="1">2001/144/EC: Commission Decision of 12 February 2001 amending Decision 93/195/EEC on animal health conditions and veterinary certification for the re-entry of registered horses for racing, competition and cultural events after temporary export (Text with EEA relevance) (notified under document number C(2001) 347)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 12 February 2001</p>
+      <p n="4">amending Decision 93/195/EEC on animal health conditions and veterinary certification for the re-entry of registered horses for racing, competition and cultural events after temporary export</p>
+      <p n="5">(notified under document number C(2001) 347)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/144/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/426/EEC of 26 June 1990 on animal health conditions governing the movement and import from third countires of equidae(1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Article 19(ii) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) In accordance with Commission Decision 93/195/EEC(2), as last amended by Decision 2000/754/EC(3), the re-entry of registered horses for racing, competition and cultural events after temporary export is restricted to horses kept for less than 30 days in a third country.</p>
+      <p n="13">(2) In order to make it easier for horses originating in the Community to take part in the United Arab Emirates Endurance World Cup that period should be extended to less than 60 days.</p>
+      <p n="14">(3) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="15">HAS ADOPTED THIS DECISION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Decision 93/195/EEC is amended as follows:</p>
+      <p n="18">1. A seventh indent is added to Article 1 as follows:</p>
+      <p n="19">"- have taken part in the United Arab Emirates Endurance World Cup and meet the requirements laid down in a health certificate in accordance with the model set out in Annex VII to this Decision."</p>
+      <p n="20">2. The Annex of this Decision is added as Annex VII.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 12 February 2001.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 224, 18.8.1990, p. 42.</p>
+      <p n="28">(2) OJ L 86, 6.4.1993, p. 1.</p>
+      <p n="29">(3) OJ L 303, 2.12.2000, p. 34.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">"ANNEX VII</p>
+      <p n="32">&gt;PIC FILE= "L_2001053EN.002403.EPS"&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

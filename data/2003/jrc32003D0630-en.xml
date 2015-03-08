@@ -1,0 +1,74 @@
+<TEI.2 id="jrc32003D0630-en" n="32003D0630" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0630 English</title>
+        <title>2003/630/EC: Commission Decision of 29 August 2003 laying down the transitional measures to be applied by Hungary with regard to veterinary checks on products of animal origin from Romania (Text with EEA relevance) (notified under document number C(2003) 3074)</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0630:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0630:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1255</classCode>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">3763</classCode>
+        <classCode scheme="eurovoc">5540</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0630-en." lang="en">
+    <body>
+      <head n="1">2003/630/EC: Commission Decision of 29 August 2003 laying down the transitional measures to be applied by Hungary with regard to veterinary checks on products of animal origin from Romania (Text with EEA relevance) (notified under document number C(2003) 3074)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 29 August 2003</p>
+      <p n="4">laying down the transitional measures to be applied by Hungary with regard to veterinary checks on products of animal origin from Romania</p>
+      <p n="5">(notified under document number C(2003) 3074)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/630/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 97/78/EC of 18 December 1997 laying down the principles governing the organisation of veterinary checks on products entering the Community from third countries(1), as amended by Annex II(6)(B)(1)(53)(b) to the Act of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia, and in particular Article 21 thereof,</p>
+      <p n="11">Having regard to the Act concerning the conditions of accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to the European Union, and to the adjustments to the Treaties on which the European Union is founded, and in particular Article 42 thereof,</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) Hungary has been granted a transitional period of three years for certain aspects of the veterinary checks regime concerning the standards for the facilities required at the border with Romania, for the checks on products of animal origin.</p>
+      <p n="14">(2) This provision is limited only to the requirements for facilities, and all other aspects of the veterinary checks procedures should be carried out according to EU requirements.</p>
+      <p n="15">(3) Provisions should therefore be made to identify the border inspection post where products of animal origin coming from Romania could be checked at the border with Hungary, and to provide appropriate derogation to the requirements applicable to the inspection facilities for products of animal origin at this border inspection post.</p>
+      <p n="16">(4) The derogation to the separation rule applicable to low throughput border inspection posts provided for in Article 4(5) of Commission Decision 2001/812/EC(2) should apply irrespective of the maximum number of consignments set by this derogation.</p>
+      <p n="17">(5) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">Products of animal origin coming by road transport from Romania must enter the territory of Hungary through the border inspection post listed in the Annex.</p>
+      <p n="21">Article 2</p>
+      <p n="22">Article 4(5) of Decision 2001/812/EC shall apply to the border inspection post listed in the Annex, without limit on the number of consignments passing through that border inspection post.</p>
+      <p n="23">Article 3</p>
+      <p n="24">This Decision shall take effect subject to and on the date of entry into force of the Act of Accession.</p>
+      <p n="25">Article 4</p>
+      <p n="26">This Decision is applicable until 30 April 2007.</p>
+      <p n="27">Article 5</p>
+      <p n="28">This Decision is addressed to the Member States.</p>
+      <p n="29">Done at Brussels, 29 August 2003.</p>
+      <p n="30">For the Commission</p>
+      <p n="31">David Byrne</p>
+      <p n="32">Member of the Commission</p>
+      <p n="33">(1) OJ L 24, 30.1.1998, p. 9.</p>
+      <p n="34">(2) OJ L 306, 23.11.2001, p. 28.</p>
+      <p n="35">ANNEX</p>
+      <p n="36">Border inspection posts on the Hungarian-Romanian border</p>
+      <p n="37">Nagylak</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,59 @@
+<TEI.2 id="jrc31998D0278-en" n="31998D0278" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0278 English</title>
+        <title>98/278/EC: Council Decision of 7 April 1998 concerning the conclusion of a framework agreement on cooperation between the European Economic Community and the Cartagena Agreement and its member countries, namely the Republic of Bolivia, the Republic of Colombia, the Republic of Ecuador, the Republic of Peru and the Republic of Venezuela</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0278:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0278:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1379</classCode>
+        <classCode scheme="eurovoc">1632</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+        <classCode scheme="eurovoc">863</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0278-en." lang="en">
+    <body>
+      <head n="1">98/278/EC: Council Decision of 7 April 1998 concerning the conclusion of a framework agreement on cooperation between the European Economic Community and the Cartagena Agreement and its member countries, namely the Republic of Bolivia, the Republic of Colombia, the Republic of Ecuador, the Republic of Peru and the Republic of Venezuela</head>
+      <p n="2">COUNCIL DECISION of 7 April 1998 concerning the conclusion of a framework agreement on cooperation between the European Economic Community and the Cartagena Agreement and its member countries, namely the Republic of Bolivia, the Republic of Colombia, the Republic of Ecuador, the Republic of Peru and the Republic of Venezuela (98/278/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Articles 113 and 130y, in conjunction with Article 228(2), first sentence and (3) first subparagraph thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas the Community, for the attainment of its aims in the sphere of external economic relations, should approve the framework agreement on cooperation between the European Economic Community and the Cartagena Agreement and its member countries, namely the Republic of Bolivia, the Republic of Colombia, the Republic of Ecuador, the Republic of Peru and the Republic of Venezuela,</p>
+      <p n="8">HAS DECIDED AS FOLLOWS:</p>
+      <p n="9">Article 1</p>
+      <p n="10">The framework agreement on cooperation between the European Economic Community and the Cartagena Agreement and its member countries, namely the Republic of Bolivia, the Republic of Colombia, the Republic of Ecuador, the Republic of Peru and the Republic of Venezuela is hereby approved on behalf of the Community.</p>
+      <p n="11">The text of the agreement is attached to this Decision.</p>
+      <p n="12">Article 2</p>
+      <p n="13">The President of the Council shall give the notification provided for in Article 37 of the agreement.</p>
+      <p n="14">Article 3</p>
+      <p n="15">The Commission, assisted by representatives of the Member States, shall represent the Community in the joint committee set up by Article 32 of the agreement.</p>
+      <p n="16">Article 4</p>
+      <p n="17">This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="18">Done at Luxembourg, 7 April 1998.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">D. BLUNKETT</p>
+      <p n="22">(1) OJ C 25, 28. 1. 1993, p. 31.</p>
+      <p n="23">(2) OJ C 234, 30. 8. 1993 and</p>
+      <p n="24">OJ C 80, 16. 3. 1998.</p>
+    </body>
+  </text>
+</TEI.2>

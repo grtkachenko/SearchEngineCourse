@@ -1,0 +1,65 @@
+<TEI.2 id="jrc32003R1467-en" n="32003R1467" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1467 English</title>
+        <title>Commission Regulation (EC) No 1467/2003 of 19 August 2003 amending Regulation (EC) No 1898/97 as regards the rules of application in the pigmeat sector for the arrangements under the Europe Agreement with Poland</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1467:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1467:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2543</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">4385</classCode>
+        <classCode scheme="eurovoc">4692</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1467-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1467/2003 of 19 August 2003 amending Regulation (EC) No 1898/97 as regards the rules of application in the pigmeat sector for the arrangements under the Europe Agreement with Poland</head>
+      <p n="2">Commission Regulation (EC) No 1467/2003</p>
+      <p n="3">of 19 August 2003</p>
+      <p n="4">amending Regulation (EC) No 1898/97 as regards the rules of application in the pigmeat sector for the arrangements under the Europe Agreement with Poland</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Decision 2003/263/EC of 27 March 2003 on the signature and conclusion of a Protocol adjusting the trade aspects of the Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Poland, of the other part, to take account of the outcome of negotiations between the parties on new mutual agricultural concessions(1), and in particular Article 3 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) When Commission Regulation (EC) No 1898/97 of 29 September 1997 laying down rules for the application in the pigmeat sector of the arrangements provided for in the Europe Agreements with Bulgaria, the Czech Republic, Slovakia, Romania, Poland and Hungary(2) was last amended by Regulation (EC) No 1160/2003(3), the combined nomenclature codes of some of the products in Annex A(b) to the Protocol annexed to Decision 2003/263/EC were omitted by mistake. As a result, Part B of Annex I to Regulation (EC) No 1898/97 should be amended.</p>
+      <p n="10">(2) The information on the agreement with Poland published in the Official Journal of the European Union(4) states that the Protocol annexed to Decision 2003/263/EC entered into force on 1 April 2003. The amendment provided for in this Regulation should also apply from that date.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Pigmeat,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Part B of Annex I to Regulation (EC) No 1898/97 is hereby replaced by the Annex hereto.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="17">It shall apply from 1 April 2003.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 19 August 2003.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz Fischler</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 97, 15.4.2003, p. 53.</p>
+      <p n="24">(2) OJ L 267, 30.9.1997, p. 58.</p>
+      <p n="25">(3) OJ L 162, 1.7.2003, p. 35.</p>
+      <p n="26">(4) OJ L 97, 15.4.2003, p. 72.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">"B. PRODUCTS ORIGINATING IN POLAND</p>
+      <p n="29">&gt;TABLE&gt;"</p>
+    </body>
+  </text>
+</TEI.2>

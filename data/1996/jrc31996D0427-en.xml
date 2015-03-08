@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31996D0427-en" n="31996D0427" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996D0427 English</title>
+        <title>96/427/EC: Commission Decision of 10 July 1996 concerning a derogation from the provisions of Annex III of Council Directive 91/439/EEC (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0427:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996D0427:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1413</classCode>
+        <classCode scheme="eurovoc">1852</classCode>
+        <classCode scheme="eurovoc">2325</classCode>
+        <classCode scheme="eurovoc">2797</classCode>
+        <classCode scheme="eurovoc">449</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996D0427-en." lang="en">
+    <body>
+      <head n="1">96/427/EC: Commission Decision of 10 July 1996 concerning a derogation from the provisions of Annex III of Council Directive 91/439/EEC (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 10 July 1996 concerning a derogation from the provisions of Annex III of Council Directive 91/439/EEC (Text with EEA relevance) (96/427/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 91/439/EEC of 29 July 1991 on driving licences (1), and in particular Article 7 thereof,</p>
+      <p n="6">Whereas Article 7 (3) stipulates that Member States may, with the agreement of the Commission, derogate from the provisions of Annex III concerning minimum standards of physical and mental fitness for driving of power-driven vehicles;</p>
+      <p n="7">Whereas such derogations must be compatible with the development of medical science and with the principles laid down in Annex III;</p>
+      <p n="8">Whereas Annex III, item 6.3 specifies that applicants for a driving licence or for the renewal of such a licence must have a visual acuity, with corrective lenses if necessary, of at least 0,8 in the better eye and at least 0,5 in the worse eye;</p>
+      <p n="9">Whereas, if corrective lenses are used to attain the values of 0,8 and 0,5, the uncorrected acuity in each eye must reach 0,05, or else the minimum acuity (0,8 and 0,5) must be achieved either by correction by means of glasses with a power not exceeding plus or minus four dioptres or with the aid of contact lenses (uncorrected vision = 0,05) and the correction must be well tolerated;</p>
+      <p n="10">Whereas item 6.3 furthermore specifies that driving licences shall not be issued to or renewed for applications or drivers without a normal binocular field of vision or suffering from diplopia;</p>
+      <p n="11">Whereas in accordance with item 6.3 of Annex III the maximum allowed strength for glasses of group 2 drivers has to be plus or minus 4 dioptres, notably because of distortion of the field of vision if stronger glasses had to be used; whereas, however, application of modern techniques and materials has made it possible to now produce glasses up to plus or minus 8 dioptres without such distortion;</p>
+      <p n="12">Whereas, therefore, following the request of several Member States, the Commission considers that the developments of medical science justify a derogation to the provision of item 6.3 of Annex III of the Directive as for the number of dioptres for glasses of drivers of group 2,</p>
+      <p n="13">HAS ADOPTED THIS DECISION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Member States may allow a value of plus or minus 8 dioptres instead of plus or minus 4 dioptres when the minimum acuity of 0,8 and 0,5 is achieved by correction by means of glasses.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Decision is addressed to the Member States.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Decision applies as from three days after the date of its publication in the Official Journal of the European Communities.</p>
+      <p n="20">Done at Brussels, 10 July 1996.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Neil KINNOCK</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ No L 237, 24. 8. 1991, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

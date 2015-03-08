@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32002R2301-en" n="32002R2301" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R2301 English</title>
+        <title>Commission Regulation (EC) No 2301/2002 of 20 December 2002 laying down detailed rules for the application of Council Directive 1999/105/EC as regards the definition of small quantities of seed</title>
+      </titleStmt>
+      <extent>26 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2301:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R2301:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1063</classCode>
+        <classCode scheme="eurovoc">13</classCode>
+        <classCode scheme="eurovoc">3409</classCode>
+        <classCode scheme="eurovoc">4081</classCode>
+        <classCode scheme="eurovoc">4441</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R2301-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2301/2002 of 20 December 2002 laying down detailed rules for the application of Council Directive 1999/105/EC as regards the definition of small quantities of seed</head>
+      <p n="2">Commission Regulation (EC) No 2301/2002</p>
+      <p n="3">of 20 December 2002</p>
+      <p n="4">laying down detailed rules for the application of Council Directive 1999/105/EC as regards the definition of small quantities of seed</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Directive 1999/105/EC of 22 December 1999 on the marketing of forest reproductive material(1), and in particular Article 14(4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) In accordance with Directive 1999/105/EC the supplier's label or document must include information about the germination percentage and the number of germinable seeds of the reproductive material. However, these requirements do not apply to small quantities of seeds.</p>
+      <p n="10">(2) The thresholds for small quantities should therefore be determined.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">For the purposes of Article 14 of Directive 1999/105/EC a quantity of seed shall be considered as small if it does not exceed the amounts specified in the Annex to this Regulation for the different species.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply from 1 January 2003.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 20 December 2002.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">David Byrne</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 11, 15.1.2000, p. 17.</p>
+      <p n="24">ANNEX</p>
+      <p n="25">Small quantities</p>
+      <p n="26">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,52 @@
+<TEI.2 id="jrc41998D0052-en" n="41998D0052" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 41998D0052 English</title>
+        <title>The Schengen acquis - Decision of the Executive Committee of 16 December 1998 on the Handbook on cross-border police cooperation (SCH/Com-ex (98) 52)</title>
+      </titleStmt>
+      <extent>19 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0052:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:41998D0052:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">226</classCode>
+        <classCode scheme="eurovoc">5551</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc41998D0052-en." lang="en">
+    <body>
+      <head n="1">The Schengen acquis - Decision of the Executive Committee of 16 December 1998 on the Handbook on cross-border police cooperation (SCH/Com-ex (98) 52)</head>
+      <p n="2">DECISION OF THE EXECUTIVE COMMITTEE</p>
+      <p n="3">of 16 December 1998</p>
+      <p n="4">on the Handbook on cross-border police cooperation</p>
+      <p n="5">(SCH/Com-ex (98)52)</p>
+      <p n="6">THE EXECUTIVE COMMITTEE,</p>
+      <p n="7">Having regard to Article 132 of the Convention implementing the Schengen Agreement,</p>
+      <p n="8">Having regard to Articles 2(3), 3, 7, 39, 40, 41, 46, 47 and 92 of the abovementioned Convention,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">1. The Schengen Handbook on cross-border police cooperation (Doc. SCH/I (98)90(1)), annexed hereto, is hereby adopted. At the same time the Executive Committee Declaration of 29 June 1995 (Doc. SCH/Com-ex (95) Decl. 2) is hereby repealed.</p>
+      <p n="11">2. The Schengen Manual on police cooperation in maintaining public order and security (Doc. SCH/I (97)36 Rev. 5) has been incorporated into the Handbook on cross-border police cooperation. The Executive Committee Decision of 24 June 1997 (Doc. SCH/Com-ex (97)6 Rev. 2) is hereby repealed.</p>
+      <p n="12">3. The Contracting States shall incorporate the Handbook on cross-border police cooperation into their national orders and forward the Handbook to their police services for implementation.</p>
+      <p n="13">4. The Schengen Secretariat shall be responsible for constantly updating the Handbook in the form of a loose-leaf binder. To this end the Contracting States shall keep the General Secretariat abreast of any amendments to be made to their national fact sheets.</p>
+      <p n="14">5. Every six months the Presidency-in-office shall consult the States on the need to update the general part and shall update the Handbook.</p>
+      <p n="15">6. The Presidency will forward the Handbook to the European Union for information purposes.</p>
+      <p n="16">Berlin, 16 December 1998.</p>
+      <p n="17">The Chairman,</p>
+      <p n="18">C. H. Schapper</p>
+      <p n="19">(1) Restricted document.</p>
+    </body>
+  </text>
+</TEI.2>

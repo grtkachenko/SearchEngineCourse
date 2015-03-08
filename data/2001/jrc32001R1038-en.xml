@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32001R1038-en" n="32001R1038" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1038 English</title>
+        <title>Council Regulation (EC) No 1038/2001 of 22 May 2001 amending Regulation (EC) No 1251/1999 establishing a support system for producers of certain arable crops</title>
+      </titleStmt>
+      <extent>34 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1038:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1038:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1144</classCode>
+        <classCode scheme="eurovoc">1609</classCode>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">320</classCode>
+        <classCode scheme="eurovoc">568</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1038-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1038/2001 of 22 May 2001 amending Regulation (EC) No 1251/1999 establishing a support system for producers of certain arable crops</head>
+      <p n="2">Council Regulation (EC) No 1038/2001</p>
+      <p n="3">of 22 May 2001</p>
+      <p n="4">amending Regulation (EC) No 1251/1999 establishing a support system for producers of certain arable crops</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Articles 36 and 37 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="9">Having regard to the opinion of the Economic and Social Committee(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Regulation (EC) No 1251/1999(4) provides that producers must set aside a predetermined percentage of their land to qualify for area payments and the areas set aside may also be used for non-food purposes.</p>
+      <p n="12">(2) Council Regulation (EEC) No 2092/91 of 24 June 1991 on organic production of agricultural products and indications referring thereto on agricultural products and foodstuffs(5) lays down special rules for the development of organic farming and in particular the limited use of fertilisers.</p>
+      <p n="13">(3) Growing fodder legumes is an agronomic practice that restores the soil's fertility in a natural way; the extension of such crops is therefore important for developing organic production of agricultural products.</p>
+      <p n="14">(4) To encourage the development of organic production methods, the use of land set aside under the support scheme for arable crops in order to grow fodder legumes on agricultural holdings taking part for the totality of the production in the scheme provided for in Regulation (EEC) No 2092/91 should be authorised,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">Regulation (EC) No 1251/1999 is hereby amended as follows:</p>
+      <p n="18">1. the first subparagraph of Article 6(3) shall be replaced by the following: "3. The land set aside may be used for:</p>
+      <p n="19">- producing materials for the manufacture within the Community of products not directly intended for human or animal consumption, provided that effective controls are applied;</p>
+      <p n="20">- growing legume crops on a agricultural holding, managed for the totality of its production, in compliance with the obligations laid down in Regulation (EEC) No 2092/91.";</p>
+      <p n="21">2. the ninth indent of the first paragraph of Article 9 shall be replaced by the following: "- those relating to set-aside, and in particular those relating to Article 6(3); these conditions shall define the fodder legumes that may be grown on land set aside and, with regard to the first indent of the first subparagraph of that paragraph, may include the growing of crops without compensation;".</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="24">It shall apply from the 2001/02 marketing year.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 22 May 2001.</p>
+      <p n="27">For the Council</p>
+      <p n="28">The President</p>
+      <p n="29">M. Winberg</p>
+      <p n="30">(1) Proposal of 6.2.2001 (not yet published in the Official Journal).</p>
+      <p n="31">(2) Opinion delivered 5.4.2001 (not yet published in the Official Journal).</p>
+      <p n="32">(3) Opinion delivered 25.4.2001 (not yet published in the Official Journal).</p>
+      <p n="33">(4) OJ L 160, 26.6.1999, p. 1. Regulation as last amended by Regulation (EC) No 1672/2000 (OJ L 193, 29.7.2000, p. 13).</p>
+      <p n="34">(5) OJ L 198, 22.7.1991, p. 1. Regulation as last amended by Commission Regulation (EC) No 2020/2000 (OJ L 241, 26.9.2000, p. 39).</p>
+    </body>
+  </text>
+</TEI.2>

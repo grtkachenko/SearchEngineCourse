@@ -1,0 +1,58 @@
+<TEI.2 id="jrc31998R2579-en" n="31998R2579" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R2579 English</title>
+        <title>Commission Regulation (EC) No 2579/98 of 30 November 1998 establishing the list of textile products for which no proof of origin is required on release for free circulation in the Community</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2579:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R2579:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1637</classCode>
+        <classCode scheme="eurovoc">2300</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">2783</classCode>
+        <classCode scheme="eurovoc">5367</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R2579-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2579/98 of 30 November 1998 establishing the list of textile products for which no proof of origin is required on release for free circulation in the Community</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2579/98 of 30 November 1998 establishing the list of textile products for which no proof of origin is required on release for free circulation in the Community</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 1541/98 of 13 July 1998 on proof of origin for certain textile products falling within Section XI of the Combined Nomenclature and released for free circulation in the Community, and on the conditions for the acceptance of such proof (1), and in particular Article 4 thereof,</p>
+      <p n="6">Whereas, for those textile and clothing products not subject to specific measures under the Community's trade policy and which are released for free circulation, the above Regulation provides both that exemption from the obligation to present a proof of origin may be granted and that the provisions establishing exemption from the obligation to present a certificate of origin should indicate if a declaration of origin is to be presented or not for such products;</p>
+      <p n="7">Whereas products which are not currently subject to specific trade measures have been identified after careful analysis; whereas it seems desirable to dispense with the need for a proof of origin for such products when they are presented for release for free circulation in the Community;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The release for free circulation of the textile products listed in the Annex to this Regulation shall not be subject to the presentation of any proof of origin.</p>
+      <p n="12">Article 2</p>
+      <p n="13">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="14">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="15">Done at Brussels, 30 November 1998.</p>
+      <p n="16">For the Commission</p>
+      <p n="17">Mario MONTI</p>
+      <p n="18">Member of the Commission</p>
+      <p n="19">(1) OJ L 202, 18. 7. 1998, p. 11.</p>
+      <p n="20">ANNEX</p>
+      <p n="21">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,44 @@
+<TEI.2 id="jrc31992L0011-en" n="31992L0011" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992L0011 English</title>
+        <title>Council Directive 92/11/EEC of 3 March 1992 amending Directive 89/396/EEC on indications or marks identifying the lot to which a foodstuff belongs</title>
+      </titleStmt>
+      <extent>17 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992L0011:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992L0011:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992L0011-en." lang="en">
+    <body>
+      <head n="1">Council Directive 92/11/EEC of 3 March 1992 amending Directive 89/396/EEC on indications or marks identifying the lot to which a foodstuff belongs</head>
+      <p n="2">COUNCIL DIRECTIVE 92/11/EEC of 3 March 1992 amending Directive 89/396/EEC on indications or marks identifying the lot to which a foodstuff belongs</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community, and in particular Article 100a thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">In cooperation with the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas it is necessary to take account of the insurmountable technical problems which made it impossible to implement Directive 89/396/EEC (4), as amended by Directive 91/238/EEC (5), by 20 June 1991; whereas it is therefore necessary to postpone the implementation date,</p>
+      <p n="9">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The second indent of the first subparagraph of Article 7 of Directive 89/396/EEC is hereby replaced by the following:</p>
+      <p n="12">'- prohibit trade in products not complying with this Directive with effect from 1 July 1992. However, trade in products placed on the market or labelled before that date and not conforming with this Directive may continue until stocks run out.'</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Directive is addressed to the Member States. Done at Brussels, 3 March 1992. For the Council</p>
+      <p n="15">The President</p>
+      <p n="16">Arlindo MARQUES CUNHA</p>
+      <p n="17">(1) OJ No C 219, 22. 8. 1991, p. 11. (2) OJ No C 305, 25. 11. 1991, p. 54 and Decision of 12 February 1992 (not yet published in the Official Journal). (3) OJ No C 40, 17. 2. 1992, p. 12. (4) OJ No L 186, 30. 6. 1989, p. 21. (5) OJ No L 107, 27. 4. 1991, p. 50.</p>
+    </body>
+  </text>
+</TEI.2>

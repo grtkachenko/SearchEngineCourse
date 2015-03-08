@@ -1,0 +1,157 @@
+<TEI.2 id="jrc31999R1227-en" n="31999R1227" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1227 English</title>
+        <title>Commission Regulation (EC) No 1227/1999 of 28 May 1999 concerning the technical format for the transmission of insurance services statistics (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>120 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1227:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1227:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2469</classCode>
+        <classCode scheme="eurovoc">34</classCode>
+        <classCode scheme="eurovoc">3873</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4262</classCode>
+        <classCode scheme="eurovoc">5235</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1227-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1227/1999 of 28 May 1999 concerning the technical format for the transmission of insurance services statistics (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1227/1999</p>
+      <p n="3">of 28 May 1999</p>
+      <p n="4">concerning the technical format for the transmission of insurance services statistics</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC, Euratom) No 58/97 of 20 December 1996 concerning structural business statistics(1), as last amended by Regulation (EC, Euratom) No 410/98(2), and in particular Article 12(viii) thereof,</p>
+      <p n="9">(1) Whereas Regulation (EC, Euratom) No 58/97 established a common framework for the production of Community statistics on the structure, activity, performance and competitiveness of the insurance sector in the Community;</p>
+      <p n="10">(2) Whereas it is necessary to specify the technical format for the transmission of insurance services statistics;</p>
+      <p n="11">(3) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The technical format referred to in Article 9 of Regulation (EC, Euratom) No 58/97 is defined in the Annex to this Regulation.</p>
+      <p n="15">Article 2</p>
+      <p n="16">Member States shall apply this format for the data concerning the 1996 reference year and subsequent years.</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 28 May 1999.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">Yves-Thibault de SILGUY</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 14, 17.1.1997, p. 1.</p>
+      <p n="25">(2) OJ L 52, 21.2.1998, p. 1.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">TECHNICAL FORMAT</p>
+      <p n="28">1. The form of the data</p>
+      <p n="29">The data is sent as a set of records of which a large part describes the characteristics of the data (country, year, economic activity, etc.). The data itself is a number which can be linked to flags and explanatory footnotes used for example to describe aggregations of NACE codes. Confidential data should be sent with the true value being recorded in the value field and a flag indicating the nature of the confidential data being added to the record.</p>
+      <p n="30">In order to be precise about the nature of the data, it is necessary to distinguish the following special cases:</p>
+      <p n="31">- data equal to zero (coded "0"): real values of zero only,</p>
+      <p n="32">- confidential data (coded "x"): indicates data which the Member State does not transmit to Eurostat because the data is confidential,</p>
+      <p n="33">- missing data (coded "m"): this is data which is currently missing but the Member State intends to supply when available,</p>
+      <p n="34">- data not available: this is data which is not collected in a Member State. In this case the corresponding record is not sent.</p>
+      <p n="35">By default, if an entire dimension (a variable, a NUTS code, a NACE code, etc.) is not collected then the corresponding records will not exist except for those which are missing because they form part of a regrouping of NACE codes. This is why it is important to distinguish data which is really missing by supplying a record (one per missing item) in which the data value is coded as "m", and data which is really equal to zero by supplying the corresponding records in which the data value is set to 0.</p>
+      <p n="36">2. Record structure</p>
+      <p n="37">&gt;TABLE&gt;</p>
+      <p n="38">This format may be converted into a fixed format by using the maximum length of each field and right justifying the contents of each field preceded by blanks.</p>
+      <p n="39">3. Description of the fields</p>
+      <p n="40">3.1. Series</p>
+      <p n="41">&gt;TABLE&gt;</p>
+      <p n="42">3.2. Year</p>
+      <p n="43">3.3. Territorial unit</p>
+      <p n="44">This code corresponds to the country for national series</p>
+      <p n="45">&gt;TABLE&gt;</p>
+      <p n="46">3.4. Economic activity</p>
+      <p n="47">&gt;TABLE&gt;</p>
+      <p n="48">3.5. Measurement</p>
+      <p n="49">&gt;TABLE&gt;</p>
+      <p n="50">3.6. Unit</p>
+      <p n="51">&gt;TABLE&gt;</p>
+      <p n="52">3.7. Variable</p>
+      <p n="53">&gt;TABLE&gt;</p>
+      <p n="54">3.8. Type of insurance enterprise or insurance business</p>
+      <p n="55">&gt;TABLE&gt;</p>
+      <p n="56">3.9. Size classes / Residence of parent enterprise</p>
+      <p n="57">&gt;TABLE&gt;</p>
+      <p n="58">&gt;TABLE&gt;</p>
+      <p n="59">&gt;TABLE&gt;</p>
+      <p n="60">3.10. Breakdown of products</p>
+      <p n="61">&gt;TABLE&gt;</p>
+      <p n="62">3.11. Legal status / Geographical breakdown</p>
+      <p n="63">&gt;TABLE&gt;</p>
+      <p n="64">&gt;TABLE&gt;</p>
+      <p n="65">3.12. Data value</p>
+      <p n="66">Monetary data is expressed in millions of national currency units except for:</p>
+      <p n="67">- Italy: data is given in milliards of national currency units.</p>
+      <p n="68">In order to be precise about the nature of the data, it is necessary to distinguish the following cases:</p>
+      <p n="69">- data equal to zero (coded "0"): real values of zero only,</p>
+      <p n="70">- confidential data (coded "x"): indicates data which the Member State does not transmit to Eurostat because the data is confidential. A flag should also be used to indicate that the data is missing due to confidentiality (see 3.14 below),</p>
+      <p n="71">- missing data (coded "m"): this is data which is currently missing but the Member State intends to supply when available,</p>
+      <p n="72">- data not available: this is data which is not collected in a Member State. In this case the corresponding record is not sent.</p>
+      <p n="73">By default, if an entire dimension (a variable, a NUTS code, a NACE code, etc.) is not collected then the corresponding records will not exist except for those which are missing because they form part of a regrouping of NACE codes. This is why it is important to distinguish data which is really missing by supplying a record (one per missing item) in which the data value is coded as "m".</p>
+      <p n="74">3.13. Quality flag</p>
+      <p n="75">&gt;TABLE&gt;</p>
+      <p n="76">"Revised data" refers to data which are sent for a second (or more) time and are corrections of data which has been previously sent.</p>
+      <p n="77">"Updated data" concerns data which was not previously available and was coded as missing in the data value field (see 3.12 above) but has since become available.</p>
+      <p n="78">The flag indicating "Provisional data" should be used in order to indicate that it is likely that the data being transmitted may be corrected.</p>
+      <p n="79">3.14. Confidentiality</p>
+      <p n="80">Member States are asked to clearly indicate confidential data using the flags listed below:</p>
+      <p n="81">Countries which cannot send confidential data are asked to set the value to "x" (see 3.12 above) and to indicate using a flag that the data is missing due to confidentiality.</p>
+      <p n="82">&gt;TABLE&gt;</p>
+      <p n="83">3.15. Dominance</p>
+      <p n="84">A numeric value less than or equal to 100. This indicates the percentage dominance of one or two enterprises which dominate the data and make it confidential. The value is rounded to the nearest whole number: e.g. 90,3 becomes 90, 94, 50 becomes 95. This field is blank for non-confidential data. This field is only used when the confidentiality flags B or C are used in the previous field.</p>
+      <p n="85">3.16. List</p>
+      <p n="86">The variables - characteristics - are presented in Regulation (EC) No 410/98 in two different lists: A and B. The first year of reference for which they shall be compiled differs. Three variables are optional.</p>
+      <p n="87">&gt;TABLE&gt;</p>
+      <p n="88">4. Examples of records</p>
+      <p n="89">Example 1</p>
+      <p n="90">&gt;TABLE&gt;</p>
+      <p n="91">Belgium declares in the series 5A - annual enterprise statistics - for the reference year 1996, in NACE Rev.1 class 66.03: 95 non-life insurance enterprises. The data is non confidential and in List A.</p>
+      <p n="92">5A; 1996; BE; 6603; NBR; UNIT; 11110; 2;;;; 95;;;; A</p>
+      <p n="93">Example 2</p>
+      <p n="94">&gt;TABLE&gt;</p>
+      <p n="95">Denmark declares in the series 5B - annual enterprise statistics broken down by legal status - for the reference year 1996, in NACE Rev.1 class 66.01: 49 life insurance enterprises which are incorporated enterprises limited by shares. The data is non confidential and in List A.</p>
+      <p n="96">5B; 1996; DK; 6601; NBR; UNIT; 11111; 1;;; LS01; 49;;;; A</p>
+      <p n="97">Example 3</p>
+      <p n="98">&gt;TABLE&gt;</p>
+      <p n="99">Portugal declares in the series 5C - annual enterprise statistics broken down by country of residence of the parent enterprise - for the reference year 1996, in NACE Rev.1 class 66.01: 47 life insurance enterprises whose parent enterprises are situated in other countries. The data is non confidential and in list A.</p>
+      <p n="100">5C; 1996; PT; 6601; NBR; UNIT; 11115; 1; RE02;;; 47;;;; A</p>
+      <p n="101">Example 4</p>
+      <p n="102">&gt;TABLE&gt;</p>
+      <p n="103">Finland declares in the series 5D - annual enterprise statistics broken down by size classes - for the reference year 1996, in NACE Rev.1 class 66.03: 7 non-life insurance enterprises whose turnover is falling between EUR 251 and 500 million. The data is non confidential and in List A.</p>
+      <p n="104">5D; 1996; FI; 6603; NBR; UNIT; 11112; 2; SC14;;; 7;;;; A</p>
+      <p n="105">Example 5</p>
+      <p n="106">&gt;TABLE&gt;</p>
+      <p n="107">Spain declares in the series 5E - annual enterprise statistics broken down by product - for the reference year 1996, in NACE Rev.1 class 66.01: ESP 1410692 million of gross direct premiums written in non-linked insurance services by life insurance enterprises. This data is non confidential and in List A.</p>
+      <p n="108">5E; 1996; ES; 6601; NC; MIO; 33111; 1;; 66011;; 1410692;;;; A</p>
+      <p n="109">Example 6</p>
+      <p n="110">&gt;TABLE&gt;</p>
+      <p n="111">Switzerland declares in the series 5F - geographical breakdown of annual enterprise statistics - for the reference year 1996, in NACE Rev.1 class 66.01: CHF 302 million of gross direct premiums written via branches in the Netherlands by life insurance enterprises in the product group pension services. This data is non confidential and in List A.</p>
+      <p n="112">5F; 1996; CH; 6601; NC; MIO; 34311; 1;; 66021; NLD; 302;;;; A</p>
+      <p n="113">&gt;TABLE&gt;</p>
+      <p n="114">Spain declares in the series 5F - geographical breakdown of annual enterprise statistics - for the reference year 2000, in NACE Rev.1 class 66.04: ESP million missing data of gross reinsurance premiums accepted, written by specialist reinsurance enterprises in other Member States. This data is non confidential ans in List B.</p>
+      <p n="115">5F; 2000; ES; 6604; NC; MIO; 34120; 4;;; OMS; M;;;; B</p>
+      <p n="116">5. Type of magnetic media</p>
+      <p n="117">In order to facilitate reading the data, the data must be supplied on 3,5" diskette.</p>
+      <p n="118">6. Other methods</p>
+      <p n="119">Member States are encouraged to send the data sets via Gesmes.</p>
+      <p n="120">Upon written request Eurostat can provide Member States with electronic questionnaires using Microsoft Excel. The request should be made well in advance of the planned date of data delivery.</p>
+    </body>
+  </text>
+</TEI.2>

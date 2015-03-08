@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31995R2739-en" n="31995R2739" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995R2739 English</title>
+        <title>Commission Regulation (EC) No 2739/95 of 28 November 1995 amending Regulation (EC) No 1370/95 laying down detailed rules for implementing the system of export licences in the pigmeat sector</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2739:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995R2739:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1136</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">2487</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">4692</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995R2739-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2739/95 of 28 November 1995 amending Regulation (EC) No 1370/95 laying down detailed rules for implementing the system of export licences in the pigmeat sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 2739/95 of 28 November 1995 amending Regulation (EC) No 1370/95 laying down detailed rules for implementing the system of export licences in the pigmeat sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2759/75 of 29 October 1975 on the common organization of the market in pigmeat (1), as last amended by the Act of Accession of Austria, Finland and Sweden and by Regulation (EC) No 3290/94 (2), and in particular Articles 8 (2) and 13 (12) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 1370/95 (3) lays down detailed rules for implementing the system of export licences in the pigmeat sector;</p>
+      <p n="7">Whereas, in order to guarantee exporters equal access to export licences, the submission period for applications, running from Monday to Wednesday, should be extended by one day where those days are holidays for the competent authorities of a Member State;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Pigmeat,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EC) No 1370/95 is hereby amended as follows:</p>
+      <p n="12">1. the following subparagraph is added to Article 3 (1):</p>
+      <p n="13">'However, where those three days are holidays for the competent authorities of a Member State, applications may be lodged on the Thursday following that period in the Member State in question.`;</p>
+      <p n="14">2. the introductory phrase of Article 7 (1) is replaced by the following:</p>
+      <p n="15">'1. Member States shall communicate to the Commission, each Wednesday from 1 p.m., or, where the second subparagraph of Article 3 (1) applies, each Thursday from 1 p.m., by fax for the preceding period:`;</p>
+      <p n="16">3. in Annex II, the words 'Monday . . . to Wednesday . . .` are deleted.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 28 November 1995.</p>
+      <p n="21">For the Commission Franz FISCHLER Member of the Commission</p>
+    </body>
+  </text>
+</TEI.2>

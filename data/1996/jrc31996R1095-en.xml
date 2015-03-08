@@ -1,0 +1,57 @@
+<TEI.2 id="jrc31996R1095-en" n="31996R1095" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R1095 English</title>
+        <title>Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1095:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1095:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1115</classCode>
+        <classCode scheme="eurovoc">1136</classCode>
+        <classCode scheme="eurovoc">1602</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4385</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R1095-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1095/96 of 18 June 1996 on the implementation of the concessions set out in Schedule CXL drawn up in the wake of the conclusion of the GATT XXIV.6 negotiations</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas, in the wake of the accession of Austria, Finland and Sweden, the Community concluded Agreements with certain third countries concerning the conclusion of the negotiations under GATT Article XXIV.6 (1); whereas those Agreements provide inter alia for certain Community commitments in the field of agriculture; whereas, pursuant to those Agreements, the Commission has drawn up a new Schedule CXL (European Communities), applicable to the customs territory of the Community as constituted at 1 January 1995, to replace Schedule LXXX (European Communities) in the Annex to the Marrakesh Protocol to the GATT, 1994; whereas Schedule CXL has been forwarded to the World Trade Organization; whereas the commitments set out in Schedule CXL and, in particular, the commitments applicable from 1 January 1996, must be implemented at the earliest opportunity; whereas, as a consequence, the Council should authorize the Commission to take the requisite measures in accordance with the management committee procedure; whereas, for the sake of simplification, provision should also be made for the same procedure to be used to introduce such amendments to Schedule CXL as the Council may authorize,</p>
+      <p n="7">HAS ADOPTED THIS REGULATION:</p>
+      <p n="8">Article 1</p>
+      <p n="9">1. At the earliest opportunity, the Commission shall adopt the measures required as from 1 January 1996 for the implementation in agriculture of the concessions set out in Schedule CXL (European Communities) forwarded to the World Trade Organization and applying to the customs territory of the Community as constituted at 1 January 1995. Such measures shall be adopted in accordance with the procedure provided for in Article 23 of Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the market in cereals (2), the corresponding provisions of the other Regulations on the common organization of the markets and, as regards products covered by CN code 0701 90 51, in Article 33 of Council Regulation (EEC) No 1035/72 of 18 May 1972 on the common organization of the market in fruit and vegetables (3).</p>
+      <p n="10">2. Should the Council authorize any amendment to Schedule CXL, the resulting measures shall subsequently be adopted in accordance with the procedure referred to in paragraph 1.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="13">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="14">Done at Luxembourg, 18 June 1996.</p>
+      <p n="15">For the Council</p>
+      <p n="16">The President</p>
+      <p n="17">C. BURLANDO</p>
+      <p n="18">(1) OJ No L 334, 30. 12. 1995, pp. 25 and 38.</p>
+      <p n="19">(2) OJ No L 181, 1. 7. 1992, p. 21. Regulation as last amended by Regulation (EC) No 1863/95 (OJ No L 179, 29. 7. 1995, p. 1).</p>
+      <p n="20">(3) OJ No L 118, 20. 5. 1972, p. 1. Regulation as last amended by Regulation (EC) No 1363/95 (OJ No L 132, 16. 6. 1995, p. 8).</p>
+    </body>
+  </text>
+</TEI.2>

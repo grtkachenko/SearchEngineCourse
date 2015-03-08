@@ -1,0 +1,205 @@
+<TEI.2 id="jrc32003R0091-en" n="32003R0091" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0091 English</title>
+        <title>Regulation (EC) No 91/2003 of the European Parliament and of the Council of 16 December 2002 on rail transport statistics</title>
+      </titleStmt>
+      <extent>169 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0091:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0091:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1895</classCode>
+        <classCode scheme="eurovoc">4514</classCode>
+        <classCode scheme="eurovoc">5908</classCode>
+        <classCode scheme="eurovoc">6030</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0091-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 91/2003 of the European Parliament and of the Council of 16 December 2002 on rail transport statistics</head>
+      <p n="2">Regulation (EC) No 91/2003 of the European Parliament and of the Council</p>
+      <p n="3">of 16 December 2002</p>
+      <p n="4">on rail transport statistics</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 285 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion of the Economic and Social Committee(2),</p>
+      <p n="9">Having consulted the Committee of the Regions,</p>
+      <p n="10">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) Railways are an important part of the Community's transport networks.</p>
+      <p n="13">(2) The Commission needs statistics on the transport of goods and passengers by rail in order to monitor and develop the common transport policy, as well as the transport elements of policies on the regions and on trans-European networks.</p>
+      <p n="14">(3) Statistics on rail safety are required by the Commission in order to prepare and monitor Community actions in the field of transport safety.</p>
+      <p n="15">(4) Community statistics on rail transport are also required in order to fulfil the monitoring tasks provided for in Article 10b of Council Directive 91/440/EEC of 29 July 1991 on the development of the Community's railways(4).</p>
+      <p n="16">(5) Community statistics on all modes of transport should be collected according to common concepts and standards, with the aim of achieving the fullest practicable comparability between transport modes.</p>
+      <p n="17">(6) The restructuring of the rail industry under Directive 91/440/EEC, as well as changes in the type of information required by the Commission and by other users of Community statistics on rail transport, renders obsolete the provisions of Council Directive 80/1177/EEC of 4 December 1980 on statistical returns in respect of carriage of goods by rail, as part of regional statistics(5) in relation to the collection of statistics from specified administrations of main rail networks.</p>
+      <p n="18">(7) The coexistence of publicly and privately owned railway undertakings operating in a commercial rail transport market requires an explicit specification of the statistical information which should be provided by all railway undertakings and disseminated by Eurostat.</p>
+      <p n="19">(8) In accordance with the principle of subsidiarity laid down in Article 5 of the Treaty, the creation of common statistical standards which permit the production of harmonised data is an action which can only be undertaken efficiently at Community level. Such standards should be implemented in each Member State under the authority of the bodies and institutions in charge of producing official statistics.</p>
+      <p n="20">(9) Council Regulation (EC) No 322/97 of 17 February 1997 on Community statistics(6) provides a reference framework for the provisions laid down by this Regulation.</p>
+      <p n="21">(10) The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission(7).</p>
+      <p n="22">(11) The Statistical Programme Committee established by Council Decision 89/382/EEC, Euratom of 19 June 1989 establishing a Committee on the Statistical Programmes of the European Communities(8) has been consulted in accordance with Article 3 of the said Decision,</p>
+      <p n="23">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="24">Article 1</p>
+      <p n="25">Objective</p>
+      <p n="26">The objective of this Regulation is to establish common rules for the production of Community rail transport statistics.</p>
+      <p n="27">Article 2</p>
+      <p n="28">Scope</p>
+      <p n="29">This Regulation shall cover all railways in the Community. Each Member State shall report statistics which relate to rail transport on its national territory. Where a railway undertaking operates in more than one Member State, the national authorities concerned shall require the undertaking to provide data separately for each country in which it operates so as to enable national statistics to be compiled.</p>
+      <p n="30">Member States may exclude from the scope of this Regulation:</p>
+      <p n="31">(a) railway undertakings which operate entirely or mainly within industrial and similar installations, including harbours;</p>
+      <p n="32">(b) railway undertakings which mainly provide local tourist services, such as preserved historical steam railways.</p>
+      <p n="33">Article 3</p>
+      <p n="34">Definitions</p>
+      <p n="35">1. For the purposes of this Regulation the following definitions shall apply:</p>
+      <p n="36">(a) "reporting country" means the Member State transmitting data to Eurostat;</p>
+      <p n="37">(b) "national authorities" means national statistical institutes and other bodies responsible in each Member State for producing Community statistics;</p>
+      <p n="38">(c) "railway undertaking" means any public or private undertaking which provides services for the transport of goods and/or passengers by rail.</p>
+      <p n="39">2. The definitions referred to in paragraph 1 may be adapted, and additional definitions needed to ensure harmonisation of statistics may be adopted, in accordance with the procedure referred to in Article 11(2).</p>
+      <p n="40">Article 4</p>
+      <p n="41">Data collection</p>
+      <p n="42">1. The statistics to be collected are set out in the Annexes to this Regulation. They shall cover the following types of data:</p>
+      <p n="43">(a) annual statistics on goods transport - detailed reporting (Annex A);</p>
+      <p n="44">(b) annual statistics on goods transport - simplified reporting (Annex B);</p>
+      <p n="45">(c) annual statistics on passenger transport - detailed reporting (Annex C);</p>
+      <p n="46">(d) annual statistics on passenger transport - simplified reporting (Annex D);</p>
+      <p n="47">(e) quarterly statistics on goods and passenger transport (Annex E);</p>
+      <p n="48">(f) regional statistics on goods and passenger transport (Annex F);</p>
+      <p n="49">(g) statistics on traffic flows on the rail network (Annex G);</p>
+      <p n="50">(h) statistics on accidents (Annex H).</p>
+      <p n="51">2. Annexes B and D set out simplified reporting requirements, which may be used by Member States as alternatives to the normal detailed reporting set out in Annexes A and C, for undertakings for which the total volume of goods or passenger transport is less than 500 million tonne-km or 200 million passenger-km respectively. These thresholds may be adapted in accordance with the procedure laid down in Article 11(2).</p>
+      <p n="52">3. Member States shall also provide a list of the railway undertakings for which statistics are provided, as specified in Annex I.</p>
+      <p n="53">4. For the purposes of this Regulation, goods shall be classified in accordance with Annex J. Dangerous goods shall additionally be classified in accordance with Annex K.</p>
+      <p n="54">5. The contents of the Annexes may be adapted, in accordance with the procedure referred to in Article 11(2).</p>
+      <p n="55">Article 5</p>
+      <p n="56">Data sources</p>
+      <p n="57">1. Member States shall designate a public or private organisation to participate in collecting the data required under this Regulation.</p>
+      <p n="58">2. The necessary data may be obtained using any combination of the following sources:</p>
+      <p n="59">(a) compulsory surveys;</p>
+      <p n="60">(b) administrative data, including data collected by regulatory authorities;</p>
+      <p n="61">(c) statistical estimation procedures;</p>
+      <p n="62">(d) data supplied by professional organisations in the rail industry;</p>
+      <p n="63">(e) ad hoc studies.</p>
+      <p n="64">3. The national authorities shall take measures for the coordination of the data sources used and to ensure the quality of the statistics transmitted to Eurostat.</p>
+      <p n="65">Article 6</p>
+      <p n="66">Transmission of statistics to Eurostat</p>
+      <p n="67">1. Member States shall transmit to Eurostat the statistics referred to in Article 4.</p>
+      <p n="68">2. The arrangements for transmission of the statistics referred to in Article 4 shall be laid down in accordance with the procedure referred to in Article 11(2).</p>
+      <p n="69">Article 7</p>
+      <p n="70">Dissemination</p>
+      <p n="71">1. Community statistics based on the data specified in Annexes A to H to this Regulation shall be disseminated by Eurostat. In this context, and in view of the characteristics of the European railway market, data deemed to be confidential under Article 13(1) of Council Regulation (EC) No 322/97 may be disclosed only if:</p>
+      <p n="72">(a) the data are already available to the public in the Member States; or</p>
+      <p n="73">(b) the explicit approval for such disclosure has been given in advance by the undertakings concerned.</p>
+      <p n="74">The national authorities shall make a request to such undertakings for permission to disclose the required data and shall inform Eurostat of the result of this request when the data are transmitted to Eurostat.</p>
+      <p n="75">2. The information reported under Annex I shall not be disseminated.</p>
+      <p n="76">Article 8</p>
+      <p n="77">Quality of statistics</p>
+      <p n="78">1. In order to assist Member States in maintaining the quality of statistics in the domain of rail transport, Eurostat shall develop and publish methodological recommendations. These recommendations shall take account of the best practices of national authorities, of railway undertakings and of professional organisations for the railway industry.</p>
+      <p n="79">2. The quality of the statistical data shall be evaluated by Eurostat. To this end, on request by Eurostat, Member States shall supply information on the methods used in producing the statistics.</p>
+      <p n="80">Article 9</p>
+      <p n="81">Report</p>
+      <p n="82">After data have been collected over three years, the Commission shall send a report to the European Parliament and to the Council on experience acquired in the work carried out under this Regulation accompanied, if necessary, by appropriate proposals. That report shall include the results of the quality evaluation referred to in Article 8. It shall evaluate the impact on the quality of rail transport statistics of the application to this Regulation of the provisions on the confidentiality of statistics laid down in Regulation (EC) No 322/97. It shall also evaluate the benefits of the availability of statistics in this domain, the costs of obtaining such statistics and the burden on enterprises.</p>
+      <p n="83">Article 10</p>
+      <p n="84">Implementing procedures</p>
+      <p n="85">The following implementing measures shall be taken in accordance with the procedure specified in Article 11(2):</p>
+      <p n="86">(a) adaptation of the thresholds for simplified reporting (Article 4);</p>
+      <p n="87">(b) adaptation of the definitions and adoption of additional definitions (Article 3);</p>
+      <p n="88">(c) adaptation of the contents of the annexes (Article 4);</p>
+      <p n="89">(d) arrangements for transmitting data to Eurostat (Article 6);</p>
+      <p n="90">(e) definition of the guidelines for the reports on the quality and comparability of the results (Articles 8 and 9).</p>
+      <p n="91">Article 11</p>
+      <p n="92">Procedure</p>
+      <p n="93">1. The Commission shall be assisted by the Statistical Programme Committee instituted by Article 1 of Decision 89/382/EEC, Euratom.</p>
+      <p n="94">2. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.</p>
+      <p n="95">The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.</p>
+      <p n="96">3. The Committee shall adopt its rules of procedure.</p>
+      <p n="97">Article 12</p>
+      <p n="98">Directive 80/1177/EEC</p>
+      <p n="99">1. Member States shall provide results for the year 2002 in accordance with Directive 80/1177/EEC.</p>
+      <p n="100">2. Directive 80/1177/EEC is hereby repealed with effect from 1 January 2003.</p>
+      <p n="101">Article 13</p>
+      <p n="102">Entry into force</p>
+      <p n="103">This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="104">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="105">Done at Brussels, 16 December 2002.</p>
+      <p n="106">For the European Parliament</p>
+      <p n="107">The President</p>
+      <p n="108">P. Cox</p>
+      <p n="109">For the Council</p>
+      <p n="110">The President</p>
+      <p n="111">M. Fischer Boel</p>
+      <p n="112">(1) OJ C 180 E, 26.6.2001, p. 94.</p>
+      <p n="113">(2) OJ C 221, 30.5.2001, p. 63.</p>
+      <p n="114">(3) Opinion of the European Parliament of 4 September 2001 (OJ C 72 E, 21.3.2002, p. 58), Council Common Position of 27 June 2002 (not yet published in the Official Journal) and Decision of the European Parliament of 24 October 2002 (not yet published in the Official Journal).</p>
+      <p n="115">(4) OJ L 237, 24.8.1991, p. 25. Directive as last amended by Directive 2001/12/EC of the European Parliament and of the Council (OJ L 75, 15.3.2001, p. 1).</p>
+      <p n="116">(5) OJ L 350, 23.12.1980, p. 23. Directive as last amended by the 1994 Act of Accession.</p>
+      <p n="117">(6) OJ L 52, 22.2.1997, p. 1.</p>
+      <p n="118">(7) OJ L 184, 17.7.1999, p. 23.</p>
+      <p n="119">(8) OJ L 181, 28.6.1989, p. 47.</p>
+      <p n="120">ANNEX A</p>
+      <p n="121">ANNUAL STATISTICS ON GOODS TRANSPORT - DETAILED REPORTING</p>
+      <p n="122">&gt;TABLE&gt;</p>
+      <p n="123">ANNEX B</p>
+      <p n="124">ANNUAL STATISTICS ON GOODS TRANSPORT - SIMPLIFIED REPORTING</p>
+      <p n="125">&gt;TABLE&gt;</p>
+      <p n="126">ANNEX C</p>
+      <p n="127">ANNUAL STATISTICS ON PASSENGER TRANSPORT - DETAILED REPORTING</p>
+      <p n="128">&gt;TABLE&gt;</p>
+      <p n="129">ANNEX D</p>
+      <p n="130">ANNUAL STATISTICS ON PASSENGER TRANSPORT - SIMPLIFIED REPORTING</p>
+      <p n="131">&gt;TABLE&gt;</p>
+      <p n="132">ANNEX E</p>
+      <p n="133">QUARTERLY STATISTICS ON GOODS AND PASSENGER TRANSPORT</p>
+      <p n="134">&gt;TABLE&gt;</p>
+      <p n="135">ANNEX F</p>
+      <p n="136">REGIONAL STATISTICS ON GOODS AND PASSENGER TRANSPORT</p>
+      <p n="137">&gt;TABLE&gt;</p>
+      <p n="138">ANNEX G</p>
+      <p n="139">STATISTICS ON TRAFFIC FLOWS ON THE RAIL NETWORK</p>
+      <p n="140">&gt;TABLE&gt;</p>
+      <p n="141">ANNEX H</p>
+      <p n="142">STATISTICS ON ACCIDENTS</p>
+      <p n="143">&gt;TABLE&gt;</p>
+      <p n="144">ANNEX I</p>
+      <p n="145">&gt;TABLE&gt;</p>
+      <p n="146">Table I1</p>
+      <p n="147">&gt;TABLE&gt;</p>
+      <p n="148">ANNEX J</p>
+      <p n="149">CLASSIFICATION OF GOODS</p>
+      <p n="150">The following groups of goods shall be used until such time as a new classification is laid down according to the procedure specified in Article 11(2).</p>
+      <p n="151">&gt;TABLE&gt;</p>
+      <p n="152">ANNEX K</p>
+      <p n="153">CLASSIFICATION OF DANGEROUS GOODS</p>
+      <p n="154">1. Explosives</p>
+      <p n="155">2. Gases, compressed, liquefied or dissolved under pressure</p>
+      <p n="156">3. Flammable liquids</p>
+      <p n="157">4.1. Flammable solids</p>
+      <p n="158">4.2. Substances liable to spontaneous combustion</p>
+      <p n="159">4.3. Substances which, in contact with water, emit flammable gases</p>
+      <p n="160">5.1. Oxidising substances</p>
+      <p n="161">5.2. Organic peroxides</p>
+      <p n="162">6.1. Toxic substances</p>
+      <p n="163">6.2. Substances liable to cause infections</p>
+      <p n="164">7. Radioactive material</p>
+      <p n="165">8. Corrosives</p>
+      <p n="166">9. Miscellaneous dangerous substances</p>
+      <p n="167">Note:</p>
+      <p n="168">these categories are those defined in the regulations concerning the international carriage of dangerous goods by rail, usually known as the RID, as adopted under Council Directive 96/49/EC of 23 July 1996 on the approximation of the laws of the Member States with regard to the transport of dangerous goods by rail and subsequent amendments(1).</p>
+      <p n="169">(1) OJ L 235, 17.9.1996, p. 25. Directive as last amended by Commission Directive 2001/6/EC (OJ L 30, 1.2.2001, p. 42).</p>
+    </body>
+  </text>
+</TEI.2>

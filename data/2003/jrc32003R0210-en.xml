@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32003R0210-en" n="32003R0210" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0210 English</title>
+        <title>Commission Regulation (EC) No 210/2003 of 3 February 2003 derogating from Regulation (EC) No 2316/1999 laying down detailed rules for the application of Council Regulation (EC) No 1251/1999 with regard to set-aside as a result of the adverse weather conditions in some Community regions</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0210:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0210:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1144</classCode>
+        <classCode scheme="eurovoc">4630</classCode>
+        <classCode scheme="eurovoc">5581</classCode>
+        <classCode scheme="eurovoc">89</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0210-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 210/2003 of 3 February 2003 derogating from Regulation (EC) No 2316/1999 laying down detailed rules for the application of Council Regulation (EC) No 1251/1999 with regard to set-aside as a result of the adverse weather conditions in some Community regions</head>
+      <p n="2">Commission Regulation (EC) No 210/2003</p>
+      <p n="3">of 3 February 2003</p>
+      <p n="4">derogating from Regulation (EC) No 2316/1999 laying down detailed rules for the application of Council Regulation (EC) No 1251/1999 with regard to set-aside as a result of the adverse weather conditions in some Community regions</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1251/1999 of 17 May 1999 establishing a support system for producers of certain arable crops(1), as last amended by Regulation (EC) No 1038/2001(2), and in particular Article 9 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Eligibility for the area aid under the general scheme referred to in Article 2(3) of Regulation (EC) No 1251/1999 is subject to an obligation to set land aside.</p>
+      <p n="10">(2) The detailed rules of application fixed by Commission Regulation (EC) No 2316/1999(3), as last amended by Regulation (EC) No 327/2002(4), stipulate that the set aside period must begin no later than 15 January and that no agricultural production is authorised on the land set aside.</p>
+      <p n="11">(3) As a result of adverse weather conditions the producers in various regions of some Member States cannot harvest notably potatoes, maize or their sugar and fodder beet before 15 January 2003, on lands to be set aside in the 2003/2004 marketing year. Under the circumstances, and as an exceptional measure, where growers so request they should be authorised to harvest their crops no later than 28 February 2003 without this affecting recognition of the lands in question as properly set aside, provided that they prove that the applicable conditions have been complied with.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Where a producer, upon application to the competent authority of the Member State concerned, can prove that:</p>
+      <p n="16">- harvesting could not take place before 15 January 2003 as a result of adverse weather conditions or delayed sowing,</p>
+      <p n="17">- harvesting was done no later than 28 February 2003,</p>
+      <p n="18">- all the other conditions applying to set-aside land have been complied with,</p>
+      <p n="19">the lands in question shall be considered, notwithstanding Article 19(2) and (3) of Regulation (EC) No 2316/1999, as properly set-aside for the 2003/04 marketing year.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="22">It shall apply from 15 January 2003.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 3 February 2003.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 160, 26.6.1999, p. 1.</p>
+      <p n="29">(2) OJ L 145, 31.5.2001, p. 16.</p>
+      <p n="30">(3) OJ L 280, 30.10.1999, p. 43.</p>
+      <p n="31">(4) OJ L 51, 22.2.2002, p. 14.</p>
+    </body>
+  </text>
+</TEI.2>

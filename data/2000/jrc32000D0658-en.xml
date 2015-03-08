@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32000D0658-en" n="32000D0658" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000D0658 English</title>
+        <title>2000/658/EC: Council Decision of 28 September 2000 concerning the conclusion of the Economic Partnership, Political Coordination and Cooperation Agreement between the European Community and its Member States, of the one part, and the United Mexican States, of the other part</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0658:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000D0658:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">1899</classCode>
+        <classCode scheme="eurovoc">220</classCode>
+        <classCode scheme="eurovoc">2928</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000D0658-en." lang="en">
+    <body>
+      <head n="1">2000/658/EC: Council Decision of 28 September 2000 concerning the conclusion of the Economic Partnership, Political Coordination and Cooperation Agreement between the European Community and its Member States, of the one part, and the United Mexican States, of the other part</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 28 September 2000</p>
+      <p n="4">concerning the conclusion of the Economic Partnership, Political Coordination and Cooperation Agreement between the European Community and its Member States, of the one part, and the United Mexican States, of the other part</p>
+      <p n="5">(2000/658/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Articles 44(2), 47, 55, 57(2), 71, 80(2), 133 and 181 thereof, in conjunction with the second sentence of Article 300(2) and the second subparagraph of Article 300(3) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the assent of the European Parliament(2),</p>
+      <p n="10">Whereas the Economic Partnership, Political Coordination and Cooperation Agreement between the European Community and its Member States, of the one part, and the United Mexican States, of the other part, signed in Brussels on 8 December 1997, should be approved,</p>
+      <p n="11">HAS DECIDED AS FOLLOWS:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The Economic Partnership, Political Coordination and Cooperation Agreement between the European Community and its Member States, of the one part, and the United Mexican States, of the other part, together with the declarations made by the Community unilaterally or jointly with the other Party, is hereby approved on behalf of the European Community.</p>
+      <p n="14">The texts of the acts referred to in the first subparagraph are attached to this Decision.</p>
+      <p n="15">Article 2</p>
+      <p n="16">The President of the Council shall give the notification provided for in Article 60 of the Agreeement on behalf of the Community.</p>
+      <p n="17">Article 3</p>
+      <p n="18">1. The position to be taken by the Community within the Joint Council and the Joint Committee established by the Agreement, shall be adopted by the Council, on a proposal from the Commission, in accordance with the corresponding provisions of the Treaty.</p>
+      <p n="19">2. The President of the Council shall, in accordance with Article 46 of the Agreement, preside over the Joint Council and present the position of the Community. In accordance with Article 48 of the Agreement, a representative of the Commission shall preside over the Joint Committee and present the position of the Community.</p>
+      <p n="20">Done at Brussels, 28 September 2000.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">D. Vaillant</p>
+      <p n="24">(1) OJ C 350, 19.11.1997, p. 6.</p>
+      <p n="25">(2) OJ C 279, 6.5.1999, p. 404.</p>
+    </body>
+  </text>
+</TEI.2>

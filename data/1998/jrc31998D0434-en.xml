@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31998D0434-en" n="31998D0434" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0434 English</title>
+        <title>98/434/EC: Council Decision of 18 June 1998 concerning the Agreement between the European Community, the European Space Agency and the European Organisation for the Safety of Air Navigation on a European contribution to the development of a global navigation satellite system (GNSS)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0434:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0434:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">2039</classCode>
+        <classCode scheme="eurovoc">2829</classCode>
+        <classCode scheme="eurovoc">3489</classCode>
+        <classCode scheme="eurovoc">3905</classCode>
+        <classCode scheme="eurovoc">906</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0434-en." lang="en">
+    <body>
+      <head n="1">98/434/EC: Council Decision of 18 June 1998 concerning the Agreement between the European Community, the European Space Agency and the European Organisation for the Safety of Air Navigation on a European contribution to the development of a global navigation satellite system (GNSS)</head>
+      <p n="2">COUNCIL DECISION of 18 June 1998 concerning the Agreement between the European Community, the European Space Agency and the European Organisation for the Safety of Air Navigation on a European contribution to the development of a global navigation satellite system (GNSS) (98/434/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 75(1), Article 84(2) and Article 130m, in conjunction with the first sentence of Article 228(2), the first subparagraph of Article 228(3) and with Article 228(4) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas the Community can, within the scope of its powers, make a contribution to the implementation of a global navigation satellite system;</p>
+      <p n="8">Whereas the Agreement between the European Community, the European Space Agency and the European Organisation for the Safety of Air Navigation on a European contribution to the development of a global navigation satellite system (GNSS) should be approved,</p>
+      <p n="9">HAS DECIDED AS FOLLOWS:</p>
+      <p n="10">Article 1</p>
+      <p n="11">The Agreement between the European Community, the European Space Agency and the European Organisation for the Safety of Air Navigation on a European contribution to the development of a global navigation satellite system (GNSS) is hereby approved on behalf of the Community.</p>
+      <p n="12">The text of the Agreement as well as the technical annexes thereto are attached to this Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">1. The Community shall be represented in the Joint Committee referred to in Article 5 of the Agreement by the Commission.</p>
+      <p n="15">2. With regard to matters covered in Article 5(4) of the Agreement, the Community position shall be adopted by the Council on a proposal from the Commission; with regard to matters covered in Article 5(1), (2) and (3), the Community position shall be determined by the Commission after consultation with a Committee of representatives of the Member States.</p>
+      <p n="16">3. The Commission shall be authorized to approve, on behalf of the Community, the amendments referred to in Article 5(4) of the Agreement.</p>
+      <p n="17">Article 3</p>
+      <p n="18">The President of the Council shall be authorized to nominate the signatory of the Agreement on behalf of the Community.</p>
+      <p n="19">Done at Luxembourg, 18 June 1998.</p>
+      <p n="20">For the Council</p>
+      <p n="21">The President</p>
+      <p n="22">G. STRANG</p>
+      <p n="23">(1) OJ C 337, 7. 11. 1997, p. 37.</p>
+      <p n="24">(2) OJ C 138, 4. 5. 1998.</p>
+    </body>
+  </text>
+</TEI.2>

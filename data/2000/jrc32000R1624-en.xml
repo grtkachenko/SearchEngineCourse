@@ -1,0 +1,71 @@
+<TEI.2 id="jrc32000R1624-en" n="32000R1624" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R1624 English</title>
+        <title>Regulation (EC) No 1624/2000 of the European Parliament and of the Council of 10 July 2000 amending Council Regulation (EEC) No 3330/91 on the statistics relating to the trading of goods between Member States, with specific reference to a simplified application of the nomenclature of products</title>
+      </titleStmt>
+      <extent>35 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1624:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R1624:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3181</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">5751</classCode>
+        <classCode scheme="eurovoc">614</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R1624-en." lang="en">
+    <body>
+      <head n="1">Regulation (EC) No 1624/2000 of the European Parliament and of the Council of 10 July 2000 amending Council Regulation (EEC) No 3330/91 on the statistics relating to the trading of goods between Member States, with specific reference to a simplified application of the nomenclature of products</head>
+      <p n="2">Regulation (EC) No 1624/2000 of the European Parliament and of the Council</p>
+      <p n="3">of 10 July 2000</p>
+      <p n="4">amending Council Regulation (EEC) No 3330/91 on the statistics relating to the trading of goods between Member States, with specific reference to a simplified application of the nomenclature of products</p>
+      <p n="5">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission(1),</p>
+      <p n="8">Having regard to the opinion delivered by the Economic and Social Committee(2),</p>
+      <p n="9">Acting in accordance with the procedure laid down in Article 251 of the Treaty(3),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Under Council Regulation (EEC) No 3330/91(4), the Community and its Member States compile statistics relating to the trading of goods between Member States ("Intrastat") during the transitional period which began on 1 January 1993 and will end on the date of change-over to a unified system of taxation in the Member State of origin.</p>
+      <p n="12">(2) The simplification of legislation for the internal market, as formulated in the SLIM (Simpler Legislation for the Internal Market) initiative, is intended to improve enterprises' competitiveness and job creation potential.</p>
+      <p n="13">(3) The simplification of the Intrastat system has been chosen as a SLIM pilot project, and specific proposals drawn up by the SLIM-Intrastat Working Party for reducing the burden on providers of statistical information have been the subject of a communication to the European Parliament and the Council and have been welcomed by them.</p>
+      <p n="14">(4) The simplified application of the product nomenclature is one such proposal, since information providers generally regard the classification of products as difficult.</p>
+      <p n="15">(5) It is important to simplify the combined nomenclature to be used on a uniform basis in both intra-Community and external trade, so as to make it easier to apply the system - in particular for small and medium-sized enterprises; in this context the results of the ongoing discussions conducted by the Commission with Member States and European trade and industry organisations in the SLIM framework should be taken into account, preserving the principle of one single nomenclature.</p>
+      <p n="16">(6) The use of simplification thresholds is an efficient tool to reduce the burdens of declaration on businesses, in particular the SMEs,</p>
+      <p n="17">HAVE ADOPTED THIS REGULATION:</p>
+      <p n="18">Article 1</p>
+      <p n="19">In Article 28(5) of Regulation (EEC) No 3330/91 the first subparagraph shall be replaced by the following:</p>
+      <p n="20">"5. Simplification thresholds shall exempt parties required to provide information from the full provisions of Article 23; these parties need only report in the declarations referred to in Article 13(1) a maximum of ten of the finest relevant subheadings of the combined nomenclature that are the most important in terms of value and shall regroup the other products in residual subheadings according to detailed arrangements to be determined by the Commission pursuant to Article 30. For each of the aforementioned subheadings, in addition to the code number referred to in the second indent of Article 21, the Member State of consignment or destination and the value of the goods need to be stated."</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="23">It shall apply from 1 January 2001.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 10 July 2000.</p>
+      <p n="26">For the European Parliament</p>
+      <p n="27">The President</p>
+      <p n="28">N. Fontaine</p>
+      <p n="29">For the Council</p>
+      <p n="30">The President</p>
+      <p n="31">H. Védrine</p>
+      <p n="32">(1) OJ C 245, 12.8.1997, p. 12 and C 164, 29.5.1998, p. 14.</p>
+      <p n="33">(2) OJ C 19, 21.1.1998, p. 52.</p>
+      <p n="34">(3) Opinion of the European Parliament of 1 April 1998 (OJ C 138, 4.5.1998, p. 92), confirmed on 27 October 1999, and Council Common Position of 28 February 2000 (OJ C 87, 24.3.2000, p. 11) and Decision of the European Parliament of 14 June 2000.</p>
+      <p n="35">(4) OJ L 316, 16.11.1991, p. 1. Regulation as last amended by Regulation (EC) No 1182/1999 (OJ L 144, 9.6.1999, p. 1).</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,60 @@
+<TEI.2 id="jrc32001R0911-en" n="32001R0911" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R0911 English</title>
+        <title>Commission Regulation (EC) No 911/2001 of 10 May 2001 extending the list of products given in Annex I to Council Regulation (EC) No 2200/96</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0911:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R0911:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1115</classCode>
+        <classCode scheme="eurovoc">1602</classCode>
+        <classCode scheme="eurovoc">2025</classCode>
+        <classCode scheme="eurovoc">387</classCode>
+        <classCode scheme="eurovoc">5233</classCode>
+        <classCode scheme="eurovoc">6100</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R0911-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 911/2001 of 10 May 2001 extending the list of products given in Annex I to Council Regulation (EC) No 2200/96</head>
+      <p n="2">Commission Regulation (EC) No 911/2001</p>
+      <p n="3">of 10 May 2001</p>
+      <p n="4">extending the list of products given in Annex I to Council Regulation (EC) No 2200/96</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2200/96 of 28 October 1996 on the common organisation of the market in fruit and vegetables(1), as last amended by Commission Regulation (EC) No 718/2001(2), and in particular Article 2(3) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Classification using common obligatory standards for fresh fruit and vegetables provides a reference framework that encourages fair trading and market transparency and also eliminates products of unsatisfactory quality from the market. It also helps to improve the profitability of production.</p>
+      <p n="10">(2) With the help of representatives of the sector from the European Association of Mushroom Growers, the Working Party on Standardisation of Perishable Produce and Quality Development of the United Nations Economic Commission for Europe (UN/ECE) has just unanimously adopted a new standard for cultivated mushrooms of the genus Agaricus. Given that, in addition, the now considerable volume and value of intra- and extra-Community trade in cultivated mushrooms justify the adoption of a standard, the product should be added to the list of products which are to be supplied fresh to the consumer and are subject to standards.</p>
+      <p n="11">(3) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fresh Fruit and Vegetables,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Cultivated mushrooms are added to the list given in Annex I to Regulation (EC) No 2200/96.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Brussels, 10 May 2001.</p>
+      <p n="19">For the Commission</p>
+      <p n="20">Franz Fischler</p>
+      <p n="21">Member of the Commission</p>
+      <p n="22">(1) OJ L 297, 21.11.1996, p. 1.</p>
+      <p n="23">(2) OJ L 100, 11.4.2001, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

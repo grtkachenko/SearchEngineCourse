@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32000R2364-en" n="32000R2364" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2364 English</title>
+        <title>Commission Regulation (EC) No 2364/2000 of 25 October 2000 concerning the fourth list of priority substances as foreseen under Council Regulation (EEC) No 793/93 (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2364:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2364:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2739</classCode>
+        <classCode scheme="eurovoc">3342</classCode>
+        <classCode scheme="eurovoc">3730</classCode>
+        <classCode scheme="eurovoc">4308</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2364-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2364/2000 of 25 October 2000 concerning the fourth list of priority substances as foreseen under Council Regulation (EEC) No 793/93 (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 2364/2000</p>
+      <p n="3">of 25 October 2000</p>
+      <p n="4">concerning the fourth list of priority substances as foreseen under Council Regulation (EEC) No 793/93</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to the Council Regulation (EEC) No 793/93 of 23 March 1993 on the evaluation and control of the risks of existing substances(1), and in particular Articles 8 and 10 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Regulation (EEC) No 793/93 envisages a system of evaluation and control of the risks of existing substances and stipulates that in order to undertake the risk evaluation of existing substances it is appropriate to identify priority substances requiring attention.</p>
+      <p n="11">(2) Consequently Article 8 of Regulation (EEC) No 793/93 requires that the Commission shall draw up lists of priority substances taking into account certain factors thereinafter indicated.</p>
+      <p n="12">(3) Article 10 of Regulation (EEC) No 793/93 provides that for each substance on the priority lists a Member State shall be given responsibility for its evaluation and that the allocation of substances shall ensure a fair sharing of the burden between Member States.</p>
+      <p n="13">(4) A first, a second and a third priority list have been adopted by Commission Regulations (EC) No 1179/94(2), (EC) No 2268/95(3) and (EC) No 143/97(4).</p>
+      <p n="14">(5) The provisions of this Regulation are in accordance with the opinion of the Committee established under Article 15 of Regulation (EEC) No 793/93,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">1. The fourth list of priority substances as foreseen in Article 8(1) of Regulation (EEC) No 793/93 is set out in the Annex to this Regulation.</p>
+      <p n="18">2. This list of priority substances also indicates the Member State which is responsible for each of the substances.</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 25 October 2000.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Margot Wallström</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 84, 5.4.1993, p. 1.</p>
+      <p n="27">(2) OJ L 131, 26.5.1994, p. 3.</p>
+      <p n="28">(3) OJ L 231, 28.9.1995, p. 18.</p>
+      <p n="29">(4) OJ L 25, 28.1.1997, p. 13.</p>
+      <p n="30">ANNEX</p>
+      <p n="31">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

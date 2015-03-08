@@ -1,0 +1,108 @@
+<TEI.2 id="jrc31999R1618-en" n="31999R1618" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1618 English</title>
+        <title>Commission Regulation (EC) No 1618/1999 of 23 July 1999 concerning the criteria for the evaluation of quality of structural business statistics (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>73 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1618:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1618:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2469</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">4262</classCode>
+        <classCode scheme="eurovoc">4300</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1618-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1618/1999 of 23 July 1999 concerning the criteria for the evaluation of quality of structural business statistics (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1618/1999</p>
+      <p n="3">of 23 July 1999</p>
+      <p n="4">concerning the criteria for the evaluation of quality of structural business statistics</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Regulation (EC, Euratom) No 58/97 of 20 December 1996 concerning structural business statistics(1), as last amended by Regulation (EC, Euratom) No 410/98(2), and in particular Article 12(vi) thereof,</p>
+      <p n="9">(1) Whereas Regulation (EC, Euratom) No 58/97 established a common framework for the production of Community statistics on the structure, activity, competitiveness and performance of business in the Community;</p>
+      <p n="10">(2) Whereas the Commission shall submit a report to the European Parliament and the Council on these statistics and in particular on their quality and the burden on business;</p>
+      <p n="11">(3) Whereas it is necessary that the Commission determines the criteria for the evaluation of quality of structural business statistics;</p>
+      <p n="12">(4) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Statistical Programme Committee,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The criteria for the evaluation of quality referred to in Article 7 of the Regulation (EC, Euratom) No 58/97 are specified in the Annex to this Regulation.</p>
+      <p n="16">Article 2</p>
+      <p n="17">This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Communities.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 23 July 1999.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Yves-Thibault DE SILGUY</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 14, 17.1.1997, p. 1.</p>
+      <p n="24">(2) OJ L 52, 21.2.1998, p. 1.</p>
+      <p n="25">ANNEX</p>
+      <p n="26">QUALITY INDICATORS AND KEY CHARACTERISTICS</p>
+      <p n="27">Section I</p>
+      <p n="28">Aims</p>
+      <p n="29">The aim of this Annex is to establish a common framework for measuring yearly at European Community level the quality of structural business statistics compiled in the framework of Regulation (EC) No 58/97 concerning structural business statistics, hereafter referred to as the SBS Regulation.</p>
+      <p n="30">Section 2</p>
+      <p n="31">Coverage</p>
+      <p n="32">1. The quality indicators and the reports laid down below are to be reported for all activities referred to in Section 3 of Annex I to the SBS Regulation in accordance with the derogation laid down in Commission Regulation (EC) No 2699/98(1).</p>
+      <p n="33">2. The information laid down in this Annex need not be reported by a Member State for the purposes of this Regulation if the total amount of value added at factor cost in that Member State normally represents less than 1 % of the European Community total. This threshold shall be applied for each NACE Rev. 1 activity for which a quality indicator or a report is required.</p>
+      <p n="34">Section 3</p>
+      <p n="35">First reference year</p>
+      <p n="36">The first reference year for which the information laid down in this Annex is to be reported is the calendar year 1997. If information is not available for this first reference year within the delay of transmission as laid down in Section 4, paragraph 2, the closest reference year to 1997 for which information is available shall be used.</p>
+      <p n="37">Section 4</p>
+      <p n="38">Transmission of information</p>
+      <p n="39">1. The quality indicators and the reports laid down in this Annex are to be transmitted within 24 months of the end of the calendar year of the reference period.</p>
+      <p n="40">This transmission period may be extended by a period equal to any extra delay conceded by the Commission in Regulation (EC) No 2699/98 in so far as this extra delay concerns a characteristic foreseen in Section 5 of this Annex.</p>
+      <p n="41">2. The first transmission of quality indicators (section 5, points 1, 2, 3 and 4) and of reports (section 6) shall be done before the end of December 1999.</p>
+      <p n="42">Section 5</p>
+      <p n="43">Quality indicators: coefficient of variation and non-response rate</p>
+      <p n="44">Member States shall report information for characteristics, levels and series as specified below, in accordance with any derogation that may have been conceded for the reference year.</p>
+      <p n="45">For each series, characteristic and activity level mentioned below, Member States shall report the overall coefficient of variation taking into account, according to the survey design, the non-responses, the misclassification errors and, if necessary, the sampling error.</p>
+      <p n="46">The coefficient of variation is the ratio of the square root of the variance of the estimator to the expected value.</p>
+      <p n="47">1. Series 1A (annual enterprise statistics):</p>
+      <p n="48">- six characteristics (11 11 0; 12 11 0; 12 15 0; 13 31 0; 15 11 0; 16 13 0),</p>
+      <p n="49">- NACE Rev. 1:3-digit level (groups) or regroupings of activities as mentioned in section 9 of Annex 1 to the SBS Regulation.</p>
+      <p n="50">2. Series 1B (annual enterprise statistics by size class):</p>
+      <p n="51">- three characteristics (11 11 0; 12 11 0; 12 15 0),</p>
+      <p n="52">- NACE Rev. 1:3-digit level (groups) or regroupings as mentioned in section 9 of Annex 1 to the SBS Regulation and regroupings of size classes as follows: 1-19; 20-249; 250-999; &gt; 1000.</p>
+      <p n="53">3. Series 1C (annual regional statistics):</p>
+      <p n="54">- two characteristics (11 21 0; 13 32 0),</p>
+      <p n="55">- NACE Rev. 1:2-digit level (divisions) and NUTS 2.</p>
+      <p n="56">4. Unit non-response</p>
+      <p n="57">Member States shall report the statistical unit non-response rate by NACE Rev. 1 3-digit level or regroupings as mentioned in section 9 of Annex 1 to the SBS Regulation.</p>
+      <p n="58">5. Item non-response rate</p>
+      <p n="59">Member States shall report the item non-response rate by NACE Rev. 1 3-digit level or regroupings as mentioned in section 9 of Annex 1 to the SBS Regulation for the characteristics: 12 11 0, 12 15 0, 13 31 0, 15 11 0, 16 13 0.</p>
+      <p n="60">Section 6</p>
+      <p n="61">Specific reports</p>
+      <p n="62">Member States shall transmit two specific reports as mentioned below.</p>
+      <p n="63">1. Survey strategy</p>
+      <p n="64">This report will at least indicate the use of a census or a sample as well as the use of administrative sources or statistical surveys for each sub-population of enterprises.</p>
+      <p n="65">2. Principal activity</p>
+      <p n="66">This report will indicate how the principal activity is determined for the observation units used to compile the results transmitted to Eurostat under the provisions of the SBS Regulation. In particular information will be provided on the frequency of updating the unit's principal activity bearing in mind whether it is covered by a statistical survey or by an administrative source.</p>
+      <p n="67">Section 7</p>
+      <p n="68">Dissemination of national data on quality by Eurostat</p>
+      <p n="69">No national data on quality shall be published without the agreement of the Member State.</p>
+      <p n="70">Section 8</p>
+      <p n="71">Transitional period</p>
+      <p n="72">Information laid down in Section 5, point 5 is optional for the two first reference years, namely 1997 and 1998.</p>
+      <p n="73">(1) OJ L 344, 18.12.1998, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

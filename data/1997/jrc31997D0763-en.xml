@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31997D0763-en" n="31997D0763" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997D0763 English</title>
+        <title>97/763/EC: Council Decision of 10 November 1997 concluding the Agreement on scientific and technological cooperation between the European Community and the Republic of South Africa</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0763:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997D0763:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">223</classCode>
+        <classCode scheme="eurovoc">225</classCode>
+        <classCode scheme="eurovoc">321</classCode>
+        <classCode scheme="eurovoc">5404</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997D0763-en." lang="en">
+    <body>
+      <head n="1">97/763/EC: Council Decision of 10 November 1997 concluding the Agreement on scientific and technological cooperation between the European Community and the Republic of South Africa</head>
+      <p n="2">COUNCIL DECISION of 10 November 1997 concluding the Agreement on scientific and technological cooperation between the European Community and the Republic of South Africa (97/763/EC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 130m, in conjunction with Article 228 (2), first sentence, and the first subparagraph of Article 228 (3) thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas the European Community and South Africa are pursuing specific RTD programmes in areas of common interest;</p>
+      <p n="8">Whereas on the basis of past experience, both sides have expressed a desire to establish a deeper and broader framework for the conduct of collaboration in science and technology;</p>
+      <p n="9">Whereas this agreement to cooperate in the field of science and technology forms part of the global cooperation between the Community and its Member States, on the one hand, and South Africa, on the other hand;</p>
+      <p n="10">Whereas by its Decision of 22 January 1996, the Council authorized the Commission to negotiate an agreement on scientific and technological cooperation between the Community and the Republic of South Africa;</p>
+      <p n="11">Whereas by its Decision of 5 December 1996, the Council decided that the Agreement on scientific and technological cooperation be signed on behalf of the Community;</p>
+      <p n="12">Whereas the Agreement on scientific and technological cooperation between the European Community and the Republic of South Africa was signed on 5 December 1996;</p>
+      <p n="13">Whereas the Agreement on scientific and technological cooperation between the European Community and the Republic of South Africa should be approved,</p>
+      <p n="14">HAS DECIDED AS FOLLOWS:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The Agreement on scientific and technological cooperation between the European Community and the Republic of South Africa is hereby approved on behalf of the Community.</p>
+      <p n="17">The text of the Agreement is attached to this Decision.</p>
+      <p n="18">Article 2</p>
+      <p n="19">Pursuant to Article 11 of the Agreement, the President of the Council shall give notification that the procedures necessary for the entry into force of the Agreement have been completed on the part of the European Community.</p>
+      <p n="20">Done at Brussels, 10 November 1997.</p>
+      <p n="21">For the Council</p>
+      <p n="22">The President</p>
+      <p n="23">E. HENNICOT-SCHOEPGES</p>
+      <p n="24">(1) OJ C 134, 29. 4. 1997, p. 7.</p>
+      <p n="25">(2) OJ C 304, 6. 10. 1997.</p>
+    </body>
+  </text>
+</TEI.2>

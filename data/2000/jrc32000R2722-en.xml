@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32000R2722-en" n="32000R2722" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32000R2722 English</title>
+        <title>Commission Regulation (EC) No 2722/2000 of 13 December 2000 establishing the conditions under which the Financial Instrument for Fisheries Guidance (FIFG) may make a contribution towards the eradication of pathological risks in aquaculture</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2722:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32000R2722:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1005</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">2320</classCode>
+        <classCode scheme="eurovoc">5138</classCode>
+        <classCode scheme="eurovoc">5668</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32000R2722-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 2722/2000 of 13 December 2000 establishing the conditions under which the Financial Instrument for Fisheries Guidance (FIFG) may make a contribution towards the eradication of pathological risks in aquaculture</head>
+      <p n="2">Commission Regulation (EC) No 2722/2000</p>
+      <p n="3">of 13 December 2000</p>
+      <p n="4">establishing the conditions under which the Financial Instrument for Fisheries Guidance (FIFG) may make a contribution towards the eradication of pathological risks in aquaculture</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2792/1999 of 17 December 1999 laying down the detailed rules and arrangements regarding Community structural assistance in the fisheries sector(1), and in particular Article 15(4) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 15(3)(g) of Regulation (EC) No 2792/1999 explicity permits Community assistance from the Financial Instrument for Fisheries Guidance (FIFG) for the eradication of pathological risks in aquaculture. It may therefore be possible to compensate producers for the slaughter of aquaculture animals.</p>
+      <p n="10">(2) Article 24 of Council Decision 90/424/EEC of 26 June 1990 on expenditure in the veterinary field(2), as last amended by Regulation (EC) No 1258/1999(3), lays down the rules governing a Community financial contribution towards programmes for the eradication and monitoring of animal diseases, in particular that the disease must be listed in the Annex to the Decision, the slaughter programme (including possible compensation for producers) must be approved by the Commission, and expenditure (including any compensation for producers) may be eligible for a Community financial contribution.</p>
+      <p n="11">(3) With the exception of campaigns to vaccinate aquaculture animals, a situation whereby the application of Article 15(3)(g) of Regulation (EC) No 2792/1999 leads to a different procedure and conditions from those laid down by Article 24 of Decision 90/424/EEC should be avoided.</p>
+      <p n="12">(4) Where the financial provisions of the said Article 24 are incompatible with the financial provisions laid down in Council Regulation (EC) No 1260/1999 of 21 June 1999 laying down general provisions on the Structural Funds(4), it should be stipulated that the Regulation will continue to apply to the FIFG.</p>
+      <p n="13">(5) The cumulation of Community aid for the same scheme to eradicate pathological risks in aquaculture must moreover be prohibited.</p>
+      <p n="14">(6) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fisheries and Aquaculture,</p>
+      <p n="15">HAS ADOPTED THIS REGULATION:</p>
+      <p n="16">Article 1</p>
+      <p n="17">1. Where, for the purposes of eradicating pathological risks in aquaculture, the competent authority of a Member State provides for a Community financial contribution from the FIFG under Article 15(3)(g) of Regulation (EC) No 2792/1999, the relevant provisions of Article 24 of Decision 90/424/EEC shall apply.</p>
+      <p n="18">2. Paragraph 1 shall not apply in the case of campaigns to vaccinate aquaculture animals.</p>
+      <p n="19">3. The financial provisions on the Structural Funds laid down in Title III of Regulation (EC) No 1260/1999 shall continue to apply.</p>
+      <p n="20">4. The FIFG aid pertaining to an eradication project is not cumulable with another Community aid.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="23">It shall apply from 1 January 2000.</p>
+      <p n="24">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="25">Done at Brussels, 13 December 2000.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">Franz Fischler</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 337, 17.12.1999, p. 10.</p>
+      <p n="30">(2) OJ L 224, 18.8.1990, p. 19.</p>
+      <p n="31">(3) OJ L 160, 26.6.1999, p. 103.</p>
+      <p n="32">(4) OJ L 161, 26.6.1999, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

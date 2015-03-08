@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31985R2600-en" n="31985R2600" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31985R2600 English</title>
+        <title>Commission Regulation (EEC) No 2600/85 of 16 September 1985 amending Regulation (EEC) No 890/78 laying down detailed rules for the certification of hops</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985R2600:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31985R2600:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31985R2600-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EEC) No 2600/85 of 16 September 1985 amending Regulation (EEC) No 890/78 laying down detailed rules for the certification of hops</head>
+      <p n="2">*****</p>
+      <p n="3">COMMISSION REGULATION (EEC) No 2600/85</p>
+      <p n="4">of 16 September 1985</p>
+      <p n="5">amending Regulation (EEC) No 890/78 laying down detailed rules for the certification of hops</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="8">Having regard to Council Regulation (EEC) No 1696/71 of 26 July 1971 on the common organization of the market in hops (1), as last amended by the Act of Accession of Greece, and in particular Article 2 (5) thereof,</p>
+      <p n="9">Whereas Commission Regulation (EEC) No 890/78 (2), as last amended by Regulation (EEC) No 1979/83 (3), sets out minimum requirements for the marketing of hops; whereas these requirements include, as regards unprepared hops, a maximum level of bracts;</p>
+      <p n="10">Whereas commercial practice indicates that the quality of hops is not generally affected by the proportion of bracts; whereas, therefore, this marketing requirement may be dispensed with;</p>
+      <p n="11">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Hops,</p>
+      <p n="12">HAS ADOPTED THIS REGULATION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">Annexes I and II to Regulation (EEC) No 890/78 are amended in accordance with the Annex hereto.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply to hops from the 1985 and later crops.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 16 September 1985.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Frans ANDRIESSEN</p>
+      <p n="22">Vice-President</p>
+      <p n="23">(1) OJ No L 175, 4. 8. 1971, p. 1.</p>
+      <p n="24">(2) OJ No L 117, 29. 4. 1978, p. 43.</p>
+      <p n="25">(3) OJ No L 195, 19. 7. 1984, p. 34.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">1. Annex I is replaced by the following:</p>
+      <p n="28">'Annex I</p>
+      <p n="29">MINIMUM MARKETING REQUIREMENTS FOR HOP CONES</p>
+      <p n="30">1.2.3,4 // // // // Characteristics // Description // Maximum content (% of weight) // 1.2.3.4 // // // Prepared hops // Non- prepared hops // // // // // (a) Moisture // Water content // 12 // 14 // (b) Leaves and stalks // Leaf fragments from branch tendrils, branch tendrils, leaf or cone strigs; to be classed as stalk, cone strigs must be at least 2,5 cm long // 6 // 6 // (c) Hop waste // Small particles resulting from machine harvesting, varying in colour between dark green and black and generally not from the cone // 3 // 4 // (d) In the case of "seedless hops", seed // Mature fruit of the cone // 2 // 2' // // // //</p>
+      <p n="31">2. Section 1 of C in Annex II is replaced by the following:</p>
+      <p n="32">'1. Determination of the leaf, stalk and waste content</p>
+      <p n="33">Sieve five 100 gram samples using a 2 mm sieve. Collect the lupulin, waste and seeds and separate the seeds by hand. Place the samples on one side. Transfer the contents of the 2 mm sieve to a 10 mm sieve and sieve again.</p>
+      <p n="34">The hop cones, leaves, stalks and extraneous matter are collected by hand from the sieve while cone leaves, seeds, lupulin waste and some leaves and stalks pass through. All this is sorted by hand and divided into the following groups:</p>
+      <p n="35">1. Leaves and stalks,</p>
+      <p n="36">2. Hops (cone leaves, hop cones and lupulin),</p>
+      <p n="37">3. Waste,</p>
+      <p n="38">4. Seeds.</p>
+      <p n="39">The waste and the lupulin cannot be separated. The relative percentage of each must therefore be estimated by an objective assessment of the colour, and the weight is calculated on the assumption that their density is identical.</p>
+      <p n="40">The various groups are weighed and the percentage which each group represents in the weight of the original sample is determined.'</p>
+    </body>
+  </text>
+</TEI.2>

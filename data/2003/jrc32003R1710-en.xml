@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32003R1710-en" n="32003R1710" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1710 English</title>
+        <title>Commission Regulation (EC) No 1710/2003 of 26 September 2003 amending Regulation (EC) No 1623/2000 laying down detailed rules for implementing Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms</title>
+      </titleStmt>
+      <extent>33 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1710:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1710:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">2247</classCode>
+        <classCode scheme="eurovoc">4726</classCode>
+        <classCode scheme="eurovoc">4734</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1710-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1710/2003 of 26 September 2003 amending Regulation (EC) No 1623/2000 laying down detailed rules for implementing Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms</head>
+      <p n="2">Commission Regulation (EC) No 1710/2003</p>
+      <p n="3">of 26 September 2003</p>
+      <p n="4">amending Regulation (EC) No 1623/2000 laying down detailed rules for implementing Regulation (EC) No 1493/1999 on the common organisation of the market in wine with regard to market mechanisms</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1493/1999 of 17 May 1999 on the common organisation of the market in wine(1), as last amended by Regulation (EC) No 806/2003(2), and in particular Article 33 thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Title III, Chapter II of Commission Regulation (EC) No 1623/2000(3), as last amended by Regulation (EC) No 1411/2003(4), governs the application of the aid scheme for the distillation of wine to produce potable alcohol.</p>
+      <p n="10">(2) That chapter sets, inter alia, the period during which distillation is opened and the volume of wine covered by distillation contracts which may be distilled before the final approval date. On the basis of experience acquired during the previous wine year, it has been found necessary to amend the period and the volume of wine.</p>
+      <p n="11">(3) The chapter also provides for the setting of a percentage of production with which producers may participate in such distillation. The percentage for the wine year 2003/04 should be set.</p>
+      <p n="12">(4) Regulation (EC) No 1623/2000 should be amended accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Wine,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">Article 63a of Regulation (EC) No 1623/2000 is hereby amended as follows:</p>
+      <p n="17">1. Paragraph 1 is replaced by the following:</p>
+      <p n="18">"1. The distillation of table wine and wine suitable for yielding table wine referred to in Article 29 of Regulation (EC) No 1493/1999 shall be opened for the period from 1 October to 31 December each wine year."</p>
+      <p n="19">2. In paragraph 2, the first subparagraph is replaced by the following:"The volume of table wine and wine suitable for yielding table wine for which each producer may sign contracts shall be limited to a percentage to be specified of his wine production declared during one of the last three wine years including the production for the current year if already declared. During a given year the producer may not change the production year chosen as the reference for the calculation of that percentage. For the wine year 2003/04 that percentage shall be 25 %."</p>
+      <p n="20">3. Paragraph 7 is replaced by the following:</p>
+      <p n="21">"7. Notwithstanding paragraph 5, the Member States may approve contracts or declarations before 25 January for a quantity not exceeding 40 % of the quantity given in the contracts or declarations."</p>
+      <p n="22">Article 2</p>
+      <p n="23">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.</p>
+      <p n="24">It shall apply from 1 October 2003.</p>
+      <p n="25">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="26">Done at Brussels, 26 September 2003.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">Franz Fischler</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 179, 14.7.1999, p. 1.</p>
+      <p n="31">(2) OJ L 122, 16.5.2003, p. 1.</p>
+      <p n="32">(3) OJ L 194, 31.7.2000, p. 45.</p>
+      <p n="33">(4) OJ L 201, 8.8.2003, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

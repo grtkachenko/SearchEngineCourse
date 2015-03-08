@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32002R0120-en" n="32002R0120" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002R0120 English</title>
+        <title>Council Regulation (EC) No 120/2002 of 21 January 2002 amending Regulation (EC) No 2793/1999 as regards the adjustment of the tariff quota for wine</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0120:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002R0120:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">321</classCode>
+        <classCode scheme="eurovoc">4719</classCode>
+        <classCode scheme="eurovoc">5403</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002R0120-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 120/2002 of 21 January 2002 amending Regulation (EC) No 2793/1999 as regards the adjustment of the tariff quota for wine</head>
+      <p n="2">Council Regulation (EC) No 120/2002</p>
+      <p n="3">of 21 January 2002</p>
+      <p n="4">amending Regulation (EC) No 2793/1999 as regards the adjustment of the tariff quota for wine</p>
+      <p n="5">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,</p>
+      <p n="7">Having regard to the proposal from the Commission,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) By Decision 1999/753/EC of 29 July 1999(1) the Council approved the provisional application of the Agreement on Trade, Development and Cooperation between the European Community and its Member States, of the one part, and the Republic of South Africa, of the other part(2) (hereinafter referred to as the "TDC Agreement"). The TDC Agreement has been applied provisionally from 1 January 2000.</p>
+      <p n="10">(2) Annex X to the TDC Agreement contains an Exchange of Letters between the European Community and the Republic of South Africa which provides for an annual duty-free tariff quota of 32 million litres of South African wine imported in bottles. Article 8 of Council Regulation (EC) No 2793/1999 of 17 December 1999 on certain procedures for applying the Trade, Development and Cooperation Agreement between the European Community and the Republic of South Africa(3), defers the opening of that tariff quota for wine until the entry into force of the Agreements between the European Community and the Republic of South Africa on trade in wine and trade in spirits respectively.</p>
+      <p n="11">(3) By Decision 2002/51/EC(4) the Council has approved, on behalf of the Community, an Agreement between the European Community and the Republic of South Africa on trade in wine. Furthermore, the Council by Decision 2002/55/EC(5) has approved an Agreement in the form of an Exchange of Letters between the European Community and the Republic of South Africa on trade in wine amending the volume of the tariff quota for wine imported in bottles provided for in Annex X to the TDC Agreement.</p>
+      <p n="12">(4) Regulation (EC) No 2793/1999 should therefore be amended accordingly,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The Annex to Regulation (EC) No 2793/1999 is amended as follows:</p>
+      <p n="16">In the fifth column, under the title "Annual tariff quota volume, and annual growth factor", the entry corresponding to order number 09.1825 shall be replaced by the following: "35300000 litres</p>
+      <p n="17">(agf 3 %)(6)".</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="20">It shall apply from 1 January 2002.</p>
+      <p n="21">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="22">Done at Brussels, 21 January 2002.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">M. Arias Cañete</p>
+      <p n="26">(1) OJ L 311, 4.12.1999, p. 1.</p>
+      <p n="27">(2) OJ L 311, 4.12.1999, p. 3.</p>
+      <p n="28">(3) OJ L 337, 30.12.1999, p. 29. Regulation as amended by Regulation (EC) No 1747/2000 (OJ L 200, 8.8.2000, p. 25).</p>
+      <p n="29">(4) See page 3 of this Official Journal.</p>
+      <p n="30">(5) See page 133 of this Official Journal.</p>
+      <p n="31">(6) For each year from 2002 to 2011 a set volume of 6720000 litres will be added to the basic annual quota volume. The annual growth factor will apply from 2003 to the basic quota volume of 35300000 litres only.</p>
+    </body>
+  </text>
+</TEI.2>

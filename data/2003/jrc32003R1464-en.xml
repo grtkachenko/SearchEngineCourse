@@ -1,0 +1,63 @@
+<TEI.2 id="jrc32003R1464-en" n="32003R1464" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R1464 English</title>
+        <title>Commission Regulation (EC) No 1464/2003 of 19 August 2003 setting the minimum price to be paid to producers for dried plums and the production aid for prunes for the 2003/2004 marketing year</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1464:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R1464:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1117</classCode>
+        <classCode scheme="eurovoc">2962</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R1464-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1464/2003 of 19 August 2003 setting the minimum price to be paid to producers for dried plums and the production aid for prunes for the 2003/2004 marketing year</head>
+      <p n="2">Commission Regulation (EC) No 1464/2003</p>
+      <p n="3">of 19 August 2003</p>
+      <p n="4">setting the minimum price to be paid to producers for dried plums and the production aid for prunes for the 2003/2004 marketing year</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 2201/96 of 28 October 1996 on the common organisation of the markets in processed fruit and vegetable products(1), as last amended by Regulation (EC) No 453/2002(2), and in particular Article 6b(3) and Article 6c(7) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 2 of Commission Regulation (EC) No 449/2001 of 2 March 2001 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the aid scheme in the sector in products processed from fruit and vegetables(3), as last amended by Regulation (EC) No 1426/2002(4), lays down the dates of the marketing years.</p>
+      <p n="10">(2) The criteria for setting the minimum price and the production aid are laid down in Articles 6b and 6c respectively of Regulation (EC) No 2201/96.</p>
+      <p n="11">(3) The products for which the minimum price and the aid are to be set are listed in Article 3 of Commission Regulation (EC) No 464/1999 of 3 March 1999 laying down detailed rules for the application of Council Regulation (EC) No 2201/96 as regards aid arrangements for prunes(5) and the characteristics that these products must possess are laid down in Article 2 of that Regulation. The minimum price and the production aid should therefore be set for the 2003/2004 marketing year.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Products Processed from Fruit and Vegetables,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">For the 2003/2004 marketing year:</p>
+      <p n="16">(a) the minimum price referred to in Article 3 of Regulation (EC) No 2201/96 for dried "d'Ente" plums shall be EUR 1935,23 per tonne net ex-producer's premises;</p>
+      <p n="17">(b) the production aid referred to in Article 4 of that Regulation for prunes shall be EUR 804,15 per tonne net.</p>
+      <p n="18">Article 2</p>
+      <p n="19">This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.</p>
+      <p n="20">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="21">Done at Brussels, 19 August 2003.</p>
+      <p n="22">For the Commission</p>
+      <p n="23">Franz Fischler</p>
+      <p n="24">Member of the Commission</p>
+      <p n="25">(1) OJ L 297, 21.11.1996, p. 29.</p>
+      <p n="26">(2) OJ L 72, 14.3.2002, p. 9.</p>
+      <p n="27">(3) OJ L 64, 6.3.2001, p. 16.</p>
+      <p n="28">(4) OJ L 206, 3.8.2002, p. 4.</p>
+      <p n="29">(5) OJ L 56, 4.3.1999, p. 8.</p>
+    </body>
+  </text>
+</TEI.2>

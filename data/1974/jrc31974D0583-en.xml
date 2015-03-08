@@ -1,0 +1,40 @@
+<TEI.2 id="jrc31974D0583-en" n="31974D0583" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31974D0583 English</title>
+        <title>74/583/EEC: Council Decision of 20 November 1974 on the monitoring of sugar movements</title>
+      </titleStmt>
+      <extent>13 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31974D0583:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31974D0583:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31974D0583-en." lang="en">
+    <body>
+      <head n="1">74/583/EEC: Council Decision of 20 November 1974 on the monitoring of sugar movements</head>
+      <p n="2">COUNCIL DECISION of 20 November 1974 on the monitoring of sugar movements (74/583/EEC)</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community;</p>
+      <p n="5">Having regard to the proposal from the Commission;</p>
+      <p n="6">Whereas the situation currently existing on the sugar market necessitates the setting up of machinery for the close and regular supervision of all sugar movements,</p>
+      <p n="7">HAS DECIDED AS FOLLOWS:</p>
+      <p n="8">Sole Article</p>
+      <p n="9">Member States shall each week furnish the Commission with all relevant information on contractually committed quantities of sugar, on the volume of sales and purchases and on the presumed origin and destination of sugar involved in all such transactions.</p>
+      <p n="10">Done at Brussels, 20 November 1974.</p>
+      <p n="11">For the Council</p>
+      <p n="12">The President</p>
+      <p n="13">Ch. BONNET</p>
+    </body>
+  </text>
+</TEI.2>

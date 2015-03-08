@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31999R1245-en" n="31999R1245" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R1245 English</title>
+        <title>Commission Regulation (EC) No 1245/1999 of 16 June 1999 concerning the authorisation of new additives in feedingstuffs</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1245:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R1245:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R1245-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1245/1999 of 16 June 1999 concerning the authorisation of new additives in feedingstuffs</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1245/1999</p>
+      <p n="3">of 16 June 1999</p>
+      <p n="4">concerning the authorisation of new additives in feedingstuffs</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs(1), as last amended by Commission Regulation (EC) No 866/1999(2) and in particular Article 9j and Article 3 thereof,</p>
+      <p n="8">(1) Whereas Directive 70/524/EEC provides that new additives or uses of additives may be authorised, taking account of advances in scientific and technical knowledge;</p>
+      <p n="9">(2) Whereas a new additive "Natrolite-phonolite" belonging to the group "Binders, anti-caking agents and coagulants" has been widely tested in some Member States; whereas, on the basis of the studies carried out, it appears that this new additive can be authorised;</p>
+      <p n="10">(3) Whereas another new additive, "Clinoptilolite of volcanic origin", belonging to the group of "Binders, anti-caking agents and coagulants" has been successfully tested in certain Member States; whereas this new additive should be provisionally authorised;</p>
+      <p n="11">(4) Whereas a provisional authorisation of new additives or uses of additives may be given if, at the level permitted in feedingstuffs, it does not adversely affect human or animal health or the environment, nor harm the consumer by altering the characteristics of livestock product, if its presence in feedingstuffs can be controlled, and it is reasonable to assume, in view of the available results, that it has a favourable effect on the characteristics of those feedingstuffs or on livestock production when incorporated in such feedingstuffs;</p>
+      <p n="12">(5) Whereas the provisional authorisation of "Natrolite-phonolite" expired already on 21 April 1999; whereas therefore for the purpose of legal certainty it is necessary to provide for retroactivity of this Regulation;</p>
+      <p n="13">(6) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Feedingstuffs,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">"Natrolite-phonolite", belonging to the group "Binders, anti-caking agents and coagulants", shall be authorised in accordance with Directive 70/524/EEC as additive, E 566, in feedingstuffs under the conditions laid down in Annex I to this Regulation.</p>
+      <p n="17">Article 2</p>
+      <p n="18">"Clinoptilolite of volcanic origin", belonging to the group "Binders, anti-caking agents and coagulants", may be authorised in accordance with Directive 70/524/EEC as additive, No 3, in feedingstuffs under the conditions laid down in Annex II to this Regulation.</p>
+      <p n="19">Article 3</p>
+      <p n="20">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="21">It shall apply from 22 April 1999.</p>
+      <p n="22">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="23">Done at Brussels, 16 June 1999.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">Franz FISCHLER</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 270, 14.12.1970, p. 1.</p>
+      <p n="28">(2) OJ L 108, 27.4.1999, p. 21.</p>
+      <p n="29">ANNEX I</p>
+      <p n="30">&gt;TABLE&gt;</p>
+      <p n="31">ANNEX II</p>
+      <p n="32">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

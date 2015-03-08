@@ -1,0 +1,62 @@
+<TEI.2 id="jrc32003R0162-en" n="32003R0162" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003R0162 English</title>
+        <title>Commission Regulation (EC) No 162/2003 of 30 January 2003 concerning the authorisation of an additive in feedingstuffs (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>27 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0162:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003R0162:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">5734</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003R0162-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 162/2003 of 30 January 2003 concerning the authorisation of an additive in feedingstuffs (Text with EEA relevance)</head>
+      <p n="2">Commission Regulation (EC) No 162/2003</p>
+      <p n="3">of 30 January 2003</p>
+      <p n="4">concerning the authorisation of an additive in feedingstuffs</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs(1), as last amended by Council Regulation No 1756/2002(2), and in particular Article 9 thereof,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) Under Article 2(aaa) of Directive 70/524/EEC authorisations for putting coccidiostats into circulation are to be linked to the person responsible for putting them into circulation. Such authorisations may be given for a period of 10 years provided all the conditions laid down in Article 3a of that Directive are met.</p>
+      <p n="11">(2) The assessment of the request for authorisation submitted in respect of the coccidiostat preparation specified in the Annex to this Regulation, shows that the conditions referred to in Article 3a of Directive 70/524/EEC are satisfied. The coccidiostat preparation may therefore be authorised and included in Chapter I of the list of authorised additives in feedingstuffs referred to in Article 9t(b) of that Directive.</p>
+      <p n="12">(3) The Scientific Committee for Animal Nutrition has delivered a favourable opinion with regard to the safety and the favourable effects on animal productions of the coccidiostat preparation under the conditions set out in the Annex to this Regulation.</p>
+      <p n="13">(4) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Food Chain and Animal Health,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">The additive belonging to the group "Coccidiostats and other medicinal substances" listed in the Annex to this Regulation is authorised for use as additive in animal nutrition under the conditions laid down in the Annex.</p>
+      <p n="17">Article 2</p>
+      <p n="18">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="19">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="20">Done at Brussels, 30 January 2003.</p>
+      <p n="21">For the Commission</p>
+      <p n="22">David Byrne</p>
+      <p n="23">Member of the Commission</p>
+      <p n="24">(1) OJ L 270, 14.12.1970, p. 1.</p>
+      <p n="25">(2) OJ L 265, 3.10.2002, p. 1.</p>
+      <p n="26">ANNEX</p>
+      <p n="27">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

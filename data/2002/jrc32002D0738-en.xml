@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32002D0738-en" n="32002D0738" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32002D0738 English</title>
+        <title>2002/738/EC: Council Decision of 22 July 2002 on the conclusion by the European Community of the Convention on the Conservation and Management of Fishery Resources in the South-East Atlantic Ocean - Convention on the Conservation and Management of Fishery Resources in the South-East Atlantic Ocean</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0738:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32002D0738:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1160</classCode>
+        <classCode scheme="eurovoc">134</classCode>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">201</classCode>
+        <classCode scheme="eurovoc">2110</classCode>
+        <classCode scheme="eurovoc">3468</classCode>
+        <classCode scheme="eurovoc">3544</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32002D0738-en." lang="en">
+    <body>
+      <head n="1">2002/738/EC: Council Decision of 22 July 2002 on the conclusion by the European Community of the Convention on the Conservation and Management of Fishery Resources in the South-East Atlantic Ocean - Convention on the Conservation and Management of Fishery Resources in the South-East Atlantic Ocean</head>
+      <p n="2">Council Decision</p>
+      <p n="3">of 22 July 2002</p>
+      <p n="4">on the conclusion by the European Community of the Convention on the Conservation and Management of Fishery Resources in the South-East Atlantic Ocean</p>
+      <p n="5">(2002/738/EC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community, and in particular Article 37 in conjunction with the first sentence of the first subparagraph of Article 300(2) and the first subparagraph of Article 300(3) thereof,</p>
+      <p n="8">Having regard to the proposal from the Commission(1),</p>
+      <p n="9">Having regard to the opinion of the European Parliament(2),</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The Community is competent to adopt measures for the conservation and management of fishery resources and to enter into agreements with other countries and international organisations.</p>
+      <p n="12">(2) The Community is a contracting party to the United Nations Convention on the Law of the Sea, which requires all members of the international community to cooperate in conserving and managing the sea's biological resources.</p>
+      <p n="13">(3) The Community has signed the Agreement on the implementation of the provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the Conservation and Management of Straddling Fish Stocks and Highly Migratory Fish Stocks(3) but it has yet to complete the ratification process.</p>
+      <p n="14">(4) The Community has taken an active part in the process, initiated in 1997, of drawing up a Convention on the Conservation and Management of Fishery Resources in the South-East Atlantic Ocean, together with the coastal States and other interested parties. It signed this Convention at the diplomatic conference in Windhoek, Namibia, on 20 April 2001, in accordance with the Council decision to this end(4).</p>
+      <p n="15">(5) Community fishermen operate in the Convention area. It is thus in the Community's interest to become a full member of the regional fisheries organisation to be set up under this Convention. The Community should therefore approve the Convention,</p>
+      <p n="16">HAS DECIDED AS FOLLOWS:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The Convention on the Conservation and Management of Fishery Resources in the South-East Atlantic Ocean is hereby approved on behalf of the European Community.</p>
+      <p n="19">The text of the Convention is attached to this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The President of the Council is hereby authorised to designate the persons empowered to deposit the instrument of approval with the Director-General of the Food and Agriculture Organisation of the United Nations in accordance with Article 25(2) of the Convention.</p>
+      <p n="22">Done at Brussels, 22 July 2002.</p>
+      <p n="23">For the Council</p>
+      <p n="24">The President</p>
+      <p n="25">P. S. Møller</p>
+      <p n="26">(1) OJ C 75 E, 26.3.2002, p. 113.</p>
+      <p n="27">(2) Opinion delivered on 4 July 2002 (not yet published in the Official Journal).</p>
+      <p n="28">(3) OJ L 189, 3.7.1998, p. 14.</p>
+      <p n="29">(4) OJ L 111, 20.4.2001, p. 15.</p>
+    </body>
+  </text>
+</TEI.2>

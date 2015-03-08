@@ -1,0 +1,73 @@
+<TEI.2 id="jrc31996L0085-en" n="31996L0085" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996L0085 English</title>
+        <title>Directive 96/85/EC of the European Parliament and of the Council of 19 December 1996 amending Directive 95/2/EC on food additives other than colours and sweeteners</title>
+      </titleStmt>
+      <extent>36 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996L0085:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996L0085:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1204</classCode>
+        <classCode scheme="eurovoc">1284</classCode>
+        <classCode scheme="eurovoc">1590</classCode>
+        <classCode scheme="eurovoc">2836</classCode>
+        <classCode scheme="eurovoc">2897</classCode>
+        <classCode scheme="eurovoc">6052</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996L0085-en." lang="en">
+    <body>
+      <head n="1">Directive 96/85/EC of the European Parliament and of the Council of 19 December 1996 amending Directive 95/2/EC on food additives other than colours and sweeteners</head>
+      <p n="2">DIRECTIVE 96/85/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 December 1996 amending Directive 95/2/EC on food additives other than colours and sweeteners</p>
+      <p n="3">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof,</p>
+      <p n="5">Having regard to Council Directive 89/107/EEC of 21 December 1988 on the approximation of the laws of the Member States concerning food additives authorized for use in foodstuffs intended for human consumption (1), and in particular Article 3 (2) thereof,</p>
+      <p n="6">Having regard to the proposal from the Commission (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Acting in accordance with the procedure laid down in Article 189b of the Treaty (4),</p>
+      <p n="9">Whereas processed Eucheuma seaweed constitutes a new food additive the use of which is justified on technological grounds;</p>
+      <p n="10">Whereas it is necessary to adapt the list of permitted food additives contained in European Parliament and Council Directive 95/2/EC of 20 February 1995 on food additives other than colours and sweeteners (5) in order to permit the use of this additive;</p>
+      <p n="11">Whereas the Scientific Committee for Food has been consulted;</p>
+      <p n="12">Whereas purity criteria will be adopted in accordance with the procedure laid down in Article 11 of Directive 89/107/EEC,</p>
+      <p n="13">HAVE ADOPTED THIS DIRECTIVE:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The following food additive is hereby inserted after E-No 407 in the table in Annex I to Directive 95/2/EC:</p>
+      <p n="16">&gt;TABLE&gt;</p>
+      <p n="17">Article 2</p>
+      <p n="18">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than three months after its publication in order to allow trade in, and use of, products conforming to this Directive.</p>
+      <p n="19">They shall forthwith inform the Commission thereof.</p>
+      <p n="20">When these measures are adopted by Member States, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.</p>
+      <p n="21">Article 3</p>
+      <p n="22">This Directive shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="23">Article 4</p>
+      <p n="24">This Directive is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 19 December 1996.</p>
+      <p n="26">For the European Parliament</p>
+      <p n="27">The President</p>
+      <p n="28">K. HÄNSCH</p>
+      <p n="29">For the Council</p>
+      <p n="30">The President</p>
+      <p n="31">S. BARRETT</p>
+      <p n="32">(1) OJ No L 40, 11. 2. 1989, p. 27. Directive as last amended by Directive 94/34/EC (OJ No L 237, 10. 9. 1994, p. 1).</p>
+      <p n="33">(2) OJ No C 163, 29. 6. 1995, p. 12 and OJ No C 208, 19. 7. 1996, p. 15.</p>
+      <p n="34">(3) OJ No C 18, 22. 1. 1996, p. 20.</p>
+      <p n="35">(4) Opinion of the European Parliament of 28 March 1996 (OJ No C 117, 22. 4. 1996, p. 36), common position of the Council of 25 June 1996 (OJ No C 315, 24. 10. 1996, p. 9) and Decision of the European Parliament of 23 October 1996 (OJ No C 347, 18. 11. 1996). Council Decision of 9 December 1996.</p>
+      <p n="36">(5) OJ No L 61, 18. 3. 1995, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

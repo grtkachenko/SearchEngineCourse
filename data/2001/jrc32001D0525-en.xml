@@ -1,0 +1,83 @@
+<TEI.2 id="jrc32001D0525-en" n="32001D0525" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0525 English</title>
+        <title>2001/525/EC: Commission Decision of 28 June 2001 amending Decision 2000/680/EC approving contingency plans for the control of avian influenza and of Newcastle disease (Text with EEA relevance) (notified under document number C(2001) 1685)</title>
+      </titleStmt>
+      <extent>48 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0525:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0525:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">4427</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0525-en." lang="en">
+    <body>
+      <head n="1">2001/525/EC: Commission Decision of 28 June 2001 amending Decision 2000/680/EC approving contingency plans for the control of avian influenza and of Newcastle disease (Text with EEA relevance) (notified under document number C(2001) 1685)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 28 June 2001</p>
+      <p n="4">amending Decision 2000/680/EC approving contingency plans for the control of avian influenza and of Newcastle disease</p>
+      <p n="5">(notified under document number C(2001) 1685)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/525/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 92/40/EEC of 19 May 1992 introducing Community measures for the control of avian influenza(1), as last amended by the Act of Accession of Austria, Finland and Sweden and in particular Article 17(4) thereof,</p>
+      <p n="11">Having regard to Council Directive 92/66/EEC of 14 July 1992 introducing Community measures for the control of Newcastle disease(2), as last amended by the Act of Accession of Austria, Finland and Sweden and in particular Article 21(4) thereof,</p>
+      <p n="12">Whereas:</p>
+      <p n="13">(1) Avian influenza and Newcastle disease are diseases which both affect avian species.</p>
+      <p n="14">(2) The criteria to be applied when drawing up contingency plans for the control of avian influenza and for Newcastle disease are laid down in Annex VI to Directive 92/40/EEC and in Annex VII to Directive 92/66/EEC, respectively.</p>
+      <p n="15">(3) The criteria for contingency plans listed in the two Annexes referred to above are identical.</p>
+      <p n="16">(4) Disease control measures to be applied in the event of outbreaks of avian influenza or Newcastle disease follow the same principles and involve poultry producers, operators of slaughterhouses and rendering plants, veterinarians in the field and diagnostic laboratories. It is therefore possible to prepare a contingency plan which covers at the same time avian influenza and Newcastle disease.</p>
+      <p n="17">(5) Member States have submitted for approval national contingency plans which list and specify the measures to be carried out in the event of outbreaks of avian influenza and Newcastle disease.</p>
+      <p n="18">(6) By Commission Decision 2000/680/EC of 30 October 2000 approving contingency plans for the control of avian influenza and Newcastle disease(3), contingency plans submitted by 10 Member States were approved.</p>
+      <p n="19">(7) Contingency plans submitted by all Member States have been examined and fulfil the criteria laid down.</p>
+      <p n="20">(8) The measures provided for in this decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="21">HAS ADOPTED THIS DECISION:</p>
+      <p n="22">Article 1</p>
+      <p n="23">The Annex to Decision 2000/680/EC is replaced by the Annex hereto.</p>
+      <p n="24">Article 2</p>
+      <p n="25">This Decision is addressed to the Member States.</p>
+      <p n="26">Done at Brussels, 28 June 2001.</p>
+      <p n="27">For the Commission</p>
+      <p n="28">David Byrne</p>
+      <p n="29">Member of the Commission</p>
+      <p n="30">(1) OJ L 167, 22.6.1992, p. 1.</p>
+      <p n="31">(2) OJ L 260, 5.9.1992, p. 1.</p>
+      <p n="32">(3) OJ L 281, 7.11.2000, p. 21.</p>
+      <p n="33">ANNEX</p>
+      <p n="34">Belgium</p>
+      <p n="35">Denmark</p>
+      <p n="36">Germany</p>
+      <p n="37">Greece</p>
+      <p n="38">Spain</p>
+      <p n="39">France</p>
+      <p n="40">Ireland</p>
+      <p n="41">Italy</p>
+      <p n="42">Luxembourg</p>
+      <p n="43">Netherlands</p>
+      <p n="44">Austria</p>
+      <p n="45">Portugal</p>
+      <p n="46">Finland</p>
+      <p n="47">Sweden</p>
+      <p n="48">United Kingdom</p>
+    </body>
+  </text>
+</TEI.2>

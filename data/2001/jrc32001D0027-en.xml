@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32001D0027-en" n="32001D0027" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001D0027 English</title>
+        <title>2001/27/EC: Commission Decision of 27 December 2000 amending Decision 92/160/EEC with regard to imports of equidae from Brazil (Text with EEA relevance) (notified under document number C(2000) 4145)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0027:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001D0027:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1445</classCode>
+        <classCode scheme="eurovoc">2488</classCode>
+        <classCode scheme="eurovoc">2771</classCode>
+        <classCode scheme="eurovoc">3579</classCode>
+        <classCode scheme="eurovoc">5040</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001D0027-en." lang="en">
+    <body>
+      <head n="1">2001/27/EC: Commission Decision of 27 December 2000 amending Decision 92/160/EEC with regard to imports of equidae from Brazil (Text with EEA relevance) (notified under document number C(2000) 4145)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 27 December 2000</p>
+      <p n="4">amending Decision 92/160/EEC with regard to imports of equidae from Brazil</p>
+      <p n="5">(notified under document number C(2000) 4145)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2001/27/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 90/426/EEC of 26 June 1990 on animal health conditions governing the movement and imports from third countries of equidae(1), as last amended by the Act of Accession of Austria, Finland and Sweden, and in particular Articles 13(2) thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) In accordance with Community legislation Member States are authorised to import equidae from third countries or in the case of official regionalisation from parts of the territory of a third country which have been free from glanders for the past six months prior to export.</p>
+      <p n="13">(2) Commission Decision 92/160/EEC(2), as last amended by Decision 2000/508/EC(3), establishes the regionalisation of certain third countries for imports of equidae.</p>
+      <p n="14">(3) Decision 92/160/EEC was amended with regard to imports into the Community of equidae from Brazil by Decision 2000/163/EC(4) and 2000/508/EC due to reports of glanders in local equidae in the States Pernambuco and Alagoas and Sergipe and Ceará respectively.</p>
+      <p n="15">(4) Brazil reported new clinical cases of glanders in indigenous working horses in certain districts of the States Maranhão and Piaui in the north-east of the country. In 11 States mainly in the north-east of the country a serological survey is being carried out to assess the disease situation.</p>
+      <p n="16">(5) It is therefore appropriate to adapt the regionalisation to the disease situation in the country concerned, taking into account the survey currently being carried out.</p>
+      <p n="17">(6) The measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="18">HAS ADOPTED THIS DECISION:</p>
+      <p n="19">Article 1</p>
+      <p n="20">The words "Maranhão", "Piaui", "Rio Grande do Norte", "Paraiba", "Bahia" and "Tocantins" are deleted from the list of States of Brazil in the Annex to Decision 92/160/EEC.</p>
+      <p n="21">Article 2</p>
+      <p n="22">This Decision is addressed to the Member States.</p>
+      <p n="23">Done at Brussels, 27 December 2000.</p>
+      <p n="24">For the Commission</p>
+      <p n="25">David Byrne</p>
+      <p n="26">Member of the Commission</p>
+      <p n="27">(1) OJ L 224, 18.8.1990, p. 42.</p>
+      <p n="28">(2) OJ L 71, 18.3.1992, p. 27.</p>
+      <p n="29">(3) OJ L 204, 11.8.2000, p. 44.</p>
+      <p n="30">(4) OJ L 51, 24.2.2000, p. 46.</p>
+    </body>
+  </text>
+</TEI.2>

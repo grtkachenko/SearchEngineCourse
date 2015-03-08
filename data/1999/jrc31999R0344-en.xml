@@ -1,0 +1,62 @@
+<TEI.2 id="jrc31999R0344-en" n="31999R0344" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999R0344 English</title>
+        <title>Commission Regulation (EC) No 344/1999 of 16 February 1999 amending Regulation (EC) No 1439/95 laying down detailed rules for the application of Council Regulation (EEC) No 3013/89 as regards the import and export of products in the sheepmeat and goatmeat sector</title>
+      </titleStmt>
+      <extent>25 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0344:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999R0344:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">161</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2173</classCode>
+        <classCode scheme="eurovoc">4682</classCode>
+        <classCode scheme="eurovoc">4683</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999R0344-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 344/1999 of 16 February 1999 amending Regulation (EC) No 1439/95 laying down detailed rules for the application of Council Regulation (EEC) No 3013/89 as regards the import and export of products in the sheepmeat and goatmeat sector</head>
+      <p n="2">COMMISSION REGULATION (EC) No 344/1999 of 16 February 1999 amending Regulation (EC) No 1439/95 laying down detailed rules for the application of Council Regulation (EEC) No 3013/89 as regards the import and export of products in the sheepmeat and goatmeat sector</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 2467/98 of 3 November 1998 on the common organisation of the market in sheepmeat and goatmeat (1), and in particular Article 17, paragraph 1 thereof,</p>
+      <p n="6">Whereas the procedure for revising the list of authorities issuing documents of origin should be simplified in order to take account in a timely way of the up-to-date situation; whereas to this end, the Commission should be entitled to revise the said list of authorities by its own decision;</p>
+      <p n="7">Whereas Australia has nominated a new issuing agency for documents of origin; whereas Annex I to Commission Regulation (EC) No 1439/95 (2), as last amended by Regulation (EC) No 1764/98 (3), should be amended accordingly; whereas the nomination by Australia of the new issuing agency is effective as from 1 February 1999, it is appropriate to consider valid the documents issued by the said agency as from that date;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Sheep and Goats,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">Regulation (EC) No 1439/95 is hereby amended as follows:</p>
+      <p n="12">1. Article 12(2) is replaced by the following:</p>
+      <p n="13">'2. The list may be revised by the Commission where any issuing authority is no longer recognised, where it fails to fulfil any of the obligations incumbent on it or where a new issuing authority is designated.`;</p>
+      <p n="14">2. in Annex I, 'Department of Primary Industries and Energy` is replaced by 'Department of Agriculture, Fisheries and Forestry`.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="17">It shall apply with effect from 1 February 1999.</p>
+      <p n="18">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="19">Done at Brussels, 16 February 1999.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Franz FISCHLER</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ L 312, 20. 11. 1998, p. 1.</p>
+      <p n="24">(2) OJ L 143, 27. 6. 1995, p. 7.</p>
+      <p n="25">(3) OJ L 223, 11. 8. 1998, p. 4.</p>
+    </body>
+  </text>
+</TEI.2>

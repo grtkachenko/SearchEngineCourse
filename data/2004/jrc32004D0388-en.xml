@@ -1,0 +1,70 @@
+<TEI.2 id="jrc32004D0388-en" n="32004D0388" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0388 English</title>
+        <title>2004/388/EC: Commission Decision of 15 April 2004 on an Intra-Community transfer of explosives document (notified under document number C(2004) 1332)</title>
+      </titleStmt>
+      <extent>37 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0388:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0388:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">619</classCode>
+        <classCode scheme="eurovoc">945</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0388-en." lang="en">
+    <body>
+      <head n="1">2004/388/EC: Commission Decision of 15 April 2004 on an Intra-Community transfer of explosives document (notified under document number C(2004) 1332)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 15 April 2004</p>
+      <p n="4">on an Intra-Community transfer of explosives document</p>
+      <p n="5">(notified under document number C(2004) 1332)</p>
+      <p n="6">(2004/388/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Having regard to Council Directive 1993/15/EEC of 5 April 1993 on the harmonisation of the provisions relating to the placing on the market and supervision of explosives for civil uses(1), and in particular Article 13(3) thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) The system for transferring explosives within the territory of the Community established by Directive 1993/15/EEC provides for the approval of the different competent authorities responsible for the zones of origin, transit and destination of the explosives.</p>
+      <p n="12">(2) A model document to be used for the transfer of explosives, comprising the information required for the purposes of Article 9(5) and (6) of Directive 93/15/EEC, should be established, in order to facilitate transfers of explosives between Member States while preserving the necessary security requirements for the transfer of these products.</p>
+      <p n="13">(3) The measures provided for in this Decision are in accordance with the opinion of the Management Committee established pursuant to Article 13(1) of Directive 1993/15/EEC,</p>
+      <p n="14">HAS ADOPTED THIS DECISION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">1. The information required for the purposes of Article 9(5) and (6) of Directive 1993/15/EEC shall be provided using the model "Intra-Community transfer of explosives document" set out in the Annex and accompanying explanatory notes.</p>
+      <p n="17">2. The model document shall be accepted by the competent authorities as a valid transfer document to accompany the explosives for transfers between Member States until the explosives arrive at their destination.</p>
+      <p n="18">3. This Decision shall not apply to ammunition.</p>
+      <p n="19">Article 2</p>
+      <p n="20">The Intra-Community transfer of explosives document, hereinafter referred to as "the document", shall be established in triplicate. Member States shall take appropriate measures, including adequate means of secure identification, to ensure that the document cannot be falsified.</p>
+      <p n="21">Article 3</p>
+      <p n="22">The document shall be printed on paper weighing at least 80 g/m2. The paper's strength shall be such that in normal use it does not easily tear or crease.</p>
+      <p n="23">Article 4</p>
+      <p n="24">This Decision shall apply from six months after publication in the Official Journal of the European Union. Its entry into force shall leave existing fixed period approvals for multiple transfers valid until their expiry date.</p>
+      <p n="25">Article 5</p>
+      <p n="26">This Decision is addressed to the Member States.</p>
+      <p n="27">Done at Brussels, 15 April 2004.</p>
+      <p n="28">For the Commission</p>
+      <p n="29">Erkki Liikanen</p>
+      <p n="30">Member of the Commission</p>
+      <p n="31">(1) OJ L 121, 15.5.1993, p. 20. Directive amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1).</p>
+      <p n="32">ANNEX</p>
+      <p n="33">Intra-Community transfer of explosives document</p>
+      <p n="34">(Article 9(5) and (6) of Directive 93/15/EEC)</p>
+      <p n="35">&gt;PIC FILE= "L_2004120EN.004502.TIF"&gt;</p>
+      <p n="36">&gt;PIC FILE= "L_2004120EN.004601.TIF"&gt;</p>
+      <p n="37">&gt;PIC FILE= "L_2004120EN.004701.TIF"&gt;</p>
+    </body>
+  </text>
+</TEI.2>

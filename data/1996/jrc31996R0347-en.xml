@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31996R0347-en" n="31996R0347" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R0347 English</title>
+        <title>Commission Regulation (EC) No 347/96 of 27 February 1996 establishing a system of rapid reporting of the release of salmon for free circulation in the European Community (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0347:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R0347:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1309</classCode>
+        <classCode scheme="eurovoc">1637</classCode>
+        <classCode scheme="eurovoc">2437</classCode>
+        <classCode scheme="eurovoc">2635</classCode>
+        <classCode scheme="eurovoc">4645</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R0347-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 347/96 of 27 February 1996 establishing a system of rapid reporting of the release of salmon for free circulation in the European Community (Text with EEA relevance)</head>
+      <p n="2">COMMISSION REGULATION (EC) No 347/96 of 27 February 1996 establishing a system of rapid reporting of the release of salmon for free circulation in the European Community (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 3759/92 of 17 December 1992 on the common organization of the market in fishery and aquaculture products (1), as last amended by Regulation (EC) No 3318/94 (2), and in particular Article 30 thereof,</p>
+      <p n="6">Whereas since late October 1995 the price of salmon released for free circulation in the Community fell very sharply, causing market disturbance liable to put in question the aims of Article 39 of the EC Treaty; whereas Commission Regulation (EC) No 2907/95 (3) making the release for free circulation of salmon of EEA origin conditional upon observance of a floor price, which is designed to restabilize the European Union market, entered into force on 16 December 1995;</p>
+      <p n="7">Whereas in order both that the Commission may monitor the effects of Regulation (EC) No 2907/95 and to enable further measures to be taken, if necessary, without delay, a system of rapid reporting of the terms of importation of salmon is required;</p>
+      <p n="8">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Fishery Products,</p>
+      <p n="9">HAS ADOPTED THIS REGULATION:</p>
+      <p n="10">Article 1</p>
+      <p n="11">1. The Member States shall notify to the Commission the weight, and declared customs value in the currency of the Member State concerned, of the goods listed in the Annex which are released for free circulation. This information shall be broken down by CN code, as well as by day of acceptance of the import declaration, and by both country of origin and country of provenance.</p>
+      <p n="12">2. For goods released into free circulation between the 1st and the 15th day of the month, the notification shall be sent on the 25th day of each month or the first working day thereafter, and for goods released into free circulation between the 16th and the last day of the month, on the 10th day of the following month or the first working day thereafter. The notification shall be sent to the Commission by fax in the form communicated by the Commission. The information to be forwarded may be communicated to the Commission on magnetic medium for computer processing in a format to be agreed with the Commission.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 27 February 1996.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Emma BONINO</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ No L 388, 31. 12. 1992, p. 1.</p>
+      <p n="21">(2) OJ No L 350, 31. 12. 1994, p. 15.</p>
+      <p n="22">(3) OJ No L 304, 16. 12. 1995, p. 38.</p>
+      <p n="23">ANNEX</p>
+      <p n="24">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

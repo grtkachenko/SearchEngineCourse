@@ -1,0 +1,67 @@
+<TEI.2 id="jrc31998D0168-en" n="31998D0168" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998D0168 English</title>
+        <title>98/168/EC: Commission Decision of 17 February 1998 amending Decision 93/70/EEC on codification for the message 'Animo' to include certain types of mammalian waste products (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0168:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998D0168:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">2737</classCode>
+        <classCode scheme="eurovoc">3422</classCode>
+        <classCode scheme="eurovoc">344</classCode>
+        <classCode scheme="eurovoc">6019</classCode>
+        <classCode scheme="eurovoc">619</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998D0168-en." lang="en">
+    <body>
+      <head n="1">98/168/EC: Commission Decision of 17 February 1998 amending Decision 93/70/EEC on codification for the message 'Animo' to include certain types of mammalian waste products (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION of 17 February 1998 amending Decision 93/70/EEC on codification for the message 'Animo` to include certain types of mammalian waste products (Text with EEA relevance) (98/168/EC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation 90/425/EEC of 26 June 1990 concerning veterinary and zootechnical checks applicable in intra-Community trade in certain live animals and products with a view to the completion of the internal market (1), as last amended by Directive 92/118/EEC (2), and in particular Article 20(3) thereof,</p>
+      <p n="6">Whereas, for quick understanding of the Animo message, Commission Decision 93/70/EEC (3), as last amended by Decision 97/628/EC (4), lays down the codes to be used for animals and animal products;</p>
+      <p n="7">Whereas Commission Decision 97/735/EC of 21 October 1997 (5) lays down new provisions governing trade in certain types of mammalian waste products; whereas, in particular, the Member States of export and of destination must inform each other of the nature and intended use of the goods using the Animo computer system;</p>
+      <p n="8">Whereas, to this end, the coding system used for live animals and animal products must be amended to introduce the products covered by the new provisions;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee,</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">The Annex to Decision 93/70/EEC is amended as follows:</p>
+      <p n="13">1. In Title I, Point 12 of Chapter I.3, 'PRODUCTS OF ANIMAL ORIGIN`, is replaced by:</p>
+      <p n="14">&gt;TABLE&gt;</p>
+      <p n="15">2. In Title III:</p>
+      <p n="16">- The title is replaced by:</p>
+      <p n="17">'List of possible uses for the live animals, semen, ova, embryos and products of animal origin`,</p>
+      <p n="18">- A new point, D4, is added:</p>
+      <p n="19">&gt;TABLE&gt;</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Decision is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 17 February 1998.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ L 224, 18. 8. 1990, p. 29.</p>
+      <p n="27">(2) OJ L 62, 15. 3. 1993, p. 49.</p>
+      <p n="28">(3) OJ L 25, 2. 2. 1993, p. 34.</p>
+      <p n="29">(4) OJ L 261, 23. 9. 1997, p. 1.</p>
+      <p n="30">(5) OJ L 294, 28. 10. 1997, p. 7.</p>
+    </body>
+  </text>
+</TEI.2>

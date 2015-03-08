@@ -1,0 +1,77 @@
+<TEI.2 id="jrc31997R2205-en" n="31997R2205" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R2205 English</title>
+        <title>Council Regulation (EC) No 2205/97 of 30 October 1997 amending Regulation (EEC) No 2847/93 establishing a control system applicable to the common fisheries policy</title>
+      </titleStmt>
+      <extent>40 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2205:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R2205:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1159</classCode>
+        <classCode scheme="eurovoc">2455</classCode>
+        <classCode scheme="eurovoc">4790</classCode>
+        <classCode scheme="eurovoc">5229</classCode>
+        <classCode scheme="eurovoc">5254</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R2205-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 2205/97 of 30 October 1997 amending Regulation (EEC) No 2847/93 establishing a control system applicable to the common fisheries policy</head>
+      <p n="2">COUNCIL REGULATION (EC) No 2205/97 of 30 October 1997 amending Regulation (EEC) No 2847/93 establishing a control system applicable to the common fisheries policy</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Having regard to the opinion of the Economic and Social Committee (3),</p>
+      <p n="8">Whereas, in accordance with Article 19d of Regulation (EEC) No 2847/93 (4), the Council has to decide on, inter alia, the provisions on catch reporting;</p>
+      <p n="9">Whereas Article 7 (4) of Council Regulation (EC) No 685/95 of 27 March 1995 on the management of the fishing effort relating to certain Community fishing areas and resources (5) provides that Member States shall take the necessary steps to make it compulsory for vessels flying their respective flags to declare on entry into, and exit from, an area, on-board catches as from the date of implementation - not later than 1 January 1998 - of Community infrastructure for the management of data on fishing catches in Community waters;</p>
+      <p n="10">Whereas it is necessary to adopt implementing provisions for the communication of the report known as the 'effort report`;</p>
+      <p n="11">Whereas, given that the Community system of satellite surveillance of vessels ensures that communications from fishing vessels are received by the flag Member States and, where appropriate, the coastal Member States, provision should be made for that system to be used to communicate catches;</p>
+      <p n="12">Whereas Regulation (EEC) No 2847/93 should be amended accordingly,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">Regulation (EEC) No 2847/93 is hereby amended as follows:</p>
+      <p n="16">1. The following indent shall be added to Article 19b (1):</p>
+      <p n="17">'- the catch retained on board by species in kilograms live weight.`;</p>
+      <p n="18">2. The following paragraph shall be added to Article 19b:</p>
+      <p n="19">'4. Detailed rules for implementation of this Article shall be adopted, in accordance with the procedure laid down in Article 36.`;</p>
+      <p n="20">3. In Article 19c (1) the following shall be added after the words 'by telex,`:</p>
+      <p n="21">'by VMS,`;</p>
+      <p n="22">4. Article 19d shall be replaced by the following:</p>
+      <p n="23">'Article 19d</p>
+      <p n="24">Member States shall take the necessary measures to ensure that the effort reports received pursuant to Articles 19b and 19c are recorded in computer-readable form.`;</p>
+      <p n="25">5. The following Article shall be added:</p>
+      <p n="26">'Article 19j</p>
+      <p n="27">In order to ensure respect of the obligations laid down in Articles 19b, 19c and 19e, each Member State shall cross-check and verify the data resulting from these obligations.`</p>
+      <p n="28">Article 2</p>
+      <p n="29">This Regulation shall enter into force on 1 January 1998.</p>
+      <p n="30">It shall apply from 1 July 1998.</p>
+      <p n="31">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="32">Done at Luxembourg, 30 October 1997.</p>
+      <p n="33">For the Council</p>
+      <p n="34">The President</p>
+      <p n="35">F. BODEN</p>
+      <p n="36">(1) OJ C 188, 22. 7. 1995, p. 8.</p>
+      <p n="37">(2) OJ C 269, 16. 10. 1995, p. 221.</p>
+      <p n="38">(3) OJ C 18, 22. 1. 1996, p. 102.</p>
+      <p n="39">(4) OJ L 261, 20. 10. 1993, p. 1. Regulation as last amended by Regulation (EC) No 686/97 (OJ L 102, 19. 4. 1997, p. 1).</p>
+      <p n="40">(5) OJ L 71, 31. 3. 1995, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>

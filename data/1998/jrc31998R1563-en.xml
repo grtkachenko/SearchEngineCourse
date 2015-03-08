@@ -1,0 +1,55 @@
+<TEI.2 id="jrc31998R1563-en" n="31998R1563" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R1563 English</title>
+        <title>Commission Regulation (EC) No 1563/98 of 20 July 1998 amending Regulation (EC) No 956/97 laying down detailed rules for the application of Council Regulation (EC) No 2201/96 with regard to specific measures applicable to processed asparagus</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1563:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R1563:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2731</classCode>
+        <classCode scheme="eurovoc">5231</classCode>
+        <classCode scheme="eurovoc">666</classCode>
+        <classCode scheme="eurovoc">797</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R1563-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1563/98 of 20 July 1998 amending Regulation (EC) No 956/97 laying down detailed rules for the application of Council Regulation (EC) No 2201/96 with regard to specific measures applicable to processed asparagus</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1563/98 of 20 July 1998 amending Regulation (EC) No 956/97 laying down detailed rules for the application of Council Regulation (EC) No 2201/96 with regard to specific measures applicable to processed asparagus</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 2201/96 of 28 October 1996 on the common organisation of the markets in processed fruit and vegetable products (1), as amended by Regulation (EC) No 2199/97 (2), and in particular Article 10(4) thereof,</p>
+      <p n="6">Whereas Commission Regulation (EC) No 956/97 (3) provides that representative associations are to submit programmes of specific measures before 30 June 1998; whereas the time required for setting up those representative associations as defined in Article 1(a) of that Regulation has proved to be longer than initially provided for; whereas, as a result, it is necessary to extend the aforementioned time limit by one year to enable that Regulation to be implemented;</p>
+      <p n="7">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Products Processed from Fruit and Vegetables,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">In Article 1(b) of Regulation (EC) No 956/97, '30 June 1998` is replaced by '30 June 1999`.</p>
+      <p n="11">Article 2</p>
+      <p n="12">This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.</p>
+      <p n="13">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="14">Done at Brussels, 20 July 1998.</p>
+      <p n="15">For the Commission</p>
+      <p n="16">Franz FISCHLER</p>
+      <p n="17">Member of the Commission</p>
+      <p n="18">(1) OJ L 297, 21. 11. 1996, p. 29.</p>
+      <p n="19">(2) OJ L 303, 6. 11. 1997, p. 1.</p>
+      <p n="20">(3) OJ L 139, 30. 5. 1997, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

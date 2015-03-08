@@ -1,0 +1,72 @@
+<TEI.2 id="jrc31992D0160-en" n="31992D0160" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31992D0160 English</title>
+        <title>92/160/EEC: Commission Decision of 5 March 1992 establishing the regionalization of certain third countries for imports of equidae</title>
+      </titleStmt>
+      <extent>45 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0160:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31992D0160:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text id="jrc31992D0160-en." lang="en">
+    <body>
+      <head n="1">92/160/EEC: Commission Decision of 5 March 1992 establishing the regionalization of certain third countries for imports of equidae</head>
+      <p n="2">COMMISSION DECISION of 5 March 1992 establishing the regionalization of certain third countries for imports of equidae (92/160/EEC)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Economic Community,</p>
+      <p n="5">Having regard to Council Directive 90/426/EEC on animal health conditions governing the movement and import from third countries of equidae (1), as amended by Directive 91/496/EEC (2), and in particular Article 13 (2) thereof,</p>
+      <p n="6">Whereas by Council Decision 79/542/EEC (3), as last amended by Commission Decision 92/14/EEC (4), the Council has established a list of third countries from which Member States authorize imports of bovine animals, swine, equidae and fresh meat, including meat products;</p>
+      <p n="7">Whereas it is necessary to take into account the health situation of the third countries from which Member States authorize the imports of equidae;</p>
+      <p n="8">Whereas it is therefore appropriate that the said imports from some third countries are only authorized for Member States from one or more parts of the territory;</p>
+      <p n="9">Whereas the measures provided for in this Decision are in accordance with the opinion of the Standing Veterinary Committee;</p>
+      <p n="10">HAS ADOPTED THIS DECISION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Member States authorize imports of equidae from parts of third country territories listed in the Annex to the Decision.</p>
+      <p n="13">Article 2</p>
+      <p n="14">Decision 79/542/EEC is amended as follows:</p>
+      <p n="15">1. The countries listed in the Annex to this Decision are deleted from Article 1 (3) (c);</p>
+      <p n="16">2. Footnote (1) appearing in the special column for equidae is deleted in respect of the countries included in the Annex to this Decision.</p>
+      <p n="17">Article 3</p>
+      <p n="18">This Decision is addressed to the Member States.</p>
+      <p n="19">Done at Brussels, 5 March 1992.</p>
+      <p n="20">For the Commission</p>
+      <p n="21">Ray MAC SHARRY</p>
+      <p n="22">Member of the Commission</p>
+      <p n="23">(1) OJ No L 224, 18. 8. 1990, p. 42.</p>
+      <p n="24">(2) OJ No L 268, 24. 9. 1991, p. 56.</p>
+      <p n="25">(3) OJ No L 146, 14. 6. 1979, p. 15.</p>
+      <p n="26">(4) OJ No L 8, 14. 1. 1992, p. 12.</p>
+      <p n="27">ANNEX</p>
+      <p n="28">Parts of third countries from which Member States authorize imports of equidae (in application of Article 13 (2) of Directive 90/426/EEC)</p>
+      <p n="29">Brazil</p>
+      <p n="30">States of: Rio Grande do Sul, Santa Catarina, Paraná, Sao Paulo, Mato Grosso do Sul, Goiás, Minas Gerais, Rio de Janeiro, Espírito Santo, Bahia, Rondónia, Mato Grosso, Tocantins, Piauí, Sergipe, Alagoas, Pernambuco, Paraíba, Rio Grande do Norte, Ceará et Maranhao.</p>
+      <p n="31">Costa Rica (1)</p>
+      <p n="32">Metropolitan area of San José.</p>
+      <p n="33">Colombia (1)</p>
+      <p n="34">Metropolitan area of Bogota.</p>
+      <p n="35">Egypt (2)</p>
+      <p n="36">Metropolitan area of Cairo.</p>
+      <p n="37">Equador (1)</p>
+      <p n="38">Metropolitan area of Quito.</p>
+      <p n="39">Peru (1)</p>
+      <p n="40">Metropolitan area of Lima.</p>
+      <p n="41">Turkey (2)</p>
+      <p n="42">Provinces of Ankara, Edirne, Istanbul, Izmir, Kirklareli and Tekirdag.</p>
+      <p n="43">Venezuela (1)</p>
+      <p n="44">Metropolitan area of Caracas.</p>
+      <p n="45">(1) Only re-entry of registered horses into Community territory after being temporarily exported into this territory is authorized. (2) Only temporary entry into the Community of registered horses and re-entry of registered horses into Community territory after being temporarily exported into this territory is authorized.</p>
+    </body>
+  </text>
+</TEI.2>

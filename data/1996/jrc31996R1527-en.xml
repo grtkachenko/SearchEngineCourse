@@ -1,0 +1,68 @@
+<TEI.2 id="jrc31996R1527-en" n="31996R1527" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31996R1527 English</title>
+        <title>Commission Regulation (EC) No 1527/96 of 30 July 1996 amending Regulation (EC) No 1162/95 laying down special detailed rules for the application of the system of import and export licences for cereals and rice</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1527:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31996R1527:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">1644</classCode>
+        <classCode scheme="eurovoc">2729</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+        <classCode scheme="eurovoc">5083</classCode>
+        <classCode scheme="eurovoc">5360</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31996R1527-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1527/96 of 30 July 1996 amending Regulation (EC) No 1162/95 laying down special detailed rules for the application of the system of import and export licences for cereals and rice</head>
+      <p n="2">COMMISSION REGULATION (EC) No 1527/96 of 30 July 1996 amending Regulation (EC) No 1162/95 laying down special detailed rules for the application of the system of import and export licences for cereals and rice</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EEC) No 1418/76 of 21 June 1976 on the common organization of the market in rice (1), as last amended by Regulation (EC) No 3072/95 (2), and in particular Articles 10 (2) and 14 (16) thereof,</p>
+      <p n="6">Whereas the intervention buying-in prices for paddy rice provided for in Article 5 (2) of Regulation (EEC) No 1418/76 are replaced from the 1996/97 marketing year by a single intervention price; whereas, as regards the transition from the 1995/96 marketing year to the 1996/97 marketing year, when the reduction of the refunds at the end of the marketing year provided for in Article 12 (5) of Commission Regulation (EC) No 1162/95 (3), as last amended by Regulation (EC) No 1029/96 (4), is calculated, account should be taken of the difference between the intervention buying-in prices for paddy rice without the monthly increases of the old marketing year and the intervention price of the new marketing year; whereas this will avoid too high a level of reduction as a result of the use of the intervention price provided for in Regulation (EEC) No 1418/76 instead of the intervention buying-in prices provided for in Article 5 (2) of that Regulation;</p>
+      <p n="7">Whereas an indication should be made that the first adjustment of the refunds is to be made on the first day of the calendar month following that in which the licence application is made;</p>
+      <p n="8">Whereas, for statistical reasons, the Member States should communicate each day the quantities of rice covered by import licences for each origin;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">Regulation (EC) No 1162/95 is amended as follows:</p>
+      <p n="13">1. the following subparagraph is added to Article 12 (4):</p>
+      <p n="14">'The first adjustment shall be made on the first day of the calendar month following that in which the licence application is made. Subsequent adjustments shall apply each month.`;</p>
+      <p n="15">2. the following subparagraph is added to Article 12 (5) (a):</p>
+      <p n="16">'However, as regards the transition from the 1995/96 marketing year to the 1996/97 marketing year, the difference between the intervention buying-in prices provided for in Article 5 (2) of Regulation (EEC) No 1418/76 for paddy rice without monthly increases for the 1995/96 marketing year and the intervention price for the 1996/97 marketing year shall apply.`;</p>
+      <p n="17">3. the first subparagraph of Article 13 (2) is replaced by the following:</p>
+      <p n="18">'2. With regard to import licences issued, each day the Member States shall forward the quantities covered by licences by product code and, in the case of common wheat, by quality grade and by origin. The origin shall also be indicated in import licences for rice.`</p>
+      <p n="19">Article 2</p>
+      <p n="20">This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.</p>
+      <p n="21">Article 1 (2) shall apply to licences issued from 1 May 1996.</p>
+      <p n="22">Article 1 (1) and (3) shall apply to licences issued from 1 September 1996.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 30 July 1996.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz FISCHLER</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ No L 166, 25. 6. 1976, p. 1.</p>
+      <p n="29">(2) OJ No L 329, 31. 12. 1995, p. 18.</p>
+      <p n="30">(3) OJ No L 117, 24. 5. 1995, p. 2.</p>
+      <p n="31">(4) OJ No L 137, 8. 6. 1996, p. 1.</p>
+    </body>
+  </text>
+</TEI.2>

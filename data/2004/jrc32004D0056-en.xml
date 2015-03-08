@@ -1,0 +1,59 @@
+<TEI.2 id="jrc32004D0056-en" n="32004D0056" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004D0056 English</title>
+        <title>Commission Decision of 23 December 2003 on the continuation in the year 2004 of Community comparative trials and tests on propagating and planting material of Prunus domestica under Council Directive 92/34/EEC started in 2002</title>
+      </titleStmt>
+      <extent>21 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0056:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004D0056:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2232</classCode>
+        <classCode scheme="eurovoc">2723</classCode>
+        <classCode scheme="eurovoc">2827</classCode>
+        <classCode scheme="eurovoc">3409</classCode>
+        <classCode scheme="eurovoc">4081</classCode>
+        <classCode scheme="eurovoc">6269</classCode>
+        <classCode scheme="eurovoc">867</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004D0056-en." lang="en">
+    <body>
+      <head n="1">Commission Decision of 23 December 2003 on the continuation in the year 2004 of Community comparative trials and tests on propagating and planting material of Prunus domestica under Council Directive 92/34/EEC started in 2002</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 23 December 2003</p>
+      <p n="4">on the continuation in the year 2004 of Community comparative trials and tests on propagating and planting material of Prunus domestica under Council Directive 92/34/EEC started in 2002</p>
+      <p n="5">(2004/56/EC)</p>
+      <p n="6">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="7">Having regard to the Treaty establishing the European Community,</p>
+      <p n="8">Having regard to Council Directive 92/34/EEC of 28 April 1992 on the marketing of fruit plant propagating material and fruit plants, intended for fruit production(1),</p>
+      <p n="9">Having regard to Commission Decision 2001/896/EC of 12 December 2001 setting out the arrangements for Community comparative trials and tests on propagating and planting material of fruit plants under Council directive 92/34/EEC(2), and in particular Article 2 thereof,</p>
+      <p n="10">Whereas:</p>
+      <p n="11">(1) Decision 2001/896/EC sets out the arrangements for the comparative trials and tests to be carried out under Directive 92/34/EEC as regards Prunus domestica from 2002 to 2006.</p>
+      <p n="12">(2) Tests and trials carried out in 2002 and 2003 should be continued in 2004,</p>
+      <p n="13">HAS DECIDED AS FOLLOWS:</p>
+      <p n="14">Sole Article</p>
+      <p n="15">Community comparative trials and tests which began in 2002 on propagating and planting material of Prunus domestica shall be continued in 2004 in accordance with Decision 2001/896/EC.</p>
+      <p n="16">Done at Brussels, 23 December 2003.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">David Byrne</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 157, 10.6.1992, p. 10. Directive as last amended by Directive 2003/61/EC (OJ L 165, 3.7.2003, p. 23).</p>
+      <p n="21">(2) OJ L 331, 15.12.2001, p. 95.</p>
+    </body>
+  </text>
+</TEI.2>

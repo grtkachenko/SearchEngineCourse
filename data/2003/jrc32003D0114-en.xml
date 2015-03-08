@@ -1,0 +1,67 @@
+<TEI.2 id="jrc32003D0114-en" n="32003D0114" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0114 English</title>
+        <title>2003/114/EC: Commission Decision of 19 February 2003 amending for the third time Decision 2002/308/EC establishing the lists of approved zones and approved farms with regard to one or more of the fish diseases viral haemorrhagic septicaemia (VHS) and infectious haematopoietic necrosis (IHN) (Text with EEA relevance) (notified under document number C(2003) 558)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0114:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0114:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1755</classCode>
+        <classCode scheme="eurovoc">192</classCode>
+        <classCode scheme="eurovoc">2320</classCode>
+        <classCode scheme="eurovoc">2384</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0114-en." lang="en">
+    <body>
+      <head n="1">2003/114/EC: Commission Decision of 19 February 2003 amending for the third time Decision 2002/308/EC establishing the lists of approved zones and approved farms with regard to one or more of the fish diseases viral haemorrhagic septicaemia (VHS) and infectious haematopoietic necrosis (IHN) (Text with EEA relevance) (notified under document number C(2003) 558)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 19 February 2003</p>
+      <p n="4">amending for the third time Decision 2002/308/EC establishing the lists of approved zones and approved farms with regard to one or more of the fish diseases viral haemorrhagic septicaemia (VHS) and infectious haematopoietic necrosis (IHN)</p>
+      <p n="5">(notified under document number C(2003) 558)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(2003/114/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 91/67/EEC of 28 January 1991 concerning the animal health conditions governing the placing on the market of aquaculture animals and products(1), as last amended by Directive 98/45/EC(2), and in particular Article 6 thereof,</p>
+      <p n="11">Whereas:</p>
+      <p n="12">(1) In order to obtain, for one or more of the fish diseases viral haemorrhagic septicaemia (VHS) and infectious haematopoietic necrosis (IHN), the status of approved fish farm situated in a non-approved zone, Member States shall submit the appropriate justifications and the national rules ensuring compliance with the conditions laid down in Directive 91/67/EEC.</p>
+      <p n="13">(2) Commission Decision 2002/308/EC(3), as last amended by Decision 2002/1005/EC(4), establishes the lists of approved zones and approved fish farms situated in non-approved zones with regard to certain fish diseases.</p>
+      <p n="14">(3) Germany has submitted justifications for the status of approved farm in a non-approved zone for a farm in Bavaria with regard to VHS and IHN, as well as the national rules ensuring compliance with the requirements for that status.</p>
+      <p n="15">(4) The justification has been scrutinised by the Commission with the assistance of experts in the Member States.</p>
+      <p n="16">(5) The documentation provided by Germany for the farm concerned shows that it meets the requirements of Article 6 of Directive 91/67/EEC. The farm therefore qualifies for the status of approved farm in a non-approved zone and should be added to the list of approved farms set out in Annex II to Decision 2002/308/EC.</p>
+      <p n="17">(6) Decision 2002/308/EC should therefore be amended accordingly.</p>
+      <p n="18">(7) The measures provided for in this Decision are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,</p>
+      <p n="19">HAS ADOPTED THIS DECISION:</p>
+      <p n="20">Article 1</p>
+      <p n="21">In Annex II to Decision 2002/308/EC, the following approved fish farm is added in Section 3.5:</p>
+      <p n="22">"&gt;TABLE&gt;"</p>
+      <p n="23">Article 2</p>
+      <p n="24">This Decision is addressed to the Member States.</p>
+      <p n="25">Done at Brussels, 19 February 2003.</p>
+      <p n="26">For the Commission</p>
+      <p n="27">David Byrne</p>
+      <p n="28">Member of the Commission</p>
+      <p n="29">(1) OJ L 46, 19.2.1991, p. 1.</p>
+      <p n="30">(2) OJ L 189, 3.7.1998, p. 12.</p>
+      <p n="31">(3) OJ L 106, 23.4.2002, p. 28.</p>
+      <p n="32">(4) OJ L 349, 24.12.2002, p. 109.</p>
+    </body>
+  </text>
+</TEI.2>

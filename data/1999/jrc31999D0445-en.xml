@@ -1,0 +1,65 @@
+<TEI.2 id="jrc31999D0445-en" n="31999D0445" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0445 English</title>
+        <title>1999/445/EC, ECSC: Council and Commission Decision of 29 April 1999 concerning the conclusion of the Agreement between the European Communities and the Government of Canada regarding the application of their competition laws</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0445:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0445:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1474</classCode>
+        <classCode scheme="eurovoc">5100</classCode>
+        <classCode scheme="eurovoc">539</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0445-en." lang="en">
+    <body>
+      <head n="1">1999/445/EC, ECSC: Council and Commission Decision of 29 April 1999 concerning the conclusion of the Agreement between the European Communities and the Government of Canada regarding the application of their competition laws</head>
+      <p n="2">COUNCIL AND COMMISSION DECISION</p>
+      <p n="3">of 29 April 1999</p>
+      <p n="4">concerning the conclusion of the Agreement between the European Communities and the Government of Canada regarding the application of their competition laws</p>
+      <p n="5">(1999/445/EC, ECSC)</p>
+      <p n="6">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="8">Having regard to the Treaty establishing the European Community, and in particular Articles 87 and 235, in conjunction with the first subparagraph of Article 228(3) thereof,</p>
+      <p n="9">Having regard to the Treaty establishing the European Coal and Steel Community, and in particular Articles 65 and 66 thereof,</p>
+      <p n="10">Having regard to the proposal from the Commission,</p>
+      <p n="11">Having regard to the opinion of the European Parliament(1),</p>
+      <p n="12">(1) Whereas Article 235 of the Treaty must be invoked owing to the inclusion in the text of the Agreement of mergers and acquisitions which are covered by Council Regulation (EEC) No 4064/89 of 21 December 1989 on the control of concentrations between undertakings(2), which is essentially based on Article 235;</p>
+      <p n="13">(2) Whereas, given the increasingly pronounced international dimension to competition problems, international cooperation in this field should be strengthened;</p>
+      <p n="14">(3) Whereas, to this end, the Commission has negotiated an Agreement with the Government of Canada on the application of the competition rules of the European Communities and of Canada;</p>
+      <p n="15">(4) Whereas the Agreement, including the Exchange of Letters, should be approved,</p>
+      <p n="16">HAS DECIDED AS FOLLOWS:</p>
+      <p n="17">Article 1</p>
+      <p n="18">The Agreement between the European Communities and the Government of Canada regarding the application of their competition laws, including the Exchange of Letters, is hereby approved on behalf of the European Community and the European Coal and Steel Community.</p>
+      <p n="19">The text of the Agreement and of the Exchange of Letters, drawn up in the Danish, German, English, Spanish, Finnish, French, Greek, Italian, Dutch, Portuguese and Swedish languages are attached do this Decision.</p>
+      <p n="20">Article 2</p>
+      <p n="21">The President of the Council is hereby authorised to designate the person(s) empowered to sign the Agreement in order to bind the European Community.</p>
+      <p n="22">The President of the Commission is hereby authorised to designate the person(s) empowered to sign the Agreement in order to bind the European Coal and Steel Community.</p>
+      <p n="23">Done at Luxembourg, 29 April 1999.</p>
+      <p n="24">For the Council</p>
+      <p n="25">The President</p>
+      <p n="26">W. MÜLLER</p>
+      <p n="27">For the Commission</p>
+      <p n="28">The President</p>
+      <p n="29">J. SANTOR</p>
+      <p n="30">(1) OJ C 150, 28.5.1999.</p>
+      <p n="31">(2) OJ L 395, 30.12.1989, p. 1 (corrected version: OJ L 257, 21.9.1990, p. 13).</p>
+    </body>
+  </text>
+</TEI.2>

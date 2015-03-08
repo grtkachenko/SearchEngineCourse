@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31997R1048-en" n="31997R1048" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31997R1048 English</title>
+        <title>Council Regulation (EC) No 1048/97 of 9 June 1997 amending Regulation (EEC) No 189/92 adopting provisions for the application of certain control measures adopted by the Northwest Atlantic Fisheries Organization</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1048:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31997R1048:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2026</classCode>
+        <classCode scheme="eurovoc">2282</classCode>
+        <classCode scheme="eurovoc">2455</classCode>
+        <classCode scheme="eurovoc">4790</classCode>
+        <classCode scheme="eurovoc">5229</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31997R1048-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 1048/97 of 9 June 1997 amending Regulation (EEC) No 189/92 adopting provisions for the application of certain control measures adopted by the Northwest Atlantic Fisheries Organization</head>
+      <p n="2">COUNCIL REGULATION (EC) No 1048/97 of 9 June 1997 amending Regulation (EEC) No 189/92 adopting provisions for the application of certain control measures adopted by the Northwest Atlantic Fisheries Organization</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 43 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission (1),</p>
+      <p n="6">Having regard to the opinion of the European Parliament (2),</p>
+      <p n="7">Whereas Regulation (EEC) No 189/92 (3) requires Community fishing vessels to communicate to the Commission and simultaneously to their competent national authorities, certain information regarding their activities in the Northwest Atlantic Fisheries Organization (NAFO) Regulatory Area;</p>
+      <p n="8">Whereas the NAFO Fisheries Commission adopted a recommendation on 13 September 1996 to amend the hail system;</p>
+      <p n="9">Whereas, pursuant to Article XI of the NAFO Convention, the recommendation became binding on the Community as from 13 November 1996;</p>
+      <p n="10">Whereas, it is therefore necessary to amend Regulation (EEC) No 189/92, in order to oblige Community fishing vessels to comply with the recommendation,</p>
+      <p n="11">HAS ADOPTED THIS REGULATION:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The following indent shall be added to point 1.1 of the Annex to Regulation (EEC) No 189/92:</p>
+      <p n="14">'- target species`.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="17">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="18">Done at Luxembourg, 9 June 1997.</p>
+      <p n="19">For the Council</p>
+      <p n="20">The President</p>
+      <p n="21">G. ZALM</p>
+      <p n="22">(1) OJ No C 25, 25. 1. 1997, p. 11.</p>
+      <p n="23">(2) OJ No C 167, 2. 6. 1997.</p>
+      <p n="24">(3) OJ No L 21, 30. 1. 1992, p. 4. Regulation as last amended by Regulation (EC) No 3068/95 (OJ No L 329, 30. 12. 1995, p. 3).</p>
+    </body>
+  </text>
+</TEI.2>

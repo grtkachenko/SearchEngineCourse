@@ -1,0 +1,61 @@
+<TEI.2 id="jrc31998R0692-en" n="31998R0692" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0692 English</title>
+        <title>Commission Regulation (EC) No 692/98 of 27 March 1998 amending Regulation (EC) No 2050/97 determining the reductions to be applied in certain Member States to the compensatory payments under the aid scheme for rice producers</title>
+      </titleStmt>
+      <extent>24 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0692:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0692:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2443</classCode>
+        <classCode scheme="eurovoc">2965</classCode>
+        <classCode scheme="eurovoc">3003</classCode>
+        <classCode scheme="eurovoc">3732</classCode>
+        <classCode scheme="eurovoc">4327</classCode>
+        <classCode scheme="eurovoc">862</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0692-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 692/98 of 27 March 1998 amending Regulation (EC) No 2050/97 determining the reductions to be applied in certain Member States to the compensatory payments under the aid scheme for rice producers</head>
+      <p n="2">COMMISSION REGULATION (EC) No 692/98 of 27 March 1998 amending Regulation (EC) No 2050/97 determining the reductions to be applied in certain Member States to the compensatory payments under the aid scheme for rice producers</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Regulation (EC) No 3072/95 of 22 December 1995 on the common organisation of the market in rice (1), as amended by Regulation (EC) No 192/98 (2), and in particular the second subparagraph of Article 6(5) thereof,</p>
+      <p n="6">Whereas Article 6(5) of Regulation (EC) No 3072/95 lays down that where the areas given over to rice in a given year exceed a specific base area, a reduction in the compensatory payment shall be applied to all producers in the base area in question for the same production year;</p>
+      <p n="7">Whereas Article 6(2) of Commission Regulation (EC) No 613/97 of 8 April 1997 laying down rules for the application of Council Regulation (EC) No 3072/95 as regards the conditions for granting compensatory payments under the aid scheme for rice producers (3), as amended by Regulation (EC) No 1305/97 (4), lays down that the notifications from the Member States may, under certain conditions, be corrected and that, after checking the corrected information, the Commission must, where appropriate, recalculate the size of the reductions established pursuant to Article 6(5) of Regulation (EC) No 3072/95;</p>
+      <p n="8">Whereas Spain has submitted a corrected notification regarding the area given over to rice in 1997; whereas that area is lower than the national base area established for that Member State; whereas, after analysing the information, the reduction in the compensatory payment laid down for Spain by Commission Regulation (EC) No 2050/97 (5) should be cancelled;</p>
+      <p n="9">Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Cereals,</p>
+      <p n="10">HAS ADOPTED THIS REGULATION:</p>
+      <p n="11">Article 1</p>
+      <p n="12">In the table given in Article 1 of Regulation (EC) No 2050/97, the reference to Spain and the figure 27,75 are hereby deleted.</p>
+      <p n="13">Article 2</p>
+      <p n="14">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="15">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="16">Done at Brussels, 27 March 1998.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Franz FISCHLER</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 329, 30. 12. 1995, p. 18.</p>
+      <p n="21">(2) OJ L 20, 27. 1. 1998, p. 16.</p>
+      <p n="22">(3) OJ L 94, 9. 4. 1997, p. 1.</p>
+      <p n="23">(4) OJ L 177, 5. 7. 1997, p. 11.</p>
+      <p n="24">(5) OJ L 287, 21. 10. 1997, p. 12.</p>
+    </body>
+  </text>
+</TEI.2>

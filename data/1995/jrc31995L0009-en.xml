@@ -1,0 +1,69 @@
+<TEI.2 id="jrc31995L0009-en" n="31995L0009" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31995L0009 English</title>
+        <title>Commission Directive 95/9/EC of 7 April 1995 amending Directive 94/39/EC establishing a list of intended uses of animal feedingstuffs for particular nutritional purposes (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>32 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0009:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0009:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1277</classCode>
+        <classCode scheme="eurovoc">2081</classCode>
+        <classCode scheme="eurovoc">2753</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">842</classCode>
+        <classCode scheme="eurovoc">893</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31995L0009-en." lang="en">
+    <body>
+      <head n="1">Commission Directive 95/9/EC of 7 April 1995 amending Directive 94/39/EC establishing a list of intended uses of animal feedingstuffs for particular nutritional purposes (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DIRECTIVE 95/9/EC of 7 April 1995 amending Directive 94/39/EC establishing a list of intended uses of animal feedingstuffs for particular nutritional purposes (Text with EEA relevance)</p>
+      <p n="3">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community,</p>
+      <p n="5">Having regard to Council Directive 93/74/EEC of 13 September 1993 on feedingstuffs intended for particular nutritional purposes (1), and in particular Article 6 (c) thereof,</p>
+      <p n="6">Whereas Article 6 (c) of Directive 93/74/EEC provides that the measures adopted according to Article 6 (a) may be adjusted to developments in scientific and technical knowledge; whereas those measures have been adopted by Commission Directive 94/39/EC (2);</p>
+      <p n="7">Whereas certain nutritional purposes could not at first be included in the list of intended uses of animal feedingstuffs for particular nutritional purposes owing to the absence at the time of Community methods for calculating the energy value of pet foods;</p>
+      <p n="8">Whereas a method for calculating that energy value has now been adopted at Community level and the said nutritional purposes can therefore be included in the list;</p>
+      <p n="9">Whereas, furthermore, the list of particular nutritional purposes adopted for equines should be adapted and supplemented on the basis of available data;</p>
+      <p n="10">Whereas the measures provided for in this Directive are in accordance with the opinion of the Standing Committee for Feedingstuffs,</p>
+      <p n="11">HAS ADOPTED THIS DIRECTIVE:</p>
+      <p n="12">Article 1</p>
+      <p n="13">The Annex to Directive 94/39/EC is amended in accordance with the Annex to this Directive.</p>
+      <p n="14">Article 2</p>
+      <p n="15">1. Member States shall bring into force the laws, regulations and administrative provisions necessary for them to comply with this Directive no later than 30 June 1995. They shall immediately inform the Commission thereof.</p>
+      <p n="16">When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.</p>
+      <p n="17">2. Member States shall communicate to the Commission the text of the essential provisions of national law which they adopt in the field covered by this Directive.</p>
+      <p n="18">Article 3</p>
+      <p n="19">This Directive shall enter into force on the third day following its publication in the Official Journal of the European Communities.</p>
+      <p n="20">Article 4</p>
+      <p n="21">This Directive is addressed to the Member States.</p>
+      <p n="22">Done at Brussels, 7 April 1995.</p>
+      <p n="23">For the Commission</p>
+      <p n="24">Franz FISCHLER</p>
+      <p n="25">Member of the Commission</p>
+      <p n="26">(1) OJ No L 237, 22. 9. 1993, p. 23.</p>
+      <p n="27">(2) OJ No L 207, 10. 8. 1994, p. 20.</p>
+      <p n="28">ANNEX</p>
+      <p n="29">1. In Part B, after the nutritional purpose 'Reduction of copper in the liver` for dogs and cats, the following nutritional purposes are inserted:</p>
+      <p n="30">&gt;TABLE&gt;</p>
+      <p n="31">2. In part B, the text of the particular nutritional purposes concerning equines is replaced by the following text:</p>
+      <p n="32">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

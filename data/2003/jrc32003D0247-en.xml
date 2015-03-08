@@ -1,0 +1,54 @@
+<TEI.2 id="jrc32003D0247-en" n="32003D0247" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32003D0247 English</title>
+        <title>2003/247/EC: Commission Decision of 9 April 2003 amending Decision 2000/690/EC setting up an Enterprise Policy Group (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>20 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0247:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32003D0247:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">2469</classCode>
+        <classCode scheme="eurovoc">5640</classCode>
+        <classCode scheme="eurovoc">6050</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32003D0247-en." lang="en">
+    <body>
+      <head n="1">2003/247/EC: Commission Decision of 9 April 2003 amending Decision 2000/690/EC setting up an Enterprise Policy Group (Text with EEA relevance)</head>
+      <p n="2">Commission Decision</p>
+      <p n="3">of 9 April 2003</p>
+      <p n="4">amending Decision 2000/690/EC setting up an Enterprise Policy Group</p>
+      <p n="5">(Text with EEA relevance)</p>
+      <p n="6">(2003/247/EC)</p>
+      <p n="7">THE COMMISSION OF THE EUROPEAN COMMUNITIES</p>
+      <p n="8">Having regard to the Treaty establishing the European Community,</p>
+      <p n="9">Whereas:</p>
+      <p n="10">(1) By Commission Decision 2000/690/EC of 8 November 2000 setting up an Enterprise Policy Group(1) an Enterprise Policy Group was established, of which the Professional Chamber comprises up to 40 members. With a view to enlargement the number of members of the Professional Chamber, representing a wide range of expertise in domains of importance to enterprises, should be increased.</p>
+      <p n="11">(2) Decision 2000/690/EC should therefore be amended accordingly,</p>
+      <p n="12">HAS DECIDED AS FOLLOWS:</p>
+      <p n="13">Sole Article</p>
+      <p n="14">In the second indent of Article 2(1), of Decision 2000/690/EC the number "40" is replaced by "45".</p>
+      <p n="15">This Decision shall take effect on the day of its publication in the Official Journal of the European Union.</p>
+      <p n="16">Done at Brussels, 9 April 2003.</p>
+      <p n="17">For the Commission</p>
+      <p n="18">Erkki Liikanen</p>
+      <p n="19">Member of the Commission</p>
+      <p n="20">(1) OJ L 285, 10.11.2000, p. 24.</p>
+    </body>
+  </text>
+</TEI.2>

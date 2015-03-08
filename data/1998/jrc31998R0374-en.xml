@@ -1,0 +1,66 @@
+<TEI.2 id="jrc31998R0374-en" n="31998R0374" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31998R0374 English</title>
+        <title>Council Regulation (EC) No 374/98 of 12 February 1998 amending Articles 6 and 9 of Regulation (EC) No 1172/95 on the statistics relating to the trading of goods by the Community and its Member States with non-member countries</title>
+      </titleStmt>
+      <extent>29 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0374:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31998R0374:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">3156</classCode>
+        <classCode scheme="eurovoc">4258</classCode>
+        <classCode scheme="eurovoc">5283</classCode>
+        <classCode scheme="eurovoc">614</classCode>
+        <classCode scheme="eurovoc">616</classCode>
+        <classCode scheme="eurovoc">9</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31998R0374-en." lang="en">
+    <body>
+      <head n="1">Council Regulation (EC) No 374/98 of 12 February 1998 amending Articles 6 and 9 of Regulation (EC) No 1172/95 on the statistics relating to the trading of goods by the Community and its Member States with non-member countries</head>
+      <p n="2">COUNCIL REGULATION (EC) No 374/98 of 12 February 1998 amending Articles 6 and 9 of Regulation (EC) No 1172/95 on the statistics relating to the trading of goods by the Community and its Member States with non-member countries</p>
+      <p n="3">THE COUNCIL OF THE EUROPEAN UNION,</p>
+      <p n="4">Having regard to the Treaty establishing the European Community, and in particular Article 113 thereof,</p>
+      <p n="5">Having regard to the proposal from the Commission,</p>
+      <p n="6">Whereas following the amendment of the statistical territory of the Community on 1 January 1997 by Regulation (EC) No 476/97 (1) which amends Regulation (EC) No 1172/95 (2), the references to the former definition of the statistical territory are to be deleted; whereas Article 6(1) of Regulation (EC) No 1172/95 should therefore be amended;</p>
+      <p n="7">Whereas from 1 January 1999 the country nomenclature currently used for the statistics relating to the trading of goods will be replaced by an alphabetical nomenclature based on the ISO alpha-2 code; whereas, in this new context and for the sake of harmonisation, all the Member States must use the same nomenclature when compiling statistics and transmitting them to Eurostat; whereas it is therefore necessary to amend Article 9 of Regulation (EC) No 1172/95 by deleting the possibility accorded the Member States of using other country nomenclatures at the collection stage,</p>
+      <p n="8">HAS ADOPTED THIS REGULATION:</p>
+      <p n="9">Article 1</p>
+      <p n="10">Regulation (EC) No 1172/95 shall be amended as follows:</p>
+      <p n="11">1. in Article 6(1):</p>
+      <p n="12">(a) in subparagraph (a), the second indent shall be deleted;</p>
+      <p n="13">(b) in subparagraph (b), the third indent shall be deleted;</p>
+      <p n="14">(c) subparagraph (c) shall be replaced by the following:</p>
+      <p n="15">'(c) the goods referred to in Article 4(1), second subparagraph.`;</p>
+      <p n="16">2. in Article 9:</p>
+      <p n="17">(a) paragraph 2 shall be replaced by the following:</p>
+      <p n="18">'2. The code specified in the nomenclature of countries referred to in paragraph 1 must be given for each country.`;</p>
+      <p n="19">(b) paragraph 3 shall be deleted.</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">Article 1(2) shall apply from 1 January 1999.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 12 February 1998.</p>
+      <p n="25">For the Council</p>
+      <p n="26">The President</p>
+      <p n="27">J. BATTLE</p>
+      <p n="28">(1) OJ L 75, 15. 3. 1997, p. 1.</p>
+      <p n="29">(2) OJ L 118, 25. 5. 1995, p. 10.</p>
+    </body>
+  </text>
+</TEI.2>

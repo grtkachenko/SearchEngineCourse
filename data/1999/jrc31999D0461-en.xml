@@ -1,0 +1,60 @@
+<TEI.2 id="jrc31999D0461-en" n="31999D0461" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 31999D0461 English</title>
+        <title>1999/461/EC: Commission Decision of 24 June 1999 on the publication of the list of existing class A and B passenger ships notified by Greece in accordance with Council Directive 98/18/EC for which the derogation of Article 6(3)(g) may be applied (notified under document number C(1999) 1712) (Text with EEA relevance)</title>
+      </titleStmt>
+      <extent>23 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0461:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31999D0461:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1182</classCode>
+        <classCode scheme="eurovoc">4033</classCode>
+        <classCode scheme="eurovoc">4511</classCode>
+        <classCode scheme="eurovoc">4522</classCode>
+        <classCode scheme="eurovoc">4542</classCode>
+        <classCode scheme="eurovoc">5889</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc31999D0461-en." lang="en">
+    <body>
+      <head n="1">1999/461/EC: Commission Decision of 24 June 1999 on the publication of the list of existing class A and B passenger ships notified by Greece in accordance with Council Directive 98/18/EC for which the derogation of Article 6(3)(g) may be applied (notified under document number C(1999) 1712) (Text with EEA relevance)</head>
+      <p n="2">COMMISSION DECISION</p>
+      <p n="3">of 24 June 1999</p>
+      <p n="4">on the publication of the list of existing class A and B passenger ships notified by Greece in accordance with Council Directive 98/18/EC for which the derogation of Article 6(3)(g) may be applied</p>
+      <p n="5">(notified under document number C(1999) 1712)</p>
+      <p n="6">(Text with EEA relevance)</p>
+      <p n="7">(1999/461/EC)</p>
+      <p n="8">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="9">Having regard to the Treaty establishing the European Community,</p>
+      <p n="10">Having regard to Council Directive 98/18/EC of 17 March 1998 on safety rules and standards for passenger ships(1), and in particular Article 6(3)(g) thereof,</p>
+      <p n="11">Whereas Greece has notified to the Commission the list of existing class A and B ships complying with the conditions for applying the derogation pursuant to Article 6(3)(g) of Directive 98/18/EC,</p>
+      <p n="12">HAS ADOPTED THIS DECISION:</p>
+      <p n="13">Article 1</p>
+      <p n="14">The existing Class A and B passenger ships operating exclusively on domestic voyages between ports situated in Greece for which the derogation of Article 6(3)(g) may be applied are those listed in the Annex to this Decision.</p>
+      <p n="15">Article 2</p>
+      <p n="16">This Decision is addressed to the Member States.</p>
+      <p n="17">Done at Brussels, 24 June 1999.</p>
+      <p n="18">For the Commission</p>
+      <p n="19">Neil KINNOCK</p>
+      <p n="20">Member of the Commission</p>
+      <p n="21">(1) OJ L 144, 15.5.1998, p. 1.</p>
+      <p n="22">ANNEX</p>
+      <p n="23">&gt;TABLE&gt;</p>
+    </body>
+  </text>
+</TEI.2>

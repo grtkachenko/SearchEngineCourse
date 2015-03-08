@@ -1,0 +1,66 @@
+<TEI.2 id="jrc32004R0597-en" n="32004R0597" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32004R0597 English</title>
+        <title>Commission Regulation (EC) No 597/2004 of 30 March 2004 derogating from and amending Regulation (EC) No 174/1999 as regards export licences for milk powder exported to the Dominican Republic</title>
+      </titleStmt>
+      <extent>30 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0597:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32004R0597:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1571</classCode>
+        <classCode scheme="eurovoc">1642</classCode>
+        <classCode scheme="eurovoc">3415</classCode>
+        <classCode scheme="eurovoc">3568</classCode>
+        <classCode scheme="eurovoc">946</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32004R0597-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 597/2004 of 30 March 2004 derogating from and amending Regulation (EC) No 174/1999 as regards export licences for milk powder exported to the Dominican Republic</head>
+      <p n="2">Commission Regulation (EC) No 597/2004</p>
+      <p n="3">of 30 March 2004</p>
+      <p n="4">derogating from and amending Regulation (EC) No 174/1999 as regards export licences for milk powder exported to the Dominican Republic</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EC) No 1255/1999 of 17 May 1999 on the common organisation of the market in milk and milk products(1), and in particular Article 30(1) thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Article 20a of Commission Regulation (EC) No 174/1999 of 26 January 1999 laying down special detailed rules for the application of Council Regulation (EEC) No 804/68 as regards export licences and export refunds in the case of milk and milk products(2) lays down the rules for administering the milk powder quota for exports to the Dominican Republic under the Memorandum of Understanding between the European Community and the Dominican Republic, approved by Council Decision 98/486/EC(3).</p>
+      <p n="10">(2) To enable operators of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia to apply for export licences for the quota for exports to the Dominican Republic for the period from 1 July 2004 to 30 June 2005, the application period should be postponed.</p>
+      <p n="11">(3) In order to ensure a more accurate checking of products exported and to minimise the risk of speculation, export licences issued in accordance with Article 20a(12) of Regulation (EC) No 174/1999 should be valid only for the product code for which they are issued. Therefore the exceptions provided for in Article 5(2) and (3) should no longer apply to licences issued as from the next quota year.</p>
+      <p n="12">(4) Regulation (EC) No 174/1999 should therefore be amended accordingly.</p>
+      <p n="13">(5) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,</p>
+      <p n="14">HAS ADOPTED THIS REGULATION:</p>
+      <p n="15">Article 1</p>
+      <p n="16">By way of derogation from Article 20a(7) of Regulation (EC) No 174/1999, for the period from 1 July 2004 to 30 June 2005, licence applications shall be lodged from 10 to 15 May 2004.</p>
+      <p n="17">Article 2</p>
+      <p n="18">In Article 20a of Regulation (EC) No 174/1999, paragraph 17 is replaced by the following:</p>
+      <p n="19">"17. Chapter 1 shall apply, with the exception of Article 5(2) and (3) and Articles 6, 9 and 10."</p>
+      <p n="20">Article 3</p>
+      <p n="21">This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.</p>
+      <p n="22">However, Article 2 shall only apply to export licences issued from 1 June 2004.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 30 March 2004.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Franz Fischler</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 160, 26.6.1999, p. 48. Regulation as last amended by Commission Regulation (EC) No 186/2004 (OJ L 29, 3.2.2004, p. 6).</p>
+      <p n="29">(2) OJ L 20, 27.1.1999, p. 8. Regulation as last amended by Regulation (EC) No 1948/2003 (OJ L 287, 5.11.2003, p. 13).</p>
+      <p n="30">(3) OJ L 218, 6.8.1998, p. 45.</p>
+    </body>
+  </text>
+</TEI.2>

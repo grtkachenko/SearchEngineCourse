@@ -1,0 +1,68 @@
+<TEI.2 id="jrc32001R1578-en" n="32001R1578" lang="en">
+  <teiHeader lang="en" date.created="2006-05-14">
+    <fileDesc>
+      <titleStmt>
+        <title>JRC-ACQUIS 32001R1578 English</title>
+        <title>Commission Regulation (EC) No 1578/2001 of 1 August 2001 determining the sensitive production areas and/or the groups of high-quality varieties exempt from application of the quota buyback programme in raw tobacco</title>
+      </titleStmt>
+      <extent>31 paragraph segments</extent>
+      <publicationStmt>
+        <distributor>
+          <xref url="http://wt.jrc.it/lt/acquis/">http://wt.jrc.it/lt/acquis/</xref>
+        </distributor>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only European Community legislation printed in the paper
+            edition of the Official Journal of the European Union is deemed authentic.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Downloaded from <xref url="http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1578:en:HTML">http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:32001R1578:en:HTML</xref> on <date>2006-02-22</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="eurovoc">1085</classCode>
+        <classCode scheme="eurovoc">1686</classCode>
+        <classCode scheme="eurovoc">2563</classCode>
+        <classCode scheme="eurovoc">2871</classCode>
+        <classCode scheme="eurovoc">3633</classCode>
+        <classCode scheme="eurovoc">4373</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text id="jrc32001R1578-en." lang="en">
+    <body>
+      <head n="1">Commission Regulation (EC) No 1578/2001 of 1 August 2001 determining the sensitive production areas and/or the groups of high-quality varieties exempt from application of the quota buyback programme in raw tobacco</head>
+      <p n="2">Commission Regulation (EC) No 1578/2001</p>
+      <p n="3">of 1 August 2001</p>
+      <p n="4">determining the sensitive production areas and/or the groups of high-quality varieties exempt from application of the quota buyback programme in raw tobacco</p>
+      <p n="5">THE COMMISSION OF THE EUROPEAN COMMUNITIES,</p>
+      <p n="6">Having regard to the Treaty establishing the European Community,</p>
+      <p n="7">Having regard to Council Regulation (EEC) No 2075/92 of 30 June 1992 on the common organisation of the market in raw tobacco(1), as last amended by Regulation (EC) No 1336/2000(2), and in particular Article 14a thereof,</p>
+      <p n="8">Whereas:</p>
+      <p n="9">(1) Under Article 34(2) of Commission Regulation (EC) No 2848/98 of 22 December 1998 laying down detailed rules for the application of Council Regulation (EEC) No 2075/92 as regards the premium scheme, production quotas and the specific aid to be granted to producer groups in the raw tobacco sector(3), as last amended by Regulation (EC) No 1441/2001(4), the Commission must determine, on the basis of proposals from the Member States, which sensitive production areas and/or groups of high-quality varieties, up to a maximum of 25 % of each Member State's guarantee threshold, are to be exempt from application of the quota buyback programme.</p>
+      <p n="10">(2) At the request of some Member States, these groups of high-quality varieties should be determined.</p>
+      <p n="11">(3) Because Article 35(2) of Regulation (EC) No 2848/98 stipulates that the Member State must make public its intention to sell from 1 September so that other producers may buy the quota before it is actually bought back, this Regulation must apply from 31 August 2001.</p>
+      <p n="12">(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Tobacco,</p>
+      <p n="13">HAS ADOPTED THIS REGULATION:</p>
+      <p n="14">Article 1</p>
+      <p n="15">The quantities of groups of high-quality varieties exempt from quota buyback for the 2001 harvest are as follows:</p>
+      <p n="16">in Portugal:</p>
+      <p n="17">&gt;TABLE&gt;</p>
+      <p n="18">in France:</p>
+      <p n="19">&gt;TABLE&gt;</p>
+      <p n="20">Article 2</p>
+      <p n="21">This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.</p>
+      <p n="22">It shall apply from 31 August 2001.</p>
+      <p n="23">This Regulation shall be binding in its entirety and directly applicable in all Member States.</p>
+      <p n="24">Done at Brussels, 1 August 2001.</p>
+      <p n="25">For the Commission</p>
+      <p n="26">Frederik Bolkestein</p>
+      <p n="27">Member of the Commission</p>
+      <p n="28">(1) OJ L 215, 30.7.1992, p. 70.</p>
+      <p n="29">(2) OJ L 154, 27.6.2000, p. 2.</p>
+      <p n="30">(3) OJ L 358, 31.12.1998, p. 17.</p>
+      <p n="31">(4) OJ L 193, 17.7.2001, p. 5.</p>
+    </body>
+  </text>
+</TEI.2>
