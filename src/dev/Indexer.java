@@ -24,7 +24,6 @@ public class Indexer {
     private static int curFileId = 0;
 
     public static void main(String[] args) {
-        long start = System.currentTimeMillis();
         File rootDir = new File(DATA_PATH);
         List<FileWrapper> files = buildXmlFileList(rootDir);
         try {
@@ -37,12 +36,11 @@ public class Indexer {
                 tokens += fileWrapper.buildTokens(builder, index);
             }
             System.out.println("Tokens : " + tokens + "; Terms : " + index.size());
-            serializeIndex(CACHE_PATH, index);
-
+            System.out.println("Serializing objects...");
+            serializeIndex(CACHE_PATH, index, files);
         } catch (ParserConfigurationException e) {
             e.printStackTrace();
         }
-        System.out.println(System.currentTimeMillis() - start);
     }
 
     private static List<FileWrapper> buildXmlFileList(@NotNull File file) {
@@ -59,14 +57,15 @@ public class Indexer {
         return resultList;
     }
 
-    public static void serializeIndex(String path, Map<String, List<FileWrapper>> index) {
+    public static void serializeIndex(String path, Map<String, List<FileWrapper>> index, List<FileWrapper> files) {
         try {
             FileOutputStream fos = new FileOutputStream(path);
             ObjectOutputStream oos = new ObjectOutputStream(fos);
             oos.writeObject(index);
+            oos.writeObject(files);
             oos.close();
             fos.close();
-            System.out.println("Serialized HashMap data is saved in " + path);
+            System.out.println("Serialized data is saved in " + path);
         } catch (IOException ioe) {
             ioe.printStackTrace();
         }
@@ -78,8 +77,10 @@ public class Indexer {
             FileInputStream fis = new FileInputStream(path);
             ObjectInputStream ois = new ObjectInputStream(fis);
             indexWrapper.setIndex((HashMap) ois.readObject());
+            indexWrapper.setFiles((List) ois.readObject());
             ois.close();
             fis.close();
+            System.out.println("Done deserializing");
         } catch (IOException ioe) {
             ioe.printStackTrace();
         } catch (ClassNotFoundException c) {

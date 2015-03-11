@@ -9,6 +9,7 @@ import java.util.Map;
  */
 public class IndexWrapper {
     private Map<String, List<FileWrapper>> index;
+    private List<FileWrapper> files;
 
     public IndexWrapper() {
     }
@@ -21,4 +22,11 @@ public class IndexWrapper {
         return index;
     }
 
+    public List<FileWrapper> getFiles() {
+        return files;
+    }
+
+    public void setFiles(List<FileWrapper> files) {
+        this.files = files;
+    }
 }
