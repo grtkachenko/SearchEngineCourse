@@ -24,7 +24,11 @@ public class Indexer {
     private static int curFileId = 0;
 
     public static void main(String[] args) {
-        File rootDir = new File(DATA_PATH);
+        if (args.length == 0) {
+            System.out.println("Not enough arguments");
+            return;
+        }
+        File rootDir = new File(args[0]);
         List<FileWrapper> files = buildXmlFileList(rootDir);
         try {
             DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
