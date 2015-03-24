@@ -38,8 +38,14 @@ To run indexer you just have to execute one-line command
 ./gradlew runIndexer -PappArgs="['/path/to/data']"
 ```
 
-The same thing for searcher
+The same thing for searcher. You can use standart boolean operators (not = '~', and = '&&', or = '||') and parenthesis 
 
 ```
-./gradlew runSearcher -PappArgs="['NOT relevant AND Caesar OR immediately']"
+./gradlew runSearcher -PappArgs="['(~~true) && false && ~ (value || geographical)']"
+```
+
+Another option is to build an executable and run it afterwards (the same for Searcher and Indexer) 
+```
+./gradlew buildSearcher 
+./build/install/SearchEngineCourse/bin/SearchEngineCourse '(~~true) && false && ~ (value || geographical)'
 ```
