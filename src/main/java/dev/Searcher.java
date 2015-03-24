@@ -8,6 +8,8 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * User: gtkachenko
@@ -46,28 +48,29 @@ public class Searcher {
                 break;
             }
             boolean fileNamePrinted = false;
+
             for (String curLine : fileWrapper.getSnippets(builder)) {
                 Iterator<String> it = result.okTokens.iterator();
                 while (it.hasNext()) {
                     String curToken = it.next().toLowerCase();
-                    for (String curLineToken : curLine.split("[^\\w]+")) {
-                        if (curLineToken.toLowerCase().equals(curToken)) {
-                            if (!fileNamePrinted) {
-                                System.out.println("\033[0;33m" + fileWrapper.getAbsolutePath() + "\033[0;0m");
-                                fileNamePrinted = true;
-                            }
-                            int index = curLine.toLowerCase().indexOf(curToken);
-                            StringBuilder stringBuilder = new StringBuilder();
-                            stringBuilder.append(curLine.substring(0, index));
-                            stringBuilder.append("\033[0;4m");
-                            stringBuilder.append("\033[0;32m");
-                            stringBuilder.append(curLine.substring(index, index + curToken.length()));
-                            stringBuilder.append("\033[0;0m");
-                            stringBuilder.append(curLine.substring(index + curToken.length()));
-                            System.out.println(stringBuilder.toString());
-                            it.remove();
-                            break;
+                    Pattern tokenPattern = Pattern.compile("\\W(" + curToken + ")\\W", Pattern.CASE_INSENSITIVE);
+                    Matcher matcher = tokenPattern.matcher(curLine);
+
+                    if (matcher.find()) {
+                        if (!fileNamePrinted) {
+                            System.out.println("\033[0;33m" + fileWrapper.getAbsolutePath() + "\033[0;0m");
+                            fileNamePrinted = true;
                         }
+                        int index = Character.isLetter(curLine.charAt(matcher.start())) ? matcher.start() : matcher.start() + 1;
+                        StringBuilder stringBuilder = new StringBuilder();
+                        stringBuilder.append(curLine.substring(0, index));
+                        stringBuilder.append("\033[0;4m");
+                        stringBuilder.append("\033[0;32m");
+                        stringBuilder.append(curLine.substring(index, index + curToken.length()));
+                        stringBuilder.append("\033[0;0m");
+                        stringBuilder.append(curLine.substring(index + curToken.length()));
+                        System.out.println(stringBuilder.toString());
+                        it.remove();
                     }
                 }
             }
@@ -114,7 +117,7 @@ public class Searcher {
                     balance--;
                     break;
                 default:
-                    if (balance == 0 && input.charAt(i) == 'O' && i + 1 < input.length() && input.charAt(i + 1) == 'R') {
+                    if (balance == 0 && input.charAt(i) == '|' && i + 1 < input.length() && input.charAt(i + 1) == '|') {
                         DocumentResult resLeft = getDocuments(input.substring(0, i));
                         DocumentResult resRight = getDocuments(input.substring(i + 2));
                         resLeft.okTokens.addAll(resRight.okTokens);
@@ -150,9 +153,9 @@ public class Searcher {
                     balance--;
                     break;
                 default:
-                    if (balance == 0 && input.charAt(i) == 'A' && i + 2 < input.length() && input.charAt(i + 1) == 'N' && input.charAt(i + 2) == 'D') {
+                    if (balance == 0 && input.charAt(i) == '&' && i + 1 < input.length() && input.charAt(i + 1) == '&') {
                         DocumentResult resLeft = getDocuments(input.substring(0, i));
-                        DocumentResult resRight = getDocuments(input.substring(i + 3));
+                        DocumentResult resRight = getDocuments(input.substring(i + 2));
                         resLeft.okTokens.addAll(resRight.okTokens);
                         resLeft.badTokens.addAll(resRight.badTokens);
                         resRight.okTokens = resLeft.okTokens;
@@ -176,8 +179,8 @@ public class Searcher {
         }
 
         // Handling NOT
-        if (input.length() >= 3 && "NOT".equals(input.substring(0, 3))) {
-            DocumentResult result = getDocuments(input.substring(3));
+        if (input.length() >= 1 && '~' == input.charAt(0)) {
+            DocumentResult result = getDocuments(input.substring(1));
             return checkIfEmptyResult(new DocumentResult(result.fileWrappers, !result.needInverse, result.badTokens, result.okTokens));
         }
 
