@@ -35,7 +35,7 @@ gradle wrapper
 To run indexer you just have to execute one-line command
 
 ```
-./gradlew runIndexer -PappArgs="['/Users/gtkachenko/Programming/Common/SearchEngineCourse/data']"
+./gradlew runIndexer -PappArgs="['/path/to/data']"
 ```
 
 The same thing for searcher
