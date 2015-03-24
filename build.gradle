@@ -1,0 +1,38 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+version = '1.0'
+
+run {
+    if ( project.hasProperty("appArgs") ) {
+        args Eval.me(appArgs)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+task initSearcher << {
+    mainClassName = 'dev.Searcher'
+    println "Set mainClassName to Searcher.java"
+}
+
+task initIndexer << {
+    mainClassName = 'dev.Indexer'
+    println "Set mainClassName to Indexer.java"
+}
+
+task runSearcher(dependsOn: [initSearcher, run]) << {}
+task runIndexer(dependsOn: [initIndexer, run]) << {}
+task buildSearcher(dependsOn: [initSearcher, installApp]) << {}
+task buildIndexer(dependsOn: [initIndexer, installApp]) << {}
+run.shouldRunAfter initSearcher
+run.shouldRunAfter initIndexer
+installApp.shouldRunAfter initSearcher
+installApp.shouldRunAfter initIndexer
+
+dependencies {
+    compile 'com.intellij:annotations:+@jar'
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}
